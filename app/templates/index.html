@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="#">
+    <title>Get Coordinates Flask App</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+
+<script>
+    function manipulate_data() {
+        var address = $('#address').val();
+        $.ajax({
+            url: "/userinput",
+            type: "POST",
+            data: { address: address }
+        }).done(function (response) {
+            var html = "<br><br><br><p> <b> Here is the output: <p>";
+            response = response.result;
+            lat = response.latitude
+            long = response.longitude
+            tract = response.tract
+            console.log(response)
+            html += "<p> Latitude: " + lat + "<p><br>"
+            html += "<p> Longitude: " + long + "<p><br>"
+            html += "<p> Census Tract: " + tract + "<p><br>"
+            $(".show-data").append(html);
+        });
+    };
+</script>
+
+<body>
+    <h1>Let's Get Some Coordinates!</h1>
+    <p>
+        Please enter your address: <input type="text" id="address" name="address"> <br>
+        <button id="clicked" onclick="manipulate_data()">Submit</button>
+    </p>
+    <div class="show-data">
+    </div>
+</body>
+
+</html>
