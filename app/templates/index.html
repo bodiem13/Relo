@@ -83,7 +83,7 @@
         }
 
         input[type="text"]::placeholder {
-            color: #00B4CC;
+            color: #ccf0f4;
         }
 
         #s-cover {
@@ -190,10 +190,35 @@
             box-shadow: 0 10px 20px -5px rgba(0, 180, 204, 0.86);
             z-index: 125;
         }
+
+        .no-js #loader {
+            display: none;
+        }
+
+        .js #loader {
+            display: block;
+            position: absolute;
+            left: 100px;
+            top: 0;
+        }
+
+        .se-pre-con {
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: url(https://smallenvelop.com/wp-content/uploads/2014/08/Preloader_11.gif) center no-repeat #fff;
+        }
     </style>
 </head>
 
 <script>
+    $(window).on('load', (function () {
+        $(".se-pre-con").fadeOut();
+    }));
+
     function manipulate_data() {
         var address = $('#address').val();
         $.ajax({
@@ -216,33 +241,38 @@
 </script>
 
 <body>
+    <div class="se-pre-con"></div>
     <div style="text-align: center;">
-        <h1>Welcome to Relo: Making Relocation Easy</h1>
+        <h1>Relo: Relocation Made Easy</h1>
     </div>
     <img src="https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg"
         alt="city">
 
     <p>
     <div id="cover">
-        <form method="get" action="">
-            <div class="tb">
-                <div class="td"><input type="text" id="address" name="address" placeholder="Enter an address" required>
-                </div>
-                <div class="td" id="s-cover">
-                    <button type="submit" id="clicked" onclick="manipulate_data()">
-                        <div id="s-circle"></div>
-                        <span></span>
-                    </button>
-                </div>
+        <div class="tb">
+            <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>
             </div>
-        </form>
+            <div class="td" id="s-cover">
+                <button type="submit" id="clicked" onclick="manipulate_data()">
+                    <div id="s-circle"></div>
+                    <span></span>
+                </button>
+            </div>
+        </div>
     </div>
 
     <!--Please enter your address: <input type="text" id="address" name="address"> <br>
     <button id="clicked" onclick="manipulate_data()">Submit</button> -->
     </p>
-    <div class="show-data">test text
+    <div class="se-pre-con"></div>
+    <div class="show-data"></div>
+
+    <!--<div class="show-data"> -->
+
     </div>
 </body>
+
+
 
 </html>
