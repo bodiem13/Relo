@@ -9,13 +9,14 @@ from geopy.geocoders import Nominatim
 import censusgeocode as cg
 
 app = Flask(__name__)
-
+address = str()
 # function can be used to get latitude longitude from address instead of returning address
 def get_user_input(address):
     return address
 
 
 def get_coordinates(address):
+    address = address
     geolocator = Nominatim(user_agent="my_application")
     loc = geolocator.geocode(str(address))
     print(loc.address)
@@ -36,13 +37,15 @@ def get_tract(coordinates):
 
 
 @app.route("/")
-def hello():
+def render_index():
     return render_template("index.html")
 
 
-@app.route("/<name>")
-def hello_name(name):
-    return "Hello {}!".format(name)
+@app.route("/result")
+def render_result():
+    "Hello {}!".format("Mike")
+
+    return render_template("result.html")
 
 
 @app.route("/userinput", methods=["GET", "POST"])
