@@ -2,3 +2,9 @@ numpy
 pandas
 plotly
 geopandas
+geopy.geocoders
+Flask
+render_template
+request
+jsonify
+censusgeocode
