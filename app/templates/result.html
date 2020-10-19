@@ -8,8 +8,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <style>
         img {
+            position: relative;
             width: 60%;
             height: 70%;
+            left: 15px;
+            top: 25px;
+
         }
 
         h1 {
@@ -56,27 +60,23 @@
         }
 
         #cover {
-            position: absolute;
-            top: 50%;
-            left: 0;
-            right: 0;
-            width: 1000px;
-            padding: 35px;
-            margin: -83px auto 0 auto;
+            position: relative;
+            left: 25px;
+            width: 500px;
+            padding: 12px;
             background-color: #00B4CC;
-            border-radius: 20px;
-            box-shadow: 0 10px 40px #00B4CC, 0 0 0 20px #ffffffeb;
-            transform: scale(0.6);
+            border-radius: 16px;
+            box-shadow: 0 3px 12px #00B4CC, 0 0 0 6px #ffffffeb;
         }
 
         form {
-            height: 96px;
+            height: 30px;
         }
 
         input[type="text"] {
             width: 100%;
-            height: 96px;
-            font-size: 60px;
+            height: 30px;
+            font-size: 20px;
             line-height: 1;
         }
 
@@ -92,20 +92,20 @@
         button {
             position: relative;
             display: block;
-            width: 84px;
-            height: 96px;
+            width: 40px;
+            height: 50px;
             cursor: pointer;
         }
 
         #s-circle {
             position: relative;
-            top: -8px;
+            top: -11px;
             left: 0;
-            width: 43px;
-            height: 43px;
+            width: 12px;
+            height: 12px;
             margin-top: 0;
-            border-width: 15px;
-            border: 15px solid #fff;
+            border-width: 5px;
+            border: 5px solid #fff;
             background-color: transparent;
             border-radius: 50%;
             transition: 0.5s ease all;
@@ -113,13 +113,13 @@
 
         button span {
             position: absolute;
-            top: 68px;
-            left: 43px;
+            top: 25px;
+            left: 16px;
             display: block;
-            width: 45px;
-            height: 15px;
+            width: 16px;
+            height: 6px;
             background-color: transparent;
-            border-radius: 10px;
+            border-radius: 5px;
             transform: rotateZ(52deg);
             transition: 0.5s ease all;
         }
@@ -130,45 +130,45 @@
             position: absolute;
             bottom: 0;
             right: 0;
-            width: 45px;
-            height: 15px;
+            width: 16px;
+            height: 5px;
             background-color: #fff;
-            border-radius: 10px;
+            border-radius: 5px;
             transform: rotateZ(0);
             transition: 0.5s ease all;
         }
 
         #s-cover:hover #s-circle {
-            top: -1px;
-            width: 67px;
-            height: 15px;
+            top: -4px;
+            width: 20px;
+            height: 6px;
             border-width: 0;
-            background-color: #fff;
+            background-color: #000000;
             border-radius: 20px;
         }
 
         #s-cover:hover span {
             top: 50%;
-            left: 56px;
-            width: 25px;
-            margin-top: -9px;
+            left: 5px;
+            width: 20px;
+            margin-top: -4px;
             transform: rotateZ(0);
         }
 
         #s-cover:hover button span:before {
-            bottom: 11px;
+            bottom: 7px;
             transform: rotateZ(52deg);
         }
 
         #s-cover:hover button span:after {
-            bottom: -11px;
+            bottom: -7px;
             transform: rotateZ(-52deg);
         }
 
         #s-cover:hover button span:before,
         #s-cover:hover button span:after {
-            right: -6px;
-            width: 40px;
+            right: -2px;
+            width: 15px;
             background-color: #fff;
         }
 
@@ -223,10 +223,8 @@
     <div style="text-align: center;">
         <h1>Relo: Relocation Made Easy</h1>
     </div>
-    <img class="img" src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"
-        alt="map">
-
-    <p>
+    <!--<img class="img" src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"
+        alt="map">-->
     <div id="cover">
         <div class="tb">
             <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>
@@ -241,7 +239,8 @@
             </div>
         </div>
     </div>
-    </p>
+    <img class="img" src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"
+        alt="map">
     <div class="se-pre-con"></div>
 
     </div>
