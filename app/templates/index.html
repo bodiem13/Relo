@@ -7,6 +7,18 @@
     <title>Get Coordinates Flask App</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <style>
+        #logo {
+            height: 150px;
+            width: 360px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #city {
+            position: relative;
+            top: 5px;
+        }
+
         img {
             display: block;
             width: 100%;
@@ -242,13 +254,14 @@
 
 <body>
     <div class="se-pre-con"></div>
-    <div style="text-align: center;">
-        <h1>Relo: Relocation Made Easy</h1>
+    <div style="text-align: center;" id="logo">
+        <img src="static/relo_logo_slogan.png">
     </div>
-    <img src="https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg"
-        alt="city">
+    <!--<img src="https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg" alt="city">-->
 
     <p>
+        <img src="https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg"
+            alt="city" id="city">
     <div id="cover">
         <div class="tb">
             <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>
