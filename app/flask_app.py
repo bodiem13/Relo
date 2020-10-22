@@ -48,6 +48,13 @@ def render_result():
     return render_template("result.html")
 
 
+@app.route("/test")
+def render_t():
+    "Hello {}!".format("Mike")
+
+    return render_template("test.html")
+
+
 @app.route("/userinput", methods=["GET", "POST"])
 def post_user_inputs():
     address = request.form["address"]
