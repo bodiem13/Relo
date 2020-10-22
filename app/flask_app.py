@@ -41,11 +41,11 @@ def render_index():
     return render_template("index.html")
 
 
-@app.route("/result")
+@app.route("/results")
 def render_result():
     "Hello {}!".format("Mike")
 
-    return render_template("result.html")
+    return render_template("test.html")
 
 
 @app.route("/search_results")
@@ -53,6 +53,20 @@ def render_t():
     "Hello {}!".format("Mike")
 
     return render_template("test.html")
+
+
+@app.route("/about")
+def render_about():
+    "Hello {}!".format("Mike")
+
+    return render_template("about.html")
+
+
+@app.route("/home")
+def return_home():
+    "Hello {}!".format("Mike")
+
+    return render_template("index.html")
 
 
 @app.route("/userinput", methods=["GET", "POST"])
