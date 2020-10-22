@@ -8,14 +8,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <style>
         body {
-            background-color: #e6ffe6;
+            background-color: #f1eaea;
             color: #333333;
             font-family: "Helvetica Neue", Helvetica, sans-serif;
             text-align: center;
         }
 
-        h2 {
+        h3 {
             font-size: 2em;
+            font-family: 'Signika', sans-serif;
+            display: inline-block
         }
 
         .container {
@@ -25,7 +27,7 @@
         .top,
         .left,
         .right {
-            background-color: #66d9ff;
+            background-color: #b3acac;
             border: 3px solid #888888;
             overflow: hidden;
         }
@@ -54,8 +56,8 @@
         }
 
         img {
-            display: block;
-            object-fit: cover;
+            max-width: 100%;
+            max-height: 100%;
         }
 
         #logo {
@@ -65,6 +67,10 @@
             margin-right: auto;
             display: block;
             object-fit: cover;
+        }
+
+        #logo img {
+            width: 100%
         }
 
         * {
@@ -139,7 +145,7 @@
             height: 12px;
             margin-top: 0;
             border-width: 5px;
-            border: 5px solid #fff;
+            border: 6px solid #fff;
             background-color: transparent;
             border-radius: 50%;
             transition: 0.5s ease all;
@@ -173,11 +179,11 @@
         }
 
         #s-cover:hover #s-circle {
-            top: -4px;
-            width: 20px;
+            top: -6px;
+            width: 25px;
             height: 6px;
             border-width: 0;
-            background-color: #000000;
+            background-color: #fff;
             border-radius: 20px;
         }
 
@@ -190,19 +196,20 @@
         }
 
         #s-cover:hover button span:before {
-            bottom: 7px;
+            bottom: 13px;
             transform: rotateZ(52deg);
         }
 
         #s-cover:hover button span:after {
-            bottom: -7px;
+            bottom: -2px;
             transform: rotateZ(-52deg);
         }
 
         #s-cover:hover button span:before,
         #s-cover:hover button span:after {
             right: -2px;
-            width: 15px;
+            top: 10;
+            width: 20px;
             background-color: #fff;
         }
 
@@ -243,39 +250,221 @@
             z-index: 9999;
             background: url(https://smallenvelop.com/wp-content/uploads/2014/08/Preloader_11.gif) center no-repeat #fff;
         }
+
+
+
+        .search-result-categories>li>a {
+            color: #b6b6b6;
+            font-weight: 400
+        }
+
+        .search-result-categories>li>a:hover {
+            background-color: #ddd;
+            color: #555
+        }
+
+        .search-result-categories>li>a>.glyphicon {
+            margin-right: 5px
+        }
+
+        .search-result-categories>li>a>.badge {
+            float: right
+        }
+
+        .search-results-count {
+            margin-top: 10px
+        }
+
+        .search-result-item {
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 4px
+        }
+
+        .search-result-item:after,
+        .search-result-item:before {
+            content: " ";
+            display: table
+        }
+
+        .search-result-item:after {
+            clear: both
+        }
+
+        .search-result-item .image-link {
+            display: block;
+            overflow: hidden;
+            border-top-left-radius: 4px;
+            border-bottom-left-radius: 4px
+        }
+
+        @media (min-width:768px) {
+            .search-result-item .image-link {
+                display: inline-block;
+                margin: -20px 0 -20px -20px;
+                float: left;
+                width: 200px
+            }
+        }
+
+        @media (max-width:767px) {
+            .search-result-item .image-link {
+                max-height: 200px
+            }
+        }
+
+        .search-result-item .image {
+            max-width: 100%
+        }
+
+        .search-result-item .info {
+            margin-top: 2px;
+            font-size: 12px;
+            color: #999
+        }
+
+        .search-result-item .description {
+            font-size: 13px
+        }
+
+        .search-result-item+.search-result-item {
+            margin-top: 20px
+        }
+
+        @media (min-width:768px) {
+            .search-result-item-body {
+                margin-left: 200px
+            }
+        }
+
+        .search-result-item-heading {
+            font-weight: 400
+        }
+
+        .search-result-item-heading>a {
+            color: #555
+        }
+
+        @media (min-width:768px) {
+            .search-result-item-heading {
+                margin: 0
+            }
+        }
+
+        a.button3 {
+            display: inline-block;
+            padding: 0.3em 1.2em;
+            margin: 0 0.3em 0.3em 0;
+            border-radius: 2em;
+            box-sizing: border-box;
+            text-decoration: none;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            color: #FFFFFF;
+            background-color: #00B4CC;
+            text-align: center;
+            transition: all 0.2s;
+        }
+
+        a.button3:hover {
+            background-color: #00B4CC;
+        }
     </style>
 </head>
 
 <body>
     <div style="text-align: center;" id="logo">
-        <img src="static/relo_logo.png">
+        <img src="static/relo_logo_slogan.png">
+    </div>
+    <div id="cover">
+        <div class="tb">
+            <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>
+            </div>
+            <div class="td" id="s-cover">
+                <form action="search_results">
+                    <button type="submit" id="clicked" onclick="manipulate_data()">
+                        <div id="s-circle"></div>
+                        <span></span>
+                    </button>
+                </form>
+            </div>
+        </div>
     </div>
     <div class="container">
         <div class="left">
-            <div id="cover">
-                <div class="tb">
-                    <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here"
-                            required>
-                    </div>
-                    <div class="td" id="s-cover">
-                        <form action="result">
-                            <button type="submit" id="clicked" onclick="manipulate_data()">
-                                <div id="s-circle"></div>
-                                <span></span>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-            </div><img
-                src="https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg"
+
+            <img src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"
                 alt="city">
         </div>
         <div class="right">
-            <h2> Hey this is a test!% </h2>
+            <div class="row ng-scope">
+                <div class="col-md-9 col-md-pull-3">
+                    <h3>Top 3 Search Results</h3>
+                    <section class="search-result-item">
+                        <a class="image-link" href="#"><img class="image"
+                                src="https://patch.com/img/cdn20/users/22949620/20181121/100709/styles/raw/public/processed_images/southern_san_francisco_california_shutterstock_1114955372-1542812813-8441.jpg">
+                        </a>
+                        <div class="search-result-item-body">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <h4 class="search-result-item-heading"><a href="#">San Francisco</a></h4>
+                                    <p class="info">San Francisco, CA</p>
+                                    <p class="description">Home of the Giants, 49ers, Warriors, and the famous
+                                        Golden
+                                        Gate Bridge!</p>
+                                </div>
+                                <div class="col-sm-3 text-align-center">
+                                    <p class="value3 mt-sm">The Golden Gate City</p>
+                                    <p class="fs-mini text-muted"></p><a href="something" class="button3">View in
+                                        Map</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="search-result-item">
+                        <a class="image-link" href="#"><img class="image"
+                                src="https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fplaces%2Fseattle-wa_416x416.jpg">
+                        </a>
+                        <div class="search-result-item-body">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <h4 class="search-result-item-heading"><a href="#">Seattle</a> <span
+                                            class="badge bg-danger fw-normal pull-right"></span></h4>
+                                    <p class="info">Seattle, WA</p>
+                                    <p class="description">Home of the Seahawks and the famous Space Needle.</p>
+                                </div>
+                                <div class="col-sm-3 text-align-center">
+                                    <p class="value3 mt-sm">The Emerald City</p>
+                                    <p class="fs-mini text-muted"></p><a href="something" class="button3">View in
+                                        Map</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="search-result-item">
+                        <a class="image-link" href="#"><img class="image"
+                                src="https://www.newhomesource.com/learn/wp-content/uploads/2020/09/chicago-downtown.jpg">
+                        </a>
+                        <div class="search-result-item-body">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <h4 class="search-result-item-heading"><a href="#">Chicago</a></h4>
+                                    <p class="info">Chicago, IL</p>
+                                    <p class="description">Home of the Chicago Cubs, Bears, and Blackhawks</p>
+                                </div>
+                                <div class="col-sm-3 text-align-center">
+                                    <p class="value3 mt-sm">The Windy City</p>
+                                    <p class="fs-mini text-muted"></p><a href="something" class="button3">View in
+                                        Map</a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
         </div>
 
     </div>
-
 </body>
 
 

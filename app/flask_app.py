@@ -48,7 +48,7 @@ def render_result():
     return render_template("result.html")
 
 
-@app.route("/test")
+@app.route("/search_results")
 def render_t():
     "Hello {}!".format("Mike")
 
