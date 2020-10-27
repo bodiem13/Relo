@@ -8,6 +8,8 @@ from flask import Flask, render_template, request, jsonify
 from geopy.geocoders import Nominatim
 import censusgeocode as cg
 
+import clustervis
+
 app = Flask(__name__)
 address = str()
 # function can be used to get latitude longitude from address instead of returning address
@@ -43,16 +45,44 @@ def render_index():
 
 @app.route("/results")
 def render_result():
-    "Hello {}!".format("Mike")
+    print("Hello {}!".format("Mike"))
 
     return render_template("test.html")
 
 
 @app.route("/search_results")
 def render_t():
-    "Hello {}!".format("Mike")
+    print("Hello {}!".format("Mike"))
 
-    return render_template("test.html")
+   # create figure
+    fig = clustervis.create_figure(
+        geoid=10003014702,
+        lat=39.6536026,
+        lon=-75.7418482
+    )
+    
+    # figure to json
+    figJSON = fig.to_json()
+
+    # create top 3 location maps
+    figJSON1 = clustervis.update_map(fig, zoom=11, lat=39.6536026, lon=-75.7418482).to_json()
+    figJSON2 = clustervis.update_map(fig, zoom=9, lat=50.1, lon=-75.7418482).to_json()
+    figJSON3 = clustervis.update_map(fig, zoom=8, lat=55.1, lon=-72.2).to_json()
+
+    # CREATE 4 versions of the figure:
+    # 1. Full map with pins
+    # 2-4. Zoomed in on each of top 3 picks.
+    # pass all to flask. show 1 by default. bind the other 3 to buttons.
+
+    return render_template('test.html',
+                           divID='mymap',
+                           figJSON=figJSON,
+                           figJSON1=figJSON1,
+                           figJSON2=figJSON2,
+                           figJSON3=figJSON3,
+                           )
+
+    #return render_template("test.html")
 
 
 @app.route("/about")
