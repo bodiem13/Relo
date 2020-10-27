@@ -29,6 +29,12 @@ with gzip.GzipFile(CENSUS_GEOM_PATH, 'r') as f:
 GPDF = gp.GeoDataFrame.from_features(TRACT_ALL['features'])
 print(GPDF.GEOID.values)
 ################################################################################
+mapboxt = open(".mapbox_token").read().rstrip()
+####
+DEV_MAP=True
+####
+
+
 
 def geoid_to_cluster(geoid, lat, lon):
     '''
@@ -59,16 +65,29 @@ def geoid_to_cluster(geoid, lat, lon):
 
 
 def create_figure(geoid, lat, lon):
+    n_top = 3
+    geoid = 42003451102
+    lat = 40.5218403
+    lon = -80.1969462
+
     # find the cluster associated with the given geoid
     cluster = geoid_to_cluster(geoid=geoid, lat=lat, lon=lon)
 
     # subset df to chosen cluster
     df_subset = CLUSTER_DF[CLUSTER_DF.cluster==cluster]
-    
+
     ### FIX ME - need to add rank prior to this function
-    df_subset['ranking'] = list(range(0, len(df_subset)))
+    import random
+    rankings_ = list(range(1, len(df_subset)+1))
+    random.shuffle(rankings_)
+    df_subset.loc[:, 'ranking'] = rankings_
     ###
-    
+
+    # Filter to highest rank
+    df_subset_top = df_subset[df_subset.ranking<=n_top]
+    df_subset_other = df_subset[df_subset.ranking>n_top]
+
+
     # subset the geopandas dataframe to geoids that match with the current clusters
     gpdf_subset = GPDF[GPDF.GEOID.astype(int).isin(df_subset.GEOID.astype(int))]
     # convert the filtered geopandas dataframe to geojson
@@ -91,36 +110,117 @@ def create_figure(geoid, lat, lon):
         z=df_subset.ranking,
         zmin=df_subset.ranking.min(),
         zmax=df_subset.ranking.max(),
-        colorscale="blues",
+        colorscale=[[0, 'rgb(47, 158, 168)'], [1,'rgb(47, 158, 168)']],
         showscale=False, # True for color bar scale
         # opacity and line width
-        marker_opacity=.6,
+        marker_opacity=.3,
         marker_line_width=1,
         # hover text
         text=df_subset.NAME,
         )
     )
-    
-    # add a map layer
-    fig.update_layout(mapbox_style="open-street-map",
-                      mapbox_zoom=3, mapbox_center = {"lat": 37.0902, "lon": -95.7129})
+
+
     # add a 0 margin
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-    # add tract points- this makes it easier to find matches when zoomed out
+
+
+    # add top tract points- this makes it easier to find matches when zoomed out
     fig = fig.add_scattermapbox(
-        lat=df_subset['INTPTLAT'],
-        lon=df_subset['INTPTLONG'],
-        marker={'size': 5,
-                'color': 'darkblue',
-                'opacity':0.8,
-                #'line': {'width': 2, 'color': 'DarkSlateGrey'}
+        mode='markers+text',
+        lat=df_subset_top['INTPTLAT'],
+        lon=df_subset_top['INTPTLONG'],
+        marker={'size': 25,
+                'symbol': 'circle',
+                'color': 'yellow',
+                'opacity':.8,
+                'allowoverlap': True,
                },
-        hoverinfo='none',
-        below='choro',
+        text=['{}'.format(x) for x in df_subset_top.ranking.values.tolist()],
+        hovertemplate='Rank: %{text}<extra></extra>',
+        showlegend=False,
+        below="''",
     )
 
-    return fig
+    # Font style
+    fig.update_layout(
+        font=dict(
+            family="Courier New, monospace",
+            size=25,
+            color="Black"
+        )
+    )
 
+
+    # add all tract points not in top, make them smaller
+    fig = fig.add_scattermapbox(
+        mode='markers',
+        lat=df_subset_other['INTPTLAT'],
+        lon=df_subset_other['INTPTLONG'],
+        marker={'size': 10,
+                'symbol': 'circle',
+                'color': 'lightblue',
+                'opacity':0.3,
+                'allowoverlap': True,
+               },
+        text=list(map(str, df_subset_other.ranking.values.tolist())),
+        hoverinfo='text',
+        hovertemplate='Rank: %{text}<extra></extra>',
+        #hovertext=list(map(str, df_subset_other.ranking.values.tolist())),
+        showlegend=False,
+        #hoverinfo='none',
+        below=0,
+    )
+
+    if not DEV_MAP:
+        # add a map layer
+        fig.update_layout(
+            #mapbox_style="open-street-map",
+            #mapbox_style='carto-positron',
+            mapbox=dict(
+                bearing=0,
+                center=dict(
+                    lat=38,
+                    lon=-94
+                ),
+                pitch=0,
+                zoom=3,
+                accesstoken=mapboxt,
+                #style='open-street-map',
+                style='light',
+                #style='satellite-streets',
+            ),
+            showlegend=False
+        )
+    else:
+        # add a map layer
+        fig.update_layout(
+            #mapbox_style="open-street-map",
+            #mapbox_style='carto-positron',
+            mapbox=dict(
+                bearing=0,
+                center=dict(
+                    lat=38,
+                    lon=-94
+                ),
+                pitch=0,
+                zoom=3,
+                #accesstoken=mapboxt,
+                style='carto-positron',
+                #style='light',
+                #style='satellite-streets',
+            ),
+            showlegend=False
+        )
+
+    import copy
+    zoom_figures = []
+    for idx, row in df_subset_top.sort_values('ranking').iterrows():
+        zoom_figures.append(
+            update_map(copy.deepcopy(fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
+        )
+
+    return fig, zoom_figures
 
 def update_map(fig, zoom, lat=None, lon=None):
     '''

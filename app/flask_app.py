@@ -54,8 +54,8 @@ def render_result():
 def render_t():
     print("Hello {}!".format("Mike"))
 
-   # create figure
-    fig = clustervis.create_figure(
+    # create figure + zoomed-in top figures
+    fig, zoom_figures = clustervis.create_figure(
         geoid=10003014702,
         lat=39.6536026,
         lon=-75.7418482
@@ -65,14 +65,10 @@ def render_t():
     figJSON = fig.to_json()
 
     # create top 3 location maps
-    figJSON1 = clustervis.update_map(fig, zoom=11, lat=39.6536026, lon=-75.7418482).to_json()
-    figJSON2 = clustervis.update_map(fig, zoom=9, lat=50.1, lon=-75.7418482).to_json()
-    figJSON3 = clustervis.update_map(fig, zoom=8, lat=55.1, lon=-72.2).to_json()
-
-    # CREATE 4 versions of the figure:
-    # 1. Full map with pins
-    # 2-4. Zoomed in on each of top 3 picks.
-    # pass all to flask. show 1 by default. bind the other 3 to buttons.
+    figJSON1 = zoom_figures[0].to_json()
+    figJSON2 = zoom_figures[1].to_json()
+    figJSON3 = zoom_figures[2].to_json()
+    
 
     return render_template('test.html',
                            divID='mymap',
