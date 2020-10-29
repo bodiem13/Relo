@@ -32,6 +32,7 @@ print(GPDF.GEOID.values)
 mapboxt = open(".mapbox_token").read().rstrip()
 ####
 DEV_MAP=True
+DEV_IGNORE_CLUSTER_MATCHING=True
 ####
 
 
@@ -71,7 +72,11 @@ def create_figure(geoid, lat, lon):
     lon = -80.1969462
 
     # find the cluster associated with the given geoid
-    cluster = geoid_to_cluster(geoid=geoid, lat=lat, lon=lon)
+    if not DEV_IGNORE_CLUSTER_MATCHING:
+        cluster = geoid_to_cluster(geoid=geoid, lat=lat, lon=lon)
+    else:
+        print('WARNING: Dev mode enabled for cluster matching')
+        cluster = 42
 
     # subset df to chosen cluster
     df_subset = CLUSTER_DF[CLUSTER_DF.cluster==cluster]
