@@ -54,28 +54,25 @@ def render_result():
 def render_t():
     print("Hello {}!".format("Mike"))
 
-    # create figure + zoomed-in top figures
-    fig, zoom_figures = clustervis.create_figure(
-        geoid=10003014702,
-        lat=39.6536026,
-        lon=-75.7418482
-    )
+    
+    cvis = clustervis.ClusterVis(geoid=42003451102, n_top=3)
+    overview, zoom_figures = cvis.create_figures()
     
     # figure to json
-    figJSON = fig.to_json()
+    fig0 = overview.to_json()
 
     # create top 3 location maps
-    figJSON1 = zoom_figures[0].to_json()
-    figJSON2 = zoom_figures[1].to_json()
-    figJSON3 = zoom_figures[2].to_json()
+    fig1 = zoom_figures[0].to_json()
+    fig2 = zoom_figures[1].to_json()
+    fig3 = zoom_figures[2].to_json()
     
 
     return render_template('test.html',
                            divID='mymap',
-                           figJSON=figJSON,
-                           figJSON1=figJSON1,
-                           figJSON2=figJSON2,
-                           figJSON3=figJSON3,
+                           fig0=fig0,
+                           fig1=fig1,
+                           fig2=fig2,
+                           fig3=fig3,
                            )
 
     #return render_template("test.html")
