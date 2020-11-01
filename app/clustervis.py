@@ -17,7 +17,7 @@ pd.options.mode.chained_assignment = None  # default='warn'
 # OPTIONS
 mapboxt = open(".mapbox_token").read().rstrip()
 ####
-DEV_MAP=False#True
+DEV_MAP=True
 DEV_IGNORE_CLUSTER_MATCHING=False
 AMENITIES_DRAW_DISTANCE = 10 # 2, 5, 10, 25, or 50 miles
 ####
