@@ -55,7 +55,7 @@ def render_t():
     print("Hello {}!".format("Mike"))
 
     
-    cvis = clustervis.ClusterVis(geoid=42003451102, n_top=3)
+    cvis = clustervis.ClusterVis(geoid=42003451102, lat=40.5218403, lon=-80.1969462, n_top=3)
     overview, zoom_figures = cvis.create_figures()
     
     # figure to json
@@ -67,15 +67,14 @@ def render_t():
     fig3 = zoom_figures[2].to_json()
     
 
-    return render_template('test.html',
-                           divID='mymap',
-                           fig0=fig0,
-                           fig1=fig1,
-                           fig2=fig2,
-                           fig3=fig3,
-                           )
+    return render_template(
+        'test.html',
+        fig0=fig0,
+        fig1=fig1,
+        fig2=fig2,
+        fig3=fig3,
+    )
 
-    #return render_template("test.html")
 
 
 @app.route("/about")
@@ -105,6 +104,7 @@ def post_user_inputs():
 
     # this line may be repetitive but was needed to get the results into HTML initially. Have not tried to remove yet.
     result = {str(key): value for key, value in result.items()}
+    print(result)
     return jsonify(result=result)
 
 

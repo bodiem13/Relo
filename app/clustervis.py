@@ -1,3 +1,4 @@
+import time
 import gzip
 import json
 import copy
@@ -7,6 +8,9 @@ import plotly.graph_objects as go
 import geopandas as gp
 import pandas as pd
 import numpy as np
+import scipy.spatial as spatial
+
+pd.options.mode.chained_assignment = None  # default='warn'
 
 
 ################################################################################
@@ -20,7 +24,17 @@ import numpy as np
 
 CLUSTER_DF_PATH = '../data/sample/cluster_test_data_all_clusters_300.csv'
 CENSUS_GEOM_PATH = '../data/shape_data/all_census_tract_shapes.json.gz'
+GAZ_PATH = '../data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl'
 
+
+mapboxt = open(".mapbox_token").read().rstrip()
+####
+DEV_MAP=True
+DEV_IGNORE_CLUSTER_MATCHING=False
+####
+
+start = time.time()
+print('Loading clustervis.py module-level globals (this may take a moment)')
 # read cluster data
 CLUSTER_DF = pd.read_csv(CLUSTER_DF_PATH)
 
@@ -28,15 +42,22 @@ CLUSTER_DF = pd.read_csv(CLUSTER_DF_PATH)
 with gzip.GzipFile(CENSUS_GEOM_PATH, 'r') as f:
     TRACT_ALL = json.loads(f.read().decode('utf-8'))
 GPDF = gp.GeoDataFrame.from_features(TRACT_ALL['features'])
-print(GPDF.GEOID.values)
 ################################################################################
-mapboxt = open(".mapbox_token").read().rstrip()
-####
-DEV_MAP=True
-DEV_IGNORE_CLUSTER_MATCHING=True
-####
 
+# Read Gaz data. Create kd-tree of points in order to find nearest cluster
+# when exact geoid match cannot be found.
+GAZ = pd.read_pickle(GAZ_PATH)
+GAZ.columns = [x.strip() for x in GAZ.columns]
+points = []
+for i, row in GAZ.iterrows():
+    points.append([row.INTPTLAT, row.INTPTLONG])
+points = np.array(points)
+CLUSTER_POINT_TREE = spatial.cKDTree(points)
 
+print('Done. {} seconds to load.'.format(round(time.time()-start, 2)))
+################################################################################
+################################################################################
+################################################################################
 
 def geoid_to_cluster(geoid, lat, lon):
     '''
@@ -47,6 +68,7 @@ def geoid_to_cluster(geoid, lat, lon):
     Failing that, use the latitude and longitude to locate the nearest census
     tract
     '''
+
     # Ideal case, where we match a geoid
     attempt_1 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==int(geoid)]
     if attempt_1.shape[0] > 0:
@@ -63,11 +85,20 @@ def geoid_to_cluster(geoid, lat, lon):
         return attempt_2['cluster'].values[0]    
 
     # find nearest cluster via lat/long
-    raise NotImplementedError('Need to implement nearest census tract code.')
-
+    #raise NotImplementedError('Need to implement nearest census tract code.')
+    closest_point = CLUSTER_POINT_TREE.query([lat, lon], 1)
+    closest_point_index = closest_point[1]
+    geoid_match = int(GAZ.iloc[closest_point_index].GEOID)
+    attempt_3 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==geoid_match]
+    if attempt_3.shape[0] > 0:
+        if attempt_2.shape[0] > 1: # this should not happen
+            print('POSSIBLE ERROR:::Multiple Matching Clusters')
+        return attempt_3['cluster'].values[0]
+        
+################################################################################        
 
 class ClusterVis:
-    def __init__(self, geoid=42003451102, n_top=3):
+    def __init__(self, geoid=42003451102, lat=40.5218403, lon=-80.1969462, n_top=3):
         try:
             self.geoid = int(geoid)
             self.n_top = int(n_top)
@@ -77,15 +108,12 @@ class ClusterVis:
         self.fig = None
         self.zoom_figures = []
         
-        ### TESTING
-        self.lat = 40.5218403
-        self.lon = -80.1969462
-        
-        if not DEV_IGNORE_CLUSTER_MATCHING:
-            self.cluster = geoid_to_cluster(self.geoid, self.lat, self.lon)
-        else:
-            print('DEV MODE ENABLED. CLUSTER NOT CALCULATED FROM INPUT')
-            self.cluster = 5
+        # lat and lon for fallback closest geoid/cluster matching
+        self.lat = lat
+        self.lon = lon
+
+        # get the cluster        
+        self.cluster = geoid_to_cluster(self.geoid, self.lat, self.lon)
 
         # subset CLUSTER_DF to matching cluster
         self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster]
