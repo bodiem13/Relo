@@ -14,6 +14,15 @@ pd.options.mode.chained_assignment = None  # default='warn'
 
 
 ################################################################################
+# OPTIONS
+mapboxt = open(".mapbox_token").read().rstrip()
+####
+DEV_MAP=False#True
+DEV_IGNORE_CLUSTER_MATCHING=False
+AMENITIES_DRAW_DISTANCE = 10 # 2, 5, 10, 25, or 50 miles
+####
+
+################################################################################
 # Load reference data as module-level globals.
 #
 # CLUSTER_DF = pandas dataframe consisting of clustering/ranking results
@@ -21,29 +30,26 @@ pd.options.mode.chained_assignment = None  # default='warn'
 #
 # This module should be loaded in the background since this may take 5-10 sec
 #
-
 CLUSTER_DF_PATH = '../data/sample/cluster_test_data_all_clusters_300.csv'
 CENSUS_GEOM_PATH = '../data/shape_data/all_census_tract_shapes.json.gz'
 GAZ_PATH = '../data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl'
-
-
-mapboxt = open(".mapbox_token").read().rstrip()
-####
-DEV_MAP=True
-DEV_IGNORE_CLUSTER_MATCHING=False
-####
+AMENITIES_PATH = '../data/amenities/amenities_full.pkl.gz'
 
 start = time.time()
 print('Loading clustervis.py module-level globals (this may take a moment)')
+print('---> Reading cluster output')
 # read cluster data
 CLUSTER_DF = pd.read_csv(CLUSTER_DF_PATH)
+print('------> Done')
 
+print('---> Reading geometry data')
 # read shape data
 with gzip.GzipFile(CENSUS_GEOM_PATH, 'r') as f:
     TRACT_ALL = json.loads(f.read().decode('utf-8'))
 GPDF = gp.GeoDataFrame.from_features(TRACT_ALL['features'])
-################################################################################
+print('------> Done')
 
+print('---> Reading Gaz data and building KD-Tree')
 # Read Gaz data. Create kd-tree of points in order to find nearest cluster
 # when exact geoid match cannot be found.
 GAZ = pd.read_pickle(GAZ_PATH)
@@ -53,6 +59,17 @@ for i, row in GAZ.iterrows():
     points.append([row.INTPTLAT, row.INTPTLONG])
 points = np.array(points)
 CLUSTER_POINT_TREE = spatial.cKDTree(points)
+print('------> Done')
+
+print('---> Reading and preparing amenities data')
+AMENITIES = pd.read_pickle(AMENITIES_PATH, compression='gzip')
+# subset to geoid + the fields that contain indexes of the amenities
+amenity_list_cols = [x for x in AMENITIES.columns if x.startswith('LIST') and\
+                     x.endswith('{}'.format(AMENITIES_DRAW_DISTANCE))]
+cols = ['GEOID'] + amenity_list_cols
+AMENITIES = AMENITIES[cols]
+AMENITY_REFERENCE = {x: pd.read_pickle('../data/amenities/dataframes/{}.pkl'.format(x)) for x in [y.split('_')[1] for y in amenity_list_cols]}
+print('------> Done')
 
 print('Done. {} seconds to load.'.format(round(time.time()-start, 2)))
 ################################################################################
@@ -148,6 +165,8 @@ class ClusterVis:
         # add the 'other' subset of points
         # these have a smaller, different style than the top matches
         self._add_other_points()
+        # draw amenities around top points
+        self._add_amenities()
         # add 'top' subset of points
         self._add_top_points()
         # add map style
@@ -160,6 +179,54 @@ class ClusterVis:
 
         return self.fig, self.zoom_figures
 
+    
+    def _add_amenities(self):
+        # get geoids of top rankings within cluster
+        top_geoids = self.df_subset_top.GEOID.astype(int).values.tolist()
+        # iterate over AMENITIES fields != to geoid
+        # pull out that field (list of indicies corresponding to 
+        # AMENITY_REFERENCE tables). select those indicies (if they exist)
+        # and plot those amenities
+        styling = {
+            'GROCERY': {'color':'orange'},
+            'GYMS': {'color': 'red'},
+        }
+        
+        
+        for col in AMENITIES.columns:
+            if col == 'GEOID':
+                continue
+            
+            name = col.split('_')[1]
+            current_amenity_results = pd.DataFrame()    
+            for gid in top_geoids:
+                am_sub = AMENITIES[AMENITIES.GEOID.astype(int)==gid]
+                # get list of amenity indexes for the current type of amenity `name`
+                amenities_list = am_sub[col].values[0]
+                if amenities_list: # some are empty, so do this check
+                    # do a lookup in AMENITY_REFERENCE to get the lat/lon and other info
+                    amenity_data = AMENITY_REFERENCE[name].iloc[amenities_list]
+                    current_amenity_results = pd.concat([current_amenity_results, amenity_data])
+            print(current_amenity_results)
+            
+            # add the amenity points
+            self.fig = self.fig.add_scattermapbox(
+                uid=name,
+                mode='markers',
+                lat=current_amenity_results['lat_cleaned'],
+                lon=current_amenity_results['lon_cleaned'],
+                marker={'size': 7,
+                        'symbol': 'circle',
+                        'color': styling[name]['color'],
+                        'opacity':0.6,
+                        'allowoverlap': True,
+                       },
+                text=current_amenity_results['name'].values.tolist(),
+                hoverinfo='text',
+                hovertemplate='%{text}<extra></extra>',
+                showlegend=True,
+                #labels=name,
+            )
 
     def _create_initial_map_figure(self):
         # draw the census tracts
