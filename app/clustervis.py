@@ -1,5 +1,6 @@
 import gzip
 import json
+import copy
 import plotly
 import plotly.graph_objects as go
 
@@ -64,19 +65,74 @@ def geoid_to_cluster(geoid, lat, lon):
     # find nearest cluster via lat/long
     raise NotImplementedError('Need to implement nearest census tract code.')
 
+
 class ClusterVis:
     def __init__(self, geoid=42003451102, n_top=3):
         try:
             self.geoid = int(geoid)
+            self.n_top = int(n_top)
         except ValueError:
-            print('Must pass integer-like tail portion of geoid')
+            print('geoid and n_top must be int-like')
         
-        self.n_top = n_top
+        self.fig = None
+        self.zoom_figures = []
         
         ### TESTING
         self.lat = 40.5218403
         self.lon = -80.1969462
         
+        if not DEV_IGNORE_CLUSTER_MATCHING:
+            self.cluster = geoid_to_cluster(self.geoid, self.lat, self.lon)
+        else:
+            print('DEV MODE ENABLED. CLUSTER NOT CALCULATED FROM INPUT')
+            self.cluster = 5
+
+        # subset CLUSTER_DF to matching cluster
+        self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster]
+
+
+        ### FIX ME - need to add rank prior to this function
+        print('WARNING::::STILL NEED TO INTEGRATE RANKING DATA')
+        import random
+        rankings_ = list(range(1, len(self.df_subset)+1))
+        random.shuffle(rankings_)
+        self.df_subset.loc[:, 'ranking'] = rankings_
+        ###
+
+        # get top matches
+        self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top]
+        # get non-top matches
+        self.df_subset_other = self.df_subset[self.df_subset.ranking>self.n_top]
+        # subset geopandas to matching geoids
+        self.gpdf_subset_json = self._prepare_geopandas_subset()
+
+          
+        
+    def create_figures(self):
+        """
+        Create overview figure and figures zoomed on the top matches
+        Methods called in this pipeline should update self.fig
+        """
+        # draw map and census tracts
+        self._create_initial_map_figure()
+        # update figure margin
+        self.fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        # add the 'other' subset of points
+        # these have a smaller, different style than the top matches
+        self._add_other_points()
+        # add 'top' subset of points
+        self._add_top_points()
+        # add map style
+        if not DEV_MAP:
+            self._add_map_style()
+        else:
+            self._add_map_style(dev=True)
+        # generate zoomed-in figures of top matches
+        self._generate_zoomed_figures()
+
+        return self.fig, self.zoom_figures
+
+
     def _create_initial_map_figure(self):
         # draw the census tracts
         self.fig = go.Figure(
@@ -173,31 +229,27 @@ class ClusterVis:
             showlegend=False
         )
 
+    def _generate_zoomed_figures(self):
+        def update_map(fig, zoom, lat=None, lon=None):
+            '''
+            For a given figure fig, update the zoom level.
+            If both lat and lon are also provided, move the camera to that location.
+            '''
+            if not lat or not lon:
+                return fig.update_layout(mapbox_zoom=zoom)
+            else:
+                return fig.update_layout(
+                    mapbox_zoom=zoom,
+                    mapbox_center = {"lat": lat, "lon": lon}
+            )
 
-        
-    def create_figures(self):
-        # find the cluster associated with the given geoid
-        if not DEV_IGNORE_CLUSTER_MATCHING:
-            cluster = geoid_to_cluster(geoid=self.geoid, lat=self.lat, lon=self.lon)
-        else:
-            print('WARNING: Dev mode enabled for cluster matching')
-            cluster = 5
-
-        # subset df to chosen cluster
-        self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==cluster]
-
-        ### FIX ME - need to add rank prior to this function
-        import random
-        rankings_ = list(range(1, len(self.df_subset)+1))
-        random.shuffle(rankings_)
-        self.df_subset.loc[:, 'ranking'] = rankings_
-        ###
-
-        # Filter to highest rank
-        self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top]
-        self.df_subset_other = self.df_subset[self.df_subset.ranking>self.n_top]
+        for idx, row in self.df_subset_top.sort_values('ranking').iterrows():
+            self.zoom_figures.append(
+                update_map(copy.deepcopy(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
+            )
 
 
+    def _prepare_geopandas_subset(self):
         # subset the geopandas dataframe to geoids that match with the current clusters
         gpdf_subset = GPDF[GPDF.GEOID.astype(int).isin(self.df_subset.GEOID.astype(int))]
         # convert the filtered geopandas dataframe to geojson
@@ -207,48 +259,7 @@ class ClusterVis:
             for i, feature in enumerate(json_obj['features']):
                 json_obj['features'][i]['id'] = int(feature['properties']['GEOID'])
             return json_obj
-        self.gpdf_subset_json = update_ids(gpdf_subset_json)
+        return update_ids(gpdf_subset_json)
 
 
-        # draw map and census tracts
-        self._create_initial_map_figure()
-
-        # update figure margin
-        self.fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-
-        # add the 'other' subset of points
-        # these have a smaller, different style than the top matches
-        self._add_other_points()
-        
-        # add 'top' subset of points
-        self._add_top_points()
-
-
-        if not DEV_MAP:
-            self._add_map_style()
-        else:
-            self._add_map_style(dev=True)
-
-
-        import copy
-        self.zoom_figures = []
-        for idx, row in self.df_subset_top.sort_values('ranking').iterrows():
-            self.zoom_figures.append(
-                update_map(copy.deepcopy(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
-            )
-
-        return self.fig, self.zoom_figures
-
-def update_map(fig, zoom, lat=None, lon=None):
-    '''
-    For a given figure fig, update the zoom level.
-    If both lat and lon are also provided, move the camera to that location.
-    '''
-    if not lat or not lon:
-        return fig.update_layout(mapbox_zoom=zoom)
-    else:
-        return fig.update_layout(
-            mapbox_zoom=zoom,
-            mapbox_center = {"lat": lat, "lon": lon}
-        )
 
