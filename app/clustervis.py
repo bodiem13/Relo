@@ -189,7 +189,10 @@ class ClusterVis:
         # and plot those amenities
         styling = {
             'GROCERY': {'color':'orange'},
-            'GYMS': {'color': 'red'},
+            'GYMS': {'color': 'darkblue'},
+            'HARDWARE': {'color': 'brown'},
+            'MEDICAL': {'color':'pink'},
+            'PARKS': {'color': 'green'},
         }
         
         
