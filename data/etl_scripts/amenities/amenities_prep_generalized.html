@@ -17113,7 +17113,7 @@ True
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>35074 of 7305673056 of 73056tracts complete
+<pre>73056 of 73056tracts complete
 
 </pre>
 </div>
@@ -18937,7 +18937,7 @@ MEDICAL
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Output this full table to a file. This is rather large. It is needed for the visualization but not for clustering.</p>
+<p>Output this full table to a file. This is rather large. It could be used for the visualization but is not needed for clustering.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -18983,13 +18983,35 @@ MEDICAL
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Test read each output</p>
+<p>Output a table with just GEOID + the list columns ending with radius 10. This is a slimmed-down table to reduce memory requirements on the vis app.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[32]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">RADIUS_25_NAME</span> <span class="o">=</span> <span class="s1">&#39;amenities_25mi_for_vis.pkl.gz&#39;</span>
+<span class="n">columns</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;GEOID&#39;</span><span class="p">]</span> <span class="o">+</span> <span class="p">[</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">result</span><span class="o">.</span><span class="n">columns</span> <span class="k">if</span> <span class="n">x</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">&#39;LIST_&#39;</span><span class="p">)</span> <span class="ow">and</span> <span class="n">x</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s1">&#39;25&#39;</span><span class="p">)]</span>
+<span class="n">result</span><span class="p">[</span><span class="n">columns</span><span class="p">]</span><span class="o">.</span><span class="n">to_pickle</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">OUTPATH_ROOT</span><span class="p">,</span> <span class="n">RADIUS_25_NAME</span><span class="p">),</span> <span class="n">protocol</span><span class="o">=</span><span class="mi">4</span><span class="p">,</span> <span class="n">compression</span><span class="o">=</span><span class="s1">&#39;gzip&#39;</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Test read each output</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[33]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">set_option</span><span class="p">(</span><span class="s1">&#39;display.max_columns&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
@@ -19003,13 +19025,15 @@ MEDICAL
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[33]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[34]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">FULL_NAME</span><span class="p">)</span>
 <span class="n">display</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">read_pickle</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">OUTPATH_ROOT</span><span class="p">,</span> <span class="n">FULL_NAME</span><span class="p">),</span> <span class="n">compression</span><span class="o">=</span><span class="s1">&#39;gzip&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
 <span class="nb">print</span><span class="p">(</span><span class="n">FEAT_NAME</span><span class="p">)</span>
 <span class="n">display</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">read_pickle</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">OUTPATH_ROOT</span><span class="p">,</span> <span class="n">FEAT_NAME</span><span class="p">))</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">RADIUS_25_NAME</span><span class="p">)</span>
+<span class="n">display</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">read_pickle</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">OUTPATH_ROOT</span><span class="p">,</span> <span class="n">RADIUS_25_NAME</span><span class="p">),</span> <span class="n">compression</span><span class="o">=</span><span class="s1">&#39;gzip&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
 </pre></div>
 
      </div>
@@ -19686,6 +19710,105 @@ MEDICAL
       <td>1.8</td>
       <td>1.68</td>
       <td>1.28</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
+<pre>amenities_25mi_for_vis.pkl.gz
+</pre>
+</div>
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>GEOID</th>
+      <th>LIST_GROCERY_DIST_25</th>
+      <th>LIST_GYMS_DIST_25</th>
+      <th>LIST_HARDWARE_DIST_25</th>
+      <th>LIST_PARKS_DIST_25</th>
+      <th>LIST_MEDICAL_DIST_25</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>1001020100</td>
+      <td>[49388, 31676, 22192, 35804, 49400, 21223, 216...</td>
+      <td>[44001, 43994, 44002, 30918, 34752, 18336, 285...</td>
+      <td>[40601, 22736, 40608, 25928, 15008, 19245, 376...</td>
+      <td>[34388, 16443, 39222, 18930, 8775, 39226, 3922...</td>
+      <td>[29008, 8047, 9213, 7792, 10734, 22783, 10539,...</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1001020200</td>
+      <td>[49388, 31676, 22192, 35804, 49400, 21223, 216...</td>
+      <td>[44001, 43994, 44002, 30918, 34752, 18336, 285...</td>
+      <td>[40601, 22736, 40608, 25928, 15008, 19245, 376...</td>
+      <td>[34388, 16443, 39222, 18930, 8775, 39226, 3922...</td>
+      <td>[29008, 8047, 9213, 7792, 10734, 22783, 10539,...</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1001020300</td>
+      <td>[49388, 31676, 22192, 35804, 49400, 21223, 216...</td>
+      <td>[44001, 43994, 44002, 30918, 34752, 18336, 285...</td>
+      <td>[40601, 22736, 40608, 25928, 15008, 19245, 376...</td>
+      <td>[34388, 16443, 39222, 18930, 8775, 39226, 3922...</td>
+      <td>[29008, 8047, 9213, 7792, 10734, 22783, 10539,...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>1001020400</td>
+      <td>[49388, 31676, 22192, 35804, 49400, 21223, 216...</td>
+      <td>[44001, 43994, 44002, 30918, 34752, 18336, 285...</td>
+      <td>[40601, 22736, 40608, 25928, 15008, 19245, 376...</td>
+      <td>[34388, 16443, 39222, 18930, 8775, 39226, 3922...</td>
+      <td>[29008, 8047, 9213, 7792, 10734, 22783, 10539,...</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>1001020500</td>
+      <td>[49388, 31676, 22192, 35804, 49400, 21223, 216...</td>
+      <td>[44001, 43994, 44002, 30918, 34752, 18336, 285...</td>
+      <td>[40601, 22736, 40608, 25928, 15008, 19245, 376...</td>
+      <td>[34388, 16443, 39222, 18930, 8775, 39226, 3922...</td>
+      <td>[29008, 8047, 9213, 7792, 10734, 22783, 10539,...</td>
     </tr>
   </tbody>
 </table>

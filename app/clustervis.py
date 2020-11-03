@@ -19,7 +19,7 @@ mapboxt = open(".mapbox_token").read().rstrip()
 ####
 DEV_MAP=True
 DEV_IGNORE_CLUSTER_MATCHING=False
-AMENITIES_DRAW_DISTANCE = 10 # 2, 5, 10, 25, or 50 miles
+AMENITIES_DRAW_DISTANCE = 25 # 2, 5, 10, 25, or 50 miles
 ####
 
 ################################################################################
@@ -34,9 +34,24 @@ CLUSTER_DF_PATH = '../data/sample/cluster_test_data_all_clusters_300.csv'
 CENSUS_GEOM_PATH = '../data/shape_data/all_census_tract_shapes.json.gz'
 GAZ_PATH = '../data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl'
 AMENITIES_PATH = '../data/amenities/amenities_full.pkl.gz'
+AMENITIES_25_PATH = '../data/amenities/amenities_25mi_for_vis.pkl.gz'
 
 start = time.time()
 print('Loading clustervis.py module-level globals (this may take a moment)')
+print('---> Reading and preparing amenities data')
+if AMENITIES_DRAW_DISTANCE != 25:
+    AMENITIES = pd.read_pickle(AMENITIES_PATH, compression='gzip')
+    # subset to geoid + the fields that contain indexes of the amenities
+    amenity_list_cols = [x for x in AMENITIES.columns if x.startswith('LIST') and\
+                         x.endswith('{}'.format(AMENITIES_DRAW_DISTANCE))]
+    cols = ['GEOID'] + amenity_list_cols
+    AMENITIES = AMENITIES[cols]
+else:
+    AMENITIES = pd.read_pickle(AMENITIES_25_PATH, compression='gzip')
+    amenity_list_cols = [x for x in AMENITIES if x != 'GEOID']
+AMENITY_REFERENCE = {x: pd.read_pickle('../data/amenities/dataframes/{}.pkl'.format(x)) for x in [y.split('_')[1] for y in amenity_list_cols]}
+print('------> Done')
+
 print('---> Reading cluster output')
 # read cluster data
 CLUSTER_DF = pd.read_csv(CLUSTER_DF_PATH)
@@ -59,16 +74,6 @@ for i, row in GAZ.iterrows():
     points.append([row.INTPTLAT, row.INTPTLONG])
 points = np.array(points)
 CLUSTER_POINT_TREE = spatial.cKDTree(points)
-print('------> Done')
-
-print('---> Reading and preparing amenities data')
-AMENITIES = pd.read_pickle(AMENITIES_PATH, compression='gzip')
-# subset to geoid + the fields that contain indexes of the amenities
-amenity_list_cols = [x for x in AMENITIES.columns if x.startswith('LIST') and\
-                     x.endswith('{}'.format(AMENITIES_DRAW_DISTANCE))]
-cols = ['GEOID'] + amenity_list_cols
-AMENITIES = AMENITIES[cols]
-AMENITY_REFERENCE = {x: pd.read_pickle('../data/amenities/dataframes/{}.pkl'.format(x)) for x in [y.split('_')[1] for y in amenity_list_cols]}
 print('------> Done')
 
 print('Done. {} seconds to load.'.format(round(time.time()-start, 2)))
