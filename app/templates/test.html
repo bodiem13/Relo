@@ -47,7 +47,7 @@
         .right {
             width: calc(40% - (.5em + 6px));
             float: right;
-            min-height: 400px;
+            min-height: 300px;
             margin-top: 1em;
         }
 
@@ -102,7 +102,7 @@
         #cover {
             position: relative;
             left: 25px;
-            width: 500px;
+            width: 550px;
             padding: 12px;
             background-color: #00B4CC;
             border-radius: 16px;
@@ -396,6 +396,26 @@
             background-color: #00B4CC;
             color: white;
         }
+        a.button4 {
+            display: inline-block;
+            padding: 0.3em 1.2em;
+            border-radius: 2em;
+            box-sizing: border-box;
+            text-decoration: none;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 300;
+            color: #FFFFFF;
+            background-color: #00B4CC;
+            text-align: center;
+            transition: all 0.2s;
+            cursor:pointer;
+        }
+
+        a.button4:hover {
+            background-color: #00B4CC;
+            cursor:pointer;
+        }
+
     </style>
 
 
@@ -405,25 +425,24 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!--Angular js-->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
-        
+
     <script>
         $(window).on('load', (function () {
             $(".se-pre-con").fadeOut();
         }));
-        
+
         // wait for html to load, then plot initial overview map
         angular.element(document).ready(function () {
-            var fig = {{fig0 | safe}};
-            Plotly.plot("mymap", fig.data, fig.layout || {}), {responsive: true};
-        });
+            var fig = {{ fig0 | safe }};
+        Plotly.plot("mymap", fig.data, fig.layout || {}), { responsive: true };});
 
         // pass this function an integer to update the map
         // 0=original overview, 1=1st ranked zoom, 2=2nd ranked zoom, 3=3rd ranked zoom
         function updatePlot(n) {
-            if (n === 0) {var fig = {{fig0 | safe}};};
-            if (n === 1) {var fig = {{fig1 | safe}};};
-            if (n === 2) {var fig = {{fig2 | safe}};};
-            if (n === 3) {var fig = {{fig3 | safe}};};
+            if (n === 0) { var fig = {{ fig0 | safe }};};
+            if (n === 1) { var fig = {{ fig1 | safe }};};
+            if (n === 2) { var fig = {{ fig2 | safe }};};
+            if (n === 3) { var fig = {{ fig3 | safe }};};
             Plotly.newPlot("mymap", fig.data, fig.layout || {});
         };
     </script>
@@ -444,7 +463,7 @@
     </div>
     <div id="cover">
         <div class="tb">
-            <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>
+            <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>         
             </div>
             <div class="td" id="s-cover">
                 <form action="search_results">
@@ -456,18 +475,20 @@
             </div>
         </div>
     </div>
+    <!-- <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a> -->
 
     <div class="container">
         <div class="left">
-            <div>
+            <!--<div>
                 <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a>
-            </div>
+            </div>-->
             <div id="mymap"></div>
-<!--            <img src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"-->
-<!--                alt="city">-->
+            <!--            <img src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"-->
+            <!--                alt="city">-->
         </div>
         <div class="right">
-            <div class="row ng-scope">
+            <a class="button4" style="margin-left: -560px;" style="margin-top: 5px;" onclick=updatePlot(0);>Reset Map</a>
+            <div class="row ng-scope" style="margin-top: -10px;">
                 <div class="col-md-9 col-md-pull-3">
                     <h3>Top 3 Search Results</h3>
                     <section class="search-result-item">
@@ -485,7 +506,8 @@
                                 </div>
                                 <div class="col-sm-3 text-align-center">
                                     <p class="value3 mt-sm">The Golden Gate City</p>
-                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(1); style="cursor:pointer">View in
+                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(1);
+                                        style="cursor:pointer">View in
                                         Map</a>
                                 </div>
                             </div>
@@ -505,7 +527,8 @@
                                 </div>
                                 <div class="col-sm-3 text-align-center">
                                     <p class="value3 mt-sm">The Emerald City</p>
-                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(2); style="cursor:pointer">View in
+                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(2);
+                                        style="cursor:pointer">View in
                                         Map</a>
                                 </div>
                             </div>
@@ -524,7 +547,8 @@
                                 </div>
                                 <div class="col-sm-3 text-align-center">
                                     <p class="value3 mt-sm">The Windy City</p>
-                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(3); style="cursor:pointer">View in
+                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(3);
+                                        style="cursor:pointer">View in
                                         Map</a>
                                 </div>
                             </div>
