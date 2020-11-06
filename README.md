@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/static/relo_logo_slogan.png" width="250" height="150">
+  <img src="app/static/relo_logo_slogan.png" width="400" height="220">
 </p>
 
 # Description
