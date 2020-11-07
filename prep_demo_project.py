@@ -4,7 +4,9 @@ import shutil
 import pandas as pd
 import geopandas as gp
 
-DEST = '/media/school/project/CSE6242-Team46-Demo-Project'
+DEST = '/media/school/project/team46_submission'
+CODE_DEST = os.path.join(DEST, 'Code') 
+DEMO_DEST = os.path.join(CODE_DEST, 'DEMO')
 
 # If destination directory exists, prompt if OK to delete
 # If not OK, exit
@@ -19,15 +21,17 @@ if os.path.exists(DEST):
 
 # make destination directory
 os.makedirs(DEST)
+os.makedirs(CODE_DEST)
+os.makedirs(DEMO_DEST)
 
 
 # copy relevant folders
 for folder in ('app', 'data', 'docs', 'model'):
-    shutil.copytree(folder, os.path.join(DEST, folder))
+    shutil.copytree(folder, os.path.join(CODE_DEST, folder))
 
 # copy relevant files
-for f in ('README.md', 'requirements.txt'):
-    shutil.copy(f, DEST)
+for f in ('README.md', 'requirements.txt', 'Dockerfile', 'boot.sh', 'environment.yml'):
+    shutil.copy(f, CODE_DEST)
     
 # delete unnecessary files/folders
 for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data'):
@@ -39,7 +43,7 @@ for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'sourc
 # limit cluster data to selected clusters
 clusters = [1, 2]
 ###
-cluster_data_path = os.path.join(DEST, 'data/sample/cluster_test_data_all_clusters_300.csv')
+cluster_data_path = os.path.join(CODE_DEST, 'data/sample/cluster_test_data_all_clusters_300.csv')
 ###
 df = pd.read_csv(cluster_data_path)
 df = df[df.cluster.isin(clusters)]
@@ -64,7 +68,7 @@ PATHS = [
 
 print('REDUCING SIZE/CONTENTS OF DATAFRAMES')
 for path, compression in PATHS:
-    PATH_ = os.path.join(DEST, path)
+    PATH_ = os.path.join(CODE_DEST, path)
     df = pd.read_pickle(PATH_, compression=compression)
     if not 'GEOID' in df.columns:
         print('Skipping {}'.format(path))
@@ -75,7 +79,20 @@ for path, compression in PATHS:
     df.to_pickle(PATH_, compression=compression)
 
 
-# process the json data
+# process the json data if needed
+
+
+# change directories to DEST to build docker image
+os.chdir(CODE_DEST)
+
+# Build docker image
+os.system('sudo docker build -t relodemo:latest .')
+
+# After building, can run with e.g. sudo docker run -it relodemo -p 5000:5000
+
+# Export image a new "DEMO" folder
+os.chdir(DEMO_DEST)
+os.system("sudo docker save relodemo > relodemo.tar")
 
 
 
