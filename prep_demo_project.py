@@ -5,7 +5,7 @@ import pandas as pd
 import geopandas as gp
 
 DEST = '/media/school/project/team46_submission'
-CODE_DEST = os.path.join(DEST, 'Code') 
+CODE_DEST = os.path.join(DEST, 'CODE') 
 DEMO_DEST = os.path.join(CODE_DEST, 'DEMO')
 
 # If destination directory exists, prompt if OK to delete
@@ -92,7 +92,9 @@ os.system('sudo docker build -t relodemo:latest .')
 
 # Export image a new "DEMO" folder
 os.chdir(DEMO_DEST)
-os.system("sudo docker save relodemo > relodemo.tar")
+os.system('sudo docker create --name relodemocontainer relodemo')
+os.system('sudo docker export relodemocontainer > relodemocontainer.tar')
+#os.system("sudo docker save relodemo > relodemo.tar")
 
 
 
