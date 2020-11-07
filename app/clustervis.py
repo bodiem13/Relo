@@ -81,61 +81,31 @@ print('Done. {} seconds to load.'.format(round(time.time()-start, 2)))
 ################################################################################
 ################################################################################
 
-def geoid_to_cluster(geoid, lat, lon):
-    '''
-    Given geoid, find the cluster associated with the matching GEOID in
-    CLUSTER_DF.
-    If there is not an exact match, try the method to replace the last two
-    of the GEOID with 0's. This gets rid of sub-tracts that may be returned.
-    Failing that, use the latitude and longitude to locate the nearest census
-    tract
-    '''
 
-    # Ideal case, where we match a geoid
-    attempt_1 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==int(geoid)]
-    if attempt_1.shape[0] > 0:
-        if attempt_1.shape[0] > 1: # this should not happen
-            print('POSSIBLE ERROR:::Multiple Matching Clusters')
-        return attempt_1['cluster'].values[0]
-    
-    # if unable to return earlier, try replacing last 2 digits with 0's and
-    # check again
-    attempt_2 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==int(str(geoid)[:-2]+'00')]
-    if attempt_2.shape[0] > 0:
-        if attempt_2.shape[0] > 1: # this should not happen
-            print('POSSIBLE ERROR:::Multiple Matching Clusters')
-        return attempt_2['cluster'].values[0]    
-
-    # find nearest cluster via lat/long
-    #raise NotImplementedError('Need to implement nearest census tract code.')
-    closest_point = CLUSTER_POINT_TREE.query([lat, lon], 1)
-    closest_point_index = closest_point[1]
-    geoid_match = int(GAZ.iloc[closest_point_index].GEOID)
-    attempt_3 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==geoid_match]
-    if attempt_3.shape[0] > 0:
-        if attempt_2.shape[0] > 1: # this should not happen
-            print('POSSIBLE ERROR:::Multiple Matching Clusters')
-        return attempt_3['cluster'].values[0]
         
 ################################################################################        
 
 class ClusterVis:
     def __init__(self, geoid=42003451102, lat=40.5218403, lon=-80.1969462, n_top=3):
         try:
-            self.geoid = int(geoid)
+            if geoid is not None:
+                self.geoid = int(geoid)
+            else:
+                self.geoid = None
             self.n_top = int(n_top)
+            # lat and lon for fallback closest geoid/cluster matching
+            self.lat = float(lat)
+            self.lon = float(lon)
         except ValueError:
-            print('geoid and n_top must be int-like')
+            print('geoid and n_top must be int-like, lat/lon must be float-like')
         
         self.fig = None
         self.zoom_figures = []
         
-        # lat and lon for fallback closest geoid/cluster matching
-        self.lat = lat
-        self.lon = lon
+
 
         # get the cluster        
-        self.cluster = geoid_to_cluster(self.geoid, self.lat, self.lon)
+        self.cluster = self.geoid_to_cluster()
 
         # subset CLUSTER_DF to matching cluster
         self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster]
@@ -174,6 +144,8 @@ class ClusterVis:
         self._add_amenities()
         # add 'top' subset of points
         self._add_top_points()
+        # add the point that was searched for
+        self._add_original_point()
         # add map style
         if not DEV_MAP:
             self._add_map_style()
@@ -215,7 +187,7 @@ class ClusterVis:
                     # do a lookup in AMENITY_REFERENCE to get the lat/lon and other info
                     amenity_data = AMENITY_REFERENCE[name].iloc[amenities_list]
                     current_amenity_results = pd.concat([current_amenity_results, amenity_data])
-            print(current_amenity_results)
+            #print(current_amenity_results)
             
             # add the amenity points
             self.fig = self.fig.add_scattermapbox(
@@ -308,6 +280,24 @@ class ClusterVis:
             )
         )
 
+    def _add_original_point(self):
+         self.fig = self.fig.add_scattermapbox(
+            uid='original',
+            mode='markers',
+            lat=[self.lat],
+            lon=[self.lon],
+            marker={'size': 25,
+                    'symbol': 'circle',
+                    'color': 'green',
+                    'opacity':.7,
+                    'allowoverlap': True,
+                   },
+            text=['Searched point'],
+            hovertemplate='%{text}<extra></extra>',
+            showlegend=False,
+            #below="''",
+        )       
+
     def _add_map_style(self, dev=False):
         if dev is False:
             style = 'light'
@@ -364,5 +354,47 @@ class ClusterVis:
             return json_obj
         return update_ids(gpdf_subset_json)
 
-
+    def geoid_to_cluster(self):
+        '''
+        Given geoid, find the cluster associated with the matching GEOID in
+        CLUSTER_DF.
+        If there is not an exact match, try the method to replace the last two
+        of the GEOID with 0's. This gets rid of sub-tracts that may be returned.
+        Failing that, use the latitude and longitude to locate the nearest census
+        tract
+        If no geoid originally passed, update with geoid of closest matching cluster
+        '''
+        if self.geoid is not None:
+            # Ideal case, where we match a geoid
+            try:
+                attempt_1 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==self.geoid]
+                if attempt_1.shape[0] > 0:
+                    if attempt_1.shape[0] > 1: # this should not happen
+                        print('POSSIBLE ERROR:::Multiple Matching Clusters')
+                    return attempt_1['cluster'].values[0]
+            except Exception as e:
+                print('Attempt 1: {}'.format(e))
+            
+            # if unable to return earlier, try replacing last 2 digits with 0's and
+            # check again
+            try:
+                attempt_2 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==int(str(self.geoid)[:-2]+'00')]
+                if attempt_2.shape[0] > 0:
+                    if attempt_2.shape[0] > 1: # this should not happen
+                        print('POSSIBLE ERROR:::Multiple Matching Clusters')
+                    return attempt_2['cluster'].values[0]    
+            except Exception as e:
+                print('Attempt 2: {}'.format(e))
+                
+        # find nearest cluster via lat/long
+        #raise NotImplementedError('Need to implement nearest census tract code.')
+        closest_point = CLUSTER_POINT_TREE.query([self.lat, self.lon], 1)
+        closest_point_index = closest_point[1]
+        geoid_match = int(GAZ.iloc[closest_point_index].GEOID)
+        self.geoid = geoid_match # update geoid if we're using this fallback
+        attempt_3 = CLUSTER_DF[CLUSTER_DF.GEOID.astype(int)==geoid_match]
+        if attempt_3.shape[0] > 0:
+            if attempt_3.shape[0] > 1: # this should not happen
+                print('POSSIBLE ERROR:::Multiple Matching Clusters')
+            return attempt_3['cluster'].values[0]
 
