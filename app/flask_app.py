@@ -44,22 +44,9 @@ def get_tract(coordinates):
         tract_info = result["Census Tracts"][0]
         return tract_info
     except Exception as e:
-        print('===COULD NOT IDENTIFY TRACT===')
+        print('===COULD NOT IDENTIFY TRACT -- Falling Back===')
         print(e)
         return None
-
-def get_tract_by_address(address):
-    try:
-        print(address)
-        result = cg.onelineaddress(address)
-        print('RESULT: {}'.format(result))
-        tract_info = result["Census Tracts"][0]
-        return tract_info
-    except Exception as e:
-        print('===COULD NOT IDENTIFY TRACT===')
-        print(e)
-        return None        
-
 
     
 @app.route("/")
@@ -99,7 +86,8 @@ def search_results():
                     print(e, 'COULD NOT ASSIGN tract RESULTS')
             else:
                 print('FALLING BACK TO FINDING CLOSEST TRACT')
-                
+        else:
+            print('Using latest (and/or default demo) tract')
 
                 
         #cvis = clustervis.ClusterVis(geoid=42003451102, lat=40.5218403, lon=-80.1969462, n_top=3)
