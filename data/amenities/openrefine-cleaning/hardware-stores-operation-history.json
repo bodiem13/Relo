@@ -1,0 +1,2937 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "lat",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column lat using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "lon",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column lon using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "lat",
+    "expression": "grel:round(value*1000000)/1000000.0",
+    "onError": "set-to-blank",
+    "newColumnName": "lat_cleaned",
+    "columnInsertIndex": 7,
+    "description": "Create column lat_cleaned at index 7 based on column lat using expression grel:round(value*1000000)/1000000.0"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "lon",
+    "expression": "grel:round(value*1000000)/1000000.0",
+    "onError": "set-to-blank",
+    "newColumnName": "lon_cleaned",
+    "columnInsertIndex": 9,
+    "description": "Create column lon_cleaned at index 9 based on column lon using expression grel:round(value*1000000)/1000000.0"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "address",
+    "expression": "join ([coalesce(cells['address'].value,'not_available'),coalesce(cells['postalCode'].value,'not_available')],',')",
+    "onError": "keep-original",
+    "newColumnName": "address_combo",
+    "columnInsertIndex": 5,
+    "description": "Create column address_combo at index 5 based on column address using expression join ([coalesce(cells['address'].value,'not_available'),coalesce(cells['postalCode'].value,'not_available')],',')"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "name",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "name_lowercase",
+    "columnInsertIndex": 4,
+    "description": "Create column name_lowercase at index 4 based on column name using expression grel:value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_lowercase",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column name_lowercase using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name_lowercase",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column name_lowercase using expression value.toLowercase()"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "row-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "address_combo",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "address_combo",
+    "description": "Blank down cells in column address_combo"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "address_combo",
+          "expression": "isBlank(value)",
+          "columnName": "address_combo",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"sears\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"carpet cleanin\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"carpet cleanin\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"minutekey\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"rental\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"arhaus\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"arhaus\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"lawn care\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"habitat for humanity\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "address_combo",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "625 Columbia St SW,98501",
+          "625 Columbia St Sw,98501"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "625 Columbia St SW,98501"
+      },
+      {
+        "from": [
+          "7325 SW 57th Ave,33143",
+          "7325 Sw 57th Ave,33143"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "7325 SW 57th Ave,33143"
+      },
+      {
+        "from": [
+          "829 1st Ave SE,50662",
+          "829 1st Ave Se,50662"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "829 1st Ave SE,50662"
+      },
+      {
+        "from": [
+          "9894 US Highway 70 E,37101",
+          "9894 Us Highway 70 E,37101"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9894 US Highway 70 E,37101"
+      },
+      {
+        "from": [
+          "4310 Sonoma Blvd,94589",
+          "4310 Sonoma Blvd.,94589"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4310 Sonoma Blvd,94589"
+      },
+      {
+        "from": [
+          "2069 US Highway 441 S,31021",
+          "2069 Us Highway 441 S,31021"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2069 US Highway 441 S,31021"
+      },
+      {
+        "from": [
+          "539 Rue Principale,G0L 1J0",
+          "539, rue Principale,G0L 1J0"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "539 Rue Principale,G0L 1J0"
+      },
+      {
+        "from": [
+          "MILE 1 5 KEKU RD,99830",
+          "Mile 1 5 Keku Rd,99830"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MILE 1 5 KEKU RD,99830"
+      },
+      {
+        "from": [
+          "1301 N 98TH ST,66111",
+          "1301 N 98th St,66111"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1301 N 98TH ST,66111"
+      },
+      {
+        "from": [
+          "2488 HIGHWAY 15 SOUTH,39422",
+          "2488 Highway 15 South,39422"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2488 HIGHWAY 15 SOUTH,39422"
+      },
+      {
+        "from": [
+          "66-04 Fresh Pond Rd,11385",
+          "6604 Fresh Pond Rd,11385"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "66-04 Fresh Pond Rd,11385"
+      },
+      {
+        "from": [
+          "206 E HWY 31,75148",
+          "206 E Hwy 31,75148"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "206 E HWY 31,75148"
+      },
+      {
+        "from": [
+          "3532 B St NW,98001",
+          "3532 B St Nw,98001"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3532 B St NW,98001"
+      },
+      {
+        "from": [
+          "1018 8th St,50036",
+          "1018 8th St.,50036"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1018 8th St,50036"
+      },
+      {
+        "from": [
+          "1526 route 277,G0R 1S0",
+          "1526, Route 277,G0R 1S0"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1526 route 277,G0R 1S0"
+      },
+      {
+        "from": [
+          "12 SE BIRCH AVE,56464",
+          "12 Se Birch Ave,56464"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12 SE BIRCH AVE,56464"
+      },
+      {
+        "from": [
+          "19523 Sargent Rd SW,98579",
+          "19523 Sargent Rd Sw,98579"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "19523 Sargent Rd SW,98579"
+      },
+      {
+        "from": [
+          "16885 FM 2493,75703",
+          "16885 Fm 2493,75703"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16885 FM 2493,75703"
+      },
+      {
+        "from": [
+          "1515 E FM 700,79720",
+          "1515 E Fm 700,79720"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1515 E FM 700,79720"
+      },
+      {
+        "from": [
+          "9 N State Hwy 109,72943",
+          "9 N. STATE HWY 109,72943"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9 N State Hwy 109,72943"
+      },
+      {
+        "from": [
+          "13740 SW 8th St,33184",
+          "13740 Sw 8th St,33184"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "13740 SW 8th St,33184"
+      },
+      {
+        "from": [
+          "1321 SW 21st St,66604",
+          "1321 Sw 21st St,66604"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1321 SW 21st St,66604"
+      },
+      {
+        "from": [
+          "133 County Road A,54615",
+          "133 County Road a,54615"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "133 County Road A,54615"
+      },
+      {
+        "from": [
+          "900 Fond Du Lac Ave,53040",
+          "900 Fond du Lac Ave,53040"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "900 Fond Du Lac Ave,53040"
+      },
+      {
+        "from": [
+          "11359 W Industrial Park Ave,61036",
+          "11359 W INDUSTRIAL PARK AVE,61036"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "11359 W Industrial Park Ave,61036"
+      },
+      {
+        "from": [
+          "38501 S HIGHWAY 1,95445",
+          "38501 S Highway 1,95445"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "38501 S HIGHWAY 1,95445"
+      },
+      {
+        "from": [
+          "1802 S Craft Hwy,36611",
+          "1802 S. Craft Hwy,36611"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1802 S Craft Hwy,36611"
+      },
+      {
+        "from": [
+          "239 ROUTE 16,03845",
+          "239 Route 16,03845"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "239 ROUTE 16,03845"
+      },
+      {
+        "from": [
+          "18-07 Astoria Blvd,11102",
+          "1807 Astoria Blvd,11102"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18-07 Astoria Blvd,11102"
+      },
+      {
+        "from": [
+          "2039 US Highway 45 Byp S,38382",
+          "2039 Us Highway 45 Byp S,38382"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2039 US Highway 45 Byp S,38382"
+      },
+      {
+        "from": [
+          "921 National Ave,40502",
+          "921 National Ave.,40502"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "921 National Ave,40502"
+      },
+      {
+        "from": [
+          "200 N MAIN ST,12865",
+          "200 N Main St,12865"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "200 N MAIN ST,12865"
+      },
+      {
+        "from": [
+          "189 EASTFORD RD - RT 198,06242",
+          "189 Eastford Rd - Rt 198,06242"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "189 EASTFORD RD - RT 198,06242"
+      },
+      {
+        "from": [
+          "101 US ROUTE 52 N,24801",
+          "101 Us Route 52 N,24801"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "101 US ROUTE 52 N,24801"
+      },
+      {
+        "from": [
+          "30209 US Highway 18,57335",
+          "30209 Us Highway 18,57335"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "30209 US Highway 18,57335"
+      },
+      {
+        "from": [
+          "HWY 93 S,83226",
+          "Hwy 93 S,83226"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HWY 93 S,83226"
+      },
+      {
+        "from": [
+          "2950 HIGHWAY 260,85928",
+          "2950 Highway 260,85928"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2950 HIGHWAY 260,85928"
+      },
+      {
+        "from": [
+          "9416 HWY 61,39054",
+          "9416 Hwy 61,39054"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9416 HWY 61,39054"
+      },
+      {
+        "from": [
+          "43146 US Highway 72,35772",
+          "43146 Us Highway 72,35772"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "43146 US Highway 72,35772"
+      },
+      {
+        "from": [
+          "3555 9th St SW,32968",
+          "3555 9th St Sw,32968"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3555 9th St SW,32968"
+      },
+      {
+        "from": [
+          "1104 4th St Nw,35582",
+          "1104 4th St NW,35582"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1104 4th St Nw,35582"
+      },
+      {
+        "from": [
+          "820 HWY 206,97065",
+          "820 Hwy 206,97065"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "820 HWY 206,97065"
+      },
+      {
+        "from": [
+          "1650 Highway 6 And 50,81521",
+          "1650 Highway 6 and 50,81521"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1650 Highway 6 And 50,81521"
+      },
+      {
+        "from": [
+          "34900 ALBION RIDGE RD,95410",
+          "34900 Albion Ridge Rd,95410"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "34900 ALBION RIDGE RD,95410"
+      },
+      {
+        "from": [
+          "320 US Highway 46,07834",
+          "320 Us Highway 46,07834"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "320 US Highway 46,07834"
+      },
+      {
+        "from": [
+          "257  West Ferry Street,14213",
+          "257 West Ferry Street,14213"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "257  West Ferry Street,14213"
+      },
+      {
+        "from": [
+          "2000 Avondale Drive Suite A1,27704",
+          "2000 Avondale Drive, Suite A1,27704"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2000 Avondale Drive Suite A1,27704"
+      },
+      {
+        "from": [
+          "116 S BROADWAY,76941",
+          "116 S Broadway,76941"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "116 S Broadway,76941"
+      },
+      {
+        "from": [
+          "Corner Of Oak And Tahoe,93609",
+          "Corner of Oak and Tahoe,93609"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Corner Of Oak And Tahoe,93609"
+      },
+      {
+        "from": [
+          "54200 LOWER PINECREST,92549",
+          "54200 Lower Pinecrest,92549"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "54200 LOWER PINECREST,92549"
+      },
+      {
+        "from": [
+          "4430 SE Woodstock Blvd,97206",
+          "4430 Se Woodstock Blvd,97206"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4430 SE Woodstock Blvd,97206"
+      },
+      {
+        "from": [
+          "3171 NE Stephens St,97470",
+          "3171 Ne Stephens St,97470"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3171 NE Stephens St,97470"
+      },
+      {
+        "from": [
+          "9675 State 371 NW,56484",
+          "9675 State 371 Nw,56484"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9675 State 371 NW,56484"
+      },
+      {
+        "from": [
+          "13340 COUNTY HIGHWAY M,54821",
+          "13340 County Highway M,54821"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "13340 COUNTY HIGHWAY M,54821"
+      },
+      {
+        "from": [
+          "3679 US Route 9,12534",
+          "3679 Us Route 9,12534"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3679 US Route 9,12534"
+      },
+      {
+        "from": [
+          "1200 E US Highway 169,55744",
+          "1200 E Us Highway 169,55744"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1200 E US Highway 169,55744"
+      },
+      {
+        "from": [
+          "2026 Broad Street Suite 300,16503",
+          "2026 Broad Street, Suite 300,16503"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2026 Broad Street Suite 300,16503"
+      },
+      {
+        "from": [
+          "2730 S Academy Blvd,80916",
+          "2730 S. Academy Blvd,80916"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2730 S Academy Blvd,80916"
+      },
+      {
+        "from": [
+          "10414 NE Halsey St,97220",
+          "10414 Ne Halsey St,97220"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "10414 NE Halsey St,97220"
+      },
+      {
+        "from": [
+          "17752 US HIGHWAY 41,49946",
+          "17752 Us Highway 41,49946"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "17752 Us Highway 41,49946"
+      },
+      {
+        "from": [
+          "12558 Meridian Rd,80106",
+          "12558 meridian rd,80106"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12558 Meridian Rd,80106"
+      },
+      {
+        "from": [
+          "4214 Portage St NW,44720",
+          "4214 Portage St Nw,44720"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4214 Portage St NW,44720"
+      },
+      {
+        "from": [
+          "840 WEST 200 SOUTH,84761",
+          "840 West 200 South,84761"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "840 WEST 200 SOUTH,84761"
+      },
+      {
+        "from": [
+          "4000 Lake Tahoe Blvd Ste 20,96150",
+          "4000 Lake Tahoe Blvd, Ste 20,96150"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4000 Lake Tahoe Blvd Ste 20,96150"
+      },
+      {
+        "from": [
+          "HWY 50 BYP,36862",
+          "Hwy 50 Byp,36862"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HWY 50 BYP,36862"
+      },
+      {
+        "from": [
+          "N 6344 STATE HWY 25,54736",
+          "N 6344 State Hwy 25,54736"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "N 6344 STATE HWY 25,54736"
+      },
+      {
+        "from": [
+          "1126 S Washington Ave,48067",
+          "1126 S Washington Ave.,48067"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1126 S Washington Ave,48067"
+      },
+      {
+        "from": [
+          "5410 E Main St,47527",
+          "5410 E. MAIN ST.,47527"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5410 E Main St,47527"
+      },
+      {
+        "from": [
+          "263 Main St,24228",
+          "263 MAIN ST,24228"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "263 Main St,24228"
+      },
+      {
+        "from": [
+          "6180 KENTUCKY 54,42366",
+          "6180 Kentucky 54,42366"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "6180 Kentucky 54,42366"
+      },
+      {
+        "from": [
+          "3883 HIGHWAY 49 S,95338",
+          "3883 Highway 49 S,95338"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3883 Highway 49 S,95338"
+      },
+      {
+        "from": [
+          "16477 PENNSYLVANIA 706,18801",
+          "16477 Pennsylvania 706,18801"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16477 Pennsylvania 706,18801"
+      },
+      {
+        "from": [
+          "10271 SR 161,43064",
+          "10271 Sr 161,43064"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "10271 SR 161,43064"
+      },
+      {
+        "from": [
+          "5147 ST HWY 140,95338",
+          "5147 St. Hwy. 140,95338"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5147 ST HWY 140,95338"
+      },
+      {
+        "from": [
+          "2409 US 81 HWY,66935",
+          "2409 Us 81 Hwy,66935"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2409 US 81 HWY,66935"
+      },
+      {
+        "from": [
+          "2135 HIGHWAY M,65662",
+          "2135 Highway M,65662"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2135 Highway M,65662"
+      },
+      {
+        "from": [
+          "800 Martin Luther King Suite C58,38701",
+          "800 Martin Luther King, Suite C58,38701"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "800 Martin Luther King Suite C58,38701"
+      },
+      {
+        "from": [
+          "3291 28th St SW,49418",
+          "3291 28th St Sw,49418"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3291 28th St Sw,49418"
+      },
+      {
+        "from": [
+          "94 3rd Street,59523",
+          "94 3rd street,59523"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "94 3rd Street,59523"
+      },
+      {
+        "from": [
+          "40&40A , Jalan Tun Dr.Awang,11900",
+          "40&40A, Jalan Tun Dr.Awang,11900"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "40&40A, Jalan Tun Dr.Awang,11900"
+      },
+      {
+        "from": [
+          "310 15th St SE,56334",
+          "310 15th St Se,56334"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "310 15th St SE,56334"
+      },
+      {
+        "from": [
+          "800 W BROADWAY,79323",
+          "800 W Broadway,79323"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "800 W Broadway,79323"
+      },
+      {
+        "from": [
+          "1113 US Highway 259 S,75638",
+          "1113 Us Highway 259 S,75638"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1113 US Highway 259 S,75638"
+      },
+      {
+        "from": [
+          "603 1st St,97901",
+          "603 1ST ST,97901"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "603 1st St,97901"
+      },
+      {
+        "from": [
+          "2422 Bay Area Blvd # A,77058",
+          "2422 Bay Area Blvd #A,77058"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2422 Bay Area Blvd #A,77058"
+      }
+    ],
+    "description": "Mass edit cells in column address_combo"
+  },
+  {
+    "op": "core/row-reorder",
+    "mode": "row-based",
+    "sorting": {
+      "criteria": [
+        {
+          "valueType": "string",
+          "column": "address_combo",
+          "blankPosition": 2,
+          "errorPosition": 1,
+          "reverse": false,
+          "caseSensitive": false
+        }
+      ]
+    },
+    "description": "Reorder rows"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "address_combo",
+    "description": "Blank down cells in column address_combo"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "address_combo",
+          "expression": "isBlank(value)",
+          "columnName": "address_combo",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"carpets\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "address_combo",
+          "expression": "isBlank(value)",
+          "columnName": "address_combo",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"apartment\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "address_combo",
+          "expression": "isBlank(value)",
+          "columnName": "address_combo",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"garage door repair\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"lawnmower repair\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\" paint\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"husqvarna\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"u-haul\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"trane\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"construction service\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"disk doctors\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"locksmith\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"locksmith\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"machinery\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name",
+          "expression": "value",
+          "columnName": "name",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "United Refrigeration Inc",
+                "l": "United Refrigeration Inc"
+              }
+            },
+            {
+              "v": {
+                "v": "United Refrigeration Inc.",
+                "l": "United Refrigeration Inc."
+              }
+            },
+            {
+              "v": {
+                "v": "United Refrigeration (United Refrigeration Inc)",
+                "l": "United Refrigeration (United Refrigeration Inc)"
+              }
+            },
+            {
+              "v": {
+                "v": "United Refrigeration, Inc.",
+                "l": "United Refrigeration, Inc."
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ABC Supply Co.",
+          "ABC Supply Co",
+          "Abc Supply Co.",
+          "Abc Supply Co",
+          "abc Supply Co",
+          "abc supply co",
+          "abc supply co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ABC Supply"
+      },
+      {
+        "from": [
+          "Sherwin Williams",
+          "sherwin Williams",
+          "sherwin williams",
+          "Sherwin  Williams",
+          "Sherwin - Williams",
+          "Sherwin williams"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sherwin Williams"
+      },
+      {
+        "from": [
+          "Trible's Inc.",
+          "Trible's, Inc.",
+          "Tribles Inc",
+          "Tribles Inc.",
+          "Tribles, Inc."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Trible's Inc."
+      },
+      {
+        "from": [
+          "True Value Hardware",
+          "TRUE VALUE HARDWARE",
+          "True Value  Hardware",
+          "True value hardware",
+          "true value hardware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "True Value Hardware"
+      },
+      {
+        "from": [
+          "ABC Supply",
+          "Abc Supply",
+          "ABC SUPPLY",
+          "ABC supply"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ABC Supply"
+      },
+      {
+        "from": [
+          "RP Lumber",
+          "R.P. Lumber",
+          "Rp Lumber",
+          "rp lumber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RP Lumber"
+      },
+      {
+        "from": [
+          "Tool Shed",
+          "Tool shed",
+          "tool shed",
+          "tool Shed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tool Shed"
+      },
+      {
+        "from": [
+          "Marvin's",
+          "Marvins",
+          "marvins",
+          "MARVINS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marvin's"
+      },
+      {
+        "from": [
+          "Bomgaars",
+          "BOMGAARS",
+          "Bomgaar's",
+          "bomgaars"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bomgaars"
+      },
+      {
+        "from": [
+          "Hardware Hank",
+          "hardware Hank",
+          "Hardware hank",
+          "hardware hank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hardware Hank"
+      },
+      {
+        "from": [
+          "ProBuild",
+          "Probuild",
+          "Pro-Build",
+          "PRO-Build"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ProBuild"
+      },
+      {
+        "from": [
+          "True Value",
+          "TRUE VALUE",
+          "true value",
+          "True value"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "True Value"
+      },
+      {
+        "from": [
+          "ReStore",
+          "Re-Store",
+          "Re-store",
+          "Restore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ReStore"
+      },
+      {
+        "from": [
+          "Sid Harvey's",
+          "Sid Harveys",
+          "sid Harveys",
+          "sid harveys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sid Harvey's"
+      },
+      {
+        "from": [
+          "Do It Best",
+          "Do it Best",
+          "do it best",
+          "Do it best"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Do It Best"
+      },
+      {
+        "from": [
+          "United Refrigeration Inc.",
+          "United Refrigeration Inc",
+          "United Refrigeration (United Refrigeration Inc)",
+          "United Refrigeration, Inc."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "United Refrigeration Inc."
+      },
+      {
+        "from": [
+          "McCoys",
+          "McCoy's",
+          "Mccoy's",
+          "mccoys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "McCoys"
+      },
+      {
+        "from": [
+          "Builders Surplus",
+          "Builder's Surplus",
+          "BUILDERS SURPLUS",
+          "builders surplus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Builders Surplus"
+      },
+      {
+        "from": [
+          "ABC Supply Co. Inc.",
+          "ABC Supply Co., Inc.",
+          "Abc Supply Co. Inc.",
+          "ABC Supply Co Inc"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ABC Supply"
+      },
+      {
+        "from": [
+          "Higginbothams",
+          "Higginbotham'S",
+          "Higginbotham's"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Higginbothams"
+      },
+      {
+        "from": [
+          "H.D.",
+          "HD",
+          "Hd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "H.D."
+      },
+      {
+        "from": [
+          "WeaverHandyman.com Client",
+          "WeaverHandyman.Com Client",
+          "weaverHandyman.com Client"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WeaverHandyman.com Client"
+      },
+      {
+        "from": [
+          "Do It Center",
+          "Do it Center",
+          "do it center"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Do It Center"
+      },
+      {
+        "from": [
+          "Ace Hardware - Lincoln",
+          "Ace Hardware Lincoln",
+          "Lincoln Ace Hardware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ace Hardware"
+      },
+      {
+        "from": [
+          "84 Lumber",
+          "84 lumber",
+          "84 Lumber."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "84 Lumber"
+      },
+      {
+        "from": [
+          "Gill-Roy's",
+          "Gill-Roys",
+          "Gill-roys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gill-Roy's"
+      },
+      {
+        "from": [
+          "A-Boy Plumbing",
+          "A-Boy plumbing",
+          "A-boy Plumbing"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "A-Boy Plumbing"
+      },
+      {
+        "from": [
+          "Lamperts",
+          "lampert's",
+          "lamperts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lamperts"
+      },
+      {
+        "from": [
+          "Moore's True Value Hardware",
+          "Moores True Value Hardware",
+          "MOORES TRUE VALUE HARDWARE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Moore's True Value Hardware"
+      },
+      {
+        "from": [
+          "Carter Lumber",
+          "Carter lumber",
+          "carter lumber"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carter Lumber"
+      },
+      {
+        "from": [
+          "Woodcraft",
+          "WOODCRAFT",
+          "WoodCraft"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Woodcraft"
+      },
+      {
+        "from": [
+          "C.C. Dickson Co.",
+          "CC Dickson Co",
+          "CC Dickson co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "C.C. Dickson Co."
+      },
+      {
+        "from": [
+          "ACE Center Hardware",
+          "Ace Hardware Center",
+          "Center Ace Hardware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ACE Hardware"
+      },
+      {
+        "from": [
+          "Harbor Freight",
+          "harbor freight",
+          "harbor freight (Harbor Freight)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harbor Freight Tools"
+      },
+      {
+        "from": [
+          "Grainger",
+          "GRAINGER",
+          "grainger"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Grainger"
+      },
+      {
+        "from": [
+          "Builders FirstSource",
+          "Builders Firstsource"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Builders FirstSource"
+      },
+      {
+        "from": [
+          "Aubuchon Hardware",
+          "Aubuchon hardware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aubuchon Hardware"
+      },
+      {
+        "from": [
+          "HD Supply White Cap",
+          "HD White Cap Supply"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HD Supply White Cap"
+      }
+    ],
+    "description": "Mass edit cells in column name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Home Depot"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "The Home Depot"
+      }
+    ],
+    "description": "Mass edit cells in column name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lowes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lowe's"
+      }
+    ],
+    "description": "Mass edit cells in column name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Great Lakes Ace Hardware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ace Hardware"
+      }
+    ],
+    "description": "Mass edit cells in column name"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rocky's Ace Hardware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ace Hardware"
+      }
+    ],
+    "description": "Mass edit cells in column name"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name",
+          "expression": "value",
+          "columnName": "name",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "KeyMe",
+                "l": "KeyMe"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"handyman\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"handyman\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.startsWith(\"my \")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.startsWith(\"lock \")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"art van\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "zip",
+          "expression": "grel:value.contains(\"43035\")",
+          "columnName": "zip",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"art van\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"furniture\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"survive\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"benjamin moore\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"sherwin\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"irrigation\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Starred Rows",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\" cleaning\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"countertop\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"blue rhino\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"aircondition\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"air condition\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name",
+          "expression": "value",
+          "columnName": "name",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "West Marine",
+                "l": "West Marine"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"at&t\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"john deere\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"sunbelt\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name_lowercase",
+          "expression": "grel:value.contains(\"plumbing\")",
+          "columnName": "name_lowercase",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "description": "Remove rows"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "name_lowercase",
+    "description": "Remove column name_lowercase"
+  }
+]

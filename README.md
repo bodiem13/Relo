@@ -1,5 +1,9 @@
-# CSE6242 Team Project
-CSE6242 Fall 2020: A repository for the team project
+<p align="center">
+  <img src="app/static/relo_logo_slogan.png" width="400" height="220">
+</p>
+
+# Description
+Insert description text here
 
 ### Instructions
 
