@@ -9,6 +9,7 @@ import geopandas as gp
 import pandas as pd
 import numpy as np
 import scipy.spatial as spatial
+from geopy.geocoders import Nominatim
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
@@ -462,38 +463,36 @@ class ClusterVis:
     def get_top_city_names(self):
         top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
         
-        # by default assign census tract name.
-        # if we can find better info below, overwrite that
+        # by default, use census tract names for neighborhoods
         results = {
-            't1': top.iloc[0].NAME,
-            't2': top.iloc[1].NAME,
-            't3': top.iloc[2].NAME
+            't1': {'tract': top.iloc[0].NAME, 'loc': None, 'neighborhood': '', 'citystate': top.iloc[0].NAME},
+            't2': {'tract': top.iloc[1].NAME, 'loc': None, 'neighborhood': '', 'citystate': top.iloc[1].NAME},
+            't3': {'tract': top.iloc[2].NAME, 'loc': None, 'neighborhood': '', 'citystate': top.iloc[2].NAME},
         }
         
-        # go through amenities data since that mapped GEOID to city/state
-        # try to match through there.
+        # do a lookup for a more specific address
+        
         for i, key in enumerate(['t1', 't2', 't3']):
-            # this will try to find a matching geoid in the AMENITIES file
-            # this file has lists of indicies that correspond to the amenity reference
-            sub_df = AMENITIES[AMENITIES.GEOID.astype(int)==top.iloc[i].GEOID]
-            # if we did not match, stop processing
-            if len(sub_df) == 0:
-                continue
-            # retain only fields that start with LIST
-            sub_df = sub_df[[col for col in sub_df.columns if col.startswith('LIST')]]
-            match_type, match_index = None, None
-            for col in sub_df.columns:
-                indicies = sub_df[col].values[0]
-                if indicies:
-                    match_type = col.split('_')[1] # get name for amenity reference
-                    match_index = int(indicies[0])
-                    break
-            
-            if match_type and match_index:
-                geo = AMENITY_REFERENCE[match_type].iloc[match_index]
-                results[key] = '{}, {}'.format(geo.city, geo.state)
+            try:
+                geolocator = Nominatim(user_agent="my_application")
+                loc = geolocator.reverse((top.iloc[i].INTPTLAT, top.iloc[i].INTPTLONG))
+                results[key]['loc'] = loc.raw['address']
+                
+                for spelling in ['neighbourhood', 'neighborhood', 'neighboorhood', 'suburb', 'hamlet', 'town']:
+                    if spelling in results[key]['loc'].keys():
+                        results[key]['neighborhood'] = results[key]['loc'][spelling]
+                        break
+                    else:
+                        print(list(results[key]['loc'].keys()))
+
                     
-        return results['t1'], results['t2'], results['t3']
+                if 'city' in results[key]['loc'].keys() and 'state' in results[key]['loc'].keys():
+                    results[key]['citystate'] = '{}, {}'.format(results[key]['loc']['city'], results[key]['loc']['state'])
+            except Exception as e:
+                print(e)
+
+                   
+        return results
                
         
 

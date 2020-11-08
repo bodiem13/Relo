@@ -121,10 +121,13 @@ def search_results():
         MOST_RECENT_RESULTS['t2'] = t2.to_html(index=False, classes='data', header=True)
         MOST_RECENT_RESULTS['t3'] = t3.to_html(index=False, classes='data', header=True)
 
-        name1, name2, name3 = cvis.get_top_city_names()
-        MOST_RECENT_RESULTS['name1'] = name1
-        MOST_RECENT_RESULTS['name2'] = name2
-        MOST_RECENT_RESULTS['name3'] = name3
+        top_city_names = cvis.get_top_city_names()
+        MOST_RECENT_RESULTS['name1'] = top_city_names['t1']['citystate']
+        MOST_RECENT_RESULTS['name2'] = top_city_names['t2']['citystate']
+        MOST_RECENT_RESULTS['name3'] = top_city_names['t3']['citystate']
+        MOST_RECENT_RESULTS['subname1'] = top_city_names['t1']['neighborhood']
+        MOST_RECENT_RESULTS['subname2'] = top_city_names['t2']['neighborhood']
+        MOST_RECENT_RESULTS['subname3'] = top_city_names['t3']['neighborhood']
 
     return render_template(
         'test.html',
@@ -139,6 +142,9 @@ def search_results():
         name1=MOST_RECENT_RESULTS['name1'],
         name2=MOST_RECENT_RESULTS['name2'],
         name3=MOST_RECENT_RESULTS['name3'],
+        subname1=MOST_RECENT_RESULTS['subname1'],
+        subname2=MOST_RECENT_RESULTS['subname2'],
+        subname3=MOST_RECENT_RESULTS['subname3'],
     )
 
 
