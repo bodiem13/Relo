@@ -478,7 +478,7 @@ class ClusterVis:
                 loc = geolocator.reverse((top.iloc[i].INTPTLAT, top.iloc[i].INTPTLONG))
                 results[key]['loc'] = loc.raw['address']
                 
-                for spelling in ['neighbourhood', 'neighborhood', 'neighboorhood', 'suburb', 'hamlet', 'town']:
+                for spelling in ['neighbourhood', 'neighborhood', 'neighboorhood', 'suburb', 'hamlet', 'town', 'street']:
                     if spelling in results[key]['loc'].keys():
                         results[key]['neighborhood'] = results[key]['loc'][spelling]
                         break
