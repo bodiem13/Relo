@@ -34,7 +34,7 @@ for f in ('README.md', 'requirements.txt', 'Dockerfile', 'boot.sh', 'environment
     shutil.copy(f, CODE_DEST)
     
 # delete unnecessary files/folders
-for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data'):
+for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data', 'Final_Visualization_Input_Data.zip'):
     os.system('find {} -name {} | xargs rm -rf'.format(DEST, item))
 
 
@@ -62,6 +62,7 @@ PATHS = [
     ('data/amenities/amenities_full.pkl.gz', 'gzip'),
     ('data/amenities/amenities_features.pkl', None),
     ('data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl', None),
+    ('data/features/Final_Visualization_Input_Data.pkl', None),
     #('data/shape_data/all_census_tract_shapes.json.gz', 'gzip'),
 ]
 
@@ -88,13 +89,15 @@ os.chdir(CODE_DEST)
 # Build docker image
 os.system('sudo docker build -t relodemo:latest .')
 
-# After building, can run with e.g. sudo docker run -it relodemo -p 5000:5000
+# After building, can run with e.g. sudo docker run -it -p 5000:5000 relodemo
 
 # Export image a new "DEMO" folder
 os.chdir(DEMO_DEST)
-os.system('sudo docker create --name relodemocontainer relodemo')
-os.system('sudo docker export relodemocontainer > relodemocontainer.tar')
-#os.system("sudo docker save relodemo > relodemo.tar")
+#os.system('sudo docker create --name relodemocontainer relodemo')
+#os.system('sudo docker export relodemocontainer > relodemocontainer.tar')
+
+# save docker image
+os.system("sudo docker save relodemo > relodemo.tar")
 
 
 
