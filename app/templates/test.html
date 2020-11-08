@@ -4,14 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="#">
+    <link rel="stylesheet" href="{{ url_for('static', filename='stylesheets/search_form.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
     <title>Get Coordinates Flask App</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
     <style>
         body {
-            background-color: #f1eaea;
-            color: #333333;
+            /* background-color: #f1eaea;
+            color: #333333;*/
             font-family: "Helvetica Neue", Helvetica, sans-serif;
-            text-align: center;
+            /*text-align: center; */
+            background-color: #f2f2f2;
+            /* margin-top: 100px; */
         }
 
         h3 {
@@ -20,9 +25,9 @@
             display: inline-block
         }
 
-        .container {
+        /* .container {
             margin: 1em;
-        }
+        } */
 
         .top,
         .left,
@@ -330,12 +335,12 @@
         .search-result-item+.search-result-item {
             margin-top: 20px
         }
-
+/* 
         @media (min-width:768px) {
             .search-result-item-body {
                 margin-left: 200px
             }
-        }
+        } */
 
         .search-result-item-heading {
             font-weight: 400
@@ -451,113 +456,124 @@
 
 
 <body>
-    <div class="se-pre-con"></div>
-    <div class="topnav">
-        <a href="home">Home</a>
-        <a class="active">Results</a>
-        <a href="contact">Contact</a>
-        <a href="about">About</a>
-    </div>
-    <div style="text-align: center;" id="logo">
-        <img src="static/relo_logo_slogan.png">
-    </div>
-    <div id="cover">
-        <div class="tb">
-            <div class="td"><input type="text" id="address" name="address" placeholder="Enter address here" required>         
-            </div>
-            <div class="td" id="s-cover">
-                <form action="search_results">
-                    <button type="submit" id="clicked" onclick="manipulate_data()">
-                        <div id="s-circle"></div>
-                        <span></span>
-                    </button>
+    <!-- <div class="se-pre-con"></div> -->
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#" >
+            <img src="/static/relo_logo_slogan_min2.png" alt="">
+        </a>
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <a class="nav-link active" href="results" style="color:#00B4CC;">Results</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact" style="color:#00B4CC;">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about" style="color:#00B4CC;">About</a>
+            </li>
+        </ul>
+    </nav>
+
+
+    <div class="container-fluid">
+        <div class="row" style="padding:15px;">
+            <div class="col-md-3"></div>
+            <div class="col-md-6">
+                <form role="form" id="form-buscar" action="search_results" method="POST">
+                    <div class="form-group">
+                        <div class="input-group search-box">
+                            <input id="1" class="form-control" type="text" name="address" placeholder="Enter address here..."
+                                required />
+                            <span class="input-group-btn">
+                                <button class="btn btn-success" type="submit" style="background-color: #00b4cc;background-image: url('/static/magnifying-glass.png');background-position: center; background-repeat: no-repeat;">  
+                                </button>
+                            </span>
+                        </div>
+                    </div>
                 </form>
             </div>
+            <div class="col-md-3"></div>
         </div>
-    </div>
-    <!-- <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a> -->
-
-    <div class="container">
-        <div class="left">
-            <!--<div>
-                <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a>
-            </div>-->
-            <div id="mymap"></div>
-            <!--            <img src="http://forum.jquery.com/viewImage.do?fileId=14737000004927293&forumGroupId=14737000000003003"-->
-            <!--                alt="city">-->
-        </div>
-        <div class="right">
-            <a class="button4" style="margin-left: -560px;" style="margin-top: 5px;" onclick=updatePlot(0);>Reset Map</a>
-            <div class="row ng-scope" style="margin-top: -10px;">
-                <div class="col-md-9 col-md-pull-3">
-                    <h3>Top 3 Search Results</h3>
-                    <section class="search-result-item">
-                        <a class="image-link" href="#"><img class="image"
-                                src="https://patch.com/img/cdn20/users/22949620/20181121/100709/styles/raw/public/processed_images/southern_san_francisco_california_shutterstock_1114955372-1542812813-8441.jpg">
-                        </a>
-                        <div class="search-result-item-body">
-                            <div class="row">
-                                <div class="col-sm-9">
-                                    <h4 class="search-result-item-heading"><a href="#">San Francisco</a></h4>
-                                    <p class="info">San Francisco, CA</p>
-                                    <p class="description">Home of the Giants, 49ers, Warriors, and the famous
-                                        Golden
-                                        Gate Bridge!</p>
-                                </div>
-                                <div class="col-sm-3 text-align-center">
-                                    <p class="value3 mt-sm">The Golden Gate City</p>
-                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(1);
-                                        style="cursor:pointer">View in
-                                        Map</a>
-                                </div>
+        <div class="row" style="padding:15px;">
+            <div class="col-md-4">
+                <div class="search-result-item">
+                    <div class="search-result-item-body">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <h4 class="search-result-item-heading"><a href="#">San Francisco</a></h4>
+                                <p class="info">San Francisco, CA</p>
+                                <p class="description">Home of the Giants, 49ers, Warriors, and the famous
+                                    Golden
+                                    Gate Bridge!</p>
+                            </div>
+                            <div class="col-sm-3 text-align-center">
+                                <p class="value3 mt-sm">The Golden Gate City</p>
+                                <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(1);
+                                    style="cursor:pointer">View in
+                                    Map</a>
                             </div>
                         </div>
-                    </section>
-                    <section class="search-result-item">
-                        <a class="image-link" href="#"><img class="image"
-                                src="https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fplaces%2Fseattle-wa_416x416.jpg">
-                        </a>
-                        <div class="search-result-item-body">
-                            <div class="row">
-                                <div class="col-sm-9">
-                                    <h4 class="search-result-item-heading"><a href="#">Seattle</a> <span
-                                            class="badge bg-danger fw-normal pull-right"></span></h4>
-                                    <p class="info">Seattle, WA</p>
-                                    <p class="description">Home of the Seahawks and the famous Space Needle.</p>
-                                </div>
-                                <div class="col-sm-3 text-align-center">
-                                    <p class="value3 mt-sm">The Emerald City</p>
-                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(2);
-                                        style="cursor:pointer">View in
-                                        Map</a>
-                                </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="search-result-item">
+                    <div class="search-result-item-body">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <h4 class="search-result-item-heading"><a href="#">Seattle</a> <span
+                                        class="badge bg-danger fw-normal pull-right"></span></h4>
+                                <p class="info">Seattle, WA</p>
+                                <p class="description">Home of the Seahawks and the famous Space Needle.</p>
+                            </div>
+                            <div class="col-sm-3 text-align-center">
+                                <p class="value3 mt-sm">The Emerald City</p>
+                                <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(2);
+                                    style="cursor:pointer">View in
+                                    Map</a>
                             </div>
                         </div>
-                    </section>
-                    <section class="search-result-item">
-                        <a class="image-link" href="#"><img class="image"
-                                src="https://www.newhomesource.com/learn/wp-content/uploads/2020/09/chicago-downtown.jpg">
-                        </a>
-                        <div class="search-result-item-body">
-                            <div class="row">
-                                <div class="col-sm-9">
-                                    <h4 class="search-result-item-heading"><a href="#">Chicago</a></h4>
-                                    <p class="info">Chicago, IL</p>
-                                    <p class="description">Home of the Chicago Cubs, Bears, and Blackhawks</p>
-                                </div>
-                                <div class="col-sm-3 text-align-center">
-                                    <p class="value3 mt-sm">The Windy City</p>
-                                    <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(3);
-                                        style="cursor:pointer">View in
-                                        Map</a>
-                                </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="search-result-item">
+                    <div class="search-result-item-body">
+                        <div class="row">
+                            <div class="col-sm-9">
+                                <h4 class="search-result-item-heading"><a href="#">Chicago</a></h4>
+                                <p class="info">Chicago, IL</p>
+                                <p class="description">Home of the Chicago Cubs, Bears, and Blackhawks</p>
+                            </div>
+                            <div class="col-sm-3 text-align-center">
+                                <p class="value3 mt-sm">The Windy City</p>
+                                <p class="fs-mini text-muted"></p><a class="button3" onclick=updatePlot(3);
+                                    style="cursor:pointer">View in
+                                    Map</a>
                             </div>
                         </div>
-                    </section>
+                    </div>
                 </div>
             </div>
         </div>
-
+        <div class="row">
+            <div class="col-md-8">
+                <!--<div>
+                    <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a>
+                </div>-->
+                <div id="mymap"></div>
+                <a class="button4" style="margin-left: -560px;" style="margin-top: 5px;" onclick=updatePlot(0);>Reset
+                    Map</a>
+            </div>
+            <div class="col-md-4">                
+                <div class="row ng-scope" style="margin-top: -10px;">
+                    <div class="col-md-9 col-md-pull-3">
+                        <h3>Comparison table go here</h3>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    
     </div>
 </body>
 
