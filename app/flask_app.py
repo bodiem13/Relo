@@ -4,7 +4,7 @@
 # Use kill ##### command to end connections
 
 # render template function allows use of html templates
-from flask import Flask, render_template, request, jsonify, redirect, url_for
+from flask import Flask, render_template, request, jsonify, redirect, url_for, Markup
 from geopy.geocoders import Nominatim
 import censusgeocode as cg
 
@@ -64,6 +64,7 @@ def return_home():
 
 @app.route("/search_results", strict_slashes=False, methods=['GET', 'POST'])
 def search_results():
+    # if POST request, update MOST_RECENT_RESULTS
     if request.method == 'POST':
         print('search_results called as POST')
         address = request.form["address"]
@@ -113,22 +114,25 @@ def search_results():
         MOST_RECENT_RESULTS['fig2'] = fig2
         MOST_RECENT_RESULTS['fig3'] = fig3
 
-        return render_template(
-            'test.html',
-            fig0=fig0,
-            fig1=fig1,
-            fig2=fig2,
-            fig3=fig3,
-        )
-    else:
-        print('search_results called as GET')
-        return render_template(
-            'test.html',
-            fig0=MOST_RECENT_RESULTS['fig0'],
-            fig1=MOST_RECENT_RESULTS['fig1'],
-            fig2=MOST_RECENT_RESULTS['fig2'],
-            fig3=MOST_RECENT_RESULTS['fig3'],
-        )
+        # Build html tables for display
+        t0, t1, t2, t3 = cvis.build_tables()
+        MOST_RECENT_RESULTS['t0'] = t0.to_html(index=False, classes='data', header=True)
+        MOST_RECENT_RESULTS['t1'] = t1.to_html(index=False, classes='data', header=True)
+        MOST_RECENT_RESULTS['t2'] = t2.to_html(index=False, classes='data', header=True)
+        MOST_RECENT_RESULTS['t3'] = t3.to_html(index=False, classes='data', header=True)
+
+    return render_template(
+        'test.html',
+        fig0=MOST_RECENT_RESULTS['fig0'],
+        fig1=MOST_RECENT_RESULTS['fig1'],
+        fig2=MOST_RECENT_RESULTS['fig2'],
+        fig3=MOST_RECENT_RESULTS['fig3'],
+        t0=MOST_RECENT_RESULTS['t0'],
+        t1=MOST_RECENT_RESULTS['t1'],
+        t2=MOST_RECENT_RESULTS['t2'],
+        t3=MOST_RECENT_RESULTS['t3'],
+    )
+
 
 
 

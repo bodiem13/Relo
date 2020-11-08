@@ -421,6 +421,9 @@
             cursor:pointer;
         }
 
+        table {text-align: left;}
+        table thead th {text-align: left;}
+
     </style>
 
 
@@ -439,15 +442,43 @@
         // wait for html to load, then plot initial overview map
         angular.element(document).ready(function () {
             var fig = {{ fig0 | safe }};
-        Plotly.plot("mymap", fig.data, fig.layout || {}), { responsive: true };});
+            Plotly.plot("mymap", fig.data, fig.layout || {}), { responsive: true };
+            // hide all tables except t0
+            document.getElementById("t1").style.display = "none";
+            document.getElementById("t2").style.display = "none";
+            document.getElementById("t3").style.display = "none";
+            });
 
         // pass this function an integer to update the map
         // 0=original overview, 1=1st ranked zoom, 2=2nd ranked zoom, 3=3rd ranked zoom
         function updatePlot(n) {
-            if (n === 0) { var fig = {{ fig0 | safe }};};
-            if (n === 1) { var fig = {{ fig1 | safe }};};
-            if (n === 2) { var fig = {{ fig2 | safe }};};
-            if (n === 3) { var fig = {{ fig3 | safe }};};
+            if (n === 0) { 
+                var fig = {{ fig0 | safe }};
+                var t = "t0";
+            };
+            
+            if (n === 1) {
+                var fig = {{ fig1 | safe }};
+                var t = "t1";
+            };
+            
+            if (n === 2) {
+                var fig = {{ fig2 | safe }};
+                var t = "t2";
+            };
+            
+            if (n === 3) {
+                var fig = {{ fig3 | safe }};
+                var t = "t3";
+            };
+
+            // hide all tables, show chosen table
+            document.getElementById("t0").style.display = "none";
+            document.getElementById("t1").style.display = "none";
+            document.getElementById("t2").style.display = "none";
+            document.getElementById("t3").style.display = "none";
+            document.getElementById(t).style.display = "block";
+            // update map with new figure          
             Plotly.newPlot("mymap", fig.data, fig.layout || {});
         };
     </script>
@@ -555,6 +586,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
         <div class="row">
             <div class="col-md-8">
@@ -568,13 +600,25 @@
             <div class="col-md-4">                
                 <div class="row ng-scope" style="margin-top: -10px;">
                     <div class="col-md-9 col-md-pull-3">
-                        <h3>Comparison table go here</h3>                        
+                            </div id=tables>
+                                <div id="t0">
+                                    {{ t0 | safe}}
+                                </div>
+                                <div id="t1">
+                                    {{ t1 | safe}}
+                                </div>  
+                                <div id="t2">
+                                    {{ t2 | safe}}
+                                </div>  
+                                <div id="t3">
+                                    {{ t3 | safe}}
+                            </div>                       
                     </div>
                 </div>
             </div>
         </div>
-    
-    </div>
+        </div>
+  
 </body>
 
 </html>

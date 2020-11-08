@@ -35,6 +35,7 @@ CENSUS_GEOM_PATH = '../data/shape_data/all_census_tract_shapes.json.gz'
 GAZ_PATH = '../data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl'
 AMENITIES_PATH = '../data/amenities/amenities_full.pkl.gz'
 AMENITIES_25_PATH = '../data/amenities/amenities_25mi_for_vis.pkl.gz'
+FEATURE_DATA_PATH = '../data/features/Final_Visualization_Input_Data.pkl'
 
 start = time.time()
 print('Loading clustervis.py module-level globals (this may take a moment)')
@@ -74,6 +75,11 @@ for i, row in GAZ.iterrows():
     points.append([row.INTPTLAT, row.INTPTLONG])
 points = np.array(points)
 CLUSTER_POINT_TREE = spatial.cKDTree(points)
+print('------> Done')
+
+print('---> Reading Features (for table comparisons)')
+ORIG_FEATURE_DATA = pd.read_pickle(FEATURE_DATA_PATH)
+ORIG_FEATURE_DATA['GEOID'] = ORIG_FEATURE_DATA['GEOID'].astype(int)
 print('------> Done')
 
 print('Done. {} seconds to load.'.format(round(time.time()-start, 2)))
@@ -402,4 +408,53 @@ class ClusterVis:
             if attempt_3.shape[0] > 1: # this should not happen
                 print('POSSIBLE ERROR:::Multiple Matching Clusters')
             return attempt_3['cluster'].values[0]
+            
+    def build_tables(self):
+        """Build tables for HTML template, to show original search vs. top match & percent change"""
+        top_geoids = self.df_subset_top.sort_values('ranking').GEOID.astype(int).values.tolist()
+        original_geoid = int(self.geoid)
+        
+        origFD = ORIG_FEATURE_DATA[ORIG_FEATURE_DATA.GEOID==original_geoid]
+        top1FD = ORIG_FEATURE_DATA[ORIG_FEATURE_DATA.GEOID==top_geoids[0]]
+        top2FD = ORIG_FEATURE_DATA[ORIG_FEATURE_DATA.GEOID==top_geoids[1]]
+        top3FD = ORIG_FEATURE_DATA[ORIG_FEATURE_DATA.GEOID==top_geoids[2]]
+        
+        non_numeric_cols = ['NAME', 'GEOID', 'GEO_ID','INTPTLAT', 'INTPTLONG']
+        
+        table = pd.concat([origFD, top1FD, top2FD, top3FD]).reset_index(drop=True)
+        non_num_table = table[non_numeric_cols].T.copy()
+        non_num_table.columns = ['c0', 'c1', 'c2', 'c3']
+        table = table.drop(columns=non_numeric_cols)
+        table = table.T
+        table.columns = ['c0', 'c1', 'c2', 'c3']
+        
+        print(table)
+       
+        print('Calculating % change....')
+        for col in ['c1', 'c2', 'c3']:
+            table['c0_{}'.format(col)] = ((table[col] - table.c0) / table.c0 * 100.).round(1)
+        
+        print('Sorting and dealing with missing values...')
+        # sort by absolute value of the percent change
+        t0 = table[['c0']]
+        t1 = table[['c0', 'c1', 'c0_c1']].fillna(9999999999).reindex(table['c0_c1'].abs().sort_values().index).replace(9999999999, '--')
+        t2 = table[['c0', 'c2', 'c0_c2']].fillna(9999999999).reindex(table['c0_c2'].abs().sort_values().index).replace(9999999999, '--')
+        t3 = table[['c0', 'c3', 'c0_c3']].fillna(9999999999).reindex(table['c0_c3'].abs().sort_values().index).replace(9999999999, '--')
+        
+        print('Merging back non-numeric data...')
+        # add back the non-numeric fields at the front and reset index
+        t0 = pd.concat([non_num_table[['c0']], t0]).fillna('--').reset_index()
+        t1 = pd.concat([non_num_table[['c0', 'c1']], t1]).fillna('--').reset_index()
+        t2 = pd.concat([non_num_table[['c0', 'c2']], t2]).fillna('--').reset_index()
+        t3 = pd.concat([non_num_table[['c0', 'c3']], t3]).fillna('--').reset_index()
+
+        print('Renaming Fields...')
+        # rename fields
+        t0.columns = ['Feature', 'Searched Neighborhood']
+        t1.columns = ['Feature', 'Searched Neighborhood', 'Top 1st Match', 'Percent Change']
+        t2.columns = ['Feature', 'Searched Neighborhood', 'Top 2nd Match', 'Percent Change']
+        t3.columns = ['Feature', 'Searched Neighborhood', 'Top 3rd Match', 'Percent Change']                
+
+        return t0, t1, t2, t3
+
 
