@@ -137,15 +137,15 @@ class ClusterVis:
         self._create_initial_map_figure()
         # update figure margin
         self.fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        # draw amenities around top points
+        self._add_amenities()
         # add the 'other' subset of points
         # these have a smaller, different style than the top matches
         self._add_other_points()
-        # draw amenities around top points
-        self._add_amenities()
-        # add 'top' subset of points
-        self._add_top_points()
         # add the point that was searched for
         self._add_original_point()
+        # add 'top' subset of points
+        self._add_top_points()
         # add map style
         if not DEV_MAP:
             self._add_map_style()
@@ -165,11 +165,11 @@ class ClusterVis:
         # AMENITY_REFERENCE tables). select those indicies (if they exist)
         # and plot those amenities
         styling = {
-            'GROCERY': {'color':'orange'},
-            'GYMS': {'color': 'darkblue'},
-            'HARDWARE': {'color': 'brown'},
-            'MEDICAL': {'color':'pink'},
-            'PARKS': {'color': 'green'},
+            'GROCERY': {'color': 'orange', 'name': 'Grocery Store'},
+            'GYMS': {'color': 'darkblue', 'name': 'Gym'},
+            'HARDWARE': {'color': 'brown', 'name': 'Hardware Store'},
+            'MEDICAL': {'color': 'pink', 'name': 'Medical Facility'},
+            'PARKS': {'color': 'lightgreen', 'name': 'Park'},
         }
         
         
@@ -201,10 +201,11 @@ class ClusterVis:
                         'opacity':0.6,
                         'allowoverlap': True,
                        },
-                text=current_amenity_results['name'].values.tolist(),
+                text=['{}: {}'.format(styling[name]['name'], x) for x in current_amenity_results['name'].values.tolist()],
                 hoverinfo='text',
                 hovertemplate='%{text}<extra></extra>',
                 showlegend=True,
+                name=styling[name]['name'],
                 #labels=name,
             )
 
@@ -227,6 +228,7 @@ class ClusterVis:
             marker_line_width=1,
             # hover text
             text=self.df_subset.NAME,
+            hovertemplate='%{text}<extra></extra>',
             )
         )        
 
@@ -237,7 +239,7 @@ class ClusterVis:
             mode='markers',
             lat=self.df_subset_other['INTPTLAT'],
             lon=self.df_subset_other['INTPTLONG'],
-            marker={'size': 10,
+            marker={'size': 15,
                     'symbol': 'circle',
                     'color': 'lightblue',
                     'opacity':0.3,
@@ -246,8 +248,9 @@ class ClusterVis:
             text=list(map(str, self.df_subset_other.ranking.values.tolist())),
             hoverinfo='text',
             hovertemplate='Rank: %{text}<extra></extra>',
+            name='Other Matching Neighborhoods'
             #hovertext=list(map(str, df_subset_other.ranking.values.tolist())),
-            showlegend=False,
+            #showlegend=False,
             #hoverinfo='none',
             #below='top',
         )
@@ -267,18 +270,19 @@ class ClusterVis:
                    },
             text=['{}'.format(x) for x in self.df_subset_top.ranking.values.tolist()],
             hovertemplate='Rank: %{text}<extra></extra>',
-            showlegend=False,
+            name='Top Matched Neighborhoods'
+            #showlegend=False,
             #below="''",
         )
         
         # Font style
-        self.fig.update_layout(
-            font=dict(
-                family="Courier New, monospace",
-                size=25,
-                color="Black"
-            )
-        )
+#        self.fig.update_layout(
+#            font=dict(
+#                family="Courier New, monospace",
+#                size=25,
+#                color="Black"
+#            )
+#        )
 
     def _add_original_point(self):
          self.fig = self.fig.add_scattermapbox(
@@ -294,7 +298,8 @@ class ClusterVis:
                    },
             text=['Searched point'],
             hovertemplate='%{text}<extra></extra>',
-            showlegend=False,
+            name='Searched Neighborhood'
+            #showlegend=False,
             #below="''",
         )       
 
@@ -319,7 +324,7 @@ class ClusterVis:
                 accesstoken=accesstoken,
                 style=style,
             ),
-            showlegend=False
+            #showlegend=False
         )
 
     def _generate_zoomed_figures(self):
