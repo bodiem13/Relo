@@ -427,8 +427,7 @@ class ClusterVis:
         table = table.drop(columns=non_numeric_cols)
         table = table.T
         table.columns = ['c0', 'c1', 'c2', 'c3']
-        
-        print(table)
+
        
         print('Calculating % change....')
         for col in ['c1', 'c2', 'c3']:
@@ -454,7 +453,50 @@ class ClusterVis:
         t1.columns = ['Feature', 'Searched Neighborhood', 'Top 1st Match', 'Percent Change']
         t2.columns = ['Feature', 'Searched Neighborhood', 'Top 2nd Match', 'Percent Change']
         t3.columns = ['Feature', 'Searched Neighborhood', 'Top 3rd Match', 'Percent Change']                
+        
+        print('Finished generating tables.')
 
         return t0, t1, t2, t3
 
 
+    def get_top_city_names(self):
+        top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
+        
+        # by default assign census tract name.
+        # if we can find better info below, overwrite that
+        results = {
+            't1': top.iloc[0].NAME,
+            't2': top.iloc[1].NAME,
+            't3': top.iloc[2].NAME
+        }
+        
+        # go through amenities data since that mapped GEOID to city/state
+        # try to match through there.
+        for i, key in enumerate(['t1', 't2', 't3']):
+            # this will try to find a matching geoid in the AMENITIES file
+            # this file has lists of indicies that correspond to the amenity reference
+            sub_df = AMENITIES[AMENITIES.GEOID.astype(int)==top.iloc[i].GEOID]
+            # if we did not match, stop processing
+            if len(sub_df) == 0:
+                continue
+            # retain only fields that start with LIST
+            sub_df = sub_df[[col for col in sub_df.columns if col.startswith('LIST')]]
+            match_type, match_index = None, None
+            for col in sub_df.columns:
+                indicies = sub_df[col].values[0]
+                if indicies:
+                    match_type = col.split('_')[1] # get name for amenity reference
+                    match_index = int(indicies[0])
+                    break
+            
+            if match_type and match_index:
+                geo = AMENITY_REFERENCE[match_type].iloc[match_index]
+                results[key] = '{}, {}'.format(geo.city, geo.state)
+                    
+        return results['t1'], results['t2'], results['t3']
+               
+        
+
+        
+        
+             

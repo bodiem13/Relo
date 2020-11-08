@@ -121,6 +121,11 @@ def search_results():
         MOST_RECENT_RESULTS['t2'] = t2.to_html(index=False, classes='data', header=True)
         MOST_RECENT_RESULTS['t3'] = t3.to_html(index=False, classes='data', header=True)
 
+        name1, name2, name3 = cvis.get_top_city_names()
+        MOST_RECENT_RESULTS['name1'] = name1
+        MOST_RECENT_RESULTS['name2'] = name2
+        MOST_RECENT_RESULTS['name3'] = name3
+
     return render_template(
         'test.html',
         fig0=MOST_RECENT_RESULTS['fig0'],
@@ -131,6 +136,9 @@ def search_results():
         t1=MOST_RECENT_RESULTS['t1'],
         t2=MOST_RECENT_RESULTS['t2'],
         t3=MOST_RECENT_RESULTS['t3'],
+        name1=MOST_RECENT_RESULTS['name1'],
+        name2=MOST_RECENT_RESULTS['name2'],
+        name3=MOST_RECENT_RESULTS['name3'],
     )
 
 
