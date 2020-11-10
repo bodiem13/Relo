@@ -475,16 +475,10 @@
         });
 
 
-        //var mybutton = document.getElementById("myBtn");
-
         // wait for html to load, then plot initial overview map
         angular.element(document).ready(function () {
             var fig = {{ fig0 | safe }};
             Plotly.plot("mymap", fig.data, fig.layout, {displayModeBar: false} || {}), { responsive: true };
-            // hide all tables except t0
-            document.getElementById("t1").style.display = "none";
-            document.getElementById("t2").style.display = "none";
-            document.getElementById("t3").style.display = "none";
             });
 
         // pass this function an integer to update the map
@@ -492,7 +486,7 @@
         function updatePlot(n) {
             if (n === 0) { 
                 var fig = {{ fig0 | safe }};
-                var t = "t0";
+                var t = "t0";               
             };
             
             if (n === 1) {
@@ -510,16 +504,11 @@
                 var t = "t3";
             };
 
-            // hide all tables, show chosen table
-            document.getElementById("t0").style.display = "none";
-            document.getElementById("t1").style.display = "none";
-            document.getElementById("t2").style.display = "none";
-            document.getElementById("t3").style.display = "none";
-            document.getElementById(t).style.display = "block";
-            // update map with new figure 
-            
                    
             Plotly.newPlot("mymap", fig.data, fig.layout, {displayModeBar: false} || {});
+
+            // Call to render comparison table
+            drawComparisonTable(n);
         };
 
         function topFunction() {
@@ -661,21 +650,6 @@
                 <i>Select "View in Map" for each match to see a comparison.</i><br><br><br>
                 <div class="row ng-scope" style="margin-top: -10px;">
                     <div id="d3div" style="width:100%;"></div>
-                    <!-- <div class="col-md-9 col-md-pull-3">
-                            <div id=tables>
-                                <div id="t0">
-                                    {{ t0 | safe}}
-                                </div>
-                                <div id="t1">
-                                    {{ t1 | safe}}
-                                </div>  
-                                <div id="t2">
-                                    {{ t2 | safe}}
-                                </div>  
-                                <div id="t3">
-                                    {{ t3 | safe}}
-                            </div>                       
-                    </div> -->
                 </div>
             </div>
             <div class="col-md-2"></div>
@@ -686,16 +660,25 @@
 
 <script>
 
-    function drawtable(){
+    function drawComparisonTable(n){
 
-    var data = [
-        ['Grocery stores within 5 miles',100,100,0]
-        ,['Median income',200,220,20]
-        ,['Average cost of living',150,100,-50]
-        ,['Average cost of transportation',150,100,-50]
-        ,['Average home price',150,120,-30]
-    ];
+    console.log("drawing table - "+ n)
 
+    var flaskData = [];
+    flaskData[0] = {{ t0 | safe}};
+    flaskData[1] = {{ t1 | safe}};
+    flaskData[2] = {{ t2 | safe}};
+    flaskData[3] = {{ t3 | safe}};
+
+    var data = [];
+
+    var fieldRefs = ['','Top 1st Match','Top 2nd Match','Top 3rd Match'];
+    var targetFieldRef = fieldRefs[n];    
+    
+
+    var data = d3.values(flaskData[n]).slice(6,12);    
+
+    d3.select("#d3div").select("table").remove();
     var table = d3.select("#d3div").append("table").attr("style","margin: 0 auto");
 
     var tr = table.selectAll("tr")
@@ -705,63 +688,86 @@
 
 
     var td1 = tr.append("td")
-            .text(function(d) { return d[0] });
+            .text(function(d) { return d.Feature });
 
     var td2 = tr.append("td");
 
     var svg = td2.append("svg")
                 .attr("height","60px")
-                .attr("width","400px");
+                .attr("width","500px");
 
     
     // current location measure
     svg.append("rect")
     .attr("height", 20)
     .attr("width", function(d){
-            var max = Math.max(d[1],d[2]);
-            console.log("max "+max);
-            return (d[1]*300/max)+"px";
+            var max = Math.max(d['Searched Neighborhood'],d[targetFieldRef]);
+            return (d['Searched Neighborhood']*300/max)+"px";
         })
     .attr("x",50)
     .attr("y",10)
     .style("fill","#79cfdb");
 
+    // label for current location measure
+    svg.append("text")
+    .attr("x", function(d){
+            var max = Math.max(d['Searched Neighborhood'],d[targetFieldRef]);
+            return (d['Searched Neighborhood']*300/max) + 55;
+        })
+    .attr("y",25)
+    .attr("fill","#000")
+    .style("font-size","0.8em")
+    .text(function(d){return d['Searched Neighborhood']});
+
     // target location measure
     svg.append("rect").
     attr("height", 20)
     .attr("width", function(d){
-            var max = Math.max(d[1],d[2]);
+            var max = Math.max(d['Searched Neighborhood'],d[targetFieldRef]);
             console.log("max "+max);
-            return (d[2]*300/max)+"px";
+            return (d[targetFieldRef]*300/max)+"px";
         })
     .attr("x",50)
     .attr("y",30)    
     .style("fill","#006e7d");
 
+    // label for target location measure
+    svg.append("text")
+    .attr("x", function(d){
+            var max = Math.max(d['Searched Neighborhood'],d[targetFieldRef]);
+            return (d[targetFieldRef]*300/max) + 55;
+        })
+    .attr("y",45)
+    .attr("fill","#000")
+    .style("font-size","0.8em")
+    .text(function(d){return d[targetFieldRef]});
+
+
     // diff %
     svg.append("circle")
     .attr("r",function(d){
-            return Math.max(30*((100 - Math.abs(d[3]))/100),20)
+            return Math.max(30*((100 - Math.abs(d['Percent Change']))/100),20)
         })
     .attr("cx",50)
     .attr("cy",30)
     .style("fill","#00363d");
 
-
+    // label for diff %
     svg.append("text")
     .attr("fill", function(d){
-        return (d[3] >= 0 ? "#009b22" : "#cd6400")
+        return (d['Percent Change'] >= 0 ? "#009b22" : "#cd6400")
     })
     .attr("x",35)
     .attr("dy",30)
     .style("font-size","0.8em")
     .text(function(d){
-        return (100-Math.abs(d[3]))+"%"
+        return (100-Math.abs(d['Percent Change']))+"%"
         }); 
 
+    // static label 'match'
     svg.append("text")
     .attr("fill", function(d){
-        return (d[3] >= 0 ? "#009b22" : "#cd6400")
+        return (d['Percent Change'] >= 0 ? "#009b22" : "#cd6400")
     })
     .attr("x",35)
     .attr("dy",42)
@@ -771,7 +777,7 @@
 
     }
 
-    drawtable();
+    //drawComparisonTable();
 
 </script>
   

@@ -118,10 +118,10 @@ def search_results():
 
         # Build html tables for display
         t0, t1, t2, t3 = cvis.build_tables()
-        MOST_RECENT_RESULTS["t0"] = t0.to_html(index=False, classes="data", header=True)
-        MOST_RECENT_RESULTS["t1"] = t1.to_html(index=False, classes="data", header=True)
-        MOST_RECENT_RESULTS["t2"] = t2.to_html(index=False, classes="data", header=True)
-        MOST_RECENT_RESULTS["t3"] = t3.to_html(index=False, classes="data", header=True)
+        MOST_RECENT_RESULTS["t0"] = t0.to_json(orient="index")
+        MOST_RECENT_RESULTS["t1"] = t1.to_json(orient="index")
+        MOST_RECENT_RESULTS["t2"] = t2.to_json(orient="index")
+        MOST_RECENT_RESULTS["t3"] = t3.to_json(orient="index")
 
         top_city_names = cvis.get_top_city_names()
         MOST_RECENT_RESULTS["name1"] = top_city_names["t1"]["citystate"]
