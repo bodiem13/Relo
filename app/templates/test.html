@@ -480,7 +480,7 @@
         // wait for html to load, then plot initial overview map
         angular.element(document).ready(function () {
             var fig = {{ fig0 | safe }};
-            Plotly.plot("mymap", fig.data, fig.layout || {}), { responsive: true };
+            Plotly.plot("mymap", fig.data, fig.layout, {displayModeBar: false} || {}), { responsive: true };
             // hide all tables except t0
             document.getElementById("t1").style.display = "none";
             document.getElementById("t2").style.display = "none";
@@ -516,8 +516,10 @@
             document.getElementById("t2").style.display = "none";
             document.getElementById("t3").style.display = "none";
             document.getElementById(t).style.display = "block";
-            // update map with new figure          
-            Plotly.newPlot("mymap", fig.data, fig.layout || {});
+            // update map with new figure 
+            
+                   
+            Plotly.newPlot("mymap", fig.data, fig.layout, {displayModeBar: false} || {});
         };
 
         function topFunction() {
@@ -645,7 +647,7 @@
                 <!--<div>
                     <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a>
                 </div>-->
-                <h4>Neighborhood Map</h4>        
+                <h4>Currently viewing results for: {{ address | safe}}</h4>      
                 <div id="mymap"></div>
                 <a class="button4" style="margin-top: 10px;" onclick=updatePlot(0);>Reset
                     Map</a>
