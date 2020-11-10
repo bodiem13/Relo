@@ -412,6 +412,31 @@ class ClusterVis:
             
     def build_tables(self):
         """Build tables for HTML template, to show original search vs. top match & percent change"""
+        map_fields = {'GEOID': 'Geo Id', 'GEO_ID': 'Geographic Identifier', 'NAME': 'Name', 'SUM_IND_Child_Dep_Ratio': 'Child Dependency Ratio',
+       'SUM_IND_Old_Age_Dep_Ratio': 'Old Age Dependency Ratio', 'SUM_IND_Med_Age': 'Median Age', 'MED_INC_25_PLUS_Tot': 'Median Income Over 25 Years Old',
+       'PERC_BEL_POV': 'UNSURE', 'LAB_FRC_POP_20_to_64': 'UNSURE', 'UNEMP_RATE_POP_20_to_64': 'Unemployment Rate in 20-64 Year Old People',
+       'HH_FAM_Avg_Fam_Size': 'Average Household Family Size', 'HH_TOT_1_Unit_Stuct': 'Households With One Unit',
+       'HH_TOT_2_Plus_Unit_Struct': 'Households with Two Units', 'HH_TOT_Owner': 'Total Household Owners', 'RACE_One_Race_White': 'White Race',
+       'RACE_One_Race_Black': 'Black Race', 'RACE_One_Race_Asian': 'Asian Race',
+       'RACE_One_Race_Hawaiian_PacIsl': 'Hawaiian Pacific Race', 'RACE_One_Race_Other': 'Other Race', 'RACE_Tot_Hisp': 'Hispanic Race',
+       'HOUSE_Tot_House_Units': 'Total Number of House Units', 'EDU_25_PLUS_w_HS_or_GED': 'Number of People Over 25 with High School or GED Diploma',
+       'EDU_25_PLUS_w_Bachelors_Plus': 'Number of People over 25 with At Least a Bachelors Degree',
+       'CIV_EMP_POP_16_PLUS_GRP_Mngmt_Bus_Sci_Art': 'UNSURE',
+       'CIV_EMP_POP_16_PLUS_GRP_Srv': 'UNSURE', 'CIV_EMP_POP_16_PLUS_GRP_Sls_Office': 'UNSURE',
+       'CIV_EMP_POP_16_PLUS_GRP_NatRes_Constr_Maint': 'UNSURE',
+       'CIV_EMP_POP_16_PLUS_GRP_Prod_Trans_MatMov': 'UNSURE', 'INTPTLAT': 'Latitude', 'INTPTLONG': 'Longitude',
+       'N_GROCERY_WITHIN_TRACT': 'Number of Grocery Stores within Tract', 'N_GYMS_WITHIN_TRACT': 'Number of Gyms within Tract',
+       'N_HARDWARE_WITHIN_TRACT': 'Number of Hardware Stores within Tract', 'N_PARKS_WITHIN_TRACT': 'Number of Parkswithin Tract',
+       'N_MEDICAL_WITHIN_TRACT': 'Number of Medical Locations within Tract', 'WT_N_GROCERY_DIST_2': 'Number of Grocery Stores within 2 Miles', 'WT_N_GROCERY_DIST_5': 'Number of Grocery Stores within 5 Miles',
+       'WT_N_GROCERY_DIST_10': 'Number of Grocery Stores within 10 Miles', 'WT_N_GROCERY_DIST_25': 'Number of Grocery Stores within 25 Miles', 'WT_N_GROCERY_DIST_50': 'Number of Grocery Stores within 50 Miles',
+       'WT_N_GYMS_DIST_2': 'Number of Gyms within 2 Miles', 'WT_N_GYMS_DIST_5': 'Number of Gyms within 5 Miles', 'WT_N_GYMS_DIST_10': 'Number of Gyms within 10 Miles',
+       'WT_N_GYMS_DIST_25': 'Number of Gyms within 25 Miles', 'WT_N_GYMS_DIST_50': 'Number of Gyms within 50 Miles', 'WT_N_HARDWARE_DIST_2': 'Number of Hardware Stores within 2 Miles',
+       'WT_N_HARDWARE_DIST_5': 'Number of Hardware Stores within 5 Miles', 'WT_N_HARDWARE_DIST_10': 'Number of Hardware Stores within 10 Miles',
+       'WT_N_HARDWARE_DIST_25': 'Number of Hardware Stores within 25 Miles', 'WT_N_HARDWARE_DIST_50': 'Number of Hardware Stores within 50 Miles', 'WT_N_PARKS_DIST_2': 'Number of Parks within 2 Miles',
+       'WT_N_PARKS_DIST_5': 'Number of Parks within 5 Miles', 'WT_N_PARKS_DIST_10': 'Number of Parks within 10 Miles', 'WT_N_PARKS_DIST_25': 'Number of Parks within 25 Miles',
+       'WT_N_PARKS_DIST_50': 'Number of Parks within 50 Miles', 'WT_N_MEDICAL_DIST_2': 'Number of Medical Locations within 2 Miles', 'WT_N_MEDICAL_DIST_5': 'Number of Medical Locations within 5 Miles',
+       'WT_N_MEDICAL_DIST_10': 'Number of Medical Locations within 10 Miles', 'WT_N_MEDICAL_DIST_25': 'Number of Medical Locations within 25 Miles', 'WT_N_MEDICAL_DIST_50': 'Number of Medical Locations within 50 Miles'}
+
         top_geoids = self.df_subset_top.sort_values('ranking').GEOID.astype(int).values.tolist()
         original_geoid = int(self.geoid)
         
