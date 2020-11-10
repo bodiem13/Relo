@@ -430,6 +430,7 @@
 
         #topButton {
             display: none;
+            width: 150px;
             position: fixed;
             bottom: 20px;
             right: 30px;
@@ -452,7 +453,7 @@
 
 
     <!-- D3.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"  charset="utf-8"></script>
     <!-- Plotly.js -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!--Angular js-->
@@ -523,7 +524,6 @@
             document.body.scrollTop = 0;
             document.documentElement.scrollTop = 0;
         }
-
         
     </script>
 </head>
@@ -658,7 +658,8 @@
                 <h4>How this neighborhood compares to yours</h4>
                 <i>Select "View in Map" for each match to see a comparison.</i><br><br><br>
                 <div class="row ng-scope" style="margin-top: -10px;">
-                    <div class="col-md-9 col-md-pull-3">
+                    <div id="d3div" style="width:100%;"></div>
+                    <!-- <div class="col-md-9 col-md-pull-3">
                             <div id=tables>
                                 <div id="t0">
                                     {{ t0 | safe}}
@@ -672,14 +673,105 @@
                                 <div id="t3">
                                     {{ t3 | safe}}
                             </div>                       
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-md-2"></div>
         </div>
         </div>
 
-        <button onclick="topFunction()" id="topButton" title="Go back to top">Top</button>
+        <button onclick="topFunction()" id="topButton" title="Go back to top">Back to Top</button>
+
+<script>
+
+    function drawtable(){
+
+    var data = [
+        ['Grocery stores within 5 miles',100,100,0]
+        ,['Median income',200,220,20]
+        ,['Average cost of living',150,100,-50]
+        ,['Average cost of transportation',150,100,-50]
+        ,['Average home price',150,120,-30]
+    ];
+
+    var table = d3.select("#d3div").append("table").attr("style","margin: 0 auto");
+
+    var tr = table.selectAll("tr")
+    .data(data)
+    .enter()
+    .append("tr");
+
+
+    var td1 = tr.append("td")
+            .text(function(d) { return d[0] });
+
+    var td2 = tr.append("td");
+
+    var svg = td2.append("svg")
+                .attr("height","60px")
+                .attr("width","400px");
+
+    
+    // current location measure
+    svg.append("rect")
+    .attr("height", 20)
+    .attr("width", function(d){
+            var max = Math.max(d[1],d[2]);
+            console.log("max "+max);
+            return (d[1]*300/max)+"px";
+        })
+    .attr("x",50)
+    .attr("y",10)
+    .style("fill","#79cfdb");
+
+    // target location measure
+    svg.append("rect").
+    attr("height", 20)
+    .attr("width", function(d){
+            var max = Math.max(d[1],d[2]);
+            console.log("max "+max);
+            return (d[2]*300/max)+"px";
+        })
+    .attr("x",50)
+    .attr("y",30)    
+    .style("fill","#006e7d");
+
+    // diff %
+    svg.append("circle")
+    .attr("r",function(d){
+            return Math.max(30*((100 - Math.abs(d[3]))/100),20)
+        })
+    .attr("cx",50)
+    .attr("cy",30)
+    .style("fill","#00363d");
+
+
+    svg.append("text")
+    .attr("fill", function(d){
+        return (d[3] >= 0 ? "#009b22" : "#cd6400")
+    })
+    .attr("x",35)
+    .attr("dy",30)
+    .style("font-size","0.8em")
+    .text(function(d){
+        return (100-Math.abs(d[3]))+"%"
+        }); 
+
+    svg.append("text")
+    .attr("fill", function(d){
+        return (d[3] >= 0 ? "#009b22" : "#cd6400")
+    })
+    .attr("x",35)
+    .attr("dy",42)
+    .style("font-size","0.5em")
+    .text("Match");  
+    
+
+    }
+
+    drawtable();
+
+</script>
   
 </body>
 
