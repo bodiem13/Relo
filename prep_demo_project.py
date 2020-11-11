@@ -41,15 +41,15 @@ for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'sourc
 # pick a few clusters and get all associated geoids
 # this will be used to limit the copied datasets.
 # limit cluster data to selected clusters
-clusters = [1, 2]
+clusters = [1] #[3]
 ###
-cluster_data_path = os.path.join(CODE_DEST, 'data/sample/cluster_test_data_all_clusters_300.csv')
+cluster_data_path = os.path.join(CODE_DEST, 'data/cluster_model_output/clusters_and_ranks.pkl')
 ###
-df = pd.read_csv(cluster_data_path)
+df = pd.read_pickle(cluster_data_path)
 df = df[df.cluster.isin(clusters)]
 GEOIDS = [int(x) for x in df.GEOID.values.tolist()]
 os.system('rm {}'.format(cluster_data_path))
-df.to_csv(cluster_data_path)
+df.to_pickle(cluster_data_path)
 
 # limit datasets to matching geoids
 PATHS = [
