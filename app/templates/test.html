@@ -348,7 +348,7 @@
         } */
 
         .search-result-item-heading {
-            font-weight: 400
+            font-weight: 300
         }
 
         .search-result-item-heading>a {
@@ -479,31 +479,37 @@
 
         // wait for html to load, then plot initial overview map
         angular.element(document).ready(function () {
-            var fig = {{ fig0 | safe }};
+            var fig = {{ fig0 | safe }};            
             Plotly.plot("mymap", fig.data, fig.layout, {displayModeBar: false} || {}), { responsive: true };
             });
 
         // pass this function an integer to update the map
         // 0=original overview, 1=1st ranked zoom, 2=2nd ranked zoom, 3=3rd ranked zoom
         function updatePlot(n) {
+
+            var mapTitleText = "";
+
             if (n === 0) { 
-                var fig = {{ fig0 | safe }};
+                var fig = {{ fig0 | safe }};                
                 var t = "t0";               
             };
             
             if (n === 1) {
-                var fig = {{ fig1 | safe }};
+                var fig = {{ fig1 | safe }};                
                 var t = "t1";
+                mapTitleText = "{{ name1 | safe }}";
             };
             
             if (n === 2) {
-                var fig = {{ fig2 | safe }};
+                var fig = {{ fig2 | safe }};                
                 var t = "t2";
+                mapTitleText = "{{ name2 | safe }}";
             };
             
             if (n === 3) {
-                var fig = {{ fig3 | safe }};
+                var fig = {{ fig3 | safe }};                
                 var t = "t3";
+                mapTitleText = "{{ name3 | safe }}";
             };
 
                    
@@ -511,6 +517,8 @@
 
             // Call to render comparison table
             drawComparisonTable(n);
+            //Update map title
+            $("#mapTitle").text("Showing details for " + mapTitleText);
         };
 
         function topFunction() {
@@ -546,7 +554,7 @@
     <div class="container-fluid">
         <div class="row" style="padding:15px;">
             <div class="col-md-3"></div>
-            <div class="col-md-6">
+            <div class="col-md-6">                
                 <form role="form" id="form-buscar" action="search_results" method="POST">
                     <div class="form-group">
                         <div class="input-group search-box">
@@ -562,8 +570,11 @@
             </div>
             <div class="col-md-3"></div>
         </div>
+        <div width="100%" style="text-align:center;color:darkgray;">
+            Select each suggested neighborhood below to see how it compares
+        </div>
         <div class="row" style="padding:15px;">
-            <div class="col-md-4">
+                         <div class="col-md-4">
                 <div class="search-result-item">
                     <div class="search-result-item-body">
                         <div class="row">
@@ -632,7 +643,7 @@
         <div class="row" style="padding:15px;">
             <div class="col-md-2"></div>
             <div class="col-md-8" style="text-align: center;">
-                <h4>Suggested neighborhood(s)</h4>      
+                <h4 id="mapTitle">Suggested neighborhood(s)</h4>      
                 <div id="mymap"></div>
                 <a class="button4" style="margin-top: 10px;" onclick=updatePlot(0);>Reset Map</a>
             </div>
@@ -768,7 +779,7 @@
     .attr("y",25)
     .attr("fill","#000")
     .style("font-size","0.8em")
-    .text(function(d){return d['Searched Neighborhood']});
+    .text(function(d){return Math.round((d['Searched Neighborhood'] + Number.EPSILON) * 100) / 100});
 
     // target location measure
     svg.append("rect").
@@ -791,7 +802,8 @@
     .attr("y",45)
     .attr("fill","#000")
     .style("font-size","0.8em")
-    .text(function(d){return d[targetFieldRef]});
+    .text(function(d){return Math.round((d[targetFieldRef] + Number.EPSILON) * 100) / 100});
+    
 
 
     // diff %
