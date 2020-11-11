@@ -59,18 +59,13 @@ def render_index():
 def return_home():
     return render_template("index.html")
 
-
-# @app.route("/results")
-# def render_result():
-#    return render_template("test.html")
-
-
 @app.route("/search_results", strict_slashes=False, methods=["GET", "POST"])
 def search_results():
     # if POST request, update MOST_RECENT_RESULTS
     if request.method == "POST":
         print("search_results called as POST")
         address = request.form["address"]
+        MOST_RECENT_RESULTS["address"] = address
 
         coordinates, full_address = get_coordinates(address)
         print("Currently viewing results for: ", full_address)
@@ -93,13 +88,11 @@ def search_results():
         else:
             print("Using latest (and/or default demo) tract")
 
-        # cvis = clustervis.ClusterVis(geoid=42003451102, lat=40.5218403, lon=-80.1969462, n_top=3)
         print("CURRENT GEOID BEING USED: {}".format(MOST_RECENT_RESULTS["geoid"]))
         cvis = clustervis.ClusterVis(
             geoid=MOST_RECENT_RESULTS["geoid"],
             lat=MOST_RECENT_RESULTS["lat"],
             lon=MOST_RECENT_RESULTS["lon"],
-            n_top=3,
         )
         overview, zoom_figures = cvis.create_figures()
 
@@ -133,7 +126,7 @@ def search_results():
 
     return render_template(
         "test.html",
-        address=address,
+        address=MOST_RECENT_RESULTS["address"],
         fig0=MOST_RECENT_RESULTS["fig0"],
         fig1=MOST_RECENT_RESULTS["fig1"],
         fig2=MOST_RECENT_RESULTS["fig2"],
@@ -153,30 +146,7 @@ def search_results():
 
 @app.route("/about")
 def render_about():
-    "Hello {}!".format("Mike")
-
     return render_template("about.html")
-
-
-# @app.route("/userinput", methods=["GET", "POST"])
-# def post_user_inputs():
-#    address = request.form["address"]
-#    word = request.args.get("address")
-#    coordinates = get_coordinates(address)
-#    tract = get_tract(coordinates)
-#    result = {}
-#    result["longitude"] = coordinates[0]
-#    result["latitude"] = coordinates[1]
-#    result["tract"] = tract
-
-#    # this line may be repetitive but was needed to get the results into HTML initially. Have not tried to remove yet.
-#    result = {str(key): value for key, value in result.items()}
-#    print(result)
-#    #render_search_results(location=result)
-#    #return jsonify(result=result)
-#    result = jsonify(result=result)
-#    return redirect(url_for('search_results', location=result))
-
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, use_reloader=False, debug=True)

@@ -31,7 +31,7 @@ AMENITIES_DRAW_DISTANCE = 25 # 2, 5, 10, 25, or 50 miles
 #
 # This module should be loaded in the background since this may take 5-10 sec
 #
-CLUSTER_DF_PATH = '../data/sample/cluster_test_data_all_clusters_300.csv'
+CLUSTER_DF_PATH = '../data/cluster_model_output/clusters_and_ranks.pkl'#'../data/sample/cluster_test_data_all_clusters_300.csv'
 CENSUS_GEOM_PATH = '../data/shape_data/all_census_tract_shapes.json.gz'
 GAZ_PATH = '../data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl'
 AMENITIES_PATH = '../data/amenities/amenities_full.pkl.gz'
@@ -56,7 +56,7 @@ print('------> Done')
 
 print('---> Reading cluster output')
 # read cluster data
-CLUSTER_DF = pd.read_csv(CLUSTER_DF_PATH)
+CLUSTER_DF = pd.read_pickle(CLUSTER_DF_PATH)
 print('------> Done')
 
 print('---> Reading geometry data')
@@ -115,9 +115,10 @@ class ClusterVis:
         self.cluster = self.geoid_to_cluster()
 
         # subset CLUSTER_DF to matching cluster
-        self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster]
+        self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster].merge(ORIG_FEATURE_DATA[['GEOID', 'NAME', 'INTPTLAT', 'INTPTLONG']], on='GEOID')
 
 
+        """
         ### FIX ME - need to add rank prior to this function
         print('WARNING::::STILL NEED TO INTEGRATE RANKING DATA')
         import random
@@ -132,8 +133,28 @@ class ClusterVis:
         self.df_subset_other = self.df_subset[self.df_subset.ranking>self.n_top]
         # subset geopandas to matching geoids
         self.gpdf_subset_json = self._prepare_geopandas_subset()
-
-          
+        """
+        # get top ranked geoids
+        self.top_geoids = [self.df_subset[self.df_subset.GEOID==self.geoid].top1,
+                           self.df_subset[self.df_subset.GEOID==self.geoid].top2,
+                           self.df_subset[self.df_subset.GEOID==self.geoid].top3]
+        for i, gid in enumerate(self.top_geoids):
+            print(gid)
+            self.df_subset.loc[self.df_subset.GEOID.astype(int)==int(gid), 'ranking'] = i+1
+        self.df_subset.ranking = self.df_subset.ranking.fillna(self.n_top+1)
+        print(self.df_subset[self.df_subset.ranking<=self.n_top])
+        # get top matches
+        self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top]
+        assert self.df_subset_top.shape[0] == self.n_top
+        # get non-top matches
+        self.df_subset_other = self.df_subset[self.df_subset.ranking>self.n_top]
+        # replace non-ranked with ''
+        self.df_subset_other.ranking = ''
+        # subset geopandas to matching geoids
+        self.gpdf_subset_json = self._prepare_geopandas_subset()
+        
+        print(self.top_geoids)
+        print(self.df_subset)
         
     def create_figures(self):
         """
@@ -141,23 +162,30 @@ class ClusterVis:
         Methods called in this pipeline should update self.fig
         """
         # draw map and census tracts
+        print('Creating Initial Map Figure')
         self._create_initial_map_figure()
         # update figure margin
         self.fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+        print('Drawing Amenities')
         # draw amenities around top points
         self._add_amenities()
+        print('Drawing Other Cluster Members.')
         # add the 'other' subset of points
         # these have a smaller, different style than the top matches
         self._add_other_points()
+        print('Drawing Original Point')
         # add the point that was searched for
         self._add_original_point()
+        print('Drawing Top Points')
         # add 'top' subset of points
         self._add_top_points()
+        print('Styling Map')
         # add map style
         if not DEV_MAP:
             self._add_map_style()
         else:
             self._add_map_style(dev=True)
+        print('Generating Zoomed-in Figures.')
         # generate zoomed-in figures of top matches
         self._generate_zoomed_figures()
 
@@ -253,9 +281,10 @@ class ClusterVis:
                     'allowoverlap': True,
                    },
             text=list(map(str, self.df_subset_other.ranking.values.tolist())),
-            hoverinfo='text',
-            hovertemplate='Rank: %{text}<extra></extra>',
-            name='Other Matching Neighborhoods'
+            #hoverinfo='text',
+            #hovertemplate='Rank: %{text}<extra></extra>',
+            hoverinfo='none',
+            name='Other Matching Neighborhoods',
             #hovertext=list(map(str, df_subset_other.ranking.values.tolist())),
             #showlegend=False,
             #hoverinfo='none',
@@ -350,7 +379,8 @@ class ClusterVis:
 
         for idx, row in self.df_subset_top.sort_values('ranking').iterrows():
             self.zoom_figures.append(
-                update_map(copy.deepcopy(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
+                #update_map(copy.deepcopy(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
+                update_map(go.Figure(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
             )
 
 
@@ -412,6 +442,7 @@ class ClusterVis:
             
     def build_tables(self):
         """Build tables for HTML template, to show original search vs. top match & percent change"""
+        
         map_fields = {'GEOID': 'Identifier', 'GEO_ID': 'Identifier', 'NAME': 'Name', 'SUM_IND_Child_Dep_Ratio': 'Child Dependency Ratio',
        'SUM_IND_Old_Age_Dep_Ratio': 'Old Age Dependency Ratio', 'SUM_IND_Med_Age': 'Median Age', 'MED_INC_25_PLUS_Tot': 'Median Income Over 25 Years Old',
        'PERC_BEL_POV': 'Percent Below Poverty', 'LAB_FRC_POP_20_to_64': 'Prime Working Age Labor Force', 'UNEMP_RATE_POP_20_to_64': 'Prime Working Age Unemployment Rate',
