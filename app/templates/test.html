@@ -287,7 +287,8 @@
         .search-result-item {
             padding: 20px;
             background-color: #fff;
-            border-radius: 4px
+            border-radius: 4px;
+            height: 100%;
         }
 
         .search-result-item:after,
@@ -448,6 +449,7 @@
         #topButton:hover {
             background-color: #00B4CC;
         }
+        
 
     </style>
 
@@ -549,7 +551,7 @@
                     <div class="form-group">
                         <div class="input-group search-box">
                             <input id="1" class="form-control" type="text" name="address" placeholder="Enter address here..."
-                                required />
+                                required value="{{ address | safe}}"/>
                             <span class="input-group-btn">
                                 <button class="btn btn-success" type="submit" style="background-color: #00b4cc;background-image: url('/static/magnifying-glass.png');background-position: center; background-repeat: no-repeat;">  
                                 </button>
@@ -570,8 +572,7 @@
                                     <img src="static/rank-1.png" width="30%">
                                 </p>
                                 <p class="fs-mini text-muted" style="text-align: center;"><a class="button3" onclick=updatePlot(1);
-                                        style="cursor:pointer">View in
-                                        Map</a></p>
+                                        style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
                                 <h4 class="search-result-item-heading"><a href="#">{{ name1 | safe }}</a></h4>
@@ -592,8 +593,7 @@
                                     <img src="static/rank-2.png" width="30%">
                                 </p>
                                 <p class="fs-mini text-muted"  style="text-align: center;"><a class="button3" onclick=updatePlot(2);
-                                    style="cursor:pointer">View in
-                                    Map</a></p>
+                                    style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
                                 <h4 class="search-result-item-heading"><a href="#">{{ name2 | safe }}</a> <span
@@ -616,8 +616,7 @@
                                 </p>
                                 <p class="fs-mini text-muted"  style="text-align: center;">
                                     <a class="button3" onclick=updatePlot(3);
-                                    style="cursor:pointer">View in
-                                    Map</a></p>
+                                    style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
                                 <h4 class="search-result-item-heading"><a href="#">{{ name3 | safe }}</a></h4>
@@ -633,13 +632,9 @@
         <div class="row" style="padding:15px;">
             <div class="col-md-2"></div>
             <div class="col-md-8" style="text-align: center;">
-                <!--<div>
-                    <a class="button3" onclick=updatePlot(0); style="cursor:pointer">Reset Map</a>
-                </div>-->
-                <h4>Currently viewing results for: {{ address | safe}}</h4>      
+                <h4>Suggested neighborhood(s)</h4>      
                 <div id="mymap"></div>
-                <a class="button4" style="margin-top: 10px;" onclick=updatePlot(0);>Reset
-                    Map</a>
+                <a class="button4" style="margin-top: 10px;" onclick=updatePlot(0);>Reset Map</a>
             </div>
             <div class="col-md-2"></div>
         </div>
@@ -647,7 +642,8 @@
             <div class="col-md-2"></div>
             <div class="col-md-8" style="text-align: center;"> 
                 <h4>How this neighborhood compares to yours</h4>
-                <i>Select "View in Map" for each match to see a comparison.</i><br><br><br>
+                <!-- <i>Select "View in Map" for each match to see a comparison.</i> -->
+                <br><br>
                 <div class="row ng-scope" style="margin-top: -10px;">
                     <div id="d3div" style="width:100%;"></div>
                 </div>
@@ -676,16 +672,70 @@
     var targetFieldRef = fieldRefs[n];    
     
 
-    var data = d3.values(flaskData[n]).slice(6,12);    
+    var data = d3.values(flaskData[n]).slice(6,15);    
 
     d3.select("#d3div").select("table").remove();
+    d3.select("#d3div").select("div").remove();
+    
+    // Stop populating comparison table
+    if(n==0)
+     return;
+
+    var legend = d3.select("#d3div")
+                .append("div")
+                .append("svg")
+                .attr("height","50px")
+                .attr("width","500px");
+    
+    legend.append("rect")
+    .attr("height",15)
+    .attr("width",15)
+    .attr("x",15)
+    .attr("y",15)
+    .style("fill","#79cfdb");
+
+    legend.append("text")
+    .attr("x", 40)
+    .attr("y",27)
+    .attr("fill","#000")
+    .style("font-size","0.8em")
+    .text("Current location");
+
+    legend.append("rect")
+    .attr("height",15)
+    .attr("width",15)
+    .attr("x",165)
+    .attr("y",15)
+    .style("fill","#006e7d");
+
+    legend.append("text")
+    .attr("x", 190)
+    .attr("y",27)
+    .attr("fill","#000")
+    .style("font-size","0.8em")
+    .text("Suggested location");
+
+    legend.append("circle")
+    .attr("r",8)
+    .attr("cx",335)
+    .attr("cy",23)
+    .style("fill","#00363d");
+
+    legend.append("text")
+    .attr("x", 350)
+    .attr("y",27)
+    .attr("fill","#000")
+    .style("font-size","0.8em")
+    .text("Match %");
+
+    
+    // Building the comparison table
     var table = d3.select("#d3div").append("table").attr("style","margin: 0 auto");
 
     var tr = table.selectAll("tr")
     .data(data)
     .enter()
     .append("tr");
-
 
     var td1 = tr.append("td")
             .text(function(d) { return d.Feature });
