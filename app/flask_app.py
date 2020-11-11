@@ -8,6 +8,20 @@ from flask import Flask, render_template, request, jsonify, redirect, url_for, M
 from geopy.geocoders import Nominatim
 import censusgeocode as cg
 
+# generated via http://patorjk.com/software/taag/#p=testall&f=Epic&t=RELO%20APP
+print(
+"""
+###################################
+#██████╗ ███████╗██╗      ██████╗ #
+#██╔══██╗██╔════╝██║     ██╔═══██╗#
+#██████╔╝█████╗  ██║     ██║   ██║#
+#██╔══██╗██╔══╝  ██║     ██║   ██║#
+#██║  ██║███████╗███████╗╚██████╔╝#
+#╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ #
+###################################
+"""
+)
+
 import clustervis
 
 app = Flask(__name__)
@@ -20,6 +34,10 @@ MOST_RECENT_RESULTS = {"geoid": 42003451102, "lat": 40.5218403, "lon": -80.19694
 # function can be used to get latitude longitude from address instead of returning address
 # def get_user_input(address):
 #    return address
+
+
+
+
 
 
 def get_coordinates(address):
@@ -45,7 +63,7 @@ def get_tract(coordinates):
         tract_info = result["Census Tracts"][0]
         return tract_info
     except Exception as e:
-        print("===COULD NOT IDENTIFY TRACT -- Falling Back===")
+        print("===COULD NOT IDENTIFY TRACT - WILL USE NEAREST NEIGHBORHOOD===")
         print(e)
         return None
 
@@ -76,19 +94,23 @@ def search_results():
             MOST_RECENT_RESULTS["geoid"] = None
             tract = get_tract(coordinates)
             if tract:
-                print("TRACT FOUND: {}".format(tract))
+                print("TRACT FOUND. Attempting to Extract Results")
                 try:
                     MOST_RECENT_RESULTS["lat"] = float(tract["INTPTLAT"])
                     MOST_RECENT_RESULTS["lon"] = float(tract["INTPTLON"])
                     MOST_RECENT_RESULTS["geoid"] = int(tract["GEOID"])
+                    print("SUCCESS")
                 except Exception as e:
-                    print(e, "COULD NOT ASSIGN tract RESULTS")
-            else:
-                print("FALLING BACK TO FINDING CLOSEST TRACT")
-        else:
-            print("Using latest (and/or default demo) tract")
+                    print(e, "COULD NOT EXTRACT tract RESULTS")
+            else: # will use closest tract
+                pass
+        else: # will use closest tract
+            pass
 
-        print("CURRENT GEOID BEING USED: {}".format(MOST_RECENT_RESULTS["geoid"]))
+
+        # build visualization object
+        # geoid may be passed as None. If so, fallback mechanism will take
+        # place to determine the "home" neighborhood.
         cvis = clustervis.ClusterVis(
             geoid=MOST_RECENT_RESULTS["geoid"],
             lat=MOST_RECENT_RESULTS["lat"],

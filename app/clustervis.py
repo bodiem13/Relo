@@ -83,7 +83,7 @@ ORIG_FEATURE_DATA = pd.read_pickle(FEATURE_DATA_PATH)
 ORIG_FEATURE_DATA['GEOID'] = ORIG_FEATURE_DATA['GEOID'].astype(int)
 print('------> Done')
 
-print('Done. {} seconds to load.'.format(round(time.time()-start, 2)))
+print('Done. {} seconds to load.\n\n'.format(round(time.time()-start, 2)))
 ################################################################################
 ################################################################################
 ################################################################################
@@ -139,55 +139,58 @@ class ClusterVis:
                            self.df_subset[self.df_subset.GEOID==self.geoid].top2,
                            self.df_subset[self.df_subset.GEOID==self.geoid].top3]
         for i, gid in enumerate(self.top_geoids):
-            print(gid)
             self.df_subset.loc[self.df_subset.GEOID.astype(int)==int(gid), 'ranking'] = i+1
         self.df_subset.ranking = self.df_subset.ranking.fillna(self.n_top+1)
-        print(self.df_subset[self.df_subset.ranking<=self.n_top])
         # get top matches
         self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top]
         assert self.df_subset_top.shape[0] == self.n_top
+        self.df_subset_top.ranking = self.df_subset_top.ranking.astype(int)
         # get non-top matches
         self.df_subset_other = self.df_subset[self.df_subset.ranking>self.n_top]
         # replace non-ranked with ''
         self.df_subset_other.ranking = ''
         # subset geopandas to matching geoids
         self.gpdf_subset_json = self._prepare_geopandas_subset()
-        
-        print(self.top_geoids)
-        print(self.df_subset)
+
         
     def create_figures(self):
         """
         Create overview figure and figures zoomed on the top matches
         Methods called in this pipeline should update self.fig
         """
+        print('\n\n===Creating Map===')
+        
         # draw map and census tracts
-        print('Creating Initial Map Figure')
+        print('---> Creating Initial Map Figure')
         self._create_initial_map_figure()
         # update figure margin
         self.fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-        print('Drawing Amenities')
+        print('---> Drawing Amenities')
         # draw amenities around top points
         self._add_amenities()
-        print('Drawing Other Cluster Members.')
+        print('---> Drawing Other Cluster Members.')
         # add the 'other' subset of points
         # these have a smaller, different style than the top matches
         self._add_other_points()
-        print('Drawing Original Point')
+        print('---> Drawing Searched Point')
         # add the point that was searched for
         self._add_original_point()
-        print('Drawing Top Points')
+        print('---> Drawing Searched Point Center')
+        # add the center of the searched-point cluster
+        self._add_original_center_point()
+        print('---> Drawing Top Points')
         # add 'top' subset of points
         self._add_top_points()
-        print('Styling Map')
+        print('---> Styling Map')
         # add map style
         if not DEV_MAP:
             self._add_map_style()
         else:
             self._add_map_style(dev=True)
-        print('Generating Zoomed-in Figures.')
+        print('---> Generating Zoomed-in Figures. (This may take a moment...)')
         # generate zoomed-in figures of top matches
         self._generate_zoomed_figures()
+        print('Finished.')
 
         return self.fig, self.zoom_figures
 
@@ -328,16 +331,39 @@ class ClusterVis:
             lon=[self.lon],
             marker={'size': 25,
                     'symbol': 'circle',
-                    'color': 'green',
+                    'color': 'lightgreen',
                     'opacity':.7,
                     'allowoverlap': True,
                    },
-            text=['Searched point'],
+            text=['Searched Address'],
             hovertemplate='%{text}<extra></extra>',
-            name='Searched Neighborhood'
+            name='Searched Address'
             #showlegend=False,
             #below="''",
-        )       
+        )
+        
+    def _add_original_center_point(self):
+        df_ = CLUSTER_DF[CLUSTER_DF.GEOID==self.geoid].merge(ORIG_FEATURE_DATA[['GEOID', 'INTPTLAT', 'INTPTLONG']], on='GEOID')
+        lat_ = df_.INTPTLAT.values[0]
+        lon_ = df_.INTPTLONG.values[0]
+
+        self.fig = self.fig.add_scattermapbox(
+            uid='originalcenter',
+            mode='markers',
+            lat=[lat_],
+            lon=[lon_],
+            marker={'size': 15,
+                    'symbol': 'circle',
+                    'color': 'green',
+                    'opacity':.8,
+                    'allowoverlap': True,
+                   },
+            text=['Closest Searched Neighborhood Selected (Census tract coordinates)'],
+            hovertemplate='%{text}<extra></extra>',
+            name='Closest Searched Neighborhood Selected'
+            #showlegend=False,
+            #below="''",
+        )    
 
     def _add_map_style(self, dev=False):
         if dev is False:
@@ -442,6 +468,7 @@ class ClusterVis:
             
     def build_tables(self):
         """Build tables for HTML template, to show original search vs. top match & percent change"""
+        print('\n\n===Building tables for visualization===')
         
         map_fields = {'GEOID': 'Identifier', 'GEO_ID': 'Identifier', 'NAME': 'Name', 'SUM_IND_Child_Dep_Ratio': 'Child Dependency Ratio',
        'SUM_IND_Old_Age_Dep_Ratio': 'Old Age Dependency Ratio', 'SUM_IND_Med_Age': 'Median Age', 'MED_INC_25_PLUS_Tot': 'Median Income Over 25 Years Old',
@@ -511,7 +538,13 @@ class ClusterVis:
         t2.columns = ['Feature', 'Searched Neighborhood', 'Top 2nd Match', 'Percent Change']
         t3.columns = ['Feature', 'Searched Neighborhood', 'Top 3rd Match', 'Percent Change']                
         
-        print('Finished generating tables.')
+        print('Making human-readable names...')
+        t0['Feature'] = t0['Feature'].map(map_fields)
+        t1['Feature'] = t1['Feature'].map(map_fields)
+        t2['Feature'] = t2['Feature'].map(map_fields)
+        t3['Feature'] = t3['Feature'].map(map_fields)
+
+        print('Finished generating tables.\n\n')
 
         return t0, t1, t2, t3
 
@@ -534,16 +567,24 @@ class ClusterVis:
                 loc = geolocator.reverse((top.iloc[i].INTPTLAT, top.iloc[i].INTPTLONG))
                 results[key]['loc'] = loc.raw['address']
                 
-                for spelling in ['neighbourhood', 'neighborhood', 'neighboorhood', 'suburb', 'hamlet', 'town', 'street']:
+                for spelling in ['neighbourhood', 'neighborhood', 'neighboorhood', 'suburb', 'hamlet', 'town', 'street', 'road']:
                     if spelling in results[key]['loc'].keys():
                         results[key]['neighborhood'] = results[key]['loc'][spelling]
                         break
                     else:
-                        print(list(results[key]['loc'].keys()))
+                        #print(list(results[key]['loc'].keys()))
+                        pass
 
-                    
-                if 'city' in results[key]['loc'].keys() and 'state' in results[key]['loc'].keys():
-                    results[key]['citystate'] = '{}, {}'.format(results[key]['loc']['city'], results[key]['loc']['state'])
+                for spelling in ['city', 'town', 'suburb', 'hamlet', 'neighbourhood', 'neighborhood']:
+                    if spelling in results[key]['loc'].keys():
+                        results[key]['citystate'] = results[key]['loc'][spelling]
+                        break
+                
+                # if a city/town was found, update with the state if available
+                # otherwise, continue to use the fallback
+                if results[key]['citystate'] != top.iloc[i].NAME:
+                    if 'state' in results[key]['loc'].keys():
+                        results[key]['citystate'] += ', {}'.format(results[key]['loc']['state'])
             except Exception as e:
                 print(e)
 
