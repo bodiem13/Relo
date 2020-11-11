@@ -34,7 +34,7 @@ for f in ('README.md', 'requirements.txt', 'Dockerfile', 'boot.sh', 'environment
     shutil.copy(f, CODE_DEST)
     
 # delete unnecessary files/folders
-for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data', 'Final_Visualization_Input_Data.zip'):
+for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data', 'Final_Visualization_Input_Data.zip', 'amenities_full.pkl.gz'):
     os.system('find {} -name {} | xargs rm -rf'.format(DEST, item))
 
 
@@ -59,7 +59,7 @@ PATHS = [
     ('data/amenities/dataframes/MEDICAL.pkl', None),
     ('data/amenities/dataframes/PARKS.pkl', None),
     ('data/amenities/amenities_25mi_for_vis.pkl.gz', 'gzip'),
-    ('data/amenities/amenities_full.pkl.gz', 'gzip'),
+    #('data/amenities/amenities_full.pkl.gz', 'gzip'),
     ('data/amenities/amenities_features.pkl', None),
     ('data/gaz/2018_5yr_cendatagov_GAZ_v4.pkl', None),
     ('data/features/Final_Visualization_Input_Data.pkl', None),
@@ -70,11 +70,12 @@ PATHS = [
 print('REDUCING SIZE/CONTENTS OF DATAFRAMES')
 for path, compression in PATHS:
     PATH_ = os.path.join(CODE_DEST, path)
+    print(path)
     df = pd.read_pickle(PATH_, compression=compression)
     if not 'GEOID' in df.columns:
         print('Skipping {}'.format(path))
         continue
-    print(path)
+    
     df = df[df.GEOID.astype(int).isin(GEOIDS)]
     os.system('rm {}'.format(PATH_))
     df.to_pickle(PATH_, compression=compression)
