@@ -11,7 +11,7 @@ import censusgeocode as cg
 import clustervis
 
 app = Flask(__name__)
-# address = str()
+address = str()
 
 # global to hold most recent results
 # specifies defaults if error in address matching
