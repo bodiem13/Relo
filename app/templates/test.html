@@ -738,7 +738,8 @@
     .append("tr");
 
     var td1 = tr.append("td")
-            .text(function(d) { return d.Feature });
+            .text(function(d) { return d.Feature })
+            .style("text-align","right");
 
     var td2 = tr.append("td");
 
