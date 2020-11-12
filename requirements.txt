@@ -15,6 +15,7 @@ cryptography==3.2.1
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
+dill==0.3.3
 entrypoints==0.3
 Fiona==1.8.17
 Flask==1.1.2

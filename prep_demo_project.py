@@ -4,7 +4,7 @@ import shutil
 import pandas as pd
 import geopandas as gp
 
-DEST = '/media/school/project/team46_submission'
+DEST = '/media/school/project/team046final'
 CODE_DEST = os.path.join(DEST, 'CODE') 
 DEMO_DEST = os.path.join(CODE_DEST, 'DEMO')
 
