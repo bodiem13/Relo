@@ -94,8 +94,6 @@ os.system('sudo docker build -t relodemo:latest .')
 
 # Export image a new "DEMO" folder
 os.chdir(DEMO_DEST)
-#os.system('sudo docker create --name relodemocontainer relodemo')
-#os.system('sudo docker export relodemocontainer > relodemocontainer.tar')
 
 # save docker image
 os.system("sudo docker save relodemo > relodemo.tar")
