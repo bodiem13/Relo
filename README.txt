@@ -16,7 +16,32 @@ DESCRIPTION
 
 Welcome to Relo: Relocation made Easy! Relo incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
-The structure of the application begins with a home screen. On the home screen, the user will enter an address of interest into the search bar and submit their search. Once submitted, the app will return the top three locations across the country that are recommended based on your address of interest. The returned results will be displayed, along with an interactive map and a variety of useful metrics. 
+The structure of this package begins with with the 'app' directory. The app directory is used to store all code associated with the visual application for Relo. The 'static' directory contains images and stylesheets used in the application. The 'templates' directory contains the files used for building the front end UI. Finally, the clustervis.py, flask_app.py, and vis_development_app.py files are used to run python code related to this project. Please refer to Diagram_1 below for more information about the structure of the 'app' directory (note the images that are stored in the 'static' directory are not included in the diagram below). 
+
+├── app/
+│   ├── .vscode/
+│   │       └── launch.json
+│   ├── __pycache__/
+│   │       └── flask_app.cpython-37.pyc
+│   ├── static/
+│   │   │   ├── stylesheets
+│   │   │   │ 	├── index_style.css
+│   │   │   │ 	├── result.css
+│   │   │   │ 	└── search_form.css
+│   ├── templates/
+│   │       ├── about.html
+│   │       ├── index.html
+│   │       ├── result.html
+│   │       ├── test.html
+│   │       └── vis_development_index.html
+│   ├── .DS_Store
+│   ├── .mapbox_token
+│   ├── clustervis.py
+│   ├── flask_app.py
+└── └── vis_development_app.py
+   
+
+
 
 
 INSTALLATION
