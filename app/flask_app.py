@@ -29,18 +29,14 @@ address = str()
 
 # global to hold most recent results
 # specifies defaults if error in address matching
-MOST_RECENT_RESULTS = {"geoid": 42003451102, "lat": 40.5218403, "lon": -80.1969462}
-
-# function can be used to get latitude longitude from address instead of returning address
-# def get_user_input(address):
-#    return address
-
-
-
-
+# have a default lat/lon as fallback
+MOST_RECENT_RESULTS = {"geoid": None, "lat": 40.5218403, "lon": -80.1969462}
 
 
 def get_coordinates(address):
+    """Given a string address, use geolocator api to get address info,
+       including lat/lon of searched location.
+    """
     try:
         geolocator = Nominatim(user_agent="my_application")
         loc = geolocator.geocode(str(address))
@@ -53,21 +49,6 @@ def get_coordinates(address):
         return None
 
 
-def get_tract(coordinates):
-    try:
-        lon, lat = coordinates
-        lon, lat = round(lon, 5), round(lat, 5)
-        print(lon, lat)
-        result = cg.coordinates(x=lon, y=lat)
-        print("GET_TRACT RESULT: {}".format(result))
-        tract_info = result["Census Tracts"][0]
-        return tract_info
-    except Exception as e:
-        print("===COULD NOT IDENTIFY TRACT - WILL USE NEAREST NEIGHBORHOOD===")
-        print(e)
-        return None
-
-
 @app.route("/")
 def render_index():
     return render_template("index.html")
@@ -77,6 +58,7 @@ def render_index():
 def return_home():
     return render_template("index.html")
 
+
 @app.route("/search_results", strict_slashes=False, methods=["GET", "POST"])
 def search_results():
     # if POST request, update MOST_RECENT_RESULTS
@@ -85,26 +67,15 @@ def search_results():
         address = request.form["address"]
         MOST_RECENT_RESULTS["address"] = address
 
+        # Get the coordinates (lon/lat) and address for given user search.
         coordinates, full_address = get_coordinates(address)
         print("Currently viewing results for: ", full_address)
         if coordinates:
             print("COORDS FOUND: {}".format(coordinates))
-            MOST_RECENT_RESULTS["lon"] = coordinates[0]
-            MOST_RECENT_RESULTS["lat"] = coordinates[1]
-            MOST_RECENT_RESULTS["geoid"] = None
-            tract = get_tract(coordinates)
-            if tract:
-                print("TRACT FOUND. Attempting to Extract Results")
-                try:
-                    MOST_RECENT_RESULTS["lat"] = float(tract["INTPTLAT"])
-                    MOST_RECENT_RESULTS["lon"] = float(tract["INTPTLON"])
-                    MOST_RECENT_RESULTS["geoid"] = int(tract["GEOID"])
-                    print("SUCCESS")
-                except Exception as e:
-                    print(e, "COULD NOT EXTRACT tract RESULTS")
-            else: # will use closest tract
-                pass
-        else: # will use closest tract
+            MOST_RECENT_RESULTS["search_lon"] = coordinates[0]
+            MOST_RECENT_RESULTS["search_lat"] = coordinates[1]
+            MOST_RECENT_RESULTS["geoid"] = None # geoid identification is now done within clustervis
+        else: # fallback to default example
             pass
 
 
@@ -113,23 +84,19 @@ def search_results():
         # place to determine the "home" neighborhood.
         cvis = clustervis.ClusterVis(
             geoid=MOST_RECENT_RESULTS["geoid"],
-            lat=MOST_RECENT_RESULTS["lat"],
-            lon=MOST_RECENT_RESULTS["lon"],
+            lat=MOST_RECENT_RESULTS["search_lat"],
+            lon=MOST_RECENT_RESULTS["search_lon"],
         )
+        
+        # Create 4 maps, the overview (high level) map, and 3 zoomed figures
+        # corresponding to the top 3 matches
         overview, zoom_figures = cvis.create_figures()
 
-        # figure to json
-        fig0 = overview.to_json()
-
-        # create top 3 location maps
-        fig1 = zoom_figures[0].to_json()
-        fig2 = zoom_figures[1].to_json()
-        fig3 = zoom_figures[2].to_json()
-
-        MOST_RECENT_RESULTS["fig0"] = fig0
-        MOST_RECENT_RESULTS["fig1"] = fig1
-        MOST_RECENT_RESULTS["fig2"] = fig2
-        MOST_RECENT_RESULTS["fig3"] = fig3
+        # send figures to json and store in the state variable
+        MOST_RECENT_RESULTS["fig0"] = overview.to_json()
+        MOST_RECENT_RESULTS["fig1"] = zoom_figures[0].to_json()
+        MOST_RECENT_RESULTS["fig2"] = zoom_figures[1].to_json()
+        MOST_RECENT_RESULTS["fig3"] = zoom_figures[2].to_json()
 
         # Build html tables for display
         t0, t1, t2, t3 = cvis.build_tables()
@@ -138,6 +105,7 @@ def search_results():
         MOST_RECENT_RESULTS["t2"] = t2.to_json(orient="index")
         MOST_RECENT_RESULTS["t3"] = t3.to_json(orient="index")
 
+        # Attempt to get names of the city, state, and neighborhood
         top_city_names = cvis.get_top_city_names()
         MOST_RECENT_RESULTS["name1"] = top_city_names["t1"]["citystate"]
         MOST_RECENT_RESULTS["name2"] = top_city_names["t2"]["citystate"]
@@ -145,6 +113,12 @@ def search_results():
         MOST_RECENT_RESULTS["subname1"] = top_city_names["t1"]["neighborhood"]
         MOST_RECENT_RESULTS["subname2"] = top_city_names["t2"]["neighborhood"]
         MOST_RECENT_RESULTS["subname3"] = top_city_names["t3"]["neighborhood"]
+
+        # Get the latitude/longitude of the home census tract.
+        top_match_coords = cvis.get_top_match_coords()
+        MOST_RECENT_RESULTS["c1"] = top_match_coords[0]
+        MOST_RECENT_RESULTS["c2"] = top_match_coords[1]
+        MOST_RECENT_RESULTS["c3"] = top_match_coords[2]
 
     return render_template(
         "test.html",
@@ -163,6 +137,9 @@ def search_results():
         subname1=MOST_RECENT_RESULTS["subname1"],
         subname2=MOST_RECENT_RESULTS["subname2"],
         subname3=MOST_RECENT_RESULTS["subname3"],
+        c1=MOST_RECENT_RESULTS["c1"],
+        c2=MOST_RECENT_RESULTS["c2"],
+        c3=MOST_RECENT_RESULTS["c3"],
     )
 
 

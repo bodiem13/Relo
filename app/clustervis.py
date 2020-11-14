@@ -152,6 +152,13 @@ class ClusterVis:
         # subset geopandas to matching geoids
         self.gpdf_subset_json = self._prepare_geopandas_subset()
 
+
+    def get_top_match_coords(self):
+        coords = self.df_subset_top[['INTPTLONG', 'INTPTLAT']].values
+        result = []
+        for lon, lat in coords:
+            result.append('{}, {}'.format(lon, lat))
+        return result
         
     def create_figures(self):
         """
@@ -432,6 +439,7 @@ class ClusterVis:
         tract
         If no geoid originally passed, update with geoid of closest matching cluster
         '''
+        """ # Deprecated, nearest methodology works best
         if self.geoid is not None:
             # Ideal case, where we match a geoid
             try:
@@ -453,7 +461,7 @@ class ClusterVis:
                     return attempt_2['cluster'].values[0]    
             except Exception as e:
                 print('Attempt 2: {}'.format(e))
-                
+        """        
         # find nearest cluster via lat/long
         #raise NotImplementedError('Need to implement nearest census tract code.')
         closest_point = CLUSTER_POINT_TREE.query([self.lat, self.lon], 1)
