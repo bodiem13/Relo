@@ -48,7 +48,7 @@ INSTALLATION
 ------------
 
 1. Check to ensure you have docker installed. If it is not installed, please install it. Once installed, start docker.
-2. Download the docker image by using the following link (note, it may take some time): https://gtvault.sharepoint.com/sites/DVAProjectTeam490/Shared%20Documents/Project%20Resources%20and%20Discussions/Docker%20Image%20Sample/relodemo.tar
+2. Download the docker image by using the following link (note, it may take some time): https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
 
 
 EXECUTION
