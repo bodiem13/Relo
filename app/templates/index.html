@@ -36,7 +36,7 @@
             background-color: #00B4CC;
             color: white;
         } */
-        .no-js #loader {
+        /*.no-js #loader {
             display: none;
         }
         .js #loader {
@@ -53,22 +53,57 @@
             height: 100%;
             z-index: 9999;
             background: url(https://smallenvelop.com/wp-content/uploads/2014/08/Preloader_11.gif) center no-repeat #fff;
-        }
+        }*/
         a {
             color: #00B4CC;
+        }
+        .newloader-wrapper {
+              width: 100%;
+              height: 100%;
+              position: absolute;
+              top: 0;
+              left: 0;
+              background-color: #242f3f;
+              display:flex;
+              justify-content: center;
+              align-items: center;
+            }
+        .newloader {
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          position: relative;                      /******** <- Remove this line *********/
+          border: 4px solid #Fff;
+          animation: loader 2s infinite ease;
+            }
+        .newloader-inner{
+            vertical-align: top;
+            display: inline-block;
+            width:100%;
+            background-color: #fff;
+            animation: loader 2s infinite ease;
         }
     </style>
 </head>
 
 <script>
-    $(window).on('load', (function () {
-        $(".se-pre-con").fadeOut();
-    }));
+    // $(window).on('load', (function () {
+    //     $(".se-pre-con").fadeOut();
+    // }));
+    $(window).on("load",function(){
+        $(".newloader-wrapper").fadeOut("slow");
+    });
+
+    $("#clickedSubmit").click(function(){
+        $(".newloader-wrapper").show();
+    });
 </script>
 
 <body>
-
-    <!-- <div class="se-pre-con"></div> -->
+    <!--<div class="se-pre-con"></div>-->
+    <div class="newloader-wrapper">
+        <span class="newloader"><span class="newloader-inner"></span></span>
+    </div>
     <!-- <div class="topnav">
         <a class="active" href="#home">Home</a>
         <a href="results">Results</a>
@@ -106,7 +141,7 @@
                             <input id="1" class="form-control" type="text" name="address" placeholder="Enter address here..."
                                 required />
                             <span class="input-group-btn">
-                                <button class="btn btn-success" type="submit" style="background-color: #00b4cc;background-image: url('/static/magnifying-glass.png');background-position: center; background-repeat: no-repeat;">  
+                                <button class="btn btn-success" type="submit" id = "clickedSubmit" style="background-color: #00b4cc;background-image: url('/static/magnifying-glass.png');background-position: center; background-repeat: no-repeat;">  
                                 </button>
                             </span>
                         </div>
@@ -114,7 +149,7 @@
                 </form>
 
 
-                <div class="se-pre-con"></div>
+                <!--<div class="se-pre-con"></div>-->
                 <div class="show-data"></div>
 
             </div>

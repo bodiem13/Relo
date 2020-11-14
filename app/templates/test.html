@@ -449,6 +449,33 @@
         #topButton:hover {
             background-color: #00B4CC;
         }
+
+        .newloader-wrapper {
+              width: 100%;
+              height: 100%;
+              position: absolute;
+              top: 0;
+              left: 0;
+              background-color: #242f3f;
+              display:flex;
+              justify-content: center;
+              align-items: center;
+            }
+        .newloader {
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          position: relative;                      /******** <- Remove this line *********/
+          border: 4px solid #Fff;
+          animation: loader 2s infinite ease;
+            }
+        .newloader-inner{
+            vertical-align: top;
+            display: inline-block;
+            width:100%;
+            background-color: #fff;
+            animation: loader 2s infinite ease;
+        }
         
 
     </style>
@@ -462,9 +489,9 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
 
     <script>
-        $(window).on('load', (function () {
-            $(".se-pre-con").fadeOut();
-        }));
+        $(window).on("load",function(){
+        $(".newloader-wrapper").fadeOut("slow");
+        });
 
 
         $(window).scroll(function() {
@@ -532,7 +559,6 @@
 
 
 <body>
-    <!-- <div class="se-pre-con"></div> -->
     <nav class="navbar navbar-light bg-light">
         <a class="navbar-brand" href="#" >
             <img src="/static/relo_logo_slogan_min2.png" alt="">
