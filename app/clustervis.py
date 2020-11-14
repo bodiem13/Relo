@@ -494,14 +494,14 @@ class ClusterVis:
        'N_GROCERY_WITHIN_TRACT': 'Number of Grocery Stores within Tract', 'N_GYMS_WITHIN_TRACT': 'Number of Gyms within Tract',
        'N_HARDWARE_WITHIN_TRACT': 'Number of Hardware Stores within Tract', 'N_PARKS_WITHIN_TRACT': 'Number of Parks within Tract',
        'N_MEDICAL_WITHIN_TRACT': 'Number of Medical Locations within Tract', 'WT_N_GROCERY_DIST_2': 'Weighted Number of Grocery Stores within 2 Miles', 'WT_N_GROCERY_DIST_5': 'Weighted Number of Grocery Stores within 5 Miles',
-       'WT_N_GROCERY_DIST_10': 'Weighted Number of Grocery Stores within 10 Miles', 'WT_N_GROCERY_DIST_25': 'Weighted Number of Grocery Stores within 25 Miles', 'WT_N_GROCERY_DIST_50': 'Weighted Number of Grocery Stores within 50 Miles',
+       'WT_N_GROCERY_DIST_10': 'Weighted Number of Grocery Stores within 10 Miles', 'WT_N_GROCERY_DIST_25': 'Number of Grocery Stores within 25 Miles', 'WT_N_GROCERY_DIST_50': 'Weighted Number of Grocery Stores within 50 Miles',
        'WT_N_GYMS_DIST_2': 'Weighted Number of Gyms within 2 Miles', 'WT_N_GYMS_DIST_5': 'Weighted Number of Gyms within 5 Miles', 'WT_N_GYMS_DIST_10': 'Weighted Number of Gyms within 10 Miles',
-       'WT_N_GYMS_DIST_25': 'Weighted Number of Gyms within 25 Miles', 'WT_N_GYMS_DIST_50': 'Weighted Number of Gyms within 50 Miles', 'WT_N_HARDWARE_DIST_2': 'Weighted Number of Hardware Stores within 2 Miles',
+       'WT_N_GYMS_DIST_25': 'Number of Gyms within 25 Miles', 'WT_N_GYMS_DIST_50': 'Weighted Number of Gyms within 50 Miles', 'WT_N_HARDWARE_DIST_2': 'Weighted Number of Hardware Stores within 2 Miles',
        'WT_N_HARDWARE_DIST_5': 'Weighted Number of Hardware Stores within 5 Miles', 'WT_N_HARDWARE_DIST_10': 'Weighted Number of Hardware Stores within 10 Miles',
-       'WT_N_HARDWARE_DIST_25': 'Weighted Number of Hardware Stores within 25 Miles', 'WT_N_HARDWARE_DIST_50': 'Weighted Number of Hardware Stores within 50 Miles', 'WT_N_PARKS_DIST_2': 'Weighted Number of Parks within 2 Miles',
-       'WT_N_PARKS_DIST_5': 'Weighted Number of Parks within 5 Miles', 'WT_N_PARKS_DIST_10': 'Weighted Number of Parks within 10 Miles', 'WT_N_PARKS_DIST_25': 'Weighted Number of Parks within 25 Miles',
+       'WT_N_HARDWARE_DIST_25': 'Number of Hardware Stores within 25 Miles', 'WT_N_HARDWARE_DIST_50': 'Weighted Number of Hardware Stores within 50 Miles', 'WT_N_PARKS_DIST_2': 'Weighted Number of Parks within 2 Miles',
+       'WT_N_PARKS_DIST_5': 'Weighted Number of Parks within 5 Miles', 'WT_N_PARKS_DIST_10': 'Weighted Number of Parks within 10 Miles', 'WT_N_PARKS_DIST_25': 'Number of Parks within 25 Miles',
        'WT_N_PARKS_DIST_50': 'Weighted Number of Parks within 50 Miles', 'WT_N_MEDICAL_DIST_2': 'Weighted Number of Medical Locations within 2 Miles', 'WT_N_MEDICAL_DIST_5': 'Weighted Number of Medical Locations within 5 Miles',
-       'WT_N_MEDICAL_DIST_10': 'Weighted Number of Medical Locations within 10 Miles', 'WT_N_MEDICAL_DIST_25': 'Weighted Number of Medical Locations within 25 Miles', 'WT_N_MEDICAL_DIST_50': 'Weighted Number of Medical Locations within 50 Miles'}
+       'WT_N_MEDICAL_DIST_10': 'Weighted Number of Medical Locations within 10 Miles', 'WT_N_MEDICAL_DIST_25': 'Number of Medical Locations within 25 Miles', 'WT_N_MEDICAL_DIST_50': 'Weighted Number of Medical Locations within 50 Miles'}
 
         top_geoids = self.df_subset_top.sort_values('ranking').GEOID.astype(int).values.tolist()
         original_geoid = int(self.geoid)
@@ -514,6 +514,19 @@ class ClusterVis:
         non_numeric_cols = ['NAME', 'GEOID', 'GEO_ID','INTPTLAT', 'INTPTLONG']
         
         table = pd.concat([origFD, top1FD, top2FD, top3FD]).reset_index(drop=True)
+        drop_cols = []
+        # drop various features not == to 25 miles
+        drop_cols += [x for x in table.columns if x.endswith('_2') or x.endswith('_5') or x.endswith('_10') or x.endswith('_50')]
+        # drop various features corresponding to race
+        drop_cols += [x for x in table.columns if x.startswith('RACE')]
+        table = table.drop(columns=drop_cols)
+
+        # for the columns that do end in 25, calculate ACT # by multiplying by 25
+        cols_25 = [x for x in table.columns if x.endswith('_25')]        
+        for col in cols_25:
+            table[col] = (table[col]*25).astype(int)
+        
+        # go from weighted number of stores to actual #
         non_num_table = table[non_numeric_cols].T.copy()
         non_num_table.columns = ['c0', 'c1', 'c2', 'c3']
         table = table.drop(columns=non_numeric_cols)
@@ -552,8 +565,9 @@ class ClusterVis:
         t2['Feature'] = t2['Feature'].map(map_fields)
         t3['Feature'] = t3['Feature'].map(map_fields)
 
+        
+        
         print('Finished generating tables.\n\n')
-
         return t0, t1, t2, t3
 
 
