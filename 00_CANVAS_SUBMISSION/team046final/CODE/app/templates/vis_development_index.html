@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+
+<head>
+</head>
+
+<body>
+
+
+    <div id="mymap"></div>
+    <button type="button" id="r1" onclick=updatePlot(1);>Result 1</button>
+    <button type="button" id="r2" onclick=updatePlot(2);>Result 2</button>
+    <button type="button" id="r3" onclick=updatePlot(3);>Result 3</button>
+    <div id="mymap2"></div>
+</body>
+
+
+<footer>
+    <!-- D3.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <!-- jQuery -->
+<!--    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>-->
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <script type="text/javascript">
+        var figJSON = {{figJSON | safe}};
+        var divID = {{divID | safe}};
+
+        var fig = figJSON
+        Plotly.plot(divID, fig.data, fig.layout || {});
+        
+
+        //document.getElementById("r1").onclick = showR1;
+
+        function updatePlot(n) {
+            if (n === 0) {var fig = {{figJSON | safe}};};
+            if (n === 1) {var fig = {{figJSON1 | safe}};};
+            if (n === 2) {var fig = {{figJSON2 | safe}};};
+            if (n === 3) {var fig = {{figJSON3 | safe}};};
+            Plotly.newPlot({{divID | safe}}, fig.data, fig.layout || {});
+        };
+
+    </script>
+</footer>
+
+</html>
