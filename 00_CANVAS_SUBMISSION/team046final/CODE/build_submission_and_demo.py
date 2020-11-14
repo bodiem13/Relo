@@ -14,6 +14,7 @@ import geopandas as gp
 ################################################################################
 DEST = './00_CANVAS_SUBMISSION/team046final/'
 CODE_DEST = os.path.join(DEST, 'CODE')
+DOC_DEST = os.path.join(DEST, 'DOC')
 ################################################################################
 ################################################################################
 
@@ -31,6 +32,7 @@ if os.path.exists(DEST):
 # make destination directory
 os.makedirs(DEST)
 os.makedirs(CODE_DEST)
+os.makedirs(DOC_DEST)
 
 # copy relevant folders
 for folder in ('app', 'data', 'docs', 'model'):
