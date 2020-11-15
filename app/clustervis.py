@@ -154,7 +154,8 @@ class ClusterVis:
 
 
     def get_top_match_coords(self):
-        coords = self.df_subset_top[['INTPTLAT', 'INTPTLONG']].values
+        top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
+        coords = top[['INTPTLAT', 'INTPTLONG']].values
         result = []
         for lat, lon in coords:
             result.append('{}, {}'.format(lat, lon))
@@ -503,7 +504,8 @@ class ClusterVis:
        'WT_N_PARKS_DIST_50': 'Weighted Number of Parks within 50 Miles', 'WT_N_MEDICAL_DIST_2': 'Weighted Number of Medical Locations within 2 Miles', 'WT_N_MEDICAL_DIST_5': 'Weighted Number of Medical Locations within 5 Miles',
        'WT_N_MEDICAL_DIST_10': 'Weighted Number of Medical Locations within 10 Miles', 'WT_N_MEDICAL_DIST_25': 'Number of Medical Locations within 25 Miles', 'WT_N_MEDICAL_DIST_50': 'Weighted Number of Medical Locations within 50 Miles'}
 
-        top_geoids = self.df_subset_top.sort_values('ranking').GEOID.astype(int).values.tolist()
+        top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
+        top_geoids = top.GEOID.astype(int).values.tolist()
         original_geoid = int(self.geoid)
         
         origFD = ORIG_FEATURE_DATA[ORIG_FEATURE_DATA.GEOID==original_geoid]
