@@ -489,6 +489,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
 
     <script>
+        //load screen while page loads
         $(window).on("load",function(){
             $(".newloader-wrapper").fadeOut("slow");
         });
@@ -559,6 +560,7 @@
 
 
 <body>
+    <!--Add top toolbar with two tabs: Results and Team-->
     <nav class="navbar navbar-light bg-light">
         <a class="navbar-brand" href="#" >
             <img src="/static/relo_logo_slogan_min2.png" alt="">
@@ -573,7 +575,7 @@
         </ul>
     </nav>
 
-
+    <!--Create container for search results-->
     <div class="container-fluid">
         <div class="row" style="padding:15px;">
             <div class="col-md-3"></div>
@@ -581,6 +583,7 @@
                 <form role="form" id="form-buscar" action="search_results" method="POST">
                     <div class="form-group">
                         <div class="input-group search-box">
+                            <!--Add search bar so the user can search for another result-->
                             <input id="1" class="form-control" type="text" name="address" placeholder="Enter address here..."
                                 required value="{{ address | safe}}"/>
                             <span class="input-group-btn">
@@ -592,6 +595,7 @@
                 </form>
             </div>
             <div class="col-md-3"></div>
+        <!--Begin to display the results from a search-->
         </div>
         <div width="100%" style="text-align:center;color:darkgray;">
             Select each suggested neighborhood below to see how it compares
@@ -605,10 +609,12 @@
                                 <p class="value3 mt-sm"  style="text-align: center;">
                                     <img src="static/rank-1.png" width="30%">
                                 </p>
+                                <!--View Details button zooms the Plotly graph to show a search result location as well as the surrounding amenities-->
                                 <p class="fs-mini text-muted" style="text-align: center;"><a class="button3" onclick=updatePlot(1);
                                         style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
+                                <!--Populate the remainder of the search result cards-->
                                 <h4 class="search-result-item-heading"><a href="#">{{ name1 | safe }}</a></h4>
                                 <p class="info">{{ subname1 | safe }}</p>
                                 <p class="description">Latitude/Longitude<br>{{ c1 | safe }}</p>
@@ -626,10 +632,12 @@
                                 <p class="value3 mt-sm"  style="text-align: center;">
                                     <img src="static/rank-2.png" width="30%">
                                 </p>
+                                <!--View Details button zooms the Plotly graph to show a search result location as well as the surrounding amenities-->
                                 <p class="fs-mini text-muted"  style="text-align: center;"><a class="button3" onclick=updatePlot(2);
                                     style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
+                                <!--Populate the remainder of the search result cards-->
                                 <h4 class="search-result-item-heading"><a href="#">{{ name2 | safe }}</a> <span
                                         class="badge bg-danger fw-normal pull-right"></span></h4>
                                 <p class="info">{{ subname2 | safe }}</p>
@@ -648,11 +656,13 @@
                                 <p class="value3 mt-sm" style="text-align: center;">
                                     <img src="static/rank-3.png" width="30%">
                                 </p>
+                                <!--View Details button zooms the Plotly graph to show a search result location as well as the surrounding amenities-->
                                 <p class="fs-mini text-muted"  style="text-align: center;">
                                     <a class="button3" onclick=updatePlot(3);
                                     style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
+                                <!--Populate the remainder of the search result cards-->
                                 <h4 class="search-result-item-heading"><a href="#">{{ name3 | safe }}</a></h4>
                                 <p class="info">{{ subname3 | safe }}</p>
                                 <p class="description">Latitude/Longitude<br>{{ c3 | safe }}</p>

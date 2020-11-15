@@ -87,20 +87,19 @@
 </head>
 
 <script>
-    // $(window).on('load', (function () {
-    //     $(".se-pre-con").fadeOut();
-    // }));
+    //show load screen while the window is loading
     $(window).on("load",function(){
         $(".newloader-wrapper").fadeOut("slow");
     });
 
+    //show load screen after user searches an address
     $("#clickedSubmit").click(function(){
         $(".newloader-wrapper").show();
     });
 </script>
 
 <body>
-    <!--<div class="se-pre-con"></div>-->
+    <!--div to show load screen-->
     <div class="newloader-wrapper">
         <span class="newloader"><span class="newloader-inner"></span></span>
     </div>
@@ -110,6 +109,8 @@
         <a href="contact">Contact</a>
         <a href="about">About</a>
     </div> -->
+
+    <!--show toolbar on top of page with two tabs: Results and Team-->
     <nav class="navbar navbar-light bg-light">
         <a class="navbar-brand" href="#">
             <img src="/static/relo_logo_slogan_min2.png" alt="">
