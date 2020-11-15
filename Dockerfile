@@ -20,4 +20,4 @@ ENV PATH /opt/conda/envs/proj/bin:$PATH
 
 EXPOSE 5000
 
-ENTRYPOINT ["./boot.sh"]
+ENTRYPOINT ["sh", "./boot.sh"]
