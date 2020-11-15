@@ -90,13 +90,13 @@ def search_results():
         
         # Create 4 maps, the overview (high level) map, and 3 zoomed figures
         # corresponding to the top 3 matches
-        overview, zoom_figures = cvis.create_figures()
+        overview = cvis.create_figures()
 
         # send figures to json and store in the state variable
         MOST_RECENT_RESULTS["fig0"] = overview.to_json()
-        MOST_RECENT_RESULTS["fig1"] = zoom_figures[0].to_json()
-        MOST_RECENT_RESULTS["fig2"] = zoom_figures[1].to_json()
-        MOST_RECENT_RESULTS["fig3"] = zoom_figures[2].to_json()
+        #MOST_RECENT_RESULTS["fig1"] = zoom_figures[0].to_json()
+        #MOST_RECENT_RESULTS["fig2"] = zoom_figures[1].to_json()
+        #MOST_RECENT_RESULTS["fig3"] = zoom_figures[2].to_json()
 
         # Build html tables for display
         t0, t1, t2, t3 = cvis.build_tables()
@@ -119,14 +119,18 @@ def search_results():
         MOST_RECENT_RESULTS["c1"] = top_match_coords[0]
         MOST_RECENT_RESULTS["c2"] = top_match_coords[1]
         MOST_RECENT_RESULTS["c3"] = top_match_coords[2]
+        
+        MOST_RECENT_RESULTS["c1lat"], MOST_RECENT_RESULTS["c1lon"] = [float(x.strip()) for x in top_match_coords[0].split(',')]
+        MOST_RECENT_RESULTS["c2lat"], MOST_RECENT_RESULTS["c2lon"] = [float(x.strip()) for x in top_match_coords[1].split(',')]
+        MOST_RECENT_RESULTS["c3lat"], MOST_RECENT_RESULTS["c3lon"] = [float(x.strip()) for x in top_match_coords[2].split(',')]
 
     return render_template(
         "search_results.html",
         address=MOST_RECENT_RESULTS["address"],
         fig0=MOST_RECENT_RESULTS["fig0"],
-        fig1=MOST_RECENT_RESULTS["fig1"],
-        fig2=MOST_RECENT_RESULTS["fig2"],
-        fig3=MOST_RECENT_RESULTS["fig3"],
+        #fig1=MOST_RECENT_RESULTS["fig1"],
+        #fig2=MOST_RECENT_RESULTS["fig2"],
+        #fig3=MOST_RECENT_RESULTS["fig3"],
         t0=MOST_RECENT_RESULTS["t0"],
         t1=MOST_RECENT_RESULTS["t1"],
         t2=MOST_RECENT_RESULTS["t2"],
@@ -140,6 +144,9 @@ def search_results():
         c1=MOST_RECENT_RESULTS["c1"],
         c2=MOST_RECENT_RESULTS["c2"],
         c3=MOST_RECENT_RESULTS["c3"],
+        c1lat=MOST_RECENT_RESULTS["c1lat"], c1lon=MOST_RECENT_RESULTS["c1lon"],
+        c2lat=MOST_RECENT_RESULTS["c2lat"], c2lon=MOST_RECENT_RESULTS["c2lon"],
+        c3lat=MOST_RECENT_RESULTS["c3lat"], c3lon=MOST_RECENT_RESULTS["c3lon"],
     )
 
 

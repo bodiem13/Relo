@@ -518,24 +518,36 @@
             var mapTitleText = "";
 
             if (n === 0) { 
-                var fig = {{ fig0 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 3;
+                fig.layout.mapbox.center.lat = 38;
+                fig.layout.mapbox.center.lon = -94;         
                 var t = "t0";               
             };
             
             if (n === 1) {
-                var fig = {{ fig1 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 10;
+                fig.layout.mapbox.center.lat = {{ c1lat | safe }};
+                fig.layout.mapbox.center.lon = {{ c1lon | safe }};           
                 var t = "t1";
                 mapTitleText = "{{ name1 | safe }}";
             };
             
             if (n === 2) {
-                var fig = {{ fig2 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 10;
+                fig.layout.mapbox.center.lat = {{ c2lat | safe }};
+                fig.layout.mapbox.center.lon = {{ c2lon | safe }};              
                 var t = "t2";
                 mapTitleText = "{{ name2 | safe }}";
             };
             
             if (n === 3) {
-                var fig = {{ fig3 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 10; 
+                fig.layout.mapbox.center.lat = {{ c3lat | safe }};
+                fig.layout.mapbox.center.lon = {{ c3lon | safe }};               
                 var t = "t3";
                 mapTitleText = "{{ name3 | safe }}";
             };

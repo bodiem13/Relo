@@ -196,10 +196,10 @@ class ClusterVis:
             self._add_map_style(dev=True)
         print('---> Generating Zoomed-in Figures. (This may take a moment...)')
         # generate zoomed-in figures of top matches
-        self._generate_zoomed_figures()
+        #self._generate_zoomed_figures()
         print('Finished.')
 
-        return self.fig, self.zoom_figures
+        return self.fig#, self.zoom_figures
 
     
     def _add_amenities(self):
