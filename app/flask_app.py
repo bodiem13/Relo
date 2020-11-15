@@ -1,9 +1,5 @@
-# Steps to run
-# Do not start a local server. This can be ran locally and viewed on http://localhost:5000/
-# If server appears busy, run ps -fA | grep python (this will show open connections)
-# Use kill ##### command to end connections
+import time
 
-# render template function allows use of html templates
 from flask import Flask, render_template, request, jsonify, redirect, url_for, Markup
 from geopy.geocoders import Nominatim
 import censusgeocode as cg
@@ -64,6 +60,7 @@ def search_results():
     # if POST request, update MOST_RECENT_RESULTS, otherwise skip update
     # and re-render page with latest search.
     if request.method == "POST":
+        POST_START_TIME = time.time()
         print("search_results called as POST")
         address = request.form["address"]
         MOST_RECENT_RESULTS["address"] = address
@@ -77,7 +74,6 @@ def search_results():
             MOST_RECENT_RESULTS["search_lat"] = coordinates[1]
         else: # fallback to default example
             pass
-
 
         # build visualization object
         # geoid may be passed as None. If so, fallback mechanism will take
@@ -93,7 +89,6 @@ def search_results():
 
         # send figures to json and store in the state variable
         MOST_RECENT_RESULTS["fig0"] = overview.to_json()
-
 
         # Build html tables for display
         t0, t1, t2, t3 = cvis.build_tables()
@@ -121,6 +116,8 @@ def search_results():
         MOST_RECENT_RESULTS["c2lat"], MOST_RECENT_RESULTS["c2lon"] = [float(x.strip()) for x in top_match_coords[1].split(',')]
         MOST_RECENT_RESULTS["c3lat"], MOST_RECENT_RESULTS["c3lon"] = [float(x.strip()) for x in top_match_coords[2].split(',')]
 
+        print('*** Search to render preparation time: {} seconds'.format(round(time.time()-POST_START_TIME, 2)))
+        
     return render_template(
         "search_results.html",
         address=MOST_RECENT_RESULTS["address"],
