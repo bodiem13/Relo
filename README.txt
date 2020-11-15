@@ -146,5 +146,5 @@ Please follow the following steps to run the code:
 1. Open a Powershell or Terminal window and navigate into the directory where the docker image was downloaded in the Installation section.
 2. Run 'docker load -i relodemo.tar' (note, you may need to run as root/with sudo on linux/mac)
 3. Run 'docker run -it -p 5000:5000 relodemo' (note, you may need to run as root/with sudo on linux/mac)
-4. In your Powershell or Terminal window, once you see "Running on http://0.0.0.0:5000/", navigate to that link and begin using the app!
+4. In your Powershell or Terminal window, once you see "Running on http://0.0.0.0:5000/", navigate to localhost:5000 in your browser (NOT 0.0.0.0:5000) and begin using the app!
 
