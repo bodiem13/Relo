@@ -121,7 +121,7 @@ def search_results():
         MOST_RECENT_RESULTS["c3"] = top_match_coords[2]
 
     return render_template(
-        "test.html",
+        "search_results.html",
         address=MOST_RECENT_RESULTS["address"],
         fig0=MOST_RECENT_RESULTS["fig0"],
         fig1=MOST_RECENT_RESULTS["fig1"],

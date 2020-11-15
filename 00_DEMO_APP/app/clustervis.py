@@ -154,10 +154,10 @@ class ClusterVis:
 
 
     def get_top_match_coords(self):
-        coords = self.df_subset_top[['INTPTLONG', 'INTPTLAT']].values
+        coords = self.df_subset_top[['INTPTLAT', 'INTPTLONG']].values
         result = []
-        for lon, lat in coords:
-            result.append('{}, {}'.format(lon, lat))
+        for lat, lon in coords:
+            result.append('{}, {}'.format(lat, lon))
         return result
         
     def create_figures(self):
