@@ -75,19 +75,16 @@ def search_results():
         else: # fallback to default example
             pass
 
-        # build visualization object
-        # geoid may be passed as None. If so, fallback mechanism will take
-        # place to determine the "home" neighborhood.
+        # build visualization object. pass lat/long of searched point.
         cvis = clustervis.ClusterVis(
             lat=MOST_RECENT_RESULTS["search_lat"],
             lon=MOST_RECENT_RESULTS["search_lon"],
         )
         
-        # Create 4 maps, the overview (high level) map, and 3 zoomed figures
-        # corresponding to the top 3 matches
+        # create a map. default view is the top-level, zoomed out map.
         overview = cvis.create_figure()
 
-        # send figures to json and store in the state variable
+        # create json from map.
         MOST_RECENT_RESULTS["fig0"] = overview.to_json()
 
         # Build html tables for display
