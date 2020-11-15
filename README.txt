@@ -30,7 +30,6 @@ Inside the app directory, we have the following structure:
 
 Please refer to Diagram_1 below for more information about the structure of the 'app' directory (note the images that are stored in the 'static' directory are not included in the diagram below). 
 
-
 Diagram_1
 ├── app/
 │   ├── .vscode/
@@ -53,6 +52,7 @@ Diagram_1
 │   ├── clustervis.py
 │   ├── flask_app.py
 └── └── vis_development_app.py
+
 
 DATA DIRECTORY
 
@@ -84,6 +84,7 @@ Diagram_2
 │   ├── sample/
 └── └── shape_data/
 
+
 DOCS DIRECTORY
 
 The 'docs' directory contains files relating to flow charts and diagrams that help depict the structure of the project.
@@ -98,6 +99,36 @@ Diagram_3
 │   ├── RELO Process Flow Diagram.pdf
 │   ├── Visual Component.docx
 └── └── amenity-data-capture-approach.docx
+
+
+MODEL DIRECTORY
+
+The 'model' directory contains code relating to the clustering pipeline and testing of the clustering pipeline. 
+
+In this directory, the 'Clustering_Pipeline.ipynb' file contains the complete code for the creation of the clustering pipeline.
+
+Please refer to Diagram_4 below for more information about the structure of the 'model' directory.    
+
+Diagram_4
+├── model/
+│   ├── Clustering_Model_Testing.ipynb
+│   ├── Clustering_Pipeline.ipynb
+│   ├── hierarchical_ward_results.obj
+│   ├── kmeans_results.obj
+│   ├── minibatch_kmeans_results.obj
+└── └── spectral_clustering_results.obj
+
+
+RAW_DATA DIRECTORY
+
+The 'raw_data' directory contains raw census data. 
+
+Please refer to Diagram_5 below for more information about the structure of the 'raw_data' directory.    
+
+Diagram_5
+├── model/
+│   ├── census_tables/
+└── └── census_tract_geometries/2018/
 
 
 INSTALLATION
