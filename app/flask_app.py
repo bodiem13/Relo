@@ -30,7 +30,7 @@ address = str()
 # global to hold most recent results
 # specifies defaults if error in address matching
 # have a default lat/lon as fallback
-MOST_RECENT_RESULTS = {"geoid": None, "lat": 40.5218403, "lon": -80.1969462}
+MOST_RECENT_RESULTS = {"lat": 40.5218403, "lon": -80.1969462}
 
 
 def get_coordinates(address):
@@ -61,7 +61,8 @@ def return_home():
 
 @app.route("/search_results", strict_slashes=False, methods=["GET", "POST"])
 def search_results():
-    # if POST request, update MOST_RECENT_RESULTS
+    # if POST request, update MOST_RECENT_RESULTS, otherwise skip update
+    # and re-render page with latest search.
     if request.method == "POST":
         print("search_results called as POST")
         address = request.form["address"]
@@ -74,7 +75,6 @@ def search_results():
             print("COORDS FOUND: {}".format(coordinates))
             MOST_RECENT_RESULTS["search_lon"] = coordinates[0]
             MOST_RECENT_RESULTS["search_lat"] = coordinates[1]
-            MOST_RECENT_RESULTS["geoid"] = None # geoid identification is now done within clustervis
         else: # fallback to default example
             pass
 
@@ -83,20 +83,17 @@ def search_results():
         # geoid may be passed as None. If so, fallback mechanism will take
         # place to determine the "home" neighborhood.
         cvis = clustervis.ClusterVis(
-            geoid=MOST_RECENT_RESULTS["geoid"],
             lat=MOST_RECENT_RESULTS["search_lat"],
             lon=MOST_RECENT_RESULTS["search_lon"],
         )
         
         # Create 4 maps, the overview (high level) map, and 3 zoomed figures
         # corresponding to the top 3 matches
-        overview = cvis.create_figures()
+        overview = cvis.create_figure()
 
         # send figures to json and store in the state variable
         MOST_RECENT_RESULTS["fig0"] = overview.to_json()
-        #MOST_RECENT_RESULTS["fig1"] = zoom_figures[0].to_json()
-        #MOST_RECENT_RESULTS["fig2"] = zoom_figures[1].to_json()
-        #MOST_RECENT_RESULTS["fig3"] = zoom_figures[2].to_json()
+
 
         # Build html tables for display
         t0, t1, t2, t3 = cvis.build_tables()
@@ -114,7 +111,7 @@ def search_results():
         MOST_RECENT_RESULTS["subname2"] = top_city_names["t2"]["neighborhood"]
         MOST_RECENT_RESULTS["subname3"] = top_city_names["t3"]["neighborhood"]
 
-        # Get the latitude/longitude of the home census tract.
+        # Get the latitude/longitude of the census tract id'd in the search.
         top_match_coords = cvis.get_top_match_coords()
         MOST_RECENT_RESULTS["c1"] = top_match_coords[0]
         MOST_RECENT_RESULTS["c2"] = top_match_coords[1]
@@ -128,9 +125,6 @@ def search_results():
         "search_results.html",
         address=MOST_RECENT_RESULTS["address"],
         fig0=MOST_RECENT_RESULTS["fig0"],
-        #fig1=MOST_RECENT_RESULTS["fig1"],
-        #fig2=MOST_RECENT_RESULTS["fig2"],
-        #fig3=MOST_RECENT_RESULTS["fig3"],
         t0=MOST_RECENT_RESULTS["t0"],
         t1=MOST_RECENT_RESULTS["t1"],
         t2=MOST_RECENT_RESULTS["t2"],
