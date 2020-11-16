@@ -13,14 +13,18 @@ from geopy.geocoders import Nominatim
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
+"""
+clustervis.py contains the main logic to create the map visualization and prepare
+data tables that are used in the visualization.
+"""
+
 
 ################################################################################
 # OPTIONS
 mapboxt = open(".mapbox_token").read().rstrip()
 ####
 DEV_MAP=True
-DEV_IGNORE_CLUSTER_MATCHING=False
-AMENITIES_DRAW_DISTANCE = 25 # 2, 5, 10, 25, or 50 miles
+AMENITIES_DRAW_DISTANCE = 25 # 2, 5, 10, 25, or 50 miles. Stick with 25 for now...
 ####
 
 ################################################################################
@@ -93,47 +97,39 @@ print('Done. {} seconds to load.\n\n'.format(round(time.time()-start, 2)))
 ################################################################################        
 
 class ClusterVis:
-    def __init__(self, geoid=42003451102, lat=40.5218403, lon=-80.1969462, n_top=3):
+    def __init__(self, lat=40.5218403, lon=-80.1969462, n_top=3):
+        """
+            Initalize with lat/lon of user search.
+            The closest matching census tract center will be located, and the
+            geoid of that is assigned to self.geoid.
+            
+            The rankings of closest-matches will then be looked-up for that
+            geoid. Methods can then be called to build the figures. See flask_app.py
+            for usage.
+            
+            n_top should not be changed at this time...code was written to consider
+            top 3 matches only.
+        """
         try:
-            if geoid is not None:
-                self.geoid = int(geoid)
-            else:
-                self.geoid = None
             self.n_top = int(n_top)
             # lat and lon for fallback closest geoid/cluster matching
             self.lat = float(lat)
             self.lon = float(lon)
         except ValueError:
-            print('geoid and n_top must be int-like, lat/lon must be float-like')
+            print('lat/lon must be float-like')
         
+        self.geoid = None
         self.fig = None
         self.zoom_figures = []
-        
-
 
         # get the cluster        
         self.cluster = self.geoid_to_cluster()
-
+        print('Nearest selected neighborhood is in cluster #{}'.format(self.cluster))
+        print('(Note that the demo app is limited to one cluster of neighborhoods!)')
         # subset CLUSTER_DF to matching cluster
         self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster].merge(ORIG_FEATURE_DATA[['GEOID', 'NAME', 'INTPTLAT', 'INTPTLONG']], on='GEOID')
 
 
-        """
-        ### FIX ME - need to add rank prior to this function
-        print('WARNING::::STILL NEED TO INTEGRATE RANKING DATA')
-        import random
-        rankings_ = list(range(1, len(self.df_subset)+1))
-        random.shuffle(rankings_)
-        self.df_subset.loc[:, 'ranking'] = rankings_
-        ###
-
-        # get top matches
-        self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top]
-        # get non-top matches
-        self.df_subset_other = self.df_subset[self.df_subset.ranking>self.n_top]
-        # subset geopandas to matching geoids
-        self.gpdf_subset_json = self._prepare_geopandas_subset()
-        """
         # get top ranked geoids
         self.top_geoids = [self.df_subset[self.df_subset.GEOID==self.geoid].top1,
                            self.df_subset[self.df_subset.GEOID==self.geoid].top2,
@@ -154,16 +150,20 @@ class ClusterVis:
 
 
     def get_top_match_coords(self):
-        coords = self.df_subset_top[['INTPTLAT', 'INTPTLONG']].values
+        top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
+        coords = top[['INTPTLAT', 'INTPTLONG']].values
         result = []
         for lat, lon in coords:
             result.append('{}, {}'.format(lat, lon))
         return result
         
-    def create_figures(self):
+    def create_figure(self):
         """
-        Create overview figure and figures zoomed on the top matches
-        Methods called in this pipeline should update self.fig
+        Create plotly figure with various layers for census tracts, amenities,
+        cluster members, top points, searched point, etc...
+        
+        Map zooming from the web app will now use lat/lon and zoom levels to
+        update the map instead of having the zoomed figures duplicated here.
         """
         print('\n\n===Creating Map===')
         
@@ -194,15 +194,16 @@ class ClusterVis:
             self._add_map_style()
         else:
             self._add_map_style(dev=True)
-        print('---> Generating Zoomed-in Figures. (This may take a moment...)')
-        # generate zoomed-in figures of top matches
-        self._generate_zoomed_figures()
         print('Finished.')
 
-        return self.fig, self.zoom_figures
+        return self.fig
 
     
     def _add_amenities(self):
+        """
+        add markers for each of the amenities
+        if new amenities are added, the styling dict below must be updated.
+        """
         # get geoids of top rankings within cluster
         top_geoids = self.df_subset_top.GEOID.astype(int).values.tolist()
         # iterate over AMENITIES fields != to geoid
@@ -255,6 +256,7 @@ class ClusterVis:
             )
 
     def _create_initial_map_figure(self):
+        """draw the chorpleth map & the geojson polygons for the census tracts in the cluster"""
         # draw the census tracts
         self.fig = go.Figure(
         go.Choroplethmapbox(
@@ -278,6 +280,7 @@ class ClusterVis:
         )        
 
     def _add_other_points(self):
+        """add markers for other tracts within the cluster that were not in the top 3"""
         # add all tract points not in top, make them smaller
         self.fig = self.fig.add_scattermapbox(
             uid='other',
@@ -302,12 +305,13 @@ class ClusterVis:
         )
 
     def _add_top_points(self):
+        """Add markers for the top 3 locations"""
         # add top tract points- this makes it easier to find matches when zoomed out
         self.fig = self.fig.add_scattermapbox(
             uid='top',
             mode='markers+text',
-            lat=self.df_subset_top['INTPTLAT'],
-            lon=self.df_subset_top['INTPTLONG'],
+            lat=self.df_subset_top.sort_values('ranking')['INTPTLAT'],
+            lon=self.df_subset_top.sort_values('ranking')['INTPTLONG'],
             marker={'size': 25,
                     'symbol': 'circle',
                     'color': 'yellow',
@@ -331,7 +335,8 @@ class ClusterVis:
 #        )
 
     def _add_original_point(self):
-         self.fig = self.fig.add_scattermapbox(
+        """add the point that was searched for."""
+        self.fig = self.fig.add_scattermapbox(
             uid='original',
             mode='markers',
             lat=[self.lat],
@@ -350,6 +355,7 @@ class ClusterVis:
         )
         
     def _add_original_center_point(self):
+        """add the point of the cluster identified by the search coordinates."""
         df_ = CLUSTER_DF[CLUSTER_DF.GEOID==self.geoid].merge(ORIG_FEATURE_DATA[['GEOID', 'INTPTLAT', 'INTPTLONG']], on='GEOID')
         lat_ = df_.INTPTLAT.values[0]
         lon_ = df_.INTPTLONG.values[0]
@@ -373,6 +379,7 @@ class ClusterVis:
         )    
 
     def _add_map_style(self, dev=False):
+        """set style options for choropleth base map/tiles"""
         if dev is False:
             style = 'light'
             accesstoken = mapboxt
@@ -396,28 +403,9 @@ class ClusterVis:
             #showlegend=False
         )
 
-    def _generate_zoomed_figures(self):
-        def update_map(fig, zoom, lat=None, lon=None):
-            '''
-            For a given figure fig, update the zoom level.
-            If both lat and lon are also provided, move the camera to that location.
-            '''
-            if not lat or not lon:
-                return fig.update_layout(mapbox_zoom=zoom)
-            else:
-                return fig.update_layout(
-                    mapbox_zoom=zoom,
-                    mapbox_center = {"lat": lat, "lon": lon}
-            )
-
-        for idx, row in self.df_subset_top.sort_values('ranking').iterrows():
-            self.zoom_figures.append(
-                #update_map(copy.deepcopy(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
-                update_map(go.Figure(self.fig), zoom=10, lat=row.INTPTLAT, lon=row.INTPTLONG)
-            )
-
 
     def _prepare_geopandas_subset(self):
+        """update the id of the geojson with the geoid of the corresponding tract"""
         # subset the geopandas dataframe to geoids that match with the current clusters
         gpdf_subset = GPDF[GPDF.GEOID.astype(int).isin(self.df_subset.GEOID.astype(int))]
         # convert the filtered geopandas dataframe to geojson
@@ -431,14 +419,12 @@ class ClusterVis:
 
     def geoid_to_cluster(self):
         '''
-        Given geoid, find the cluster associated with the matching GEOID in
-        CLUSTER_DF.
-        If there is not an exact match, try the method to replace the last two
-        of the GEOID with 0's. This gets rid of sub-tracts that may be returned.
-        Failing that, use the latitude and longitude to locate the nearest census
-        tract
-        If no geoid originally passed, update with geoid of closest matching cluster
+        Run in init to assign the closest matching geoid to the passed lat/lon
+        in init.
+        
+        Uses a KD-Tree for quick proximity-based lookups.
         '''
+        
         """ # Deprecated, nearest methodology works best
         if self.geoid is not None:
             # Ideal case, where we match a geoid
@@ -478,6 +464,8 @@ class ClusterVis:
         """Build tables for HTML template, to show original search vs. top match & percent change"""
         print('\n\n===Building tables for visualization===')
         
+        # note, some of these were updated from weighted -> number for display output
+        # the conversion from weighted to non-weighted appears below.
         map_fields = {'GEOID': 'Identifier', 'GEO_ID': 'Identifier', 'NAME': 'Name', 'SUM_IND_Child_Dep_Ratio': 'Child Dependency Ratio',
        'SUM_IND_Old_Age_Dep_Ratio': 'Old Age Dependency Ratio', 'SUM_IND_Med_Age': 'Median Age', 'MED_INC_25_PLUS_Tot': 'Median Income Over 25 Years Old',
        'PERC_BEL_POV': 'Percent Below Poverty', 'LAB_FRC_POP_20_to_64': 'Prime Working Age Labor Force', 'UNEMP_RATE_POP_20_to_64': 'Prime Working Age Unemployment Rate',
@@ -503,7 +491,8 @@ class ClusterVis:
        'WT_N_PARKS_DIST_50': 'Weighted Number of Parks within 50 Miles', 'WT_N_MEDICAL_DIST_2': 'Weighted Number of Medical Locations within 2 Miles', 'WT_N_MEDICAL_DIST_5': 'Weighted Number of Medical Locations within 5 Miles',
        'WT_N_MEDICAL_DIST_10': 'Weighted Number of Medical Locations within 10 Miles', 'WT_N_MEDICAL_DIST_25': 'Number of Medical Locations within 25 Miles', 'WT_N_MEDICAL_DIST_50': 'Weighted Number of Medical Locations within 50 Miles'}
 
-        top_geoids = self.df_subset_top.sort_values('ranking').GEOID.astype(int).values.tolist()
+        top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
+        top_geoids = top.GEOID.astype(int).values.tolist()
         original_geoid = int(self.geoid)
         
         origFD = ORIG_FEATURE_DATA[ORIG_FEATURE_DATA.GEOID==original_geoid]
@@ -572,6 +561,10 @@ class ClusterVis:
 
 
     def get_top_city_names(self):
+        """
+        return dict of various location-based data for the top 3 neighborhood
+        matches.
+        """
         top = self.df_subset_top.sort_values('ranking').copy().reset_index(drop=True)
         
         # by default, use census tract names for neighborhoods
@@ -582,7 +575,8 @@ class ClusterVis:
         }
         
         # do a lookup for a more specific address
-        
+        # since the data returned by the api are not uniform, various "spellings"
+        # are tried to get something neighborhood-like.
         for i, key in enumerate(['t1', 't2', 't3']):
             try:
                 geolocator = Nominatim(user_agent="my_application")
@@ -597,6 +591,7 @@ class ClusterVis:
                         #print(list(results[key]['loc'].keys()))
                         pass
 
+                # city is not always a given, try different things to assign city as well
                 for spelling in ['city', 'town', 'suburb', 'hamlet', 'neighbourhood', 'neighborhood']:
                     if spelling in results[key]['loc'].keys():
                         results[key]['citystate'] = results[key]['loc'][spelling]
@@ -609,8 +604,7 @@ class ClusterVis:
                         results[key]['citystate'] += ', {}'.format(results[key]['loc']['state'])
             except Exception as e:
                 print(e)
-
-                   
+                 
         return results
                
         

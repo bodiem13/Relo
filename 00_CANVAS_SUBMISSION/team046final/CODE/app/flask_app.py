@@ -1,9 +1,5 @@
-# Steps to run
-# Do not start a local server. This can be ran locally and viewed on http://localhost:5000/
-# If server appears busy, run ps -fA | grep python (this will show open connections)
-# Use kill ##### command to end connections
+import time
 
-# render template function allows use of html templates
 from flask import Flask, render_template, request, jsonify, redirect, url_for, Markup
 from geopy.geocoders import Nominatim
 import censusgeocode as cg
@@ -30,7 +26,7 @@ address = str()
 # global to hold most recent results
 # specifies defaults if error in address matching
 # have a default lat/lon as fallback
-MOST_RECENT_RESULTS = {"geoid": None, "lat": 40.5218403, "lon": -80.1969462}
+MOST_RECENT_RESULTS = {"lat": 40.5218403, "lon": -80.1969462}
 
 
 def get_coordinates(address):
@@ -61,8 +57,10 @@ def return_home():
 
 @app.route("/search_results", strict_slashes=False, methods=["GET", "POST"])
 def search_results():
-    # if POST request, update MOST_RECENT_RESULTS
+    # if POST request, update MOST_RECENT_RESULTS, otherwise skip update
+    # and re-render page with latest search.
     if request.method == "POST":
+        POST_START_TIME = time.time()
         print("search_results called as POST")
         address = request.form["address"]
         MOST_RECENT_RESULTS["address"] = address
@@ -74,29 +72,20 @@ def search_results():
             print("COORDS FOUND: {}".format(coordinates))
             MOST_RECENT_RESULTS["search_lon"] = coordinates[0]
             MOST_RECENT_RESULTS["search_lat"] = coordinates[1]
-            MOST_RECENT_RESULTS["geoid"] = None # geoid identification is now done within clustervis
         else: # fallback to default example
             pass
 
-
-        # build visualization object
-        # geoid may be passed as None. If so, fallback mechanism will take
-        # place to determine the "home" neighborhood.
+        # build visualization object. pass lat/long of searched point.
         cvis = clustervis.ClusterVis(
-            geoid=MOST_RECENT_RESULTS["geoid"],
             lat=MOST_RECENT_RESULTS["search_lat"],
             lon=MOST_RECENT_RESULTS["search_lon"],
         )
         
-        # Create 4 maps, the overview (high level) map, and 3 zoomed figures
-        # corresponding to the top 3 matches
-        overview, zoom_figures = cvis.create_figures()
+        # create a map. default view is the top-level, zoomed out map.
+        overview = cvis.create_figure()
 
-        # send figures to json and store in the state variable
+        # create json from map.
         MOST_RECENT_RESULTS["fig0"] = overview.to_json()
-        MOST_RECENT_RESULTS["fig1"] = zoom_figures[0].to_json()
-        MOST_RECENT_RESULTS["fig2"] = zoom_figures[1].to_json()
-        MOST_RECENT_RESULTS["fig3"] = zoom_figures[2].to_json()
 
         # Build html tables for display
         t0, t1, t2, t3 = cvis.build_tables()
@@ -114,19 +103,22 @@ def search_results():
         MOST_RECENT_RESULTS["subname2"] = top_city_names["t2"]["neighborhood"]
         MOST_RECENT_RESULTS["subname3"] = top_city_names["t3"]["neighborhood"]
 
-        # Get the latitude/longitude of the home census tract.
+        # Get the latitude/longitude of the census tract id'd in the search.
         top_match_coords = cvis.get_top_match_coords()
         MOST_RECENT_RESULTS["c1"] = top_match_coords[0]
         MOST_RECENT_RESULTS["c2"] = top_match_coords[1]
         MOST_RECENT_RESULTS["c3"] = top_match_coords[2]
+        
+        MOST_RECENT_RESULTS["c1lat"], MOST_RECENT_RESULTS["c1lon"] = [float(x.strip()) for x in top_match_coords[0].split(',')]
+        MOST_RECENT_RESULTS["c2lat"], MOST_RECENT_RESULTS["c2lon"] = [float(x.strip()) for x in top_match_coords[1].split(',')]
+        MOST_RECENT_RESULTS["c3lat"], MOST_RECENT_RESULTS["c3lon"] = [float(x.strip()) for x in top_match_coords[2].split(',')]
 
+        print('*** Search to render preparation time: {} seconds'.format(round(time.time()-POST_START_TIME, 2)))
+        
     return render_template(
         "search_results.html",
         address=MOST_RECENT_RESULTS["address"],
         fig0=MOST_RECENT_RESULTS["fig0"],
-        fig1=MOST_RECENT_RESULTS["fig1"],
-        fig2=MOST_RECENT_RESULTS["fig2"],
-        fig3=MOST_RECENT_RESULTS["fig3"],
         t0=MOST_RECENT_RESULTS["t0"],
         t1=MOST_RECENT_RESULTS["t1"],
         t2=MOST_RECENT_RESULTS["t2"],
@@ -140,6 +132,9 @@ def search_results():
         c1=MOST_RECENT_RESULTS["c1"],
         c2=MOST_RECENT_RESULTS["c2"],
         c3=MOST_RECENT_RESULTS["c3"],
+        c1lat=MOST_RECENT_RESULTS["c1lat"], c1lon=MOST_RECENT_RESULTS["c1lon"],
+        c2lat=MOST_RECENT_RESULTS["c2lat"], c2lon=MOST_RECENT_RESULTS["c2lon"],
+        c3lat=MOST_RECENT_RESULTS["c3lat"], c3lon=MOST_RECENT_RESULTS["c3lon"],
     )
 
 

@@ -377,7 +377,9 @@
         }
 
         a.button3:hover {
-            background-color: #00B4CC;
+            background-color: #79cfdb;
+            font-weight: bolder;
+            
         }
 
         .topnav {
@@ -422,8 +424,8 @@
         }
 
         a.button4:hover {
-            background-color: #00B4CC;
-            cursor:pointer;
+            background-color: #79cfdb;
+            font-weight: bolder;
         }
 
         table {text-align: left;}
@@ -489,8 +491,10 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
 
     <script>
+        //load screen while page loads
         $(window).on("load",function(){
             $(".newloader-wrapper").fadeOut("slow");
+            $("#comparisonTitle").hide();
         });
 
 
@@ -514,29 +518,49 @@
         // 0=original overview, 1=1st ranked zoom, 2=2nd ranked zoom, 3=3rd ranked zoom
         function updatePlot(n) {
 
-            var mapTitleText = "";
-
+           var mapTitleText = "";
+           
+           // Toggling visibility of the comparison section header
+           if(n==0){
+            $("#comparisonTitle").hide();
+           }else{
+              $("#comparisonTitle").show();
+           }
+            
             if (n === 0) { 
-                var fig = {{ fig0 | safe }};                
-                var t = "t0";               
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 3;
+                fig.layout.mapbox.center.lat = 38;
+                fig.layout.mapbox.center.lon = -94;         
+                var t = "t0";    
+                mapTitleText = "Suggested neighborhood(s)";           
             };
             
             if (n === 1) {
-                var fig = {{ fig1 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 10;
+                fig.layout.mapbox.center.lat = {{ c1lat | safe }};
+                fig.layout.mapbox.center.lon = {{ c1lon | safe }};           
                 var t = "t1";
-                mapTitleText = "{{ name1 | safe }}";
+                mapTitleText = "Showing details for {{ name1 | safe }}";
             };
             
             if (n === 2) {
-                var fig = {{ fig2 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 10;
+                fig.layout.mapbox.center.lat = {{ c2lat | safe }};
+                fig.layout.mapbox.center.lon = {{ c2lon | safe }};              
                 var t = "t2";
-                mapTitleText = "{{ name2 | safe }}";
+                mapTitleText = "Showing details for {{ name2 | safe }}";
             };
             
             if (n === 3) {
-                var fig = {{ fig3 | safe }};                
+                var fig = {{ fig0 | safe }};
+                fig.layout.mapbox.zoom = 10; 
+                fig.layout.mapbox.center.lat = {{ c3lat | safe }};
+                fig.layout.mapbox.center.lon = {{ c3lon | safe }};               
                 var t = "t3";
-                mapTitleText = "{{ name3 | safe }}";
+                mapTitleText = "Showing details for {{ name3 | safe }}";
             };
 
                    
@@ -545,7 +569,7 @@
             // Call to render comparison table
             drawComparisonTable(n);
             //Update map title
-            $("#mapTitle").text("Showing details for " + mapTitleText);
+            $("#mapTitle").text(mapTitleText);
         };
 
         function topFunction() {
@@ -559,8 +583,9 @@
 
 
 <body>
+    <!--Add top toolbar with two tabs: Results and Team-->
     <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="#" >
+        <a class="navbar-brand" href="home" >
             <img src="/static/relo_logo_slogan_min2.png" alt="">
         </a>
         <ul class="nav justify-content-end">
@@ -573,7 +598,7 @@
         </ul>
     </nav>
 
-
+    <!--Create container for search results-->
     <div class="container-fluid">
         <div class="row" style="padding:15px;">
             <div class="col-md-3"></div>
@@ -581,6 +606,7 @@
                 <form role="form" id="form-buscar" action="search_results" method="POST">
                     <div class="form-group">
                         <div class="input-group search-box">
+                            <!--Add search bar so the user can search for another result-->
                             <input id="1" class="form-control" type="text" name="address" placeholder="Enter address here..."
                                 required value="{{ address | safe}}"/>
                             <span class="input-group-btn">
@@ -592,6 +618,7 @@
                 </form>
             </div>
             <div class="col-md-3"></div>
+        <!--Begin to display the results from a search-->
         </div>
         <div width="100%" style="text-align:center;color:darkgray;">
             Select each suggested neighborhood below to see how it compares
@@ -605,10 +632,12 @@
                                 <p class="value3 mt-sm"  style="text-align: center;">
                                     <img src="static/rank-1.png" width="30%">
                                 </p>
+                                <!--View Details button zooms the Plotly graph to show a search result location as well as the surrounding amenities-->
                                 <p class="fs-mini text-muted" style="text-align: center;"><a class="button3" onclick=updatePlot(1);
                                         style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
+                                <!--Populate the remainder of the search result cards-->
                                 <h4 class="search-result-item-heading"><a href="#">{{ name1 | safe }}</a></h4>
                                 <p class="info">{{ subname1 | safe }}</p>
                                 <p class="description">Latitude/Longitude<br>{{ c1 | safe }}</p>
@@ -626,10 +655,12 @@
                                 <p class="value3 mt-sm"  style="text-align: center;">
                                     <img src="static/rank-2.png" width="30%">
                                 </p>
+                                <!--View Details button zooms the Plotly graph to show a search result location as well as the surrounding amenities-->
                                 <p class="fs-mini text-muted"  style="text-align: center;"><a class="button3" onclick=updatePlot(2);
                                     style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
+                                <!--Populate the remainder of the search result cards-->
                                 <h4 class="search-result-item-heading"><a href="#">{{ name2 | safe }}</a> <span
                                         class="badge bg-danger fw-normal pull-right"></span></h4>
                                 <p class="info">{{ subname2 | safe }}</p>
@@ -648,11 +679,13 @@
                                 <p class="value3 mt-sm" style="text-align: center;">
                                     <img src="static/rank-3.png" width="30%">
                                 </p>
+                                <!--View Details button zooms the Plotly graph to show a search result location as well as the surrounding amenities-->
                                 <p class="fs-mini text-muted"  style="text-align: center;">
                                     <a class="button3" onclick=updatePlot(3);
                                     style="cursor:pointer">View Details</a></p>
                             </div>
                             <div class="col-sm-8">
+                                <!--Populate the remainder of the search result cards-->
                                 <h4 class="search-result-item-heading"><a href="#">{{ name3 | safe }}</a></h4>
                                 <p class="info">{{ subname3 | safe }}</p>
                                 <p class="description">Latitude/Longitude<br>{{ c3 | safe }}</p>
@@ -675,7 +708,7 @@
         <div class="row" style="padding:15px;">
             <div class="col-md-2"></div>
             <div class="col-md-8" style="text-align: center;"> 
-                <h4>How this neighborhood compares to yours</h4>
+                <h4 id="comparisonTitle">How this neighborhood compares to yours</h4>
                 <!-- <i>Select "View in Map" for each match to see a comparison.</i> -->
                 <br><br>
                 <div class="row ng-scope" style="margin-top: -10px;">
@@ -706,7 +739,7 @@
     var targetFieldRef = fieldRefs[n];    
     
 
-    var data = d3.values(flaskData[n]).slice(6,15);    
+    var data = d3.values(flaskData[n]).slice(6,21);    
 
     d3.select("#d3div").select("table").remove();
     d3.select("#d3div").select("div").remove();

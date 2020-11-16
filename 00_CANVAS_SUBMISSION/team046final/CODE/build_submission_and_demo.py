@@ -104,7 +104,7 @@ for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'sourc
 # pick a few clusters and get all associated geoids
 # this will be used to limit the copied datasets.
 # limit cluster data to selected clusters
-clusters = [0] #[3]
+clusters = [29] #[3]
 ###
 cluster_data_path = os.path.join(CODE_DEST, 'data/cluster_model_output/clusters_and_ranks.pkl')
 ###
