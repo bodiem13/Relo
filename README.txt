@@ -14,7 +14,7 @@ CONTENTS OF THE README
 DESCRIPTION
 ------------
 
-Welcome to Relo: Relocation made Easy! Relo incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
+Welcome to Relo: Relocation made Easy! Relo incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
 APP DIRECTORY
 
