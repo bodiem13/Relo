@@ -10,7 +10,6 @@ CONTENTS OF THE README
  * EXECUTION
 
 
-
 DESCRIPTION
 ------------
 
@@ -60,19 +59,19 @@ The 'data' directory contains all scripts used for gathering the data. This incl
 
 The 'data' directory contains the following structure:
 	
-	The 'amenities' directory contains code related to the data capture from foursquare API. This data was used for finding amenities.
+	The 'amenities' directory contains code related to the data capture from the Foursquare API. This data was used for finding amenities.
 
 	The 'cluster_model_output' directory contains the code used for the clustering pipeline.
 
-	The 'etl_scripts' contains code relating to etl processes for amenities and census tracts data.
+	The 'etl_scripts' contains code related to ETL processes for the amenities and Census tracts data.
 
-	The 'gaz' directory contains census data.
+	The 'gaz' directory contains Census data.
 
 	The 'sample' directory contains a sample clustering output used for the development of the front end components.
 
-	The 'shape_data' contains code relating to the shapes of census tracts.
+	The 'shape_data' contains code relating to the shapes of the Census tracts.
 
-Please refer to Diagram_2 below for more information about the structure of the 'data' directory (note that elements inside the directories are not displayed in the diagram). 
+Please refer to Diagram_2 below for more information about the structure of the 'data' directory. Note, the elements inside the directories are not displayed in the diagram. 
 
 Diagram_2
 ├── data/
@@ -103,9 +102,9 @@ Diagram_3
 
 MODEL DIRECTORY
 
-The 'model' directory contains code relating to the clustering pipeline and testing of the clustering pipeline. 
+The 'model' directory contains code relating to the clustering pipeline and the generation and testing of the clustering models.
 
-In this directory, the 'Clustering_Pipeline.ipynb' file contains the complete code for the creation of the clustering pipeline.
+In this directory, the 'Clustering_Pipeline.ipynb' file contains the complete code for the clustering pipeline.
 
 Please refer to Diagram_4 below for more information about the structure of the 'model' directory.    
 
@@ -121,7 +120,7 @@ Diagram_4
 
 RAW_DATA DIRECTORY
 
-The 'raw_data' directory contains raw census data. 
+The 'raw_data' directory contains the raw Census data. 
 
 Please refer to Diagram_5 below for more information about the structure of the 'raw_data' directory.    
 
