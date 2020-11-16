@@ -149,3 +149,9 @@ Please follow the following steps to run the code:
 3. Run 'docker run -it -p 5000:5000 relodemo' (note, you may need to run as root/with sudo on linux/mac)
 4. In your Powershell or Terminal window, once you see "Running on http://0.0.0.0:5000/", navigate to localhost:5000 in your browser (NOT 0.0.0.0:5000) and begin using the app!
 
+
+DEMO VIDEO
+----------------
+
+A demo video can be found at the following link:
+https://www.youtube.com/watch?v=fqh-CT0eUXo
