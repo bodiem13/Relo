@@ -138,7 +138,7 @@ class ClusterVis:
             self.df_subset.loc[self.df_subset.GEOID.astype(int)==int(gid), 'ranking'] = i+1
         self.df_subset.ranking = self.df_subset.ranking.fillna(self.n_top+1)
         # get top matches
-        self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top]
+        self.df_subset_top = self.df_subset[self.df_subset.ranking<=self.n_top].sort_values('ranking').reset_index(drop=True)
         assert self.df_subset_top.shape[0] == self.n_top
         self.df_subset_top.ranking = self.df_subset_top.ranking.astype(int)
         # get non-top matches
@@ -396,7 +396,7 @@ class ClusterVis:
                     lon=-94
                 ),
                 pitch=0,
-                zoom=3,
+                zoom=2,
                 accesstoken=accesstoken,
                 style=style,
             ),

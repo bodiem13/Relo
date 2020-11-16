@@ -135,7 +135,8 @@ INSTALLATION
 ------------
 
 1. Check to ensure you have docker installed. If it is not installed, please install it. Once installed, start docker.
-2. Download the docker image by using the following link (note, it may take some time): https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+2. Use the following link: https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+	 - This link will bring you to the Docker image. Download the Docker image named relodemo.tar.
 
 
 EXECUTION
