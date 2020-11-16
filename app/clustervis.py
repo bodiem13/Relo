@@ -124,7 +124,8 @@ class ClusterVis:
 
         # get the cluster        
         self.cluster = self.geoid_to_cluster()
-
+        print('Nearest selected neighborhood is in cluster #{}'.format(self.cluster))
+        print('(Note that the demo app is limited to one cluster of neighborhoods!)')
         # subset CLUSTER_DF to matching cluster
         self.df_subset = CLUSTER_DF[CLUSTER_DF.cluster==self.cluster].merge(ORIG_FEATURE_DATA[['GEOID', 'NAME', 'INTPTLAT', 'INTPTLONG']], on='GEOID')
 
