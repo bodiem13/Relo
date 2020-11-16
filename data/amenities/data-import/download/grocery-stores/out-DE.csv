@@ -1,0 +1,147 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"19701","Bear","DE","ACME Markets","146 Foxhunt Dr","19701",39.60701834181961,-75.7123655366656
+"19701","Bear","DE","Giant","300 Eden Square Sc","19701",39.6333551,-75.655388
+"19701","Bear","DE","Safeway","2400 Peoples Plz","19702",39.6003423,-75.7491212
+"19701","Bear","DE","ShopRite of Governor's Square","1101 Governors Place","19701",39.63200649223712,-75.66454562810226
+"19701","Bear","DE","ShopRite of Four Seasons","700 Plaza Drive","19702",39.62633058230685,-75.7458161232829
+"19702","Newark","DE","ShopRite of Newark, DE","19 Chestnut Hill Plaza","19713",39.66223680875464,-75.72399123226039
+"19702","Newark","DE","ACME Markets","100 College Square","19711",39.682483,-75.7351274
+"19702","Newark","DE","Walmart","117 Wilton Blvd","19720",39.65312548054648,-75.62190755597896
+"19702","Newark","DE","ACME Markets","100 Suburban Dr","19711",39.66800680010823,-75.77571415852617
+"19702","Newark","DE","ACME Markets","1 University Plaza","19702",39.66692063486427,-75.67192912101746
+"19702","Newark","DE","Food Lion","401 New London Rd","19711",39.6936323,-75.7648032
+"19702","Newark","DE","Aldi","98 Chesapeake Blvd","21921",39.6054133322352,-75.78644067049026
+"19702","Newark","DE","Wang's Oriental Food Store","276 E Main St","19711",39.68498796796548,-75.74205308189401
+"19702","Newark","DE","Newark Natural Foods Co-op","280 E Main St","19711",39.684465738578474,-75.74174818205236
+"19702","Newark","DE","Apna Bazaar","267 S Main St","19711",39.676466,-75.762552
+"19702","Newark","DE","Back To Nature Health Food Store","835 Pulaski Hwy","not_available",39.63985,-75.627768
+"19702","Newark","DE","Everest Indian Grocery","208 Churchmans Rd","19720",39.677907,-75.62694300000001
+"19703","Claymont","DE","Save A Lot","401 Naamans Rd #3","19703",39.81662010409444,-75.44739254501606
+"19703","Claymont","DE","El Charro Mexican Market","3630 Bayard Dr","19703",39.804897,-75.455211
+"19703","Claymont","DE","Asia Grocery and Halal Meat in Delaware","2815 Philadelphia Pike","19703",39.795916,-75.466284
+"19703","Claymont","DE","Mexican Grocery Store Eben-ezer 1","2600 Philadelphia Pike","19703",39.792886,-75.468642
+"19703","Claymont","DE","Everest Indian Grocery","2601 Carpenter Station Rd","19810",39.82234074589896,-75.46422324978522
+"19707","Hockessin","DE","ACME Markets","128 Lantana Dr","19707",39.7737954,-75.7088164
+"19707","Hockessin","DE","The Well Marketplace","6949 Lancaster Pike","19707",39.77815868152701,-75.67730307113987
+"19709","Middletown","DE","Walmart Supercenter","705 Middletown Warwick Rd","19709",39.44617978447272,-75.73789933617391
+"19709","Middletown","DE","ACME Markets","460 E Main St","19709",39.44841,-75.6976779
+"19709","Middletown","DE","Super Giant","200 Dove Run Drive","19709",39.4543814,-75.688804
+"19709","Middletown","DE","ALDI","1002 Bunker Hill Rd","19709",39.44926986498197,-75.73019018650825
+"19709","Middletown","DE","Super Giant Supermarket","not_available","19709",39.473225,-75.650487
+"19709","Middletown","DE","Spice Bazar","5350 Summit Bridge Rd Ste 111","19709",39.43379211425781,-75.71247863769531
+"19709","Middletown","DE","El Nevado II","13 N Broad St","19709",39.450209,-75.716631
+"19709","Middletown","DE","MOT Grocery Bazar","4380 Summit Bridge Rd #2","19709",39.515554661512745,-75.71300983428954
+"19711","Newark","DE","Pike Creek Shopping Center","4700 Limestone Rd","19808",39.7398107,-75.6919286
+"19711","Newark","DE","ACME Markets","4720 Limestone Rd","19808",39.739699670794685,-75.69344849916888
+"19711","Newark","DE","Newark Farmers Market","2515 Kirkwood Hwy","19711",39.70546248283441,-75.68791901734497
+"19711","Newark","DE","Zingo's Supermarket","1 Polly Drummond Shopping Cnt","19711",39.718625110155166,-75.70960019317734
+"19711","Newark","DE","Asia Supermarket","1300 Capitol Trl","19711",39.696723,-75.710392
+"19711","Newark","DE","Landenberg Store","100 Landenberg Rd","19350",39.7776142314296,-75.77143907546997
+"19711","Newark","DE","Taste Artisanal Market","not_available","19711",39.71101762832447,-75.74220688333334
+"19711","Newark","DE","Humlog Grocery","208 Astro Shopping Ctr","19711",39.707221000000004,-75.686011
+"19711","Newark","DE","El Maguey Mexican Restaurant","1240 Capitol Trl","19711",39.69683837890625,-75.7104721069336
+"19720","New Castle","DE","Save-A-Lot","714 S Maryland Ave","19805",39.72312616647849,-75.59252125821612
+"19720","New Castle","DE","Save-A-Lot","196 Penn Mart Center","19720",39.678029006040035,-75.59067443980732
+"19720","New Castle","DE","PK's Food","not_available","19801",39.7237434387207,-75.54802703857422
+"19720","New Castle","DE","El Amigo Grocery Store","226 W Market St","19804",39.71308175447471,-75.61305463314056
+"19720","New Castle","DE","Parivaar Super Market","67 Christiana Rd","19720",39.6649,-75.610486
+"19720","New Castle","DE","La Guadalupana Food Market","265 N DuPont Hwy","19720",39.682603,-75.589045
+"19720","New Castle","DE","Save-A-Lot","235 S Broadway","08070",39.64881443118952,-75.52186943853808
+"19720","New Castle","DE","Apna Desh Indian Grocery Store","1415 N Dupont Hwy","19720",39.689778826885,-75.58307613506304
+"19720","New Castle","DE","La Estrella Mexican Grocery","not_available","not_available",39.723884999999996,-75.656944
+"19734","Townsend","DE","ACME Markets","236 E Glenwood Ave","19977",39.3061143,-75.6105781
+"19801","Wilmington","DE","ShopRite of Christina Crossing","501 S. Walnut Street","19801",39.731627634248674,-75.55494406439128
+"19801","Wilmington","DE","Hoho Mart","2109 N Market St","19802",39.75268055059392,-75.54041121358682
+"19801","Wilmington","DE","The Fresh Grocer of Adams Plaza","800 W. 4Th St.","19801",39.742678145233555,-75.55971320770058
+"19801","Wilmington","DE","J & R Spanish American Grocery Store","4th & Delamore","19805",39.747011,-75.567476
+"19801","Wilmington","DE","The Produce Express","340 S Market St","19801",39.733591,-75.55519699999999
+"19801","Wilmington","DE","Save A Lot","1422 Lancaster Ave","19805",39.743939000000005,-75.568682
+"19801","Wilmington","DE","Sicily's Pizza","1819 Lancaster Ave","19805",39.7464485168457,-75.57299041748047
+"19801","Wilmington","DE","Johnny's Food Market","Maryland Avenue","19805",39.73817825317383,-75.56505584716797
+"19801","Wilmington","DE","World Harvest Natural Foods","not_available","19802",39.75008773803711,-75.53044891357422
+"19801","Wilmington","DE","Leyba's","Market Streey","not_available",39.751922607421875,-75.54190826416016
+"19801","Wilmington","DE","Union Market","724 N Union St","19805",39.752056,-75.57079499999999
+"19801","Wilmington","DE","Windsor Market","500 N King St","19801",39.740352630615234,-75.54745483398438
+"19801","Wilmington","DE","Roper's Produce","not_available","19805",39.739576,-75.568704
+"19802","Wilmington","DE","Tex-Mex Burrito","514 Philadelphia Pike","19809",39.768256,-75.50495
+"19802","Wilmington","DE","la poblanita","not_available","19809",39.767907340480896,-75.50662545133261
+"19803","Wilmington","DE","Trader Joe's","5605 Concord Pike","19803",39.83353315794198,-75.54184205644846
+"19803","Wilmington","DE","ShopRite","1300 Rocky Run Parkway","19803",39.82481743329569,-75.54830353169916
+"19803","Wilmington","DE","Giant","4301 Concord Pike","19803",39.81359703793762,-75.54753900905176
+"19803","Wilmington","DE","Sprouts Farmers Market","4801 Concord Pike","19803",39.82581478962799,-75.54322600364685
+"19803","Wilmington","DE","ACME Markets","2098 Naamans Rd","19810",39.8238437,-75.5000702
+"19803","Wilmington","DE","ACME Markets","1812 Marsh Rd","19810",39.8043131,-75.505223
+"19803","Wilmington","DE","ACME Markets","1901 Concord Pike","19803",39.7876056,-75.5454589
+"19804","Wilmington","DE","Walmart","1251 Centerville Rd","19808",39.73359269746915,-75.61860096256403
+"19804","Wilmington","DE","ACME Markets","1308 Centerville Rd","19808",39.734085309521774,-75.62344284371648
+"19804","Wilmington","DE","ALDI","2205 Farrand Dr","19808",39.727656191967306,-75.6477749317383
+"19804","Wilmington","DE","ACME Markets","4365 Robert Kirkwood Hwy","19808",39.72861981140599,-75.65291223569615
+"19804","Wilmington","DE","Young's Oriental Grocery","2017 Kirkwood Hwy","19805",39.7388619849276,-75.60867190361023
+"19804","Wilmington","DE","Gigante International Foods Market","3421 Kirkwood Hwy","19808",39.73654778981295,-75.63254356384277
+"19804","Wilmington","DE","Seoul Oriental Grocery","4309 Kirkwood Hwy","19808",39.728622,-75.651066
+"19804","Wilmington","DE","Apna Bazaar","3311 Old Capitol Trl","19808",39.733024,-75.625834
+"19805","Wilmington","DE","ACME Markets","1401 N Dupont St","19806",39.757208094836734,-75.5637958796433
+"19805","Wilmington","DE","Taqueria Jalisco","1722 W Gilpin Dr","19805",39.7453754003297,-75.61027726704778
+"19807","Wilmington","DE","Janssen's Market","3801 Kennett Pike","19807",39.776893378873915,-75.59540475558485
+"19901","Dover","DE","Walmart Supercenter","36 Jerome Drive","19901",39.21648048516086,-75.57164022069689
+"19901","Dover","DE","Redner's","88 Lancelot Ave","19901",39.20883205263599,-75.57046441018656
+"19901","Dover","DE","Walmart Supercenter","263 Walmart Dr","19934",39.10267266029042,-75.54563545834336
+"19901","Dover","DE","Safeway","190 John Hunn Brown Rd","19901",39.1588739,-75.5091827
+"19901","Dover","DE","Big Lots","515 Dupont Hwy","19901",39.17571404343473,-75.52174270304107
+"19901","Dover","DE","Save-A-Lot","650 Bay Rd Suite 1","19901",39.151026,-75.507421
+"19901","Dover","DE","ALDI","390 Walmart Dr","19934",39.09914391467708,-75.546052823288
+"19901","Dover","DE","Dover AFB Commissary","268 Galaxy St","19902",39.1198958671829,-75.47110950653773
+"19901","Dover","DE","Redner's Markets","88 Salt Creek Dr.","19934",39.11496670712797,-75.53819603898295
+"19901","Dover","DE","Camden Wyoming Market","113 W Camden Wyoming Ave","19934",39.117815,-75.55721
+"19901","Dover","DE","ALDI","10 N DuPont Hwy.","19901",39.17932317,-75.52829867
+"19901","Dover","DE","Taj Mahal Indian Grocery","1142 S Bay Rd #7","19901",39.13703417151969,-75.49572944641113
+"19901","Dover","DE","Redner's","25 Greentree Dr","19904",39.16013493231906,-75.55349528547221
+"19904","Dover","DE","Byler's","1368 Rose Valley School Rd","19904",39.15538838364734,-75.6014355873881
+"19930","Bethany Beach","DE","Hockers","Millville","not_available",38.550043116089846,-75.0635758186484
+"19930","Bethany Beach","DE","Shore Foods","Garfield Parkway","19930",38.53854710567564,-75.05657722285788
+"19930","Bethany Beach","DE","Shore Foods","1 Errett Rd","19930",38.524640999999995,-75.062871
+"19939","Dagsboro","DE","Giant","38069 Town Center Dr Unit 9","19967",38.5456902,-75.1073335
+"19939","Dagsboro","DE","Hockers Super Center","34960 Atlantic Ave","19970",38.550072997360985,-75.13030958645317
+"19939","Dagsboro","DE","Good Earth Market","31806 Good Earth Ln","19970",38.551992999999996,-75.137697
+"19939","Dagsboro","DE","Weis Markets","36731 Old Mill Rd","19967",38.54793930053711,-75.10724639892578
+"19939","Dagsboro","DE","Save-A-Lot","28632 Dupont Blvd","19966",38.57606506347656,-75.2890396118164
+"19945","Frankford","DE","Harris Teeter","31221 Americana Pkwy","19975",38.46984600009033,-75.11434379210091
+"19945","Frankford","DE","Mexa Lion","not_available","19975",38.45857326205861,-75.23262874293357
+"19947","Georgetown","DE","Walmart Supercenter","4 College Park Ln","19947",38.702687412819124,-75.40425578246928
+"19947","Georgetown","DE","Fresh Pride Grocery","8 Georgetown Plz","19947",38.679790999999994,-75.39635899999999
+"19952","Harrington","DE","Byler's","Liberty Plaza","19952",38.924991826512745,-75.56846079338118
+"19956","Laurel","DE","Lou's Discount Groceries","not_available","19956",38.54658925038071,-75.55556829335224
+"19958","Lewes","DE","ACME Markets","18578 Coastal Hwy Unit 13","19971",38.7366355,-75.1435994
+"19958","Lewes","DE","Super Giant","19312 Lighthouse Plaza Blvd","19971",38.7229953,-75.1217902
+"19958","Lewes","DE","Safeway","19283 Coastal Hwy","19971",38.7241871,-75.1263126
+"19958","Lewes","DE","The Fresh Market","30098 Veterans Way,","19971",38.71308968873331,-75.10638073028657
+"19958","Lewes","DE","Walmart","18922 Rehoboth Mall Blvd","19971",38.72726727684408,-75.13214457371998
+"19958","Lewes","DE","Weis Markets","17232 N Village Main Blvd","19958",38.752521954314446,-75.1669666669427
+"19958","Lewes","DE","Lloyd's Market","611 Savannah Rd","19958",38.76962993764088,-75.14389985445646
+"19958","Lewes","DE","Weis Markets","19287 Miller Rd Unit 14","19971",38.72269260388856,-75.12475418002849
+"19958","Lewes","DE","Dawn's Country Market","30511 Cave Neck Rd","19968",38.767219460968185,-75.21571821283143
+"19958","Lewes","DE","The Little Store","1503 Coastal Hwy","19971",38.691167,-75.075038
+"19958","Lewes","DE","Lloyd's IGA","Savannah Road","19958",38.769504303740824,-75.14382375521356
+"19958","Lewes","DE","Jerusalem International Grocery","34396 Tenley Ct","not_available",38.742281288682896,-75.15047646801192
+"19958","Lewes","DE","Good News Natural Foods","230 Rehoboth Ave","19971",38.715656,-75.082532
+"19958","Lewes","DE","Rainbow Earth Foods","220 Rehoboth Ave","19971",38.71564865112305,-75.08271026611328
+"19958","Lewes","DE","Lingo's Market","1 Baltimore Ave","19971",38.71732420429309,-75.07953729930401
+"19960","Lincoln","DE","Redner's","28253 Lexus Dr","19963",38.89598468764105,-75.44292260767868
+"19963","Milford","DE","Walmart Supercenter","939 N Dupont Blvd","19963",38.92945804842856,-75.43519081882566
+"19963","Milford","DE","Superfresh","609 N DuPont Blvd","19963",38.91792,-75.443781
+"19963","Milford","DE","Save A Lot","696 N DuPont Blvd","19963",38.9185089,-75.4382731
+"19963","Milford","DE","Save-A-Lot","696 N Dupont Blvd","19963",38.917107,-75.439892
+"19963","Milford","DE","Gigante International Food Market","237 NE Front St","19963",38.91549962250226,-75.4251507205428
+"19963","Milford","DE","foodlion","not_available","19963",38.93165588378906,-75.42878723144531
+"19963","Milford","DE","Mills Brothers Markets","1606 Bay Rd","19963",38.96150168206878,-75.42928434288554
+"19966","Millsboro","DE","Harris Teeter","26370 Bay Farm Rd","19966",38.625071964203144,-75.19515591283816
+"19966","Millsboro","DE","Weis Markets","24832 John J Williams Hwy","19966",38.63669,-75.19507
+"19966","Millsboro","DE","Giant","25939 John J Williams Hwy","19966",38.63081395240168,-75.1931494474411
+"19966","Millsboro","DE","Giant Foods","not_available","19966",38.630833,-75.187409
+"19966","Millsboro","DE","Your Neighborhood Store","34792 Long Neck Rd #3","19966",38.621867,-75.134916
+"19966","Millsboro","DE","La Guadalupana Mexican Store","31507 Oak Orchard Rd, Unit 5","19966",38.614594,-75.20136579999999
+"19968","Milton","DE","Mexican Store","not_available","19968",38.788617,-75.310308
+"19973","Seaford","DE","Walmart Supercenter","22899 Sussex Hwy","19973",38.66093386012841,-75.5904221534729
+"19973","Seaford","DE","Save-A-Lot","401 W Stein Hwy","19973",38.64552894340749,-75.62274378413998
+"19973","Seaford","DE","La Flor De Mexico","851 Norman Eskridge Hwy","19973",38.649854,-75.601648
+"19977","Smyrna","DE","ALDI","1382 S. DuPont Blvd.","19977",39.285423278808594,-75.5952377319336

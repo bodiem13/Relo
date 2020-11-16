@@ -1,0 +1,641 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"98001","Auburn","WA","Wound Healing Center","not_available","98001",47.3088969634835,-122.22905056055242
+"98001","Auburn","WA","MultiCare Auburn Urgent Care","202 Cross St SE","98002",47.303921,-122.227474
+"98001","Auburn","WA","Urgent Care in Federal Way","32018 23rd Ave S","98003",47.31410598754883,-122.30313873291016
+"98001","Auburn","WA","Cascade Eye & Skin Centers","205 10th St NE 119","98002",47.3169954,-122.2268676
+"98001","Auburn","WA","MultiCare Indigo Urgent Care","31861 Gateway Center Blvd S","98003",47.31627545,-122.30065898
+"98002","Auburn","WA","Outpatient Laboratory","not_available","98002",47.31077732366321,-122.22613331315915
+"98002","Auburn","WA","UW: VMC: Auburn Urgent Care","1000 Auburn Way S","98002",47.299034999999996,-122.21931799999999
+"98003","Federal Way","WA","St. Francis Hospital","34515 9th Ave S","98003",47.29235981186124,-122.32716727918529
+"98003","Federal Way","WA","Rainier Surgical Center","34612 100 6th Ave S","98003",47.291560127534304,-122.31259035977054
+"98003","Federal Way","WA","MultiCare Urgent Care Clinic","not_available","not_available",47.30773033779392,-122.32627513278702
+"98003","Federal Way","WA","Franciscan Urgent Care - Federal Way","31675 Pacific Hwy S","98003",47.31736828524228,-122.31386116315375
+"98003","Federal Way","WA","St Francis Diagnostic Imaging","34509 9th Ave S","98003",47.2922158241272,-122.32597768306732
+"98003","Federal Way","WA","st. francis intensive care waiting room","not_available","98003",47.292789459228516,-122.32691955566406
+"98003","Federal Way","WA","Urgent Care","1413 S 348th St","98003",47.289229,-122.315573
+"98003","Federal Way","WA","St. Francis Hospital Emergency Department","94515 9th Ave S","98003",47.29248600465416,-122.32776567049784
+"98003","Federal Way","WA","St. Francis Outpatient Surgery","9th Ave","not_available",47.285417,-122.338965
+"98003","Federal Way","WA","Aesthetic Surgery Centre & MedSpa â€"" Federal Way, WA","34503 9th Ave S Ste 230 (Troy J. Woodman, MD)","98003",47.292939000000004,-122.323734
+"98004","Bellevue","WA","Overlake Hospital Medical Center","1035 116th Ave NE","98004",47.6206274203406,-122.18672750541207
+"98004","Bellevue","WA","Kaiser Permanente Hospital","11511 NE 10th St","98004",47.618550430116144,-122.18646196910545
+"98004","Bellevue","WA","Seattle Children's Bellevue Surgery Center","1500 116th Ave NE","98004",47.62417657418457,-122.1848160087364
+"98004","Bellevue","WA","Overlake Medical Clinics Downtown Bellevue Urgent Care","not_available","98004",47.613992,-122.196056
+"98004","Bellevue","WA","Overake Radiation Oncology","1135 116th Ave NE","98004",47.620528,-122.187343
+"98004","Bellevue","WA","Bellevue Plastic Surgeons","11820 Northup Way Suite E190","98005",47.6333778,-122.1816177
+"98004","Bellevue","WA","Urgent Care Clinic at Eastside Speciality Center","3100 Northup Way","98004",47.6381950378418,-122.19132232666
+"98004","Bellevue","WA","Dermatology of Bellevue","1600 116th Ave NE Ste 302","98004",47.6250083,-122.1848675
+"98004","Bellevue","WA","ZOOM+Care","345 106th Avenue NE","98004",47.61336721474682,-122.19927294600895
+"98004","Bellevue","WA","North Pacific Dermatology - Bellevue, WA","1200 112th Ave NE","98004",47.6219279,-122.1906207
+"98004","Bellevue","WA","Overlake - Labor & Delivery","1035 116th Ave NE Fl 6","98004",47.621119681908894,-122.18745046776081
+"98004","Bellevue","WA","Overlake Hospital Infusion Suite","11411-11453 NE 8th St","98004",47.616797819999995,-122.18775796
+"98005","Bellevue","WA","Pacific Medical Systems Inc","1407 132nd Ave NE Ste 10","98005",47.623359,-122.1650941
+"98005","Bellevue","WA","North Pacific Dermatology - Eastside Dermatology","14030 NE 24th St #202","98007",47.632343,-122.15297199999999
+"98005","Bellevue","WA","Concerta Urgent Care","268 Highland Park Blvd","not_available",47.5852791,-122.1682336
+"98005","Bellevue","WA","Overlake Reproductive Health","11232 NE 15th St Suite 201","98004",47.6245202,-122.1894281
+"98006","Bellevue","WA","Overlake Urgent Care","not_available","98059",47.543278,-122.163822
+"98006","Bellevue","WA","Summit Primary Care And Walk-In Clinic","3900 Factoria Blvd SE Ste A","98006",47.57540512084961,-122.16868591308594
+"98007","Bellevue","WA","Abandoned Group Health Complex","not_available","98052",47.63236872219007,-122.13499501686525
+"98007","Bellevue","WA","Immediate Clinic Bellevue","15600 NE 8th St Ste A4","98008",47.620813,-122.13172
+"98007","Bellevue","WA","ZOOM+Care","2010 148th Ave NE","98052",47.628452532988774,-122.14243820104927
+"98011","Bothell","WA","evergreen employee health","not_available","98034",47.72442626953125,-122.16666412353516
+"98011","Bothell","WA","Stacie L Cindea, ARNP","10025 NE 186th St","98011",47.76234916353148,-122.20634758494269
+"98012","Bothell","WA","Swedish Mill Creek ER","13020 Meridian Ave S","98208",47.87865586887532,-122.2340992345807
+"98012","Bothell","WA","EvergreenHealth Urgent Care - Mill Creek","4220 132nd St SE Ste 103","98012",47.87736711880933,-122.17288970936352
+"98012","Bothell","WA","Washington Security Products Inc.","15712 Mill Creek Blvd Ste 22","98012",47.8553331,-122.2204402
+"98012","Bothell","WA","Providence Express Care at Walgreens - Murphys Corner","13110 Bothell Everett Hwy","98208",47.878996603139065,-122.20754539632986
+"98021","Bothell","WA","Immediate Clinic Bothell","23131 Bothell Everett Hwy","98021",47.788641,-122.218484
+"98021","Bothell","WA","ZOOM+Care","24118 Bothell Everett Hwy #200","98021",47.77866942127662,-122.21889887668648
+"98022","Enumclaw","WA","St. Elizabeth Hospital","1455 Battersby Ave.","98022",47.2091929370411,-121.98763923045033
+"98022","Enumclaw","WA","abd","not_available","98022",47.158972,-121.835625
+"98022","Enumclaw","WA","Expressions at Enumclaw","2454 Cole St","98022",47.209866,-121.985173
+"98022","Enumclaw","WA","Living Court Assisted Living Community","2229 Jensen St","98022",47.208845000000004,-121.986236
+"98022","Enumclaw","WA","St. Elizabeth Hospital - Emergency Room","1455 Battersby Ave Fl 1","98022",47.209227315964284,-121.9876622042818
+"98023","Federal Way","WA","Gail Clifford","not_available","98023",47.31062009124242,-122.36194610595703
+"98026","Edmonds","WA","Swedish Medical Center Edmonds Campus","21605 76th Ave W","98026",47.80331618068317,-122.3348381800838
+"98026","Edmonds","WA","Swedish Edmonds Emergency Room","21601 76th Ave W","98026",47.803235949735154,-122.33431398868561
+"98026","Edmonds","WA","Swedish Urgent Care - Edmonds","21600 Highway 99 Ste 240","98026",47.80295104560004,-122.33067432272742
+"98026","Edmonds","WA","Compass health","4807 196th ave se","98036",47.82124956504929,-122.29752133654179
+"98026","Edmonds","WA","Swedish Edmonds Morgue","not_available","98043",47.79874038696289,-122.3245849609375
+"98026","Edmonds","WA","ZOOM+Care","22019 Highway 99 Ste 120","98026",47.798867586127656,-122.33161036747646
+"98026","Edmonds","WA","Dependable Medical Equipment","6601 220th St SW #6","98043",47.800014,-122.322495
+"98027","Issaquah","WA","Swedish Issaquah Emergency Room","751 NE Blakely Dr","98029",47.536221431753724,-122.02287482078395
+"98027","Issaquah","WA","Overlake Urgent Care","5708 E Lake Sammamish Pkwy SE","98029",47.55042490551603,-122.0410465564884
+"98027","Issaquah","WA","Adara Surgical Institute: Oral, Maxillofacial, Implant and Cosmetic Surgery - Dr. Hardeep Dhaliwal","6505 226th Place Southeast STE 100","98027",47.5431741,-122.0390837
+"98027","Issaquah","WA","VMC Er","not_available","98058",47.45352785,-122.12056375
+"98027","Issaquah","WA","Overlake Community Education Classroom","not_available","98029",47.550676,-122.041248
+"98027","Issaquah","WA","Mia A Swartz, MD, MS, FPMRS","6520 226th Pl SE Ste 205","98027",47.542640000000006,-122.038164
+"98027","Issaquah","WA","Swedish Endoscopy Center - Issaquah","751 NE Blakely Dr Ste 3010","98029",47.536248621645484,-122.02205636441806
+"98027","Issaquah","WA","Wadsworth Psychiatric Services PLLC","6520 226th Pl SE Ste 203","98027",47.5440926,-122.0402818
+"98030","Kent","WA","Holistic Evaluations and Wellness Center","11201 SE Kent-Kangley Road 101","98030",47.3684382,-122.1921305
+"98030","Kent","WA","CityMD Kent","12924 SE Kent-Kangley Rd.","98030",47.360040999999995,-122.16860600000001
+"98030","Kent","WA","MultiCare Kent Urgent Care","222 State Ave N","98030",47.382807,-122.229448
+"98031","Kent","WA","Auto Werkstatt German Auto Repair","21622 84th Ave S #1","98032",47.40744083903913,-122.22459554672243
+"98031","Kent","WA","Kent Periodontal Office","10920 SE 208th St Ste 5","98031",47.416508,-122.1949538
+"98032","Kent","WA","AFC Urgent Care Southcenter","18012 68th Ave S Ste 101","98032",47.440723,-122.244703
+"98032","Kent","WA","Kindred at Home","20829 72nd Ave S","98032",47.41590085,-122.24611332
+"98032","Kent","WA","Picc","348 4th Ave S","98032",47.37876534461975,-122.23716974258423
+"98032","Kent","WA","Kent Station Clinic","not_available","98032",47.38622,-122.236853
+"98032","Kent","WA","Bows-R-Bowties","646 Strander Blvd","98188",47.391028274421615,-122.27042913436888
+"98033","Kirkland","WA","BLU-MED","PO Box 2038","98083",47.67209212786854,-122.20504760742186
+"98033","Kirkland","WA","North Pacific Dermatology - Kirkland, WA","10117 NE 58th St","98033",47.65927505493164,-122.20543670654297
+"98033","Kirkland","WA","The Mental Ward","10808 113th Ct NE","98033",47.697113,-122.190367
+"98034","Kirkland","WA","EvergreenHealth Heart Care","12333 NE 130th Ln Ste Tan # 320","98034",47.71592645069109,-122.1764123439789
+"98034","Kirkland","WA","EvergreenHealth Emergency Department - Kirkland","12040 NE 128th St","98034",47.71635140286816,-122.17981412734888
+"98034","Kirkland","WA","EvergreenHealth Hospice Care","12822 124th Ln NE","98034",47.715507779787536,-122.17477083206177
+"98034","Kirkland","WA","EvergreenHealth Surgical Care","12333 NE 130th Ln Ste TAN420","98034",47.715801671349126,-122.17642974571878
+"98034","Kirkland","WA","Evergreen Medical Center","12333 NE 130th Ln","98034",47.71211370784412,-122.18482483173784
+"98034","Kirkland","WA","EvergreenHealth Community Health Access","12040 NE 128th Street, Suite Blue 1-140","98034",47.71583982940082,-122.1784293651581
+"98034","Kirkland","WA","NICU Tye","Blue Floor 4","not_available",47.716262,-122.177517
+"98034","Kirkland","WA","NICU Taryn","Blue Fourth Floor","not_available",47.716745,-122.177337
+"98034","Kirkland","WA","EvergreenHealth Research Services","12039 NE 128th St Ste 300","98034",47.71445386917281,-122.17967391014098
+"98034","Kirkland","WA","EvergreenHealth Diagnostic Imaging - EvergreenHealth Medical Center","12040 NE 128th Street, Blue 1-122","98034",47.716027508681044,-122.17840790748596
+"98034","Kirkland","WA","Amber G Livingston, ARNP","12333 NE 130th Ln Ste TAN320","98034",47.716114129659296,-122.17640161514281
+"98034","Kirkland","WA","EvergreenHealth Ear Nose & Throat Care","12303 NE 130th Ln Ste Coral # 400","98034",47.71592645069109,-122.17862248420714
+"98034","Kirkland","WA","Shaunie L. Keys, MD OBGYN","12910 Totem Lake Boulevard","98034",47.7161917,-122.1842402
+"98036","Lynnwood","WA","ZOOM+Care","19220 Alderwood Mall Pkwy Ste 145","98036",47.82432743461385,-122.27131230624911
+"98037","Lynnwood","WA","Berzerk Insane Asylum","not_available","98037",47.844181697886754,-122.28318365582184
+"98038","Maple Valley","WA","MultiCare Indigo Urgent Care - Maple Valley","26380 238th Lane Southeast","98038",47.36545448,-122.02360531
+"98038","Maple Valley","WA","UW Maple Valley Urgent Care","26458 Maple Valley Black Diamond Rd SE","98038",47.36384717952706,-122.02075045010756
+"98040","Mercer Island","WA","Harborview Medical Center Morgue","not_available","98112",47.59136596071612,-122.24027098689007
+"98040","Mercer Island","WA","Mercer Island Periodontal Office","2737 77th Ave SE Ste 212","98040",47.5857194,-122.235774
+"98042","Kent","WA","multicare ER","17700 Southeast 272nd Street","98042",47.35924881,-122.10365458
+"98042","Kent","WA","ZOOM+Care","17017 SE 270th Pl Ste 113","98042",47.35886123388006,-122.11397089155079
+"98042","Kent","WA","Covington Valley Urgent Care","27034 168th Pl SE","98042",47.35864559510989,-122.11650964027126
+"98045","North Bend","WA","Meadowbrook Urgent Care and Family Practice","209 Main Ave S #115","98045",47.494211,-121.786923
+"98045","North Bend","WA","Snoqualmie Valley Hospital","9801 Frontier Ave SE","98065",47.514532551509866,-121.82640471643346
+"98052","Redmond","WA","EvergreenHealth Urgent Care - Redmond","8980 161st Ave NE Ste 320","98052",47.6822509765625,-122.12374114990234
+"98052","Redmond","WA","ZOOM+Care","16175 Cleveland St Ste 103","98052",47.673584371427886,-122.12459474072114
+"98052","Redmond","WA","EvergreenHealth Emergency Department - Redmond","8980 161st Ave NE Ste 200","98052",47.68204389268046,-122.1240374729912
+"98052","Redmond","WA","Swedish Redmond Emergency Department","18100 NE Union Hill Rd","98052",47.676408141840106,-122.09921193928682
+"98052","Redmond","WA","Redmond Periodontal Office","7530 164th Ave NE Ste A120","98052",47.67152,-122.1212544
+"98055","Renton","WA","Valley Medical Center Emergency Room","400 S 43rd St","98055",47.441771482788546,-122.21403702220638
+"98055","Renton","WA","Valley Urgent Care","not_available","98055",47.444469500070525,-122.19919744302776
+"98055","Renton","WA","Aspire Suboxone Clinic","4509 Talbot Rd S","98055",47.4391879,-122.21373690000001
+"98055","Renton","WA","General & Surgical Specialists Clinic - Valley Medical Center","4033 Talbot Rd S","98055",47.4442282,-122.2145767
+"98055","Renton","WA","Pediatrics Mother Baby","Valley Medical Center Northwest Pavilion","98055",47.444125,-122.214883
+"98055","Renton","WA","North Pacific Dermatology - Renton, WA","3721 Talbot Road South","98055",47.4455364,-122.211893
+"98056","Renton","WA","UW Medicine Valley Medical Care Renton Landing Urgent Care","1205 N 10th St","98057",47.49773584378371,-122.20186940931222
+"98057","Renton","WA","Proliance Orthopedic Associates","150 Andover Park W","98188",47.45875930786133,-122.25328063964844
+"98057","Renton","WA","Valley Medical Center Materials Management","3600 Lind Ave SW","98057",47.446468353271484,-122.22277069091797
+"98057","Renton","WA","Concentra Urgent Care","not_available","98188",47.457257,-122.249612
+"98072","Woodinville","WA","Amanda D Cox, ARNP","16916 140th Ave NE Ste 300","98072",47.75057063212432,-122.15219378493202
+"98072","Woodinville","WA","EvergreenHealth Urgent Care - Woodinville","16916 140th Ave NE Ste 200","98072",47.750587463378906,-122.15188598632812
+"98072","Woodinville","WA","ZOOM+Care","17705 140th Ave NE #A18","98072",47.75626588715583,-122.15327538602824
+"98072","Woodinville","WA","Urgent Care in Woodinville","17638 140th Ave. NE","98072",47.75055870274978,-122.15200263916105
+"98072","Woodinville","WA","Empowered Pregnancy Birth Center and Women's Wellness Clinic","13114 120th Ave NE","98034",47.71861163926555,-122.18151926994322
+"98087","Lynnwood","WA","Tactical Training Academy","8911 Vernon RD","98258",47.877636,-122.28326900000002
+"98087","Lynnwood","WA","Compassionate Angel Caregiver Service","13407 Wigen Rd Unit A","98087",47.8769152055339,-122.28421568870543
+"98092","Auburn","WA","MultiCare Indigo Urgent Care - Auburn","7096 Lakeland Hills Way SE","98092",47.2561346,-122.2144606
+"98092","Auburn","WA","Lea Hill Urgent Care + Family Medicare","31217 124th Ave SE Ste 5","98092",47.321815490722656,-122.17716217041016
+"98101","Seattle","WA","Virginia Mason Hospital and Seattle Medical Center","1100 9th Ave","98101",47.610128497530766,-122.32723219993456
+"98101","Seattle","WA","Harborview Medical Center","325 9th Ave","98104",47.604166524573486,-122.32413768768309
+"98101","Seattle","WA","Virginia Mason Medical Center Emergency Room","900 Madison St","98104",47.610395924566625,-122.32714330296665
+"98101","Seattle","WA","Swedish Level A By The Vending Machines","not_available","98104",47.60703,-122.32284
+"98101","Seattle","WA","Harborview - Ninth & Jefferson Building","908 E Jefferson St.","98104",47.605291314763015,-122.3236501475871
+"98101","Seattle","WA","Swedish Emergency Department","747 Broadway","98122",47.607936923297515,-122.32205141338477
+"98101","Seattle","WA","Harborview Medical Center - Maleng Building","410 9th Ave N","98109",47.60452215587606,-122.32382455143967
+"98101","Seattle","WA","Floor Ten at VM","not_available","98101",47.612743862454735,-122.32368784774721
+"98101","Seattle","WA","Premier Cosmetic Surgery","not_available","98122",47.613968,-122.32337
+"98101","Seattle","WA","Swedish Clinical Research","1120 Cherry St","98104",47.607760999999996,-122.322574
+"98101","Seattle","WA","Harborview Surgery Clinic","Maleng Building - G Floor","not_available",47.60443907566071,-122.32389266039642
+"98101","Seattle","WA","Altındag tımarhanesı","Moda","98121",47.61529119999999,-122.3455045
+"98101","Seattle","WA","Seattle Surgery Center","900 Terry Ave","98104",47.60845636673993,-122.32586431116138
+"98101","Seattle","WA","Listen For Life Center At Virginia Mason","not_available","98008",47.60990629167897,-122.32953441896268
+"98101","Seattle","WA","Gamma Knife Center","325 9th Ave, East Hospital, Rm 44","98104",47.6034472,-122.3266589
+"98102","Seattle","WA","Kaiser Permanente Urgent Care","201 16th Ave E","98112",47.62026968956067,-122.31270823025994
+"98102","Seattle","WA","SCCA REGISTRATION","not_available","98109",47.62664255677484,-122.33020839379903
+"98102","Seattle","WA","ZOOM+Care","123 Broadway E","98102",47.61957055571765,-122.32122647876224
+"98102","Seattle","WA","Group Health Kidney Dialysis","15TH avenue  East","98112",47.61940414525619,-122.31234606791928
+"98102","Seattle","WA","CityMD","217 Broadway East, Seattle","98102",47.6204389,-122.3213047
+"98102","Seattle","WA","Childrens hospital audiology","not_available","98105",47.65254211425781,-122.31333923339844
+"98102","Seattle","WA","University of Washington Maternal Infant Care Clinic","1959 NE Pacific St","98195",47.649349697218774,-122.31239200911544
+"98102","Seattle","WA","Pain Removal Service - Doug McCreary LMP","906 E John St Ste 509","98102",47.6200994,-122.3203275
+"98102","Seattle","WA","ZOOM+Care","531 Broadway E #10","98102",47.6240296,-122.3212479
+"98103","Seattle","WA","ZOOM+Care","624 N 34th Street","98103",47.649846386207955,-122.35044982514859
+"98103","Seattle","WA","Sweetlife Weight Management","not_available","98103",47.67319746546808,-122.34399676322936
+"98103","Seattle","WA","Embrace Ayurveda","3876 Bridge Way N Unit 300","98103",47.6537662,-122.3434628
+"98103","Seattle","WA","ZOOM+Care","4555 Stone Way N","98103",47.66183257731564,-122.34251232147847
+"98103","Seattle","WA","Kindred Transitional Care and Rehabilitation - Queen Anne","2717 Dexter Ave N","98109",47.6440315246582,-122.34797668457031
+"98103","Seattle","WA","MultiCare Indigo Urgent Care - Wallingford","118 NE 45th St","98105",47.661532,-122.327626
+"98104","Seattle","WA","Orthopedics International Surgical Center","600 Broadway","98122",47.60785581,-122.32030136
+"98104","Seattle","WA","Gamma Knife","375 9th Ave","98104",47.601148,-122.323947
+"98105","Seattle","WA","Seattle Children's Hospital","4800 Sand Point Way NE","98105",47.66259049431197,-122.28274110799808
+"98105","Seattle","WA","UW Medical Center at Roosevelt","4245 Roosevelt Way NE","98105",47.65883781757617,-122.31797667510004
+"98105","Seattle","WA","Digestive Disease Center at UWMC","1959 NE Pacific St Fl 3","98195",47.648902462611105,-122.30547880189899
+"98105","Seattle","WA","Uwmc 4Th Floor","not_available","98195",47.649136,-122.306093
+"98105","Seattle","WA","Warby Parker","2619 NE University Village Street","98105",47.662118,-122.2991641
+"98105","Seattle","WA","Virginia Mason University Village Medical Center","2671 NE 46th St","98105",47.661758,-122.298183
+"98105","Seattle","WA","Urgent Care in Ravenna","4915 25th Ave NE Ste 300W","98105",47.66514919999999,-122.3017995
+"98105","Seattle","WA","River Zone","(old Giraffe Zone)","98105",47.66292733129055,-122.28295821064668
+"98105","Seattle","WA","ZOOM+Care","4540 University Way NE","98105",47.66248451226349,-122.31279067729815
+"98106","Seattle","WA","Navos","2600 SW Holden St","98126",47.5341286201124,-122.36623976284983
+"98107","Seattle","WA","Swedish Medical Center - Ballard Campus","5300 Tallman Ave NW","98107",47.66746896346533,-122.37958818650816
+"98107","Seattle","WA","Swedish Ballard ER","5350 Tallman Ave NW","98107",47.66800597795967,-122.38069594037127
+"98107","Seattle","WA","Leanna May Health Empowerment","1546 NW 56th Street","98107",47.6694848,-122.3783127
+"98107","Seattle","WA","Its Only Natural","not_available","98107",47.658826,-122.364258
+"98108","Seattle","WA","VA  Medical Center","1660 S Columbian Way","98108",47.562852267451106,-122.30866027205754
+"98108","Seattle","WA","SICU VA Hospital","Third Floor","98108",47.563318121715234,-122.31047232701353
+"98108","Seattle","WA","Veterans Hospital Compensation/Disability","not_available","98108",47.5598371646556,-122.30754958705002
+"98109","Seattle","WA","UW Neighborhood South Lake Union Clinic","750 Republican St","98109",47.62363,-122.34139499999999
+"98109","Seattle","WA","Bayside Family Physicians","1100 Dexter Ave N Ste 100","98109",47.6291351318359,-122.341903686523
+"98110","Bainbridge Island","WA","Harrison Bainbridge Urgent Care","8804 Madison Ave N","98110",47.642565999999995,-122.518677
+"98110","Bainbridge Island","WA","Providence Express Care At Home - House Call Doctors - Mercer Island","945 Hildebrand Ln NE","98110",47.633665,-122.517779
+"98110","Bainbridge Island","WA","Franciscan Urgent Care - Bainbridge Island","1344 Wintergreen Ln NE Unit 100","98110",47.63799553850571,-122.51374698276241
+"98112","Seattle","WA","Boyer Children's Clinic","1850 Boyer Ave E","98112",47.636084000000004,-122.302604
+"98112","Seattle","WA","Drug & Alcohol Rehab Seattle","1715 12th Ave","98122",47.616905212402344,-122.31729125976562
+"98115","Seattle","WA","CityMD Ravenna","6322 Roosevelt Way NE","98115",47.67484,-122.3170089
+"98115","Seattle","WA","Drive-up COVID-19 Testing Site (Seattle Childrens)","5801 Sand Point Way NE","98105",47.671446,-122.270152
+"98115","Seattle","WA","Jeff Harris N.D.","7201 5th Ave NE","98115",47.68145424677627,-122.32239961624144
+"98116","Seattle","WA","Franciscan Urgent Care - West Seattle","4755 Fauntleroy Way SW Ste 110","98116",47.55964373830586,-122.38186320169622
+"98116","Seattle","WA","Franciscan Prompt Care","not_available","98126",47.56142091851505,-122.3805773142663
+"98116","Seattle","WA","Life Care Centers of America","4700 SW Admiral Way","98116",47.58085764483298,-122.39290555417344
+"98116","Seattle","WA","ZOOM+Care","4012 SW Alaska St","98116",47.5613907,-122.3833453
+"98116","Seattle","WA","Care Clinic Pharmacy","4706 42nd Ave SW","98116",47.560653,-122.384596
+"98117","Seattle","WA","Doctors Express Urgent Care","9000 Holman Rd NW","98117",47.694423,-122.375077
+"98117","Seattle","WA","Dr. T.R. Morris, ND, IFMCP","7041 11th Ave NW","98117",47.6807686,-122.3707234
+"98118","Seattle","WA","MX 180","4201 S Holly St","98118",47.542234,-122.280677
+"98119","Seattle","WA","ZOOM+Care","1570 W Armory Way Ste 102","98119",47.63975127826431,-122.37700244492373
+"98119","Seattle","WA","HatchMed","1631 15th Ave W #107","98119",47.634849548339844,-122.37673950195312
+"98121","Seattle","WA","Swedish Express Care","222 Pike St","not_available",47.609831,-122.33832199999999
+"98121","Seattle","WA","ZOOM+Care","2301 2nd Ave","98121",47.61401026101847,-122.34608488960134
+"98122","Seattle","WA","Swedish Medical Center - Cherry Hill Campus","500 17th Ave","98122",47.6071248,-122.3104683
+"98122","Seattle","WA","Swedish Medical Center - Cherry Hill Emergency Department","540 16th Ave","98122",47.607348724709574,-122.3110541534424
+"98122","Seattle","WA","P4 Medicine Institute (P4Mi)","464 12th Ave Suite 400. Seattle, WA 98122","98122",47.605981,-122.316487
+"98122","Seattle","WA","Swedish Radiosurgery Center","550 17th Ave Ste A10","98122",47.607698783798334,-122.31029466137693
+"98125","Seattle","WA","Roger Bouck Rotacare Clinic","12736 33rd Ave NE #200","98125",47.72230911254883,-122.29180145263672
+"98126","Seattle","WA","Providence Mount St. Vincent","4831 35th Ave SW","98126",47.55838615650031,-122.37753519262503
+"98133","Seattle","WA","Northwest Hospital","1550 N 115th St","98133",47.714217396007875,-122.33687380024104
+"98133","Seattle","WA","Northwest Hospital Child Birth Center","1710 N 120th St","98133",47.71479895294614,-122.33779391834416
+"98133","Seattle","WA","Northwest Hospital Sleep Center","1536 N 115th St","98133",47.712667,-122.33807756666667
+"98133","Seattle","WA","ZOOM+Care","15911 Westminster Way N.","98133",47.7447221,-122.3461915
+"98133","Seattle","WA","Urgent Care in Shoreline","1355 N 205th St","98133",47.777414,-122.34188999999999
+"98133","Seattle","WA","Northwest Hospital ER Admitting","not_available","98133",47.71396710859922,-122.33694366306639
+"98133","Seattle","WA","Northwest Hospital Inpatient Rehab Facility","1535-1783 N 120th St","98133",47.715350072801215,-122.33903842261407
+"98144","Seattle","WA","Sound Autism Partners","1625B S Weller St","98144",47.597320556640625,-122.31037902832031
+"98144","Seattle","WA","Seattle Keiro","1601 E Yesler Way","98122",47.601472233371986,-122.31081752727422
+"98146","Seattle","WA","Schick Shadel Hospital","12101 Ambaum Blvd SW","98146",47.4943271,-122.3507146
+"98148","Seattle","WA","MultiCare Centers of Occupational Medicine - Burien","15500 1st Avenue South","98148",47.4637919,-122.3331863
+"98148","Seattle","WA","Franciscan Prompt Care - Burien","16045 1st Ave S Fl 1","98148",47.45851952324163,-122.33515183559642
+"98148","Seattle","WA","Immediate Clinic Burien","15870 1st Ave. S","98148",47.459946,-122.332908
+"98155","Seattle","WA","ZOOM+Care","17815 SW 65th Ave","97035",47.77523912204728,-122.30969721464189
+"98155","Seattle","WA","Northwest Hand","19930 Ballinger Way NE","98155",47.773871,-122.307496
+"98155","Seattle","WA","Immediate Clinic Shoreline","20120 Ballinger Way Northeast","98155",47.7756716,-122.3100683
+"98164","Seattle","WA","Grey Sloan Memorial Hospital","not_available","98164",47.60621,-122.33207
+"98166","Seattle","WA","Highline Surgery Center","not_available","98166",47.45781775566668,-122.342102974145
+"98166","Seattle","WA","Highline Hospital Birthing Center","16251 Sylvester Rd SW, Burien, WA 98166","98166",47.457532,-122.343377
+"98166","Seattle","WA","Highline Childbirth Center","16251 Sylvester Rd SW","98166",47.45758819580078,-122.34236907958984
+"98166","Seattle","WA","franciscan medical center","16110 8th Ave SW","98166",47.458341,-122.344258
+"98166","Seattle","WA","Highline Obstetrics And Gynocology E5","not_available","98148",47.45863412006344,-122.34210635071811
+"98168","Seattle","WA","Regional Hospital for Respiratory and Complex Care","12844 Military Rd S","98168",47.48768615722656,-122.29588317871094
+"98168","Seattle","WA","Gateway Hospital","13035 Gateway Dr S","98168",47.48693084716797,-122.27262115478516
+"98188","Seattle","WA","ZOOM+Care","17250 Southcenter Pkwy Ste 136","98188",47.449006,-122.261307
+"98201","Everett","WA","Providence Regional Medical Center","1700 13th St","98201",47.99983919179474,-122.20575074848546
+"98201","Everett","WA","Providence Regional Medical Center - Pacific Campus","916 Pacific Ave","98201",47.9756737,-122.2172425
+"98201","Everett","WA","Providence Hospital C Tower","not_available","98201",47.99965,-122.20683
+"98201","Everett","WA","Providence Cymbaluk Tower","1700 14th Ave","not_available",48.0001456442679,-122.20513727856573
+"98201","Everett","WA","Providence Express Care at Walgreens - Everett Broadway","2205 Broadway","98201",47.9880368,-122.2011082
+"98201","Everett","WA","North Sound Emergency Medicine - Everett","1716 W Marine View Dr","98201",47.99464027869165,-122.21519455092619
+"98201","Everett","WA","The House of 98","4000 High St","98201",47.963581,-122.213533
+"98201","Everett","WA","Providence Business Office","909 N Broadway","98201",48.00511169433594,-122.19561767578125
+"98201","Everett","WA","room D831","Colby Avenue","not_available",47.9998664855957,-122.2053451538086
+"98201","Everett","WA","Group Health Hospital","2930 Maple St","98201",47.97768973259669,-122.1913825122327
+"98201","Everett","WA","Community Health Center of Snohomish County - Everett-North Medical","1424 Broadway","98201",47.9980378,-122.201503
+"98201","Everett","WA","Providence Children's Center","900 Pacific Ave","98201",47.975809999999996,-122.21803
+"98201","Everett","WA","Drug & Alcohol Rehab Everett","2931 Rockefeller Ave","98201",47.978407000000004,-122.205478
+"98203","Everett","WA","Lash & Skin","7612 Beverly Blvd","98203",47.928915,-122.212021
+"98204","Everett","WA","Kush Pointe","11811 Mukilteo Speedway Ste 111","98275",47.89160220000001,-122.2852599
+"98204","Everett","WA","CitySleepLab","11611 Airport Rd","98204",47.892851,-122.26019299999999
+"98204","Everett","WA","ZOOM+Care","221 SE Everett Mall Way #M3","98208",47.90871557492167,-122.2289910232726
+"98204","Everett","WA","Snohomish Evaluation And Treatment Center","10710 Mukilteo Speedway","98275",47.90083694458008,-122.29289245605469
+"98208","Everett","WA","Vichaiyud","not_available","98296",47.860267,-122.139661
+"98221","Anacortes","WA","Island Hospital","1211 24th St","98221",48.5020043,-122.6149776
+"98221","Anacortes","WA","Neurologist","Island Hospital","98221",48.500611,-122.615683
+"98221","Anacortes","WA","Island Hospital Emergency Department","not_available","98221",48.501718,-122.615059
+"98221","Anacortes","WA","MIRIAM LEVI, FNP-BC, CNM, IBCLC","1004 M Ave Ste 109","98221",48.5140669,-122.6175128
+"98223","Arlington","WA","Cascade Valley Hospital","330 S Stillaguamish Ave","98223",48.18878769544412,-122.1183505654335
+"98223","Arlington","WA","MultiCare Indigo Urgent Care - Marysville","3822 116th Street Northeast","98271",48.09955145,-122.1799461
+"98223","Arlington","WA","Community Health Center of Snohomish County - Arlington Medical","326 S Stillaguamish Ave","98223",48.1895755,-122.1181087
+"98225","Bellingham","WA","Family Care Network After Hours Urgent Care","3130 Squalicum Pkwy Ste 100","98225",48.77168273925781,-122.46905517578125
+"98225","Bellingham","WA","Care Medical Group","4043 Northwest Ave","98226",48.7881841176471,-122.506566470588
+"98225","Bellingham","WA","BARE Advanced Speed Waxing & Skincare LLC","2506 Cornwall Ave","98225",48.76325,-122.474773
+"98225","Bellingham","WA","St Joes Emergency","not_available","98225",48.773123,-122.474108
+"98225","Bellingham","WA","BioLife Plasma Services","905 Darby Dr.","98226",48.7905056,-122.5072407
+"98225","Bellingham","WA","St Joseph's Childbirth Center","2901 Squalicum Pkwy","98225",48.77391254896363,-122.47267177810095
+"98225","Bellingham","WA","Saint Joseph Hospital Labor And Delivery","St Joseph Hospital","not_available",48.7735523,-122.47287946
+"98225","Bellingham","WA","St. Joseph's South Campus","809 E Chestnut St","98225",48.744248,-122.47236200000002
+"98225","Bellingham","WA","PeaceHealth Employee Center","600 Birchwood Ave","98225",48.777563,-122.47926799999999
+"98225","Bellingham","WA","Avamere Bellingham Healthcare and Rehabilitation Services","1200 Birchwood Ave","98225",48.77643966674805,-122.48894500732422
+"98230","Blaine","WA","Blaine Animal Hospital","8892 Blaine Rd","98230",48.964508,-122.729164
+"98239","Coupeville","WA","Whidbey General Hospital","not_available","98239",48.21380840570132,-122.68448035345406
+"98250","Friday Harbor","WA","Peace Health Medical Center","1049 San Juan Valley Rd.","98250",48.52652281436598,-123.02958305493911
+"98250","Friday Harbor","WA","Inter Island Medical Center","550 Spring St","98250",48.532265,-123.021818
+"98250","Friday Harbor","WA","PeaceHealth Peace Island Medical Center","1117 Spring St","98250",48.52683484,-123.02967472
+"98258","Lake Stevens","WA","Providence Express Care at Walgreens - Lake Stevens","718 91st Ave NE","98258",48.00291,-122.10865
+"98272","Monroe","WA","Ultrasound Room","not_available","98272",47.86066795185355,-121.98631990158789
+"98272","Monroe","WA","Valley General Hospital","14701 179th Ave SE","98272",47.863895961137096,-121.99011685730711
+"98272","Monroe","WA","EvergreenHealth Monroe Emergency Department","14701 179th Avenue SE","98272",47.86340635762364,-121.99157595634459
+"98272","Monroe","WA","EvergreenHealth Pavilion","14841 179th Ave SE","98272",47.86380944293921,-121.98844313621521
+"98273","Mount Vernon","WA","Skagit Valley Hospital","300 Hospital Parkway","98273",48.418416,-122.324252
+"98273","Mount Vernon","WA","Skagit Valley Hospital","300 Hospital Pkwy","98274",48.41910751,-122.32375752
+"98273","Mount Vernon","WA","Cascade Facial Surgery & Aesthetics","1600 Continental Pl #103","98273",48.4349023,-122.3248949
+"98273","Mount Vernon","WA","Uniited General Hospital","not_available","98284",48.496008517273815,-122.27719124613914
+"98273","Mount Vernon","WA","Skagit Valley VA Clinic","307 S 13th St","98274",48.418800354003906,-122.32573699951172
+"98273","Mount Vernon","WA","Skagit Regional Clinics - Urgent Care MV","1400 E Kincaid St","98274",48.41711476761263,-122.3238399777074
+"98273","Mount Vernon","WA","Skagit Valley Hospital Sleep Center","not_available","98274",48.41785668749308,-122.32459676122127
+"98273","Mount Vernon","WA","PeaceHealth United General Hospital","2000 Hospital Dr","98284",48.4961502,-122.2756646
+"98273","Mount Vernon","WA","Little Mountain Laser LLC","17879 Valley Ridge Ln.","98274",48.386339,-122.31286000000001
+"98275","Mukilteo","WA","Paolo Memorial Hospital CC4","1","not_available",47.9487939,-122.3005611
+"98275","Mukilteo","WA","Providence Express Care at Walgreens - Mukilteo","10200 Mukilteo Speedway","98275",47.9057331,-122.2940775
+"98277","Oak Harbor","WA","US Naval Hospital - Oak Harbor","3475 N Saratoga St","98278",48.33640474557023,-122.68201249162362
+"98277","Oak Harbor","WA","NHOH","not_available","98277",48.303237037956,-122.65540992964364
+"98290","Snohomish","WA","swedish edmonds 4th Floor","not_available","98026",47.9362550992054,-122.08576489349336
+"98310","Bremerton","WA","Harrison Medical Center","2520 Cherry Ave","98310",47.58275472354743,-122.62517254232786
+"98310","Bremerton","WA","Kitsap Audiology","2601 Cherry Ave","98310",47.584197998046875,-122.6263427734375
+"98310","Bremerton","WA","Harrison Medical Information Technology","not_available","98310",47.58407859674419,-122.62670462715022
+"98310","Bremerton","WA","NHB Syncopal Spot- 1st Deck Pharm","not_available","98312",47.57776958769043,-122.64659129269727
+"98310","Bremerton","WA","Harrison Radoilogy","Cherry Ave, Bremerton, WA 98310","98310",47.58227736985751,-122.62510200426192
+"98310","Bremerton","WA","AMI Radiology","1780 NW Myhre Rd #1220","98383",47.58978621074153,-122.62911327069625
+"98310","Bremerton","WA","Hospice of Kitsap County Fred Lowthian Care Center","Lebo Blvd","98310",47.583608589823946,-122.63352549288554
+"98311","Bremerton","WA","Harrison Medical Center","1800 NW Myhre Rd","98383",47.655517283713394,-122.67512070304107
+"98311","Bremerton","WA","Central Kitsap Urgent Care","10513 Silverdale Way NW","98383",47.65883196666667,-122.68696
+"98311","Bremerton","WA","Harrison Medical Center - Iris Room","Clear Creek Trail","98383",47.65551018,-122.6763152
+"98311","Bremerton","WA","Harrison Medical Center Silverdale Emergency Departmemt","not_available","98383",47.655217420285794,-122.67552990150584
+"98311","Bremerton","WA","Fillabong","2839 NW Kitsap Pl #A","98383",47.6548449,-122.6878131
+"98311","Bremerton","WA","Urgent Care | Kaiser Permanente Silverdale Medical Center","10452 Silverdale Way NW","98383",47.6581916809082,-122.68446350097656
+"98312","Bremerton","WA","Naval Hospital Bremerton","1 Boone Rd","98312",47.59431489724165,-122.6910368200336
+"98312","Bremerton","WA","Naval Hospital Bremerton ER","Boone road","98312",47.59467324,-122.691886
+"98312","Bremerton","WA","Harrison Port Orchard Urgent Care","450 S. Kitsap Blvd., Suite 100","98366",47.5221717190678,-122.65627861241757
+"98312","Bremerton","WA","Urgent Care","not_available","98366",47.531193,-122.655552
+"98312","Bremerton","WA","Naval Hospital MRI","Boone Road","98312",47.594835,-122.692436
+"98331","Forks","WA","Forks Community Hospital","530 Bogachiel Way","97331",47.946123,-124.39255800000001
+"98331","Forks","WA","Forks ER","not_available","98331",47.94636661667679,-124.39250377825596
+"98332","Gig Harbor","WA","St. Anthony Hospital","11567 Canterwood Blvd. N.W.","98332",47.36443378945448,-122.61359695479874
+"98332","Gig Harbor","WA","St. Anthony Hospital - Emergency Room","11567 Canterwood Blvd Fl 1","98332",47.36441557718206,-122.61357362851719
+"98332","Gig Harbor","WA","Saint Anthony Hospital CCC","not_available","98332",47.36330220931415,-122.61329817039315
+"98335","Gig Harbor","WA","Innovative Mental Health and Pain Care. LLC","6625 Wagner Way NW","98335",47.3191457,-122.59320500000001
+"98335","Gig Harbor","WA","Mary Bridge Children's Urgent Care - Gig Harbor","4700 Point Fosdick Drive","98335",47.300594329833984,-122.58129119873047
+"98335","Gig Harbor","WA","Olympic Alzheimer's Residence","3025 14th Ave NW","98335",47.30005986688903,-122.60088116375313
+"98335","Gig Harbor","WA","Gig Harbor Day Surgery","6401 Kimball Dr Ste 100","98335",47.31673198608142,-122.58469390114082
+"98335","Gig Harbor","WA","Saint Anthony's Prompt Care","3063-3199 45th St Ct NW","98335",47.30001535293509,-122.5809363579313
+"98335","Gig Harbor","WA","Franciscan Prompt Care - Gig Harbor","4700 Point Fosdick Dr Ste 102","98335",47.30048781380871,-122.58126184049281
+"98335","Gig Harbor","WA","Cascade Eye & Skin Centers","4907 Pt Fosdick Dr NW E700","98335",47.3029944,-122.5759796
+"98338","Graham","WA","DaVita Graham dialysis","not_available","98338",47.07796096801758,-122.29315185546875
+"98356","Morton","WA","Morton General Hospital","521 Adams St","98356",46.555588853052285,-122.2802033599585
+"98357","Neah Bay","WA","Neah Bay EMS","not_available","98357",48.36841619827148,-124.6268352611046
+"98360","Orting","WA","MultiCare Indigo Urgent Care - Orting","215 Whitesell Street Northwest","98360",47.0990038,-122.20968233
+"98362","Port Angeles","WA","Olympic Medical Center","939 Caroline St","98362",48.11545597332072,-123.41496715510739
+"98368","Port Townsend","WA","Madrona Hill Urgent Care","2500 W Sims Way","98368",48.102686,-122.805391
+"98368","Port Townsend","WA","Jefferson General Hospital","not_available","98368",48.10607819345461,-122.78863003167437
+"98370","Poulsbo","WA","Cascade View Medical Group","1000 Olympic College Way NW","98370",47.76533508300781,-122.6624984741211
+"98370","Poulsbo","WA","Pacific Surgery Center","20669 Bond Rd NE #200","98370",47.750487,-122.645177
+"98370","Poulsbo","WA","Liberty Bay Foot & Ankle","20730 Bond Rd NE #120","98370",47.7511723,-122.6457379
+"98370","Poulsbo","WA","Harrison Home Health - Poulsbo","261 Moe St NE","98370",47.73521475,-122.64596911666666
+"98370","Poulsbo","WA","NK Family Practice and Immediate Clinic Urgent Care","20730 Bond Rd NE Ste 205","98370",47.75117874145508,-122.6457748413086
+"98370","Poulsbo","WA","Kitsap Urgent Care","Silverdale Way","98383",47.65139389038086,-122.69489288330078
+"98370","Poulsbo","WA","Immediate Clinic Poulsbo","20730 Bond Road Northeast","98370",47.7510662,-122.6456004
+"98371","Puyallup","WA","MultiCare Good Samaritan Hospital","401 15th Ave SE","98372",47.178489,-122.289557
+"98371","Puyallup","WA","Cascade Eye & Skin Centers","1703 S Meridian 101","98371",47.1751118,-122.2929541
+"98371","Puyallup","WA","Good Samaritan Nuclear Medicine","not_available","98372",47.178472,-122.290665
+"98372","Puyallup","WA","MultiCare Women's Center - Puyallup","1450 5th Street Southeast","98372",47.17766985,-122.28885988
+"98372","Puyallup","WA","Good Sam Surgery Building","V","98372",47.17915374632875,-122.27653554306937
+"98372","Puyallup","WA","Winona","3100 Meridian","not_available",47.162010192871094,-122.29306030273438
+"98373","Puyallup","WA","Franciscan Urgent Care - Puyallup","12005 Meridian E Ste 101","98373",47.147214631936976,-122.2925576642529
+"98373","Puyallup","WA","Aesthetic Surgery Centre & MedSpa â€"" Puyallup, WA","318 39th Avenue Southwest Ste B (C. Blake Perry, MD)","98373",47.1545077,-122.2961862
+"98374","Puyallup","WA","MultiCare Indigo Urgent Care - Puyallup","15125 Meridian East","98375",47.11863175,-122.29273584
+"98374","Puyallup","WA","Cascade Eye & Skin Centers","11216 Sunrise Blvd E 3,102","98374",47.0968033,-122.2781748
+"98375","Puyallup","WA","MultiCare Indigo Urgent Care - Frederickson","5314 176th St E","98446",47.095884,-122.3580847
+"98375","Puyallup","WA","OCDetail","14712 Meridian E #51","98375",47.12242889404297,-122.29415130615234
+"98375","Puyallup","WA","Franciscan Prompt Care - Canyon Road","15214 Canyon Rd E","98375",47.117813894665325,-122.35820885706043
+"98382","Sequim","WA","Primary Care Sequim","520 N 5th Ave","98382",48.083784,-123.112658
+"98387","Spanaway","WA","MultiCare Spanaway Urgent Care","225 176th St S","98387",47.097637,-122.43628
+"98387","Spanaway","WA","MAMC","not_available","98433",47.076505475280015,-122.40487939974682
+"98391","Bonney Lake","WA","Cascade Eye & Skin Centers","10004 204th Ave E 1500","98391",47.165575,-122.157159
+"98391","Bonney Lake","WA","Franciscan Prompt Care - Bonney Lake","9230 Sky Island Dr E Fl 1","98391",47.173485147114526,-122.18304088662259
+"98391","Bonney Lake","WA","MultiCare Women's Center - Bonney Lake","10004 204th Avenue East","98391",47.16552096,-122.15719487
+"98391","Bonney Lake","WA","MultiCare Indigo Urgent Care - Bonney Lake","21186 Washington 410","98391",47.1683769,-122.148684
+"98402","Tacoma","WA","St Joseph's Hospital Tower","not_available","98405",47.244903448749255,-122.44722938917178
+"98402","Tacoma","WA","National Meth Center","not_available","98402",47.258888244628906,-122.44640350341797
+"98402","Tacoma","WA","St. Joseph's Medical Clinic","1708 Yakima Ave","98405",47.24556954422885,-122.44690901762051
+"98402","Tacoma","WA","Pamela's Interiors","2822 A St","98402",47.235419,-122.43348799999998
+"98403","Tacoma","WA","MultiCare Tacoma General Hospital","315 Martin Luther King Jr Way","98405",47.25935044,-122.45297636
+"98403","Tacoma","WA","Group Health Medical Center","209 Martin Luther King Jr Way","98405",47.26062748867516,-122.45309160084109
+"98403","Tacoma","WA","Kaiser Permanente","not_available","98403",47.26509,-122.456378
+"98403","Tacoma","WA","Mary Bridge Children's Hospital","317 Martin Luther King Jr Way","98405",47.258861386075786,-122.45275556867098
+"98403","Tacoma","WA","MultiCare Human Resources","603 S J St","98405",47.25703048706055,-122.45096588134766
+"98403","Tacoma","WA","MultiCare Tacoma General Hospital","315 M Martin Luther King Junior Way","98405",47.25937046,-122.45297368
+"98403","Tacoma","WA","Mary Bridge Children's Hospital: Emergency Department","317 Martin Luther King Junior Way","98405",47.25882528,-122.45266121
+"98404","Tacoma","WA","Drug & Alcohol Rehab Tacoma","2501 E D St #209A","98421",47.23953628540039,-122.42837524414062
+"98405","Tacoma","WA","St. Joseph Medical Center","1717 S J St","98405",47.24534710611197,-122.44791835842905
+"98405","Tacoma","WA","Pacific Medical, Inc. Prosthetics & Orthotics","1901 S Union Ave #B6007","98405",47.2415885925293,-122.48067474365234
+"98405","Tacoma","WA","Orthopedic Surgery - Tacoma General Hospital","315 Martin Luther King Way 3 Philip Pavilion","98405",47.23866283893585,-122.48129904270172
+"98405","Tacoma","WA","Franciscan Prompt Care at St. Joseph","1812 South J Street, Suite 120","98405",47.24424312238299,-122.44962834815317
+"98405","Tacoma","WA","Walters Day Surgery Center","1717 S J St, Tacoma, WA 98405","98405",47.2460332069839,-122.44883989413263
+"98406","Tacoma","WA","St Anthony Hospital","not_available","98406",47.25735862215779,-122.52512585049287
+"98406","Tacoma","WA","Westgate MultiCare Urgent Care","5702 N 26th St","98407",47.270812,-122.513448
+"98407","Tacoma","WA","MultiCare Indigo Urgent Care - Point Ruston","5058 Main St","98407",47.29829345,-122.50479563
+"98409","Tacoma","WA","MSHH Donor Closet","3635 S Lawrence St Ste E","98409",47.224834,-122.478472
+"98409","Tacoma","WA","ManorCare Health Services-Tacoma","5601 S Orchard St","98409",47.2056928,-122.5040912
+"98409","Tacoma","WA","St Joseph Hospital","not_available","98408",47.192691344180304,-122.47472297270933
+"98409","Tacoma","WA","Allenmore Hospital","1901 S Union","98405",47.24167440827611,-122.48017932036056
+"98409","Tacoma","WA","Carol Milgard Breast Center - Tacoma, WA","4525 S 19th St","98405",47.2432372,-122.4994682
+"98409","Tacoma","WA","Regenerative Aesthetics & Lasers NW - TRICITY TACOMA","5006 CENTER ST","98409",47.23372759999999,-122.50432
+"98421","Tacoma","WA","Franciscan Port Clinic","not_available","98421",47.26204905280404,-122.39744842442248
+"98433","Tacoma","WA","Madigan Army Medical Center (MAMC)","9040 Fitzsimmons Dr","98431",47.10968422540346,-122.5519323348999
+"98433","Tacoma","WA","VA Hospital American Lake","9600 Veterans Dr SW","98493",47.13579309709356,-122.57616697660968
+"98433","Tacoma","WA","veterans hospital bldg 81 psych emergency","9600 Veterans Dr SW, Tacoma, WA 98433","98433",47.12447054260839,-122.59730952188414
+"98433","Tacoma","WA","St. Clare Pre Admit","not_available","98499",47.150248,-122.5014148
+"98433","Tacoma","WA","Madigan cast room","not_available","98439",47.1268037994703,-122.5329124876199
+"98433","Tacoma","WA","St. Clare Hospital, Lakewood, WA","11311 Bridgeport Way SW","98499",47.154505,-122.50358100000001
+"98439","Lakewood","WA","St. Clare Hospital - Emergency Room","11315 Bridgeport Way SW Fl 1","98499",47.15456765902115,-122.50209374954262
+"98444","Tacoma","WA","Tacoma Nursing & Rehabilitation Center","2102 S 96th St","98444",47.169403,-122.4645951
+"98465","Tacoma","WA","MultiCare Indigo Urgent Care","1812 South Mildred Street","98465",47.24407584,-122.5267391
+"98466","Tacoma","WA","MultiCare University Place Urgent Care","4310 Bridgeport Way West","98466",47.21797,-122.5376
+"98466","Tacoma","WA","Franciscan Urgent Care - University Place","3556 Market Pl W Ste 109","98466",47.226244912040364,-122.53663018636242
+"98467","University Place","WA","Cascade Eye & Skin Centers","5225 Cirque Dr W","98467",47.2069353,-122.5071576
+"98498","Lakewood","WA","Western State Hospital","9601 Steilacoom Blvd SW","98498",47.179131340413164,-122.57030279137264
+"98498","Lakewood","WA","Hfprz11","Flooded And Closed","98498",47.160558,-122.554294
+"98498","Lakewood","WA","Western State Hospital, Food Warehouse","9601 Stielicoom","not_available",47.17908015653234,-122.56667449911664
+"98499","Lakewood","WA","MultiCare Urgent Care Clinic","9400 Gravelly Lake Dr SW","98499",47.172045000000004,-122.51903300000001
+"98499","Lakewood","WA","MultiCare Lakewood Urgent Care","5700 100th St SW","98499",47.166078,-122.513034
+"98499","Lakewood","WA","Cafe Lakewood","11315 Bridgeport Way SW","98499",47.15455,-122.50214299999999
+"98499","Lakewood","WA","Franciscan Prompt Care on Gravelly Lake","9537 Gravelly Lake Drive Southwest","98499",47.17051105,-122.51879855
+"98501","Olympia","WA","Providence St. Peter Hospital","413 Lilly Rd NE","98506",47.05217478441162,-122.84756153304846
+"98501","Olympia","WA","St. Peter Immediate Care","4800 College St SE","98503",47.0046272277832,-122.82178497314453
+"98501","Olympia","WA","Providence St. Peter Hospital Emergency Room","not_available","98503",47.05183980972955,-122.84739402588318
+"98501","Olympia","WA","Respiratory Care Department St Peters Hospital","not_available","98506",47.05346636636433,-122.84807149015427
+"98501","Olympia","WA","MultiCare Indigo Urgent Care","5128 Yelm Hwy SE","98503",46.996577,-122.81736200000002
+"98501","Olympia","WA","Olympic Ambulance","1205 Ruddell Rd SE","98503",47.03665798463448,-122.8185319644475
+"98501","Olympia","WA","ManorCare Health Services-Lacey","4524 Intelco Loop SE","98503",46.99812362,-122.83245681
+"98501","Olympia","WA","Urgent Care | Kaiser Permanente Olympia Medical Center","700 Lilly Rd NE","98506",47.056818,-122.8418877
+"98501","Olympia","WA","Urgent Care Of Olympia","3700 Martin Way E Ste 108","98506",47.047807,-122.842846
+"98501","Olympia","WA","Urgent Care in Olympia","3525 Ensign Rd NE Ste B","98506",47.050697326660156,-122.84622192382812
+"98502","Olympia","WA","Capital Medical Center","3900 Capital Mall Dr SW","98502",47.04294,-122.95174
+"98502","Olympia","WA","Capital Medical Center ER","not_available","98502",47.04335103302656,-122.95146783139899
+"98502","Olympia","WA","Capital ENT","3920 Capital Mall Dr SW","98502",47.04227,-122.95216
+"98502","Olympia","WA","Capital Medical Center Imaging Center And Outpatient Clinic","McPhee Rd","98502",47.0428392438949,-122.95418890093451
+"98503","Lacey","WA","Providence ExpressCare - Lacey Marketplace","1350 Marvin Rd NE Ste D","98516",47.0594011,-122.7642225
+"98503","Lacey","WA","BioLife Plasma Services","8530 Martin Way E","98516",47.05886,-122.75779
+"98506","Olympia","WA","St. peters, 6th floor orthopedics acute","413 Lilly Rd SE","98501",47.046419,-122.844575
+"98516","Olympia","WA","St. Peters 608","not_available","98501",47.04679098333333,-122.84380635
+"98520","Aberdeen","WA","Grays Harbor Community Hospital","915 Anderson Dr","98520",46.97891776107227,-123.84698847160693
+"98520","Aberdeen","WA","G.H.C.H. East Campus","not_available","98520",46.98105759263865,-123.82077480867345
+"98520","Aberdeen","WA","Providence Express Care At Home House Call Doctors - Aberdeen","954 Anderson Dr","98520",46.980565999999996,-123.845878
+"98520","Aberdeen","WA","Uncle Ando's Wurld Of Weed","401 S Boone St","98520",46.96585612412263,-123.80299508571625
+"98520","Aberdeen","WA","Touched By An Angel","not_available","60428",46.98156257487546,-123.80893081426619
+"98520","Aberdeen","WA","The Old St Jo's Hospital","1006 N H St","98520",46.98086166381836,-123.82022094726562
+"98528","Belfair","WA","Harrison Belfair Urgent Care","21 NE Romance Hill Rd","98528",47.44675214062218,-122.82951415490373
+"98531","Centralia","WA","NtS Medicinal Supply","20639 Old Highway 99 SW","98531",46.788333892822266,-123.0119400024414
+"98531","Centralia","WA","Providence Express Care At Home - House Call Doctors - Ballard","914 S Scheuber Rd","98531",46.712276,-122.98544
+"98531","Centralia","WA","Prestige Post-Acute and Rehab Center - Centralia","917 S Scheuber Rd","98531",46.7114872,-122.9882138
+"98531","Centralia","WA","Providence Centralia hospital medical floor","not_available","98531",46.723893026325065,-122.97597502019596
+"98532","Chehalis","WA","Urgent Care","Bishop St","not_available",46.640176,-122.939969
+"98532","Chehalis","WA","Woodland Urgent Care","1299 Bishop Rd","98532",46.63942337036133,-122.94036865234375
+"98541","Elma","WA","Sotungin Koulun Hammaslääkäri","Skdk","98584",47.247052,-123.220079
+"98541","Elma","WA","Mark Reed Hospital","322 S Birch St","98557",47.055782,-123.260245
+"98577","Raymond","WA","Willapa Harbor Hospital","800 Alder St","98586",46.66278,-123.812285
+"98584","Shelton","WA","Mason General Hospital","901 Mountain View Dr","98584",47.2257312,-123.1140731
+"98584","Shelton","WA","Wise Choice Medicine","6144 Gull Harbor Dr NE","98506",47.119652,-122.89495900000001
+"98604","Battle Ground","WA","PeaceHealth Southwest Medical Group","720 W Main St","98604",45.781539,-122.544946
+"98604","Battle Ground","WA","Urgent Care | Vancouver Clinic Battle Ground","2005 W Main St Ste 120","98604",45.7800794241914,-122.55969297615042
+"98605","Bingen","WA","Skyline Hospital","NE Skyline Dr","98672",45.72219046730907,-121.47019161356846
+"98605","Bingen","WA","Providence Express Care At Home - House Call Doctors - South Seattle","810 12th St","97031",45.70438,-121.52336
+"98605","Bingen","WA","Brookside Manor","1550 Brookside Dr","97031",45.693491,-121.527754
+"98607","Camas","WA","Legacy Medical Group - Camas","1625 S.E. 192nd Ave., Suite 100","98607",45.609566,-122.47508
+"98607","Camas","WA","Prestige Care & Rehabilitation - Camas","740 Northeast Dallas St","98607",45.588645,-122.40460800000001
+"98607","Camas","WA","Being John Ashford","1938 Northwest 45th Avenue","98607",45.6118592,-122.4298788
+"98607","Camas","WA","Legacy-GoHealth Urgent Care","3425 SE 192nd Ave #106","98683",45.5954041,-122.4765659
+"98611","Castle Rock","WA","Tru Greenthumb","1254 MT ST Helens WayNE","98611",46.28655,-122.89932
+"98620","Goldendale","WA","Klickitat Valley Hospital","not_available","98620",45.820193795579456,-120.81099359480066
+"98626","Kelso","WA","Urgent Care | Kaiser Permanente Longview-Kelso","1230 7th Ave","98632",46.1335,-122.92575
+"98626","Kelso","WA","NW Continuum CC","128 Beacon Hill","not_available",46.174934,-122.91733
+"98632","Longview","WA","Community Health Home And Hospice","not_available","98632",46.1321788,-122.9339
+"98632","Longview","WA","St John Medical Center Emergency Dept","1615 Delaware St","98632",46.13015365600586,-122.94149017333984
+"98632","Longview","WA","Providence Express Care At Home - House Call Doctors - Medina","625 9th Ave","98632",46.12371,-122.9349
+"98632","Longview","WA","Pacific Urgent Care","900 Ocean Beach Hwy #110","98632",46.1467927,-122.9281543
+"98642","Ridgefield","WA","Urgent Care | Vancouver Clinic Ridgefield","5515 Pioneer St","98642",45.81538511968063,-122.691488773179
+"98660","Vancouver","WA","Legacy-GoHealth Urgent Care","8013 NE 6th Ave","98665",45.6815,-122.665617
+"98660","Vancouver","WA","Felida Pet Hospital","12616 NW 36th Ave","98685",45.712645,-122.708375
+"98660","Vancouver","WA","Station 2","3400 Main St","98663",45.64628219604492,-122.67086791992188
+"98660","Vancouver","WA","ZOOM+Care","781 W. Columbia Way","98660",45.6247349,-122.6797459
+"98660","Vancouver","WA","Drug & Alcohol Rehab Vancover","605 E McLoughlin Blvd","98663",45.634666442871094,-122.6656265258789
+"98660","Vancouver","WA","Discovery Nursing and Rehab of Vancouver","5220 Northeast Hazel Dell Ave","98663",45.659985,-122.66886299999999
+"98660","Vancouver","WA","Peace Health Urgent Care","not_available","98663",45.657958,-122.667419
+"98661","Vancouver","WA","Family Urgent Care","not_available","98661",45.6584358215332,-122.63390350341797
+"98661","Vancouver","WA","Family Urgent Care","7701 NE Highway 99","98665",45.6774893020038,-122.66177245073408
+"98661","Vancouver","WA","Sww Medical Center","101-123 N Grand Blvd","98661",45.66675165,-122.65671193333333
+"98662","Vancouver","WA","Urgent Medical Center","9430 NE Vancouver Mall Dr","98662",45.658103,-122.57556068
+"98662","Vancouver","WA","Legacy Salmon Creek Hospital","2603 NE 93rd Ave","98662",45.641137,-122.576821
+"98664","Vancouver","WA","PeaceHealth Southwest Emergency Department","400 NE Mother Joseph Pl Emergency Entrance","98664",45.624169017568,-122.58088016530589
+"98664","Vancouver","WA","Firstenburg Tower","200 NE Mother Joseph Pl","98664",45.624165039001106,-122.58138646786573
+"98664","Vancouver","WA","Southwest Family Birth Center","87th & Mill Plain","98664",45.6250623374911,-122.58076108626268
+"98664","Vancouver","WA","Room 51 Peace Health Medical Center","not_available","98664",45.624202,-122.580852
+"98664","Vancouver","WA","Jacobs Room","not_available","98684",45.625013,-122.556933
+"98664","Vancouver","WA","PeaceHealth Family Birth Center","400 NE Mother Joseph Pl","98664",45.624263763427734,-122.58069610595703
+"98664","Vancouver","WA","ZOOM+Care","8076 E Mill Plain Blvd","98664",45.62462179105969,-122.58990717790982
+"98664","Vancouver","WA","Peacehealth Administration Office","92nd","98664",45.62437469259675,-122.57886871055646
+"98664","Vancouver","WA","Southwest Washington, Maternity","8701-8899 NE 5th St","98664",45.624818029702325,-122.5808923224162
+"98664","Vancouver","WA","Cancer Center - Southwest Washington Medical","505 NE 87th Ave #350","98664",45.62522,-122.58284499999999
+"98664","Vancouver","WA","Urgent Care | Vancouver Clinic 87th Avenue","700 NE 87th Ave Ste 110","98664",45.62529524649773,-122.58454803838896
+"98664","Vancouver","WA","423","600 NE 92nd Ave","98664",45.624496,-122.57973700000001
+"98664","Vancouver","WA","Legacy-GoHealth Urgent Care","305 SE Chkalov Dr Ste 170","98683",45.61948930725502,-122.55447775125504
+"98674","Woodland","WA","Woodland Care Center","310 4th St","98674",45.899246000000005,-122.750891
+"98683","Vancouver","WA","Family Care & Urgent Medical Care","406 SE 131st Ave Ste A101","98683",45.618503000000004,-122.53864899999999
+"98683","Vancouver","WA","Urgent Care | Vancouver Clinic Columbia Tech Center","501 SE 172nd Ave Ste 140","98684",45.61908634235682,-122.49421281434348
+"98683","Vancouver","WA","Neutral Ground Mediation Services","not_available","97219",45.61622311118136,-122.54216372966765
+"98683","Vancouver","WA","Fisher's Landing Urgent & Family Care","3200 SE 164th Ave Ste 101","98683",45.59795,-122.505546
+"98683","Vancouver","WA","Providence Express Care at Walgreens - Fisher's Landing","1905 SE 164th Ave","98683",45.607187082632095,-122.50315636396408
+"98683","Vancouver","WA","ZOOM+Care","902 SE 164th Ave","98683",45.615299,-122.50520800000001
+"98685","Vancouver","WA","Cascadia Womens Clinic","not_available","98686",45.72608569667008,-122.65246194230374
+"98685","Vancouver","WA","ZOOM+Care","910 NE Tenney Rd Ste 101","98685",45.719084055146865,-122.66146033643265
+"98685","Vancouver","WA","Urgent Care at Salmon Creek","1319 NE 134th St Ste 107","98685",45.71765899658203,-122.65696716308594
+"98686","Vancouver","WA","Legacy Salmon Creek Hospital","2121 NE 139th St","98686",45.720402726582805,-122.64828728215306
+"98686","Vancouver","WA","Simple Safety","13023 NE Highway 99 Ste 7-341","98686",45.71535873413086,-122.64952087402344
+"98686","Vancouver","WA","ManorCare","2811 NE 139th St","98686",45.721038818359375,-122.64203643798828
+"98686","Vancouver","WA","Providence Express Care At Home - House Call Doctors - Magnolia","2100 NE 139th St","98686",45.72238,-122.6506
+"98686","Vancouver","WA","Legacy-GoHealth Urgent Care","13009 NE Highway 99 Ste 100","98686",45.7159612,-122.6496802
+"98801","Wenatchee","WA","Wenatchee Valley Medical Center","Miller St.","98801",47.410924558134084,-120.31836411824075
+"98801","Wenatchee","WA","Colonial Vista Post-Acute and Rehabilitation Center","625 Okanogan Ave","98801",47.4133415222168,-120.3129653930664
+"98801","Wenatchee","WA","Central Washington Hospital","1201 S Miller St","98801",47.4067059,-120.3214286
+"98801","Wenatchee","WA","Central Washington Pharmacy","933 Red Apple Rd Ste A","98801",47.40745162963867,-120.32254028320312
+"98801","Wenatchee","WA","Operating Room","not_available","98801",47.433415050808705,-120.3239765496278
+"98801","Wenatchee","WA","V Care Health Systems Inc","4160 W Eaglerock Dr","98801",47.49192810058594,-120.36993408203125
+"98801","Wenatchee","WA","Wenatchee Valley Hospital & Clinics Campus","820 N Chelan Ave","98801",47.4336332,-120.3226274
+"98815","Cashmere","WA","Bad Ass Weed Co","8459 Main St Unit B","98821",47.541259765625,-120.56005096435547
+"98816","Chelan","WA","Chelan Valley Skin Care","136 E Johnson Ave #2","98816",47.8406295,-120.0174628
+"98816","Chelan","WA","Chelan Community Hospital","503 E Highland Ave","98816",47.84499991968893,-120.00985502913666
+"98823","Ephrata","WA","Columbia Basin Hospital","200 Nat Washington Way","98823",47.314334869384766,-119.54595947265625
+"98826","Leavenworth","WA","Cascade Medical Center","817 Commercial St","98826",47.59437366914985,-120.66087556869985
+"98837","Moses Lake","WA","Samaritan Clinic","1550 S Pioneer Way","98837",47.112176884503086,-119.26013813414252
+"98837","Moses Lake","WA","Samaritan Hospital","801 E Wheeler Rd","98837",47.12856352329254,-119.26507818
+"98837","Moses Lake","WA","Radiology","not_available","98837",47.128303,-119.264807
+"98840","Okanogan","WA","Mid Valley Hospital","810 Jasmine St","98841",48.396461486816406,-119.54633331298828
+"98855","Tonasket","WA","North Valley Hospital","203 S Western Ave","98855",48.707122802734375,-119.43876647949219
+"98901","Yakima","WA","Yakima Valley Memorial Hospital","2811 Tieton Dr","98902",46.59341467021867,-120.54779217161361
+"98901","Yakima","WA","Happy Time","1315 N 1st St","98901",46.619803999999995,-120.51148300000001
+"98901","Yakima","WA","ALS station 4","9 N 9th St","98901",46.6058235168457,-120.4933853149414
+"98901","Yakima","WA","Prestige Care & Rehabilitation - Parkside","308 W Emma St","98903",46.5524529,-120.4799335
+"98901","Yakima","WA","AMR Station 1","229 S 2nd Ave","98902",46.59695053100586,-120.50861358642578
+"98903","Yakima","WA","AMR Station 3","4001 Main St","98903",46.54750061035156,-120.4749984741211
+"98903","Yakima","WA","Yakima Urgent Care","1006 S 64th Ave","98908",46.587326,-120.59482
+"98922","Cle Elum","WA","Providence Express Care At Home - House Call Doctors - Central District","214 W 1st St","98922",47.19555,-120.94157
+"98926","Ellensburg","WA","Kittitas Valley Urgent Care","702 E Mountain View Ave","98926",46.984261,-120.53809
+"98926","Ellensburg","WA","Prestige Post-Acute and Rehab Center - Kittitas","1050 E Mountain View Ave","98926",46.984041,-120.53114599999999
+"98926","Ellensburg","WA","KVH Hospital","603 S Chestnut St","98926",46.98685436438412,-120.53734660148619
+"98926","Ellensburg","WA","KVH Medical Arts Center","100 E Jackson Ave","98926",46.98563003540039,-120.54641723632812
+"98930","Grandview","WA","Prosser Memorial Hospital","723 Memorial St","99350",46.208069,-119.764028
+"98944","Sunnyside","WA","Densows Medical Supplies","1019 Wright Ave","99354",46.28022480455425,-119.29806994047544
+"98944","Sunnyside","WA","Prestige Care and Rehabilitation - Sunnyside","721 Otis Ave","98944",46.3124947,-120.0106129
+"98944","Sunnyside","WA","Tri-city Regional Surgery Center","1096 Goethals Dr","99352",46.28204345703125,-119.27965545654297
+"98944","Sunnyside","WA","4th floor of the River Pavilion @ Kadlec Regional Medical Center Center","888 Swift Blvd","99352",46.281366999999996,-119.28223999999999
+"98944","Sunnyside","WA","Kennewick General Hospital Surgery Center","not_available","99336",46.262854,-119.265913
+"98944","Sunnyside","WA","kadelec surgery center","not_available","99352",46.28117228155009,-119.2815863883813
+"98944","Sunnyside","WA","Sunnyside Community Hospital","1016 Tacoma Ave","98944",46.322703999999995,-120.006656
+"98944","Sunnyside","WA","Kadlec Express Care at Walgreens - Richland","1601 George Washington Way","99354",46.29486249076278,-119.2752079838433
+"98944","Sunnyside","WA","Richland Rehabilitation Center","1745 Pike Ave","99354",46.298973083496094,-119.27924346923828
+"98944","Sunnyside","WA","Kadlec ExpressCare - Queensgate","2564 Queensgate Dr","99352",46.25907414756479,-119.30674541851437
+"98948","Toppenish","WA","Toppenish Nursing and Rehab Center","802 W 3rd Ave","98948",46.3730938,-120.3235787
+"98948","Toppenish","WA","AMR Station 4","513 W 4th Ave","98948",46.371639251708984,-120.31745147705078
+"99004","Cheney","WA","Eastern State Hospital","Maple St","99022",47.573331069953305,-117.69374308799081
+"99004","Cheney","WA","Lakeland Village","not_available","99022",47.551052,-117.705765
+"99011","Fairchild Air Force Base","WA","Fairchild AFB Hospital","701 Hospital Loop","99011",47.62724734424182,-117.67010516331972
+"99016","Greenacres","WA","Spokane Providence Medical Campus","not_available","99016",47.66725725580789,-117.18069396470875
+"99016","Greenacres","WA","Providence Urgent Care - Spokane Valley","16528 E Desmet Ct Ste A1200","99216",47.6668774960229,-117.1805509342812
+"99016","Greenacres","WA","FirstCare Urgent Care","not_available","99019",47.67052926262385,-117.10665649842926
+"99016","Greenacres","WA","House Calls Primary Care","22820 E Appleway Ave","99019",47.67330607,-117.09814994
+"99016","Greenacres","WA","MultiCare Rockwood Urgent Care - Liberty Lake","1326 N Stanford Ln","99019",47.670581,-117.106847
+"99016","Greenacres","WA","MultiCare Indigo Urgent Care","15605 E Sprague Ave","99037",47.65746013,-117.19498583
+"99016","Greenacres","WA","Sullivan Park Care Center","14820 E 4th Ave","99216",47.652417,-117.205359
+"99016","Greenacres","WA","MultiCare Indigo Urgent Care","1429 N Liberty Lake Rd","99019",47.6703245,-117.107158
+"99025","Newman Lake","WA","Sacred Heart Womens Clinic","w 8th ave","99027",47.70008357,-117.10539248
+"99033","Tekoa","WA","HEALTHY Tekoa Coalition","530 W Carbury St","99033",47.23286056518555,-117.07665252685547
+"99109","Chewelah","WA","Providence St. Joseph's Hospital","500 E Webster Ave","99109",48.2779745,-117.7104998
+"99111","Colfax","WA","Whitman Health and Rehabilitation Center","W 1500 Fair view","99111",46.87025660084687,-117.37443256234766
+"99111","Colfax","WA","Whitman County Hospital District 3","1200 W Fairview St","99111",46.8688958,-117.3753891
+"99111","Colfax","WA","Whitman hospital","1174-1180 Fairview Dr","99111",46.8689782980215,-117.3754652464799
+"99114","Colville","WA","Providence Mount Carmel Hospital","982 E Columbia Ave","99114",48.54070281982422,-117.89262390136719
+"99122","Davenport","WA","Lincoln Hospital","not_available","99122",47.656880856816926,-118.14549534736265
+"99156","Newport","WA","Newport Community Hospital","714 W Pine St","99156",48.182493,-117.049199
+"99159","Odessa","WA","Odessa Memorial Healthcare Center","not_available","99159",47.331208000000004,-118.68250900000001
+"99163","Pullman","WA","Pullman Regional Hospital","835 SE Bishop Blvd","99163",46.7125659969901,-117.16958109489744
+"99163","Pullman","WA","Kindred at Home","1610 NE Eastgate Blvd","99163",46.74445029,-117.16260377
+"99169","Ritzville","WA","East Adams Rural Hospital","903 S Adams St","99169",47.121162,-118.371908
+"99201","Spokane","WA","Multicare Pulse Heart Institute","not_available","99204",47.651711,-117.425976
+"99201","Spokane","WA","Sacred Heart Medical Center","101 W 8th Ave","99204",47.64902437148634,-117.41305293691975
+"99201","Spokane","WA","Drug & Alcohol Rehab Spokane","1018 W College Ave","99201",47.663736,-117.42741200000002
+"99201","Spokane","WA","Heart Institute","122 W. 7th Avenue","99204",47.649112310752855,-117.41299568339144
+"99201","Spokane","WA","Deaconess ER","800 W 5th Ave","99204",47.65164586609571,-117.42420748399063
+"99201","Spokane","WA","OB/GYN Associates of Spokane","601 W. 5th Avenue Suite 301","99204",47.6511196,-117.4216192
+"99201","Spokane","WA","MultiCare Deaconess Hospital Emergency Department","800 West 5th Avenue","99204",47.651912689208984,-117.42342376708984
+"99202","Spokane","WA","Saint Luke's Rehabilitation Institute","700 S. Cowley","99202",47.650461214372974,-117.40688686523634
+"99202","Spokane","WA","Providence South Division Urgent Care","421 S Division St","99202",47.65168904049373,-117.41068675684568
+"99202","Spokane","WA","Plastic Surgery Northwest","530 S Cowley Street","99202",47.650534,-117.408606
+"99202","Spokane","WA","Providence ExpressCare - Ruby","105 E Mission Ave Ste D","99202",47.67215542634504,-117.40911333876613
+"99202","Spokane","WA","Spokane Vets Home","not_available","99203",47.650702,-117.406998
+"99202","Spokane","WA","MultiCare Rockwood Urgent Care Center - Downtown","400 East 5th Avenue","99202",47.65065384,-117.40518676
+"99203","Spokane","WA","U.S. HealthWorks Urgent Care","2005 E 29th Ave","99203",47.628444198579295,-117.3816928267479
+"99205","Spokane","WA","VA Medical Center","4815 N Assembly St","99205",47.702497308142476,-117.47768211366729
+"99205","Spokane","WA","MultiCare Indigo Urgent Care - Shadle","2401 W Wellesley Ave","99205",47.6993021,-117.4474111
+"99205","Spokane","WA","ManorCare Health Services-Spokane","6025 N Assembly St","99205",47.712733,-117.47616799999999
+"99206","Spokane","WA","​MultiCare Valley Hospital","12606 E Mission Ave","99216",47.67071696,-117.23581181
+"99206","Spokane","WA","Multicare Pulse Cardiology","not_available","99216",47.668272,-117.229794
+"99206","Spokane","WA","Spokane Valley Mental Institutuion","11009 E 3rd Ave","99206",47.6546630859375,-117.25839233398438
+"99206","Spokane","WA","st. lukes rehabilitaion","E Broadway Ave, Spokane Valley, WA","99206",47.664505919755314,-117.28235919642897
+"99206","Spokane","WA","Providence Express Care at Walgreens - North Pines","12312 E Sprague Ave","99216",47.65672,-117.23917
+"99206","Spokane","WA","First Carr Urgent care","N Argonne","not_available",47.68151291987315,-117.28300823081524
+"99206","Spokane","WA","Kootenai Heart Clinics Northwest - Spokane Valley","13102 E Mission Ave","99216",47.67206322983945,-117.22908854484557
+"99207","Spokane","WA","Providence Holy Family Hospital","5633 N Lidgerwood St","99208",47.709719,-117.407193
+"99207","Spokane","WA","Holy Family Hospital","not_available","99205",47.709694084234286,-117.40711688028037
+"99207","Spokane","WA","Inland Imaging","not_available","99207",47.70977722931759,-117.40716061327696
+"99207","Spokane","WA","Holy Family Speech And Hearing","5830 N Division St","99208",47.709579,-117.40941000000001
+"99208","Spokane","WA","Providence Express Care at Walgreens - Wandermere","12315 N Division St","99218",47.769811,-117.40526
+"99208","Spokane","WA","Steppingstones","not_available","99224",47.71827419373418,-117.45516926050186
+"99208","Spokane","WA","Providence Express Care - Indian Trail","9027 N Indian Trail Rd","99208",47.7403294,-117.4885909
+"99208","Spokane","WA","Spokane Urgent Care","5901 N Lidgerwood St","99208",47.712070000000004,-117.406669
+"99208","Spokane","WA","Injury Zone","not_available","99218",47.7489461,-117.4089438
+"99208","Spokane","WA","Deaconess Freestanding ER","8202 N Division St","99208",47.732541,-117.409663
+"99208","Spokane","WA","MultiCare Indigo Urgent Care - North Spokane","9420 N Newport Hwy","99218",47.74358,-117.40703500000001
+"99208","Spokane","WA","FirstCare Urgent Care","not_available","99208",47.714569,-117.40665701666667
+"99208","Spokane","WA","Providence Urgent Care - Hawthorne","551 E Hawthorne Rd","99218",47.751479945302684,-117.40129983305127
+"99223","Spokane","WA","Rockwood Urgent Care","not_available","99223",47.60190559120262,-117.36609197674566
+"99223","Spokane","WA","FirstCare-South","Albertsons, 3010 E 57th Ave, Spokane, WA 99223","99223",47.6009521484375,-117.3675308227539
+"99223","Spokane","WA","Providence Express Care - Lincoln Heights","2923 E 29th Ave","99223",47.62895965576172,-117.36735534667969
+"99223","Spokane","WA","MultiCare Indigo Urgent Care","4911 S Regal St","99223",47.60971887,-117.36784303
+"99301","Pasco","WA","Our Lady Of Lourdes Medical Center","520 N 4th Ave, Pasco, WA 99301","99301",46.234954833984375,-119.09532165527344
+"99301","Pasco","WA","Lourdes Medical Center","520 N 4th Ave","99301",46.2350348,-119.0954582
+"99301","Pasco","WA","Granger Family Medicine - West Valley","3725 West 4100 South Suites 220 & 206","84120",46.243875279671904,-119.0779459476471
+"99301","Pasco","WA","Kadlec Urgent Care - Kennewick","4804 W Clearwater Ave","99336",46.2132881,-119.1845621
+"99301","Pasco","WA","Joseph D. Poston, ARNP","7201 W Grandridge Blvd","99336",46.216348113832446,-119.21920014595707
+"99301","Pasco","WA","Trios Health","900 S Auburn St","99336",46.1994409358336,-119.11892806485368
+"99301","Pasco","WA","KGH Urgent Care","not_available","99338",46.194876708511195,-119.21643452976669
+"99301","Pasco","WA","Tri-Cities Cancer Center","7350 West Deschutes Avenue building a","99336",46.213237,-119.220728
+"99301","Pasco","WA","KGH Urgent Care West","7201 W Grandridge Blvd Ste 100","99336",46.21641737377355,-119.21928939778981
+"99301","Pasco","WA","Kadlec Urgent Care - West Kennewick","9040 W Clearwater Ave","99336",46.207528,-119.243459
+"99301","Pasco","WA","KGH Urgent Care","3000 W Kennewick Ave","99336",46.21,-119.16163
+"99301","Pasco","WA","Marshall Keith Brown, DO","5304 Road 68","99301",46.27493836515259,-119.18586434416292
+"99301","Pasco","WA","BioLife Plasma Services","7430 Wrigley Dr","99301",46.2746824,-119.1866563
+"99301","Pasco","WA","Our Lady Of Lourdes","not_available","99301",46.234997,-119.093895
+"99301","Pasco","WA","Kadlec Express Care at Walgreens - Pasco","5506 Road 68","99301",46.2772345,-119.1870446
+"99301","Pasco","WA","Dermatology Solutions","8503 W Clearwater Ave Ste B","99336",46.2088189,-119.2359684
+"99301","Pasco","WA","KGH Diabetes & Nutrition Education","203 W 8th Ave","99336",46.199554443359375,-119.1205825805664
+"99324","College Place","WA","Providence ExpressCare - College Place","1705 SE Meadowbrook Blvd Ste 2","99324",46.03414185201549,-118.38085582163177
+"99324","College Place","WA","ER","not_available","99362",46.029022216796875,-118.3819580078125
+"99328","Dayton","WA","Dayton General Hospital","not_available","99328",46.312115999999996,-117.97013799999999
+"99336","Kennewick","WA","5th Ave Urgent Care","507 N 5th Ave","99301",46.23442077636719,-119.09595489501953
+"99337","Kennewick","WA","Trios Health Southridge Hospital","3810 Plaza Way","99338",46.17764663696289,-119.19243621826172
+"99337","Kennewick","WA","Kadlec Express Care Canyon Lakes - Kennewick","4008 W 27th Ave","99337",46.18516296355029,-119.17533883374688
+"99337","Kennewick","WA","Desert Sky Women's Health Care","4309 W 27th Pl Suite 300","99338",46.1853706,-119.1799056
+"99344","Othello","WA","Othello Community Hospital","315 N 14th Ave","99344",46.8297573,-119.1551479
+"99346","Plymouth","WA","Providence Express Care At Home - House Call Doctors - Rolling Hills","82911 Beach Access Rd","97882",45.9255431,-119.2657949
+"99347","Pomeroy","WA","Garfield County Memorial Hospital","66 N 6th St","99347",46.47547149658203,-117.6028823852539
+"99350","Prosser","WA","Urgent Care","1010-1098 County 1240 Rd","97838",45.849965419213206,-119.30971062665424
+"99361","Waitsburg","WA","Providence Express Care - Eastgate","508 N Wilbur Ave","99362",46.077432254514946,-118.3029930343933
+"99362","Walla Walla","WA","M-Powered","1361 Dalles Military Rd","99362",46.048475,-118.35108799999999
+"99362","Walla Walla","WA","Milton Freewater Emergency Medical Services","84629 Eastside Road","97862",45.964412689208984,-118.37654113769531
+"99362","Walla Walla","WA","Providence Express Care At Home - House Call Doctors - Downtown Seattle","380 Chase Ave","99362",46.0606,-118.34155
+"99362","Walla Walla","WA","Walla Walla Eye Center","299 W Tietan St","99362",46.0488845,-118.3392986
+"99362","Walla Walla","WA","Walla Walla General Hospital","1025 S 2nd Ave","99362",46.05521093597598,-118.32989826298085
+"99362","Walla Walla","WA","ER","not_available","97862",45.94357681274414,-118.39385223388672
+"99362","Walla Walla","WA","Providence St. Mary Medical Center - Walla Walla","401 W Poplar St","99362",46.06208801269531,-118.34255981445312
+"99403","Clarkston","WA","Tri-State Memorial Hospital","1221 Highland Ave","99403",46.403221177615805,-117.05478534538742
+"99403","Clarkston","WA","Prestige Care & Rehabilitation - Clarkston","1242 11th St","99403",46.40576701,-117.05270773
+"99403","Clarkston","WA","Tri-state","not_available","99403",46.402862548828125,-117.052978515625

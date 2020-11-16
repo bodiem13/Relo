@@ -1,0 +1,584 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"73003","Edmond","OK","Walmart Supercenter","2200 W Danforth Rd","73003",35.66575296914064,-97.51240395157164
+"73003","Edmond","OK","Sprouts Farmers Market","24 E 2nd St","73034",35.6525484,-97.4804107
+"73003","Edmond","OK","Uptown Grocery Co.","1230 W Covell Rd","73003",35.68143054127906,-97.50047283284468
+"73003","Edmond","OK","ALDI","1001 W Edmond Rd","73003",35.653676276150414,-97.4976298213005
+"73003","Edmond","OK","Buy Graviola","3180 NW 208th St","73012",35.6528323,-97.47809540000002
+"73005","Anadarko","OK","Walmart Supercenter","1201 W Petree Rd","73005",35.05962217124375,-98.26262827658218
+"73005","Anadarko","OK","Braum's Ice Cream & Burger Restaurant","702 W Petree Rd","73005",35.05728835,-98.25330937
+"73005","Anadarko","OK","Sam's Club","not_available","not_available",35.055043,-98.261146
+"73006","Apache","OK","Super C Market","S Coblake","73006",34.887340977041774,-98.36530117416814
+"73008","Bethany","OK","Walmart Neighborhood Market","6437 N. Macarthur Blvd","73132",35.53788051506037,-97.6207130132454
+"73008","Bethany","OK","ALDI","6010 NW 23rd St","73127",35.4924858794347,-97.62274311622605
+"73008","Bethany","OK","Wonder Bread Outlet","not_available","73127",35.500156257118036,-97.6193936320155
+"73008","Bethany","OK","Buy 4 Less","3701 N MacArthur Blvd","73122",35.50823094636609,-97.62008734593384
+"73010","Blanchard","OK","Spencers Grocery","NE 10th St","73010",35.14650488755118,-97.65251659142908
+"73012","Edmond","OK","Walmart Neighborhood Market","1101 Nw 164th St","73013",35.639448382134084,-97.53251923873906
+"73012","Edmond","OK","Cherry Hill Meat Market","2125 NW 178th St","73012",35.6535721,-97.550921
+"73012","Edmond","OK","A-1 Discount Vitamins","3180 NW 206","73003",35.68518697509636,-97.57453680038452
+"73013","Edmond","OK","Crest Foods","2200 W 15th St","73013",35.63697261242142,-97.51275126944874
+"73013","Edmond","OK","Walmart Supercenter","2000 W Memorial Rd","73134",35.6048702,-97.54672766
+"73013","Edmond","OK","Sprouts Farmers Market","12200 N MacArthur Blvd, Ste C","73162",35.59317167348947,-97.61939406394958
+"73013","Edmond","OK","Crest Foods","11120 N Rockwell Ave","73162",35.582797498870285,-97.637707937221
+"73013","Edmond","OK","Walmart Grocery Pickup and Delivery","1225 W I-35 Frontage","73034",35.63996505737305,-97.42870330810547
+"73013","Edmond","OK","Homeland","7001 NW 122nd St","73142",35.595388731020385,-97.63766549785623
+"73013","Edmond","OK","Natural Grocers","3325 S Boulevard Ste 169","73013",35.622642395803545,-97.47894031739669
+"73013","Edmond","OK","Natural Grocers","16425 N Western Ave","73013",35.63810069769476,-97.53236364196815
+"73013","Edmond","OK","ALDI","13301 N Pennsylvania Ave","73120",35.60525142291899,-97.55049145767214
+"73013","Edmond","OK","Buy For Less","Penn &Hefner","73114",35.59304773006717,-97.55052270128552
+"73013","Edmond","OK","Hyvee west","Ok","73114",35.583492,-97.508271
+"73013","Edmond","OK","Cash Saver","E 33rd St","73013",35.623473,-97.485968
+"73013","Edmond","OK","SABRI FOODS","550 E Memorial Rd","73114",35.608595,-97.502749
+"73013","Edmond","OK","Akin's Natural Foods","2370 W. Memorial Rd","73116",35.60714063308423,-97.55502431535619
+"73015","Carnegie","OK","Super C Market","Carnegie","73015",35.106316023869184,-98.6012249134132
+"73018","Chickasha","OK","Walmart Supercenter","2001 S 1st St","73018",35.03103239369479,-97.93135503760132
+"73018","Chickasha","OK","Save A Lot","1840 S 4th St","73018",35.0313098,-97.9366355
+"73018","Chickasha","OK","ALDI","2318 S 4th St","73018",35.02654777265311,-97.93660852457378
+"73018","Chickasha","OK","Dunn's","208 S 5th St","73018",35.04941177368164,-97.93856048583984
+"73018","Chickasha","OK","Homeland","759 W Grand Ave","73018",35.0289560030631,-97.94248482348986
+"73019","Norman","OK","Xcetera!","1400 Asp Ave","73072",35.20151292368269,-97.44512620282862
+"73020","Choctaw","OK","Walmart Supercenter","14185 Mack Harrington Drive","73020",35.495793980062565,-97.27941558072929
+"73020","Choctaw","OK","Choctaw Express Mart","15050 SE 29th St","73020",35.43478,-97.26464
+"73020","Choctaw","OK","Williams Discount Foods","14407 Northeast 23rd Street","73020",35.49446487426758,-97.274658203125
+"73020","Choctaw","OK","Braum's Ice Cream & Burger Restaurant","14205 NE 23rd St","73020",35.49355438,-97.27965388
+"73026","Norman","OK","Country Boy Market","18450 E State Highway 9","73026",35.2312918250823,-97.171471478957
+"73030","Davis","OK","Sooner Foods","705 E Main St","73030",34.50688552856445,-97.1146240234375
+"73034","Edmond","OK","Homeland","1151 N Bryant Ave","73034",35.666393554542694,-97.46152191726323
+"73034","Edmond","OK","Walmart Grocery Pickup","1301 E 2nd St","73034",35.654052734375,-97.46345520019531
+"73036","El Reno","OK","Walmart Supercenter","2400 S Country Club Rd","73036",35.51130785,-97.97496638
+"73036","El Reno","OK","Save-A-Lot","400 Sunset Dr","73036",35.53266339758018,-97.95783638085257
+"73040","Geary","OK","Hydro Food Mart","103 W. Main St.","73048",35.549560546875,-98.57727813720703
+"73044","Guthrie","OK","Walmart Supercenter","1608 S Division St","73044",35.86264319591383,-97.42279667874104
+"73044","Guthrie","OK","Cash Saver","S Wentz St","73044",35.879193,-97.423842
+"73045","Harrah","OK","Country Boy","20941 SE 29th St","73045",35.43542779237703,-97.16069502784968
+"73045","Harrah","OK","Braum's Ice Cream & Dairy Stores","3100 S Harrah Rd","73045",35.434296167187505,-97.15886062136283
+"73048","Hydro","OK","Walmart Supercenter","1349 E Eagle Rd","73096",35.523975980667224,-98.69064117135018
+"73048","Hydro","OK","Save A Lot","310 N Washington St Ste 1227","73096",35.5285014,-98.6927577
+"73048","Hydro","OK","Save A Lot","310 N Washington St","73096",35.5285014,-98.6927577
+"73048","Hydro","OK","Save-A-Lot","310 N Washington Ave Ste 1227","73096",35.5280075073242,-98.692756652832
+"73051","Lexington","OK","Walmart Supercenter","2015 S Green Ave","73080",34.98745312260372,-97.36946375158371
+"73051","Lexington","OK","United Supermarkets","1601 North Green Street","73080",35.0304650698991,-97.36549166478494
+"73052","Lindsay","OK","Walmart","401 Linwood Plz","73052",34.83503341674805,-97.59748840332031
+"73055","Marlow","OK","Walmart Supercenter","3393 N 81 Hwy","73533",34.527488468402815,-97.9700913467541
+"73055","Marlow","OK","Dorian's Stand","4970 highway 81","73055",34.71798241138458,-97.95836493372917
+"73055","Marlow","OK","Walmart Grocery Pickup and Delivery","3393 N Highway 81","73533",34.54418182373047,-97.96705627441406
+"73055","Marlow","OK","Marlow Food Market","not_available","73055",34.641231536865234,-97.9574203491211
+"73055","Marlow","OK","Braum's Ice Cream & Burger Restaurant","1850 US-81","73533",34.52726732,-97.9663745
+"73064","Mustang","OK","Walmart Supercenter","951 E State Highway 152","73064",35.39341728351445,-97.70525474033074
+"73064","Mustang","OK","Cash Saver","115 E State Highway 152","73064",35.393680572509766,-97.72389221191406
+"73064","Mustang","OK","Braum's Ice Cream & Burger Restaurant","333 N Mustang Rd","73064",35.394395,-97.72511
+"73065","Newcastle","OK","Walmart Supercenter","3300 Tri City Dr","73065",35.29365748368738,-97.60633150941237
+"73065","Newcastle","OK","Walmart Neighborhood Market","2900 Sw 134th Street","73170",35.33321808537454,-97.56620340644467
+"73065","Newcastle","OK","Braum's Ice Cream & Burger Restaurant","2800 SW 134th St","73170",35.3338969,-97.5625028
+"73065","Newcastle","OK","Vape It Newcastle / Tri-City","910 NW 32nd Street","73065",35.2900657,-97.6104989
+"73068","Noble","OK","Walmart Supercenter","3651 Classen Boulevard","73071",35.17411515325438,-97.40885141954821
+"73068","Noble","OK","Walmart Neighborhood Market","2551 Classen Blvd","73071",35.19337636638198,-97.42242102637026
+"73068","Noble","OK","Super C Mart","609 N Main St","73068",35.147708892822266,-97.39454650878906
+"73069","Norman","OK","Walmart Supercenter","333 N Interstate Dr","73069",35.22140823884863,-97.48139558326253
+"73069","Norman","OK","Crest Foods","2550 Mount Williams Dr","73069",35.23770415853248,-97.47937353894748
+"73069","Norman","OK","Sprouts Farmers Market","559 W Main St","73069",35.21896921071889,-97.45100498199463
+"73069","Norman","OK","Homeland","2600 W Robinson St","73069",35.2322296214955,-97.48132228895804
+"73069","Norman","OK","Homeland","1724 W Lindsey St","73069",35.202771123187,-97.46645767554462
+"73069","Norman","OK","Braum's","1200 N Interstate Dr","73072",35.23393093525545,-97.4865724899847
+"73069","Norman","OK","Natural Grocers","1918 W Main St","73069",35.218214084762295,-97.47003406857755
+"73069","Norman","OK","IGA","not_available","73069",35.23818612098694,-97.44844615459442
+"73069","Norman","OK","Wright's Family Market","not_available","73071",35.2352380131796,-97.44146210913013
+"73069","Norman","OK","Abarrotes La Amistad","604 N Porter Ave","73071",35.22686004638672,-97.44142150878906
+"73069","Norman","OK","Forward Foods","123 E Main St","73069",35.221522,-97.442774
+"73069","Norman","OK","ALDI","2440 W Main St","73069",35.2174880798384,-97.47873208145393
+"73069","Norman","OK","Sooner Food Mart","504 Stinson St","73072",35.201208769169355,-97.4364797043074
+"73071","Norman","OK","Walmart Supercenter","601 12th Ave Ne","73071",35.22671018981661,-97.42065429691748
+"73071","Norman","OK","Homeland","1251 Alameda St","73071",35.21909883199266,-97.42133403576544
+"73071","Norman","OK","Valu Foods","Lindsey","not_available",35.204801,-97.421761
+"73071","Norman","OK","Smart Saver","1205 E Lindsey St","73071",35.2044792175293,-97.42251586914062
+"73072","Norman","OK","Walmart Neighborhood Market","3571 W. Rock Creek Road","73069",35.24811748235533,-97.49327540653238
+"73072","Norman","OK","Wrights","not_available","73072",35.21952975796743,-97.49531386239923
+"73072","Norman","OK","Dodson's Health Foods","1305 36th Ave NW","73072",35.23450304913248,-97.4940201366044
+"73075","Pauls Valley","OK","Walmart Supercenter","2008 W Grant Ave","73075",34.736710018973376,-97.24883633477204
+"73075","Pauls Valley","OK","Homeland","505 S Chickasaw St","73075",34.73753441531671,-97.21680110851766
+"73077","Perry","OK","Braum's Ice Cream & Burger Restaurant","2612 W Fir St","73077",36.289058685302734,-97.3216781616211
+"73077","Perry","OK","Homeland","702 Fir St","73077",36.28955018624228,-97.28891012421167
+"73078","Piedmont","OK","Williams Grocery","not_available","73078",35.6173709369636,-97.74537041777927
+"73084","Spencer","OK","Walmart Supercenter","9011 Ne 23rd St","73141",35.495248599312205,-97.36945319891
+"73086","Sulphur","OK","Walmart Supercenter","2705 W Broadway Ave","73086",34.50409903894069,-97.0041967582844
+"73089","Tuttle","OK","Williams Discount Foods","302 E Main St","73089",35.29060703382991,-97.80823761347824
+"73098","Wynnewood","OK","David's Food Center","1300 E Robert S Kerr Blvd","73098",34.64576721191406,-97.15498352050781
+"73099","Yukon","OK","Homeland","2400 Cornwell Dr","73099",35.47961842336357,-97.74459845231355
+"73099","Yukon","OK","Walmart Supercenter","1200 Garth Brooks Blvd","73099",35.490437750570294,-97.76342392279106
+"73099","Yukon","OK","Walmart Neighborhood Market","1001 E Main Street","73099",35.50884577400643,-97.72569228514534
+"73099","Yukon","OK","Sprouts Farmers Market","1105 Garth Brooks Boulevard","73099",35.49168666110748,-97.75840222835535
+"73099","Yukon","OK","ALDI","935 N Cemetery Rd","73099",35.47821333669231,-97.76090607047075
+"73099","Yukon","OK","Big Lots","1630 Garth Brooks Blvd","73099",35.48246889613046,-97.76390186934475
+"73099","Yukon","OK","Buy For Less","1201 Cornwell Dr","73099",35.49407760305945,-97.74124303182701
+"73099","Yukon","OK","Braum's Ice Cream & Burger Restaurant","1304 Garth Brooks Blvd","73099",35.48897385,-97.76124352
+"73099","Yukon","OK","Homeland","11241 W Reno Ave","73099",35.46494294355413,-97.72316139979223
+"73102","Oklahoma City","OK","Nutritional Food Center","1024 N Classen Blvd","73106",35.478473,-97.528403
+"73103","Oklahoma City","OK","Homeland Stores","not_available","73106",35.488201,-97.526346
+"73103","Oklahoma City","OK","Little Market","not_available","73103",35.499873,-97.522897
+"73104","Oklahoma City","OK","Native Roots Market","131 NE 2nd St","73104",35.46973133952174,-97.50916229331936
+"73104","Oklahoma City","OK","Neighbors Coffee","11 NE 11th St","73104",35.4807683,-97.5116106
+"73105","Oklahoma City","OK","Restaurant Depot","300 NE 36th St","73105",35.506370046989396,-97.5078692935577
+"73106","Oklahoma City","OK","Homeland","1108 NW 18th St","73106",35.48759592196305,-97.53042276333072
+"73106","Oklahoma City","OK","Super Cao Nguyen","2668 N Military Ave","73106",35.49569638776574,-97.53122717857579
+"73107","Oklahoma City","OK","Walmart Neighborhood Market","2217 Nw 23rd St","73107",35.49430598789321,-97.55056307291572
+"73107","Oklahoma City","OK","Crest Foods","4503 NW 23rd St","73127",35.49480002226205,-97.60168303247491
+"73107","Oklahoma City","OK","Whittaker's","2941 NW 10th St","73107",35.479228000000006,-97.566917
+"73107","Oklahoma City","OK","Eley's Foods","3106 N May Ave","73112",35.501044251037136,-97.56537019154597
+"73107","Oklahoma City","OK","El Mariachi Super Mercado","3020 NW 16th St","73107",35.48545417471847,-97.56928051048557
+"73107","Oklahoma City","OK","Latinos Supermarket","not_available","73107",35.479403999999995,-97.595824
+"73108","Oklahoma City","OK","Supermercado Buy For Less","2701 SW 29th St","73119",35.4362678527832,-97.5620346069336
+"73108","Oklahoma City","OK","Food Pantry","2211 S Kentucky Pl","73108",35.444181,-97.541252
+"73108","Oklahoma City","OK","Carniceria El Rodeo #3","2601 S Kentucky Ave","73108",35.439113,-97.543763
+"73109","Oklahoma City","OK","Walmart Neighborhood Market","4420 S Western Ave","73109",35.42143871279251,-97.52825893668228
+"73109","Oklahoma City","OK","SUPER MERCADO BUY FOR LE$$","3713 S Western Ave","73109",35.427059,-97.531628
+"73109","Oklahoma City","OK","Supermercados MORELOS","1 SE 59th St","73129",35.40689972035728,-97.5114780664444
+"73109","Oklahoma City","OK","Carniceria La Hacienda","800 SW 29th St","73109",35.434915999999994,-97.528911
+"73109","Oklahoma City","OK","Buy For Less","not_available","73109",35.407643,-97.520053
+"73109","Oklahoma City","OK","El Mariachi Supermercado","415 SW 59th St","73109",35.407230377197266,-97.52061462402344
+"73110","Oklahoma City","OK","WinCo Foods","7601 E Reno Ave","73110",35.4653782664757,-97.39134655732786
+"73110","Oklahoma City","OK","Walmart Neighborhood Market","7520 E Reno Ave","73110",35.462855544485805,-97.38959442694284
+"73110","Oklahoma City","OK","Crest Foods","7212 E Reno Ave","73110",35.46378051461028,-97.4024941459124
+"73110","Oklahoma City","OK","Crest Foods","249 N Douglas Blvd","73130",35.466578515880705,-97.37208663775246
+"73110","Oklahoma City","OK","ALDI","601 S Air Depot Blvd","73110",35.4598364,-97.4068999
+"73110","Oklahoma City","OK","Tinker AFB Commissary","3250 S Air Depot Blvd, Bldg 690","73145",35.43254484448221,-97.40387069602333
+"73110","Oklahoma City","OK","Tinker Air Force Base Comissary","not_available","73110",35.4326480580542,-97.4047610182852
+"73111","Oklahoma City","OK","Save-A-Lot","1124 NE 36th St","73111",35.506538,-97.491439
+"73112","Oklahoma City","OK","Buy for Less","3501 NW Expressway","73112",35.53367894419364,-97.58132410703297
+"73112","Oklahoma City","OK","Spices Of India","3810 NW 39th St","73112",35.51031,-97.585613
+"73112","Oklahoma City","OK","European Store Oklahoma","3604 N May Ave Ste B","73112",35.506909,-97.565279
+"73112","Oklahoma City","OK","WinCo Foods","3535 NW 39th St","73112",35.512465527682146,-97.57981538772583
+"73112","Oklahoma City","OK","ALDI","4805 N May Ave","73112",35.52002,-97.56648
+"73112","Oklahoma City","OK","Halal Mart","not_available","73112",35.522012,-97.58505799999999
+"73112","Oklahoma City","OK","Akin's Natural Foods","N.W. 63rd & N. May","73116",35.535870094969304,-97.56669557060971
+"73112","Oklahoma City","OK","Bismillah Groceries and Halal Meat","3700 N Portland Ave","73112",35.50818634033203,-97.58303833007812
+"73112","Oklahoma City","OK","Spices of India","3647 NW 39th St","73112",35.512828000000006,-97.581979
+"73112","Oklahoma City","OK","Super Save Food Outlet","2016 NW 39th St","73118",35.510596,-97.546246
+"73115","Oklahoma City","OK","Walmart Supercenter","5401 Tinker Diagonal St","73115",35.448907994055666,-97.42587525339334
+"73115","Oklahoma City","OK","Homeland","108 S. Division","74859",35.43672539106776,-97.44279742240906
+"73115","Oklahoma City","OK","cash saver","not_available","73115",35.436419,-97.442801
+"73115","Oklahoma City","OK","Braum's Ice Cream & Burger Restaurant","4300 SE 43rd St","73115",35.421743,-97.440849
+"73115","Oklahoma City","OK","Save-A-Lot","4309 SE 15th","73115",35.4497451782227,-97.4409713745117
+"73115","Oklahoma City","OK","Wonder/Hostess Bakery","4309 Sunnylane Rd","not_available",35.450008392333984,-97.44094848632812
+"73116","Oklahoma City","OK","Whole Foods Market","4059 Finn Way","40517",35.5340018867123,-97.53052150992706
+"73116","Oklahoma City","OK","Trader Joe's","6409 Avondale Dr","73116",35.53771405394721,-97.53111081426509
+"73116","Oklahoma City","OK","Sprouts Farmers Market","6410 N May Ave","73116",35.53747993872223,-97.56465822458273
+"73116","Oklahoma City","OK","Whole Foods Market","6001 North Western Ave","73118",35.53412956450174,-97.53069877624512
+"73116","Oklahoma City","OK","Natural Grocers","7013 N May Ave","73116",35.542389,-97.566109
+"73118","Oklahoma City","OK","Walmart Supercenter","1801 Belle Isle Blvd","73118",35.52599744312014,-97.53977581450411
+"73119","Oklahoma City","OK","Walmart Neighborhood Market","1500 Sw 59th St","73119",35.405600320357976,-97.54561226047457
+"73119","Oklahoma City","OK","ALDI","2150 SW 59th St","73119",35.4058043,-97.5506089
+"73119","Oklahoma City","OK","Save-A-Lot","1645 SW 47th St","73119",35.418415,-97.547083
+"73120","Oklahoma City","OK","Walmart Neighborhood Market","9320 N Pennsylvania Pl","73120",35.565137242451065,-97.54791149044428
+"73120","Oklahoma City","OK","Homeland","9225 N May Ave","73120",35.563769201847286,-97.568343311039
+"73127","Oklahoma City","OK","Walmart Supercenter","6100 W Reno Ave","73127",35.463050387608725,-97.62230621744185
+"73129","Oklahoma City","OK","Smart Saver","1104 SE 44th St","73129",35.41865921020508,-97.4932861328125
+"73129","Oklahoma City","OK","Braum’s Ice Cream & Burger Restaurant","7300 S Shields Blvd","73149",35.393495,-97.506795
+"73129","Oklahoma City","OK","Walmart Grocery Pickup and Delivery","100 East I-240 Service Rd","73149",35.3916621265339,-97.5114338489244
+"73130","Oklahoma City","OK","BUY FOR LE$$","10011 SE 15th St","73130",35.4503689423236,-97.35219079907345
+"73132","Oklahoma City","OK","Walmart Supercenter","7800 N.w. Expressway","73132",35.5626975501261,-97.65349968637358
+"73132","Oklahoma City","OK","ALDI","6965 NW Expressway","73132",35.55907429454987,-97.63705980489351
+"73132","Oklahoma City","OK","Walmart Grocery Pickup","7800 N.W. Expressway","73132",35.564126,-97.653527
+"73132","Oklahoma City","OK","Buy For Less","7800 NW Expressway","73132",35.56272888183594,-97.65373229980469
+"73132","Oklahoma City","OK","crest","not_available","73162",35.56652778736814,-97.65898872018043
+"73135","Oklahoma City","OK","Walmart Neighborhood Market","4900 S. Sooner Rd","73135",35.41629185,-97.42356623
+"73135","Oklahoma City","OK","Sunny foods","not_available","73135",35.40714977340306,-97.44465596797575
+"73139","Oklahoma City","OK","Walmart Neighborhood Market","911 Sw 104th St","73139",35.36437409677792,-97.5311017943986
+"73139","Oklahoma City","OK","US Foods CHEF'STORE","515 W I 240 Service Rd","73139",35.392165880902866,-97.52268101761481
+"73159","Oklahoma City","OK","Walmart Supercenter","3301 Sw 104th Street","73159",35.36548054254109,-97.57721148397141
+"73159","Oklahoma City","OK","Natural Grocers","2120 SW 89th St","73159",35.376630869968054,-97.54924141529231
+"73159","Oklahoma City","OK","Saigon Taipei Market","1648 SW 89th St","73159",35.375984427137425,-97.54743981878518
+"73159","Oklahoma City","OK","Vape It South OKC","7515 S Pennsylvania Ave","73159",35.390246000000005,-97.548325
+"73159","Oklahoma City","OK","Crest Grocery Store","not_available","73159",35.38166132589421,-97.5626346760605
+"73160","Oklahoma City","OK","Walmart Neighborhood Market","640 Se 4th St","73160",35.33337404416326,-97.47799318589381
+"73160","Oklahoma City","OK","WinCo Foods","755 SW 19th St","73160",35.32130704217348,-97.5014488713472
+"73160","Oklahoma City","OK","Walmart Supercenter","501 Sw 19th St","73160",35.32182338,-97.49341683
+"73160","Oklahoma City","OK","Walmart Neighborhood Market","13503 S. Santa Fe Avenue","73170",35.33320920430136,-97.5132351350675
+"73160","Oklahoma City","OK","Crest Foods","1315 N Eastern Ave","73160",35.349809037284125,-97.4781007153833
+"73160","Oklahoma City","OK","Aldi","601 SW 19th St","73160",35.32030413809264,-97.49610096216202
+"73160","Oklahoma City","OK","Moore Food Mart","1247-1299 N Broadway St","73160",35.34848029,-97.49078495
+"73160","Oklahoma City","OK","Korean Food Market","1224 N Eastern Ave","73160",35.347145080566406,-97.47560119628906
+"73160","Oklahoma City","OK","Morelo's Supermercados","621 N Moore Ave","73160",35.344932556152344,-97.49556732177734
+"73160","Oklahoma City","OK","Oklahoma Gourmet Popcorn","1021 SW 19th St","73160",35.31989,-97.50683
+"73160","Oklahoma City","OK","Crest Foods","not_available","73160",35.319082159100354,-97.50327587127686
+"73162","Oklahoma City","OK","Walmart Neighborhood Market","11101 N Rockwell Ave","73162",35.58243041543264,-97.63975409150774
+"73170","Oklahoma City","OK","Sprouts Farmers Market","12100 S Pennsylvania Ave","73170",35.3471,-97.5464286
+"73170","Oklahoma City","OK","Crest Foods","10601 S May Ave","73170",35.36206179555359,-97.56792533792965
+"73170","Oklahoma City","OK","World Fresh International Market","10700 S Pennsylvania Ave","73170",35.36118698120117,-97.54584503173828
+"73170","Oklahoma City","OK","GFF Foods","1219 N Santa Fe Ave","73160",35.34804078346169,-97.51341505654415
+"73401","Ardmore","OK","Walmart Supercenter","1715 N Commerce St","73401",34.19348074604497,-97.14488315016726
+"73401","Ardmore","OK","Homeland","205 N Commerce St","73401",34.17912595259476,-97.14432066940849
+"73401","Ardmore","OK","Farmers Market","16638 U.S. Hwy 70","73443",34.17331971962615,-97.2579396393808
+"73401","Ardmore","OK","Save-A-Lot","320 N Commerce St","73401",34.177932,-97.142066
+"73401","Ardmore","OK","Veggies","not_available","73401",34.187658715519895,-97.14641003060677
+"73401","Ardmore","OK","ALDI","510 N Commerce St","73401",34.18098738734578,-97.14220750821823
+"73446","Madill","OK","Walmart Supercenter","1100 S 1st St","73446",34.07005137867008,-96.76520413676059
+"73448","Marietta","OK","Homeland","201 Ce Colston Dr","73448",33.94170959469661,-97.1327902919701
+"73459","Thackerville","OK","Shorty's Grocery","Thackerville, OK 73459","73459",33.795081173020264,-97.1435597443821
+"73460","Tishomingo","OK","Sooners Grocery","not_available","73460",34.23198736942052,-96.67364008654759
+"73501","Lawton","OK","Walmart Supercenter","6301 Nw Quannah Parker Trl","73505",34.63254329438669,-98.47171704935307
+"73501","Lawton","OK","Walmart Neighborhood Market","3745 Sw Lee Blvd","73505",34.595502550661685,-98.43864627354637
+"73501","Lawton","OK","Walmart Supercenter","1002 Nw Sheridan Rd","73505",34.61855247588837,-98.42411702547562
+"73501","Lawton","OK","Country Mart","6734 NW Cache Rd","73505",34.622140788221124,-98.47635080433018
+"73501","Lawton","OK","Asian Market","2415 NW Sheridan Rd","73505",34.633249,-98.42171
+"73501","Lawton","OK","Discount Foods","1311 SW Lee Blvd","73501",34.595103,-98.408344
+"73501","Lawton","OK","El Rodeo Meat Market","612 SW Lee Blvd","73501",34.59398651123047,-98.39794158935547
+"73501","Lawton","OK","ALDI","935 NW Sheridan Rd","73505",34.619395727058524,-98.42090785503387
+"73501","Lawton","OK","Health Food Center","not_available","73507",34.6094529370213,-98.42345838288183
+"73501","Lawton","OK","The Cajun Peddler","1305 W Gore Blvd Ste A","73501",34.609130859375,-98.40828704833984
+"73501","Lawton","OK","Juana's Grocery Store","1314 W Gore Blvd Ste 3","73501",34.60825729370117,-98.40885162353516
+"73501","Lawton","OK","Global Food Market","1907 NW Sheridan Rd","73505",34.628412,-98.421515
+"73501","Lawton","OK","Country Mart","902 W Gore Blvd","73501",34.60812937098193,-98.40198151467105
+"73501","Lawton","OK","Whole Foods of Lawton","2357 W Gore Blvd","73505",34.609066009521484,-98.42505645751953
+"73501","Lawton","OK","Commisary","not_available","73503",34.641074308883184,-98.42087206191341
+"73501","Lawton","OK","Country Mart","Lee Blvd","73501",34.59536678769668,-98.334008215423
+"73501","Lawton","OK","GreenAcres Market, Lawton","14 NW Sheridan Rd","73505",34.6105645,-98.42338649999999
+"73501","Lawton","OK","Primetime Nutrition","not_available","73505",34.59503833895783,-98.42269800595433
+"73503","Fort Sill","OK","Fort Sill PX","Bldg. 1718","73503",34.672534494637084,-98.40829712142566
+"73503","Fort Sill","OK","Fort Sill Commissary","1719 Macomb Rd","73503",34.672030035648596,-98.40582181896308
+"73507","Lawton","OK","Williams Foods","8287 Us Highway 277","73538",34.785017393649035,-98.29150454061252
+"73521","Altus","OK","Altus AFB Commissary","205 S 1st St","73523",34.65340438902574,-99.28902289825015
+"73521","Altus","OK","Walmart Supercenter","2500 N Main St","73521",34.66405933842184,-99.33184317082753
+"73521","Altus","OK","Save-A-Lot","1128 N Main St","73521",34.64955139160156,-99.33342742919922
+"73529","Comanche","OK","Delbert's Supermarket","Clark Ave","73529",34.373470573193224,-97.96561594991329
+"73531","Devol","OK","United Supermarkets","311 S Avenue D","76354",34.09020306557414,-98.57090234756464
+"73533","Duncan","OK","Homeland","Beach","73533",34.51637139,-97.96729743
+"73533","Duncan","OK","Goodners","109 E Main St","73533",34.50137009,-97.94461597
+"73533","Duncan","OK","Homeland","1401 W Beech Ave","73533",34.50735973675822,-97.96587537213104
+"73542","Frederick","OK","Buys","not_available","73542",34.39798606181121,-99.02109766122214
+"73547","Granite","OK","United Supermarkets","1000 N Louis Tittle Ave","73554",34.884128266666664,-99.50213858333333
+"73559","Mountain Park","OK","Toma Brothers Grocery","618 E St","73566",34.65926,-98.95149
+"73572","Walters","OK","walters hometown grocery","Hwy 5","73572",34.348455319045115,-98.31466938964374
+"73573","Waurika","OK","Shelton Grocery","218 S Main St","73573",34.164303,-97.99901
+"73601","Clinton","OK","United Supermarket","1029 S 10th St","73601",35.50376510620117,-98.971435546875
+"73601","Clinton","OK","Homeland","1212 W Gary Blvd","73601",35.51510943850887,-98.97514701842262
+"73601","Clinton","OK","Bountiful Baskets","not_available","73601",35.508632,-98.983236
+"73628","Cheyenne","OK","Market Square Thriftway","300 South LL Males","73628",35.6013983306977,-99.67226028442383
+"73644","Elk City","OK","United Supermarket","2700 W 3rd St","73644",35.410888,-99.43585
+"73644","Elk City","OK","Homeland","412 W 3rd St","73644",35.411402274297075,-99.40925536128424
+"73644","Elk City","OK","Walmart Supercenter","210 Regional Dr","73644",35.40925980117812,-99.37666887226331
+"73644","Elk City","OK","Los Primos Mexican Store","not_available","73644",35.390523,-99.405768
+"73651","Hobart","OK","Walmart","923 W 11th St","73651",35.01680056,-99.10391309
+"73662","Sayre","OK","Puckett's","not_available","73662",35.295238050924944,-99.64022893028623
+"73701","Enid","OK","Save-A-Lot","917 E Broadway","73701",36.39632846440959,-97.86423683166504
+"73701","Enid","OK","United Supermarket","1010 W Willow Rd","73703",36.42074266160244,-97.89179195243604
+"73701","Enid","OK","Pearson's Natural Food Center","131 W Owen K Garriott Rd","73701",36.390670529368656,-97.87965658185969
+"73701","Enid","OK","Jumbo Foods","221 S 30th St","73701",36.39563813285494,-97.8353732866807
+"73701","Enid","OK","United Supermarket","500 E Broadway Ave.","73701",36.39638028028168,-97.87123203277588
+"73701","Enid","OK","Save A Lot","917 E Broadway Ave","73701",36.3958865,-97.8644225
+"73701","Enid","OK","Save-A-Lot","1716 S Van Buren","73703",36.379291449836735,-97.89071281477419
+"73703","Enid","OK","Walmart Supercenter","5505 W Owen K Garriott Rd","73703",36.38807424235509,-97.94566476835072
+"73703","Enid","OK","Walmart Neighborhood Market","1018 N. Cleveland Street","73703",36.406601942882375,-97.90934311764725
+"73703","Enid","OK","United Supermarket","4110 W Owen K Garriott Rd","73703",36.39174961556455,-97.92833520466421
+"73703","Enid","OK","Jumbo Foods","2311 W Willow Rd","73703",36.41902953753009,-97.9073988408132
+"73703","Enid","OK","Vance AFB Commissary","216 Fields St Bldg 410","73705-5702",36.342799468303824,-97.90358910569694
+"73703","Enid","OK","ALDI","5001 W Owen K Garriott Rd","73703",36.389910585672176,-97.93962568044668
+"73703","Enid","OK","Frozen Foods United","not_available","73703",36.391911625922276,-97.92815193109985
+"73717","Alva","OK","Alva's Market","706 Flynn St","73717",36.80538074416761,-98.66908480009702
+"73717","Alva","OK","Walmart Supercenter","914 E Oklahoma Blvd","73717",36.799029438785006,-98.64533687115077
+"73717","Alva","OK","Hutch's Country Market","not_available","73860",36.58235057761488,-98.88016351126
+"73728","Cherokee","OK","United Grocery Store","not_available","73728",36.74273295,-98.358729
+"73742","Hennessey","OK","4T's","E Hwy 51","not_available",36.11702086887897,-97.87643039842617
+"73744","Hitchcock","OK","Jim's IGA","205 S Noble Ave","73772",35.84167469538566,-98.41270137414391
+"73750","Kingfisher","OK","Walmart Supercenter","200 Starlite Dr","73750",35.82876603258601,-97.93641947423272
+"73750","Kingfisher","OK","La Favorita Meat Market","205 N Main St","73750",35.86236,-97.93243
+"73750","Kingfisher","OK","United Supermarket","1215 S Main St","73750",35.847715807131856,-97.93169845871434
+"73750","Kingfisher","OK","Braum's Ice Cream & Burger Restaurant","1306 S Main","73750",35.8468086,-97.93311146
+"73759","Medford","OK","Moore's Venture Foods","not_available","73759",36.81003952026367,-97.73391723632812
+"73763","Okeene","OK","Moore's Venture Foods","not_available","73763",36.11615907028828,-98.31706487603758
+"73801","Woodward","OK","Walmart Supercenter","3215 Williams Ave","73801",36.41269338,-99.3839029
+"73801","Woodward","OK","United Supermarket","2110 Oklahoma Ave","73801",36.43490982055664,-99.40644836425781
+"73801","Woodward","OK","United","not_available","73801",36.43337108170933,-99.4457356009764
+"73801","Woodward","OK","United Supermarket","2821 8th Street","73801",36.41804885864258,-99.39081573486328
+"73801","Woodward","OK","Food For A Healthier Life","823 Main St","73801",36.4356575012207,-99.39044189453125
+"73801","Woodward","OK","Braum's Ice Cream & Burger Restaurant","2802 Oklahoma Ave","73801",36.43396557,-99.41683948
+"73939","Goodwell","OK","Texhoma Grocery","not_available","73949",36.50200839110267,-101.7817609835261
+"73942","Guymon","OK","Walmart Supercenter","2600 N Highway 64","73942",36.70530662,-101.4875024
+"73942","Guymon","OK","Papachongo's Restaurant & Market","225 E Highway 54","73942",36.67611312866211,-101.46944427490234
+"73949","Texhoma","OK","Moore's Food Pride (Thriftway)","Hwy 54 E","79084",36.336786495367214,-102.06474781036376
+"74002","Barnsdall","OK","Big Heart Grocery","not_available","74002",36.557479,-96.161151
+"74003","Bartlesville","OK","Foster's Grocery","300 N Ochelata St","74051",36.60101300694844,-95.97965648390397
+"74003","Bartlesville","OK","United Supermarkets","1849 W 4th St","74003",36.749855041503906,-95.99994659423828
+"74003","Bartlesville","OK","Homeland","811 SE Frank Phillips Blvd","74003",36.75041404502651,-95.96697130906547
+"74006","Bartlesville","OK","Food Pyramid","2501 SE Washington Blvd","74006",36.71291011307499,-95.93697074569455
+"74006","Bartlesville","OK","Walmart Supercenter","4000 Se Green Country Rd","74006",36.74065636355747,-95.93210434511623
+"74006","Bartlesville","OK","ALDI","2553 SE Washington Blvd","74006",36.711220128276096,-95.93621134757996
+"74006","Bartlesville","OK","Homeland","915 S Madison Blvd","74006",36.74174900583031,-95.91802825614583
+"74006","Bartlesville","OK","Big Lots","564 SE Washington Blvd","74006",36.74800393319227,-95.93161629368717
+"74006","Bartlesville","OK","Marvin's Food $aver","not_available","74029",36.8074232339859,-95.93614688
+"74008","Bixby","OK","Walmart Supercenter","10938 S Memorial Dr","74133",36.00468023,-95.88896109
+"74008","Bixby","OK","Walmart Supercenter","6310 S Elm Pl","74011",35.99140701830838,-95.80033636695832
+"74008","Bixby","OK","Walmart Neighborhood Market","11020 Elm Street","74037",36.003698,-95.978288
+"74008","Bixby","OK","Reasor's","11116 S Memorial Dr","74008",36.000028135103605,-95.88888890919678
+"74008","Bixby","OK","Docs Country Mart","15028 S Memorial Dr","74008-3706",35.94636404847125,-95.88802028877122
+"74008","Bixby","OK","Akin's Natural Foods","not_available","74008",35.9974255798492,-95.88645547147912
+"74008","Bixby","OK","Akin's Natural Foods","12003 S. Memorial Drive","74008",35.98963582737955,-95.88589427827297
+"74008","Bixby","OK","Shanks Farms Plants and Produce","15968 E 168th St S","74008",35.919709000000005,-95.798236
+"74010","Bristow","OK","Walmart Supercenter","105 W Highway 16","74010",35.84377165747008,-96.39469759660732
+"74011","Broken Arrow","OK","Reasor's","3701 S Elm Pl","74011",36.015350719568445,-95.79629220620878
+"74012","Broken Arrow","OK","Walmart Neighborhood Market","4851 W. Houston St","74012",36.045420696342916,-95.8490797333893
+"74012","Broken Arrow","OK","Reasor's","1100 E Kenosha St","74012",36.06201286315561,-95.77734658281605
+"74012","Broken Arrow","OK","Target","1150 E Hillside Dr","74012",36.066859667681506,-95.77604495145596
+"74012","Broken Arrow","OK","Target","10711 E 71st St","74133",36.062400707957025,-95.85643018255368
+"74012","Broken Arrow","OK","Walmart Neighborhood Market","1770 S Elm Pl","74012",36.03339383238012,-95.79896166811174
+"74012","Broken Arrow","OK","Sprouts Farmers Market","851 E Hillside Dr","74012",36.06700089158646,-95.78127086162567
+"74012","Broken Arrow","OK","Aldi","2400 W Kenosha St","74012",36.06168234391636,-95.82081064581871
+"74012","Broken Arrow","OK","Walmart Neighborhood Market","1300 East Albany Street","74012",36.07631263086021,-95.77616907535158
+"74012","Broken Arrow","OK","Reasor's 71st & Garnett","11214 E 71st St","74133",36.059722900390625,-95.8519515991211
+"74012","Broken Arrow","OK","Asia Bazar","not_available","74133",36.07463606254995,-95.85134140879453
+"74012","Broken Arrow","OK","Walmart Grocery Pickup and Delivery","2301 W Kenosha St","74012",36.05845260620117,-95.81717681884766
+"74012","Broken Arrow","OK","Warehouse Market","1750 S Aspen Ave","74012",36.03415637107568,-95.81648407998229
+"74012","Broken Arrow","OK","Shopperly","1701 South Cypress Avenue","74012",36.0371885,-95.8458311
+"74012","Broken Arrow","OK","Asian Mart","129th St","not_available",36.074534011755,-95.85104771849255
+"74014","Broken Arrow","OK","Walmart Supercenter","3900 E Hillside Dr","74014",36.06679348435197,-95.74190008565985
+"74014","Broken Arrow","OK","Walmart Supercenter","11207 S State Highway 51","74429",36.001627546078986,-95.67750445187781
+"74014","Broken Arrow","OK","Country Mart","13937 S State Highway 51","74429",35.96070068077184,-95.65200896498035
+"74014","Broken Arrow","OK","Zeal For Life","27305 E 7th St","74015",36.1507,-95.67107
+"74015","Catoosa","OK","Walmart Supercenter","19801 Robson Rd","74015",36.165153291976196,-95.75617372351675
+"74015","Catoosa","OK","Reasor's","2500 State Highway 66","74015",36.19044568818444,-95.73698855947917
+"74016","Chelsea","OK","Harps Food Store","300 E. Layton Street / Hwy 66","74016",36.538719177246094,-95.42283630371094
+"74017","Claremore","OK","Walmart Supercenter","1500 S Lynn Riggs Blvd","74017",36.294168997339945,-95.62760342072399
+"74017","Claremore","OK","Reasor's","1000 W Will Rogers Blvd","74017",36.31553609809999,-95.62110947594903
+"74017","Claremore","OK","Warehouse Market","600 N Lynn Riggs Blvd","74017",36.31459492977744,-95.61424990581199
+"74017","Claremore","OK","10Box Cost-Plus","322 N Lynn Riggs Blvd","74017",36.31479263305664,-95.61430358886719
+"74017","Claremore","OK","Braum's Ice Cream & Burger Restaurant","900 N Lynn Riggs Blvd","74017",36.32021157,-95.61061729
+"74017","Claremore","OK","Warehouse Market","not_available","74017",36.307268707945184,-95.58618293859313
+"74020","Cleveland","OK","Walmart Supercenter","772 N Airport Rd","74020",36.29796669,-96.46324002
+"74021","Collinsville","OK","The Dollar store","not_available","74053",36.42042541503906,-95.78182220458984
+"74023","Cushing","OK","Walmart Supercenter","3100 E Main St","74023",35.986974546045346,-96.72170075645093
+"74023","Cushing","OK","Escott's","1834-2016 E Main St","74023",35.986688454147796,-96.73827638430255
+"74023","Cushing","OK","Food Pyramid","2220 E Main St","74023",35.9870491027832,-96.73817443847656
+"74027","Delaware","OK","Warrior Grocery","not_available","74042",36.8300666809082,-95.63804626464844
+"74033","Glenpool","OK","Walmart Supercenter","12200 S Waco Ave","74033",35.98422551889575,-96.01440270320471
+"74035","Hominy","OK","Marvins Grocery","not_available","74035",36.418369,-96.3893
+"74035","Hominy","OK","Marvin's Food Saver","324 N Eastern Ave","74035",36.41809844970703,-96.38909149169922
+"74036","Inola","OK","Harps Food Store","30750 S Highway 88","74036",36.166473388671875,-95.52075958251953
+"74036","Inola","OK","Dollar General 1","not_available","74036",36.16719,-95.528832
+"74037","Jenks","OK","Walmart Supercenter","2019 E 81st St","74137",36.04759069260804,-95.9605188676986
+"74037","Jenks","OK","Reasor's","446 S Elm St","74037",36.01779549055034,-95.97754955291748
+"74037","Jenks","OK","ALDI","8205 S Olympia Ave","74132",36.0449919877171,-96.00366772883604
+"74037","Jenks","OK","Walmart Neighborhood Market","9411 S Delaware Ave","74137",36.02764999582934,-95.94722501222753
+"74037","Jenks","OK","Green Acres Market","not_available","74037",36.021913248975004,-95.96215550077976
+"74037","Jenks","OK","Snax","2448 E 81st St","74137",36.043164969191146,-95.95257985562756
+"74037","Jenks","OK","Aldis","not_available","74132",36.047019,-95.99801
+"74041","Kiefer","OK","Kiefer One Stop","8 S A st","not_available",35.94492701,-96.063333
+"74044","Mannford","OK","Phelps","not_available","74044",36.12545308548148,-96.35757885743035
+"74047","Mounds","OK","Hecterville Grocery","Beeline","74047",35.84663836722722,-96.01521675051686
+"74048","Nowata","OK","homland","not_available","74048",36.7034943352593,-95.62440002259184
+"74048","Nowata","OK","Homeland","813 E Cherokee Ave","74048",36.70068359375,-95.62876892089844
+"74055","Owasso","OK","Walmart Supercenter","12101 E 96th St N","74055",36.29458871310575,-95.8378434448682
+"74055","Owasso","OK","Reasor's","11815 E 86th St N","74055",36.27940355184142,-95.8427954368591
+"74055","Owasso","OK","Walmart Neighborhood Market","12912 E 86th St N","74055",36.276943543352445,-95.82892472773248
+"74055","Owasso","OK","Reasor's","11550 N 135th East Ave","74055",36.319604299033315,-95.82397541379241
+"74055","Owasso","OK","Sprouts Farmers Market","9601 N 133rd East Ave","74055",36.29434845580104,-95.82602620124817
+"74055","Owasso","OK","ALDI","9259 N Owasso Expy","74055",36.288208,-95.8389816
+"74055","Owasso","OK","Walmart Neighborhood Market","11551 N 129th East Ave","74055",36.321313,-95.828829
+"74056","Pawhuska","OK","Pawhuska hometown foods","not_available","74056",36.66339437878716,-96.33664620126747
+"74059","Perkins","OK","Williams Foods","not_available","74059",35.984543,-97.03181
+"74063","Sand Springs","OK","Walmart Supercenter","220 S Highway 97","74063",36.134924,-96.119605
+"74063","Sand Springs","OK","Reasor's","3825 S. Highway 97","74063",36.107540951115425,-96.11554161099451
+"74063","Sand Springs","OK","SuperSave Grocery","not_available","74063",36.095375061035156,-96.12530517578125
+"74063","Sand Springs","OK","ALDI","101 W. Alexander Blvd.","74063",36.13566970825195,-96.1125717163086
+"74063","Sand Springs","OK","Warehouse Market Grocery Store","240 S Highway 97","74063",36.134117852200454,-96.11683319992243
+"74063","Sand Springs","OK","Warehouse Market","250 S Highway 97","74063",36.13391876220703,-96.11602020263672
+"74066","Sapulpa","OK","Walmart Supercenter","1002 W Taft St","74066",35.98677747,-96.13387133
+"74066","Sapulpa","OK","Reasor's","132 W Taft Ave","74066",35.98791325358494,-96.11662535301302
+"74066","Sapulpa","OK","S And S Grocery","6100 s 33rd w ave","not_available",36.07467786747965,-96.02943651847012
+"74066","Sapulpa","OK","Drug Warehouse","not_available","74066",35.974258,-96.113625
+"74070","Skiatook","OK","Walmart Supercenter","700 W Rogers Blvd","74070",36.370467406697905,-96.01120658225506
+"74070","Skiatook","OK","Warehouse Market","N. Peoria","74130",36.244510650634766,-95.97637176513672
+"74074","Stillwater","OK","Walmart Supercenter","111 N Perkins Rd","74075",36.12471539139615,-97.04862778035404
+"74074","Stillwater","OK","Walmart Supercenter","4545 W 6th Ave","74074",36.114188010501195,-97.1192746177246
+"74074","Stillwater","OK","Walmart Neighborhood Market","2315 N. Perkins Road","74075",36.145640046392614,-97.04992687519261
+"74074","Stillwater","OK","Sprouts Farmers Market","909 W 6th Ave","74074",36.11532362715904,-97.07030566069079
+"74074","Stillwater","OK","Himalayan Grocery Store","125 S Main St","74074",36.121235999999996,-97.05828199999999
+"74074","Stillwater","OK","ALDI","Perkins Rd.","74075",36.13377175016524,-97.0518949184771
+"74074","Stillwater","OK","Food Pyramid","421 N Main St","74075",36.12754573348323,-97.05748654784746
+"74074","Stillwater","OK","20 Something","not_available","74075",36.12387,-97.07369
+"74074","Stillwater","OK","Crepe Myrtle Asian Market","613 S Lewis St","74074",36.115056,-97.056972
+"74074","Stillwater","OK","Aggie Stop","Monroe and Hall of Fame","not_available",36.127464,-97.072726
+"74074","Stillwater","OK","R & L Wholesale Meats And More","3910 W 6th Ave","74074",36.1167518,-97.1098775
+"74075","Stillwater","OK","YEVO Brian Brinker","4509 N Davis Ct","74075",36.16743850708008,-97.05721282958984
+"74079","Stroud","OK","Williams Grocery Store","not_available","74079",35.751455046912184,-96.66911872170726
+"74103","Tulsa","OK","SM Hypermarket Monumento","Monumento","74103",36.14841587082307,-95.99265382489445
+"74104","Tulsa","OK","Reasor's","2429 E 15th St","74104",36.14085528777952,-95.95707893371582
+"74104","Tulsa","OK","Warehouse Market 29","301 S Lewis Ave","74104",36.15624007321101,-95.95772572494407
+"74104","Tulsa","OK","Natural Farms","not_available","74104",36.154962651498764,-95.96729498512232
+"74105","Tulsa","OK","Whole Foods Market","1401 East 41st. Street","74105",36.10468562526814,-95.97347099117381
+"74105","Tulsa","OK","Walmart Neighborhood Market","4404 S Peoria Ave","74105",36.09939256419435,-95.97681770306221
+"74105","Tulsa","OK","Reasor's","3915 S Peoria Ave","74105",36.10545194901971,-95.97450004255352
+"74105","Tulsa","OK","Trader Joe's","3702 S Peoria Ave","74105",36.10938030778697,-95.97639083862305
+"74105","Tulsa","OK","Natural Grocers","3126 S Harvard Ave","74135",36.11770294205355,-95.94035405259714
+"74105","Tulsa","OK","Supermercados Morelos","not_available","74105",36.087900659873746,-95.97436141122233
+"74106","Tulsa","OK","Save-A-Lot","1526 N Lewis Ave","74110",36.17742415859885,-95.9590471019684
+"74107","Tulsa","OK","Warehouse Market","1507 W 51st St","74107",36.090483038250575,-96.00935188178673
+"74107","Tulsa","OK","Save-A-Lot","4229 Southwest Blvd","74107",36.101949802962274,-96.02583992620941
+"74107","Tulsa","OK","Westside Harvest Market","2232 S Nogales Ave","74107",36.13042068481445,-96.00363159179688
+"74107","Tulsa","OK","Tulsa Food Mart","1707 Southwest Blvd","74107",36.137259,-96.006497
+"74112","Tulsa","OK","Walmart Supercenter","207 S Memorial Dr","74112",36.15948918016302,-95.88385906105209
+"74112","Tulsa","OK","Reasor's","1885 S Yale Ave","74112",36.13648749870246,-95.92055040378298
+"74114","Tulsa","OK","Braum's","2806 S Harvard Ave","74114",36.12201559,-95.94074277
+"74114","Tulsa","OK","Walmart Neighborhood Market","4720 E 21st St","74114",36.132129962301995,-95.92381009788248
+"74114","Tulsa","OK","Sav-A-Lot","2140 S Sheridan Rd","74129",36.13134765625,-95.90496063232422
+"74115","Tulsa","OK","Warehouse Market","845 N Sheridan Rd","74115",36.16774368286133,-95.9033432006836
+"74128","Tulsa","OK","Las Americas","garnett rd.","74128",36.146461486816406,-95.85227966308594
+"74128","Tulsa","OK","Warehouse market","not_available","74128",36.14383693863644,-95.85039553057949
+"74129","Tulsa","OK","Nam Hai Asian Market","1924 S Garnett Rd","74128",36.13289274077575,-95.84795375275708
+"74129","Tulsa","OK","Aldi","12572 E 21st St","74129",36.13241149135459,-95.83406209945679
+"74129","Tulsa","OK","Cash Saver Discount Grocery","11333 E 31st St","74146",36.11962890625,-95.84950256347656
+"74129","Tulsa","OK","Mercado Morelos","not_available","74129",36.13194210597596,-95.85049640899864
+"74129","Tulsa","OK","Warehouse Market","3039 S Sheridan Rd","74129",36.11993470321435,-95.90359989604087
+"74129","Tulsa","OK","Supermercados Morelos","2119 S Garnett Rd","74129",36.13200909037292,-95.85043973270571
+"74133","Tulsa","OK","Reasor's","7114 S Sheridan Rd","74133",36.05995727323772,-95.90564923194601
+"74133","Tulsa","OK","Walmart Supercenter","6625 S Memorial Dr","74133",36.066844346509,-95.88324884570189
+"74133","Tulsa","OK","Sprouts Farmers Market","10111 S Memorial Dr","74133",36.016155359526905,-95.88500261306763
+"74133","Tulsa","OK","Aldi Foods","8207 E 103rd St S","74133-7080",36.014350585998926,-95.88426035581966
+"74133","Tulsa","OK","Walmart Neighborhood Market","6606 E 81st St","74133",36.04515502634681,-95.90328236522988
+"74133","Tulsa","OK","ALDI","8221 E 61st St Ste S","74133",36.07652697943548,-95.88508307933807
+"74133","Tulsa","OK","Natural Grocers","9137 E 71st St","74133",36.06200935924048,-95.87394534893465
+"74133","Tulsa","OK","KT Market","7121 S Mingo Rd","74133",36.0596923828125,-95.86784362792969
+"74133","Tulsa","OK","Braum's Ice Cream & Dairy Stores","10107 E 71st St","74133",36.06129153519096,-95.86297154616324
+"74134","Tulsa","OK","Asian Mart","12919 E 31st St","74134",36.11953551572601,-95.8316325006797
+"74134","Tulsa","OK","Asian Mart","3171 S 129th E Ave, Tulsa, OK 74134","74134",36.118731460555495,-95.83327955338902
+"74134","Tulsa","OK","Seoul Super","3171 S 129th East Ave Ste G","74134",36.117591857910156,-95.83174133300781
+"74135","Tulsa","OK","Reasor's","4909 E 41st St","74135",36.105383773453354,-95.92103806910026
+"74135","Tulsa","OK","Walmart Neighborhood Market","3139 S Harvard Ave E","74135",36.117433689053414,-95.93887030624636
+"74135","Tulsa","OK","Sprouts Farmers Market","4123 S Harvard Ave","74135",36.103009248790606,-95.93881577253342
+"74136","Tulsa","OK","The Fresh Market","8015 S Yale Ave,","74136",36.04769483737639,-95.92110501236601
+"74136","Tulsa","OK","Hornbill Oriental Grocery","7282 S Lewis Ave","74136",36.05866622924805,-95.95913696289062
+"74136","Tulsa","OK","Warehouse Market","not_available","74136",36.072852182989706,-95.97503655280822
+"74137","Tulsa","OK","Whole Foods Market","9136 S Yale Ave","74137",36.03055517846652,-95.92332747941256
+"74145","Tulsa","OK","Akin’s","not_available","74145",36.09132519690727,-95.89056968842533
+"74145","Tulsa","OK","Akin's Natural Foods","7807 E. 51st Street","74145",36.091309801098014,-95.88973960447743
+"74146","Tulsa","OK","Reasor's","11005 E 41st St","74146",36.105485522470765,-95.85440869561442
+"74146","Tulsa","OK","Walmart Neighborhood Market","3116 S Garnett Rd","74146",36.118290027676856,-95.8533005586711
+"74146","Tulsa","OK","Middle East Market","not_available","74146",36.08778381347656,-95.86544799804688
+"74146","Tulsa","OK","Kim's International Foods","10664 E 31st St","74146",36.11842346191406,-95.85712432861328
+"74301","Vinita","OK","Walmart Supercenter","268 S 7th St","74301",36.63196578,-95.14096971
+"74301","Vinita","OK","Reasor's","1624 N. 3rd St","74350",36.48248581434312,-95.05853857431404
+"74301","Vinita","OK","Graves Foods","Address: 100 Eagles Nest Rd","74301",36.658233,-95.139864
+"74331","Afton","OK","Farmer's Market","25390 Highway 59 N","74344",36.6507568359375,-94.81607818603516
+"74331","Afton","OK","save a lot dexter mo","Us 60","63940",36.62712097167969,-94.98606872558594
+"74337","Chouteau","OK","Shoppers Value Grocery","Hwy 69 & Harrison St","74337",36.192005,-95.34019
+"74337","Chouteau","OK","Ropps Hitching Post","13104 S 4293","74337",36.1859301,-95.3430239
+"74344","Grove","OK","Walmart Supercenter","2115 S Main St","74344",36.57645129763932,-94.76607625849869
+"74344","Grove","OK","Harps Food Store","1310 S Main St","74344",36.58280539529702,-94.77100214127552
+"74344","Grove","OK","La Tiendita","not_available","74344",36.593652,-94.764178
+"74346","Jay","OK","Walmart","1107 S Main St","74346",36.41895606,-94.80571523
+"74352","Locust Grove","OK","Walmart Neighborhood Market","800 E Main","74352",36.1992073059082,-95.1574478149414
+"74352","Locust Grove","OK","Harps Food Store","Intersection Hwy 82/33","74352",36.19935967,-95.16028229
+"74354","Miami","OK","Walmart Supercenter","2415 N Main St","74354",36.90461325,-94.8797828
+"74354","Miami","OK","Marvins Grocery","not_available","74354",36.88651322175959,-94.87891089676357
+"74361","Pryor","OK","Walmart Supercenter","4901 S Mill St","74361",36.26242058044997,-95.33017110472427
+"74361","Pryor","OK","Harps Food Store","111 E. Ferry","74365",36.29219953,-95.14771
+"74361","Pryor","OK","Homeland","925 S Mill St","74361",36.292061,-95.323154
+"74361","Pryor","OK","Pryor Ministry Center Food Bank","15 SW 3rd St","74361",36.30274,-95.32169
+"74361","Pryor","OK","Braum's Ice Cream & Burger Restaurant","101 Steve Berry Blvd","74361",36.26442454,-95.33209667
+"74401","Muskogee","OK","Walmart Supercenter","1000 W Shawnee St","74401",35.77198613,-95.37280548
+"74401","Muskogee","OK","Mini-Max","2408 E Shawnee Rd","74403",35.772047,-95.339138
+"74401","Muskogee","OK","Homeland","2410 Chandler Rd","74403",35.7406629,-95.340159
+"74401","Muskogee","OK","Homeland","1300 S York St","74403",35.72795213134751,-95.33974303871793
+"74401","Muskogee","OK","Homelands","Chandler Rd","74403",35.679803,-95.373301
+"74401","Muskogee","OK","Marvin's IGA","615 N York St","74403",35.747249603271484,-95.34052276611328
+"74401","Muskogee","OK","La Victoria Mexican Market","327 Eastside Blvd","74403",35.74745559692383,-95.35743713378906
+"74401","Muskogee","OK","ALDI","436 S Shawnee St","74401",35.771004,-95.366815
+"74401","Muskogee","OK","MPI Vending","1631 N Main St","74401",35.7673059,-95.3583157
+"74403","Muskogee","OK","Braum's Ice Cream & Dairy Store","2909 Old Shawnee Rd","74403",35.76935447279621,-95.330143544587
+"74426","Checotah","OK","Walmart Supercenter","131 Paul Carr Dr","74426",35.470065869622594,-95.5345513374531
+"74426","Checotah","OK","Nichols","207 N Broadway St","74426",35.47142028808594,-95.52224731445312
+"74432","Eufaula","OK","Nichols","not_available","74432",35.288551,-95.584273
+"74432","Eufaula","OK","Market Square Thriftway","402 S Main St","74432",35.28323476444495,-95.58266401290894
+"74435","Gore","OK","Harps Food Store","603 N. Main","74435",35.5338647197344,-95.11369336289043
+"74437","Henryetta","OK","Braums Fresh Market","816 e main","not_available",35.44044528956336,-95.97246613076778
+"74437","Henryetta","OK","Walmart","605 E Main St","74437",35.439155469328014,-95.97460509143598
+"74437","Henryetta","OK","Homeland","310 W Trudgeon St","74437",35.44140113267969,-95.9851192194997
+"74447","Okmulgee","OK","Walmart Supercenter","1800 S Wood Dr","74447",35.605717293398094,-95.96361020364434
+"74451","Park Hill","OK","Keys Grocery","26069 Oklahoma 82","not_available",35.79534804318059,-94.96554685708489
+"74462","Stigler","OK","Walmart Supercenter","1312 E Main St","74462",35.25239562988281,-95.1085433959961
+"74462","Stigler","OK","Top Value Cost Plus Foods","208 W Main St","74462",35.254249572753906,-95.12702941894531
+"74464","Tahlequah","OK","Walmart Supercenter","2020 S Muskogee Ave","74464",35.888696893539255,-94.97961389814401
+"74464","Tahlequah","OK","Reasor's","2001 S Muskogee Ave","74464",35.88886073965085,-94.97555520190345
+"74464","Tahlequah","OK","Save-A-Lot","614 East Downing","74464",35.91528225370726,-94.96210811742465
+"74464","Tahlequah","OK","Flying Weasel Homebrewing and Grilling Supplies","217 N Muskogee Ave","74464",35.91468811035156,-94.97045135498047
+"74464","Tahlequah","OK","Save A Lot","614 E Downing St","74464",35.9151172,-94.9617956
+"74464","Tahlequah","OK","Chicken Depot Tahlequah","1753 S Muskogee Ave","74464",35.892906188964844,-94.97594451904297
+"74467","Wagoner","OK","Walmart Supercenter","410 S Dewey Ave","74467",35.95719243,-95.39685663
+"74467","Wagoner","OK","Generic Grocer","not_available","74467",35.956801,-95.371435
+"74469","Warner","OK","Super Foods","not_available","74469",35.485595703125,-95.29328918457031
+"74501","Mcalester","OK","Walmart Grocery Pickup","432 S George Nigh Expy","74501",34.9201479525089,-95.7443111677704
+"74501","Mcalester","OK","Pruitts","not_available","74501",34.927449,-95.762369
+"74501","Mcalester","OK","Save A Lot","1732 E Carl Albert Pkwy","74501",34.92610168457031,-95.74398040771484
+"74501","Mcalester","OK","Country Mart","601 E Wyandotte Ave","74501",34.92739834911472,-95.76243605408753
+"74501","Mcalester","OK","Choctaw Nation Food Distribution","3244 Afullota Hina","74501",34.91820586783077,-95.77167391777039
+"74525","Atoka","OK","Walmart","1983 S Mississippi Ave","74525",34.36613572864838,-96.14226806748836
+"74525","Atoka","OK","Sonny's Market","not_available","74538",34.534474852006966,-96.21688063573585
+"74553","Kiowa","OK","Family Dollar","510 S Garfield Ave","74553",34.7234001159668,-95.89871215820312
+"74601","Ponca City","OK","apple market","not_available","74647",36.87539792839485,-97.0617894603522
+"74601","Ponca City","OK","Walmart Supercenter","1101 E Prospect Ave","74601",36.74082802540829,-97.07179598523852
+"74601","Ponca City","OK","Food Pyramid","2005 N 14th St Ste 110","not_available",36.72800827026367,-97.06568908691406
+"74601","Ponca City","OK","ALDI","not_available","74604",36.73994,-97.0629
+"74601","Ponca City","OK","ALDI","1000 E Prospect Ave","74601",36.73771052035799,-97.07183718681335
+"74631","Blackwell","OK","Walmart","1219 W Doolin Ave","74631",36.81054550638612,-97.29730097424856
+"74701","Durant","OK","Walmart Supercenter","3712 W Main St","74701",34.000497398368005,-96.41311551491685
+"74701","Durant","OK","Pruett's","not_available","74701",34.005963,-96.390841
+"74701","Durant","OK","Braum's Ice Cream and Dairy Store","312 Westside Dr","74701",33.99996456167443,-96.40554806868302
+"74701","Durant","OK","Lucky Food King","103 South Franklin St","74733",33.853759765625,-96.50169372558594
+"74701","Durant","OK","Save-A-Lot","917 W Main St","74701",33.9924201965332,-96.3869857788086
+"74728","Broken Bow","OK","Pruett's Grocery","201 S Park Dr","74728",34.025082720567035,-94.7382607507545
+"74728","Broken Bow","OK","Walmart","501 S Park Dr","74728",34.0222782100975,-94.73859906884239
+"74728","Broken Bow","OK","Pruett's Grocery","not_available","74764",33.99994115765701,-95.08208249541266
+"74731","Cartwright","OK","Walmart Grocery Pickup & Delivery","401 N Us Highway 75","75020",33.82015,-96.53506
+"74743","Hugo","OK","Walmart Supercenter","1911 E Jackson St","74743",34.00696131,-95.48863401
+"74743","Hugo","OK","Save-A-Lot","1623 E Jackson","74743",34.00867593023545,-95.49238268741496
+"74745","Idabel","OK","Walmart Grocery Pickup","1907 Se Washington St","74745",33.898013,-94.803537
+"74745","Idabel","OK","Save A Lot","300 SE Washington St","74745",33.8950256,-94.8237939
+"74745","Idabel","OK","Save-A-Lot","300 SE Washington","74745",33.8957,-94.8241
+"74801","Shawnee","OK","FireLake Discount Foods","1570 Gordon Cooper Dr","74801",35.30239878524096,-96.92722815864978
+"74801","Shawnee","OK","Braums Ice Cream & Burger Restaurant","1217 Broadway","74873",35.27028484352754,-96.930723829471
+"74801","Shawnee","OK","Firelake Express Grocery","214 E Walnut St","74873",35.260424,-96.934732
+"74801","Shawnee","OK","Hardesty Grocery","41200 Hardesty Rd","74801",35.30455335704358,-96.92625224590302
+"74801","Shawnee","OK","Los Compadres Mexican Restaurant","322 W MacArthur St","74804",35.36196517944336,-96.9272689819336
+"74801","Shawnee","OK","Bountiful Baskets","not_available","74801",35.346933,-96.939073
+"74801","Shawnee","OK","Braum's Ice Cream & Burger Restaurant","2615 N Kickapoo Ave","74804",35.36145453,-96.92910445
+"74801","Shawnee","OK","Shawnee Milling Co","201 S Broadway Ave","74801",35.326080322265625,-96.92365264892578
+"74801","Shawnee","OK","Save-A-Lot","749 E Independence","74802",35.346900796403496,-96.9127614636174
+"74801","Shawnee","OK","Homeland","600 W Independence St","74804",35.34793210092123,-96.93238820642311
+"74804","Shawnee","OK","Walmart Supercenter","196 Shawnee Mall Dr","74804",35.38634286,-96.92170858
+"74804","Shawnee","OK","Homeland","2705 N Harrison Ave.","74804",35.362515788306894,-96.91098227895294
+"74804","Shawnee","OK","ALDI","not_available","74804",35.37914716423297,-96.93032447857273
+"74820","Ada","OK","Walmart Supercenter","1419 N Country Club Rd","74820",34.789714673225554,-96.65504637237706
+"74820","Ada","OK","Braum's Ice Cream & Burger Restaurant","830 N Country Club Road","74820",34.783866,-96.652105
+"74820","Ada","OK","Pruetts","not_available","74820",34.790574,-96.67947
+"74820","Ada","OK","Save-A-Lot","314 W 12th St","74820",34.773738861083984,-96.68272399902344
+"74820","Ada","OK","ALDI","1320 Lonnie Abbott Blvd","74820",34.79082107543945,-96.66084289550781
+"74820","Ada","OK","Apple Market","220 E 13th St","74820",34.7726964895923,-96.67600800503881
+"74834","Chandler","OK","Walmart Supercenter","3100 E 1st St","74834",35.71132997484032,-96.84221007312682
+"74834","Chandler","OK","williams","not_available","74834",35.71480314589751,-96.87911085545952
+"74834","Chandler","OK","Kinnamon's Market","1812 E 1st St","74834",35.710655212402344,-96.86038208007812
+"74848","Holdenville","OK","Walmart","500 East Highway 270","74848",35.08775040115737,-96.38144376976003
+"74848","Holdenville","OK","Save-A-Lot","900 N Hinckley","74848",35.08570172633095,-96.39080113223467
+"74848","Holdenville","OK","Save A Lot","900 N Hinckley St","74848",35.0857252,-96.3910168
+"74849","Konawa","OK","Streetman's Grocery","not_available","74849",34.96076871388032,-96.75886397926342
+"74864","Prague","OK","Anthony's Foods","2310 W Main St","74864",35.487297,-96.70407
+"74864","Prague","OK","Beachler's","1000 Main Street","74864",35.48644547493854,-96.6899778639241
+"74868","Seminole","OK","Walmart Supercenter","1500 E Wrangler Blvd","74868",35.24780424,-96.65482056
+"74868","Seminole","OK","Cash Saver","not_available","74868",35.239742,-96.672322
+"74872","Stratford","OK","Double A Store","not_available","74872",34.786945331507624,-96.96223922889179
+"74902","Pocola","OK","Community Discount Grocery","104 N Pocola Blvd","74902",35.26044845581055,-94.47357940673828
+"74932","Cameron","OK","Walmart Supercenter","3108 N Broadway St","74953",35.094596063263424,-94.62869459083547
+"74936","Gans","OK","Super Fresh","Deleware Ave","not_available",35.441524505615234,-94.75483703613281
+"74937","Heavener","OK","CV's Savers Club","US 59","74937",34.8891600094343,-94.60393948407771
+"74948","Muldrow","OK","Marvin's Food Warehouse","not_available","74954",35.40564160149515,-94.51387804894765
+"74948","Muldrow","OK","Piggly Wiggly","not_available","74948",35.40505936379694,-94.58375027007709
+"74948","Muldrow","OK","McKinney Grocery","207 S Roland Rd","74954",35.41630172729492,-94.5129165649414
+"74948","Muldrow","OK","Piggly Wiggly","1001 E Shawntel Blvd","74948",35.405517578125,-94.58373260498047
+"74953","Poteau","OK","Price Cutter Food Warehouse","2219 N Broadway St","74953",35.0749105,-94.6305884
+"74953","Poteau","OK","Marvin's","1100 S Broadway Ave","74953",35.04775619506836,-94.63141632080078
+"74954","Roland","OK","Squash Blossom","not_available","72956",35.452957,-94.44060999999999
+"74955","Sallisaw","OK","Marvins","not_available","74955",35.460658924046896,-94.78342175225595
+"74955","Sallisaw","OK","Walmart Supercenter","1101 W Ruth Ave","74955",35.45036092,-94.80166764
+"74960","Stilwell","OK","Walmart Supercenter","84127 Highway 59","74960",35.79803590953394,-94.62422635956591
+"74960","Stilwell","OK","Market Square Thriftway","419 N 2nd St","74960",35.818665736395936,-94.62769031524658
+"74960","Stilwell","OK","CV's","not_available","74960",35.82273284871333,-94.62676806237864
+"74964","Watts","OK","Walmart Neighborhood Market","935 S. Holly St","72761",36.1751823425293,-94.55791473388672
+"74964","Watts","OK","Walmart Grocery Pickup","935 S Holly St","72761",36.1772794285714,-94.5591625714286
+"74965","Westville","OK","Harps Food Store","519 HWY 59 North","74965",35.99211454572044,-94.58320237571277

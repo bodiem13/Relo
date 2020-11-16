@@ -1,0 +1,115 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"02802","Albion","RI","Urgent Care Of Cumberland","2224-2238 Mendon Rd","02864",41.95224646655526,-71.44207330676966
+"02802","Albion","RI","Ocean State Urgent Care of Cumberland","2140 Mendon Rd","02864",41.952416,-71.44224799999999
+"02804","Ashaway","RI","westerly urgent care","not_available","not_available",41.41911315917969,-71.7808837890625
+"02806","Barrington","RI","Barrington Urgent Care","Maple Ave","not_available",41.73842415833113,-71.3186733616676
+"02806","Barrington","RI","Ri hospital ER","not_available","02915",41.7735193,-71.34635057
+"02816","Coventry","RI","London Clinic, Consultant Neurologist.","116 Harley Street","not_available",41.68427728912541,-71.53259832203199
+"02816","Coventry","RI","e-HealthSign","105 Hammet Rd","02816",41.71187978193456,-71.66862487792969
+"02816","Coventry","RI","Pawtuxet Valley Urgent Care","982 Tiogue Ave","02816",41.679489543822775,-71.57495577055151
+"02816","Coventry","RI","Outpatient Lab","193 MacArthur Blvd","02816",41.697265625,-71.53981018066406
+"02816","Coventry","RI","Pneumonia Central","not_available","02816",41.713847,-71.568234
+"02818","East Greenwich","RI","Bald hill walk in","not_available","02886",41.68623560138006,-71.49878193138929
+"02818","East Greenwich","RI","Greenwich Medical Center","not_available","02818",41.65969059819467,-71.49856745293633
+"02822","Exeter","RI","En Route To Work","not_available","02822",41.518421,-71.554802
+"02828","Greenville","RI","Urgent Medical Care, Smithfield","400 Putnam Pike #E","02917",41.869477,-71.52956999999999
+"02828","Greenville","RI","Concentra Urgent Care","Putnam Pike, Smithfield, RI 02828","02828",41.86956984319245,-71.52982195413533
+"02835","Jamestown","RI","Jamestown Ems","11 Knowles Ct","02835",41.49632759992599,-71.37090845234447
+"02838","Manville","RI","Concentra urgent care","not_available","02864",41.95240912197398,-71.48082325574313
+"02840","Newport","RI","Newport Hospital MRI","Friendship St","02840",41.496984,-71.305262
+"02840","Newport","RI","Emergency room - Newport Hospital","not_available","02840",41.49672788167064,-71.30547324085549
+"02840","Newport","RI","Newport Pediatric Dentistry: Dr. Faith Drennon DMD","15 Old Beach Rd","02840",41.48618,-71.307284
+"02840","Newport","RI","Naval Health Clinic New England","not_available","02841",41.50459070838083,-71.3217878622822
+"02842","Middletown","RI","Newport Hospital ER","Friendship Street","02840",41.540897289487766,-71.29159405368769
+"02852","North Kingstown","RI","newport hospital","not_available","02852",41.536930084228516,-71.46263885498047
+"02852","North Kingstown","RI","Koch Eye Associates North Kingstown","7805 Post Rd","02852",41.5858717,-71.4588752
+"02860","Pawtucket","RI","The Miriam Hospital","164 Summit Ave","02906",41.85276487513803,-71.39813644801657
+"02860","Pawtucket","RI","Memorial Hospital of RI","111 Brewster St","02860",41.86989159944577,-71.37646766101287
+"02860","Pawtucket","RI","Miriam Hospital 3rd Floor","not_available","02906",41.85218799920478,-71.39898328721581
+"02860","Pawtucket","RI","Concentra Urgent Care","290 Branch Ave","02904",41.84745661999322,-71.41473904252052
+"02860","Pawtucket","RI","The Miriam Hospital Laboratories","not_available","02865",41.85129003,-71.39997362
+"02860","Pawtucket","RI","Notre Dame Urgent Care","Broad St.","02863",41.888244,-71.394388
+"02860","Pawtucket","RI","Concentra Urgent Care","490 Branch Ave","not_available",41.85087966918945,-71.42191314697266
+"02860","Pawtucket","RI","Armistice Urgent Care","209 Armistice Blvd","02860",41.879753,-71.367981
+"02860","Pawtucket","RI","Butler Hospital","345 Blackstone Blvd","02906",41.84283165867158,-71.37916120585317
+"02860","Pawtucket","RI","berkshire place","not_available","02908",41.842805523483676,-71.42011179894712
+"02860","Pawtucket","RI","New England Ambulance Tree house","not_available","02860",41.878103,-71.367318
+"02860","Pawtucket","RI","Center for Treatment and Recovery","82 Pond St","02860",41.871785,-71.37660089999997
+"02863","Central Falls","RI","Cumberland Urgent Care","Mendon road","02864",41.896903,-71.404593
+"02871","Portsmouth","RI","East Bay Endoscopy Center","not_available","02871",41.590889349414525,-71.26858468103669
+"02878","Tiverton","RI","TruMed","528 Newton St","02721",41.6739062,-71.1673239
+"02878","Tiverton","RI","Southepointe Rehabilitation","not_available","02721",41.673839,-71.169701
+"02879","Wakefield","RI","South County Hospital","100 Kenyon Ave","02879",41.43090042133473,-71.49647483197013
+"02879","Wakefield","RI","South County Center For Womens Health","70 Kenyon Ave","02879",41.43099,-71.4963889
+"02879","Wakefield","RI","Linda Broadhead, LMT","1220 Kingstown Rd","02879",41.450863,-71.4998514
+"02879","Wakefield","RI","Koch Eye Associates Wakefield","20 Hampton Way Bldg #1A","02879",41.449078,-71.4737546
+"02885","Warren","RI","Charlton Emergency Room","not_available","02777",41.74667923322129,-71.21587887522233
+"02885","Warren","RI","Joseph Lifrak, MD","479 Swansea Mall Dr","02777",41.76133346557617,-71.2197036743164
+"02886","Warwick","RI","Kent County Memorial Hospital","455 Toll Gate Rd","02886",41.705312001946766,-71.4781665802002
+"02886","Warwick","RI","CareWell Urgent Care - Warwick","535 Centerville Rd","02886",41.697654084500655,-71.47928237915039
+"02886","Warwick","RI","Kent Imaging Center","Tollgate Rd.","02886",41.70589102634176,-71.47915371328945
+"02886","Warwick","RI","Bard Davol","100 Crossings Blvd","02886",41.712732482751974,-71.47025978302962
+"02886","Warwick","RI","Fatima Outpatient Lab","226 Buttonwoods Ave, Warwick, RI 02889","02889",41.70058822631836,-71.42951965332031
+"02886","Warwick","RI","Concentra Urgent Care","400 Bald Hill Rd","02886",41.72691067565469,-71.47927269346837
+"02886","Warwick","RI","Kent Outpatient Infusion","15 Health Ln Bldg 2","02886",41.70664978027344,-71.47905731201172
+"02886","Warwick","RI","Concentra Urgent Care","Post Rd.","02886",41.72272,-71.44344
+"02886","Warwick","RI","Koch Eye Associates Warwick - Toll Gate Rd","566 Toll Gate Rd","02886",41.7059365,-71.4814638
+"02886","Warwick","RI","Cranston Dental Group","1090 New London Avenue","02920",41.7391193,-71.4760842
+"02888","Warwick","RI","Ocean State Urgent Care Of Warwick","not_available","02888",41.745368,-71.406694
+"02891","Westerly","RI","Westerly Hospital","45 Wells St","02891",41.36234626039891,-71.82593548771803
+"02891","Westerly","RI","Westerly wound Care Center","46 Wells St Fl 3","02891",41.36338424682617,-71.82267761230469
+"02891","Westerly","RI","Westerly Urgent Care","77 Franklin St","02891",41.362966,-71.81457328849628
+"02891","Westerly","RI","Northeast Medical Group Medical Center - Stonington","91 Voluntown Rd","06379",41.40683364868164,-71.84741973876953
+"02893","West Warwick","RI","ER At VA Hospital","Caulkstone","not_available",41.70290113545794,-71.53215201804174
+"02895","Woonsocket","RI","Park Square Urgent Care","60 Eddie Dowling Hwy","02896",41.9814453125,-71.51493072509766
+"02895","Woonsocket","RI","Rhode Island Medicine","20 Cumberland Hill Rd #104","02895",42.00271987915039,-71.49607849121094
+"02895","Woonsocket","RI","Woonsocket urgent care","not_available","02895",42.00775676197041,-71.50432354543933
+"02895","Woonsocket","RI","Guild of Victims","115 Cass Ave","02895",42.0046272277832,-71.49573516845703
+"02895","Woonsocket","RI","Rehabilitation Hospital of Rhode Island","116 Eddie Dowling Hwy","02896",41.9815058,-71.5128327
+"02895","Woonsocket","RI","Kids First Pediatrics","219 Cass Ave","02895",42.004947662353516,-71.49454498291016
+"02895","Woonsocket","RI","new england ambulance","54 Circle Street","not_available",41.99760437011719,-71.49649810791016
+"02895","Woonsocket","RI","Ocean State Urgent Care of Woonsocket","25 John a Cummings Way","02895",42.00773299999999,-71.50479700000001
+"02895","Woonsocket","RI","Koch Eye Associates Woonsocket","166 Cass Ave","02895",42.0061139,-71.495983
+"02896","North Smithfield","RI","North Smithfield Urgent Care","not_available","02896",41.9982788099233,-71.54975450749681
+"02903","Providence","RI","Rhode Island Hospital","593 Eddy St","02903",41.81183474798724,-71.4088519169042
+"02903","Providence","RI","Providence VA Medical Center","830 Chalkstone Ave","02908",41.83173236104546,-71.433325187158
+"02903","Providence","RI","Women and Infants Hospital","101 Dudley St","02905",41.81071564273085,-71.4125395379331
+"02903","Providence","RI","Rhode Island Hospital Emergency Department","595 Eddy St","02905",41.81023291959626,-71.40956815195082
+"02903","Providence","RI","Rhode Island Hospital Coop Building","2 Dudley St","02905",41.81072713687449,-71.40778654828209
+"02903","Providence","RI","RI Jane Brown","56-110 Lockwood St","02903",41.81264671261669,-71.40884611872832
+"02903","Providence","RI","Nursing Arts","Rhode Island Hospital","not_available",41.81258700514257,-71.40986680984497
+"02903","Providence","RI","Providence Health System Pyschology","920 Varnum St NE","20017",41.80750101740925,-71.41913652420044
+"02903","Providence","RI","Providence Health System Psychiatry","1053 Buchanan St NE","20017",41.82419689778346,-71.41445875167847
+"02903","Providence","RI","Tavares Pediatric Center","101 Borden St.","02907",41.813465178908416,-71.41313674345994
+"02903","Providence","RI","Providence Health System Urology","1160 Varnum St NE","20017",41.80833271597585,-71.41814947128296
+"02903","Providence","RI","Women & infants Day Hospital Group","not_available","02905",41.81036,-71.40793
+"02903","Providence","RI","Lifespan Corporate Services","167 Point St","02903",41.81599044799805,-71.41022491455078
+"02903","Providence","RI","Neuropsych RI Hospital","Lockwood Street","02903",41.810320675235864,-71.40801697862152
+"02903","Providence","RI","WIH Labs","70 Elm St","02903",41.817574,-71.40867
+"02903","Providence","RI","Ri Hospital","Hospital St","02903",41.816073,-71.409117
+"02903","Providence","RI","Hasboro 4th Floor","not_available","02903",41.81228648,-71.41204852
+"02904","Providence","RI","Our Lady Of Fatima Hospital","200 High Service Ave","02904",41.85548394852534,-71.45947694778442
+"02904","Providence","RI","Roger Williams Medical Center","825 Chalkstone Ave","02908",41.83482545974942,-71.43533706665039
+"02904","Providence","RI","Adele Decof Cancer Center","50 Maude St","02908",41.83636333572941,-71.43452294463016
+"02904","Providence","RI","Ascension Medical Group Providence Family & Athletic Medicine","26750 Providence Pkwy","48374",41.83649213319811,-71.42062783241272
+"02904","Providence","RI","Ascension Medical Group West Oakland Internists","44000 W 12 Mile Rd","48377",41.836588055528985,-71.4312493801117
+"02904","Providence","RI","North Providence Medical Services","Mineral Spring","02911",41.865124940103605,-71.45117704837097
+"02904","Providence","RI","North Providence Urgent Care","1830 Mineral Spring Ave","02904",41.8612832300321,-71.4622723418123
+"02904","Providence","RI","Struggle City","Suite 610","not_available",41.84272887094073,-71.43229318046666
+"02904","Providence","RI","St. John Providence Lab - Providence Park Medical Office Building","26850 Providence Pkwy","48374",41.83892212126728,-71.4293611049652
+"02904","Providence","RI","Homefront Healthcare","not_available","02904",41.854443,-71.429468
+"02905","Providence","RI","Blackstone @ WIH","1 Blackstone Pl","02903",41.810507876563506,-71.40701293945312
+"02906","Providence","RI","Providence Medical Center - Farmingon Hills","30055 Northwestern Hwy","48334",41.83367834753243,-71.39393448829651
+"02906","Providence","RI","Warby Parker","271 Thayer St Providence","02906",41.8293059,-71.4005515
+"02907","Providence","RI","Women & Infants Center for Reproduction & Infertility","90 Plain St","02903",41.81405,-71.412297
+"02907","Providence","RI","Coro Center","1 Hoppin St","02903",41.81587558893538,-71.4112929406924
+"02907","Providence","RI","St. Joseph Hospital","21 Peace St","02907",41.8068542301411,-71.42203871087806
+"02910","Cranston","RI","Garden City Treatment Center","not_available","02910",41.769423847415254,-71.45461980741736
+"02910","Cranston","RI","Garden City Medical","not_available","02920",41.76903880298506,-71.45516221517623
+"02911","North Providence","RI","Sick As A Dog","not_available","02919",41.852223032798605,-71.48734483030997
+"02914","East Providence","RI","Bradley Hospital","1011 Veterans Memorial Pkwy","02915",41.79262050080981,-71.36747957816827
+"02914","East Providence","RI","Fatima Outpatient Lab","525 Taunton Ave, East Providence, RI 02914","02914",41.82138442993164,-71.35993194580078
+"02919","Johnston","RI","Briare Cliff Manor","49 Old Pocasset Rd, Johnston, RI 02919","02919",41.8180046081543,-71.5133285522461
+"02920","Cranston","RI","Eleanor Slater Hospital","111 Howard Ave","02920",41.74762634132206,-71.46895821819481
+"02920","Cranston","RI","Workin At The Nuthouse","111 Howard Ave, Cranston, RI 02920","02920",41.74495315551758,-71.46233367919922
+"02920","Cranston","RI","Koch Eye Associates Cranston","2000 Chapel View Blvd Ste 100","02920",41.7571164,-71.4597671

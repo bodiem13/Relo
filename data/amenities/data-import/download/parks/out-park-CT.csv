@@ -1,0 +1,658 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"06001","Avon","CT","Sperry Park","not_available","06001",41.81541845536081,-72.82939105559852
+"06001","Avon","CT","Mills Pond Park","10 East Hill Rd","06019",41.8264353859746,-72.91254928671744
+"06001","Avon","CT","Heublein Tower","not_available","06070",41.82587293743686,-72.79856906225112
+"06001","Avon","CT","Fisher Meadows","800 Old Farms Rd","06001",41.77482310577388,-72.82698886523691
+"06001","Avon","CT","Weatogue Park","281-299 Connecticut 10","06089",41.84234776569375,-72.81338267055828
+"06001","Avon","CT","Roaring Brook Nature Center","not_available","06019",41.84124433527173,-72.88177524117326
+"06001","Avon","CT","Clover Pinney Park","School St","06085",41.75883586423426,-72.8898561000824
+"06001","Avon","CT","Country side park","not_available","not_available",41.783122549308075,-72.90825240908262
+"06001","Avon","CT","Camp Chase","10 Canton Rd","06013",41.77455359628052,-72.90968866869841
+"06002","Bloomfield","CT","Talcott Mountain State Park","560 Simsbury Road","06002",41.83958562074996,-72.7925120022536
+"06002","Bloomfield","CT","Northwest Park","not_available","06095",41.89859636874541,-72.70230660697997
+"06002","Bloomfield","CT","Wilcox Park","330 Park Ave","06002",41.824527740478516,-72.71358489990234
+"06002","Bloomfield","CT","Bloomfield Reaervoir 3","not_available","06002",41.858821,-72.746481
+"06002","Bloomfield","CT","Pershing Park Playground","1-7 Mitchell Dr","06002",41.81118365,-72.68819833333333
+"06002","Bloomfield","CT","Bloomfield Town Green","1-31 Wintonbury Ave","06002",41.831512,-72.73706
+"06002","Bloomfield","CT","Penwood State Park","57 Gun Mill Rd","06002",41.83843843130046,-72.78492660340795
+"06010","Bristol","CT","Page Park","655 King Street","06010",41.685384339960734,-72.92693464710797
+"06010","Bristol","CT","Rockwell Park","310 Park Street","06010",41.67406581547185,-72.9616641998291
+"06010","Bristol","CT","Casey Field","Middle St","06010",41.66387146951042,-72.92134523391724
+"06010","Bristol","CT","Snowberry Fishing Pond","Snowberry Lane","not_available",41.72132954865505,-72.89189343993921
+"06010","Bristol","CT","Page Park Pavilion","not_available","06010",41.68527343919376,-72.9290340725293
+"06010","Bristol","CT","Page Park","60 dewitt drive","06010",41.67377418341134,-72.94329698692749
+"06010","Bristol","CT","Page Pool","King Street","06010",41.68556454443374,-72.9287399233771
+"06010","Bristol","CT","Hoppers Birge Pond Nature Preserve","Crescent Dr Exd","06010",41.69344176135398,-72.9653508926113
+"06010","Bristol","CT","Bracket Park","1 North Main Street","06010",41.67135696134389,-72.94533859580204
+"06010","Bristol","CT","Federal Hill Green","Center St","06010",41.677073509354265,-72.93881083343568
+"06016","Broad Brook","CT","Broad Brook Pond Park","Depot Street","not_available",41.91214549593271,-72.54405496279497
+"06016","Broad Brook","CT","East Windsor Reservoir Park","51 Reservoir Ave","not_available",41.911699013623625,-72.5368881225586
+"06026","East Granby","CT","East Granby Park","not_available","06026",41.936257639574684,-72.7741351330729
+"06026","East Granby","CT","Suffield Fireman's Carnival","not_available","06093",41.9854408058552,-72.68829521771934
+"06029","Ellington","CT","Foxhill Tower","not_available","06066",41.863191912354594,-72.44459889679128
+"06029","Ellington","CT","Cross Farms Recreational Area","Rhodes Road","06084",41.863382418027,-72.33891455429988
+"06029","Ellington","CT","Paper Mill Pond","1 Grove St","06066",41.867,-72.4421
+"06029","Ellington","CT","Ellington Town Green","100-114 Maple St","06029",41.904128759489055,-72.46902438122316
+"06029","Ellington","CT","Hyde Park","not_available","06076",41.95127752868349,-72.30930933948129
+"06029","Ellington","CT","Campbell's Peaceful Valley Conservation Area","215 Hunter Road","not_available",41.910400390625,-72.38546752929688
+"06029","Ellington","CT","Palmer Kendall Mountain Conservation","Kendall Mountain Rd","not_available",41.914129,-72.360936
+"06029","Ellington","CT","Crandall Park","72-230 Cider Mill Rd","06084",41.86358933862446,-72.36984093873532
+"06029","Ellington","CT","Nye-Holman State Forest","S. River Road","not_available",41.87214934082253,-72.31505870819092
+"06029","Ellington","CT","The Gazebo","not_available","06029",41.903776,-72.465316
+"06029","Ellington","CT","Crossfarms","not_available","06084",41.8650980053737,-72.34032510450257
+"06029","Ellington","CT","Brookside Park","Sadds Mill Road","06029",41.913741249472075,-72.48779124691467
+"06031","Falls Village","CT","Lime Rock Park","60 White Hollow Rd.","06039",41.927893633536286,-73.38270163925857
+"06032","Farmington","CT","Stanley Quarter Park","Stanley St","not_available",41.69475647343741,-72.77417553222237
+"06032","Farmington","CT","Winding Trails","50 Winding Trl","06032",41.74795789080247,-72.84728134344026
+"06032","Farmington","CT","Farmington Town Green","Rt. 4","not_available",41.72072119663713,-72.82957077026367
+"06032","Farmington","CT","Brittany Farms basketball courts","Brittany Farms Rd","06053",41.7140007019043,-72.76979064941406
+"06032","Farmington","CT","A.W. Stanley Park","2100 Stanley St","06053",41.70656153372426,-72.7748966217041
+"06032","Farmington","CT","Connecticut Affiliate of Susan G. Komen for the Cure","74 Batterson Park Rd","06032",41.714337,-72.794852
+"06032","Farmington","CT","River Glen Park","14 Woewassa Ln","06032",41.74226248395617,-72.87154123767309
+"06032","Farmington","CT","Yodkins Morin Park","1703 Farmington Ave","06032",41.75391646280946,-72.8778062992132
+"06032","Farmington","CT","Batterson Park","not_available","06053",41.71396698150793,-72.77344926746262
+"06033","Glastonbury","CT","Riverfront Park","122 Naubuc Ave","06033",41.71167915349934,-72.61630938143914
+"06033","Glastonbury","CT","Rotary Field","Rotary Fields Rd.","06033",41.69787692265987,-72.58178456528611
+"06033","Glastonbury","CT","JB Williams Park","not_available","06033",41.702276670059746,-72.55874428117451
+"06033","Glastonbury","CT","Hubbard Green","Main Street","not_available",41.70091484048062,-72.60534834014875
+"06033","Glastonbury","CT","Burnt Hill Park","not_available","06248",41.675886,-72.46000541666666
+"06033","Glastonbury","CT","Welles Village Fields","186 Griswold St","06033",41.72394054023798,-72.60663042495543
+"06033","Glastonbury","CT","Woodbridge Park","Curtis Road","06033",41.691512,-72.60274708271027
+"06035","Granby","CT","McClean Game Refuge","not_available","06035",41.93581115496691,-72.80386711743647
+"06037","Berlin","CT","Castle Craig","1 Peak Dr","06451",41.55665778038796,-72.83554180805716
+"06037","Berlin","CT","Guiffrida Park","Westfield Rd","06450",41.55650789915057,-72.76408751011152
+"06037","Berlin","CT","Paper Goods Pond","not_available","06037",41.62909412482939,-72.78370130592411
+"06037","Berlin","CT","Berlin Volunteer Park","Farmington Ave","06037",41.631384933188976,-72.760970430426
+"06037","Berlin","CT","Veteran's Memorial Park","Lower Lane","06037",41.62950321733541,-72.75446573573255
+"06037","Berlin","CT","spring creek estates park","not_available","06051",41.6512451171875,-72.75709533691406
+"06037","Berlin","CT","Percival Park","Petcival Avenue","not_available",41.62782246801877,-72.77950816197999
+"06037","Berlin","CT","Willow Brook Park","John Karbonic Way","06051",41.64788322574407,-72.77408896260826
+"06039","Lakeville","CT","Lakeville Town Grove","Lake Wonoscompomuc","06039",41.961447,-73.444302
+"06040","Manchester","CT","Wickham Park","1329 Middle Tpke W","06040",41.78208102258199,-72.57928848266602
+"06040","Manchester","CT","Center Springs Park","Lodge Dr","06040",41.77789375978492,-72.53112381219337
+"06040","Manchester","CT","Charter Oak Park","50 Charter Oak Street","06040",41.76440048923852,-72.51495184384065
+"06040","Manchester","CT","Wickham Park Top","1814 Tolland Turnpike","06040",41.78622658981067,-72.57855770691536
+"06040","Manchester","CT","Oak Grove Nature Center","269 Oak Grove St","06040",41.765398,-72.502721
+"06040","Manchester","CT","Center Memorial Park","Main Street","06040",41.774278950045456,-72.52197611002954
+"06040","Manchester","CT","Ferguson Reservoir","not_available","06040",41.77399067502326,-72.48928768553449
+"06040","Manchester","CT","Center Park","64 Center St","06040",41.773978862641634,-72.52225918400778
+"06040","Manchester","CT","Manchester Garden","2 saint James street","06040",41.768506,-72.521719
+"06040","Manchester","CT","rocky ridge park","not_available","06106",41.79077053100475,-72.53470258330618
+"06040","Manchester","CT","Park","137-163 Cooper St","06040",41.76488181308055,-72.52130019746025
+"06042","Manchester","CT","Rockville Bank Park","75 Evergreen Way","06074",41.809431373399796,-72.55606410549228
+"06042","Manchester","CT","Northwest Park","not_available","06042",41.80493750962854,-72.52529787729348
+"06042","Manchester","CT","Meadowbrook","meadowbrook dr","06042",41.807373062825256,-72.48551845550537
+"06042","Manchester","CT","Truman Cowles Park","54 Hilliard St","06042",41.79246520996094,-72.5273208618164
+"06043","Bolton","CT","Bolton Town Green","not_available","06043",41.74416757586627,-72.42302611131649
+"06051","New Britain","CT","Walnut Hill Park","46 walnut street","06790",41.66636402454615,-72.77819810018391
+"06051","New Britain","CT","Seymour Park","Newington,CT,06111","06111",41.67925427993206,-72.75470237801251
+"06051","New Britain","CT","A.w. Stanley Park","Stanley St.","06053",41.686835,-72.77253706
+"06052","New Britain","CT","Walnut Hill Park","184 W Main St","06052",41.66215808436593,-72.79193320395595
+"06052","New Britain","CT","CT Race In The Park","not_available","06052",41.66212432636019,-72.79260839730007
+"06057","New Hartford","CT","Satan's Kingdom","110-112 Main St","06057",41.857434224702565,-72.95848752051702
+"06057","New Hartford","CT","Nepaug State Forest","not_available","06057",41.82482764919834,-72.96610548926257
+"06058","Norfolk","CT","Viliage Green","not_available","06058",41.98877,-73.199297
+"06062","Plainville","CT","Paderewski Park","93 Cooke St","06062",41.68142798018101,-72.84823909275643
+"06062","Plainville","CT","Trumbull Park","Linsley Dr","06062",41.660743739578834,-72.85670866328093
+"06062","Plainville","CT","Norton Park","South Washington St","06062",41.65915844324236,-72.87851572036743
+"06062","Plainville","CT","Veterans Memorial Park","Maple St","06062",41.669722195625965,-72.86686420440674
+"06063","Barkhamsted","CT","People's State Forest","106 East River Rd","06063",41.92442547264834,-72.99809135519217
+"06066","Vernon Rockville","CT","New Roca Park","164-168 Grier Rd","06066",41.81197259812122,-72.42433220113831
+"06067","Rocky Hill","CT","Maxwell Park","Hayes Rd","06067",41.669944410503675,-72.68753314207454
+"06067","Rocky Hill","CT","Little Brook Park","not_available","06111",41.65418904508992,-72.70833928872393
+"06067","Rocky Hill","CT","Elm Ridge Park","Elm Street","06067",41.662206447926174,-72.65132035692334
+"06067","Rocky Hill","CT","Bulkley Park","not_available","06067",41.65629238704599,-72.62817080292835
+"06067","Rocky Hill","CT","Sunny Crest Park","Textbook road","not_available",41.668019,-72.65528
+"06067","Rocky Hill","CT","Candlewyck Park","Lamplighter Lane","06111",41.663875857958836,-72.7106657291904
+"06067","Rocky Hill","CT","Twenty Rod Rd Park","Griswoldville Rd.","06111",41.67004007608575,-72.70701153388241
+"06067","Rocky Hill","CT","Great Pond Preserve","not_available","06073",41.645789,-72.612062
+"06067","Rocky Hill","CT","Watrous Park","not_available","06416",41.63003660402454,-72.65823190147358
+"06070","Simsbury","CT","Simsbury Farms","100 Old Farms Rd","06092",41.880881745805006,-72.84456962310162
+"06070","Simsbury","CT","Memorial Field","Plank Hill Road","06070",41.87984284453942,-72.81060132815503
+"06070","Simsbury","CT","Meadow Pond Park","not_available","06092",41.88525384690278,-72.85380088764049
+"06071","Somers","CT","Shenipsit State Forest","not_available","06071",41.961595919858006,-72.40860355981758
+"06071","Somers","CT","Somers Town Park","Somers, CT","06071",41.99139478037645,-72.4500428946227
+"06074","South Windsor","CT","River Trail","4-34 Connecticut 159","06095",41.85501188358801,-72.64016448573825
+"06074","South Windsor","CT","Nevers Park","Nevers Rd","06074",41.840920397579936,-72.55049228668213
+"06074","South Windsor","CT","wapping park","clark st","06074",41.822789750169115,-72.56186485290527
+"06074","South Windsor","CT","Rotary Pavillion","Chief Ryan Way","06074",41.83856242,-72.5483435
+"06078","Suffield","CT","Boat Launch","boat launch","06082",41.98950859278158,-72.60554469589367
+"06082","Enfield","CT","Brainerd Park","137-147 Brainard Rd","06082",42.0150137073683,-72.57697336385529
+"06082","Enfield","CT","Enfield Public Library Park","Middle Rd","06082",41.98475035542346,-72.5549781643916
+"06082","Enfield","CT","Lafayette Park","not_available","06082",42.00365850519766,-72.60188321412883
+"06082","Enfield","CT","Greenmanor Recreation","5-221 Taylor Rd","06082",41.98950812,-72.51321481
+"06082","Enfield","CT","The Fox Den","Fox Hill Ln","06082",41.998684,-72.5668
+"06082","Enfield","CT","Whitacres Park","48-98 Robbin Rd","06082",42.02645540027032,-72.5667679309845
+"06082","Enfield","CT","The New Park","Middle Rd.","06082",41.98391342163086,-72.56194305419922
+"06082","Enfield","CT","Shaker Field","Shaker Road","not_available",42.01319491086232,-72.52309685011569
+"06082","Enfield","CT","Mittenague Park","Fife Lane","01089",41.98616361738966,-72.58280686187898
+"06088","East Windsor","CT","East Windsor Park","not_available","06088",41.926265716552734,-72.61897277832031
+"06095","Windsor","CT","Veteran's Memorial Park","Southwest Ave","06096",41.9184372664989,-72.65567779541016
+"06095","Windsor","CT","Stroh Park","1 mills road","06095",41.82307757833331,-72.66026973724365
+"06095","Windsor","CT","John R Welch Park","45 Niles Rd","06095",41.900437981942254,-72.68149996202253
+"06095","Windsor","CT","Welch Park","Poquonock","not_available",41.9006771214142,-72.68085333513231
+"06096","Windsor Locks","CT","Spring Park","Spring st","06096",41.93177311123332,-72.65583438584673
+"06098","Winsted","CT","East End Park (The Green)","not_available","06098",41.92071969586209,-73.06001516101924
+"06103","Hartford","CT","Bushnell Park","Jewell Street","06103",41.76519607484078,-72.6789134445367
+"06103","Hartford","CT","Riverside Park","20 Leibert Road","06106",41.77502399562346,-72.66652319726957
+"06103","Hartford","CT","Riverwalk North","Riverside Park, 20 Leibert Road","06106",41.769272004033304,-72.66916180490814
+"06103","Hartford","CT","Heaven Skatepark","not_available","06103",41.772162943038296,-72.67394240697212
+"06103","Hartford","CT","J&A Engagement Party","Whitman Court","not_available",41.76051712036133,-72.67613983154297
+"06105","Hartford","CT","Elizabeth Park","1555 Asylum Ave","06117",41.7748723024362,-72.7184011329213
+"06105","Hartford","CT","Elizabeth Park Rose Garden","88-94 Walbridge Rd","06119",41.77434279198298,-72.71871862573524
+"06105","Hartford","CT","Elizabeth Park Sunrise Overlook","not_available","06105",41.775595678577794,-72.71403046804045
+"06105","Hartford","CT","Keney Park","Greenfield Street","not_available",41.7862362503494,-72.69417236010433
+"06105","Hartford","CT","sunrise park","prospect avenue","06105",41.77570044994354,-72.71392464637756
+"06105","Hartford","CT","Backyard Relaxation Station","not_available","06119",41.761062,-72.71838
+"06105","Hartford","CT","Keney Park Pond House","383 Edgewood Street","06112",41.787620045354025,-72.68943832687042
+"06105","Hartford","CT","kid park","110 Columbia St, Hartford, CT 06106","06106",41.7624397277832,-72.69151306152344
+"06106","Hartford","CT","Pope Park","30 Pope Park Dr","06106",41.75519040985332,-72.69723788783935
+"06106","Hartford","CT","Charter Oak Landing","50 Reserve Road","06106",41.752343556494516,-72.65857256589543
+"06106","Hartford","CT","Pope park","100 Park St","06106",41.75743103027344,-72.67761993408203
+"06106","Hartford","CT","Cove Park","not_available","06109",41.724507069202346,-72.66543849253004
+"06107","West Hartford","CT","Fernridge Park","567 Fern St","06107",41.76639975096655,-72.75260144842363
+"06108","East Hartford","CT","McAuliffe Park","not_available","06108",41.784442806837724,-72.62829911294823
+"06108","East Hartford","CT","Shea Park","55 Mercer Ave","6118",41.758583375789506,-72.63433806303235
+"06108","East Hartford","CT","Martin Park","307 Burnside Ave","06108",41.774136,-72.624655
+"06108","East Hartford","CT","Town Green at Alumni Park","1021 Main St","06108",41.7719612121582,-72.64305114746094
+"06108","East Hartford","CT","Eh Community Center Park","69-85 Richard Rd","06108",41.77227359,-72.64403906
+"06109","Wethersfield","CT","Standish Park","214-216 Hartford Ave","06109",41.718148511107,-72.65979664445565
+"06109","Wethersfield","CT","Millwoods Park","166 Prospect St","06109",41.6908064034705,-72.66701974259877
+"06109","Wethersfield","CT","Cove Carnival","Cove Park","06109",41.7184265,-72.6604035
+"06109","Wethersfield","CT","Pine acres","Western Ave.","06109",41.708715999999995,-72.677563
+"06109","Wethersfield","CT","Wintergreen Woods Park","Folly Brook Blvd","06109",41.70593727224171,-72.6735093851394
+"06110","West Hartford","CT","Beachland Park","847 Quaker lane","06110",41.73576,-72.73307
+"06111","Newington","CT","Mill Pond Park","Mill Pond Park","06111",41.69414805382146,-72.72923606910595
+"06111","Newington","CT","Eagle Park","Eagle Drive","06111",41.71167508051417,-72.75313822607987
+"06111","Newington","CT","Churchill Park","1971-1987 Connecticut 176","06111",41.676342540033005,-72.72107960512587
+"06117","West Hartford","CT","Dwight D. Eisenhower Memorial Park","1 Sheep Hill Drive","06117",41.791188761351385,-72.74682541033705
+"06117","West Hartford","CT","Westmoor Park","Flagg Road","not_available",41.783097700478166,-72.75871540230965
+"06117","West Hartford","CT","Westmoor Park","119 Flagg Rd","06117",41.783478,-72.7588
+"06117","West Hartford","CT","Kennedy park","160 Oakwood Ave","06119",41.75285850852598,-72.7224609186183
+"06117","West Hartford","CT","Botanical garden New York","not_available","06117",41.78577041625977,-72.72355651855469
+"06118","East Hartford","CT","Nicholas Foran Park","2-266 Forest St","06118",41.75271310472267,-72.59834289550781
+"06226","Willimantic","CT","Alex Caisse Springs","not_available","06226",41.72654298245742,-72.2018978505258
+"06226","Willimantic","CT","Gates Road","not_available","06249",41.68478470226058,-72.21426400605834
+"06226","Willimantic","CT","Willimantic Green","Jackson Street","06226",41.71662916391029,-72.20696760367194
+"06231","Amston","CT","Veterans park","Wall street","06248",41.663907778394766,-72.3626501433189
+"06232","Andover","CT","Andover Monument Park","not_available","06232",41.738209,-72.367915
+"06234","Brooklyn","CT","Prince Hill Walking Track","not_available","06234",41.792830294763164,-71.93196287769025
+"06234","Brooklyn","CT","Meshmaquet Park","RT 44","not_available",41.77339905,-71.92071680000001
+"06235","Chaplin","CT","Edward Garrison Park","not_available","06235",41.802154,-72.12558
+"06238","Coventry","CT","River Park","Plains Road","06268",41.797446,-72.300798
+"06238","Coventry","CT","Creaser Park","not_available","06238",41.77892983269137,-72.35740721751426
+"06238","Coventry","CT","Merrow Meadow Park","Merrow Rd","06268",41.82405457311115,-72.312536
+"06239","Danielson","CT","Lions Park","not_available","06239",41.818420192644,-71.88056331223618
+"06239","Danielson","CT","Water Street Amphitheater","Water Street","06239",41.80566078897645,-71.88509686678496
+"06241","Dayville","CT","Owen Bell Park","19 Town Farm Rd","06241",41.84570723866382,-71.88157656449884
+"06241","Dayville","CT","Owen Bell Park","572 Hartford Pike","not_available",41.84563192712504,-71.88169815454931
+"06241","Dayville","CT","Ragnar Exchange 23","not_available","06260",41.87651980811439,-71.90674469251194
+"06241","Dayville","CT","Old Killingly Pond Trail","not_available","06241",41.86103,-71.804189
+"06242","Eastford","CT","Frog Rock","Pomfret Rd","06242",41.86846328430344,-72.05070808567599
+"06247","Hampton","CT","High Street Playground","150-168 High St","06330",41.717373,-72.08455258
+"06247","Hampton","CT","Governor's Island","not_available","06247",41.791202621482356,-72.08456465549503
+"06248","Hebron","CT","Burnt Park","150 East St","06248",41.682559999999995,-72.387685
+"06249","Lebanon","CT","Colchester Town Green","S. Main St","not_available",41.57442955481209,-72.33191372484903
+"06249","Lebanon","CT","Ragnar Exchange 16","not_available","06336",41.575701688174426,-72.19811264742002
+"06250","Mansfield Center","CT","Schoolhouse Brook Park","55-107 Clover Mill Rd","06268",41.77565814282516,-72.21706573522303
+"06250","Mansfield Center","CT","Moss Forest Tract","Daleville Road","06268",41.79792826471422,-72.24174854435329
+"06250","Mansfield Center","CT","Mansfield Hollow Wildlife Area","not_available","06250",41.7788419534,-72.18377987680178
+"06250","Mansfield Center","CT","Patterson Square","2 Dog Lane","06268",41.804565,-72.24353
+"06255","North Grosvenordale","CT","Roseland Park","not_available","06281",41.95034396186842,-71.95567974796984
+"06259","Pomfret Center","CT","Pomfret Center Softball Field","67 Hampton Ed","not_available",41.87512044132208,-71.98068553469462
+"06260","Putnam","CT","Rotary Park","199 Kennedy Drive","06260",41.917341757750734,-71.91082049826656
+"06260","Putnam","CT","River Mills Heritage Trail","Kennedy Drive","not_available",41.917912202072515,-71.9103573412241
+"06277","Thompson","CT","Thompson Hill","not_available","06277",42.003519,-71.845414
+"06277","Thompson","CT","Ragnar Relay - New England: Exchange 25","Quaddick Town Farm Rd","not_available",41.95579344633498,-71.80826657160407
+"06281","Woodstock","CT","South Woodstock Green","Route 169","not_available",41.938582,-71.959629
+"06320","New London","CT","Groton Shore Memorial Park","not_available","06340",41.354654,-72.083783
+"06320","New London","CT","Waterford Beach","317 Great Neck Road","not_available",41.30713792298112,-72.10545183299944
+"06320","New London","CT","Connecticut College Arboretum","270 Mohegan Ave","06320",41.378624276721766,-72.10951337736131
+"06320","New London","CT","Thames View Park","Thames St","06340",41.353295,-72.083313
+"06320","New London","CT","Caulkin's Park","Riverview Ave","06320",41.34095265596169,-72.10502368971322
+"06320","New London","CT","Riverside Park","76-106 Adelaide St","06320",41.35996834498855,-72.1120249780301
+"06320","New London","CT","New London Waterfront Park","1 Water St.","06320",41.35295321145768,-72.09404217935285
+"06320","New London","CT","Upper Lot","USCGA","06320",41.3553,-72.0995
+"06320","New London","CT","DNA Epicenter","33 Gallows Ln","06320",41.38058853149414,-72.11170959472656
+"06320","New London","CT","Williams Park","149-159 Broad St","06320",41.3592780796127,-72.10439883082111
+"06320","New London","CT","Harkness","not_available","06320",41.335941351251826,-72.10567747583092
+"06320","New London","CT","Williams Memorial Park","22-68 Broad St","06320",41.35683368619506,-72.1014828050419
+"06320","New London","CT","Faire Harbour Park","14 Anthony Rd.","06320",41.35962718383933,-72.1277375609506
+"06330","Baltic","CT","Sprague River Park","24-78 N Main St","06330",41.61892630717865,-72.08468037801735
+"06330","Baltic","CT","Saltrock Campground","173 Scotland Road","06330",41.641380310058594,-72.09312438964844
+"06330","Baltic","CT","R Red McKeon Occum Park","Taftville-Occum Rd","06360",41.59486004912306,-72.04974747712997
+"06331","Canterbury","CT","Plainfield Ct Skatepark","not_available","06374",41.6834760375198,-71.92748790026266
+"06333","East Lyme","CT","McCooks Beach & Park","McCook Place","06357",41.318127003504856,-72.19906119930887
+"06333","East Lyme","CT","Bridebrook Park","not_available","06357",41.32005594071723,-72.23780452862317
+"06333","East Lyme","CT","Village Green Gazebo","4-34 Pennsylvania Ave","06357",41.32375756,-72.19210294
+"06334","Bozrah","CT","Bozrah Park","not_available","06334",41.5627693523853,-72.14382596368117
+"06335","Gales Ferry","CT","Erickson Park","99 Military Highway","06335",41.415385252449944,-72.08676123263147
+"06335","Gales Ferry","CT","Gale's Faery","not_available","06335",41.45518438330484,-72.0665808240215
+"06335","Gales Ferry","CT","Shantok Village Of Uncas","not_available","06382",41.47782934624827,-72.07859331168906
+"06339","Ledyard","CT","Preston Park","not_available","06339",41.485831473008,-72.03413895005606
+"06339","Ledyard","CT","Ledyard Parks and Rec","4 Blonder Park Rd","06339",41.4320068359375,-72.0052719116211
+"06339","Ledyard","CT","Ericson Parkway","Iron Street","49866",41.447837829589844,-71.99784851074219
+"06340","Groton","CT","Fort Griswold Battlefield State Park","57 Fort St","06340",41.35374730315172,-72.080397605896
+"06340","Groton","CT","Nautilus Overlook Park","Military Highway","06340",41.386395650387236,-72.08662440467583
+"06340","Groton","CT","Esker Point Waterfront Park","Groton Long Point Rd.","06340",41.336182192826314,-72.0026391479357
+"06340","Groton","CT","Noank Park","Main St.","06340",41.32592232,-71.98853321
+"06340","Groton","CT","Park","1-41 Catalpa Rd","06340",41.38263349,-72.07185587
+"06351","Jewett City","CT","Pachaug State Forest - Chapman Area","Ekonk Hill Rd","06384",41.593432056765714,-71.86770919837178
+"06351","Jewett City","CT","Lisbon Meadows","RT 169","06351",41.60106085191724,-72.01816174854983
+"06351","Jewett City","CT","Griswold Veterans Memorial Park","Ashland St.","06351",41.606233464099894,-71.97916030883789
+"06351","Jewett City","CT","Whitaker Grounds","30 S Burnham Hwy","06351",41.60200500488281,-72.016357421875
+"06351","Jewett City","CT","165 Picnic Area","Route 165","06365",41.53106,-71.958703
+"06354","Moosup","CT","sterling community park","Sterling Rd, Sterling, CT 06377","06377",41.70758570965278,-71.82993706248192
+"06354","Moosup","CT","Moosup/plainfield Park and ride","not_available","06354",41.7191286305001,-71.89510750903852
+"06355","Mystic","CT","Mystic River Park","not_available","06355",41.353921173712614,-71.9685244121446
+"06357","Niantic","CT","Mago Point Park","20 1st St","06385",41.325782775878906,-72.17623901367188
+"06359","North Stonington","CT","NS Recreation Field/Park","not_available","06359",41.45119094848633,-71.89936065673828
+"06360","Norwich","CT","Mohegan Park","Mohegan Park Rd","06360",41.54764966504278,-72.07046931276153
+"06360","Norwich","CT","Brown Memorial Park","not_available","06360",41.52296178359831,-72.07698473135288
+"06370","Oakdale","CT","Camp Oakdale","not_available","06370",41.47617125489171,-72.15676083173503
+"06370","Oakdale","CT","Oakdale Park","Simpson Lane","not_available",41.47523813590446,-72.15671455416863
+"06371","Old Lyme","CT","Essex Town Green","not_available","06426",41.35236853542117,-72.38965510782138
+"06371","Old Lyme","CT","Old Saybrook Town Green","not_available","06475",41.290046496940626,-72.37577724852798
+"06371","Old Lyme","CT","Fort Saybrook Monument Park","150 College St.","06475",41.2844790452504,-72.35145316685218
+"06375","Quaker Hill","CT","Leary Park","739 Vauxhall St. Ext","06385",41.38757430715101,-72.14402265204832
+"06375","Quaker Hill","CT","Hunts Brook Fishing hole","24 Old Mill Rd","06375",41.399789,-72.115937
+"06375","Quaker Hill","CT","Waterford LL North","280 Bloomingdale Rd","06375",41.402095794677734,-72.11621856689453
+"06375","Quaker Hill","CT","Town Green","124 old norwich rd","06375",41.402998,-72.112621
+"06378","Stonington","CT","Old Lighthouse Museum","7 Water St","06378",41.328575134277344,-71.90523529052734
+"06378","Stonington","CT","Cannon Square","Cannon Square","06378",41.33117411443338,-71.90647258425176
+"06378","Stonington","CT","Admiral Fife Park","route 1","06378",41.35202944278717,-71.90905272960663
+"06379","Pawcatuck","CT","Westerly Public Library","44 Broad St","02891",41.377292237182736,-71.82970064267954
+"06379","Pawcatuck","CT","stonington park","not_available","06379",41.364416406108106,-71.85644693995107
+"06385","Waterford","CT","Civic Triangle Duck Pond","Rope Ferry Road","not_available",41.34366076464768,-72.1336616215639
+"06385","Waterford","CT","Jordan Mill Pond Grist Mill","24 Rope Ferry Rd","06385",41.33830261230469,-72.13249969482422
+"06385","Waterford","CT","Stenger's Farm Park","90-128 Clark Ln","06385",41.35387487930794,-72.13259715081529
+"06385","Waterford","CT","Tree Bench","Rope Ferry Rd","06385",41.34230785237611,-72.1348533613636
+"06385","Waterford","CT","Duck Pond","boston post road/rope ferry road","06385",41.3435659062482,-72.13367897703294
+"06385","Waterford","CT","Elab Road","not_available","06385",41.311129877606746,-72.17010794182755
+"06385","Waterford","CT","Lake Compounce","186 Enterprise Dr","06010",41.333621,-72.172803
+"06401","Ansonia","CT","Huj","not_available","06401",41.342917,-73.071135
+"06401","Ansonia","CT","Warsaw Park","100-124 Pulaski Hwy","06401",41.33063389292858,-73.04928157423807
+"06401","Ansonia","CT","Coon Hollow Park","Nutmeg Ave","06418",41.331787792316845,-73.09644914693574
+"06401","Ansonia","CT","Veterans Park","253 Main St","06401",41.34292984008789,-73.07811737060547
+"06401","Ansonia","CT","Linnett Park","Crowley St","06401",41.350284187255056,-73.07491779327393
+"06401","Ansonia","CT","Osbourndale Park","44 Division St","06418",41.331241607666016,-73.08152770996094
+"06403","Beacon Falls","CT","Three Saints Park","112 Miller Rd","06524",41.405561999999996,-73.03619599999999
+"06403","Beacon Falls","CT","Tobys Pond","not_available","06403",41.423717,-73.071434
+"06403","Beacon Falls","CT","Veterans Park Beacon Falls","1 North Main Street","06403",41.442459,-73.062272
+"06403","Beacon Falls","CT","veterans park","1 n main st","06403",41.44259769713619,-73.06251525878906
+"06403","Beacon Falls","CT","Mathies Park","112-170 Back Rimmon Rd","06403",41.42622497869187,-73.08182091002543
+"06403","Beacon Falls","CT","Riverbend Park","Nancy Ave","06403",41.429227,-73.068848
+"06405","Branford","CT","Branford Town Green","Town Hall Drive","06405",41.281851015600296,-72.81096486640358
+"06405","Branford","CT","Foote Memorial Park","Foote Memorial Park","06405",41.26731553798908,-72.80780264263741
+"06405","Branford","CT","Veterans Memorial Park","74-100 Brushy Plain Rd","06405",41.29846362264281,-72.8201974029673
+"06405","Branford","CT","Young Park","not_available","06405",41.2714099,-72.775688
+"06405","Branford","CT","North Farms Park","Route 139","not_available",41.315004300532756,-72.76963070191412
+"06405","Branford","CT","The Horse Shoe Pit","Svea Ave","06405",41.28435730934143,-72.80812919139862
+"06405","Branford","CT","Mr Electric","12 commerical st","not_available",41.298233,-72.784223
+"06410","Cheshire","CT","Bartlem Park","500 S Main St","06410",41.48787325698436,-72.90225924899427
+"06410","Cheshire","CT","Lock 12 Historical Park","No. Brooksvale","06410",41.47785902798194,-72.92177828762543
+"06410","Cheshire","CT","Mixville Recreation Area","Notch Road","not_available",41.5167504799251,-72.93911567110702
+"06410","Cheshire","CT","Cheshire Soccer Club","Quinnipiac Park","06410",41.533286799214615,-72.8684547986456
+"06410","Cheshire","CT","Parente Park","not_available","06410",41.559879302978516,-72.87799072265625
+"06410","Cheshire","CT","Richard Sheahan Park","not_available","06492",41.46076808887038,-72.85406628130683
+"06410","Cheshire","CT","Cheshire Skate Park","525 S Main St","06410",41.489864349365234,-72.90943908691406
+"06410","Cheshire","CT","Project Adventure!","not_available","06712",41.469947,-72.9536
+"06410","Cheshire","CT","Linear Park @ Cornwall Avenue","480 Cornwall Avenue","not_available",41.49855948711532,-72.9145662288515
+"06413","Clinton","CT","Hammonasset Beach State Park","1288 Boston Post Rd","06443",41.262065877494265,-72.55651465419488
+"06413","Clinton","CT","Madison Town Campus","Campus Drive","06443",41.2961401484251,-72.57495759984795
+"06413","Clinton","CT","Clinton Youth Soccer (Peters Complex)","not_available","06413",41.30305783107417,-72.52729091747862
+"06415","Colchester","CT","Colchester Parks And Recreation","not_available","06415",41.583260586931544,-72.3488093275277
+"06415","Colchester","CT","Ragnar Exchange 13","not_available","06469",41.52081650339325,-72.45292010753198
+"06415","Colchester","CT","Hunter Daniels Dan Dombrowski Memorial Park","Wigwam Rd","06469",41.498284882309385,-72.45027930687849
+"06416","Cromwell","CT","Brownstone Wake Park","161 Brownstone Ave","06480",41.574962,-72.644677
+"06416","Cromwell","CT","Portland Riverfront Park","not_available","06480",41.58000993513893,-72.64302279117338
+"06416","Cromwell","CT","The Farms Green","East Lake Drive","06457",41.59436098634408,-72.69029144910162
+"06416","Cromwell","CT","Camp Eagle Feather","not_available","06457",41.58451843261719,-72.71180725097656
+"06417","Deep River","CT","Ivoryton Library","not_available","06442",41.348130545421014,-72.44130501276467
+"06417","Deep River","CT","Cockaponset State Forest","Rt 145","06498",41.3590030720725,-72.5062101416385
+"06417","Deep River","CT","Plattwood Park","not_available","06417",41.36493148104175,-72.46281854375758
+"06418","Derby","CT","Riverview Park","799 Howe Ave","06484",41.32325911502726,-73.10205745539861
+"06418","Derby","CT","Shelton Dog Park","Nells Rock Rd","06484",41.31073034187955,-73.11960196301686
+"06418","Derby","CT","Riverwalk Park","37-79 Canal St E","06484",41.31620795254981,-73.09002851440965
+"06418","Derby","CT","O’sullivan Island Recreation Park","not_available","06484",41.313399,-73.088178
+"06418","Derby","CT","Park","Shagbark Dr","06418",41.31646245,-73.04917283
+"06418","Derby","CT","Riverwalk Park Pavillion","93 Canal St.","06484",41.31669616699219,-73.09040069580078
+"06419","Killingworth","CT","Sheldon Field","Rt 80","06419",41.358329187089,-72.55057659083397
+"06419","Killingworth","CT","Killingworth Recreation Park","not_available","06441",41.409208892635455,-72.54273213263706
+"06419","Killingworth","CT","Gilwell","not_available","06419",41.34029246306274,-72.59162039261109
+"06420","Salem","CT","Salem Community Park","89 Norwich Road","not_available",41.47842788696289,-72.2553482055664
+"06424","East Hampton","CT","Meshomasic State Forest","Reservoir Rd","06424",41.63282211761599,-72.55799337266563
+"06424","East Hampton","CT","Lake Terramuggus","Park road","06447",41.643914156051025,-72.47210413327278
+"06424","East Hampton","CT","Haddam Meadows Park","817 Saybrook Rd./Rt. 154","06438",41.48658384444725,-72.51800537109375
+"06424","East Hampton","CT","Cranberry Bog","not_available","06424",41.578549843509855,-72.49129255336848
+"06424","East Hampton","CT","Seamster Park","20 Smith St","06424",41.57049560546875,-72.48571014404297
+"06424","East Hampton","CT","Blish Park","Park Road","06447",41.64444003913411,-72.47294425964355
+"06424","East Hampton","CT","Field Park","not_available","06438",41.478568,-72.516951
+"06437","Guilford","CT","Guilford Green","Whitfield St","06437",41.28290204146255,-72.68189907073975
+"06437","Guilford","CT","Jacobs Beach","100-198 Seaside Ave","06437",41.26838684305742,-72.66871145368805
+"06437","Guilford","CT","Chaffinch Island Park","not_available","06437",41.26578383942233,-72.67622270783107
+"06437","Guilford","CT","New Haven Sportsmen's Club","4136-4240 Durham Rd","06437",41.39851307563466,-72.69758427280738
+"06443","Madison","CT","Madison Green","not_available","06443",41.278992808360286,-72.60229325647332
+"06443","Madison","CT","Ragnar Exchange 3","Boston post road","not_available",41.27936547891735,-72.59509143196173
+"06443","Madison","CT","Bauer Park","261 Copse Road","not_available",41.292237880961316,-72.61153347412281
+"06450","Meriden","CT","Washington Park","444 Liberty Street","06450",41.53691854539913,-72.78229795778658
+"06450","Meriden","CT","Brookside Park","1024 Broad St","06450",41.54646301269531,-72.78388977050781
+"06450","Meriden","CT","Kronenberger Park","Westview Dr","06450",41.53209624548334,-72.76407435124828
+"06450","Meriden","CT","Ceppa Field Park","83 Gale Ave","06450",41.525005307419946,-72.80283994651624
+"06450","Meriden","CT","Benjamin J Nessing Memorial Park","Murdock Ave","06450",41.50658474579539,-72.77219295501709
+"06451","Meriden","CT","Hubbard Park","199 Notch Rd","06451",41.549127200187485,-72.83312813842655
+"06451","Meriden","CT","Habershon Field","121 Cutlery Ave","06451",41.52126641930205,-72.83095863848155
+"06451","Meriden","CT","vasa park","392 Main St","06451",41.514599598084786,-72.83629431225751
+"06455","Middlefield","CT","Peckham Park","not_available","06455",41.509721568747494,-72.71283628447097
+"06457","Middletown","CT","Wadsworth Mansion","421 Wadsworth St","06457",41.535328748830075,-72.67612099327035
+"06457","Middletown","CT","Willie Pep Skateboard Park","1 Green Street","06457",41.5643928559875,-72.65681149913246
+"06457","Middletown","CT","Harbor Park","80 Harbor Dr","06457",41.56020172339011,-72.64477083742963
+"06457","Middletown","CT","Rose Hill Park","197-213 Rose Hill Rd","06480",41.600733400247776,-72.59874723490222
+"06457","Middletown","CT","Smith Memorial Park","300 Country Club Rd","06457",41.564701080322266,-72.7117919921875
+"06460","Milford","CT","Milford Green","Broad St.","06460",41.21960392931145,-73.06196736754366
+"06460","Milford","CT","Walnut Beach","113 E. Broadway","06460",41.1957250371886,-73.0793712523526
+"06460","Milford","CT","Bayview Green","not_available","06460",41.207822,-73.031595
+"06460","Milford","CT","Eisenhower Park","725 North Street","06460",41.25006408829879,-73.05315971374512
+"06460","Milford","CT","Fowler Field","Shipyard Ln.","06460",41.22164575007071,-73.05396821216074
+"06460","Milford","CT","Booth Memorial Park","5774 Main Street","06614",41.23489128489201,-73.11049437522794
+"06460","Milford","CT","Wildemere Beach Community Park","Broadway","06460",41.18780661012007,-73.09002855256155
+"06460","Milford","CT","Milford North Duckpond","Maple","06460",41.226486496651745,-73.05669483493922
+"06460","Milford","CT","Linwood Park","Linwood Street","06461",41.21246717806821,-73.09816090109145
+"06460","Milford","CT","Yeomans Park and Atheltic Field","35 Main Street","06615",41.200955,-73.116374
+"06460","Milford","CT","hill st","Hill St","06460",41.226497650146484,-73.07071685791016
+"06460","Milford","CT","Longbrook Park","103 Glendale Rd","06614",41.20569353998547,-73.12151775386816
+"06460","Milford","CT","Pecks Mill Public Access","not_available","06614",41.224566,-73.114024
+"06460","Milford","CT","Trubee-Doolittle Park","Hawley Avenue","06460",41.229915821395245,-72.9897248210653
+"06468","Monroe","CT","William E. Wolfe Park","285 Cutler's Farm Road","06468",41.314811559304374,-73.2364822226975
+"06468","Monroe","CT","Monroe Green","755 Monroe Turnpkie","06468",41.33228546317489,-73.20716221217641
+"06468","Monroe","CT","Sticks And Stones Farm","2 Huntington Ave","06470",41.33630061241791,-73.29739097438845
+"06468","Monroe","CT","Harmony Hill National Off-Road Center","Country squire ct","06482",41.38328014769696,-73.20628663692105
+"06468","Monroe","CT","The Attard Compound","not_available","06468",41.351254,-73.185284
+"06468","Monroe","CT","Susan Kimball Memorial Garden","71 Webb Cir","06468",41.362004999999996,-73.173293
+"06470","Newtown","CT","Treadwell Memorial Park","8 Philo Curtis Road","06482",41.41972503694411,-73.27225432290862
+"06470","Newtown","CT","Dickinson Memorial Park","Elm Dr","06470",41.39790624290194,-73.30147361003964
+"06471","North Branford","CT","North Farms Trails","not_available","06471",41.32321518769523,-72.7696854149285
+"06473","North Haven","CT","North Haven Green","1-25 Church St","06473",41.38691945097608,-72.86074141345235
+"06473","North Haven","CT","Hansen Farm Park","not_available","06473",41.38178868940129,-72.82670613183107
+"06473","North Haven","CT","Ye Old Abandoned Track","not_available","06513",41.334702187933665,-72.86964899561518
+"06473","North Haven","CT","John Grover Wyman Park","18 Church St","06473",41.38783645629883,-72.8614273071289
+"06473","North Haven","CT","Pardee Rose Garden","East Rock Park","not_available",41.334270989740915,-72.9024207605652
+"06473","North Haven","CT","Town Center Park","Worth Ave.","06518",41.38109483127599,-72.90750277026848
+"06473","North Haven","CT","Feis","North Haven Fairgrounds","06473",41.3809693,-72.8623739
+"06473","North Haven","CT","Blakeslee Park","Blakeslee  av","not_available",41.397268882535776,-72.85009768065947
+"06473","North Haven","CT","Peters Rock Park","85 Middletown Ave","06473",41.34026336669922,-72.86184692382812
+"06477","Orange","CT","Orange Community Center","not_available","06477",41.27408948787431,-73.02057745971885
+"06477","Orange","CT","Wrights Pond","261-301 Old Grassy Hill Rd","06477",41.28443213886305,-73.03421221100211
+"06477","Orange","CT","Orange Fairgrounds","Orange Center Road","not_available",41.27436861178528,-73.02193232265157
+"06477","Orange","CT","Orange Town Green","Orange Center Road","06477",41.278331988911475,-73.02459013732073
+"06478","Oxford","CT","Southford Falls","175 Quaker Farms Road","06488",41.45901446836341,-73.16488444805145
+"06478","Oxford","CT","Lily Park","Great Oak Road","06478",41.42133043923824,-73.1388588431874
+"06478","Oxford","CT","Webb Mountain Park","Old Fish House Rd","06468",41.3686649464823,-73.15592874662909
+"06478","Oxford","CT","Community House Park","221-341 Community House Rd","06488",41.47714880027254,-73.19987481643713
+"06478","Oxford","CT","Posypanko Park","9 Hawkins Rd.","06748",41.423691940229574,-73.15724026765386
+"06478","Oxford","CT","Towantic Park","27 Towantic Hill Rd","06478",41.479626,-73.118742
+"06478","Oxford","CT","Out For A Jog","not_available","06478",41.42074424395928,-73.11246536427858
+"06479","Plantsville","CT","Recreation Park","S End Rd","06479",41.56829126975035,-72.87868316410263
+"06479","Plantsville","CT","Centennial Park","not_available","06479",41.586409,-72.888818
+"06479","Plantsville","CT","Jaycee Park","Union St","06479",41.584606,-72.913315
+"06480","Portland","CT","Oakwood Soccer Park","2-98 Cornwall St","06480",41.60627383968033,-72.60183701213361
+"06480","Portland","CT","Oakwood Soccer Park","521 Connecticut 17","06480",41.60676711345757,-72.60187743887988
+"06483","Seymour","CT","French Memorial Park","73 Spruce Street","06483",41.39883307359017,-73.06723785871966
+"06483","Seymour","CT","Paul Pawlak, Sr. Fish Bypass Channel & Park at Tingue Dam","not_available","06483",41.393641737654654,-73.07552308428266
+"06483","Seymour","CT","Chatfield Park","Chatfield St.","06483",41.40109453106771,-73.05373186487536
+"06483","Seymour","CT","Sochrin's Park","Moss Avenue","06483",41.37701054999416,-73.0757745313619
+"06488","Southbury","CT","Settler's Field Park","359-479 Crook Horn Rd","06488",41.49635249164204,-73.22044021767705
+"06488","Southbury","CT","Ballantine Park","Old Field Rd","06488",41.48533776240784,-73.21889877319336
+"06489","Southington","CT","Memorial Park","Woodruff St.","06489",41.60685341077547,-72.84870642689579
+"06492","Wallingford","CT","Pragemman Park","Oak St.","06410",41.49852911603543,-72.82158802360463
+"06492","Wallingford","CT","Dutton Park","N Main St.","06492",41.468037124955416,-72.81192852867541
+"06492","Wallingford","CT","Marcus E. Cooke Memorial Park","Old Rock Hill Rd.","06492",41.45275255584801,-72.7881820961097
+"06492","Wallingford","CT","Robert Wallace Park","Quinnipiac Street","06492",41.45653105,-72.83001673333334
+"06492","Wallingford","CT","PNA Park","171 North Plains Industrial Hwy","not_available",41.47312351607457,-72.82008925768604
+"06498","Westbrook","CT","Ragnar Exchange 5","not_available","06498",41.27815664310118,-72.45890081778842
+"06498","Westbrook","CT","Westbrook Town Green","Boston Post Rd","06498",41.285812089275986,-72.4488288779209
+"06498","Westbrook","CT","Peqout Park Industrial Park","Pequot Park Rd","06498",41.296525515386136,-72.48272987067007
+"06510","New Haven","CT","New Haven Green","Temple Street","06510",41.307162185311924,-72.92593106909052
+"06510","New Haven","CT","Phelps Triangle","Trumbull St.","06510",41.31330592355564,-72.92260308191264
+"06511","New Haven","CT","Wooster Square Park","Wooster Sq","06511",41.304167796090056,-72.9180522583769
+"06511","New Haven","CT","Long Wharf","shore","not_available",41.29119561520393,-72.92187634024228
+"06511","New Haven","CT","East Rock Park","41 Cold Spring St","06511",41.32705631261303,-72.90541447321398
+"06511","New Haven","CT","Edgewood Park","Edgewood Ave","06511",41.319413872653804,-72.95487163886472
+"06511","New Haven","CT","Edgerton Park","75 Cliff St","06511",41.33346274190981,-72.91507600754605
+"06511","New Haven","CT","Long Wharf Nature Preserve","Long Wharf Drive","06511",41.293442058837044,-72.91927504837166
+"06511","New Haven","CT","Beaver Ponds Park","Crescent Street","06515",41.329491316292476,-72.94378720534722
+"06511","New Haven","CT","Criscuolo Park","Chapel St","06513",41.30324849577989,-72.90283030727568
+"06511","New Haven","CT","Scantlebury Park","not_available","06511",41.317299,-72.927487
+"06511","New Haven","CT","Kings Keep","171 Edgewood Ave","06511",41.312093,-72.938847
+"06511","New Haven","CT","Amistad Park","not_available","06519",41.300573,-72.93217
+"06511","New Haven","CT","West River Memorial Park","Corner Of Rt 10 & Rt 34","06516",41.308276491089934,-72.95441604539862
+"06511","New Haven","CT","sliver by the river","Water St, Bridgeport, CT","06604",41.29635346064223,-72.9102020284806
+"06511","New Haven","CT","Bassett Park","Ridge St.","not_available",41.31982654791885,-72.9005691392509
+"06511","New Haven","CT","Goffe St Park","Goffe St","06511",41.31916704926133,-72.93789948960475
+"06512","East Haven","CT","Lighthouse Point Park","2 Lighthouse Point Rd","06512",41.24814201268682,-72.90233423652288
+"06512","East Haven","CT","Fort Hale","Woodward Ave.","06512",41.26965805005741,-72.90027495511049
+"06512","East Haven","CT","Chatham Square Park","Chatham & Maltby","06511",41.31486996776208,-72.88899008132077
+"06512","East Haven","CT","Fantasy of Lights","Lighthouse Point Park","06512",41.253090212297955,-72.89957066456095
+"06512","East Haven","CT","Pardee Seawall Park","not_available","06512",41.262604,-72.89503
+"06512","East Haven","CT","Quinnipiac Park + River","100 Front St","06513",41.30859007613473,-72.88829385580048
+"06512","East Haven","CT","Juluano Park","410 Lighthouse Rd","06512",41.2557628321026,-72.8936412955063
+"06512","East Haven","CT","Memorial Park","129-299 Thompson Ave","06512",41.268622939762196,-72.87783514350366
+"06514","Hamden","CT","Mill Rock Park","not_available","06517",41.336963960940714,-72.92482366776099
+"06514","Hamden","CT","West Rock Ridge State Park","Baldwin Drive","06515",41.342661829131124,-72.95838948298604
+"06514","Hamden","CT","Pine Rock Park","not_available","06514",41.35450599385038,-72.943965990637
+"06514","Hamden","CT","Meadowbrook Green","Dixwell Ave.","06518",41.38167253576182,-72.90871962701073
+"06514","Hamden","CT","Regional Water Authority","82 Armory Street","06517",41.336339689764806,-72.91820222352399
+"06514","Hamden","CT","West Rock Nature Center","1090 Wintergreen Ave","not_available",41.34664535522461,-72.96739196777344
+"06514","Hamden","CT","Hamden Water Treatment Plant & Park","1011 Whitney Ave","not_available",41.33586598096951,-72.9131269454956
+"06515","New Haven","CT","west rock scenic lookout","not_available","06515",41.332348,-72.96127257
+"06516","West Haven","CT","West Haven Green","Main Street & Campbell Avenue","06516",41.27118349916638,-72.95034351411128
+"06516","West Haven","CT","Main Street Green","Main And Platt","06516",41.26720402034994,-72.96349895942745
+"06516","West Haven","CT","Old Grove Park","Grove Street","not_available",41.25607213908253,-72.95157641602809
+"06516","West Haven","CT","Shingle Hill Park","Shingle Hill Road","06516",41.26377395022725,-72.97048816104447
+"06516","West Haven","CT","TP Day","not_available","06516",41.263218,-72.959448
+"06516","West Haven","CT","Abbott Park","Ocean Ave","06516",41.247111557517435,-72.96930023435105
+"06516","West Haven","CT","Pet Playgrounds Dog Fence Kits","48 Myrtle Ave","06516",41.278412,-72.958093
+"06516","West Haven","CT","Third Ave Park","3rd Ave, West Haven, CT 06516","06516",41.26740646362305,-72.93859100341797
+"06516","West Haven","CT","Contact Park","Contact Drive","06516",41.23927280064521,-72.97736187199467
+"06516","West Haven","CT","Skate Park","45-211 Beach St","06516",41.26137443730042,-72.93449595262757
+"06524","Bethany","CT","Bethany Parks and Recreation","Town Hall, 40 Peck Rd","06524",41.4223143,-73.0005845
+"06525","Woodbridge","CT","Alice Newton Street Memorial Park","11 Meetinghouse Ln","06525",41.353721688668884,-73.01299766285433
+"06525","Woodbridge","CT","Kimberly and Sandra Hitchcock Memorial Park","not_available","06525",41.353256,-73.017758
+"06604","Bridgeport","CT","Seaside Park","1 Barnum Dyke","06604",41.162469153552316,-73.18984489959435
+"06604","Bridgeport","CT","Tunxis Hill Park","Melville Ave","06824",41.17842417178069,-73.22600156761966
+"06604","Bridgeport","CT","Beardsley Zoo","1875 Noble Ave","06610",41.2096436543842,-73.18228616040366
+"06604","Bridgeport","CT","Lincoln Park","439 Jackman Ave","06825",41.194798579131,-73.22435115940885
+"06604","Bridgeport","CT","Glenwood Park","Glenwood Ave","06610",41.205167,-73.18771
+"06604","Bridgeport","CT","Puglio Park","not_available","06606",41.22085790156883,-73.2258203219124
+"06604","Bridgeport","CT","Ellsworth Park","Ellsworth St","06604",41.15463225891583,-73.22081464025679
+"06604","Bridgeport","CT","Knowlton Park","not_available","06608",41.18958891047445,-73.18823753649649
+"06604","Bridgeport","CT","Nanago Park","not_available","06604",41.184971,-73.2
+"06604","Bridgeport","CT","CancerCare Walk/Run For Hope","not_available","06824",41.141332,-73.237411
+"06604","Bridgeport","CT","University Of Bridgeport, Marina Park","350 Waldemere Ave,","06604",41.163028717041016,-73.19173431396484
+"06604","Bridgeport","CT","Washington park","Barnum ave","06608",41.185994464766246,-73.1841873915306
+"06604","Bridgeport","CT","B.J Brown Park 2006","555 Madison Ave","06604",41.18955993652344,-73.20155334472656
+"06606","Bridgeport","CT","Abraham Nichols Park","68-98 Shelton Rd","06611",41.22571135190724,-73.22453579059058
+"06606","Bridgeport","CT","Avalon Gates Park","not_available","06611",41.22821540879591,-73.1884103717886
+"06607","Bridgeport","CT","Newfield park","not_available","06607",41.17230105357454,-73.1694380272747
+"06610","Bridgeport","CT","Success Park","Granfield Ave","06610",41.19709206609634,-73.16367917632907
+"06611","Trumbull","CT","Twin Brooks Park","1 Twin Brooks Road","06611",41.24501542715216,-73.18393965626177
+"06611","Trumbull","CT","Trumbull PEQUONNOCK Trails  8 Miles","white plains road","06611",41.230364864552705,-73.18231496705548
+"06611","Trumbull","CT","Veteran's Memorial Park","38 Canal St E","06484",41.283530898024644,-73.21620583534241
+"06611","Trumbull","CT","Island Brook Park","Garden St","06611",41.23976695978824,-73.21916141583353
+"06611","Trumbull","CT","Unity Park","Unity Park Rd","06611",41.23369586417176,-73.18013141241927
+"06611","Trumbull","CT","Football Field","Indian Ledge Park Rd","06611",41.276476979255676,-73.21623802185059
+"06611","Trumbull","CT","Nothnagle Memorial Park","2-32 Center Rd","06611",41.24341123333333,-73.157382
+"06614","Stratford","CT","Roosevelt Forest","700 Peters Ln","06614",41.24931335449219,-73.1266098022461
+"06614","Stratford","CT","John Chandra Park","Wigwam Lane","06614",41.2297201139214,-73.13514780484508
+"06615","Stratford","CT","Academy Hill Green","Elm St","06615",41.188275785103095,-73.12933910177159
+"06615","Stratford","CT","Stewart B. Mckinney National Wildlife Refuge","not_available","06615",41.16289,-73.15125
+"06615","Stratford","CT","Low Park","Woodend Rd","06615",41.17764644507314,-73.1332587044519
+"06702","Waterbury","CT","Fulton Park","459 Pine St","06704",41.56655917171398,-73.03848255972272
+"06702","Waterbury","CT","Library Park","not_available","06702",41.554023,-73.045329
+"06702","Waterbury","CT","The Waterbury Green","W Main St","06702",41.55650056507435,-73.04213047027588
+"06702","Waterbury","CT","Martin Luther King Park","not_available","06704",41.56012330835123,-73.03534792387148
+"06704","Waterbury","CT","Bunker Hill Park","265 Bunker Hill Ave","06708",41.56967384108422,-73.06450009346008
+"06704","Waterbury","CT","City Mills Park","Waterbury,CT,06704","06704",41.5691088,-73.0246622
+"06704","Waterbury","CT","Long Hill Rec","2-68 Warner St","06704",41.56329095363617,-73.0182695388794
+"06704","Waterbury","CT","Montoe Park","Montoe Road","06704",41.59486426348075,-73.02355238248106
+"06704","Waterbury","CT","Bucks Hill Park","not_available","06762",41.59529161475241,-73.02298738068497
+"06704","Waterbury","CT","Rowland Park","1232 W Main St","06708",41.55426025390625,-73.06266784667969
+"06704","Waterbury","CT","Schofield Park","283 Bunker Hill Avenue","06708",41.56899958869929,-73.06470394134521
+"06705","Waterbury","CT","Fairlawn Playground","Frost Rd","not_available",41.54798,-73.00182069
+"06706","Waterbury","CT","East Mountain Park","not_available","06706",41.528081000271776,-73.0081296495474
+"06708","Waterbury","CT","Town Plot Park","37 Rosemont Avenue","06708",41.54144679170597,-73.05605372481254
+"06708","Waterbury","CT","Chase Park House","not_available","06708",41.54930688400176,-73.05519029652496
+"06716","Wolcott","CT","Peterson Memorial Park","Mad River Rd","not_available",41.61030365327173,-72.98605752139375
+"06716","Wolcott","CT","Raith National Park","20 Upson Road","06716",41.60185623168945,-72.96511840820312
+"06716","Wolcott","CT","Peterson Park","not_available","06716",41.61040093333333,-72.98596006666666
+"06751","Bethlehem","CT","Bellamy-Ferriday House and Garden","9 Main St N","06751",41.640559,-73.208676
+"06752","Bridgewater","CT","Lions Park","Whisconier Road","not_available",41.477277,-73.398817
+"06752","Bridgewater","CT","Bridgewater Town Park","South Lake Lillinonah Dr","06752",41.52509383174016,-73.36021900177002
+"06752","Bridgewater","CT","Old Bridge Park","not_available","06804",41.51366345215059,-73.3943056311845
+"06757","Kent","CT","Kent Welcome Center","not_available","06757",41.727345,-73.47463
+"06757","Kent","CT","Emory Park","not_available","06785",41.71334321181988,-73.4651592657103
+"06759","Litchfield","CT","Topsmead State Forest","46 Chase Road","06759",41.747588161323364,-73.15611303166482
+"06759","Litchfield","CT","Litchfield Town Green","74 West St","06759",41.7471502,-73.189814
+"06759","Litchfield","CT","Nystroms Park","not_available","06787",41.67981252599544,-73.11566386303484
+"06759","Litchfield","CT","Christmas Village","not_available","06790",41.80364862142691,-73.12519570037027
+"06759","Litchfield","CT","Fuessenich Park","Coe Pl","not_available",41.797872,-73.11934126666667
+"06759","Litchfield","CT","Coe Memorial Park","South Main Street","06790",41.79931140883447,-73.12182426452637
+"06762","Middlebury","CT","John A. Largay Memorial Preserve","100 Long Meadow Dr","06762",41.521080211253604,-73.13982693020034
+"06762","Middlebury","CT","Meadowview Park","Long Meadow Ext.","06762",41.520951157267795,-73.13679215344274
+"06762","Middlebury","CT","Ledgewood Park","Middlebury Road","06762",41.53890898050353,-73.11206770995878
+"06770","Naugatuck","CT","Naugatuck Green","not_available","06770",41.49082119111604,-73.05612414910381
+"06770","Naugatuck","CT","Linden Park","155 N Main St","06770",41.49590500422086,-73.0523256171515
+"06776","New Milford","CT","New Milford -  Town Green","Main St","06776",41.577375,-73.410661
+"06776","New Milford","CT","Harrybrooke Park","off Still River Rd","not_available",41.53724760986971,-73.41440968006964
+"06776","New Milford","CT","Youngs Field Park","Bridge Street","not_available",41.57676427539843,-73.41510030968216
+"06776","New Milford","CT","Sega Meadows Park","Boardman Road","06776",41.593555,-73.44928
+"06776","New Milford","CT","Lynn Deming Park","Candlewood Lake Rd","not_available",41.56935428567547,-73.44234387265253
+"06776","New Milford","CT","Dykes Point","117 Old Town Park Rd","06776",41.532881,-73.43695100000001
+"06776","New Milford","CT","Pratt Center","not_available","06776",41.62355041503906,-73.39906311035156
+"06777","New Preston Marble Dale","CT","Hidden Valley Preserve","198 Bee Brook Rd","06794",41.66601,-73.321212
+"06778","Northfield","CT","Northfield Brook Lake","Thomaston,CT,06787","06787",41.6839214496706,-73.09099680799142
+"06779","Oakville","CT","Echo Lake Park","Ice House Road","06795",41.600842301591065,-73.09714794158936
+"06782","Plymouth","CT","Plymouth Green","North Street","06782",41.6841133763046,-73.03676035093194
+"06784","Sherman","CT","Veterans Memorial Park","2-8 Sawmill Rd","06784",41.57731487629729,-73.49480152130127
+"06786","Terryville","CT","Baldwin Park","Main Street","06786",41.67838160582333,-73.00947305323517
+"06787","Thomaston","CT","Veterans Memorial Park","570 Nova Scotia Hill Road","06795",41.620871149085026,-73.09749233869661
+"06791","Harwinton","CT","Harwinton conservation & recreational area","not_available","06791",41.771897133399406,-73.06780851716408
+"06798","Woodbury","CT","Hollow Park","not_available","06798",41.536866917722215,-73.21144236670159
+"06801","Bethel","CT","Mitchell Park","not_available","06801",41.41085037716954,-73.38110806497664
+"06801","Bethel","CT","Overlook Park","Nashville Rd","not_available",41.368031543851345,-73.41018528061514
+"06801","Bethel","CT","Meckauer Park","16 Shelter Rock Rd","06801",41.393569120443644,-73.40847815054566
+"06807","Cos Cob","CT","Cos Cob Park","22 Sound Shore Dr","06807",41.02924124570405,-73.59727890513204
+"06807","Cos Cob","CT","Mill Pond Park","not_available","06807",41.04109414771144,-73.59842895502193
+"06807","Cos Cob","CT","Sachem Nature Preserve","West side of Sachem Lane between Indian Field and Post Rds","06830",41.03475828844219,-73.60421419143677
+"06807","Cos Cob","CT","Pomerance Reserve","not_available","06830",41.047535661502806,-73.60190206688218
+"06807","Cos Cob","CT","Fort Stamford Park","862 Westover Rd","not_available",41.087285,-73.584522
+"06810","Danbury","CT","Rogers Park","Memorial Dr","06810",41.385039507821,-73.44152097679843
+"06810","Danbury","CT","Tarrywile Park and Mansion","70 Southern Blvd","06810",41.37953657166325,-73.45355335468716
+"06810","Danbury","CT","Hatters Park","7 Hayestown Rd","06811",41.42131041196444,-73.45083735357763
+"06810","Danbury","CT","Danbury Town Park","35 Hayestown Rd","06811",41.424290291094856,-73.45102787017822
+"06810","Danbury","CT","Memorial Park - Danbury","not_available","06810",41.399578,-73.457696
+"06810","Danbury","CT","Citycenter Green","11 Ives St","06810",41.39597453574889,-73.45200634030093
+"06810","Danbury","CT","Danbury Land Trust Property 12","65 W Redding Rd","06810",41.339290618896484,-73.45654296875
+"06810","Danbury","CT","Bennett's Pond Trail System","Bennett's Farm Road","06877",41.33661782223219,-73.50683634082279
+"06810","Danbury","CT","Bounce! Trampoline Sports Danbury","21 Prindle Ln","06811",41.3929457,-73.5162344
+"06810","Danbury","CT","Tarrywile Park","Danbury, CT","06810",41.388355267952846,-73.4632547198693
+"06810","Danbury","CT","Farringtons Park","not_available","06811",41.392252,-73.541106
+"06811","Danbury","CT","Bear Mountain Reservation","Bear Mountain Rd","06811",41.44658008113325,-73.46661499468021
+"06811","Danbury","CT","Williams Pond","Barnum Rd","06812",41.45509696096479,-73.49871904554685
+"06820","Darien","CT","Cove Island Park","Cove Rd","06902",41.047859596765754,-73.50329261319806
+"06820","Darien","CT","Cherry Lawn Park","Brookside Rd","06820",41.090294,-73.465231
+"06820","Darien","CT","Tilley Pond Park","West Ave","06820",41.07856761181785,-73.47216738710668
+"06820","Darien","CT","Gus Edson Park","not_available","06902",41.05670399793889,-73.50462151803731
+"06820","Darien","CT","Woodland Park","Woodland Park","not_available",41.0773414704863,-73.50476533840514
+"06820","Darien","CT","Rowayton Community Beach","Rowayton Ave","not_available",41.062501,-73.445214
+"06820","Darien","CT","Vineyard Cove","189 Seaside Ave","06902",41.05313630587795,-73.50960519143892
+"06820","Darien","CT","Riverpark Picnic Tables","800 Connecticut Ave","06854",41.093135833740234,-73.45417785644531
+"06820","Darien","CT","Doubletree Parking Garage","not_available","06820",41.09164303953402,-73.452926721024
+"06824","Fairfield","CT","Veteran's Park","Reef Rd","06824",41.13244772271738,-73.24657917022705
+"06824","Fairfield","CT","Pine Creek Park","1-163 French St.","06824",41.121597200595694,-73.26863127556855
+"06824","Fairfield","CT","Highwood Park","325 Palamar Dr","06825",41.192496,-73.252259
+"06824","Fairfield","CT","Conecticut Audubon Society","2325 Burr St","06824",41.20217154393722,-73.29337160606781
+"06824","Fairfield","CT","Sherman Green","1-113 Reef Rd","06824",41.141058194766885,-73.25725031185931
+"06824","Fairfield","CT","Southport Harbor Park","693-789 Harbor Rd.","06890",41.131224004545516,-73.28533367777155
+"06824","Fairfield","CT","Lower Wharf Park","1087 Harbor Road","06890",41.128542,-73.286695
+"06824","Fairfield","CT","Sturges Park","Mill Plain Road","06824",41.147706316572496,-73.2667025669089
+"06824","Fairfield","CT","Sherman Green Gazebo","1451-1473 Post Rd","06824",41.14093871030713,-73.25709738838212
+"06824","Fairfield","CT","Mill Hollow Park","Unquowa Rd.","06824",41.146847504110205,-73.27147109605887
+"06824","Fairfield","CT","Machamux Park","Greens Farms Rd.","06880",41.1223857105296,-73.31877646336704
+"06824","Fairfield","CT","North Water Street Park","North Water St.","not_available",41.13885837,-73.33290861
+"06830","Greenwich","CT","Bruce Park","Bruce Park Dr","06830",41.021001148134374,-73.61254949797764
+"06830","Greenwich","CT","Havemeyer Field / Greenwich Common Pocket Park","Greenwich Ave","06830",41.02451190022913,-73.62768888473511
+"06830","Greenwich","CT","Island Beach","Island Beach","06830",40.98898222628396,-73.61191856261192
+"06830","Greenwich","CT","Roger Sherman Baldwin Park","Arch St","06830",41.01827023918651,-73.62557402334268
+"06830","Greenwich","CT","John L. Messina Memorial Park","Putnam Ave","10573",41.012443,-73.653286
+"06830","Greenwich","CT","Old Lyons Farm - Pemberwick Park","not_available","06831",41.023697,-73.651184
+"06830","Greenwich","CT","Byram Park","Hamilton Ave","06830",41.00416008013749,-73.64839553833008
+"06831","Greenwich","CT","Lombardi Park","Cox Ave","10504",41.131694671576476,-73.70609870950095
+"06831","Greenwich","CT","Joseph Curtis Recreation Park","Entry on Willett Av, Putnam Dr, & Locust Av","10573",41.01942296158472,-73.66393797653399
+"06831","Greenwich","CT","North Castle Town Park","not_available","10504",41.14056612048965,-73.70764860013617
+"06831","Greenwich","CT","The Arbors","Arbor Drive","not_available",41.03059471411586,-73.67703113730731
+"06831","Greenwich","CT","Crawford Park","122 N Ridge St","10573",41.01468053475587,-73.68613581697996
+"06831","Greenwich","CT","Pine Ridge Park And Playground","Mohegan Lane","10573",41.02038466390874,-73.68815327607959
+"06831","Greenwich","CT","Wampus Brook Park","Maple Ave.","10504",41.12562675629333,-73.71131017484615
+"06831","Greenwich","CT","Pemberwick Park","115 Pemberwick Rd","06831",41.11508410249542,-73.65070345087604
+"06831","Greenwich","CT","Purchase Day Camp","3095 Purchase St","10577",41.04067392070583,-73.7147319316864
+"06831","Greenwich","CT","Armonk Community Park","205 Business Park Dr","10504",41.11817169189453,-73.71247863769531
+"06831","Greenwich","CT","Doral Greens","148 Doral Greens Drive","10573",41.04422944018705,-73.68670484593235
+"06831","Greenwich","CT","Rye Hills Park","not_available","10573",41.01317558892902,-73.68450919008264
+"06840","New Canaan","CT","Waveny Park","South Ave / CT 124","06840",41.122868938691276,-73.49038124084473
+"06840","New Canaan","CT","Irwin Park","Weed St","06840",41.14841843856096,-73.50746339031929
+"06840","New Canaan","CT","Mead Park","Park St","06840",41.14027844500592,-73.49654440880623
+"06840","New Canaan","CT","Colhoun Meadows & Woodlands","194 Davenport Ridge Rd","not_available",41.12615,-73.52519
+"06840","New Canaan","CT","Ed Nixon Community Park","not_available","06840",41.146959012143924,-73.48800672961877
+"06840","New Canaan","CT","Kiwanis Park","Old Norwalk Rd","not_available",41.13517274932359,-73.4758497227104
+"06850","Norwalk","CT","Mathews Park","295 West Ave","not_available",41.10989349997717,-73.4175439913144
+"06850","Norwalk","CT","Oyster Shell Park","not_available","06854",41.10525506470484,-73.41551468638357
+"06850","Norwalk","CT","Veterans Memorial Park","125 East Ave","06855",41.09756144938952,-73.41017246246338
+"06850","Norwalk","CT","Constitution Park","Goldstein Place","06855",41.0994,-73.41286
+"06850","Norwalk","CT","Flax Hill Park","208 Flax Hill Rd","06854",41.09472185021837,-73.42771541945538
+"06850","Norwalk","CT","Union Park","1-99 Union Park Pl","06850",41.115937969289135,-73.4174745533505
+"06851","Norwalk","CT","Cranbury Park","not_available","06851",41.163494616874175,-73.40551762555359
+"06851","Norwalk","CT","Norwalk Town Green","64-74 East Ave","06851",41.11858897105731,-73.40804427262108
+"06853","Norwalk","CT","Pinkney Park","17 Rowayton Ave","06853",41.06944016749609,-73.44341863446802
+"06853","Norwalk","CT","Farm Creek Preserve","34 Sammis Rd","06853",41.062475241984586,-73.43820634321602
+"06853","Norwalk","CT","Witch Park","Witch Lane","not_available",41.06894243218314,-73.44318978326716
+"06854","Norwalk","CT","Mill Pond Park","Seaview Ave","06855",41.09951357443957,-73.40500188749549
+"06855","Norwalk","CT","Taylor Farm Park","45 Calf Pasture Beach Rd","06855",41.090009754059786,-73.39284365464157
+"06855","Norwalk","CT","Charles Creek Park","not_available","06855",41.092286199824166,-73.39755187436879
+"06870","Old Greenwich","CT","Greenwich Point Park","Tods Driftway","06870",41.006912057891746,-73.57100427751895
+"06870","Old Greenwich","CT","Binney Park","Sound Beach Ave","06870",41.0353528964067,-73.57101002851245
+"06870","Old Greenwich","CT","Rosa Hartman Park","42-98 Brown House Rd","06902",41.040895524755776,-73.56337832032663
+"06870","Old Greenwich","CT","Park","Stillwater","06905",41.051950909754446,-73.5568736068515
+"06877","Ridgefield","CT","Ballard Park","485 Main St","06877",41.28386951058646,-73.49939346313477
+"06877","Ridgefield","CT","Wilton Town Forest","not_available","06897",41.24319942859015,-73.45164870499217
+"06877","Ridgefield","CT","Waterbury Park North","not_available","06877",41.326045,-73.520053
+"06877","Ridgefield","CT","Mountain parks","not_available","10560",41.254774,-73.517411
+"06877","Ridgefield","CT","Richarson Park","729 N Salem Rd","06877",41.31586728333333,-73.52928176666667
+"06877","Ridgefield","CT","Varanda @ 4 Smith's & a Kimball","not_available","06896",41.267342,-73.439375
+"06877","Ridgefield","CT","Sturges Park","Rippowam Rd.","not_available",41.312535,-73.544253
+"06880","Westport","CT","Grace K. Salmon Park","not_available","06880",41.133993174645575,-73.36048769838133
+"06880","Westport","CT","Keene Park","River Rd","06883",41.19227408166173,-73.34522858731331
+"06880","Westport","CT","Winslow Park","N Compo Rd","06880",41.141807,-73.353215
+"06880","Westport","CT","Pasacreta Park","Riverside Avenue","06880",41.132383075784574,-73.36730003356934
+"06880","Westport","CT","9-11 Memorial","Sherwood Island Park","not_available",41.11182292260659,-73.33078113465504
+"06883","Weston","CT","Bisceglie-Scribner Pond","not_available","06883",41.215439885112275,-73.38703018535229
+"06883","Weston","CT","73rd & Central Park West","Central Park West","06883",41.2317624464343,-73.42066555221943
+"06883","Weston","CT","Horseshoe Park","Horseshoe Rd.","06897",41.18364237534502,-73.42449446044843
+"06883","Weston","CT","Bisceglie-Scribner Park","Newtown Turnpike","06883",41.21382753318525,-73.38742159215981
+"06883","Weston","CT","Schencks Island Park","River Rd.","06897",41.18880355324842,-73.42906781644984
+"06897","Wilton","CT","Branch Brook Road Open Space","201 Branch Brook Rd","06897",41.23281551996651,-73.44216435012443
+"06901","Stamford","CT","Mill River Park","1010 Washington Blvd","06901",41.0537892529332,-73.54513470282845
+"06901","Stamford","CT","John Latham Park","Bedford St","06901",41.05748544161025,-73.53764929756669
+"06901","Stamford","CT","Carwin Park","Stamford,CT,06902","97527",41.0534302,-73.5387341
+"06901","Stamford","CT","Brownstein Selkowitz Pavilion","20 West Broad Street","06902",41.05518,-73.544909
+"06901","Stamford","CT","Ava Stamford Park & Tennis Courts","not_available","06901",41.056771,-73.535999
+"06902","Stamford","CT","Kosciuszko Park","Elmcroft Rd","10506",41.03523436181587,-73.53810599895952
+"06902","Stamford","CT","Scalzi Park","100 Bridge St","06905",41.06395093738342,-73.54891777038574
+"06902","Stamford","CT","West Beach Park","818 Shippan Ave","06902",41.03823813651258,-73.52276086807251
+"06902","Stamford","CT","Cummings Park","Shippan Ave","06902",41.04346565550601,-73.52037906646729
+"06902","Stamford","CT","Commons Park","111 Washington Blvd.","06902",41.042002796764926,-73.53989053414035
+"06902","Stamford","CT","Barrett Park","not_available","06906",41.072816,-73.53174
+"06902","Stamford","CT","Belltown Park","Belltown Rd.","06906",41.075865332470514,-73.53210668130428
+"06902","Stamford","CT","Scalzi Ropes Course","100 Bridge St","06902",41.065399169921875,-73.55013275146484
+"06902","Stamford","CT","Bocce Courts","not_available","06905",41.06538262790551,-73.54955771863595
+"06903","Stamford","CT","Dorothy Heroy Park","1-99 Riding Stable Trail","06903",41.17452064618037,-73.56015186977649

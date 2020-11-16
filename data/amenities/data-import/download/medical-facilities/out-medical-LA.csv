@@ -1,0 +1,597 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"70001","Metairie","LA","Crescent City Surgical Center","35th st.","70001",29.993554999999997,-90.153125
+"70001","Metairie","LA","Ochsner Hospital - Jefferson Hwy","not_available","not_available",29.97345542907715,-90.16705322265625
+"70001","Metairie","LA","Tulane Lakeside Hospital","4700 South 1-10 Service Rd W","70001",29.996732992465493,-90.18662810325628
+"70001","Metairie","LA","Advanced Rehab Services","4621 W Napoleon Ave","70001",29.994383000000003,-90.182278
+"70001","Metairie","LA","Doctors After Hours Urgent Care - Clearview","1000 Clearview Pkwy","70001",29.983840642778283,-90.18102667361069
+"70001","Metairie","LA","Omega Hospital","2525 Severn Ave","70002",29.999151,-90.15925899999999
+"70001","Metairie","LA","ochsner  kenner","not_available","70005",29.982244430465542,-90.17991166752923
+"70001","Metairie","LA","Doctors After Hours Urgent Care Clinc","1000 Clearview Pwky.","70001",29.983857,-90.181112
+"70001","Metairie","LA","Robert J. Kadish, DPM","1521 N Causeway Blvd Suite A","70001",29.9865522,-90.15530199999999
+"70001","Metairie","LA","Tulane-Lakeside  Hospital","4700 South Interstate 10 Service Rd. W","70001",29.996867722755475,-90.1864242553711
+"70001","Metairie","LA","In and Out Urgent Care","100 N Labarre Rd Ste C","70001",29.9744094,-90.1520402
+"70001","Metairie","LA","Contagion.","Watching The Movie","70005",29.980285,-90.145918
+"70001","Metairie","LA","insane asylum","not_available","70001",29.98040083750252,-90.16040044173097
+"70001","Metairie","LA","Walters Plastic Surgery, Metairie","3100 Galleria Drive Suite 301","70001",29.9928416,-90.1545458
+"70002","Metairie","LA","Osei Prempeh, MD","2215 Veterans Blvd","70002",30.003325882577347,-90.1476274382373
+"70002","Metairie","LA","Rapid Urgent Care - Metairie","3908 Veterans Memorial Blvd, #5","70002",30.00332,-90.17323
+"70002","Metairie","LA","East Jefferson After Hours Urgent Care Center","2215 Veterans Memorial Blvd","70002",30.00319157159833,-90.14763017900495
+"70002","Metairie","LA","East Jefferson General Hospital Same Day Surgery Center","not_available","70002",30.010191247215523,-90.1542920578107
+"70002","Metairie","LA","Doctors Express Urgent Care","3348 West Esplanade","70002",30.013912882031278,-90.15743757209168
+"70002","Metairie","LA","Cyril M Scully, DPM","3510 Severn Ave","70002",30.012814000000002,-90.15956700000001
+"70002","Metairie","LA","Ochsner Total Health Solutions","3211 N Causeway Blvd","70002",30.00773948598772,-90.15448804074367
+"70002","Metairie","LA","Kids Express Urgent Care","3848 Veterans Memorial Blvd Ste 101","70002",30.001388549804688,-90.1703109741211
+"70002","Metairie","LA","Urgent Care center","Veterans Blvd","70002",30.003187959409686,-90.14772753597266
+"70002","Metairie","LA","Mohammed Yousuf, MD","2215 Veterans Blvd.","70002",30.003299931066554,-90.1476269546707
+"70002","Metairie","LA","Dr. Black Plastic and Cosmetic Surgery","3798 Veterans Blvd Suite 100","70002",30.0038228,-90.1681607
+"70002","Metairie","LA","Khoobehi and Associates Plastic Surgery â€"" Metairie, LA (Khoobehi and Associates Plastic Surgery – Metairie, LA)","3901 Veterans Blvd","70002",30.0049702,-90.1727379
+"70002","Metairie","LA","Jansen Plastic Surgery - Metairie","3900 Veterans Memorial Blvd #200","70002",30.003594373300054,-90.17193492936097
+"70003","Metairie","LA","East Jefferson General Hospital","not_available","70006",29.98735343012354,-90.21456305061912
+"70003","Metairie","LA","Ochsner Hospital Room 1149","Jefferson Hwy","70121",30.00332317522756,-90.20324565557823
+"70003","Metairie","LA","Doctors After Hours Urgent Care & Walk-In Clinics","5236 Veterans Blvd","70006",30.0053115,-90.1981484
+"70005","Metairie","LA","Doctors After Hours Urgent Care - Oaklawn","545 Oaklawn Dr","70005",30.0008814,-90.1325243
+"70006","Metairie","LA","East Jefferson General Hospital","4200 Houma Blvd","70006",30.0129847,-90.181037
+"70006","Metairie","LA","EJGH Medical Office Building","3800 Houma Blvd","70006",30.010433000000003,-90.181297
+"70006","Metairie","LA","Benchmark Urgent & Family Care","4517 Veterans Blvd.","70006",30.00530426209689,-90.18344163894653
+"70006","Metairie","LA","East Jefferson Emergency Room","4200 houma blvd","70113",30.012624781041215,-90.18162043889218
+"70032","Arabi","LA","SBPH Emergency Room","not_available","70043",29.955235,-89.988965
+"70032","Arabi","LA","St. Bernard Parish Hospital","8000 West Judge Perez Dr","70043",29.9556348,-89.988321
+"70032","Arabi","LA","St. Bernard Urgent Care","West Judge Perez Drive","70032",29.957213166578235,-89.98926826578946
+"70037","Belle Chasse","LA","Family Doctor Urgent Care","2600 Belle Chasse Hwy Ste B","70056",29.884180068969727,-90.02604675292969
+"70037","Belle Chasse","LA","The Urgent Care - Westbank","148 Wall Blvd","70056",29.887433899917212,-90.03123431046197
+"70037","Belle Chasse","LA","Oceans Specialty Hospital","535 Commerce St","70056",29.88916342006664,-90.03035858235008
+"70037","Belle Chasse","LA","Gulf Coast Urgent Care","not_available","70056",29.877913,-90.030004
+"70037","Belle Chasse","LA","LCMC Health Urgent Care","2600 Belle Chasse Hwy. B-2","70056",29.883806228637695,-90.0257568359375
+"70037","Belle Chasse","LA","Doctors After Hours Urgent Care - Manhattan","2515 Manhattan Blvd","70058",29.8768708,-90.0482166
+"70037","Belle Chasse","LA","Ochsner Medical Center - West Bank","2500 Belle Chasse Hwy","70056",29.88423268619759,-90.02758600305845
+"70037","Belle Chasse","LA","Ochsner Westbank","not_available","70058",29.880229,-90.047761
+"70039","Boutte","LA","Ochsner Urgent Care - Luling","12895 U.S. 90, Ste H","70070",29.90552507576594,-90.36985216799417
+"70039","Boutte","LA","Mark Silady, MD","12895 U.S. 90, Ste. H","70070",29.905498215270683,-90.36981335075313
+"70039","Boutte","LA","Leonard Giuffreda, MD","12895 Highway 90 Ste H","70070",29.905486641093223,-90.3698259006117
+"70047","Destrehan","LA","Ochsner Health Center For Children - Destrehan","13100 River Rd, #250","70047",29.94666541697895,-90.36737138480487
+"70047","Destrehan","LA","Pontchatrain Bone & Joint","not_available","70047",29.970487383771577,-90.37710907727941
+"70047","Destrehan","LA","Ochsner Medical Center","1514 Jefferson Hwy","70121",29.950924,-90.375101
+"70052","Gramercy","LA","St. James Parish Hospital","1645 Lutcher Ave","not_available",30.051877543432422,-90.70374728560563
+"70053","Gretna","LA","New Orleans Urgent Care","900 Magazine St","70130",29.943692495868458,-90.06959630747232
+"70053","Gretna","LA","Dr. & Mrs. Sexy's Ambulance","1800 Monroe St","70053",29.920765999999997,-90.050289
+"70053","Gretna","LA","Ready Responders","1320 Magazine St","70130",29.9377653,-90.07125789999999
+"70056","Gretna","LA","Algiers Urgent Care","3801 General Degaulle Dr","70114",29.922109999999996,-90.018001
+"70056","Gretna","LA","Ochsner Health Center - Algiers","3401 Behrman Pl","70114",29.9210066,-90.01806875
+"70057","Hahnville","LA","Henry Ford Health System-remote","not_available","70057",29.954004038445312,-90.40456409658097
+"70058","Harvey","LA","West Jefferson Nuclear Medicine","Medical Center Blvd","70072",29.89850569567386,-90.08611391281129
+"70058","Harvey","LA","Ocean Advanced Research","1816 Industrial Boulevard","70058",29.87881181,-90.08393442
+"70058","Harvey","LA","West Jeff Hospital","not_available","70072",29.88857854397402,-90.07872142455012
+"70062","Kenner","LA","Ochsner Occupational Health - Kenner","2552 Williams Blvd","70062",30.002330780029297,-90.24063873291016
+"70062","Kenner","LA","Concentra Urgent Care","1600 Williams Blvd","70062",29.987884415834113,-90.24214740842865
+"70065","Kenner","LA","Ochsner Urgent Care & Occupational Health - Kenner","3417 Williams Blvd","70065",30.01885516,-90.23987612
+"70065","Kenner","LA","Surgery Waiting Room","not_available","70065",30.024738907814026,-90.27177214622498
+"70065","Kenner","LA","Oceans Behavioral Hospital Greater New Orleans: Kenner Campus","716 Village Rd","70065",30.02311039,-90.25831461
+"70065","Kenner","LA","Ochsner - Labor & Delivery","180 W. Esplanade Ave.","not_available",30.02435567381867,-90.27181856845004
+"70065","Kenner","LA","East Jefferson After Hours","708 W Esplanade Ave","70065",30.02212905883789,-90.25824737548828
+"70065","Kenner","LA","St. Theresa Hospital","5503 Loyola Dr","70065",30.027361558543774,-90.27207077975704
+"70068","La Place","LA","Riverside Urgent Care","3317 Highway 51","70068",30.080118536853796,-90.46633762007808
+"70068","La Place","LA","River Parishes Hospital","500 Rue de Sante","70068",30.071462631225586,-90.51399230957031
+"70068","La Place","LA","River Parish Hospital ER","not_available","70068",30.072377249281644,-90.51426182112523
+"70068","La Place","LA","Ochsner Medical Complex - River Parishes","1900 W Airline Hwy","70068",30.07341194152832,-90.5031509399414
+"70070","Luling","LA","St Joseph's","407 Folse St","70123",29.941353000000003,-90.211471
+"70070","Luling","LA","St. Charles Hospital - E. R.","Paul Maillard","not_available",29.924166798591614,-90.371448
+"70072","Marrero","LA","West Jefferson Medical Center","1101 Medical Center Blvd","70072",29.891971101728622,-90.09458510364985
+"70072","Marrero","LA","Ochsner Emergency Room - Marrero","4837 Lapalco Blvd","70072",29.87450758364314,-90.09434489937257
+"70072","Marrero","LA","Seaside Management, L.L.C.","4500 Wichers Dr","70072",29.889218,-90.094528
+"70072","Marrero","LA","West Jefferson Hospital Surgery Waiting Room","1111 Medical Center Blvd","70072",29.8918158055382,-90.09564410584048
+"70072","Marrero","LA","Ochsner Urgent Care & Occupational Health - Westbank","1625 Barataria Blvd","70072",29.88212776184082,-90.09832000732422
+"70072","Marrero","LA","Ochsner Occupational Health - Westbank","1625 Barataria Blvd , Ste A","70072-4308",29.88212776184082,-90.09832000732422
+"70072","Marrero","LA","West Jefferson Hospital Recovery Room","1101 Medical Center Blvd, Marrero, LA 70072","70072",29.891838419021457,-90.09568062453113
+"70072","Marrero","LA","Westwego EMS","not_available","70094",29.902725,-90.140498
+"70072","Marrero","LA","Ochner Urgent Care","Barataria Blvd","70072",29.882182,-90.098336
+"70072","Marrero","LA","LCMC Health Urgent Care","4945 Lapalco Blvd","70072",29.874226223605785,-90.09544143322489
+"70072","Marrero","LA","BridgePoint Continuing Care Hospital","1101 Medical Center Blvd Fl 7","70072",29.891553501661516,-90.09472308287275
+"70075","Meraux","LA","Acadian Meraux Station","not_available","70092",29.917516708374023,-89.91001892089844
+"70094","Westwego","LA","Children's Hospital","200 Henry Clay Ave","70118",29.917540522690576,-90.1283656334392
+"70094","Westwego","LA","Ochsner Waiting Room","2400-2598 Jefferson Hwy","70121",29.962788690782947,-90.15233995603889
+"70094","Westwego","LA","Children's Hospital ER","Tchoupitoulas","not_available",29.91766,-90.12824
+"70094","Westwego","LA","Ochsner Urgent Care - River Ridge","9605 Jefferson Hwy, G","70123",29.956779035939306,-90.21682829669203
+"70094","Westwego","LA","Ochsner Orthopedic Recovery","not_available","70121",29.95737097843268,-90.14009928095305
+"70094","Westwego","LA","Concentra Urgent Care","4015 Jefferson Hwy","70121",29.9625402,-90.1675164
+"70094","Westwego","LA","Children's Hospital Recovery Room","not_available","70118",29.91734354470613,-90.12784877999556
+"70094","Westwego","LA","Ochsner Magnetic Resonance Imaging","1516 Jefferson Hwy","70121",29.962560653686523,-90.14481353759766
+"70094","Westwego","LA","River Oaks Hospital","1525 River Oaks Road West","70123",29.9618884,-90.2028404
+"70112","New Orleans","LA","University Medical Center of New Orleans","2000 Canal St","70112",29.959861034023845,-90.08132796193036
+"70112","New Orleans","LA","SE Louisiana Veterans Hospital","2418 Canal St","70119",29.96232906209045,-90.0868167295244
+"70112","New Orleans","LA","VA Hospital New Orleans / Hayward Baker Job Site","not_available","70119",29.96042131927389,-90.0856894907584
+"70112","New Orleans","LA","The U Hole","2021 Perdido St","70112",29.95673370361328,-90.08509063720703
+"70112","New Orleans","LA","UMC Radiology","not_available","70112",29.959975,-90.082365
+"70112","New Orleans","LA","VA hospital","1601 Perdido St","70112",29.953920189116065,-90.07918683557106
+"70112","New Orleans","LA","New Orleans EMS Staging Area","not_available","70130",29.95113263315379,-90.06597500509837
+"70112","New Orleans","LA","Concentra Urgent Care","318 Baronne St","70112",29.95178046393335,-90.07243439555168
+"70112","New Orleans","LA","Charity Hospital","Tulane Avenue","70112",29.955129452419104,-90.07776324313932
+"70112","New Orleans","LA","LSU Health System Urgent Care Clinic","2025 Gravier Street","70112",29.957550048828125,-90.08447265625
+"70112","New Orleans","LA","Urgent Care MD","2525 Canal St","70119",29.964531887437264,-90.08563472696383
+"70113","New Orleans","LA","URGENT CARE","311 Baronne St","70112",29.952302000000003,-90.07311
+"70113","New Orleans","LA","St Charles Surgical Hospital","1711 St Charles Ave","70130",29.937292098999023,-90.0771255493164
+"70113","New Orleans","LA","Drug & Alcohol Rehab New Orleans","909 Poydras St #2000","70112",29.95055389404297,-90.07376098632812
+"70115","New Orleans","LA","Touro Infirmary Hospital","1401 Foucher St","70115",29.925611712634566,-90.092031955719
+"70115","New Orleans","LA","Ochsner Baptist Women's Pavilion","2700 Napoleon Ave","70115",29.9376843,-90.1043211
+"70115","New Orleans","LA","Ochsner Health Center - Baptist Napoleon Medical Plaza","2820 Napoleon Ave","70115",29.9388003,-90.1037716
+"70115","New Orleans","LA","Ochsner Urgent Health - Uptown","4605 Magazine St","70115",29.920753501382027,-90.1040967054816
+"70115","New Orleans","LA","Touro ER","3434 Prytania St Ste 105","70115",29.92589063928253,-90.09179698148287
+"70115","New Orleans","LA","Ochsner-Baptist Sleep Lab","not_available","70115",29.93995025599412,-90.10369731589772
+"70115","New Orleans","LA","Ochsner Baptist Magnolia Clinic","2626 Napoleon Ave","70115",29.936668395996094,-90.1036376953125
+"70115","New Orleans","LA","Kindred Hospital New Orleans","3601 Coliseum St","70115",29.924935361041523,-90.09318373890062
+"70115","New Orleans","LA","Imaging Center - Ochsner Baptist","Napoleon Ave","70115",29.93870175813001,-90.10372471064419
+"70115","New Orleans","LA","Touro Rehabiliation Center","1401 Foucher Street m","70115",29.925655364990234,-90.09227752685547
+"70116","New Orleans","LA","Tulane Cancer Center","150 S Liberty Street","70112",29.955298,-90.076154
+"70116","New Orleans","LA","HCA MidAmerica - Delta Region","1440 Canal St #1860","70112",29.9556368,-90.07585
+"70116","New Orleans","LA","Old Yellow Fever Hospital","not_available","70116",29.956718211885406,-90.06401369127919
+"70117","New Orleans","LA","St. Margaret's","3419 Saint Claude Ave","70117",29.967173,-90.039714
+"70117","New Orleans","LA","Tulane Cancer Center New Orleans","not_available","70117",29.970609,-90.047737
+"70118","New Orleans","LA","In & Out Urgent Care - Uptown/New Orleans","6225 South Claiborne Ave","70125",29.94637026,-90.11325153
+"70118","New Orleans","LA","Children's Hospital Medical Records","935 Calhoun St","70118",29.92469024658203,-90.12474822998047
+"70118","New Orleans","LA","Ocshner Main Campus","Jefferson Highway","70125",29.956927424627114,-90.1266152636643
+"70118","New Orleans","LA","Children Hospital's X-ray Room.",".","70118",29.918531,-90.126927
+"70119","New Orleans","LA","Jan W Johnson RDN, LDN Registered dietitian, nutritionist,","4322 Canal Street","70119",29.9763387,-90.1039416
+"70121","New Orleans","LA","sterile Supply","1518 Jefferson hwy","70121",29.96154602,-90.14700468
+"70121","New Orleans","LA","Ochsner Epic Installation Headquarters","1220 S Clearview Pkwy","70123",29.962044373380447,-90.18407391086234
+"70121","New Orleans","LA","Ochsner Hospital - Elmwood","1221 S Clearview Pkwy","70121",29.962743447049473,-90.18407496958605
+"70122","New Orleans","LA","Ochsner Urgent Care - UNO","2000 Lakeshore Dr","70148",30.02923580083127,-90.06471349508917
+"70123","New Orleans","LA","LCMC Health Urgent Care","1105 S Clearview Pkwy","70121",29.959805,-90.1831078
+"70123","New Orleans","LA","Pelican State Outpatient Center - Urgent Care Clinic","1525 Dickory Ave","70123",29.961993776961037,-90.20379370095722
+"70123","New Orleans","LA","Mohammed Naeem, MD, FACEP, MPH","9605 Jefferson Hwy Ste G","70123",29.95688500840381,-90.21696606013597
+"70124","New Orleans","LA","Ochsner Urgent Care - Lakeview","111 Robert E Lee Blvd","70124",30.02120586799871,-90.1124512797449
+"70124","New Orleans","LA","Urgent Care MD","not_available","70124",30.004391544204584,-90.10515383028465
+"70124","New Orleans","LA","LCMC Health Urgent Care","826 Harrison Ave","70124",30.004060745239258,-90.1050796508789
+"70124","New Orleans","LA","Granville Morse, MD","111 Robert E Lee Blvd Ste C","70124",30.021089553833008,-90.11197662353516
+"70124","New Orleans","LA","Urgent Care","101 Robert E Lee Blvd","70124",30.02133560180664,-90.11271667480469
+"70124","New Orleans","LA","Doctors After Hours Urgent Care - Lakeview","101 W Robert E Lee Blvd Ste 100","70124",30.0205054,-90.1139276
+"70124","New Orleans","LA","Jordan Harry, MD","411 N Carrollton Ave Ste 4","70119",29.977288751240433,-90.09831603435858
+"70125","New Orleans","LA","APC Urgent Care Clinic","Poydras St.","70119",29.958529,-90.092226
+"70126","New Orleans","LA","James L. Gordon Memorial Hospital 3rd Floor Conference MAB","New Banicain","70126",30.042485,-90.02768
+"70127","New Orleans","LA","East After Hours Urgent Care","5640 Read Blvd","70127",30.030580591227356,-89.97382975004516
+"70127","New Orleans","LA","New Orleans East Hospital","Read","not_available",30.030561447143555,-89.97403717041016
+"70128","New Orleans","LA","ferncrest manor","14500 Hayne Blvd","70128",30.070994,-89.948165
+"70128","New Orleans","LA","Louisiana Specialty Hospital","not_available","70128",30.07116,-89.947474
+"70130","New Orleans","LA","Alcohol & Drug Rehab New Orleans","700 Camp St #220","70130",29.947237444398944,-90.06978034973145
+"70131","New Orleans","LA","Seaside Hospial","2401 Woodland Dr","70131",29.909760517419944,-89.99399487133034
+"70131","New Orleans","LA","Seaside Behavioral Center","not_available","70131",29.91202735900879,-89.99449157714844
+"70301","Thibodaux","LA","Ochsner Specialty Health Center - Raceland","141 Twin Oaks Dr","70394",29.7015907,-90.5675077
+"70301","Thibodaux","LA","Thibodaux Regional Medical Center","602 North Acadia Woods Rd","70301",29.781707617760425,-90.80632031011565
+"70301","Thibodaux","LA","Lafourche Urgent Care","not_available","70394",29.690234000000004,-90.549196
+"70301","Thibodaux","LA","Bayou Region Surgical Center","604 Acadia","not_available",29.781597137451172,-90.80741882324219
+"70301","Thibodaux","LA","Robert Chasuk, MD","318 N Canal Blvd","70301",29.80508041381836,-90.81659698486328
+"70301","Thibodaux","LA","Ochsner Family Doctor Clinic - Mathews","111 Acadia Dr.","70394",29.701167091663706,-90.56440342425049
+"70301","Thibodaux","LA","Hospital Service District 3 Lafourche Parish","602 N Acadia Rd","70301",29.7811978,-90.8055342
+"70301","Thibodaux","LA","Coastal Urgent Care of Thibodaux","2031 Audubon Ave","70301",29.7805951,-90.8088315
+"70301","Thibodaux","LA","Ochsner Women's Health Center - Raceland","104 Acadia Park Dr","70394",29.701948165893555,-90.56449890136719
+"70301","Thibodaux","LA","Jansen Plastic Surgery - Thibodaux","2100 Audubon Ave.","70301",29.781467,-90.809438
+"70342","Berwick","LA","Fairview Treatment Center","not_available","70380",29.687159511922882,-91.26252301318613
+"70345","Cut Off","LA","Lady of the Sea Hospital","200 W 134th Pl","70345",29.45704722980041,-90.3113117779541
+"70345","Cut Off","LA","Ochsner Specialty Health Center - Cut Off","102 West 112th St","70345",29.478991320321505,-90.32167651608768
+"70345","Cut Off","LA","Total Urgent Care - Cut Off","314 Highway 3162","70345",29.46928850277535,-90.32252049277417
+"70346","Donaldsonville","LA","Our Lady of the Lake Ascension","1125 W Highway 30","70737",30.209668657799273,-90.93193592888537
+"70346","Donaldsonville","LA","Mary Bird Perkins Cancer Center in Gonzales","1104 Louisiana 30 W","70737",30.211589680677047,-90.93212127685545
+"70346","Donaldsonville","LA","Our Lady of the Lake Louisiana Cardiology Associates - Donaldsonville","214 Clinic Dr","70346",30.08840481482041,-91.00369602441788
+"70346","Donaldsonville","LA","Our Lady of the Lake Ascension Medical Plaza II","1014 Saint Clair Blvd","70737",30.209038667622668,-90.93135223380159
+"70360","Houma","LA","tgmc emergency room","not_available","70363",29.597127815543306,-90.71298648563867
+"70360","Houma","LA","Terrebonne General Medical Center","8166 Main St","70360",29.598062949384225,-90.71400663006932
+"70360","Houma","LA","Physicians Medical Center","218 Corporate Dr","70360",29.6006063,-90.7495524
+"70360","Houma","LA","Ochsner Urgent Care - Houma","5922 W Main St # A","70360",29.6346028,-90.7600214
+"70360","Houma","LA","Kindred at Home","216 Mystic Blvd","70360",29.58766803,-90.74523463
+"70360","Houma","LA","Frederick Risener, MD","5922 W Main St Ste A","70360",29.634571075439453,-90.75987243652344
+"70360","Houma","LA","AMG","not_available","70360",29.59287261241508,-90.71197564071339
+"70360","Houma","LA","Houma Urgent Care","131 Corporate Dr","70360",29.598639000000002,-90.74724499999999
+"70360","Houma","LA","Dr. Mark Peters, MD","181 Corporate Dr","70360",29.598859786987305,-90.74915313720703
+"70360","Houma","LA","Quest Diagnostics","855 Belanger St","70360",29.596277236938477,-90.7158432006836
+"70360","Houma","LA","Coastal Urgent Care of Houma","1411 Saint Charles St","70360",29.5843372,-90.7453079
+"70363","Houma","LA","Leonard J. Chabert Medical Center","1978 Industrial Blvd","70363",29.569896697998047,-90.68840789794922
+"70380","Morgan City","LA","Ochsner St. Mary","1125 Marguerite St","70380",29.708646774291992,-91.20067596435547
+"70380","Morgan City","LA","Comprehensive Care Clinic","1302 Lakewood Dr Ste 202","70380",29.70737075805664,-91.20191192626953
+"70380","Morgan City","LA","Tubal Reversal Center LLC","1216 N Victor II Blvd","70380",29.70801544189453,-91.19903564453125
+"70380","Morgan City","LA","Urgent Care of Morgan City","1216 N Victor II Blvd Ste 500","70380",29.70802462478649,-91.1988776922226
+"70390","Napoleonville","LA","Our Lady Of The Lake Of Assumption","not_available","70341",29.956546433248487,-91.0334318804718
+"70401","Hammond","LA","Maxem Health Hammond Urgent Care","2741 W Thomas St Ste A","70401",30.5020102,-90.49211849999999
+"70401","Hammond","LA","United Medical Rehabilitation Hospitals","200 W University Ave","70401",30.5192022,-90.46702169999999
+"70403","Hammond","LA","Northoaks Diagnostic Center","not_available","70403",30.466271215527946,-90.45859624564643
+"70403","Hammond","LA","North Oaks Medical Center Emergency Services","15790 Paul Vega Md Dr","70403",30.46596908569336,-90.46113586425781
+"70403","Hammond","LA","Ochsner Heart and Vascular Health Center","16045 Doctors Blvd","70403",30.467126846313477,-90.45576477050781
+"70403","Hammond","LA","Mary Bird Perkins Cancer Center in Hammond","15728 Paul Vega Medical Center Dr","70403",30.46639060974121,-90.46061706542969
+"70403","Hammond","LA","Kindred at Home","1305 Derek Dr","70403",30.48704211,-90.48448807
+"70403","Hammond","LA","Cypress Pointe Urgent Care","19065 Dr John Lambert Dr Ste 1100","70403",30.4758334,-90.41175129999999
+"70403","Hammond","LA","Hammond Health Unit","15481 W Club Deluxe Rd","70403",30.475990295410156,-90.46759796142578
+"70422","Amite","LA","Rapid Urgent Care - Amite","802 W Oak St, Suite D","70422",30.727628707885742,-90.52082824707031
+"70422","Amite","LA","Premier Urgent Care","not_available","70436",30.80555360897727,-90.53270359239787
+"70427","Bogalusa","LA","Our Lady of the Angels Obstetrics & Gynecology Clinic","433 Plaza St Ste 1A","70427",30.778162745403222,-89.86910372983402
+"70427","Bogalusa","LA","LSU Hospital","not_available","70427",30.778317984680996,-89.86899415222737
+"70427","Bogalusa","LA","Our Lady of the Angels Orthopedic Clinic","433 Plaza St # 2B","70427",30.778180412770144,-89.86908853075875
+"70427","Bogalusa","LA","Rapid Urgent Care - Bogalusa","57 Cumberland St","70427",30.78588,-89.86503
+"70427","Bogalusa","LA","Our Lady of the Angels Hospital","433 Plaza Street","70427",30.77823751593706,-89.86885202603345
+"70433","Covington","LA","St. Tammany Hospital","not_available","70433",30.468118977777596,-90.11399911477436
+"70433","Covington","LA","Ochsner Urgent Care and Occupational Health - Covington","1111 Greengate Dr, B","70433",30.4465647532491,-90.08294719816496
+"70433","Covington","LA","Rapid Urgent Care - Covington","218 E Boston St","70433",30.475094,-90.097979
+"70433","Covington","LA","Ochsner Health Center For Children - Covington","1000 Ochsner Blvd","70433",30.450784494974293,-90.14818683648681
+"70433","Covington","LA","Teresa Klainer, MD","2735 North Highway 190, Ste. D","70433",30.4736439,-90.0867311
+"70433","Covington","LA","Avala Hospital","67252 Industry Ln","70433",30.40833184337774,-90.08213326823729
+"70433","Covington","LA","Urgent Care","70340 Hwy 21","70433",30.451042,-90.13608
+"70433","Covington","LA","Tchefuncta Urgent Care","Hwy 21","not_available",30.45950884157522,-90.1245183764479
+"70433","Covington","LA","Ochsner Health Center for Children Pediatric Subspecialties - Covington","71121 Highway 21 Apt B","70433",30.459997533126945,-90.12732496393832
+"70433","Covington","LA","Urgent Care","71205 Highway 21","70433",30.45945930480957,-90.12481689453125
+"70433","Covington","LA","Ochsner Women's Health Center - Covington","101 Judge Tanner Blvd","70433",30.4110799,-90.08072861
+"70433","Covington","LA","Amy Springer, MD","1111 Greengate Dr Ste B","70433",30.44668960571289,-90.08293914794922
+"70438","Franklinton","LA","Riverside Medical Center","1900 Main St","70438",30.83431053161621,-90.15276336669922
+"70443","Independence","LA","LSU-Lallie Kemp Regional Medical Center","not_available","70443",30.622608000889386,-90.49810417349057
+"70443","Independence","LA","Fast Pace Health Urgent Care - Independence (Temporarily Closed)","387 W Railroad Ave","70443",30.63146927684055,-90.50010070209282
+"70444","Kentwood","LA","Oceans Behavioral Hospital Kentwood","921 Ave G","70444",30.9374041,-90.52974168
+"70445","Lacombe","LA","Southeast Louisiana Hospital","23515 US 190","70448",30.347333000000003,-90.01819499999999
+"70445","Lacombe","LA","Magnolia Behavioral Health","not_available","70445",30.313529,-89.943126
+"70445","Lacombe","LA","Rapid Urgent Care - Slidell","2170 Gause Blvd W, #101","70460",30.303028,-89.8230367
+"70445","Lacombe","LA","Maxem Health Slidell Urgent Care","170 Northshore Blvd","70460",30.309451,-89.825251
+"70447","Madisonville","LA","Jill Gibson MD","106 Highland Park Plaza","70433",30.458461,-90.134158
+"70448","Mandeville","LA","STPH Mandeville Emergency Department","not_available","70471",30.38989,-90.081129
+"70448","Mandeville","LA","Tulane Multispecialty Clinic Northshore","1305 W Causeway Approach","70471",30.386925297807416,-90.09696185588837
+"70448","Mandeville","LA","Maxem Health Mandeville Urgent Care","3810 LA-22","70471",30.394453059280288,-90.09220833862304
+"70448","Mandeville","LA","Alcoholics Anonymous","3300 Monroe St, Mandeville, LA 70448","70448",30.367990493774414,-90.08496856689453
+"70448","Mandeville","LA","Ochsner Urgent Care - Mandeville","2735 U.S. 190, Ste D","70471",30.386582914558996,-90.07853917087448
+"70448","Mandeville","LA","Rapid Urgent Care - Mandeville","1111 N Causeway Blvd","70471",30.382089,-90.090547
+"70448","Mandeville","LA","Sarah Pivach, MD","2735 Highway 190 Ste D","70471",30.386561299615536,-90.07853568093064
+"70458","Slidell","LA","Slidell Memorial Hospital","1001 Gause Blvd","70458",30.28363019215406,-89.76988388493767
+"70458","Slidell","LA","Ochsner Medical Center-Northshore Surgical Suite","103 Medical Center Dr","70461",30.286287307739258,-89.743896484375
+"70458","Slidell","LA","Childrens Hospital New Orleans","not_available","70458",30.31380271911621,-89.74836730957031
+"70458","Slidell","LA","Ochsner Neurosciences Institute - Slidell","104 Medical Center Dr","70461",30.28795051574707,-89.74555969238281
+"70458","Slidell","LA","SouthStar Urgent care","3333 Pontchartrain Dr","70458",30.258214950561523,-89.78802490234375
+"70458","Slidell","LA","Urgent Care","Robert Blvd","70460",30.2869584,-89.783748
+"70458","Slidell","LA","Anger Management Therapy","nowhere usa","70461",30.27027685,-89.74864854
+"70458","Slidell","LA","Northshore Regional Medical Center","1850 Gauss Blvd.","not_available",30.285860879020696,-89.74207804480768
+"70458","Slidell","LA","Ochsner Medical Center - North Shore","100 Medical Center Dr","70461",30.285921131389884,-89.74231034168145
+"70458","Slidell","LA","Our Lady of the Lake Physician Group Slidell","1520 Gause Blvd","70458",30.275062561035156,-89.75447082519531
+"70458","Slidell","LA","AMG Specialty Hospital","1440 Lindberg Dr","70458",30.27903938293457,-89.75299835205078
+"70458","Slidell","LA","Doctors Urgent Care","985 Robert Blvd","70458",30.291889190673828,-89.76946258544922
+"70458","Slidell","LA","Acadian Ambulance Slidell Station","not_available","70460",30.287134170532227,-89.78292083740234
+"70458","Slidell","LA","Sterling Surgical Hospital","989 Robert Blvd","70458",30.291723251342773,-89.7708511352539
+"70458","Slidell","LA","SMH Emergency Room","12th Street","not_available",30.28387461133997,-89.77043990135451
+"70458","Slidell","LA","Ochsner Women's Health Center Two - Slidell","105 Medical Center Dr, #303","70461",30.286863721904705,-89.74437287664557
+"70458","Slidell","LA","Southern Surgical Hospital","1700 Lindberg Dr","70458",30.27335,-89.755773
+"70461","Slidell","LA","Nursing Station","not_available","70461",30.2868097,-89.7428357
+"70501","Lafayette","LA","Lourdes Imaging - St. Mary","411 Saint Landry St","70506",30.216621000000004,-92.026136
+"70501","Lafayette","LA","St. Bernadette Clinic","409 Saint John St","70501",30.230299,-92.02256700000001
+"70501","Lafayette","LA","Our Lady of Lourdes Outpatient Rehab","501 W Saint Mary Blvd","70506",30.216805573659567,-92.025661468615
+"70501","Lafayette","LA","Spine Institute Of Southwest LA , LLC","501 w. Saint Mary blvd. Suit 416","70506",30.216737747192383,-92.02532958984375
+"70501","Lafayette","LA","Angel Care Hospice","403 W Simcoe St","70501",30.230409169166062,-92.02039003372192
+"70501","Lafayette","LA","ExpressMed Walk In Medical Center","111 Saint Louis St","70506",30.217421,-92.027686
+"70503","Lafayette","LA","Lafayette General Medical Center","1214 Coolidge Blvd","70503",30.202473063312414,-92.01939642639235
+"70503","Lafayette","LA","Lafayette General Orthopaedic Center","4212 West Congress Street","70506",30.19765879,-92.07714725
+"70503","Lafayette","LA","Lourdes Urgent Care","not_available","70506",30.192944,-92.07444
+"70503","Lafayette","LA","Cardiovascular Institute Of The South","2730 Ambassador Caffery Pkwy","70506",30.199332000000002,-92.07589
+"70503","Lafayette","LA","Anu Gupta Desai MD Desai Eye Care","155 Hospital Drive Suite 300","70503",30.202572999999997,-92.019139
+"70503","Lafayette","LA","Lafayette General Medical Center","1214 Coolidge Street","70503",30.2025171,-92.02038529999999
+"70503","Lafayette","LA","Our Lady Of Lourdes Regional Medical Center","4801 Ambassador Caffery Pkwy","70508",30.150705955494786,-92.03685655777232
+"70503","Lafayette","LA","Lourdes Urgent Care - Lafayette","1700 Kaliste Saloom Rd","70508",30.170904459658235,-92.03235735772336
+"70503","Lafayette","LA","Unversity Medical Center","W Congress St, Lafayette, LA","70506",30.209489198393854,-92.04079754298142
+"70503","Lafayette","LA","Lanny Jay Turkewitz, MD","4809 Ambassador Caffery Pkwy Ste 420","70508",30.150421,-92.036357
+"70503","Lafayette","LA","University Medical Center H R","2600 Johnston St","70503",30.208947,-92.036516
+"70503","Lafayette","LA","Our Lady of Lourdes Heart Hospital","1105 Kaliste Saloom Rd","70508",30.1733949252514,-92.02669382376521
+"70503","Lafayette","LA","LGMC Helipad","not_available","70503",30.202314948327174,-92.01987944048587
+"70503","Lafayette","LA","SouthStar Urgent Care","6770 Johnston St","70503",30.15193748474121,-92.0940170288086
+"70503","Lafayette","LA","Lafayette Surgical Specialty Hospital","1101 Kaliste Saloom Road","70508",30.174445,-92.026422
+"70503","Lafayette","LA","Envision Imaging of Acadiana","856 Kaliste Saloom Rd","70508",30.180841971843797,-92.02289241902267
+"70503","Lafayette","LA","Lafayette General - Southwest Campus","2810 Ambassador Caffery Parkway","70506",30.1979657,-92.0772429
+"70503","Lafayette","LA","Gilbert Lashawn Fontenette, NP","4811 Ambassador Caffery Pkwy Ste 401A","70508",30.15018081665039,-92.0368881225586
+"70503","Lafayette","LA","Leoni Eye Clinic","203 Rue Louis XIV, Suite A","70508",30.170509338378906,-92.02633666992188
+"70503","Lafayette","LA","Lafayette General Southwest Medical Center","2810 Ambassador Caffery Pkwy","70506",30.198254520755768,-92.07783631678653
+"70506","Lafayette","LA","Our Lady of Lourdes Emergency Center in Scott","662 I-10 N Frontage Rd.","70583",30.248057278449348,-92.11026191733254
+"70506","Lafayette","LA","Strategize Consulting","1304 Bertrand Dr","70506",30.22249939672327,-92.05480813980101
+"70506","Lafayette","LA","University Hospital and Clinics","2390 West Congress Street","70506",30.21737972,-92.04634647
+"70506","Lafayette","LA","Mmo","Ridge Road","70529",30.181464,-92.129371
+"70506","Lafayette","LA","Acadiana Urgent Care","4906 Ambassador Caffery Pkwy","70508",30.1465031,-92.0371789
+"70506","Lafayette","LA","Acadiana  Pediatric Gastroenterology Associates","4630 Ambassador Caffery Pkwy Ste 406","70508",30.152222,-92.0443
+"70507","Lafayette","LA","Townsend Recovery Center","808 Pitt Ed","70583",30.267604,-92.098087
+"70507","Lafayette","LA","Lourdes After-hours Clinic","not_available","70507",30.319878458976746,-92.03206837177277
+"70507","Lafayette","LA","Lourdes Urgent Care - Carencro","3824 NE Evangeline Trwy","70520",30.31983389203343,-92.03206531238288
+"70507","Lafayette","LA","Premier Urgent Care","307 Alcide Dominique Dr","70506",30.2469668,-92.04534629999999
+"70507","Lafayette","LA","Lafayette General Urgent Care Walk-In Clinic at Carencro","917 West Gloria Switch Road","70507",30.2974611,-92.048255
+"70510","Abbeville","LA","Abbeville General Hospital","118 N Hospital Dr","70510",29.97365,-92.107897
+"70510","Abbeville","LA","Vermilion Urgent Care","not_available","70510",29.969923,-92.09225
+"70510","Abbeville","LA","Abbeville Urgent Care","2421 Alonzo Street","70510",29.9744235,-92.1070384
+"70510","Abbeville","LA","Abrom Kaplan Memorial Hospital","1310 West 7th Street","70548",30.00809669494629,-92.29741668701172
+"70515","Basile","LA","Basile Rural Health Clinic","1431 Fuselier Ave","70515",30.48668529999999,-92.5942295
+"70517","Breaux Bridge","LA","St. Martin Hospital","210 Champagne Boulevard","70517",30.28281978,-91.88986543
+"70517","Breaux Bridge","LA","Lourdes Urgent Care - Breaux Bridge","1821 Rees St","70517",30.289566961750793,-91.91162130354093
+"70518","Broussard","LA","Lourdes Urgent Care - Broussard","109 Saint Nazaire Rd Ste A","70518",30.14141082763672,-91.94390106201172
+"70518","Broussard","LA","Jennifer Navarre, NP","501 West St. Mary Blvd, Suite 320","70506",30.138966513922693,-91.96284055709839
+"70525","Church Point","LA","Acadia St Landry Hospital","not_available","70525",30.395591735839844,-92.21121215820312
+"70526","Crowley","LA","Oceans Behavioral Hospital Crowley","2021 Crowley Rayne Hwy","70578",30.23199078,-92.34438813
+"70526","Crowley","LA","American Legion Hospital","1305 Rayne Crowley Hwy","not_available",30.226,-92.36363
+"70526","Crowley","LA","Acadia General Hospital","1305 Crowley Rayne Highway","70526",30.2264527,-92.3634707
+"70528","Delcambre","LA","Women & Children Hospital","not_available","70560",29.947552,-91.96271
+"70529","Duson","LA","MMO Behavioral Health Systems","1450 Ridge Rd","70529",30.181374,-92.129441
+"70535","Eunice","LA","Graul Eye Center","251 Moosa Blvd","70535",30.496503829956055,-92.40526580810547
+"70535","Eunice","LA","Bellard's Family Pharmacy","621A W Maple Ave","70535",30.48703956604004,-92.421630859375
+"70535","Eunice","LA","Acadian Medical Center","3501 US-190","70535",30.496662139892578,-92.3858642578125
+"70535","Eunice","LA","AMC","not_available","70535",30.494671,-92.416114
+"70535","Eunice","LA","Savoy Family Care","102 S 2nd St","70535",30.494601188929387,-92.41612483924588
+"70544","Jeanerette","LA","Maison Teche Nursing Center","not_available","70544",29.953621334138504,-91.71553027720685
+"70546","Jennings","LA","Jennings American Legion Hospital","1634 Elton Rd","70546",30.23919677734375,-92.66263580322266
+"70546","Jennings","LA","Kindred at Home","422 Kade St","70546",30.23866073,-92.6602408
+"70554","Mamou","LA","Mamou Family Care","803 Poinciana Ave","70554",30.641199111938477,-92.41706848144531
+"70554","Mamou","LA","Savoy Medical Center","801 Poinciana Ave","70554",30.6422069,-92.4173673
+"70560","New Iberia","LA","Iberia Medical Center","2315 E Main St","70560",29.989483305388102,-91.78520672888851
+"70560","New Iberia","LA","Kindred at Home","203 W Main St","70560",30.00708223,-91.81976874
+"70560","New Iberia","LA","Sonnier's insane asylum","not_available","70592",30.001698495860627,-91.81886114623825
+"70560","New Iberia","LA","new iberia surgery center","2309 E Main St #300, New Iberia, LA 70560","70560",29.989856719970703,-91.7855224609375
+"70560","New Iberia","LA","Dauterive Hospital","600 N Lewis St","70563",30.00636610070047,-91.79418426816851
+"70570","Opelousas","LA","Opelousas General Hospital","539 E Prudhomme St","70570",30.5447326,-92.0752527
+"70570","Opelousas","LA","Oceans Behavioral Hospital Opelousas","1310 Heather Dr","70570",30.50827649,-92.07279085
+"70570","Opelousas","LA","Kindred at Home","2410 Jake Dr","70570",30.50804619,-92.07481402
+"70570","Opelousas","LA","Louisiana Urgent Care of Opelousas, LLC","5620 I 49 N Service Rd Ste 11","70570",30.5170314,-92.06724740000001
+"70570","Opelousas","LA","Opelousas General Health Systems South Campus","not_available","70570",30.47195235179902,-92.07871718161363
+"70570","Opelousas","LA","OGHS HIM Department","539 Prudomne Street","70507",30.545008,-92.075866
+"70570","Opelousas","LA","OGH Main Campus","550-552 Natchez Blvd","70570",30.545749362364386,-92.07473798447037
+"70586","Ville Platte","LA","Ville Platte Family Care","1013 W Lincoln Rd","70586",30.6994303,-92.28101060000002
+"70586","Ville Platte","LA","Bunkie General Hospital","not_available","71322",30.952844619750977,-92.17607116699219
+"70592","Youngsville","LA","Sweekriti Adhikari, DO","4809 Ambassador Caffery Pkwy Ste 110","70508",30.150607135079266,-92.03612566081574
+"70592","Youngsville","LA","Lafayette Surgicare","4630 Ambassador Caffery Pkwy, Suite 101","70508",30.152213,-92.044305
+"70592","Youngsville","LA","Towndsand Drug Rehab","Kaliste Saloom","70508",30.152902453727606,-92.04752997040194
+"70592","Youngsville","LA","Our Lady of Lourdes Outpatient Lab Services","4809 Ambassador Caffery Pkwy Ste 360","70508",30.150421,-92.036357
+"70592","Youngsville","LA","OLOL","not_available","70508",30.152170658111572,-92.04152584075928
+"70592","Youngsville","LA","Richard M Dearman, MD","5000 Ambassador Caffery Pkwy Bldg 14 Ste A","70508",30.145793914794922,-92.0352783203125
+"70592","Youngsville","LA","Lafayette General Urgent Care Walk-In Clinic at Sugar Mill Pond","2810 Bonin Rd","70592",30.103879928588867,-92.00775909423828
+"70601","Lake Charles","LA","LCMH Radiology","not_available","70601",30.204608917236328,-93.19733428955078
+"70601","Lake Charles","LA","CHRISTUS Ochsner St. Patrick","524 Doctor Michael Debakey Dr","70601",30.21613813121681,-93.22776709631252
+"70601","Lake Charles","LA","Lake Charles Memorial Hospital","1701 Oak Park Blvd","70601",30.2046906,-93.1975818
+"70601","Lake Charles","LA","Extended Care Of Soutwest Louisiana","2837 Ernest St Ste B","70601",30.20439338684082,-93.22152709960938
+"70601","Lake Charles","LA","Kindred at Home","1717 E Prien Lake Rd","70601",30.19844191,-93.19657398
+"70601","Lake Charles","LA","memorial","not_available","70607",30.19618034362793,-93.19957733154297
+"70601","Lake Charles","LA","Ochsner CHRISTUS Health Center - General Surgery - One","401 Doctor Michael Debakey Dr","70601",30.215440141007463,-93.2255255262591
+"70601","Lake Charles","LA","Ochsner CHRISTUS Health Center - Cardiology","600 Doctor Michael Debakey Dr","70601",30.215401671201374,-93.2299786134261
+"70601","Lake Charles","LA","Fast Pace Health Urgent Care Lake Charles","2900 Gerstner Memorial Dr","70601",30.202966690063477,-93.18061065673828
+"70605","Lake Charles","LA","Lake Charles Memorial Hospital for Women","1900 W Gauthier Rd","70605",30.140607833862305,-93.2470474243164
+"70605","Lake Charles","LA","Emeriti Retirement Center","not_available","70605",30.16961,-93.259237
+"70605","Lake Charles","LA","CHRISTUS Ochsner Lake Area Hospital","4200 Nelson Rd","70605",30.180926230304173,-93.25041147670383
+"70607","Lake Charles","LA","Oceans Behavioral Hospital Lake Charles","4250 5th Avenue","70607",30.18284508,-93.18958953
+"70607","Lake Charles","LA","University Animal Clinic","623 East McNeese Street","70607",30.17651188,-93.21184623
+"70611","Lake Charles","LA","Urgent Care","not_available","70611",30.30489767174724,-93.19585771898045
+"70611","Lake Charles","LA","Troy Fletcher, DNP, CFNP, Fast Pace Health","242 Sam Houston Jones Pkwy","70611",30.30105669100731,-93.2005512714386
+"70631","Cameron","LA","St Marys Er","3401-3699 Gates Blvd","77642",29.909026075065825,-93.92337795707125
+"70631","Cameron","LA","Renaissance Hospital Groves","5500 39th St","77619",29.939055432685397,-93.92318730664553
+"70634","Deridder","LA","Beauregard Memorial Hospital","600 S Pine","70634",30.841664793148876,-93.28767296922015
+"70634","Deridder","LA","Oceans Behavioral Hospital Deridder","1420 Blankenship Dr","70634",30.842430114746094,-93.31119537353516
+"70634","Deridder","LA","Beauregard Health System","600 South Pine Street","70634",30.84195,-93.28904
+"70634","Deridder","LA","Beauregard Health System","600 S Pine St","70634",30.84195,-93.28904
+"70648","Kinder","LA","Allen Parish Community Healthcare","108 6th Ave","70648",30.4924331,-92.8558012
+"70655","Oberlin","LA","Oakdale Community Hospital","130 Hospital Dr","71463",30.8159504,-92.644042
+"70656","Pitkin","LA","BJACH Embedded Behavioral Health","not_available","71459",31.057305,-93.20627
+"70656","Pitkin","LA","Bayne-Jones Army Community Hospital","1585 3rd St","71459",31.062591740130298,-93.21377771337485
+"70656","Pitkin","LA","TBI Clinic Augmented","Bldg. 3507 Georgia Ave.","71459",31.03441275170534,-93.2098776009146
+"70656","Pitkin","LA","TBI Clinic","Bldg. 3508 Georgia Ave.","71459",31.03431827574976,-93.21007875524538
+"70663","Sulphur","LA","High Hope Care Center","not_available","70663",30.250526428222656,-93.35945892333984
+"70663","Sulphur","LA","Calcasieu Urgent Care","Beglis Parkway","70663",30.225903,-93.359377
+"70663","Sulphur","LA","West Calcasieu Cameron Hospital","701 Cypress St","70663",30.230163439992786,-93.36796496587478
+"70663","Sulphur","LA","Family Physicians Urgent Care","Hwy 108","70663",30.219959,-93.324861
+"70663","Sulphur","LA","Schlamp Family Medical Clinic","921 1st Avenue","70663",30.23134422302246,-93.36851501464844
+"70663","Sulphur","LA","Cal Par Health Unit","201 Edgar St","70663",30.24127960205078,-93.37577056884766
+"70663","Sulphur","LA","Cornerstone of SW LA","703 Cypress St","70663",30.230743408203125,-93.36817932128906
+"70663","Sulphur","LA","Fast Pace Health Urgent Care Sulphur, LA","3439 Highway 1256","70665",30.20193884303906,-93.3761671285263
+"70663","Sulphur","LA","Troy Fletcher, DNP, CFNP, Fast Pace Health","1429 Beglis Pkwy","70663",30.22610788926131,-93.35984230041504
+"70706","Denham Springs","LA","Lake After Hours - Denham Springs","31985 LA Highway 16","70726",30.531870378286776,-90.95671229519769
+"70714","Baker","LA","Seaside Partial Hospital Programme","12038 Greenwell Spg Pt Hudso Rd","70791",30.62870216369629,-91.05296325683594
+"70719","Brusly","LA","Lake after hours urgent care Brusly","4463 La Hwy 1 South","70767",30.405562459394254,-91.23009225339031
+"70722","Clinton","LA","Circle Z Foundation Inc.","722 Scott Barr Rd","70777",30.72386932373047,-91.01950073242188
+"70726","Denham Springs","LA","OLOL Hospital","not_available","70726",30.46553803148223,-90.86830241078063
+"70726","Denham Springs","LA","BRPT Lake","not_available","70769",30.333055,-90.9851
+"70726","Denham Springs","LA","Juban Point Urgent Care","25905 Juban Rd","70726",30.442813873291016,-90.91470336914062
+"70726","Denham Springs","LA","Lake Urgent Care - Galvez","40546 Highway 42","70769",30.324401517595806,-90.92234549605644
+"70726","Denham Springs","LA","Lake Urgent Care - Denham South","8249 Vincent Rd","70726",30.444955825805664,-90.95183563232422
+"70726","Denham Springs","LA","Our Lady of the Lake Livingston Emergency Room","5000 O´Donovan Blvd","70785",30.465579663035335,-90.86665391921997
+"70726","Denham Springs","LA","AMG Specialty Hospital","8375 Florida Blvd","70726",30.48400723726814,-90.91826484063736
+"70726","Denham Springs","LA","Lake Urgent Care - Walker","29373 Walker Rd S","70785",30.483869552612305,-90.86345672607422
+"70734","Geismar","LA","Dutchtown Urgent Care","not_available","70734",30.260570526123047,-90.99026489257812
+"70737","Gonzales","LA","Ascension Medical Center","1225 S Latson Rd","48843",30.254730107434074,-90.9528386592865
+"70737","Gonzales","LA","Ascension Rehab Hospital","not_available","70737",30.22545240352582,-90.91825631172655
+"70737","Gonzales","LA","Ochsner Urgent Care and Occupational Health -  Lagniappe Center","14061 Airline Highway, Suite 103","70737",30.2815829,-90.9539082
+"70737","Gonzales","LA","Our Lady of the Lake Physician Group Community Clinic","1024 E Ascension Complex Blvd","70737",30.22492027282715,-90.9127197265625
+"70737","Gonzales","LA","Lake Urgent Care - Gonzales","1776 N Airline Hwy Ste A","70737",30.248632431030273,-90.92214965820312
+"70737","Gonzales","LA","Our Lady of the Lake Children's Health Pediatrics at North Burnside","1702 N Burnside Ave Ste C","70737",30.24761962890625,-90.92047119140625
+"70737","Gonzales","LA","Lake Urgent Care - Ascension","14350 Highway 73","70769",30.2807674407959,-90.98121643066406
+"70737","Gonzales","LA","Coastal Urgent Care of Gonzales","1124 Burnside Avenue","70737",30.2239379,-90.920288
+"70739","Greenwell Springs","LA","Greenwell Springs Hospital","23260 Greenwell Springs Rd","70739",30.578622817993164,-90.98946380615234
+"70739","Greenwell Springs","LA","baton rouge general","not_available","70818",30.550636291503906,-91.03871154785156
+"70748","Jackson","LA","ELMHS-Feliciana Forensic Facility","Hwy 10","70748",30.83241913873212,-91.21171474456787
+"70748","Jackson","LA","Zachary Manor","not_available","70791",30.650011474238372,-91.13967442739427
+"70749","Jarreau","LA","Pointe Coupee General Hospital","2202 False River Dr","70760",30.682982,-91.46049
+"70764","Plaquemine","LA","Acadian Ambulance","not_available","70764",30.261032558862645,-91.24732353879845
+"70764","Plaquemine","LA","Ochsner Medical Complex - Iberville","25455 Louisiana 1","70764",30.26688412536072,-91.21946883080483
+"70764","Plaquemine","LA","Kindred at Home","58725 Belleview Rd","70764",30.27130455,-91.23973598
+"70767","Port Allen","LA","Louisiana Urgent Care, LLC","4451 Hwy 1 S","70767",30.4144856,-91.2240314
+"70774","Saint Amant","LA","Lake Urgent Care - St. Amant","10714 Highway 431","70774",30.225688704878856,-90.86907616889107
+"70775","Saint Francisville","LA","west feliciana parish hospital","not_available","70775",30.783647735494853,-91.36672239247412
+"70791","Zachary","LA","Lake After Hours","18989 Old Scenic Hwy","70791",30.6360599,-91.1940749
+"70791","Zachary","LA","Lane Regional Medical Center","6300 Main Street","70791",30.648790999999996,-91.137785
+"70791","Zachary","LA","Yihong Zheng, MD","4845 Main St Ste D","70791",30.64885902404785,-91.15248107910156
+"70801","Baton Rouge","LA","Drug & Alcohol Rehab Baton Rouge","451 Florida St #800","70801",30.449514389038086,-91.18649291992188
+"70802","Baton Rouge","LA","Concentra","3235 Perkins Rd.","not_available",30.423175811767578,-91.15562438964844
+"70802","Baton Rouge","LA","Hospice Butterfly Wing","3600 Florida Blvd #1100","70806",30.449312210083008,-91.15306091308594
+"70802","Baton Rouge","LA","Baton Rouge General Medical Center","3600 Florida Blvd","70806",30.4491379,-91.15310459999999
+"70802","Baton Rouge","LA","Patient Plus Urgent Care","not_available","70808",30.416423,-91.143619
+"70802","Baton Rouge","LA","B.R.G. Entrance 4","3401 North Blvd","70806",30.449045181274414,-91.15449523925781
+"70802","Baton Rouge","LA","Baton Rouge Behavioral Hospital","4040 North Blvd","70806",30.448009000000003,-91.147746
+"70802","Baton Rouge","LA","Fresenius Medical Center","1919 N Foster Dr","70806",30.466628,-91.139999
+"70802","Baton Rouge","LA","Baton Rouge Detox Center","not_available","70802",30.45023894604654,-91.16971602584346
+"70805","Baton Rouge","LA","Olol North Emergency Room","not_available","70805",30.508388322285874,-91.13743902424696
+"70805","Baton Rouge","LA","EKL","not_available","70812",30.504889,-91.13167421
+"70805","Baton Rouge","LA","LSU Health Baton Rouge North Clinic","5439 Airline Hwy","70805",30.508164,-91.136501
+"70806","Baton Rouge","LA","The Suite At Womans Hospital","8845-8951 Goodwood Blvd","70815",30.443214740000002,-91.09078577
+"70806","Baton Rouge","LA","Bocage Patient Plus Urgent Care Clinic","not_available","70806",30.434439,-91.112175
+"70806","Baton Rouge","LA","Reuben Battley, MD","8200 Constantin Blvd Fl 3","70809",30.444106,-91.098313
+"70806","Baton Rouge","LA","Traci Olivier, PsyD","8415 Goodwood Blvd Ste 200","70806",30.444065951123715,-91.09830200693978
+"70807","Baton Rouge","LA","Champion Medical Center","7855 Howell Blvd","70807",30.518279999999997,-91.15689499999999
+"70808","Baton Rouge","LA","Our Lady of the Lake Regional Medical Center Emergency Room","5000 Hennessy Blvd Fl 2","70808",30.40406573870634,-91.10544848304379
+"70808","Baton Rouge","LA","Our Lady of the Lake Physician Group Hospital Medicine","5000 Hennessy Blvd","70808",30.403064695726687,-91.10657215118408
+"70808","Baton Rouge","LA","EFT2 nurses station","not_available","70809",30.401470184326172,-91.10610961914062
+"70808","Baton Rouge","LA","Sage Rehabilitation","Summa dr","not_available",30.400352,-91.103727
+"70808","Baton Rouge","LA","OLOL Cath Lab","7777 Hennessy Blvd","70808",30.403679,-91.107813
+"70808","Baton Rouge","LA","Our Lady of the Lake Children's Health Sleep Medicine","7777 Hennessy Blvd Ste 502","70808",30.404565289960104,-91.10868752024544
+"70808","Baton Rouge","LA","OLOL Surgery Waiting Room","Essen","70809",30.40331139739199,-91.10714288470989
+"70808","Baton Rouge","LA","3south","3255 Fritchie Dr","70809",30.421293,-91.11365699999999
+"70808","Baton Rouge","LA","Our Lady of the Lake PCS","Essen","not_available",30.403573989868164,-91.1067123413086
+"70808","Baton Rouge","LA","Ashley C. Mays, MD","4950 Essen Ln Ste 400","70809",30.40378029544651,-91.1048054699495
+"70808","Baton Rouge","LA","Our Lady of the Lake Head and Neck Center","7777 Hennessy Blvd Ste 409","70808",30.40238380432129,-91.10604858398438
+"70809","Baton Rouge","LA","Ochsner Medical Complex - The Grove","10310 The Grove Blvd","70836",30.386266250261546,-91.07627731860521
+"70809","Baton Rouge","LA","Baton Rouge Rehab Hospital","8595 United Plaza Blvd","70809",30.410254,-91.09506
+"70809","Baton Rouge","LA","Baton Rouge General Medical Center","8585 Picardy Ave","70809",30.39340589999999,-91.0944517
+"70809","Baton Rouge","LA","The Neuromedical Center","10101 Park Rowe Ave","70810",30.38006923781719,-91.0945880634142
+"70809","Baton Rouge","LA","Surgical Specialty Center","8080 Bluebonnet Blvd","70810",30.3766209,-91.1007171
+"70809","Baton Rouge","LA","Coastal Urgent Care","Bluebonnet","70810",30.357614,-91.109129
+"70809","Baton Rouge","LA","NICU @ Woman's Hospital","not_available","70817",30.386109478716392,-91.03791870671756
+"70809","Baton Rouge","LA","The New Womans Hospital","100 Womans Way","70817",30.386995916224596,-91.03666608535161
+"70809","Baton Rouge","LA","Children's Hospital New Orleans Specialty Care - Baton Rouge (LCMC Health Children's Hospital Specialty Care - Baton Rouge)","9001 Summa Ave Ste 342","70809",30.392816589298853,-91.09198189631253
+"70809","Baton Rouge","LA","Veterans Administration Hospital","Rue Callais","70808",30.404337181645335,-91.10100075271548
+"70810","Baton Rouge","LA","Coastal Urgent Care of Baton Rouge","9808 Bluebonnet Blvd","70810",30.3576117,-91.1090611
+"70810","Baton Rouge","LA","Ochsner Urgent Care and Occupational Health -  Highland Park","18303 Old Perkins Road East, Suite 304","70810",30.348151,-91.02385
+"70810","Baton Rouge","LA","Breast & GYN Cancer Pavilion","500 Rue de la Vie St","70817",30.38556671142578,-91.03618621826172
+"70815","Baton Rouge","LA","the guest house","not_available","70815",30.45758,-91.070873
+"70815","Baton Rouge","LA","Oceans Behavioral Hospital of Baton Rouge","11135 Florida Blvd","70815",30.45874008,-91.06123516
+"70815","Baton Rouge","LA","The Guest House","10145 Florida Blvd","70815",30.457817,-91.07065
+"70816","Baton Rouge","LA","Ochsner Medical Center","17000 Medical Center Dr","70816",30.44247994194225,-91.00037527281505
+"70816","Baton Rouge","LA","Promise Hospital - Ochsner Campus","17000 Medical Center Dr Fl 3","70816",30.442346677662655,-91.0012625404601
+"70816","Baton Rouge","LA","Ems Station 12","not_available","70816",30.454341,-91.018916
+"70816","Baton Rouge","LA","Lake Urgent Care","13686 Coursey Blvd","70817",30.4077805,-91.0265626
+"70816","Baton Rouge","LA","STAT Care Clinic","3907 S Sherwood Forest Blvd","70816",30.417081,-91.051208
+"70816","Baton Rouge","LA","Lake After Hours","2380 Oneal Ln Ste A","70816",30.43491632035622,-91.00816321836794
+"70817","Baton Rouge","LA","Womans Hospital Replacement Facility","12727 Airline Hwy","70817",30.385501912839857,-91.03747467614144
+"70817","Baton Rouge","LA","Oschner Urgent Care and Occupational Health – Lagniappe Center","14061 Airline Hwy","70737",30.36683,-91.02553
+"71001","Arcadia","LA","Bienville Family Clinic","not_available","71001",32.553916931152344,-92.9131851196289
+"71006","Benton","LA","Coastal Urgent Care Bossier","5320 Airline Dr","71111",32.61732,-93.713387
+"71006","Benton","LA","Coastal Urgent Care","not_available","71111",32.616675,-93.713609
+"71019","Coushatta","LA","CHRISTUS Coushatta Health Care Center","1635 Marvel Street","71019",32.02061999034801,-93.34382632709804
+"71019","Coushatta","LA","Coushatta hospital","Hwy 371","not_available",32.02139367878234,-93.34350849721456
+"71019","Coushatta","LA","Kindred at Home","622 Rush St","71019",32.02188204,-93.34030743
+"71019","Coushatta","LA","Specialty Rehab","not_available","71019",32.029339149956016,-93.34016328468189
+"71037","Haughton","LA","Glenwood Regional Medical Center","not_available","71110",32.484186,-93.629714
+"71037","Haughton","LA","Coastal Urgent Care of Haughton","8021 E Texas St","71111",32.5517228,-93.6285038
+"71040","Homer","LA","Homer Memorial Hospital","620-624 E College St","71040",32.79432678222656,-93.061767578125
+"71047","Keithville","LA","Stonewall Hospital","Stonewall, LA","71078",32.277223,-93.8211144
+"71055","Minden","LA","Minden Medical Center","202 Miller St","71055",32.61470413208008,-93.29117584228516
+"71075","Springhill","LA","Springhill Medical Center","not_available","71075",33.010257720947266,-93.44369506835938
+"71101","Shreveport","LA","Overton Brooks VA Medical Center","510 E Stoner Ave","71101",32.502675548418395,-93.72219670655993
+"71101","Shreveport","LA","Specialists Hospital Shreveport","1500 Line Ave","71101",32.497454,-93.746851
+"71101","Shreveport","LA","Sutton Children's Hospital","not_available","71104",32.49539172021355,-93.74971074457717
+"71101","Shreveport","LA","Promise Hospital","Irving st","not_available",32.493959000000004,-93.744941
+"71101","Shreveport","LA","Christus Schumpert ICU Waiting Room","1 Saint Mary Pl","71101",32.49564743041992,-93.74958038330078
+"71101","Shreveport","LA","CHRISTUS HomeCare - Hospice and Palliative Care - Schumpert","1700 Buckner St","71101",32.49496,-93.75405500000001
+"71101","Shreveport","LA","eMD Telehealth Solutions","504 Texas St Ste 200","71101",32.512934,-93.7501546
+"71101","Shreveport","LA","Brentwood Mental Hospital/ site of the Historic Highland Hospital","1006 Highland Ave","71101",32.5026118193087,-93.73876538715417
+"71101","Shreveport","LA","Doug Hartman New York Life","401 Edwards St Ste 1700","71101",32.51435852050781,-93.74906921386719
+"71101","Shreveport","LA","Christus Schumpert Cancer Treatment Center","Margaret","71101",32.495752787156846,-93.75076717627522
+"71101","Shreveport","LA","Schumpert ER","not_available","71101",32.49531512873073,-93.75106476663466
+"71101","Shreveport","LA","Dubuis Hospital of Shreveport","One St. Mary Pl. 5th Floo","71101",32.49452424228806,-93.7502646446228
+"71103","Shreveport","LA","Shriners","not_available","71103",32.48133848638414,-93.75736913193873
+"71103","Shreveport","LA","Willis Knighton Extended Care","2550 Kings Hwy, Shreveport, LA 71103","71103",32.48184585571289,-93.77780151367188
+"71103","Shreveport","LA","Ready","1541 Kings Hwy","71103",32.480436,-93.76144
+"71103","Shreveport","LA","LSUHSC","1501 Kings Hwy","71103",32.480958529632005,-93.76076817512512
+"71103","Shreveport","LA","PAM Specialty Hospital of Shreveport North","2550 Kings Hwy","71103",32.48184585571289,-93.77780151367188
+"71103","Shreveport","LA","Willis-Knighton Health System North","2600 Greenwood Rd","71103",32.4844859901276,-93.77929417035644
+"71104","Shreveport","LA","Va Hospital","not_available","71105",32.488441496545036,-93.70351709162838
+"71105","Shreveport","LA","CHRISTUS Highland Medical Center","1453 E Bert Kouns Industrial Loop","71105",32.425487773412094,-93.71757200545402
+"71105","Shreveport","LA","Willis Knighton Pierremont Health Center","8001 Youree Dr","71115",32.431954714266254,-93.70954871177679
+"71105","Shreveport","LA","CHRISTUS Shreveport-Bossier Health System - Highland","1453 East Bert Kouns","71105",32.4260408,-93.7168124
+"71105","Shreveport","LA","Ochsner LSU Health Urgent Care","1641 E 70th St Ste 300","71105",32.44304424617093,-93.7215829336999
+"71105","Shreveport","LA","Highland Clinic","1455 E Bert Kouns Industrial Loop","71105",32.425786437381035,-93.71719620469395
+"71105","Shreveport","LA","Advanced Cardiovascular Specialists","1453 East Bert Kouns, Ste. 112","71105",32.425405,-93.717566
+"71105","Shreveport","LA","Urgent Care of Louisiana","6841 Fern Ave","71105",32.446648,-93.73016
+"71105","Shreveport","LA","CHRISTUS Velocity Care Youree Drive Clinic","7045 Youree Dr","71105",32.44316476212094,-93.71587358524324
+"71105","Shreveport","LA","Uh Oh Pediatric Urgent Care","1549 E 70th St","71105",32.44287109375,-93.72331237792969
+"71106","Shreveport","LA","LifeCare Hospital","9320 Linwood Ave","71106",32.402896,-93.765809
+"71106","Shreveport","LA","Private Practice of Shreveport","9091 Ellerbe Rd #200B","71106",32.41089630126953,-93.73806762695312
+"71107","Shreveport","LA","HARRIS MEMORIAL","4571 N Market St","71107",32.582172,-93.804148
+"71110","Barksdale Afb","LA","R.E.M.C.O.R.","1021 Windham Ct","71112",32.509964,-93.685084
+"71110","Barksdale Afb","LA","Cornerstone Hospital","4900 Medical Dr","71112",32.460766,-93.669621
+"71111","Bossier City","LA","WK Bossier Health Center","2400 Hospital Dr","71111",32.55820307672586,-93.71863272489682
+"71111","Bossier City","LA","First Care Bossier","2539 Viking Dr Ste 101","71111",32.5558419,-93.7150245
+"71111","Bossier City","LA","Ochsner LSU Health Urgent Care","2113 Airline Dr Ste 100","71111",32.53443570314959,-93.70780066137696
+"71111","Bossier City","LA","CHRISTUS Velocity Urgent Care","2151 Airline Dr Ste 700","71111",32.538311,-93.708907
+"71111","Bossier City","LA","Foot Specialists Of Shreveport/Bossier","2300 Hospital Dr Ste 110","71111",32.558579,-93.721521
+"71111","Bossier City","LA","Willis Knighton Quick Care Urgent Care Center","2300 Hospital Dr","71111",32.558469,-93.72151
+"71111","Bossier City","LA","Promise Hospital","2525 Viking Dr","71111",32.556022,-93.716936
+"71111","Bossier City","LA","CHRISTUS Bossier Emergency Hospital","2531 Viking Drive","71111",32.55602483349165,-93.71579371406881
+"71111","Bossier City","LA","CHRISTUS Velocity Care Beene","2703 Beene Blvd","71111",32.559372,-93.708312
+"71111","Bossier City","LA","Willis Knighton Bossier Medical Pavillion","2449 Hospital Dr","71111",32.55851364135742,-93.7130355834961
+"71112","Bossier City","LA","First Care Bossier","5390 Barksdale Blvd Ste 100","71112",32.4488282,-93.65416499999999
+"71118","Shreveport","LA","Kindred at Home","2533 Bert Kouns Industrial Loop","71118",32.40154335,-93.79921133
+"71118","Shreveport","LA","Willis-Knighton South Hospital","2510 Bert Kouns Industrial Loop","71118",32.40319002475409,-93.79616260528564
+"71118","Shreveport","LA","CHRISTUS Velocity Urgent Care Mansfield Road","9300 Mansfield Rd Ste 110","71118",32.40066623892892,-93.80678901165676
+"71118","Shreveport","LA","Regional Perinatal Group","9111 Susan Dr","71118",32.40353012084961,-93.79696655273438
+"71201","Monroe","LA","P&S Surgical Hospital","312 Cramming Street","71201",32.500930309455676,-92.1141280503126
+"71201","Monroe","LA","St Francis Surgery Waiting Room","not_available","71201",32.50013137554182,-92.11443087402183
+"71201","Monroe","LA","Total Transformations NLP","1818 Avenue of America","71201",32.52600980407677,-92.11230397224426
+"71201","Monroe","LA","Internal Medicine Of The Twin Cities","2503 Broadmoor Blvd","71201",32.53562667,-92.100677
+"71201","Monroe","LA","St. Francis Community Health Center","2600 Tower Dr","71201",32.52905372839708,-92.09760010242462
+"71201","Monroe","LA","St Francis Medical Group","309 Jackson St","71201",32.499651686384226,-92.11431585464867
+"71201","Monroe","LA","St. Francis Urgent Care","2020 Tower Dr Ste 100","71201",32.524924280010254,-92.10515307653338
+"71201","Monroe","LA","Premier Urgent Care","2322-2342 Sterlington Rd","71203",32.54441632163034,-92.0765527608808
+"71201","Monroe","LA","Sarah Aftab Ahmad, MD","312 Grammont St Ste 410","71201",32.50094223022461,-92.11412048339844
+"71201","Monroe","LA","St. Francis Primary Care Clinic - Downtown","312 Grammont St Ste 559","71201",32.50094223022461,-92.11412048339844
+"71202","Monroe","LA","Ochsner LSU Urgent Care — Monroe","4864 Jackson St","71202",32.450962,-92.105542
+"71203","Monroe","LA","Glenwood Regional Urgent Care Clinic","3995 Sterlington Rd","71203",32.56511688232422,-92.07549285888672
+"71203","Monroe","LA","St Francis Medical Center (North)","not_available","71203",32.57818364649277,-92.07023488021079
+"71203","Monroe","LA","RSUD Hasan Baseri Kandangan","Jl. A. Yani","71211",32.6,-92.02
+"71203","Monroe","LA","AOSS Medical Supply, INC.","4971 Central Ave","71203",32.5122394,-92.0505756
+"71220","Bastrop","LA","Sterlington Rehab Hospital","370 W Hickory Ave","71220",32.776649622013984,-91.91942052715021
+"71220","Bastrop","LA","Vanderbilt Children's Hospital","not_available","71220",32.7814826965332,-91.901123046875
+"71220","Bastrop","LA","Liberty Healthcare","Eugene Ware Road","71280",32.78120422363281,-91.94232177734375
+"71241","Farmerville","LA","Serenity Springs","not_available","71241",32.776749,-92.405833
+"71251","Jonesboro","LA","Jackson Parish Hospital","Watts St.","71251",32.253309368976645,-92.719800035971
+"71269","Rayville","LA","RMC","not_available","71269",32.46290689020548,-91.74901194754906
+"71270","Ruston","LA","Coastal Urgent Care of Ruston","1009 S Service Rd W","71270",32.539180755615234,-92.65119934082031
+"71270","Ruston","LA","Northern Louisiana Medical Center - Emergency Room","401 E Vaughn Ave","71270",32.517391204833984,-92.6336441040039
+"71270","Ruston","LA","Lincoln General Hospital","1199 White St","71270",32.51632197662049,-92.63368716948547
+"71270","Ruston","LA","Green Clinic Rehab","not_available","71270",32.51647692863999,-92.63206337420895
+"71270","Ruston","LA","Kindred at Home","2201 North Service Rd E","71270",32.54108299,-92.61055211
+"71282","Tallulah","LA","Promise Hospital of Vicksburg","2100 US-31","38183",32.31908954776639,-90.88180303573608
+"71282","Tallulah","LA","Merit Health River Region - Emergency Services","2100 U.S. 61","39180",32.31954288488402,-90.88070154233719
+"71291","West Monroe","LA","Glenwood ER","not_available","71291",32.51258489032491,-92.15706667076924
+"71291","West Monroe","LA","St. Francis Primary Care Clinic - Cypress","3106 Cypress St","71291",32.517447365890035,-92.1542564034462
+"71291","West Monroe","LA","St. Francis Urgent Care","3424 Cypress St","71291",32.5176887512207,-92.16100311279297
+"71291","West Monroe","LA","Kindred at Home","5955 Cypress St","71291",32.51512369,-92.19988627
+"71291","West Monroe","LA","Glenwood Regional Medical Center","503 McMillan Rd","71291",32.512618,-92.156301
+"71295","Winnsboro","LA","regency hospital","not_available","71295",32.16625213623047,-91.71692657470703
+"71295","Winnsboro","LA","Franklin Medical Center","2106 Loop Rd","71295",32.158180236816406,-91.7052993774414
+"71301","Alexandria","LA","Christus St. Frances Cabrini Hospital","3330 Masonic Drive","71301",31.28329829308473,-92.46202514601535
+"71301","Alexandria","LA","Healthsouth Rehab","not_available","71301",31.317025811824475,-92.45199571288485
+"71301","Alexandria","LA","Tulane CD4 Clinic","1208 Wisteria St","71301",31.30368423461914,-92.45037078857422
+"71301","Alexandria","LA","Central Louisiana Surgical Hospital","651 N Bolton Ave","71301",31.31405807043575,-92.46837427058819
+"71301","Alexandria","LA","Patient Room 421","RRMC Room 421","not_available",31.31503,-92.449938
+"71301","Alexandria","LA","Serenity Home Care","1601 Jackson St","71301",31.304815796534164,-92.45386934293492
+"71301","Alexandria","LA","ECU","211 4th St","71301",31.31476571629828,-92.44933840942547
+"71301","Alexandria","LA","Longleaf Hospital","44 Versailles Blvd","71303",31.29203332593394,-92.50491110617077
+"71301","Alexandria","LA","Encompass Health Rehabilitation Hospital of Alexandria","104 N 3rd St","71301",31.317601122629355,-92.45220623910427
+"71301","Alexandria","LA","Dubuis Hospital of Alexandria","3330 Masonic Dr Fl 4","71301",31.28223991394043,-92.46199035644531
+"71301","Alexandria","LA","Riverside Hospital","not_available","71303",31.300773,-92.487581
+"71301","Alexandria","LA","Rapides Urgent Care","3800 Jackson St","71303",31.284028000000003,-92.477171
+"71301","Alexandria","LA","Oceans Behavioral Hospital Alexandria","2621 N Bolton Ave","71303",31.32366229,-92.47984714
+"71301","Alexandria","LA","Premier Urgent Care","3601 Jackson Street Ext","71303",31.28511346436,-92.47519647822847
+"71301","Alexandria","LA","Kindred at Home","137 Yorktown Dr","71303",31.30179812,-92.48779607
+"71301","Alexandria","LA","Plastic Surgery Center of Baton Rouge - Alexandria Cosmetic Surgery Center","3304 Masonic Dr Ste 4001","71301",31.2833752,-92.460007
+"71303","Alexandria","LA","Rapides Urgent Care","6515 Coliseum Blvd","71303",31.294878005981445,-92.51603698730469
+"71334","Ferriday","LA","Riverland Medical Center","1700 Ee Wallace Blvd N","71334",31.64653918789385,-91.55452242898342
+"71334","Ferriday","LA","American Medical Responce","not_available","39120",31.53983954232905,-91.40061215403998
+"71334","Ferriday","LA","Merit Health Natchez - Emergency Room","54 Sgt Prentiss Dr","39120",31.527847290039062,-91.39117431640625
+"71342","Jena","LA","Lasalle General Hospital ER","not_available","71342",31.69417953491211,-92.15699005126953
+"71342","Jena","LA","Wemons Health Care, OB-GYN","107 Hanger Rd","71342",31.66028594970703,-92.1639404296875
+"71350","Mansura","LA","South Star Urgent Care","not_available","71351",31.111922,-92.064129
+"71351","Marksville","LA","Women's Health Care Ob-Gyn","554 West Tunica Drive","71351",31.128297,-92.07768519999999
+"71351","Marksville","LA","Kindred at Home","930 N Main St","71351",31.13591488,-92.06174065
+"71351","Marksville","LA","Avoyelles Hospital","4231 LA-1192","71351",31.1438552,-92.06107349999999
+"71360","Pineville","LA","Rapides Urgent Care","2389 Highway 28 E","71360",31.33419090052962,-92.41511426502973
+"71360","Pineville","LA","Premier Urgent Care","not_available","71360",31.333651,-92.407693
+"71360","Pineville","LA","V A Hospital","Unnamed Rd","71360",31.353266990329256,-92.43598802111244
+"71403","Anacoco","LA","Deer Creek Doctors Hospital","815 S 10th St","71446",31.135709762573242,-93.26862335205078
+"71403","Anacoco","LA","Leesville Urgent Care","not_available","71446",31.135843,-93.265201
+"71418","Columbia","LA","CMH Nurses Break Room","not_available","71418",32.103453,-92.075397
+"71435","Grayson","LA","Surgical Waiting Room","Blake","not_available",31.897010803222656,-92.24137878417969
+"71449","Many","LA","Med Express Ambulance","205 Highland","71449",31.56184959411621,-93.47139739990234
+"71449","Many","LA","Sabine Medical Center","240 Highland Dr","71449",31.56057,-93.47209
+"71457","Natchitoches","LA","OB","not_available","71457",31.75251,-93.078702
+"71457","Natchitoches","LA","Urgent Care Clinic","Keyser Ave","71457",31.75346779240419,-93.08063416446817
+"71457","Natchitoches","LA","Kindred at Home","505 Royal St","71457",31.74785525,-93.07945307
+"71457","Natchitoches","LA","Natchitoches Regional Medical Center","501 Keyser Ave.","71457",31.752804046449256,-93.07858942398754
+"71457","Natchitoches","LA","Natchitoches Urgent Care Clinic","231 Keyser Ave","71457",31.753414,-93.080528
+"71483","Winnfield","LA","Winn Parish Medical Center","301 W Boundary Ave","71483",31.9249767,-92.6451199
+"71483","Winnfield","LA","Specialty Hospital of Winnfield","915 A First Street","71483",31.932207107543945,-92.63080596923828

@@ -1,0 +1,517 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"71601","Pine Bluff","AR","Walmart Supercenter","5501 S Olive St","71603",34.17374003999522,-92.00394274425294
+"71601","Pine Bluff","AR","Brookshire's","2721 S Camden Rd","71603",34.20238383897467,-92.04713443396624
+"71601","Pine Bluff","AR","Food Wise","not_available","71603",34.20353,-92.03463
+"71601","Pine Bluff","AR","Brookshire's","2800 S Hazel St","71603",34.20117235027024,-92.02542468937102
+"71601","Pine Bluff","AR","Super 1 Foods","1605 E Harding St","71601",34.2139263,-91.984712
+"71601","Pine Bluff","AR","Sav U Mor","372 Blake Street","71602",34.22749328613281,-92.04405212402344
+"71601","Pine Bluff","AR","Sav-a-Lot","not_available","not_available",34.22312331473078,-92.01700534474234
+"71601","Pine Bluff","AR","Thomas Grocery Store","1859-1987 University Dr","71601",34.24906648665191,-92.01753615377132
+"71601","Pine Bluff","AR","Save-A-Lot","600 S Ash St","71603",34.223333,-92.016612
+"71601","Pine Bluff","AR","Super 1 Foods Fuel Center","2721 Camden Rd","71603",34.2023159,-92.0468385
+"71602","White Hall","AR","Brookshire's","5805 Dollarway Rd","71602",34.248308903271734,-92.06763911620297
+"71602","White Hall","AR","Cranford's","not_available","71602",34.276922,-92.091542
+"71602","White Hall","AR","Brookshire's","8503 Dollarway Road","71602",34.276859283447266,-92.0913314819336
+"71602","White Hall","AR","Cranford's Fresh World","8503 Dollarway Rd","71602",34.276839,-92.091011
+"71602","White Hall","AR","Save A Lot","not_available","72152",34.341874041817405,-91.95930932270076
+"71635","Crossett","AR","Walmart Supercenter","910 Unity Rd","71635",33.13655397323944,-91.9421124458313
+"71635","Crossett","AR","Brookshire's","1600 Dr. Martin Luther King Jr. Dr","71635",33.1175347,-91.961836
+"71635","Crossett","AR","Save-A-Lot","308 C Pine St","71635",33.132408,-91.960124
+"71638","Dermott","AR","Walmart","1001 Highway 65 S","71654",33.60411071777344,-91.38129425048828
+"71638","Dermott","AR","Piggy Wiggle","132-168 N Main St","71638",33.52704784283565,-91.43586904736406
+"71639","Dumas","AR","Piggly Wiggly","358 Highway 65 S","71639",33.883846,-91.484518
+"71639","Dumas","AR","The Mad Butcher","not_available","71639",33.8783915831761,-91.48213639694929
+"71646","Hamburg","AR","Jade's Super Foods","601 N Main St","71646",33.229793,-91.798243
+"71647","Hermitage","AR","Hermitage Grocery","not_available","71647",33.44738176646418,-92.17477999423288
+"71652","Kingsland","AR","Walmart","1123 Highway 79 167 Byp","71742",33.82084771393062,-92.43570035855556
+"71653","Lake Village","AR","Supervalu Foods","W Reed Rd.","71653",33.384968969749345,-91.05508998984246
+"71653","Lake Village","AR","Yee's Foodland","not_available","71653",33.331401,-91.28612
+"71653","Lake Village","AR","Delta Vapors","1422 S Main St","38701",33.3843023,-91.0532921
+"71653","Lake Village","AR","Sunflower","700-998 Lakeside St","71653",33.32285821437836,-91.29132270812988
+"71655","Monticello","AR","Walmart Supercenter","427 Highway 425 N","71655",33.635731751625165,-91.80432819619945
+"71655","Monticello","AR","Save-A-Lot","313 N Hyatt St","71655",33.630275404394986,-91.79626353771752
+"71655","Monticello","AR","Piggly Wiggly","345 S Main St","71655",33.62462,-91.79123
+"71667","Star City","AR","Piggly Wiggly","1307 N Lincoln Ave","71667",33.95668411254883,-91.84270477294922
+"71671","Warren","AR","Supervalu","not_available","71671",33.61799032414741,-92.0644971322509
+"71674","Watson","AR","Piggly Wiggly","not_available","38769",33.84518123461028,-91.02563717908897
+"71701","Camden","AR","Jades","not_available","71701",33.58428895875916,-92.84951677814472
+"71701","Camden","AR","Save-A-Lot","785 California Ave","71701",33.5720434945367,-92.83492988051614
+"71701","Camden","AR","Walmart Supercenter","950 California Ave Sw","71701",33.56868239,-92.83705831
+"71701","Camden","AR","Brookshire's","1345 Hwy 4 Spur SW","71701",33.5845581,-92.8343294
+"71701","Camden","AR","Brookshire's Fuel Center","1345 US 278","71701",33.5755601,-92.8538233
+"71730","El Dorado","AR","Brookshire's","220 S West Ave","71730",33.2106167067932,-92.66572686680749
+"71730","El Dorado","AR","Jade's Food Mart","not_available","71765",33.11176840356084,-92.36890437115365
+"71730","El Dorado","AR","Mcdonald's Grocery And Deli","526 N Main St","71749",33.020947,-92.725105
+"71730","El Dorado","AR","Brookshire's","2202 N West Ave","71730",33.234237563872234,-92.66614385953802
+"71730","El Dorado","AR","Walmart Grocery Pickup","2730 N West Ave","71730",33.242027282714844,-92.66838836669922
+"71753","Magnolia","AR","Brookshire's","1623 E Main St","71753",33.26531219482422,-93.21832275390625
+"71753","Magnolia","AR","Save-A-Lot","429 E Main St","71753",33.26720047,-93.24377441
+"71753","Magnolia","AR","Mac's Fresh Market","205 N Fredrick","71753",33.267860412597656,-93.22447204589844
+"71753","Magnolia","AR","Walmart Grocery Pickup","60 Highway 79 N","71753",33.276654,-93.212118
+"71753","Magnolia","AR","Keith's Grocery","not_available","71753",33.189575,-93.28836
+"71801","Hope","AR","Save-A-Lot","1704 East 3rd St","71801",33.669036344553795,-93.57152467067355
+"71801","Hope","AR","Walmart Supercenter","2400 N Hervey St","71801",33.681547589615434,-93.61452572000117
+"71801","Hope","AR","Super 1 Foods Pharmacy","909 N Hervey St","71801",33.675594329833984,-93.59976959228516
+"71801","Hope","AR","Save A Lot","1704 E 3rd St","71801",33.6690204,-93.5712257
+"71801","Hope","AR","Save-A-Lot","Hwy 67 & Hwy 4","71801",33.6681,-93.5874
+"71822","Ashdown","AR","Brookshire's Pharmacy","1310 Constitution Ave","71822",33.658957,-94.115933
+"71822","Ashdown","AR","Walmart Supercenter","297 Hwy 32 By-pass E","71822",33.65759847953677,-94.10984304914511
+"71832","De Queen","AR","Walmart Supercenter","926 E Collin Raye Dr","71832",34.043548583984375,-94.31905364990234
+"71834","Doddridge","AR","Fouke Monster Mart","104 Hwy 71","71837",33.26178,-93.8852
+"71851","Mineral Springs","AR","Walmart Supercenter","1710 S 4th St","71852",33.925229811240435,-93.8570739075464
+"71851","Mineral Springs","AR","Cashsaver","628 S Main St","71852",33.937269,-93.848054
+"71851","Mineral Springs","AR","Brookshire's","1405 S 4th St","71852",33.930073,-93.85000699999999
+"71852","Nashville","AR","Cashsaver","300 E 13th St","71958",34.069793701171875,-93.68721771240234
+"71854","Texarkana","AR","Walmart Supercenter","133 Arkansas Blvd","71854",33.4617827618872,-94.03984696405936
+"71854","Texarkana","AR","Albertsons","3710 State Line Ave","71854",33.45937479712453,-94.04191867278308
+"71854","Texarkana","AR","237 Grocery","10749 Blackman Ferry Rd","71854",33.307801291392394,-94.0023922920227
+"71854","Texarkana","AR","Mandeville Grocery","not_available","71854",33.475379,-93.970498
+"71854","Texarkana","AR","Save-A-Lot","6 College Hill Center","71854",33.44179153,-94.03768921
+"71854","Texarkana","AR","Save-A-Lot","6 College Hill Ctr","71854",33.419235,-94.02920999999999
+"71901","Hot Springs National Park","AR","Walmart Supercenter","1601 Albert Pike Rd","71913",34.491481126908134,-93.08938877253787
+"71901","Hot Springs National Park","AR","Walmart Supercenter","3604 N Highway 7","71909",34.632444287017,-93.05615889075717
+"71901","Hot Springs National Park","AR","Walmart Supercenter","4019 Central Ave","71913",34.45451866,-93.06151628
+"71901","Hot Springs National Park","AR","Kroger","215 Airport Rd","71913",34.4882691,-93.0871107
+"71901","Hot Springs National Park","AR","Kroger","3341 Central Ave","71913",34.4740808,-93.0594339
+"71901","Hot Springs National Park","AR","Kroger","4407 Central Ave","71913",34.450826728028524,-93.07460328727065
+"71901","Hot Springs National Park","AR","The Old Country Store","455 Broadway St","71901",34.50353919082266,-93.05147013170398
+"71901","Hot Springs National Park","AR","Walmart Neighborhood Market","1544 Malvern Ave","71901",34.494601,-93.039501
+"71901","Hot Springs National Park","AR","Save-A-Lot","1540 Malvern Ave","71901",34.494537353515625,-93.04034423828125
+"71901","Hot Springs National Park","AR","Asian Food Market","4737 Central Ave","71913",34.445386,-93.08965802192688
+"71901","Hot Springs National Park","AR","Lakeside Supermarket","not_available","71901",34.46395824192642,-92.96965391170819
+"71901","Hot Springs National Park","AR","Cranfords","Hwy5","not_available",34.626418962818256,-92.85747143403545
+"71909","Hot Springs Village","AR","Foodwise","Hwy 7","71909",34.655277,-93.05839
+"71909","Hot Springs Village","AR","Brookshire's","4545 N State Hwy 7","71909",34.6551046,-93.0582066
+"71913","Hot Springs National Park","AR","Harp's","Thornton Ferry","not_available",34.50139187175472,-93.12655846493551
+"71913","Hot Springs National Park","AR","Walmart Neighborhood Market","1640 Airport Road","71913",34.468441009521484,-93.14134979248047
+"71913","Hot Springs National Park","AR","Harps Food Store","5536 Central Ave","71913",34.424007415771484,-93.09764862060547
+"71913","Hot Springs National Park","AR","C And H Grocery","not_available","71968",34.511254,-93.218069
+"71913","Hot Springs National Park","AR","Harps Food Store","146 Thornton Ferry Rd","71913",34.503099376245245,-93.12561809950557
+"71913","Hot Springs National Park","AR","Harp's","Central Avenue","not_available",34.42426587664421,-93.06593254242549
+"71913","Hot Springs National Park","AR","Harvest Foods","1739 Airport Rd #F","71913",34.46379325067533,-93.14498200504235
+"71921","Amity","AR","Kirby Dunlap Store","not_available","71921",34.25051380055382,-93.64181291150602
+"71921","Amity","AR","Wright's Food Center","111-117 Elm St","71943",34.325099,-93.551702
+"71923","Arkadelphia","AR","Walmart Supercenter","109 Wp Malone Dr","71923",34.11987430813847,-93.09623965185612
+"71923","Arkadelphia","AR","Brookshire's","2750 Pine St #5","71923",34.122211267816446,-93.08450015863914
+"71929","Bismarck","AR","Wishbone Country Store","highway 84","not_available",34.3346244472978,-93.04200368939792
+"71929","Bismarck","AR","BCM (Bismarck Community Market)","not_available","71929",34.312989536625935,-93.16918302647932
+"71953","Mena","AR","Walmart Supercenter","600 Highway 71 N","71953",34.58809820534716,-94.2257396390841
+"71953","Mena","AR","Brantley's Warehouse Foods","not_available","71953",34.584027,-94.234918
+"71953","Mena","AR","Heather's Food Bargains","2108 Hwy 71 S, Mena, AR 71953","71953",34.57828403203055,-94.24254531000376
+"71953","Mena","AR","James's Super Save Foods","707 7th St","71953",34.58229146982111,-94.23823972062716
+"71953","Mena","AR","Penny Pinchers Surplus","1604 Highway 71 S","71953",34.570594787597656,-94.24996948242188
+"72002","Alexander","AR","Kroger Marketplace","16105 Chenal Pkwy Ste B","72223",34.7568761,-92.4486019
+"72002","Alexander","AR","Trader Joe's","11500 Financial Centre Pkwy","72211",34.74819,-92.4016
+"72002","Alexander","AR","Walmart Supercenter","400 Bryant Ave","72022",34.6239379258346,-92.49449386900096
+"72002","Alexander","AR","Walmart Supercenter","700 Bowman Rd","72211",34.74825401605173,-92.41031484804226
+"72002","Alexander","AR","Whole Foods Market","501 Bowman Road","72211",34.750266583573925,-92.40591200676246
+"72002","Alexander","AR","Kroger Marketplace","20820 Interstate 30 N","72019",34.610649,-92.530793
+"72002","Alexander","AR","Kroger","1410 Military Rd","72015",34.5781438,-92.5774895
+"72002","Alexander","AR","Food Giant","13415 Otter Creek Pkwy","72210",34.657621999999996,-92.427594
+"72002","Alexander","AR","K Oriental Store","12111 W Markham St Ste 440","72211",34.751763000000004,-92.406539
+"72002","Alexander","AR","Walmart Supercenter","17309 Interstate 30 S","72015",34.577391215406564,-92.58068701270376
+"72002","Alexander","AR","Harvest Foods (Salem)","not_available","72015",34.62836098362181,-92.568513278585
+"72002","Alexander","AR","Prickett's","17939-17963 Lawson Rd","72210",34.716209,-92.484453
+"72002","Alexander","AR","Harps Grocery","1515 Highway 5 N","72019",34.60911947835859,-92.53935291782543
+"72002","Alexander","AR","Los Gemelos Tienda Mexicana","107 NE 2nd St","72022",34.59614944458008,-92.48848724365234
+"72002","Alexander","AR","Edwards Food Fiant","not_available","72022",34.58629180203462,-92.49487122806136
+"72002","Alexander","AR","Edwards Food Giant","2203 N Reynolds Rd","72022",34.61458028107279,-92.49901838177125
+"72003","Almyra","AR","Kroger","305 S Whitehead Dr","72042",34.292756756639946,-91.32536544467257
+"72003","Almyra","AR","Piggly Wiggly","108 E 2nd St","72042",34.29265213012695,-91.33457946777344
+"72003","Almyra","AR","Piggly Wiggly","102 E Main St","72042",34.292498,-91.334607
+"72004","Altheimer","AR","Mayflower Food Stores","not_available","72160",34.47937446408318,-91.5530461617424
+"72007","Austin","AR","Walmart Supercenter","304 S Rockwood Dr","72023",34.97656050746169,-92.04049760728046
+"72007","Austin","AR","Walmart Supercenter","2003 W. Center St","72012",35.06631415,-91.90524185
+"72007","Austin","AR","Kroger","1295 W Main St","72023",34.975512,-92.0286911
+"72007","Austin","AR","Harps Food Store","801 N 2nd St","72023",34.979271999999995,-92.010711
+"72007","Austin","AR","Americas market","not_available","72176",35.027371997148215,-91.9545528580317
+"72007","Austin","AR","Knight's Super Food","1701 W Dewitt Henry Dr","72012",35.072527,-91.90154799999999
+"72007","Austin","AR","Walmart Grocery Pickup","1203 S. Pine St","72023",34.953376,-92.006983
+"72007","Austin","AR","Knight's Grocery","not_available","72012",35.07313259781047,-91.87698397977657
+"72007","Austin","AR","Knights Super Foods","906 S Pine St","72023",34.957377,-92.009568
+"72010","Bald Knob","AR","Harps Food Store","232 Highway 167 Ln N","72010",35.330943083374756,-91.56074541249606
+"72015","Benton","AR","Harps Food Store","6039 Highway 67","72015",34.52949142456055,-92.64550018310547
+"72015","Benton","AR","Save-A-Lot","1316 Edison Ave","72015",34.55755322826003,-92.57197432697765
+"72020","Bradford","AR","Jerry's Foods","269 Main St","72568",35.5608769,-91.6250511
+"72021","Brinkley","AR","Mad Butcher","416 Madison Street","72029",34.69269358021243,-91.30919881617139
+"72021","Brinkley","AR","Kroger","1421 Pinecrest St.","72021",34.90553145615577,-91.20058847023529
+"72021","Brinkley","AR","Save A Lot","100 N New York Ave","72021",34.88750076293945,-91.19607543945312
+"72023","Cabot","AR","Walmart Supercenter","2000 John Harden Dr","72076",34.88496317110879,-92.1118525939331
+"72023","Cabot","AR","Kroger","103 Gregory Pl","72076",34.8791779,-92.1100802
+"72023","Cabot","AR","Little Rock AFB Commissary","Bldg 790 6th St","72099",34.89974449520309,-92.1495447375819
+"72023","Cabot","AR","Knights","298 S Jeff Davis St","72076",34.86462414264679,-92.12022185325623
+"72024","Carlisle","AR","Mayflower - Carlisle","401-499 S Court St","72024",34.7800335,-91.74755078333334
+"72031","Clinton","AR","Walmart Supercenter","1966 Highway 65 S","72031",35.56696373871846,-92.45397855738831
+"72032","Conway","AR","Kroger Marketplace","855 Salem Rd","72034",35.0895564,-92.4725407
+"72032","Conway","AR","Walmart Supercenter","1155 Hwy 65 North","72032",35.108662316974694,-92.43729760164962
+"72032","Conway","AR","Walmart Supercenter","3900 Dave Ward Dr","72034",35.07266571713452,-92.49507913062749
+"72032","Conway","AR","Kroger","101 Oak St","72032",35.090398568340184,-92.4284099627568
+"72032","Conway","AR","Walmart Neighborhood Market","2550 Prince St","72034",35.09437879306788,-92.46319059319563
+"72032","Conway","AR","Harp's","1110 E German Ln","72032",35.09256618740244,-92.40059396370819
+"72032","Conway","AR","10 Box Cost-Plus","380 Harkrider St","72032",35.074774,-92.432913
+"72032","Conway","AR","Harps","582 Highway 365","72106",34.965572357177734,-92.423583984375
+"72032","Conway","AR","La Mexicana","1004 Van Ronkle St #3","72032",35.091915,-92.43903
+"72032","Conway","AR","Chicken City","625 Salem Rd","72034",35.08728613003543,-92.47229815820018
+"72032","Conway","AR","Vapor-Riffic","740 S Salem Rd Unit 110","72034",35.0714978,-92.471349
+"72032","Conway","AR","Nature's Market","705 Club Ln Ste 105","72034",35.08851202360513,-92.4727888405323
+"72039","Damascus","AR","Cash Saver","not_available","72039",35.364557,-92.412434
+"72041","De Valls Bluff","AR","City Market","100 S Livermore","72064",34.77934,-91.579803
+"72041","De Valls Bluff","AR","Alroz Properties","3408 Highway 63 N","72064",34.8160073,-91.567358
+"72044","Edgemont","AR","Family Market","not_available","72067",35.578175,-92.17612
+"72046","England","AR","Keo One Stop","4284 W Hwy 165","72046",34.598236083984375,-92.00460815429688
+"72046","England","AR","Kroger","301 Pine Bluff Hwy","72046",34.5450865848979,-91.95638716220856
+"72058","Greenbrier","AR","Walmart Neighborhood Market","75 South Broadview","72058",35.22602105251377,-92.38929550282023
+"72058","Greenbrier","AR","Harps","15 N Broadview St","72058",35.23780198184922,-92.3896018623723
+"72058","Greenbrier","AR","Harps","Hwy 65","not_available",35.2088513557639,-92.42484965054814
+"72058","Greenbrier","AR","Greenbrier Supercenter","116 S Broadview St","72058",35.220638275146484,-92.38665771484375
+"72058","Greenbrier","AR","Wooster Grocery","Hwy 285","not_available",35.206784,-92.456639
+"72058","Greenbrier","AR","Harps Grocery","S Broadview St, Greenbrier, AR 72058","72058",35.22109442486222,-92.38860593811185
+"72065","Hensley","AR","Edward's Food Giant","20383 Arch St","72206",34.56391906738281,-92.3376693725586
+"72065","Hensley","AR","Harvest Foods","Arch St.","72065",34.564202659103174,-92.33716353574522
+"72067","Higden","AR","Greers Ferry Grocery & Feed","8649 Edgemont Rd","72067",35.575729760171434,-92.17758893966675
+"72073","Humphrey","AR","Walmart Supercenter","406 E 22nd St","72160",34.47755853903028,-91.54884710420649
+"72076","Jacksonville","AR","Kroger","6929 John F Kennedy Blvd","72116",34.8196435,-92.2385331
+"72076","Jacksonville","AR","Walmart Supercenter","9053 Highway 107","72120",34.83852346267463,-92.23619787177181
+"72076","Jacksonville","AR","Walmart Neighborhood Market","8801 Highway 107","72120",34.83521097329114,-92.2328503724176
+"72076","Jacksonville","AR","Ann's Health Food","Near 100-298 Reeves Rd","72120",34.84648890399428,-92.22512960671256
+"72082","Kensett","AR","Walmart Supercenter","3509 E Race Ave","72143",35.247822120842144,-91.68747057609096
+"72082","Kensett","AR","Wonder Hostess Bakery Outlet","3705 E Race Ave","72143",35.24980163574219,-91.683837890625
+"72086","Lonoke","AR","Walmart Supercenter","322 Brownsville Loop","72086",34.80520535767066,-91.89335665168939
+"72086","Lonoke","AR","Furlow Grocery","10623 Highway 89 S","72086",34.83320067816045,-91.98011291574618
+"72088","Fairfield Bay","AR","Craven's Hillcrest Foods","14551 Edgemont Rd (AR HWT 16 E.)","72153",35.628107205601914,-92.26212328933995
+"72101","Mc Crory","AR","Mad Butcher","not_available","72101",35.26722251295589,-91.19925711725071
+"72103","Mabelvale","AR","Walmart Supercenter","8801 Baseline Rd","72209",34.66766993679109,-92.37689099090947
+"72103","Mabelvale","AR","Harvest Foods","Chicot","72103",34.62196524869365,-92.36489953694401
+"72104","Malvern","AR","Walmart Supercenter","1910 Martin Luther King Blvd","72104",34.39076246,-92.8327775
+"72104","Malvern","AR","Food Center","534 S Main St","72104",34.360481,-92.811215
+"72104","Malvern","AR","Family Market","1018 McNeal St","72104",34.359634,-92.801663
+"72104","Malvern","AR","Brookshire Brothers","113 W Highway 67","76084",34.354598,-92.81955
+"72106","Mayflower","AR","Kroger Grocery Pickup and Delivery","110 Commons Dr","72113",34.84786347182561,-92.40840108725024
+"72110","Morrilton","AR","Walmart Supercenter","1621 North Business 9","72110",35.1686568135369,-92.72615233100419
+"72110","Morrilton","AR","Kroger","1626 E Harding St","72110",35.16879213878255,-92.72276671246794
+"72110","Morrilton","AR","Big Star","not_available","72110",35.152154574609604,-92.74178418897618
+"72110","Morrilton","AR","Harps Food Store","100 S Saint Joseph St","72110",35.15170531816261,-92.742440700531
+"72112","Newport","AR","Walmart Supercenter","1211 Highway 367 N","72112",35.61816159786658,-91.25416554658553
+"72112","Newport","AR","Price Chopper","805 Highway 367 N","72112",35.612789154052734,-91.25262451171875
+"72112","Newport","AR","Save-a-lot","not_available","72112",35.606083,-91.255279
+"72113","Maumelle","AR","Kroger Marketplace","14000 Cantrell Rd","72223",34.8039055,-92.4291859
+"72113","Maumelle","AR","Walmart Supercenter","12001 Maumelle Blvd","72113",34.83215698995203,-92.39460629438908
+"72114","North Little Rock","AR","City Market","not_available","72116",34.781524658203125,-92.25804138183594
+"72114","North Little Rock","AR","Kroger","900 W Pershing Blvd","72114",34.7792667636914,-92.27760314941406
+"72116","North Little Rock","AR","Kroger","2509 McCain Blvd","72116",34.79787590333663,-92.23579271698327
+"72116","North Little Rock","AR","Walmart Supercenter","4450 E Mccain Blvd","72117",34.786756183103805,-92.2146632869063
+"72116","North Little Rock","AR","Kroger","4401 Camp Robinson Rd","72118",34.7950170501882,-92.272909283638
+"72116","North Little Rock","AR","Walmart Grocery Pickup and Delivery","4450 E McCain Blvd","72117",34.7891634042553,-92.2156410638298
+"72118","North Little Rock","AR","Kroger","1900 N Polk St","72207",34.7694082,-92.3350294
+"72118","North Little Rock","AR","The Fresh Market","11525 Cantrell Rd, Ste 800","72212",34.792628531364734,-92.4005432407735
+"72118","North Little Rock","AR","Edwards Food Giant","7525 Cantrell Rd","72207",34.771084207304774,-92.35723396868835
+"72118","North Little Rock","AR","Ozark Nut Roasters","6311 Kelly Road","72118",34.826434000000006,-92.328983
+"72118","North Little Rock","AR","Edwards Food Giant","not_available","72207",34.772317674982354,-92.40559070461842
+"72118","North Little Rock","AR","Indian Grocers","11121 N Rodney Parham Rd Ste 3-4A","72212",34.770491,-92.397368
+"72126","Perryville","AR","Harps","not_available","72126",35.011024,-92.799763
+"72131","Quitman","AR","Parker's Bend Aka Big Star","not_available","72131",35.38581962724741,-92.20827452475574
+"72131","Quitman","AR","Sherwoods Hometown Grocery","not_available","72137",35.3310661315918,-92.08480072021484
+"72132","Redfield","AR","Spring Market","1024 Sheridan Road","72132",34.4397469,-92.193645
+"72135","Roland","AR","Walmart Supercenter","19301 Cantrell Rd","72223",34.809512601484336,-92.4864051226866
+"72143","Searcy","AR","Walmart Neighborhood Market","1330 W Beebe Capps Expy","72143",35.24547578795195,-91.75020115748097
+"72143","Searcy","AR","Kroger","1601 E Race Ave","72143",35.25013427419912,-91.71825569703267
+"72143","Searcy","AR","Harps Food Store","2525 W Beebe Capps Expy","72143",35.24570589290229,-91.77472881156513
+"72143","Searcy","AR","Natural Foods Store","not_available","72143",35.242964443309106,-91.73445112270538
+"72143","Searcy","AR","Country Mart","2702 E Race Ave","72143",35.25224685668945,-91.70635986328125
+"72150","Sheridan","AR","Walmart Supercenter","1308 S Rock St","72150",34.29114372711278,-92.39708640517675
+"72173","Vilonia","AR","Harps Food Store","1048 Main St","72173",35.082271575927734,-92.2171859741211
+"72202","Little Rock","AR","Kroger","614 Beechwood St","72205",34.7567202,-92.3248629
+"72202","Little Rock","AR","Kroger","6420 Colonel Glenn Rd","72204",34.7195022,-92.3475626
+"72202","Little Rock","AR","Edward's Food Giant","1701 Main St","72206",34.7317632200322,-92.27318211907222
+"72202","Little Rock","AR","Kroger","1100 E Roosevelt Rd","72206",34.72488237161562,-92.26092250677539
+"72202","Little Rock","AR","City Market","not_available","72204",34.74103546142578,-92.31948852539062
+"72202","Little Rock","AR","Ali Baba Grocery & Restaurant","3400 S University Ave #2","72204",34.72132502989467,-92.34259419496169
+"72202","Little Rock","AR","Fairpark Grocery Store","W 32nd St","72204",34.722897451526165,-92.33482872331236
+"72202","Little Rock","AR","Woodrow Food Mart","1817 S Woodrow St","72204",34.733902,-92.305672
+"72204","Little Rock","AR","Walmart Supercenter","2700 S Shackleford Rd","72205",34.728512737326035,-92.39750852609487
+"72204","Little Rock","AR","Mr. Chen's Authentic Chinese Restaurant","3800 S University Ave","72204",34.715616637627164,-92.34089767224015
+"72204","Little Rock","AR","Debs family market","7624 Colonel Glenn Rd","72204",34.714673,-92.361103
+"72204","Little Rock","AR","Food Fast Delivery","1 Malcolm Cv","72209",34.67744064331055,-92.36785888671875
+"72205","Little Rock","AR","Kroger","8415 W Markham St","72205",34.7519225,-92.36792
+"72205","Little Rock","AR","Kroger","10300 N Rodney Parham Rd","72227",34.7679876,-92.3882814
+"72205","Little Rock","AR","Drug Emporium","9112 N Rodney Parham Rd","72205",34.758087170790084,-92.37584551751695
+"72205","Little Rock","AR","Asian Groceries","Rodney Parham","72227",34.75844307000804,-92.37581606582515
+"72205","Little Rock","AR","Shalimar","9700 N Rodney Parham Rd","72227",34.761573791503906,-92.38098907470703
+"72205","Little Rock","AR","Natural Grocers","9210 N. Rodney Parham Rd.","72227",34.75845,-92.37769
+"72206","Little Rock","AR","Kroger","8824 Geyer Springs Rd","72209",34.66986591873165,-92.3459243774414
+"72206","Little Rock","AR","Edwards Food Giant","Baseline Rd","72209",34.669258,-92.36144399999999
+"72206","Little Rock","AR","Foodwise","not_available","72209",34.67565543465339,-92.33757387399656
+"72206","Little Rock","AR","Harvest Foods","Arch Street","72206",34.594921,-92.325161
+"72206","Little Rock","AR","Joey B's Fresh Market","not_available","72206",34.59786772727966,-92.320508
+"72206","Little Rock","AR","Vietnam Market","8521 Geyer Springs Rd","72209",34.671828,-92.343463
+"72206","Little Rock","AR","Supermercado Sin Fronteras","4918 Baseline Rd","72209",34.66865539550781,-92.33280944824219
+"72301","West Memphis","AR","Walmart Supercenter","798 W Service Rd","72301",35.16588695604115,-90.20007739095838
+"72301","West Memphis","AR","Kroger","300 W. Service Rd","72301",35.167854026406076,-90.19162240689184
+"72301","West Memphis","AR","Big Star","429 W Broadway St","72301",35.14714282583218,-90.19397261443538
+"72301","West Memphis","AR","Avalon Mart","not_available","72301",35.1298,-90.19407199999999
+"72301","West Memphis","AR","Big Star East","2050 E Broadway St","72301",35.14676360778018,-90.16003888909201
+"72301","West Memphis","AR","Save A Lot","337 W Broadway St","72301",35.1469326,-90.1922898
+"72301","West Memphis","AR","Kroger Grocery Pickup and Delivery","300 W Service Rd","72301",35.1684455871582,-90.19148254394531
+"72315","Blytheville","AR","Walmart Supercenter","3700 E Highway 18","72315",35.930861594788915,-89.87216602398478
+"72315","Blytheville","AR","Hay's Grocery","not_available","72315",35.93580472514235,-89.9104585933406
+"72315","Blytheville","AR","Kroger","400 W Moultrie Dr","72315",35.937159065815614,-89.90702660397801
+"72315","Blytheville","AR","Town & Country Food & Fuel","625 E Main St","72315",35.9270568,-89.8954375
+"72315","Blytheville","AR","Save-A-Lot","1905 W Main St","72315",35.926916,-89.925963
+"72326","Colt","AR","Forrest City Grocery","3400 Commerce Rd","72335",35.04460144042969,-90.80332946777344
+"72327","Crawfordsville","AR","The Mad Butcher Grocery Store (SUPERVALU)","1150 Barton St","72331",35.275062561035156,-90.46986389160156
+"72335","Forrest City","AR","Walmart Supercenter","205 Deadrick Rd","72335",35.02895534,-90.79335073
+"72335","Forrest City","AR","Cost Plus","not_available","72335",35.031464,-90.792569
+"72335","Forrest City","AR","Save A Lot","2300 N Washington St","72335",35.0311918,-90.7881264
+"72335","Forrest City","AR","Save-A-Lot","2300 Washington","72335",34.97463226,-90.7816925
+"72342","Helena","AR","Hay's","816 N Sebastian","72390",34.5555615572751,-90.65676577603404
+"72342","Helena","AR","Walmart Supercenter","602 Shelia Street","72390",34.55545053082236,-90.6510115285666
+"72342","Helena","AR","Hays","Midland Heights","72342",34.53916143740013,-90.6210155830649
+"72360","Marianna","AR","Food Giant","not_available","72360",34.760353088378906,-90.76709747314453
+"72364","Marion","AR","Walmart Neighborhood Market","2100 Highway 77","72364",35.19797440356781,-90.18281936645508
+"72364","Marion","AR","Chicken City","not_available","72364",35.210039,-90.210015
+"72370","Osceola","AR","Walmart Supercenter","2720 W Keiser Ave","72370",35.69993983371593,-90.01242613445493
+"72370","Osceola","AR","Hometown Supermarket","not_available","72370",35.69707,-89.980736
+"72370","Osceola","AR","Gunns Grocery Store","475 N Walnut St","72370",35.706481952972545,-89.97077465057373
+"72396","Wynne","AR","Walmart Supercenter","800 Highway 64 E","72396",35.25316049109612,-90.77723987634387
+"72396","Wynne","AR","Hays 4","not_available","72396",35.24377532,-90.7815282
+"72396","Wynne","AR","little hays","South falls blvd levesque","72396",35.22252091492766,-90.78765025871068
+"72401","Jonesboro","AR","Kroger Marketplace","1725 S Caraway Rd","72401",35.8236188595137,-90.6801654321651
+"72401","Jonesboro","AR","Walmart Grocery Pickup & Delivery","1815 E Highland Dr","72401",35.82122,-90.6858302277464
+"72401","Jonesboro","AR","Walmart Supercenter","1911 W Parker Rd","72404",35.81596887513013,-90.73415086020867
+"72401","Jonesboro","AR","Walmart Neighborhood Market","3319 Harrisburg Road","72404",35.802982330322266,-90.69786071777344
+"72401","Jonesboro","AR","Walmart Neighborhood Market","2811 Creek Dr","72401",35.825443267822266,-90.67119598388672
+"72401","Jonesboro","AR","ALDI","2610 S Caraway Rd","72401",35.81323685396721,-90.67738549550995
+"72401","Jonesboro","AR","Hays (Nettleton) @ Jonesboro","2819 E Nettleton Ave","72401",35.82785080430341,-90.6699763537708
+"72401","Jonesboro","AR","Hays Supermarket (Gee St)","Gee street","72401",35.833100723227346,-90.72217876390046
+"72401","Jonesboro","AR","Natural Grocers","1315 S Caraway Rd","72401",35.828844,-90.678872
+"72401","Jonesboro","AR","Bill's Fresh Market","4121-4125 Stadium Blvd","72404",35.78968931980876,-90.67039082443023
+"72401","Jonesboro","AR","Harps Food Store","203 W Highland Dr","72401",35.82101269094886,-90.7037098366525
+"72401","Jonesboro","AR","Harps Food Store","2005 Harrisburg Rd","72401",35.820318667075945,-90.70396184921265
+"72401","Jonesboro","AR","Country Mart @ Jonesboro","3106 Southwest Dr","72404",35.80600924182626,-90.72148229406945
+"72401","Jonesboro","AR","Bills Fresh Market","3605 E Johnson Ave","72401",35.857636,-90.653665
+"72401","Jonesboro","AR","cashsaver","not_available","72404",35.80589745557308,-90.7213014148723
+"72401","Jonesboro","AR","Harps","not_available","72401",35.820960920467435,-90.70700988545026
+"72401","Jonesboro","AR","Save-a-Lot","411 W Washington Ave","72401",35.838002,-90.70792868
+"72401","Jonesboro","AR","Bill's Fresh Market","725 E Johnson Ave","72401",35.8448984972864,-90.69732587344227
+"72419","Caraway","AR","Farmer's Market","209 Cobean Blvd","72437",35.818958216666665,-90.44441611666667
+"72422","Corning","AR","Harps Food Store","301 N Missouri Ave","72422",36.41385269165039,-90.58757019042969
+"72422","Corning","AR","Harps Food Store","301 N Missouri Ave Ste 2","72422",36.41385269165039,-90.58757019042969
+"72433","Hoxie","AR","Walmart","1600 W Main St","72476",36.076342617061876,-90.97412335255193
+"72433","Hoxie","AR","Hays","not_available","72433",36.062196714832574,-90.96495623100571
+"72438","Leachville","AR","Farmers Market","766-798 Baltimore Ave","72442",35.8872058754765,-90.1610726057944
+"72450","Paragould","AR","Walmart Supercenter","2802 W Kingshighway","72450",36.057742382215665,-90.52299928098049
+"72450","Paragould","AR","ALDI","not_available","72450",36.059859,-90.524733
+"72450","Paragould","AR","Walmart Neighborhood Market","2600 Linwood Dr","72450",36.030126450610375,-90.52291226962713
+"72450","Paragould","AR","Hays Supermarket","1701 Paragould Plz","72450",36.05565643310547,-90.50929260253906
+"72450","Paragould","AR","Harps Food Store","807 E 9th St","72461",36.25851821899414,-90.28319549560547
+"72450","Paragould","AR","C&J CLOUDS VAPE SHOP","3101 Case St","72450",36.06816864013672,-90.52686309814453
+"72454","Piggott","AR","Medi CBD Store","400 N Oak St","63933",36.4966089,-90.07411100000002
+"72455","Pocahontas","AR","Walmart Supercenter","1415 Highway 67 S","72455",36.24937355,-90.96345855
+"72455","Pocahontas","AR","Price Chopper","164 Hwy 62","72455",36.254056076163394,-90.97460615713551
+"72461","Rector","AR","Country Mart","not_available","63857",36.23684871869504,-90.07386232265962
+"72472","Trumann","AR","Walmart Supercenter","512 Industrial Park Dr","72472",35.681632198202365,-90.55012867754563
+"72501","Batesville","AR","Walmart Supercenter","3150 Harrison St","72501",35.76349072,-91.61385635
+"72501","Batesville","AR","Harps Food Store","1740 Batesville Blvd","72501",35.70763451431048,-91.63060839807876
+"72501","Batesville","AR","Bethesda Store","not_available","72501",35.79175370303101,-91.78676726741487
+"72501","Batesville","AR","Kroger Grocery Pickup and Delivery","303 S Saint Louis St","72501",35.77677917480469,-91.64075469970703
+"72501","Batesville","AR","HOMETOWN MARKET","111 n main","72521",35.94231983965879,-91.54894410860241
+"72513","Ash Flat","AR","Walmart Supercenter","219 Highway 412","72513",36.24128926715842,-91.59570326151892
+"72519","Calico Rock","AR","Harps Food Store","2002 Hwy 56","72519",36.14016214221585,-92.12465286254883
+"72529","Cherokee Village","AR","Town And Country","not_available","72542",36.26957569633115,-91.51300759260747
+"72530","Drasco","AR","Walmart Supercenter","1500 Hwy 25b","72543",35.507137800462885,-92.03157714528122
+"72539","Glencoe","AR","Stiles Discount Grocery","5872 Highway 62 E","72576",36.3046969,-91.7598526
+"72543","Heber Springs","AR","Harp's Grocery","100-198 S 9th St","72543",35.491669316666666,-92.03909336666666
+"72543","Heber Springs","AR","Harps Food Store","901 W Main St","72543",35.491639724479654,-92.0391803806863
+"72543","Heber Springs","AR","ALPS","not_available","72543",35.50195777681886,-92.0299091452368
+"72556","Melbourne","AR","Hometown Market","601 Hwy 69 #A","72556",36.05944298380633,-91.90394920619173
+"72560","Mountain View","AR","Walmart Grocery Pickup","409 Sylamore Ave","72560",35.8685756705076,-92.1042721647462
+"72560","Mountain View","AR","Harp's Grocery","907 East Main Street","72560",35.863285064697266,-92.10470581054688
+"72576","Salem","AR","Town & Country Supermarket","224 Church Street","72576",36.37055969238281,-91.82488250732422
+"72601","Harrison","AR","Walmart Supercenter","161 N Walmart Dr","72601",36.26859917625084,-93.13897309819588
+"72601","Harrison","AR","Wal Mart Gas","Wal Mart Dr","72601",36.26717428520797,-93.13822281231607
+"72601","Harrison","AR","ALDI","1105 Hwy 65 N","72601",36.259102755782635,-93.12544673681253
+"72601","Harrison","AR","Edwards Grocery","not_available","72601",36.22056793973479,-93.10429336350526
+"72616","Berryville","AR","Walmart Supercenter","1000 W Trimble Ave","72616",36.376555833193876,-93.58674179247438
+"72616","Berryville","AR","Price Cutter Food Warehouse","not_available","72616",36.36796569824219,-93.57218933105469
+"72616","Berryville","AR","Harps Food Store","326 Eureka Ave","72616",36.36796569824219,-93.57218933105469
+"72616","Berryville","AR","Bobs Grocery","not_available","72638",36.36104685737625,-93.49152942100692
+"72616","Berryville","AR","Harps Food Store","309 E Main St","72638",36.334903000000004,-93.43258399999999
+"72619","Bull Shoals","AR","Harps Food Store","939 Central Blvd","72619",36.383489,-92.582807
+"72631","Eureka Springs","AR","Hart's Family Center","131 E Van Buren","72632",36.39262821600819,-93.73665084346192
+"72631","Eureka Springs","AR","The Eureka Market","121 E Van Buren","72632",36.39347209214392,-93.73811202050798
+"72634","Flippin","AR","Walmart Supercenter","168 Walmart Drive","72634",36.27531342,-92.60395403
+"72634","Flippin","AR","Soup N Such","not_available","72634",36.347462,-92.59283
+"72634","Flippin","AR","Sunfest Market","119 West Main","72635",36.28295,-92.496507
+"72634","Flippin","AR","Walmart Grocery Pickup","168 Walmart Dr","72634",36.27529,-92.6026
+"72640","Hasty","AR","Norton's Country Store","not_available","72640",35.966023794933314,-93.07123537276077
+"72641","Jasper","AR","Harps Food Store","613 East Highway 7","72641",36.01130419022836,-93.17869663238525
+"72645","Leslie","AR","Harps Food Store","700 Hwy 65 North","72650",35.91089876730983,-92.6455807685852
+"72645","Leslie","AR","Joe's","not_available","72645",35.84009,-92.564753
+"72653","Mountain Home","AR","Walmart Supercenter","65 Wal Mart Dr","72653",36.35517183156898,-92.3408868299457
+"72653","Mountain Home","AR","Harps Food Store","924 Highway 62 E","72653",36.347451,-92.372198
+"72653","Mountain Home","AR","Harps","62W","not_available",36.32006032967629,-92.39819224939897
+"72653","Mountain Home","AR","Harps Plaza","not_available","72653",36.347996969609866,-92.37210912856993
+"72653","Mountain Home","AR","Harps Food Store","2089 Highway 62 W","72653",36.319061279296875,-92.3979263305664
+"72687","Yellville","AR","Harps Food Store","200 N. Wickersham Street","72687",36.225948333740234,-92.68302154541016
+"72687","Yellville","AR","Harps Food Store","200 N. Wickershan Street","72687",36.22617795826824,-92.68342204305971
+"72701","Fayetteville","AR","Walmart Supercenter","2875 W Mrtn Luther K","72704",36.05055625,-94.20124054
+"72701","Fayetteville","AR","Walmart Neighborhood Market","3475 W Black Forest Drive","72704",36.07664547082842,-94.21019136263206
+"72701","Fayetteville","AR","Harps Food Store","1780 N Crossover Rd","72701",36.08532592710115,-94.12010759557417
+"72701","Fayetteville","AR","Harps Food Store","1189 N Garland Ave","72703",36.07856702946055,-94.17589400235445
+"72701","Fayetteville","AR","Walmart Neighborhood Market","3106 Canton Street","42240",36.057208,-94.168441
+"72701","Fayetteville","AR","Marvin's IGA","380 N College Ave","72701",36.068262657231415,-94.15736246526163
+"72701","Fayetteville","AR","Walmart Neighborhood Market","2690 E Citizens Dr","72703",36.0893802843322,-94.12303805943111
+"72701","Fayetteville","AR","Harps Food Store","1274 N Colorado Dr","72704",36.08004866933867,-94.20571087994784
+"72701","Fayetteville","AR","Ozark Natural Foods","1554 N College Ave","72703",36.08220780128169,-94.15491325513031
+"72701","Fayetteville","AR","Aldi","3214 W Martin Luther King Jr Blvd","72704",36.0511336,-94.2064592
+"72701","Fayetteville","AR","Super Foods","not_available","72774",35.93079441242225,-94.18131338716418
+"72701","Fayetteville","AR","Marvin's IGA","1620 S School Ave","72701",36.04734921137317,-94.16349644282217
+"72701","Fayetteville","AR","Walmart Neighborhood Market","660 W Martin Luther King Blvd","72701",36.057369232177734,-94.16870880126953
+"72701","Fayetteville","AR","Seoul Oriental Foods","729 S School Ave","72701",36.054773,-94.164835
+"72701","Fayetteville","AR","Walmart Neighborhood Market","1616 Central Ave","29483",36.06229559616458,-94.16406363285205
+"72701","Fayetteville","AR","Walmart Neighborhood Market","2315 N. Perkins Road","74075",36.060920560445815,-94.16044652534765
+"72701","Fayetteville","AR","Harps Food Store","266 Three Dog Ln","72774",35.92472837934954,-94.19445453228329
+"72701","Fayetteville","AR","Harps Food Store","1951 N Center St","72727",36.02670011643945,-94.0222861045432
+"72701","Fayetteville","AR","Walmart Supercenter","2129 Grand Avenue","39194",36.05659328685533,-94.17248725891113
+"72701","Fayetteville","AR","Walmart Neighborhood Market","4196 Bemiss Rd","31605",36.058724187764646,-94.15644615924975
+"72701","Fayetteville","AR","Mexico Aqui","3980 W Wedington Dr","72704",36.079236,-94.21673
+"72701","Fayetteville","AR","Korean market","S School Ave","72701",36.054825801819796,-94.16494157487438
+"72701","Fayetteville","AR","Walmart","not_available","72703",36.08388733281088,-94.19565387684337
+"72703","Fayetteville","AR","Walmart Supercenter","3919 No. Mall Ave","72703",36.12255776,-94.15206874
+"72703","Fayetteville","AR","Whole Brews Taproom","3425 N College","72703",36.11354947841509,-94.14625990697618
+"72703","Fayetteville","AR","Walmart Neighborhood Market","4900 Jennifer Terrace","72762",36.15290264793951,-94.18504311975556
+"72703","Fayetteville","AR","Natural Grocers","4116 N College Ave","72703",36.126118997707124,-94.14376680842082
+"72703","Fayetteville","AR","Whole Foods Market","3425 N. College Avenue","72703",36.1134906122449,-94.1450253061224
+"72703","Fayetteville","AR","Harps Food Store","3055 N College Ave","72703",36.10767778037054,-94.14741587894756
+"72703","Fayetteville","AR","Whole Brews","College Ave","72703",36.113579,-94.146255
+"72703","Fayetteville","AR","White Oak Station","3111 S Old Missouri Rd","72764",36.15702682374575,-94.1180141685191
+"72704","Fayetteville","AR","Harps Food Store","2894 W Sunset Ave","72762",36.17585076349029,-94.16205678468376
+"72704","Fayetteville","AR","Walmart Neighborhood Market","1375 Market Square Dr","72762",36.17372958338119,-94.16257919357159
+"72704","Fayetteville","AR","Harps Food Store","1007 Jones Rd","72762",36.177151367168435,-94.20969360790926
+"72704","Fayetteville","AR","Marvin's IGA","not_available","72730",36.038764,-94.252781
+"72712","Bentonville","AR","Harps Food Store","1209 N Walton Blvd","72712",36.386795209041864,-94.22191487283244
+"72712","Bentonville","AR","Walmart Supercenter","406 S Walton Blvd","72712",36.36828302161955,-94.22452743498754
+"72712","Bentonville","AR","Walmart Supercenter","4208 Pleasant Crossing Blvd","72758",36.27926998877636,-94.15174383245233
+"72712","Bentonville","AR","Walmart Supercenter","2110 W Walnut St","72756",36.331758017118034,-94.14927462382295
+"72712","Bentonville","AR","Walmart Neighborhood Market","1800 E Centerton Blvd","72712",36.35858333532551,-94.25313469833867
+"72712","Bentonville","AR","Walmart Neighborhood Market","5000 Pauline Whitaker Parkway","72758",36.295844754918996,-94.18596639281301
+"72712","Bentonville","AR","Walmart Neighborhood Market","205 N Main St","72712",36.37349107349834,-94.20927952594174
+"72712","Bentonville","AR","Walmart Neighborhood Market","906 Sw Regional Airport Blvd","72712",36.36185551767613,-94.18034370370565
+"72712","Bentonville","AR","Walmart Neighborhood Market","1400 N Walton Blvd","72712",36.389089097325645,-94.21976588685254
+"72712","Bentonville","AR","Allens","60 Sugar Creek Ctr","72714",36.4403888857642,-94.23667597111809
+"72712","Bentonville","AR","The Fresh Market","2203 S Promenade Blvd, Ste 12100","72758",36.30450147475799,-94.1768173995113
+"72712","Bentonville","AR","Harps Food Store","710 W Centerton Blvd","72719",36.35907377199769,-94.29271010005415
+"72712","Bentonville","AR","Suvidha indian Groceries","1200 SE 14th St","72712",36.35617446899414,-94.19498443603516
+"72712","Bentonville","AR","Walmart To Go","1300 S Walton Blvd","72712",36.35751290239676,-94.214367594819
+"72712","Bentonville","AR","Harps Food Store","916 W Monroe Ave","72745",36.255196,-94.156883
+"72712","Bentonville","AR","Walmart Neighborhood Market","3510 Se 14th St","72712",36.354529755897815,-94.1710917162841
+"72712","Bentonville","AR","a'chau","not_available","72756",36.336619,-94.142548
+"72712","Bentonville","AR","ALDI","1006 SW 14th St.","72712",36.3572188,-94.2231541
+"72712","Bentonville","AR","Price Cutter","103 N Dixieland Rd","72756",36.335412582406974,-94.1430019910174
+"72712","Bentonville","AR","Walmart","8015 Woodbridge Pkwy","75048",36.36255444259561,-94.21977996826172
+"72712","Bentonville","AR","Walmart Grocery Pickup and Delivery","3701 Se Dodson Rd","72758",36.334154,-94.19699
+"72714","Bella Vista","AR","Harps Food Store","404 Town Ctr NE","72714",36.47674211058222,-94.2468405814914
+"72730","Farmington","AR","Walmart Neighborhood Market","367 W Main St","72730",36.0372774105073,-94.2562817126956
+"72734","Gentry","AR","Marvin's IGA","300 S. Gentry Blvd.","72734",36.264827728271484,-94.4798355102539
+"72734","Gentry","AR","D & J Bulkworks","104 W. Main","72734",36.267714,-94.485917
+"72736","Gravette","AR","Marvin's IGA","not_available","72736",36.42128756588494,-94.45286622501636
+"72740","Huntsville","AR","Walmart Supercenter","157 Gary Hatfield Way","72740",36.085913076871186,-93.73290357099093
+"72740","Huntsville","AR","Harps Food Store","115 Lee St","72740",36.086354788043536,-93.73281096752297
+"72744","Lincoln","AR","Harps Food Store","718 W. Pridemore Drive","72744",35.951107,-94.431937
+"72745","Lowell","AR","Convenience with Fuel","4206 S Pleasant Crossing Blvd","72758",36.282106,-94.15181
+"72751","Pea Ridge","AR","Marvin's","not_available","72751",36.443745,-94.115634
+"72751","Pea Ridge","AR","Walmart Neighborhood Market","240 Slack Street","72751",36.443067677539524,-94.11928338179017
+"72751","Pea Ridge","AR","Marvin's Food Saver","240 N Curtis Ave","72751",36.44363325564291,-94.11561861439525
+"72753","Prairie Grove","AR","Harps Food Store","319 East Buchanan Street","72753",35.97523253511392,-94.31388522390391
+"72756","Rogers","AR","Walmart Neighborhood Market","808 W. Walnut","72756",36.3326748162689,-94.12668835421675
+"72756","Rogers","AR","Harps Food Store","715 N 2nd St","72756",36.33911244977499,-94.11606159050237
+"72756","Rogers","AR","Walmart Grocery Pickup & Delivery","808 W Walnut St","72756",36.332473,-94.126607
+"72756","Rogers","AR","Walmart Neighborhood Market","1819 S 8th St","72756",36.31323146290864,-94.12450636638644
+"72756","Rogers","AR","Supermercado","804 W Poplar St","72756",36.33186655,-94.12642192
+"72756","Rogers","AR","ALDI","1316 W Walnut St","72756",36.333129,-94.1358755
+"72756","Rogers","AR","Hooda","Oakcrest","72758",36.324723,-94.137414
+"72756","Rogers","AR","Walmart Neighborhood Market","1002 La Hwy 70","70380",36.324357455784586,-94.16579246520996
+"72756","Rogers","AR","Akin's Natural Foods","4019 W Walnut Rd","72756",36.33602541419692,-94.1762923370204
+"72756","Rogers","AR","H.C. Schmieding Produce Company Llc","2330 N Thompson St","72764",36.205296000000004,-94.139306
+"72756","Rogers","AR","My Father's Garden","1919 S 13th St","72758",36.309474,-94.135079
+"72756","Rogers","AR","Hong Son Oriental Market","702 W Cypress St","72756",36.329539000000004,-94.12474399999999
+"72758","Rogers","AR","Country Creek Farms L.L.C.","5211 W Village Pkwy Ste 101","72758",36.317639,-94.189774
+"72758","Rogers","AR","Walmart Neighborhood Market","3701 SE Dodson Rd","72712",36.33418655395508,-94.19686126708984
+"72758","Rogers","AR","Cook's Natural Market","726 W Walnut St","72756",36.3331,-94.12481
+"72761","Siloam Springs","AR","Walmart Supercenter","2901 Highway 412 E","72761",36.18286365,-94.51250918
+"72761","Siloam Springs","AR","ALDI","2802 Highway 412 E","72761",36.18009466273007,-94.51322168111801
+"72761","Siloam Springs","AR","Harps Food Store","201 Highway 412 W","72761",36.17324867985148,-94.54299995680547
+"72761","Siloam Springs","AR","Hidalguense Produce","not_available","72761",36.186321,-94.5367
+"72761","Siloam Springs","AR","Walmart Neighborhood Market","935 S. Holly St","72761",36.1751823425293,-94.55791473388672
+"72761","Siloam Springs","AR","Oriental Food Market","399 Hwy 412","72761",36.17809171392617,-94.53755193397953
+"72761","Siloam Springs","AR","Walmart Grocery Pickup","935 S Holly St","72761",36.1772794285714,-94.5591625714286
+"72762","Springdale","AR","Walmart Supercenter","4870 Elm Springs Road","72762",36.1958727357521,-94.18395852161024
+"72762","Springdale","AR","ALDI","2009 S Thompson St","72764",36.16557058767107,-94.1424572467804
+"72762","Springdale","AR","Walmart Supercenter","2004 S Pleasant St","72764",36.16629187049194,-94.14634640632593
+"72764","Springdale","AR","Walmart Neighborhood Market","3553 E Robinson Ave","72764",36.164115670349865,-94.0920376418022
+"72764","Springdale","AR","Harps Food Store","1308 N Thompson St","72764",36.19704016191502,-94.1394228686932
+"72764","Springdale","AR","La Tienda Slavedorena","1300 N Thompson St","72764",36.19679260253906,-94.13938903808594
+"72764","Springdale","AR","LK's Asian Island Food Market","2323 S Old Missouri Rd Ste C","72764",36.164184000000006,-94.118554
+"72764","Springdale","AR","Harps Food Store","1101 S Thompson St","72764",36.173702,-94.138029
+"72764","Springdale","AR","Harps Food Store","1945 Butterfield Coach Rd","72764",36.16664498295272,-94.09277208970525
+"72764","Springdale","AR","Los Alamos Market & Puerto Rican Food","503 Holcomb St # F","72764",36.18087404909795,-94.1306626514511
+"72764","Springdale","AR","P&N Oriental Food Market","1315-1435 S Thompson St","72764",36.1721795797348,-94.138881
+"72801","Russellville","AR","Walmart Supercenter","2409 E Main St","72802",35.27993630089744,-93.10540466168736
+"72801","Russellville","AR","Kroger","1009 W Main St","72801",35.2796336,-93.1436999
+"72801","Russellville","AR","Walmart Neighborhood Market","2109 W Main St","72801",35.28288002561732,-93.1532824382528
+"72801","Russellville","AR","Harps Marketplace","100 S Knoxville Ave","72801",35.277937567649396,-93.1213768865918
+"72802","Russellville","AR","Walmart Supercenter","1172 N. State Hwy 7","72834",35.21785508407424,-93.16620487973672
+"72802","Russellville","AR","Westside Citgo","2001 Hwy 22","72834",35.23353958129883,-93.17207336425781
+"72802","Russellville","AR","Harps Food Store","612 Union St","72834",35.22172170850418,-93.16426647812753
+"72802","Russellville","AR","Walmart Grocery Pickup and Delivery","1172 N State Highway 7","72834",35.2177619934082,-93.16617584228516
+"72824","Belleville","AR","Dollar General","not_available","72833",35.054028,-93.383951
+"72830","Clarksville","AR","Walmart Supercenter","230 Market St.","72830",35.4494827705861,-93.46166596936988
+"72830","Clarksville","AR","Harvest Foods","502 S Crawford St","72830",35.465248107910156,-93.47948455810547
+"72837","Dover","AR","Macs Food Market","11278 Arkansas 27, Hector, AR 72843","72843",35.504512,-93.0710115
+"72843","Hector","AR","FRUTÃO","AVENIDA GABRIEL BEZERRA","63520000",35.60012469360138,-92.92017459869385
+"72855","Paris","AR","Walmart","1501 E Walnut St","72855",35.29312311593157,-93.71622112992536
+"72901","Fort Smith","AR","Walmart Supercenter","2425 S Zero St","72901",35.32905653,-94.4070398
+"72901","Fort Smith","AR","CV's  Family Foods IGA","3408 Jenny Lind Rd","72901",35.35120577545629,-94.414474285888
+"72901","Fort Smith","AR","Walmart Grocery Pickup & Delivery","2425 South Zero St","72901",35.329052,-94.407069
+"72901","Fort Smith","AR","10 Box","not_available","72904",35.385634,-94.39792
+"72901","Fort Smith","AR","Walmart Grocery Pickup and Delivery","2100 No. 62nd St.","72904",35.406291,-94.397054
+"72901","Fort Smith","AR","Flowers Bakery Store","1200 Grand Ave, Fort Smith, AR 72901","72901",35.386173248291016,-94.41680145263672
+"72901","Fort Smith","AR","Grocery","not_available","72908",35.324151,-94.424314
+"72901","Fort Smith","AR","Super Mercado La Guadalupana","817 N Greenwood Ave, Fort Smith, AR 72901","72901",35.38453589756511,-94.40327292633982
+"72901","Fort Smith","AR","Harps Food Stores","3100 Grand Ave","72904",35.38521145125054,-94.39805018354097
+"72901","Fort Smith","AR","La Hacienda Market","1530 Midland Blvd","72901",35.395551,-94.410271
+"72901","Fort Smith","AR","ALDI","2201 S Zero St","72901",35.3282635,-94.4114645
+"72903","Fort Smith","AR","Harps Food Store","3401 S 74th St","72903",35.348730917109336,-94.35024148533978
+"72903","Fort Smith","AR","Aldi","8400 Phoenix Ave","72903",35.34508389378303,-94.33886468410492
+"72903","Fort Smith","AR","Walmart Supercenter","8301 Rogers Ave","72903",35.34974297357744,-94.33881518758255
+"72903","Fort Smith","AR","Walmart Neighborhood Market","4900 Rogers Ave Ste 101j","72903",35.36405217221099,-94.37825834241085
+"72903","Fort Smith","AR","Marketplace Express","5111 Rogers Ave","72903",35.364589,-94.375646
+"72903","Fort Smith","AR","Walmart Grocery Pickup","4900 Rogers Ave Ste 101J","72903",35.3656621000422,-94.3771117274754
+"72903","Fort Smith","AR","CV's","1205 Fort St","72923",35.332130432128906,-94.30953216552734
+"72908","Fort Smith","AR","Harps Food Stores","2507 Market Trce","72908",35.30186097332554,-94.40847701363268
+"72908","Fort Smith","AR","Walmart Neighborhood Market","8600 Us Hwy 71 S","72908",35.30347022487511,-94.39442947196491
+"72921","Alma","AR","Harps Food Store","25 Highway 64 W","72921",35.481821000000004,-94.227264
+"72921","Alma","AR","J&L Discount Grocery","4810 Hwy 71 North","72921",35.533061,-94.22009399999999
+"72921","Alma","AR","Walmart Supercenter","367 W Cherry St","72921",35.47925586491883,-94.22897749988199
+"72921","Alma","AR","CV's Family Foods","not_available","72921",35.48482667323968,-94.22458771390242
+"72921","Alma","AR","Price Cutter","alma hwy","72956",35.457859,-94.285323
+"72927","Booneville","AR","CVs","not_available","72927",35.142488,-93.906595
+"72927","Booneville","AR","Walmart Supercenter","1400 East Main St","72927",35.14015868558439,-93.90257005815157
+"72932","Cedarville","AR","Harps Express","8848 N Highway 59","72956",35.5665,-94.36707
+"72933","Charleston","AR","Cv's Family Foods","500 W. Main","27933",35.297725187692656,-94.04870108081805
+"72936","Greenwood","AR","Walmart Supercenter","551 Liberty Dr","72936",35.22074761072724,-94.2970762677119
+"72936","Greenwood","AR","Cvs Family Foods","W Center St","72936",35.21259320106451,-94.26104100154834
+"72940","Huntington","AR","Wal-Mart Neighborhood Market","720 Hwy 71","not_available",35.06609076078232,-94.25276589510914
+"72944","Mansfield","AR","CV's Family Foods","406 Huntington Avenue","72944",35.062992095947266,-94.24878692626953
+"72949","Ozark","AR","Walmart","1516 N 18th St","72949",35.503580718348786,-93.84417685078641
+"72949","Ozark","AR","Cv's Family Foods","not_available","72949",35.51238779422317,-93.82236297913083
+"72956","Van Buren","AR","Walmart Supercenter","2214 Fayetteville Rd","72956",35.469014711345274,-94.35369561894795
+"72956","Van Buren","AR","Squash Blossom","not_available","72956",35.452957,-94.44060999999999
+"72956","Van Buren","AR","Poultry Direct","Van Buren, AR","72956",35.43813734181594,-94.33470703225193
+"72956","Van Buren","AR","CV's IGA","2805 Alma Hwy","72956",35.443127000000004,-94.328542
+"72956","Van Buren","AR","Harps Food Store","120 Cloverleaf Plz","72956",35.442352294921875,-94.3255386352539
+"72956","Van Buren","AR","ALDI","2309 Fayetteville Rd","72956",35.4717177,-94.357041
+"72956","Van Buren","AR","Cv's","Hwy 64","not_available",35.440899,-94.333532
+"72956","Van Buren","AR","CV'S Family Foods","601 E Pointer Trl, Van Buren, AR 72956-2305","72956",35.45943811796174,-94.35418219963496
+"72958","Waldron","AR","Waldron Oriental Market","9 Whitaker Ln","72958",34.908516,-94.092872
+"72958","Waldron","AR","Harps Food Store","1350 W 6th St","72958",34.896949768066406,-94.10682678222656

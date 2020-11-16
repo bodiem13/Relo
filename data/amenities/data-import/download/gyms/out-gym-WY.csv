@@ -1,0 +1,63 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"82001","Cheyenne","WY","Planet Fitness","1400 Dell Range Blvd","82009",41.161743,-104.804204
+"82001","Cheyenne","WY","JFRC Gym","5800 Central Ave","82005",41.16965866088867,-104.84648132324219
+"82001","Cheyenne","WY","SMART Sports","5307 Yellowstone Rd","82009",41.168291,-104.828639
+"82001","Cheyenne","WY","George's Gym","not_available","82001",41.1415901184082,-104.83480834960938
+"82001","Cheyenne","WY","Freedom Hall Fitness Center","6000 N. Shriever Road","82005",41.1532248889984,-104.84317780536882
+"82001","Cheyenne","WY","Fitwall The Studio","not_available","not_available",41.137716572411705,-104.76556513370193
+"82001","Cheyenne","WY","Independence Hall Fitness Center","6711 10th Cavalry Ave","82005",41.152313,-104.862542
+"82001","Cheyenne","WY","Fitness One","4111 Greenway St Ste 10","82001",41.14277059493868,-104.75899665799015
+"82001","Cheyenne","WY","Tru By Hilton Gym","not_available","82007",41.116345,-104.808008
+"82070","Laramie","WY","Laramie Recreation Center","920 Boulder Dr","82070",41.3047973499319,-105.5489434778256
+"82070","Laramie","WY","the rac","not_available","82072",41.31096267700195,-105.56417846679688
+"82070","Laramie","WY","Planet Fitness","654 N 3rd St","82072",41.318091,-105.594422
+"82070","Laramie","WY","Insanity Central","Chapter Room","82070",41.307729,-105.58548
+"82070","Laramie","WY","The Kourthouse","208 E McConnell St","82072",41.32583236694336,-105.59294128417969
+"82070","Laramie","WY","Cross Fit 7220 East","20th Street","not_available",41.30836086935001,-105.56867942480443
+"82070","Laramie","WY","Pla Combat Sports and Laramie Athletics","207 E Fremont St","82072",41.314175,-105.594342
+"82240","Torrington","WY","EWC Fitness Center","3200 W C St","82240",42.077980041503906,-104.18888092041016
+"82401","Worland","WY","Worland Health Club","1624 Big Horn Ave","82401",44.01659592575359,-107.94606397588439
+"82414","Cody","WY","Anytime Fitness","534 Yellowstone Ave","82414",44.516389000000004,-109.08253300000001
+"82435","Powell","WY","Anytime Fitness","230 N Clark St","82435",44.754733574298434,-108.75659108161926
+"82501","Riverton","WY","Power Shack Gym","Westerville, oh 43081","43081",42.96257257461548,-107.6382440328598
+"82501","Riverton","WY","Teton Athletic Club","911 Flag Dr","82501",43.03453479539198,-108.40229364746375
+"82501","Riverton","WY","Takecare Wellness Center","Baltej Pavillion","82523",43.24468,-108.690117
+"82516","Kinnear","WY","Blue Sky Hall","not_available","82520",43.026168,-108.76658
+"82520","Lander","WY","Elemental Training Center","134 Lincoln St","82520",42.83381652832031,-108.72750091552734
+"82520","Lander","WY","Anytime Fitness","943 Amoretti St","82520",42.838837,-108.743241
+"82601","Casper","WY","Snap Fitness","not_available","82601",42.83803675,-106.29925443333333
+"82601","Casper","WY","Lifetime Health & Fitness Center","300 Landmark Dr","82609",42.84603210254355,-106.26147525959134
+"82601","Casper","WY","The Flex Complex","501-599 S Center St","82601",42.84526240035812,-106.32487502059735
+"82601","Casper","WY","Superfit","4025 Cy Ave","82604",42.81871,-106.370178
+"82601","Casper","WY","Curves For Women","2612 E 3rd St","82609",42.8475549,-106.2925736
+"82601","Casper","WY","Your Box Crossfit","450 N Melrose St","82601",42.854584,-106.308789
+"82601","Casper","WY","Aspen Court","760 Landmark Dr","82609",42.84162352115626,-106.2623778980869
+"82601","Casper","WY","Express 24 Hour Fitness Studio","300-576 Landmark Dr","82609",42.84656624,-106.26179651
+"82601","Casper","WY","Velocity Sports Training","1701 E. East St., Suite 150","82601",42.84972957605866,-106.39595746994019
+"82601","Casper","WY","Vigor Fitness Studio","523 S Center St","82601",42.845176696777344,-106.32474517822266
+"82601","Casper","WY","Fit24 And Prana Fitness & Yoga","4205 Cy Ave","82604",42.81856,-106.372293
+"82601","Casper","WY","Mountain Fit","1650 W English Ave Unit C","82601",42.85677687475745,-106.34128332138062
+"82601","Casper","WY","Caliber Fitness","801 Center St.","82601",42.85845009679116,-106.3249634206295
+"82601","Casper","WY","Wyo Fitness LLC","3920 S Poplar St","82601",42.809594,-106.344832
+"82633","Douglas","WY","Peak Fitness","not_available","82633",42.74255725772652,-105.35778097406717
+"82716","Gillette","WY","Balefire Fitness ""The Box""","not_available","82716",44.29516688177801,-105.52266754196168
+"82716","Gillette","WY","Fitness Center at Fairfield Inn & Suites","not_available","82718",44.271896,-105.491757
+"82716","Gillette","WY","club energize","2701 S Douglas Hwy","82718",44.270646095947185,-105.49242024630637
+"82716","Gillette","WY","All Dimensions Fitness Center","738-798 Commercial Dr","82716",44.300301516867606,-105.52772805238284
+"82834","Buffalo","WY","FitClif.com","412 N Main St","82834",44.35190273486207,-106.69888615608215
+"82901","Rock Springs","WY","Green River Recreation Center","1775 Hitching Post Dr","82935",41.49860438091829,-109.4654834035619
+"82901","Rock Springs","WY","TravelFit Training Studio","Foothill Blvd","82901",41.571122,-109.286226
+"82901","Rock Springs","WY","Family Rec Center","3900 Sweetwater Dr","82901",41.60342025756836,-109.25852966308594
+"82901","Rock Springs","WY","Red Desert CrossFit","2726 Commercial Way","82901",41.583101,-109.253073
+"82901","Rock Springs","WY","Green Island Gym","410 Uinta Dr","82935",41.516177,-109.47252900000001
+"82901","Rock Springs","WY","Insanity Workout Hotel Gym Style","Holiday Inn Express","82901",41.57521204834039,-109.25251402753669
+"82901","Rock Springs","WY","Planet Fitness","Rock Springs Plaza 1371 Dewar Dr","82901",41.575313,-109.237032
+"82901","Rock Springs","WY","Rock Springs Civic Center","410 N St","82901",41.593482264346115,-109.21831429225402
+"82923","Boulder","WY","Fitness Center","not_available","82941",42.867915,-109.885667
+"83001","Jackson","WY","Orangetheory Fitness","150 W Simpson Ave","83001",43.477195739746094,-110.76470184326172
+"83001","Jackson","WY","White Buffalo Club Gym","160 W Gill Ave","83001",43.481687,-110.764573
+"83001","Jackson","WY","Teton Sports Club","not_available","83014",43.530868616396916,-110.84266943011079
+"83001","Jackson","WY","Jackson Hole Gyrotonic","155 E Pearl Ave","83001",43.478708000000005,-110.75967299999999
+"83001","Jackson","WY","Snow King Exercise Room","not_available","83001",43.47377,-110.756161
+"83001","Jackson","WY","White Buffalo Club Hotel","160 W Gill Ave Ste A","83001",43.48149589197285,-110.76483607292175
+"83001","Jackson","WY","Crossfit Jackson Hole","4030 W Lake Creek Dr","83014",43.530731201171875,-110.84302520751953

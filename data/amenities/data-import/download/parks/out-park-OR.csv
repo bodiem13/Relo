@@ -1,0 +1,978 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"97002","Aurora","OR","Willamette River Water Treatment Plant and Park","not_available","97070",45.2966781210112,-122.78402591522848
+"97002","Aurora","OR","Murase Memorial Park","7910 SW Wilsonville Rd","97070",45.30141231205075,-122.75898773911224
+"97002","Aurora","OR","Boones Ferry Park","31240 SW Boones Ferry Rd","97070",45.293937,-122.774492
+"97002","Aurora","OR","Aurora City Park","not_available","not_available",45.22510113743076,-122.75472643410012
+"97002","Aurora","OR","Rivenes Park","2600 D St","97032",45.183128356933594,-122.80864715576172
+"97002","Aurora","OR","French Prairie Park","not_available","97002",45.279167,-122.814295
+"97002","Aurora","OR","Wait Park","not_available","97013",45.25955603,-122.73614174
+"97005","Beaverton","OR","Commonwealth Lake Park","Commonwealth Lake Park","97005",45.513371,-122.806063
+"97005","Beaverton","OR","Forest Hills Park","Forest Hills Park","97006",45.5123623465178,-122.79163456165463
+"97005","Beaverton","OR","Beaverton City Park","SW 4th St.","97005",45.48394747380018,-122.8055794190284
+"97005","Beaverton","OR","Evelyn Schiffler Memorial Park","not_available","97005",45.478382354284726,-122.81527061384107
+"97005","Beaverton","OR","Center Street Park","11895 SW Center St","97005",45.494549,-122.798778
+"97005","Beaverton","OR","Beaverton Memorial Park","SW 7th and SW Watson Ave","not_available",45.48288214044775,-122.80608171843495
+"97005","Beaverton","OR","Wanda L. Peck Park","Wanda L. Peck Park","97005",45.51298841070475,-122.81911657780311
+"97005","Beaverton","OR","A.M. KENNEDY PARK","10201-10299 SW Kennedy St","97005",45.48910760539081,-122.78166117168075
+"97005","Beaverton","OR","Eichler Park","4665 SW Menlo Dr","97005",45.486365126164486,-122.81815767288208
+"97005","Beaverton","OR","Griffith Park","4915 SW Griffith Dr","97005",45.483709000000005,-122.795878
+"97005","Beaverton","OR","Pioneer Park","Pioneer Park","97005",45.5217752057871,-122.82587187729256
+"97005","Beaverton","OR","Mitchell Park","not_available","97229",45.52095961764392,-122.77477175663488
+"97005","Beaverton","OR","Mia Hamm Courtyard","not_available","97006",45.507467109262116,-122.82456853957031
+"97005","Beaverton","OR","Peterkort Park","not_available","97225",45.51794959667429,-122.79084202195654
+"97005","Beaverton","OR","Foothills Park","Foothills Park","97005",45.511955988948635,-122.80450982655444
+"97005","Beaverton","OR","McMillan Park","4870-4998 SW Chestnut Pl","97005",45.48445729602342,-122.776987545482
+"97005","Beaverton","OR","Ridgewood Park","9557-9579 SW Wilshire St","97225",45.50598,-122.776455
+"97005","Beaverton","OR","Roxbury Park","2301 Sw Roxbury Ave","97225",45.502700720934264,-122.78744276717173
+"97005","Beaverton","OR","Roy E. Dancer Park","not_available","97008",45.475564173661844,-122.82697804432375
+"97006","Beaverton","OR","Tualatin Hills Nature Park","15655 SW Millikan Way","97003",45.49835431479486,-122.83968587837272
+"97006","Beaverton","OR","Tualatin Hills Park & Aquatic Center","15707 SW Walker Rd","97006",45.52005018865882,-122.83742438711417
+"97006","Beaverton","OR","Amberglen Park","NW Amberglen Parkway","97006",45.53007215634515,-122.88302421569824
+"97006","Beaverton","OR","Beaverton Creek Wetlands Park","SW 153rd Drive and SW TV Hwy","97006",45.493269816516715,-122.8374850101188
+"97006","Beaverton","OR","THPRD Tennis Center","walker rd","97005",45.51850485822382,-122.83761004400168
+"97006","Beaverton","OR","Reedville Creek Park","Reedville Creek Park","97123",45.50878810015319,-122.89580974154322
+"97006","Beaverton","OR","Waterhouse Park","16478-16514 SW Estuary Dr","97006",45.51631414798107,-122.8457690487116
+"97006","Beaverton","OR","Waterhouse Park","227-499 NW Island Cir","97006",45.522060565938695,-122.84082416134457
+"97006","Beaverton","OR","Autumn Ridge Park","Autumn Ridge Park","97006",45.52941403650351,-122.85772960139958
+"97006","Beaverton","OR","Dwight S. Parr Park","16000 SW Regatta Ln","97006",45.516517639160156,-122.84223937988281
+"97006","Beaverton","OR","George W. Otten Park","NW Laidlaw Rd","97006",45.550515225880574,-122.85404422473083
+"97006","Beaverton","OR","Somerset West Park","18234-18298 NW Park View Blvd","97229",45.545020831936974,-122.86735822501954
+"97006","Beaverton","OR","Willow Creek Nature Park","Willow Creek Nature Pa","97006",45.52813976556813,-122.84211183124638
+"97006","Beaverton","OR","Oak Hills Greenbelt","15115 NW Oakmont Loop","97006",45.537636,-122.83288
+"97006","Beaverton","OR","Arnold Park","not_available","97007",45.48951194028628,-122.86396678443349
+"97006","Beaverton","OR","White Fox Park","Oak Hills","97006",45.532622,-122.838977
+"97007","Beaverton","OR","Cooper Mountain Nature Park","18992 SW Kemmer Rd","not_available",45.45328677997142,-122.87322979311016
+"97007","Beaverton","OR","Hazeldale Park","Hazeldale Park","97007",45.47339176237934,-122.87617852926691
+"97007","Beaverton","OR","Jenkins Estate","8005 SW Grabhorn Rd","97007",45.46086596083081,-122.89148838515585
+"97007","Beaverton","OR","Rivendale Park","20940 SW Farmington Rd","97007",45.45948758452342,-122.88944264456126
+"97007","Beaverton","OR","Buckskin mini-park","Sw buckskin ter","97008",45.45026227248587,-122.817063331604
+"97007","Beaverton","OR","Burntwood Park","SW Burntwood Way","not_available",45.47207387905577,-122.84263284030006
+"97007","Beaverton","OR","Northridge Park","sw 191st ave","97007",45.461002820271425,-122.87323920652861
+"97007","Beaverton","OR","Northview Park","not_available","97223",45.43065225635424,-122.82326058305871
+"97007","Beaverton","OR","Mt. Williams Park","6500 SW 160th Ave","97007",45.472111453827004,-122.8426319420894
+"97007","Beaverton","OR","Eagle Landing Park","not_available","97123",45.413518,-122.937312
+"97007","Beaverton","OR","Burnsridge Park","Burnsridge Park","97006",45.47194128617837,-122.86560979007132
+"97008","Beaverton","OR","Greenway Park","SW Murphy & Parkview","97008",45.45491492221886,-122.79754570008807
+"97008","Beaverton","OR","Fanno Creek Park & Trail","Denney Rd.","97008",45.469096860708405,-122.7899194122824
+"97008","Beaverton","OR","Greenway Park","Near 217","not_available",45.46869519578692,-122.79029508364515
+"97009","Boring","OR","Dodge Park","10991 SE Lusted Rd","not_available",45.44474191096096,-122.25231742211065
+"97009","Boring","OR","Meinig Memorial Park","17670 Meinig Ave","97055",45.394411,-122.258976
+"97009","Boring","OR","Timberline Meat","38525 Proctor Blvd","97055",45.39754507,-122.26681487
+"97009","Boring","OR","Boring Station Trailhead Park","not_available","97009",45.431419648480095,-122.37519742507072
+"97009","Boring","OR","Doublecreek Park","not_available","97055",45.394465,-122.279567
+"97009","Boring","OR","Sandy Bluff Park","36801 Goldenrain St","97055",45.41015,-122.28451799999999
+"97009","Boring","OR","Tupper Park","17815 Tupper Rd","97055",45.39459991455078,-122.26481628417969
+"97013","Canby","OR","Canby Community Park","1348 SW Berg Pkwy","97013",45.251243591308594,-122.70214080810547
+"97013","Canby","OR","Fryer Park","not_available","97038",45.15389783333333,-122.5817646
+"97013","Canby","OR","Wait Park","301-399 N Holly St","97013",45.264216,-122.695661
+"97014","Cascade Locks","OR","Sailboard Park","not_available","98648",45.694571,-121.87799
+"97014","Cascade Locks","OR","Historic Columbia River Highway State Trail","Wa Na Pa","not_available",45.66225658201207,-121.89836079927383
+"97014","Cascade Locks","OR","Robbins Island Picnic Shelter","not_available","97014",45.64336118105255,-121.95185431878109
+"97015","Clackamas","OR","Windswept Waters Park","16339 SE Slate St","97089",45.4038449897445,-122.50367142937506
+"97015","Clackamas","OR","Hidden Falls Nature Park","not_available","97015",45.418644,-122.49999
+"97015","Clackamas","OR","Southern Lights Park","12058 SE 117th Ave","97086",45.43533759609554,-122.54153506258886
+"97015","Clackamas","OR","Countyside Park","ne 7th street","98684",45.39719223976135,-122.56001651287079
+"97015","Clackamas","OR","Trillium Creek Park","not_available","97089",45.406391,-122.489457
+"97016","Clatskanie","OR","Puget Island","not_available","98612",46.20231246948242,-123.38581848144531
+"97016","Clatskanie","OR","Bradley State Scenic Viewpoint","46975 Hwy 30","97016",46.17133559220828,-123.4364585733413
+"97018","Columbia City","OR","Jim Bundy Memorial Park","not_available","97018",45.89923412057867,-122.81250458817199
+"97019","Corbett","OR","Benson State Rec Area","I-84","97019",45.576771768221164,-122.12815108309849
+"97022","Eagle Creek","OR","Bonnie Lure State Recreation Area","Dowty Rd","not_available",45.35093888694538,-122.37688064575195
+"97022","Eagle Creek","OR","Alder Shelter","not_available","97023",45.305583,-122.370913
+"97022","Eagle Creek","OR","Eagle Fern Park","27505 SE Eagle Fern Rd","97023",45.32199364649252,-122.28796005249022
+"97023","Estacada","OR","Ripplebrook Ranger Station","61498 Clackamas Hwy, Estacada, OR 97023","97023",45.0791596135522,-122.05271538457953
+"97024","Fairview","OR","Salish Pond City Park","Glisan","97024",45.52848310264499,-122.45093810488665
+"97024","Fairview","OR","Fairview Community Park","not_available","97024",45.530709259636566,-122.43884937393995
+"97024","Fairview","OR","Kirk Park","1087 NE 187th Ave.","97030",45.5309429942874,-122.46932908341962
+"97024","Fairview","OR","Rolling Hills RV Park","20145 NE Hwy 30","97024",45.5452514350107,-122.45463964134238
+"97024","Fairview","OR","Lakeshore City Park","3653 NE 217th Ave","97204",45.549495697021484,-122.43899536132812
+"97024","Fairview","OR","Fisher landing","not_available","98684",45.54523235919014,-122.47458564683824
+"97024","Fairview","OR","Hockaday City Park","21803 NE Lachenview Ln","97024",45.550939,-122.43731100000001
+"97024","Fairview","OR","McGuire Island","Portland, OR 97230","97230",45.56271185054513,-122.47348308563232
+"97024","Fairview","OR","Stone City Park","NE Park Ln","97024",45.530738001099024,-122.4368355960849
+"97026","Gervais","OR","Legion Park","not_available","97071",45.147895462369355,-122.839984741068
+"97026","Gervais","OR","Settlemier Park","S Settlemier","97071",45.14041854836103,-122.86229693387625
+"97026","Gervais","OR","Heritage Park","2584 Jamestown St","97071",45.156559,-122.858277
+"97027","Gladstone","OR","Chief Charles Ames Memorial Park","115 W Clackamas Blvd","97027",45.37754821777344,-122.59318542480469
+"97027","Gladstone","OR","Meldrum Bar Park","Meldrum Bar Park Rd","97027",45.37725145674786,-122.61559067214614
+"97027","Gladstone","OR","Cross Park","Portland Ave","not_available",45.37886980525914,-122.58699632122298
+"97027","Gladstone","OR","McIver Park","not_available","97045",45.37320128,-122.58655661
+"97027","Gladstone","OR","Hedi Knots Park","Strawberry Lane","not_available",45.40127886027763,-122.58188624416705
+"97027","Gladstone","OR","Seward's Park East","4748 SE Ina Ave","97267",45.39757537841797,-122.61359405517578
+"97027","Gladstone","OR","Nick Shannon Memorial Park","not_available","97027",45.39899232896973,-122.59295126830543
+"97028","Government Camp","OR","High Cascade Park","not_available","97049",45.34979626508156,-121.70987020496848
+"97029","Grass Valley","OR","Sherman County RV Park","500 Ct Rd","97039",45.4871987,-120.731376
+"97030","Gresham","OR","Red Sunset Park","23rd","97030",45.51299831170453,-122.41486482060424
+"97030","Gresham","OR","Bella Vista Park","not_available","97030",45.500061421867265,-122.45162607680055
+"97030","Gresham","OR","Main City Park","219 S Main Ave","97080",45.4970210952704,-122.43075185770515
+"97030","Gresham","OR","Nadaka Nature Park","17550 NE Pacific St","97230",45.52757681450613,-122.48185157775877
+"97030","Gresham","OR","North Gresham Park","1111 SE 217th Ave","97080",45.514286041259766,-122.44081115722656
+"97030","Gresham","OR","Pat Pfiefer Park","Gresham,OR,97230","97230",45.5001357,-122.4302013
+"97030","Gresham","OR","Aspen Highlands Park","147 nE 24th St","97030",45.51436233520508,-122.42949676513672
+"97030","Gresham","OR","Main street park","17707 SE Main St","97233",45.513818,-122.480916
+"97031","Hood River","OR","Hood River Waterfront Park","Portway Ave","97031",45.71543157785811,-121.51858448982239
+"97031","Hood River","OR","Hood River Marina","Marina Way","97031",45.71247206441977,-121.50565677541398
+"97031","Hood River","OR","Panorama Point","Eastside Rd","97031",45.687108850245195,-121.49975325381168
+"97031","Hood River","OR","Jackson Park","May St","97031",45.70383384498269,-121.52611407547975
+"97031","Hood River","OR","Tucker Park","4401-4535 Riverside Dr","97031",45.650950235649844,-121.5594896796088
+"97031","Hood River","OR","Culbertson Park","6th St","97031",45.695265801805185,-121.51600415557375
+"97031","Hood River","OR","Odell Community Park","not_available","97031",45.631925,-121.537487
+"97031","Hood River","OR","Waucoma Park","Oak St","not_available",45.70813399984238,-121.52473574505379
+"97031","Hood River","OR","Bingen Skate Park","not_available","98605",45.717119538116165,-121.47019633140224
+"97031","Hood River","OR","Library Lawn","Oak St","97031",45.70867043783553,-121.51570916175842
+"97031","Hood River","OR","Ruthton Park","Westcliff Dr","97031",45.708919193261266,-121.56267499207515
+"97031","Hood River","OR","Tsuruta Park","13th","97031",45.708374,-121.524859
+"97031","Hood River","OR","Mann Park","Eugene St","97031",45.70670000157337,-121.53462946414948
+"97034","Lake Oswego","OR","George Rogers Park","George Rogers Park","97034",45.411149582157606,-122.66095193884973
+"97034","Lake Oswego","OR","Millenium Plaza City Park","Millenium Plaza City Park","97034",45.41787929534986,-122.66447615861924
+"97034","Lake Oswego","OR","Robinwood Park","not_available","97068",45.39365189576828,-122.64250549423414
+"97034","Lake Oswego","OR","Spring Park Natural Area","12299 SE 19th Ave","97222",45.43428322436091,-122.64391609841762
+"97034","Lake Oswego","OR","River Run Park","not_available","97034",45.38431537850841,-122.72007465362547
+"97034","Lake Oswego","OR","Peter Kerr Park","not_available","97222",45.43666,-122.6495
+"97034","Lake Oswego","OR","Oswego Lake Front Park","5025 Foothills Rd","97034",45.41762469023929,-122.66378999888315
+"97034","Lake Oswego","OR","Foothills City Park","Foothills City Park","97034",45.41964186792643,-122.65740430971157
+"97034","Lake Oswego","OR","Rivervilla Park","SE Courtney Ave","97222",45.42269403116739,-122.65394838900986
+"97034","Lake Oswego","OR","Bryant Woods Nature Park","not_available","97035",45.386828217048254,-122.72086430550124
+"97034","Lake Oswego","OR","Skyline Ridge Park","1300 Stonehaven Drive","97068",45.39042282104492,-122.66336822509766
+"97034","Lake Oswego","OR","Midhill Park","Upper Midhill Dr","97068",45.39329508420519,-122.65197575662131
+"97034","Lake Oswego","OR","Woodmont Natural Park","13600 Atwater Lane","97034",45.427547454833984,-122.68832397460938
+"97034","Lake Oswego","OR","Rossman Park - First Edition","4th St.","97034",45.4219262715917,-122.66720251265578
+"97034","Lake Oswego","OR","Cornell Natural Area","1185 Cornell St","97034",45.402939758939674,-122.67282485961915
+"97034","Lake Oswego","OR","Aspen Park","1450 Aspen St","97034",45.402707,-122.67561
+"97034","Lake Oswego","OR","Tanglewood Park","19 Tanglewood Dr","97035",45.429574,-122.71211799999999
+"97034","Lake Oswego","OR","Mt. Park","Kerr Parkway","97035",45.43441369034245,-122.71163210358303
+"97034","Lake Oswego","OR","Marylhurst Heights Park","1800 Valley View Dr","97068",45.384673,-122.658455
+"97034","Lake Oswego","OR","Beth Ryan Nature Reserve","1909 Summit Drive","97034",45.41454315185547,-122.69705963134766
+"97034","Lake Oswego","OR","Lake Oswego Sister City Area","not_available","97267",45.412715354368615,-122.66117856030807
+"97035","Lake Oswego","OR","Browns Ferry Park","not_available","97062",45.383594692151796,-122.74065400568934
+"97035","Lake Oswego","OR","Westlake Park","4800 SW Melrose St","97035",45.425575438885666,-122.7266947836209
+"97035","Lake Oswego","OR","Lesser Park","not_available","97219",45.437868161765614,-122.73564697771333
+"97035","Lake Oswego","OR","Springbrook Park","Diane Drive","97034",45.42104593144626,-122.7067494392395
+"97035","Lake Oswego","OR","Elizabeth M. Gress Park","51 Tanglewood Dr","97035",45.430832,-122.70808400000001
+"97038","Molalla","OR","Scotts Mills City Park","Scotts Mills,OR,97375","97375",45.04138615749549,-122.6652483772866
+"97038","Molalla","OR","Mollala River Recreation Area","not_available","97004",45.129904156864114,-122.53339684101164
+"97038","Molalla","OR","Feyrer Park","18058-18098 S Feyrer Park Rd","97038",45.139632188119506,-122.53345312796822
+"97040","Mosier","OR","Celio Park","not_available","97040",45.602031,-121.437392
+"97045","Oregon City","OR","Clackamette Park","16488 Clackamette Dr.","97045",45.369955891295014,-122.60151091816118
+"97045","Oregon City","OR","Hillendale Park","19260 Clairmont Wy","97045",45.32916259765625,-122.59691619873047
+"97045","Oregon City","OR","Mary S Young Park","Mary S Young Park","97068",45.37855608974754,-122.6369786823637
+"97045","Oregon City","OR","Willamette Park West Linn","West Linn","97068",45.33962917793174,-122.6517664959505
+"97045","Oregon City","OR","Sahallie Ilahee Park","4300 Horton Road","97068",45.369449615478516,-122.63273620605469
+"97045","Oregon City","OR","Rivercrest Park","131 Park Dr","97045",45.34540381523158,-122.60718923126787
+"97045","Oregon City","OR","Singer Creek Park","130 Linn Ave","97045",45.347804754919764,-122.60322409539599
+"97045","Oregon City","OR","Tanner Creek Park","3456 Parker Road","97068",45.36349237807312,-122.6451621906207
+"97045","Oregon City","OR","North Willamette Neighborhood Park","1500 Rosemarie Drive","97068",45.355499990099965,-122.65817605402654
+"97045","Oregon City","OR","Oregon City Library Spray Park","606 John Adams St","97045",45.355294,-122.60403600000001
+"97045","Oregon City","OR","Stringfield Family Park","3614 SE Naef Rd","97267",45.3989959064036,-122.62507124857969
+"97045","Oregon City","OR","Oppenlander Fields","1275 Rosemont Rd","97068",45.37012516011173,-122.64128067325014
+"97045","Oregon City","OR","Alice Benski Park","2925 Carriage Way","97068",45.380306243896484,-122.64720916748047
+"97048","Rainier","OR","Port Of Kalama Marine Park","N Hendickson Dr.","98625",46.00457758969794,-122.84605196417576
+"97048","Rainier","OR","Civic Circle","not_available","98632",46.13879927787358,-122.93747262143269
+"97048","Rainier","OR","Louis Rasmussen Day Park","N Hendrickson Dr.","98625",46.00121205361306,-122.84496824255204
+"97048","Rainier","OR","Rainier City Park","10 West 6th Street","97048",46.0912471429341,-122.94097914246342
+"97048","Rainier","OR","Tam O'Shanter Park","444 Valley View Dr","98626",46.13824462890625,-122.88761138916016
+"97048","Rainier","OR","archie anderson park","200 21st & 22nd","98632",46.122031027199824,-122.95754764996744
+"97048","Rainier","OR","Trojan Park","not_available","97048",46.035675335608936,-122.89405345916748
+"97048","Rainier","OR","Gerhart Park","40 Tenant Way","98632",46.107933885920254,-122.89572715759277
+"97048","Rainier","OR","Gerhart Gardens Park","not_available","98626",46.110221554360066,-122.89482004467719
+"97048","Rainier","OR","Elks War Memorial (the Boulevard)","2122 Kessler Blvd","98632",46.131453,-122.948329
+"97048","Rainier","OR","Haydu Park","not_available","98625",46.042098,-122.841928
+"97048","Rainier","OR","Vandercook Park","20th Avenue","98632",46.14052690165264,-122.94378285927107
+"97049","Rhododendron","OR","Ackley Park","24945 E Bright Ave","97067",45.343092999999996,-121.971448
+"97049","Rhododendron","OR","Tiny Park","not_available","97011",45.350693752209445,-121.97151518570705
+"97050","Rufus","OR","Ekone Park","not_available","98620",45.682740368385495,-120.81943968761802
+"97050","Rufus","OR","Eddieville Motorsports Park","10 Stringstreet","98613",45.7368598993514,-120.825299110251
+"97050","Rufus","OR","Grass Valley Pavillon","not_available","98613",45.71043014526367,-120.816162109375
+"97051","Saint Helens","OR","McCormick Park","418 S 18th St","97051",45.85280667292374,-122.81654834747314
+"97051","Saint Helens","OR","Grey Cliffs Waterfront Park","not_available","97051",45.86809,-122.79876
+"97051","Saint Helens","OR","Columbia View Park","260 The Strand","97051",45.86288708088221,-122.79652903747386
+"97051","Saint Helens","OR","Martin's Bar / Lions Day Park","1337 Dike Rd","98674",45.91942831270861,-122.80316616178739
+"97055","Sandy","OR","Oral Hull Park","43233 SE Oral Hull Rd","97055",45.399119,-122.217583
+"97056","Scappoose","OR","Chief Concomly Park","33306 SW Seely Lane","97056",45.758271,-122.881511
+"97056","Scappoose","OR","Scappoose Veterans Park","JP West Rd & NW Marna Ln","97056",45.757,-122.886
+"97056","Scappoose","OR","Das Poopenfeld","not_available","97056",45.75348077303047,-122.89101687325002
+"97056","Scappoose","OR","Парк Педиатрической Академии","Gdg","97056",45.75473419212345,-122.87793721226126
+"97056","Scappoose","OR","Miller Park","97056 Miller Rd","97056",45.7511089,-122.8684091
+"97056","Scappoose","OR","Heritage Park","52469 SE 2nd St","97056",45.756866455078125,-122.87690734863281
+"97058","The Dalles","OR","End Of The Oregon Trail","not_available","97058",45.600242,-121.186836
+"97058","The Dalles","OR","Thompson Park","701-899 Mosier-The Dalles Hwy","97058",45.604761153765715,-121.19644156729892
+"97058","The Dalles","OR","Sorosis Park","100-198 W Scenic Dr","97058",45.59110971312428,-121.19360732578033
+"97058","The Dalles","OR","Billy Bob Snow Park","not_available","97021",45.40329,-121.45187
+"97058","The Dalles","OR","Dalles Mountain Ranch","not_available","98635",45.677842183414775,-121.09290832085473
+"97058","The Dalles","OR","The Dalles City Park","220 E 4th St","97058",45.599985,-121.183618
+"97060","Troutdale","OR","Oxbow Park","3010 SE Oxbow Parkway","97060",45.4928101185,-122.34219405555342
+"97060","Troutdale","OR","Thousand Acres Dog Park","Thousand Acres Rd","not_available",45.54679706319209,-122.37392776392777
+"97060","Troutdale","OR","mayor's square city park","E Columbia River Hwy","not_available",45.54060363769531,-122.3875732421875
+"97060","Troutdale","OR","Thom Park","1135 SE 9th St","97080",45.48843197685648,-122.42241596019537
+"97060","Troutdale","OR","Harlow House Park","726 E Historic Columbia River Hwy","97060",45.537957,-122.38235
+"97060","Troutdale","OR","Donald L. Robertson City Park","not_available","97060",45.53734023463892,-122.41275188243608
+"97062","Tualatin","OR","Cook Park","16638 SW 92nd ave","97224",45.39759406354167,-122.77210938176121
+"97062","Tualatin","OR","Tualatin Community Park","8515 SW Tualatin Rd","97062",45.38650359163762,-122.7632281122003
+"97062","Tualatin","OR","Little Woodrose Nature Park","21045 SW 90th Ave","97062",45.36766371327668,-122.77233593174529
+"97062","Tualatin","OR","Jurgens Park","17299 SW Hazlebrook","97062",45.39531776360964,-122.78355057932052
+"97062","Tualatin","OR","Lafky Park","9681 SW Siletz Dr","97062",45.368675826048886,-122.77614331235506
+"97062","Tualatin","OR","Durham Park","not_available","97224",45.39659955597413,-122.76162063387696
+"97062","Tualatin","OR","JAE Oregon Inc Gazeebo","11555 SW Leveton Drive Greenbelt","97224",45.388301849365234,-122.79777526855469
+"97062","Tualatin","OR","Shankio Greenway","20866 SW Martinazzi","97062",45.369682236680916,-122.760968195322
+"97064","Vernonia","OR","Shay Park","adams avenue","97064",45.858593133333336,-123.19193133333333
+"97064","Vernonia","OR","Spencer Park","997 Missouri Ave","97064",45.85944366455078,-123.17932891845703
+"97068","West Linn","OR","Fields Bridge Community Park","Willamette Falls Dr","97068",45.35192322420636,-122.67320818688158
+"97068","West Linn","OR","Sunset Park","Bittner St.","97068",45.359521521737605,-122.62590032693252
+"97068","West Linn","OR","Bolton Park","6044 Holmes St.","97068",45.36912711,-122.61645332
+"97068","West Linn","OR","West Linn Street Dance","1721 Willamette Falls Dr","97068",45.343631744384766,-122.65616607666016
+"97068","West Linn","OR","Mary S Young State Recreation Area","19829 willamette drive","97068",45.38065946015236,-122.62874313832629
+"97070","Wilsonville","OR","Town Center Park","29600 SW Park Pl","97070",45.306195,-122.76368000000001
+"97070","Wilsonville","OR","Cedar Park","Emery Circle","97070",45.323511758210465,-122.75565740688465
+"97070","Wilsonville","OR","Cinnamon Hills Park","not_available","97140",45.35257,-122.8384
+"97070","Wilsonville","OR","Murdock Park","22965 SW Upper Roy St","97140",45.35292974584835,-122.82628230105472
+"97070","Wilsonville","OR","Canyon Creek Park","Carriage Oaks Ln","97070",45.328431,-122.757369
+"97080","Gresham","OR","Gabbert Butte Natural Area","not_available","97080",45.475274,-122.437817
+"97080","Gresham","OR","Paesano Cedarville Park","3800 W Powell Loop","97030",45.48650308921513,-122.47112332448057
+"97086","Happy Valley","OR","Happy Valley Park","SE Ridgecrest Rd","97086",45.449068509712774,-122.5257519547713
+"97086","Happy Valley","OR","Eastridge City Park","6901-7419 SE Deardorff Rd","97236",45.457591635347,-122.51631800413432
+"97086","Happy Valley","OR","Mount Scott Commons","SE Stevens Rd","97086",45.44036342194614,-122.5657602406277
+"97101","Amity","OR","Amity City Park","510 S Trade St","97101",45.11517333984375,-123.20658874511719
+"97102","Arch Cape","OR","Tolovana Beach Wayside","Warren Beach Rd.","97110",45.87266527573304,-123.96135464095639
+"97103","Astoria","OR","Garden of Surging Waves","11th Street","not_available",46.18820108542894,-123.8311598366512
+"97103","Astoria","OR","Lindstrom Park","686 Niagara Ave","97103",46.18155288696289,-123.83615112304688
+"97103","Astoria","OR","Birch Park","not_available","97103",46.196121,-123.782379
+"97103","Astoria","OR","Saddleback Mountian Archery Range","Christian Lane","not_available",46.136601,-123.784043
+"97103","Astoria","OR","Campo de Chile","Netul Landing","97103",46.13074993996257,-123.87896060943604
+"97106","Banks","OR","Shearer Park","Strohmayer Rd","97116",45.65886016666666,-123.18445168333334
+"97106","Banks","OR","Sunset Park","485 S Main St","97106",45.61272048950195,-123.1147232055664
+"97106","Banks","OR","Banks Vernonia State Trail","not_available","97106",45.6629647578002,-123.164700297654
+"97110","Cannon Beach","OR","Whale Park","not_available","97110",45.90018261343739,-123.96113944572934
+"97110","Cannon Beach","OR","Les Shirley Park","436-498 N Hemlock St","97110",45.90338734876501,-123.96123596466833
+"97111","Carlton","OR","Community Pride Park","N Grant St","97127",45.253341102188884,-123.11207557018716
+"97111","Carlton","OR","Wennerberger Park","S River St","97111",45.29251447701653,-123.18788525231051
+"97111","Carlton","OR","Pump House #1","Highway 240","97148",45.33184016912714,-123.13704622510673
+"97111","Carlton","OR","Carlton City Park","not_available","97111",45.29413610561803,-123.17874205114094
+"97112","Cloverdale","OR","Cape Kiwanda","not_available","97112",45.340527,-123.977972
+"97113","Cornelius","OR","Jesse Mays Community Center","231-299 NW Wascoe St","97133",45.59857462088107,-122.9963393070123
+"97113","Cornelius","OR","McKinney Park","not_available","97124",45.52672776155621,-122.99505883924597
+"97113","Cornelius","OR","Bard park","not_available","97116",45.52253,-123.09478
+"97113","Cornelius","OR","Jackson Bottom Wetlands Preserve","2600 SW Hillsboro Hwy","97123",45.501596,-122.989539
+"97113","Cornelius","OR","Dogwood Park - Cornelius","700 S 26th Ave","97113",45.514767655159446,-123.03889274597168
+"97113","Cornelius","OR","Bagley Park","201 NE Jackson St","97124",45.525514,-122.98728
+"97113","Cornelius","OR","Harleman Park","not_available","97113",45.513556242126164,-123.06263818146098
+"97113","Cornelius","OR","Tarrybrooke Park","584 S 4th Ave","97113",45.515699,-123.06653500000002
+"97113","Cornelius","OR","Dairy Creek Park","515 SW 17th Ave","97123",45.517103719191,-123.00631294739142
+"97114","Dayton","OR","Falcon Crest Park","not_available","97115",45.276631,-123.020858
+"97114","Dayton","OR","Dayton Landing","not_available","97114",45.221956,-123.071686
+"97114","Dayton","OR","Terry Park","not_available","97127",45.2404670715332,-123.11465454101562
+"97114","Dayton","OR","San Salvador County Park","not_available","97137",45.22168735277525,-123.02698347785693
+"97116","Forest Grove","OR","Tree to Tree Adventure Park","2975 SW Nelson Rd","97119",45.499703000000004,-123.209419
+"97116","Forest Grove","OR","Tugu Dolan","Jl.Dr.Kayadoe Kudamati","97116",45.57017099999999,-123.13223
+"97121","Hammond","OR","Warrenton City Park","S w 3rd St","97146",46.16321628050534,-123.92841217903398
+"97121","Hammond","OR","chinook park","not_available","97146",46.173561096191406,-123.93244171142578
+"97123","Hillsboro","OR","Noble Woods Park","Noble Woods Park","97123",45.51777476200853,-122.91692733764648
+"97123","Hillsboro","OR","Frances Street Park - Hillsboro","SE Century Blvd","not_available",45.51022362038085,-122.91661130494847
+"97123","Hillsboro","OR","Rood Bridge Park","4000 SE Rood Bridge Rd","97124",45.49155500864859,-122.95199525190176
+"97123","Hillsboro","OR","53rd Avenue Park","53rd Avenue Park","97124",45.521141681066275,-122.91607480230323
+"97123","Hillsboro","OR","Bicentennial Park","Bicentennial Park","97124",45.52277482500339,-122.95729213653222
+"97123","Hillsboro","OR","Shadywood Park","Shadywood Park","97124",45.52417404860593,-122.95979556149675
+"97123","Hillsboro","OR","Shute Park","Shute Park","97124",45.51406609368293,-122.9756541687672
+"97123","Hillsboro","OR","Turner Creek Park","Turner Creek Park","97123",45.513539675849174,-122.95165028815902
+"97124","Hillsboro","OR","Dawson Creek Park","Dawson Creek Park","97124",45.543275329236394,-122.9353172846099
+"97124","Hillsboro","OR","Orenco Woods Nature Park","7100 NE Birch St","not_available",45.528808,-122.907546
+"97124","Hillsboro","OR","Central Park","Central Park","97124",45.53574479141464,-122.91670523819587
+"97124","Hillsboro","OR","UJ Hamby Park","1035 NE Jackson School Rd","97124",45.532536,-122.980274
+"97124","Hillsboro","OR","Rosebay Park","Rosebay Park","97229",45.53719729968002,-122.91203054578702
+"97124","Hillsboro","OR","Griffin Oaks Park","1800 NE Griffin Oaks St","97124",45.53932916563911,-122.96298672758067
+"97124","Hillsboro","OR","Evergreen Park","Evergreen Park","97124",45.53908375372279,-122.88225830380875
+"97124","Hillsboro","OR","Orchard Park","Orchard Park","97124",45.53607065329143,-122.8921848931197
+"97124","Hillsboro","OR","Waiting Area @ Wheelock Place","Wheelock place","not_available",45.52592749157184,-122.89588104337514
+"97124","Hillsboro","OR","Magnolia Park","1810 NW 192nd Ave","97124",45.53277979556279,-122.87427603135197
+"97128","Mcminnville","OR","Westvale Park","not_available","97128",45.20665433297707,-123.2255744934082
+"97128","Mcminnville","OR","Mac Coop Ministries Parkview and Labyrinth","325 NE Burnett Road","97128",45.23169708251953,-123.19599151611328
+"97128","Mcminnville","OR","Grenfell Park","Baker Ck. Rd.","not_available",45.227104746207026,-123.27364939357038
+"97130","Manzanita","OR","Wheeler Upper Park","not_available","97147",45.71267442011918,-123.90811096033845
+"97130","Manzanita","OR","Nehalem City Park","not_available","97131",45.713673,-123.89803
+"97132","Newberg","OR","Rogers Landing","NE Rogers Landing Rd","97132",45.28635364974441,-122.96770691871643
+"97132","Newberg","OR","Jaquith park","N Main St","97132",45.31007533766474,-122.97752186717074
+"97132","Newberg","OR","Spring Meadow Park","not_available","97132",45.310721,-122.937486
+"97132","Newberg","OR","Jaquith Park","1215 N College St","97132",45.30888366699219,-122.97560119628906
+"97132","Newberg","OR","College Park","Sierra Vista Dr.","97132",45.3103,-122.96692
+"97132","Newberg","OR","Chehalem Armory Center","Morton","97132",45.30472246104717,-122.98191377306857
+"97132","Newberg","OR","Memorial Park","S. Blaine Street","97132",45.358491,-123.001495
+"97132","Newberg","OR","Schaad Park","5200 Hook Dr","97132",45.30448960909899,-122.92349338531494
+"97132","Newberg","OR","Scott Leavitt Park","1300-1310 E 10th St","97132",45.2917002545642,-122.96651556292075
+"97136","Rockaway Beach","OR","Barview Jetty","not_available","97136",45.570316009718454,-123.9458355239192
+"97138","Seaside","OR","Klootchy Creek","not_available","97138",45.92083547004008,-123.89317743130597
+"97138","Seaside","OR","Cartwright Park","Seaside,OR,97138","97138",45.981781365888956,-123.92832643278794
+"97140","Sherwood","OR","Langer Park","15990 SW Century Dr","97140",45.36479219521288,-122.8410401534648
+"97140","Sherwood","OR","East Butte Heritage Park","East Butte Heritage Park","97224",45.41355,-122.78364
+"97140","Sherwood","OR","Cook Park Greenbelt","16662 SW Riverwood Pl","97224",45.399336,-122.782233
+"97141","Tillamook","OR","Bayocean Peninsula County Park","Bayocean Dike Road","not_available",45.5196893232274,-123.94760712718954
+"97141","Tillamook","OR","Hoquarton Interpretive Trail","US-101","97141",45.458302,-123.842702
+"97141","Tillamook","OR","Memaloose Point","not_available","97141",45.471402,-123.890512
+"97146","Warrenton","OR","Carnahan County Park","33780-33898 Carnahan Park Ln","97146",46.095252163088325,-123.90707474237914
+"97148","Yamhill","OR","Beulah City Park","E 3rd Street","97148",45.33852213928813,-123.18352033115596
+"97149","Neskowin","OR","Siuslaw National Forest","Hwy 101","97149",45.06095388249246,-123.95418787688881
+"97201","Portland","OR","Washington Park","2368 W Burnside St","97210",45.517834902506436,-122.70578384399414
+"97201","Portland","OR","Portland Japanese Garden","611 SW Kingston Ave","97205",45.51945662953895,-122.70693715666339
+"97201","Portland","OR","Lownsdale Square","350 SW Salmon St","97204",45.516075766386194,-122.67733097076415
+"97201","Portland","OR","Hoyt Arboretum","4000 SW Fairview Blvd","97221",45.517492852567834,-122.71771430969238
+"97201","Portland","OR","South Park Blocks","1000 SW Park Ave","97205",45.51513419466493,-122.68326100155147
+"97201","Portland","OR","Chapman Square","SW 4th Ave","97204",45.51539540198545,-122.677663564682
+"97201","Portland","OR","Council Crest Park","Council Crest Park","97239",45.49884967992838,-122.70793026323963
+"97201","Portland","OR","Mill Ends Park","1 SW Taylor St.","97204",45.516188382481396,-122.67319939290448
+"97201","Portland","OR","Ira C. Keller Fountain","Ira C. Keller Fountain","97201",45.51276431939953,-122.67896035028369
+"97201","Portland","OR","Marquam Nature Park","SW Marquam St","not_available",45.50281245055105,-122.69193379489757
+"97201","Portland","OR","Director Park","825 SW Park Ave.","97201",45.51884555816276,-122.68129918143615
+"97201","Portland","OR","Terry Schrunk Federal Plaza","1200 Block SW 3rd","not_available",45.51458672948926,-122.67766439987447
+"97201","Portland","OR","Pettygrove Park","1800 SW 1st Ave","97201",45.51098987235108,-122.67869747376318
+"97201","Portland","OR","Shemanski Park","Salmon St.","97204",45.517339528914896,-122.68210885688548
+"97201","Portland","OR","Lair Hill Park","3000 SW Barbur Blvd","not_available",45.50212412969969,-122.6807185934071
+"97201","Portland","OR","South Park Blocks","PSU Park Blocks","97201",45.51277003756993,-122.68483713923683
+"97201","Portland","OR","Washington Park Archery Range","not_available","97205",45.51425671540785,-122.71001690741977
+"97201","Portland","OR","South Waterfront Park Garden","not_available","97201",45.50872,-122.67287
+"97201","Portland","OR","Cyan/PDX Courtyard","1720 SW 4th Ave","97201",45.511263071317266,-122.68036565572832
+"97201","Portland","OR","Portland Heights Park","SW Patton Rd","97201",45.503639407916864,-122.70817096447159
+"97201","Portland","OR","PCC Climb Center Stormwater Plaza","not_available","97214",45.51146,-122.66535
+"97201","Portland","OR","Printing Press Park","SW Morrison St & 1st Ave","97204",45.51784962243061,-122.67321588263499
+"97201","Portland","OR","Amazon Flooded Forest","not_available","97221",45.510716631905375,-122.70668531914761
+"97201","Portland","OR","Duniway Park","Duniway Park","97239",45.50415030720918,-122.68244803372401
+"97202","Portland","OR","Sellwood Riverfront Park","Sellwood Riverfront Park","97202",45.466269825283305,-122.66347248857069
+"97202","Portland","OR","Sellwood Park","SE 7th and Miller St","97202",45.46779401499051,-122.65931290562311
+"97202","Portland","OR","Willamette Park","6440 SW Beaver Ave","97202",45.476433755449094,-122.67040171599766
+"97202","Portland","OR","Crystal Springs Rhododendron Garden","SE Woodstock Blvd","97202",45.479884386775495,-122.63548035476823
+"97202","Portland","OR","Kenilworth Park","Kenilworth Park","97202",45.49130563813364,-122.63175638972126
+"97202","Portland","OR","South Waterfront Greenway","SW Curry St","97239",45.49644091724718,-122.67004897134734
+"97202","Portland","OR","Ladd Circle Park","2000 SE Ladd Ave.","97214",45.50851811499867,-122.64943915722174
+"97202","Portland","OR","Westmoreland Park","SE McLoughlin Blvd","97202",45.468618496361564,-122.64089584350586
+"97202","Portland","OR","Brooklyn School Park","3830 SE 14th Ave","97202",45.49463844157207,-122.65043603430826
+"97202","Portland","OR","Brooklyn Park","SE 10th Ave & Haig St","97202",45.498512008956034,-122.6553673991312
+"97202","Portland","OR","Powell Park","2600 SE Powell","not_available",45.49778016506709,-122.64124263963024
+"97202","Portland","OR","Creston Park","4454 SE Powell Blvd","97206",45.495948606322564,-122.61833073718138
+"97202","Portland","OR","Berkeley Park","3701 SE Bybee Blvd","97202",45.47281764104211,-122.62378695964811
+"97202","Portland","OR","The Hippy Benches","Tibbits","not_available",45.500744,-122.642718
+"97202","Portland","OR","Save The Giants Park","3656 St Martins St","97202",45.478556,-122.625317
+"97202","Portland","OR","Tucker-Maxon Goat Park","not_available","97202",45.489242,-122.637362
+"97202","Portland","OR","The Oaks Station. OPR.","Springwater on the Willamette","97202",45.472103772268255,-122.66124416570803
+"97203","Portland","OR","Portsmouth Park","not_available","97203",45.57836495881794,-122.72333791090527
+"97203","Portland","OR","Kelley Point Park","Kelley Point Park","97203",45.64639454951127,-122.76245541672223
+"97203","Portland","OR","Pier Park","Pier Park","97203",45.60223233040014,-122.75642910910402
+"97203","Portland","OR","Columbia Park","4500 N Lombard St","not_available",45.58041364411411,-122.70911396734247
+"97203","Portland","OR","Cathedral Park","8676 N Crawford St","97203",45.587744271318925,-122.75982173327687
+"97203","Portland","OR","McCoy Park","9578-9698 N Fiske Ave","97203",45.588799015308474,-122.71597228241401
+"97203","Portland","OR","Columbia Annex","4355-4399 N Willamette Blvd","97203",45.57602316174003,-122.71334265943355
+"97203","Portland","OR","University Park","N Alaska St.","97203",45.586150165106346,-122.70960943580364
+"97203","Portland","OR","Chimney Park","9090 N Columbia Blvd.","97210",45.6068109385305,-122.75967767799298
+"97203","Portland","OR","Smith and Bybee Wetlands Natural Area","5300 N Marine Dr","97203",45.615792,-122.71618600000001
+"97203","Portland","OR","Peninsula Crossing Park","Lombard","97203",45.573817029736695,-122.72027620130649
+"97203","Portland","OR","Toyota Dock Fishing Spot","St Johns","97203",45.607939,-122.741329
+"97203","Portland","OR","George Park","6951 N Olympia St","97203",45.595518,-122.734618
+"97204","Portland","OR","Gov. Tom McCall Waterfront Park","Naito Pkwy","97204",45.52063136467168,-122.67029285430908
+"97204","Portland","OR","Hidden Barricade- Portland","Tom McCall Waterfront Park","97204",45.520353228153844,-122.67062544822693
+"97204","Portland","OR","O'Bryant Square","808 SW Stark St","97205",45.52106674794628,-122.68004169048557
+"97205","Portland","OR","Portland Firefighters Park","not_available","97209",45.52278241061697,-122.69008851418027
+"97205","Portland","OR","Hillside Park","Portland,OR,97210","97210",45.52337862318885,-122.69748951938409
+"97205","Portland","OR","Forest Park Conservancy","833 SW 11th Ave Ste 800","97205",45.51924133300781,-122.6840591430664
+"97205","Portland","OR","Campbell Memorial","Firefighters Park","97209",45.52264894,-122.69000709056854
+"97205","Portland","OR","The Portland loo","SW Park & Columbia St.","not_available",45.514251792518344,-122.68390074420944
+"97206","Portland","OR","Errol Heights City Park","not_available","97206",45.463753,-122.61376
+"97206","Portland","OR","Woodstock Park","Woodstock Park","97206",45.48320764353648,-122.61318948544162
+"97206","Portland","OR","Mt Scott Park","Mt Scott Park","97266",45.4813,-122.588019
+"97206","Portland","OR","Flavel City Park","72nd & Flavel Avenue","not_available",45.46755173020607,-122.58576013280855
+"97206","Portland","OR","Laurelwood Park","Laurelwood Park","not_available",45.4926343241558,-122.59668564505874
+"97206","Portland","OR","Brentwood City Park","SE Duke St.","97206",45.47232378229954,-122.60014478596918
+"97206","Portland","OR","Brentwood Dog Park","SE 60th Ave. & Duke St.","97206",45.47230647932316,-122.6001799880065
+"97206","Portland","OR","Harney Park","8400-8426 SE 67th Ave","97206",45.46299665309588,-122.59372439286646
+"97206","Portland","OR","Fitland Parkway","4500-5000 SE 72nd Ave","97206",45.487398741044224,-122.58873694347574
+"97206","Portland","OR","Copper Beech Park","4680 SE Ivon St","97206",45.503928,-122.614225
+"97209","Portland","OR","The Fields Neighborhood Park","1100 NW Overton St","97209",45.532493070378884,-122.68198535606601
+"97209","Portland","OR","Tanner Springs Park","1100 NW 10th Ave","97209",45.531141286252875,-122.68195509910583
+"97209","Portland","OR","Couch Park","500 NW 19th Ave","not_available",45.52671995472798,-122.69145011901855
+"97209","Portland","OR","Jamison Square Park","810 NW 11th Ave","97209",45.52907252968244,-122.68184781074524
+"97209","Portland","OR","North Park Blocks","300 NW Park Ave","97209",45.524577748178565,-122.67880082130432
+"97209","Portland","OR","Lan Su Chinese Garden","239 NW Everett St","97209",45.52533121371476,-122.67333030108759
+"97209","Portland","OR","Japanese-American Historical Plaza","SW Naito Parkway","not_available",45.52392884019488,-122.66970631559403
+"97209","Portland","OR","Dawson City Park","N Stanton & N Williams","97227",45.544362577504224,-122.66714321495093
+"97209","Portland","OR","Ultimate Urban Picnic Spot","NW 17th","97209",45.534726,-122.688234
+"97209","Portland","OR","Lillis Albina Park","Lillis Albina Park","97227",45.540250956001884,-122.66897410682549
+"97209","Portland","OR","Legacy Health Park","NW 21st & Lovejoy","97209",45.530139783213414,-122.6948597244794
+"97210","Portland","OR","Arbor Lodge Park","N Delaware Ave","97217",45.57295770581646,-122.69354032175382
+"97210","Portland","OR","Wallace Park","Wallace City Park","97210",45.53322875548889,-122.70380973815918
+"97210","Portland","OR","Forest Park - Wildwood Trail","317 SW Alder St","97204",45.52723349301785,-122.71700330136639
+"97210","Portland","OR","Lower MacLeay Park","2998 NW Upshur St.","97210",45.535836667755504,-122.71238631084282
+"97210","Portland","OR","Forest Park - Thurman Gate","3800 NW Thurman St","97210",45.539758863368775,-122.72374532002156
+"97210","Portland","OR","Upper Macleay Park","not_available","97210",45.52700001826713,-122.72711614541345
+"97210","Portland","OR","Audubon Society Of Portland","5151 NW Cornell Rd","97210",45.52668781999716,-122.73022337930107
+"97210","Portland","OR","Forest Park - Cumberland Trailhead","3161 NW Cumberland Rd","97210",45.529606,-122.71488899999999
+"97210","Portland","OR","Swift Watch","Wallace Park","97210",45.53269423284234,-122.705925351783
+"97210","Portland","OR","McCarthy Park","Swan island","97217",45.557470980773736,-122.709716641817
+"97210","Portland","OR","Arbor Lodge Off Leash Area","N Delaware","97217",45.57274216915064,-122.69450524307878
+"97211","Portland","OR","Alberta Park","18th and Ainsworth","97211",45.564589985563266,-122.64519343926428
+"97211","Portland","OR","Peninsula Park / Rose Garden","N Albina and Ainsworth","97217",45.56708340859195,-122.67364025115967
+"97211","Portland","OR","Wilshire Park","Wilshire Park","97211",45.55308294654703,-122.6271977020763
+"97211","Portland","OR","Woodlawn Park","Dekum Ave","97211",45.57272441626625,-122.65358934285649
+"97211","Portland","OR","Farragut Park","Farragut Park","not_available",45.579769585716754,-122.67151871802814
+"97211","Portland","OR","Thomas Cully Park","not_available","97218",45.565195,-122.588884
+"97211","Portland","OR","Fernhill Park","Fernhill Park","97211",45.56657861147069,-122.62355340312914
+"97211","Portland","OR","Columbia Childrens Arboretum","not_available","97211",45.596014225834736,-122.66261386199336
+"97211","Portland","OR","Wellington Park","Northeast Mason Street & NE 66th Ave","97218",45.55287289136939,-122.59473088719825
+"97211","Portland","OR","Sacajawea Park","NE 75th Ave","97218",45.55884554219468,-122.58621209586924
+"97211","Portland","OR","Sabin HydroPark","1907 NE Skidmore St","97211",45.55462522604373,-122.64599843909774
+"97211","Portland","OR","Holman Park","Holman City Park","97211",45.56818343781106,-122.65227365951978
+"97211","Portland","OR","King School Park","4815 NE 7th Ave","97211",45.55721311928203,-122.66003608703613
+"97211","Portland","OR","Mallory Meadows Park","NE Mallory St","97211",45.562700922298376,-122.66342551553701
+"97211","Portland","OR","East Columbia Park","1245-1269 NE Gertz Rd","97211",45.58659498734529,-122.65111102339657
+"97211","Portland","OR","Lotus Isle Park","not_available","97217",45.60727336567972,-122.6738376260648
+"97211","Portland","OR","Stanley park","not_available","97220",45.57239221103955,-122.55815234112531
+"97211","Portland","OR","Biddlewood Prk","11852 SE Riverridge Dr","98683",45.60800767754738,-122.5494059110121
+"97211","Portland","OR","Two Plum Park","4023 NE 7th Ave","97212",45.552478,-122.65893200000001
+"97212","Portland","OR","Irving Park","3498 NE 7th Ave","97212",45.546703047339975,-122.65790715349235
+"97212","Portland","OR","Grant Park","2300 NE 33rd Ave","97212",45.539932014590136,-122.62970684379188
+"97212","Portland","OR","Grant Bowl","not_available","97212",45.538881358548814,-122.63001297245042
+"97212","Portland","OR","EDGE Performance Fitness","2100 Northeast 33rd Avenue","97212",45.537903203040756,-122.6305103302002
+"97212","Portland","OR","Stoll Plaza","NE Broadway","not_available",45.535370642523134,-122.62022245360228
+"97212","Portland","OR","Foot Traffic All-Comers Meet","2300 NE 33rd","not_available",45.538885,-122.629999
+"97212","Portland","OR","The tree Gnomes at 17th & NE Thompson","1700 NE Thompson","not_available",45.539324,-122.651335
+"97212","Portland","OR","Kitty Cat Island","3800 NE Klickitat","97212",45.546977,-122.623996
+"97213","Portland","OR","Rose City Park","2292 NE 62nd Ave","97213",45.53678469668803,-122.59520779550517
+"97213","Portland","OR","Montavilla Park","8219 NE Glisan St","97220",45.52659333425209,-122.5786989960537
+"97213","Portland","OR","Glenhaven Park","Glenhaven Park","97213",45.543789739711315,-122.5797322774527
+"97213","Portland","OR","Normandale Park","not_available","97213",45.53185600542808,-122.60611973363962
+"97213","Portland","OR","Normandale Dog Park","5700 NE Halsey","97213",45.531815823488955,-122.60609149932861
+"97213","Portland","OR","Frazer Park","NE 52","97213",45.530457048765996,-122.6106679858539
+"97213","Portland","OR","East Holladay Park","not_available","97230",45.550719397027,-122.61496250171167
+"97213","Portland","OR","Under the Oaks Park","5843 US-98, Parker, FL 32404","32404",45.5352835,-122.6037536
+"97214","Portland","OR","Laurelhurst Park","Laurelhurst Park","97214",45.52093970372919,-122.62620169288385
+"97214","Portland","OR","Colonel Summers Park","SE 17th Ave & Taylor St","not_available",45.51554951839906,-122.64681816101074
+"97214","Portland","OR","Brick Staircase from SE Ankeny to Laurelhurst park","3438 Ankeny st SE","97214",45.52209343808006,-122.6280426979065
+"97214","Portland","OR","Sunnyside School Park","SE 34th Ave & Yamhill St","97214",45.51523844517322,-122.62866152492974
+"97215","Portland","OR","Mt. Tabor Park","6000 SE Salmon St.","97214",45.512722730713065,-122.59428977966309
+"97215","Portland","OR","Mt Tabor Staircase lower end","1101 SE 69th av","not_available",45.51550441119974,-122.59225130081178
+"97215","Portland","OR","Reservoir #1","Mt. Tabor","not_available",45.51252409122268,-122.5898510202866
+"97216","Portland","OR","Ventura Park","SE 115th Ave and SE Stark St.","97220",45.52063195162213,-122.54367651883258
+"97216","Portland","OR","Cherry Park","not_available","97216",45.509269109857975,-122.55486733964932
+"97216","Portland","OR","Mill Park","11821 SE Mill Ct","97216",45.510780334472656,-122.54120635986328
+"97216","Portland","OR","Berrydale PARK","9020-9198 SE Taylor St","97216",45.51410049185472,-122.57240962511234
+"97216","Portland","OR","Stark Street Island","SE Stark St.","97216",45.518846005002565,-122.55334854125977
+"97217","Portland","OR","Trenton Park","N Hamlin","97217",45.58630225538233,-122.70060099825781
+"97217","Portland","OR","Overlook Park","N Interstate Ave","97227",45.548498180757036,-122.68252372741699
+"97217","Portland","OR","Vancouver Waterfront","SE Columbia Way","98661",45.61708470822684,-122.6532494616174
+"97217","Portland","OR","Patton Square Park","N Interstate Ave","97217",45.56118997501903,-122.68200415547001
+"97217","Portland","OR","Esther Short Park","301 W 8th St.","98660",45.626565053288935,-122.67445893653007
+"97217","Portland","OR","Pittman Addition HydroPark","N Going Ct","97217",45.55629830360987,-122.68480973113492
+"97217","Portland","OR","Skidmore Bluffs","N Skidmore Terrace","97217",45.55436989871107,-122.69109881281562
+"97217","Portland","OR","DeNorval Unthank Park","510 N Shaver St","97212",45.55138216986536,-122.6708081182229
+"97217","Portland","OR","Vancouver Farmers Market","Esther St","98660",45.62661386971874,-122.67608642578125
+"97217","Portland","OR","Vanport Park","N Vanport Rd","97217",45.599711516666666,-122.69365676666666
+"97219","Portland","OR","Gabriel Park","Gabriel Park","97219",45.47204939555312,-122.71973133087158
+"97219","Portland","OR","Marshall Park","9699 SW 12th Dr","97219",45.4588619356166,-122.69743947823821
+"97219","Portland","OR","April Hill Park","5740 SW Miles St","97219",45.47107130961008,-122.7353310585022
+"97219","Portland","OR","Texas Water Tank","3109 SW Texas St.","not_available",45.4733772277832,-122.70902252197266
+"97220","Portland","OR","Joseph Wood Hill Park","3201 NE Rocky Butte Rd","97220",45.54708158647216,-122.56591740404843
+"97220","Portland","OR","Hazelwood HydroPark","1017 NE 117th Ave","97220",45.530152,-122.543152
+"97220","Portland","OR","Knott Park","NE 112th and NE Russell","97220",45.540462,-122.545425
+"97220","Portland","OR","Merrifield Park","NE Thompson","97220",45.53846908871947,-122.5409032383057
+"97220","Portland","OR","Hancock Park","NE 88th Ave and NE Tillamook St.","97220",45.536926260590505,-122.57248878479004
+"97220","Portland","OR","Future Gateway Park","10500 NE Halsey St, Portland, OR 97220","97220",45.53376373220506,-122.54670335703545
+"97221","Portland","OR","Albert Kelly Park","3638 SW Mitchell St.","97221",45.48509323371082,-122.71025871773388
+"97221","Portland","OR","cedar sinai park","Sw beaverton hillsdale hwy","not_available",45.48529711352822,-122.73920496819403
+"97221","Portland","OR","Pendleton City Park","5002 SW Iowa St","97221",45.48025060836583,-122.73235125961612
+"97221","Portland","OR","Council Crest Off Leash Dog Area","3442 SW Council Crest Dr.","not_available",45.49869774059527,-122.70720967363336
+"97222","Portland","OR","Stanley Park","Stanley ave.","97222",45.43911996587813,-122.60293080699142
+"97222","Portland","OR","Water Tower Park","9800 SE 40th Ave","97222",45.45172119140625,-122.6219253540039
+"97222","Portland","OR","North Clackamas Dog Park","5440 SE Kellogg Creek Dr","97222",45.42660903930664,-122.60610961914062
+"97222","Portland","OR","Homewood Park","10863 SE Home Ave","97222",45.44461268458266,-122.61216747784911
+"97222","Portland","OR","Wichita Park","5908 SE Monroe Street","97222",45.444427490234375,-122.6014404296875
+"97222","Portland","OR","Nutria Pond","10660 SE 21st Ave","97222",45.44618606567383,-122.6404037475586
+"97222","Portland","OR","Tryon Cove Park","13990 Stampher Rd","97034",45.42425537109375,-122.6584243774414
+"97223","Portland","OR","Summerlake Park","11450 SW Winterlake Drive","97223",45.4367974945045,-122.80968189239502
+"97223","Portland","OR","Potso Dog Park","7930 SW Hunziker St","97223",45.42549778249717,-122.76023238241125
+"97223","Portland","OR","Dirksen Nature Park","11130 SW Tiedeman Ave","97223",45.433639,-122.786451
+"97223","Portland","OR","Hideaway Park","6600 SW Oleson Rd","97223",45.46882937787678,-122.74511814724939
+"97223","Portland","OR","Summer Lake Park","winter lake dr","97223",45.4373745361,-122.8070948712095
+"97223","Portland","OR","Liberty Park","12010-12098 SW Pacific Hwy","97223",45.432893066666665,-122.76752485
+"97225","Portland","OR","bauman park","Oleson Road","not_available",45.48223938540482,-122.74572605503927
+"97229","Portland","OR","Bonny Slope Park","11100 NW Thompson Rd","97229",45.54541813868143,-122.79055002553578
+"97229","Portland","OR","Bethany Meadows Park THPRD","5849 NW Kaiser Rd","97229",45.56126430609249,-122.83706583534729
+"97229","Portland","OR","Pirates Park","15975 NW Energia St","97229",45.561577771179586,-122.84383605367088
+"97229","Portland","OR","THPRD PCC Rock Creek","17705 NW Springville Rd, Portland Community College - Rock Creek Campus, Portland, OR 97229","97229",45.56455666451595,-122.85608632328615
+"97229","Portland","OR","Mill Pond Park","NW Mill Pond Rd","97229",45.54524515624749,-122.78995918691473
+"97229","Portland","OR","Serah Lindsay Park","Serah Lindsay Park","97229",45.55721311928203,-122.85221099853516
+"97230","Portland","OR","Heritage Park","not_available","98607",45.59883494130554,-122.49790429946728
+"97230","Portland","OR","John Luby Park","12701-13001 NE Brazee St","97230",45.54067009119006,-122.53049117864992
+"97230","Portland","OR","Ash Creek Park","2010 NW Maryland St","98607",45.594417572021484,-122.44782257080078
+"97231","Portland","OR","Frenchman's Bar Park","9612 NW Lower River Rd","not_available",45.68121090019152,-122.7674954942079
+"97231","Portland","OR","Wapato Access Greenway","NW Sauvie Island Road","97231",45.66000732619559,-122.83864974975586
+"97231","Portland","OR","Howell Territorial Park","NW Howell Park Rd","97231",45.64166711818089,-122.81950117189962
+"97231","Portland","OR","Sauvie Island Wildlife Area","Portland,OR,97231","97231",45.734954988001746,-122.77385742349284
+"97231","Portland","OR","Ben Graf Park","Ben Graf Park","97229",45.56479808796495,-122.84421412853831
+"97232","Portland","OR","Vera Katz Eastbank Esplanade","Pedestrian Walkway btwn Hawthorne & Steel Bridges","92227",45.526203,-122.66573
+"97232","Portland","OR","Buckman Field","NE 15th Ave","97232",45.52554028075059,-122.65104137068592
+"97232","Portland","OR","Oregon Park","2950 NE Oregon St.","97232",45.527742062770685,-122.63532448119486
+"97232","Portland","OR","Holladay Park","1100 NE Holladay St","97232",45.530823743639196,-122.65364170074463
+"97232","Portland","OR","Sullivans Gulch Dog Park & Playground","1500-1598 NE 28th Ave","97232",45.53393671126452,-122.63642862439156
+"97232","Portland","OR","Oregon Convention Center Plaza","not_available","97232",45.528978578894815,-122.66105532646178
+"97232","Portland","OR","Pacific Park","Pacific Park","97232",45.52799258825989,-122.66071913494399
+"97233","Portland","OR","lincoln park","SE 135th and SE Mill","not_available",45.50980557753877,-122.52622604370117
+"97233","Portland","OR","North Powellhurst","not_available","97233",45.513513,-122.52403252568368
+"97233","Portland","OR","Puppy Play Park","Mill St.","97233",45.5120245170188,-122.49122281792555
+"97236","Portland","OR","Powell Butte Nature Park","16160 SE Powell Blvd","97236",45.49054238268119,-122.49766436115597
+"97236","Portland","OR","Gilbert Heights City Park","12839 SE Holgate Blvd","97236",45.49045548902652,-122.53129460846998
+"97236","Portland","OR","Gilbert Primary Park","6212-6314 SE 134th Ave","97236",45.47698455968384,-122.5219560553817
+"97239","Portland","OR","Elizabeth Caruthers Park","0600 SW Gaines St","97239",45.49744350420428,-122.67141603830656
+"97239","Portland","OR","Healy Heights Park","not_available","97239",45.49271565938721,-122.69873509491713
+"97239","Portland","OR","Dewitt Park","1505 SW Dewitt St","97239",45.48033991642508,-122.69404860394718
+"97266","Portland","OR","Lents Park","92nd Ave and Holgate Blvd","97266",45.4873354250324,-122.57047176361084
+"97266","Portland","OR","Bloomington Park","not_available","97266",45.48503639880066,-122.56029140912973
+"97266","Portland","OR","Glenwood Park","Southeast 87th Avenue & Claybourne Street","97266",45.47443268123704,-122.57280539403509
+"97266","Portland","OR","Ed Benedict Park","SE 102nd Ave & Powell Blvd","97266",45.495285742726864,-122.55795523295974
+"97266","Portland","OR","Portland Memory Garden","3600-3798 SE 104th Ave","97266",45.49515877438341,-122.55555646559762
+"97266","Portland","OR","Playhaven Park","7401-7499 SE 109th Ave","97266",45.46827082281365,-122.55754080385724
+"97266","Portland","OR","Earl Boyles DD Park","SE 112th","not_available",45.49370254514528,-122.54978132026942
+"97267","Portland","OR","Ann-Toni Schreiber Park","Clackamas Rd","97267",45.41133254332192,-122.59405617287852
+"97267","Portland","OR","Risley Park","SE Swain Ave","not_available",45.40730179166444,-122.63865285255213
+"97267","Portland","OR","View Acres Field","5030 SE Hill Rd","97267",45.41748809814453,-122.61093139648438
+"97301","Salem","OR","McKinley School City Park","466 McGilchrist St SE","97302",44.917261049961816,-123.04200026087936
+"97301","Salem","OR","Riverfront Park","200 Water St NE","97301",44.942020133027945,-123.0422830581665
+"97301","Salem","OR","Bush's Pasture Park","890 Mission St SE","97302",44.93044554918239,-123.03640365600586
+"97301","Salem","OR","Sunset Park","not_available","97303",44.98317611900365,-123.03496190541678
+"97301","Salem","OR","Keizer Rapids Park","1900 Chemawa Rd","97303",44.992280773708636,-123.04665343126923
+"97301","Salem","OR","Englewood Park","not_available","97301",44.94666753769745,-123.01050424575806
+"97301","Salem","OR","Claggett Creek Park","Dearborn Ave NE","97303",44.995939105476374,-123.01559600355473
+"97301","Salem","OR","Wallace Marine Park","200 Glen Creek Rd NW","97304",44.95028576084207,-123.04450375088578
+"97301","Salem","OR","Pringle City Park","Church St SE","not_available",44.934139048873,-123.0375243781083
+"97301","Salem","OR","railroad track crossing","Mcgilchrist","not_available",44.91677221303456,-123.02690323219626
+"97301","Salem","OR","Keizer Rapids Charging Station","chemewa","97303",44.994643,-123.043575
+"97301","Salem","OR","River's Edge Park","Rivercrest","97303",44.97762576612978,-123.03026675690826
+"97301","Salem","OR","Phoenix RV Park","4130 Silverton Rd NE","97305",44.96931157,-122.98109297
+"97301","Salem","OR","Hoodview Park","Kale Rd","97305",44.995270693338135,-122.96553776143105
+"97301","Salem","OR","River Road Park","3029 River Rd N","97301",44.97023289496611,-123.03284168243408
+"97301","Salem","OR","Cascades Gateway City Park","Unnamed Rd","97302",44.91229009709642,-122.99078239643181
+"97301","Salem","OR","Waldo Park","605 Summer St NE","97310",44.943668365478516,-123.02799987792969
+"97301","Salem","OR","Thorp Park","3795 Crabgrass St NE","97301",44.947125,-122.98662900000001
+"97301","Salem","OR","Willson Park","Cottage St","97302",44.93903624178434,-123.03286178733455
+"97302","Salem","OR","Wes Bennett Park","2200 Baxter Rd SE","97306",44.876792907714844,-123.01448059082031
+"97302","Salem","OR","Minto-Brown Island City Park","Minto Island Rd.","97302",44.9232158597173,-123.0715573492874
+"97302","Salem","OR","Morningside Park","1340 Ewald Ave SE","97302",44.902622199999996,-123.028171
+"97302","Salem","OR","Oxbow Slough","2200 Minto Island Rd SW","97302",44.922675218554154,-123.07556354828192
+"97302","Salem","OR","Salem Audubon Nature Reserve","not_available","97304",44.939159461971855,-123.0670784363307
+"97302","Salem","OR","Glacemont Park","not_available","97302",44.907920941467694,-123.04168297574964
+"97302","Salem","OR","Parque del Club de Golf La Ceiba","Km 9 carretera Merida - Progreso","97302",44.9046074,-123.0826335
+"97302","Salem","OR","Geer Park","3272 Monroe Ave NE","97301",44.933562,-122.99331200000002
+"97302","Salem","OR","Candalaria Park","Candalaria Boulevard","97302",44.915632,-123.053717
+"97302","Salem","OR","Secor Park","not_available","97306",44.873748779296875,-123.06864166259766
+"97303","Salem","OR","Bob Newton Family Park","1300 Mandarin Way NE","97303",45.009559631347656,-123.01585388183594
+"97303","Salem","OR","Ben Miller Family Park","1595 Alder Dr NE","97303",44.98442459106445,-123.01380157470703
+"97303","Salem","OR","Denny Park","not_available","97305",44.97296456072403,-123.00761771256981
+"97303","Salem","OR","Kayakyolu 12 Mart Parkı","Kayakyolu","not_available",45.0040283203125,-123.01449584960938
+"97304","Salem","OR","Brush College Park","Brush College Rd NW","97304",44.97218010064849,-123.07637042052943
+"97305","Salem","OR","Hammond School Park","Bayne","not_available",44.994029058008636,-122.95643561748392
+"97306","Salem","OR","Joryville Park","Elmhurst Dr","97306",44.858058600244036,-123.08091854243321
+"97317","Salem","OR","Porter Boone park","1105 Mill Creek Road","97325",44.8411907799299,-122.87978656332021
+"97317","Salem","OR","Porter Boone Park, Aumsville, Oregon","not_available","97325",44.841225,-122.87979
+"97317","Salem","OR","Bonesteele County Park","6015-6223 Aumsville Hwy SE","97317",44.87960903826065,-122.93650828297942
+"97317","Salem","OR","Wild Wood Park","N 5th St","97325",44.845921,-122.869638
+"97317","Salem","OR","North Turner Lake","Turner Raod SE","97392",44.856515,-122.958837
+"97317","Salem","OR","Oregon State Fair","2330 17th St NE","97301",44.96077489175836,-123.00846626263466
+"97321","Albany","OR","Timber Linn Park","not_available","97322",44.635469359219115,-123.05701900501228
+"97321","Albany","OR","Talking Water Gardens","577 Waverly Dr NE","97321",44.64479881797946,-123.07296295211654
+"97321","Albany","OR","Waverly Park","3154 pacific blvd se","97322",44.641281635799075,-123.06709466642216
+"97321","Albany","OR","Monteith River Park","423 Water ST","97321",44.637900536545004,-123.11106353236646
+"97321","Albany","OR","Burkhart Park","not_available","97321",44.636346,-123.080846
+"97321","Albany","OR","Benton County Clubhouse","not_available","97330",44.671968,-123.214098
+"97321","Albany","OR","Millersburg City Park","3047-3249 Alexander Ln NE","97321",44.6874714848273,-123.0648845928439
+"97321","Albany","OR","Bryant Park","800-1010 Albany Corvallis Hwy","97321",44.63016886183692,-123.10960865227935
+"97321","Albany","OR","Timber Linn Frisbee Golf Course","900 SE Price Road","97321",44.636802673339844,-123.05365753173828
+"97321","Albany","OR","Galena Park","1101 Lawnridge St SW","97321",44.627689361572266,-123.1190185546875
+"97322","Albany","OR","Ralston Park","170 E Grant St","97355",44.53815841674805,-122.90479278564453
+"97322","Albany","OR","Century Park","201-469 S 6th St","97355",44.54346768993798,-122.91369589939961
+"97325","Aumsville","OR","Santiam Golf Course","not_available","97385",44.8280996943302,-122.82307026721138
+"97325","Aumsville","OR","Westown Park","362 N 3rd Ave","97383",44.7974967956543,-122.79187774658203
+"97325","Aumsville","OR","Community Center Park","not_available","97383",44.798867,-122.797053
+"97326","Blodgett","OR","Bellfountain Park","not_available","97326",44.56438,-123.7041
+"97330","Corvallis","OR","IM Fields","SW 26","not_available",44.56271385987786,-123.28172922500464
+"97330","Corvallis","OR","People's Park","Campus Way","97331",44.5664681595332,-123.27235844285507
+"97330","Corvallis","OR","Peavy Arboretum","8692 NW Peavy Arboretum Rd","97330",44.658732,-123.235171
+"97330","Corvallis","OR","Riverfront Park","1st stm","97333",44.564301063089026,-123.25841066670976
+"97330","Corvallis","OR","Howland Plaza","not_available","97333",44.562870235276165,-123.25910645912715
+"97330","Corvallis","OR","Franklin Square","16th Street","97330",44.572081343873215,-123.27040628732821
+"97330","Corvallis","OR","Osmanın Mekanı","not_available","97331",44.566099,-123.273558
+"97330","Corvallis","OR","College Hill West Historic District","2759 NW Arnold Way","97330",44.5711,-123.282216
+"97330","Corvallis","OR","Corvallis Fall Festival","600 SW Madison Ave","97333",44.564827,-123.264821
+"97330","Corvallis","OR","Willamette Park","SE Park Ave","97333",44.56684852998479,-123.24977226897516
+"97330","Corvallis","OR","Bayfront Park, Downtown Miami","301 Biscayne Blvd","33132",44.566366,-123.285548
+"97333","Corvallis","OR","Crystal Lake Sports Fields and Kendall Natural Area","1198 SE Fischer Ln.","97333",44.55038214127255,-123.25177367584007
+"97333","Corvallis","OR","Willamette Landing","SE Rivergreen Ave","97333",44.529440508216815,-123.25777519946467
+"97333","Corvallis","OR","peoria park","not_available","97377",44.454115972635,-123.20971412427731
+"97338","Dallas","OR","Dallas City Park","600 SW Allgood St","97338",44.925369729946716,-123.3240461057136
+"97338","Dallas","OR","Monmouth City Park","not_available","97361",44.849579,-123.234894
+"97338","Dallas","OR","Gala Park","Uglow","97338",44.92762975823206,-123.30706239514461
+"97338","Dallas","OR","kingsborough  park","not_available","97338",44.92256138129558,-123.30249488575235
+"97338","Dallas","OR","Basket Slough Viewpoint","11151-12375 Willamina-Salem Hwy","97338",44.95583520791552,-123.2770365027888
+"97338","Dallas","OR","Birch Park","Birch St","97338",44.91501370984343,-123.3246725373295
+"97341","Depoe Bay","OR","Boiler Bay State Wayside","Hwy 101","97341",44.82956421723301,-124.06482235187781
+"97341","Depoe Bay","OR","Otter Crest State Scenic Viewpoint","not_available","97341",44.78098855624617,-124.07293617159644
+"97342","Detroit","OR","Upper Arm Day Use Site","not_available","97342",44.74793120239219,-122.14103622715604
+"97347","Grand Ronde","OR","Day Use Park","not_available","97347",45.077426,-123.61961
+"97348","Halsey","OR","Halsey Memorial Park","not_available","97348",44.378207,-123.110007
+"97351","Independence","OR","South Fork Ash Creek Restoration Project","not_available","97351",44.84813799960044,-123.20500501360887
+"97355","Lebanon","OR","Columbus Park","not_available","97355",44.51751268323935,-122.9200406353295
+"97355","Lebanon","OR","Waterloo Park","39510 Gross St","97355",44.48814545995474,-122.81361032377235
+"97355","Lebanon","OR","Jaycee Park","4th Street","97355",44.533644,-122.911918
+"97355","Lebanon","OR","Weldwood","South Main","97355",44.5172301339435,-122.8959296733805
+"97355","Lebanon","OR","Booth Park","515 E Grant St","97355",44.53830337524414,-122.89932250976562
+"97355","Lebanon","OR","Roaring River Park","42050-42054 Fish Hatchery Dr","97374",44.62645228557653,-122.72705312360648
+"97358","Lyons","OR","Kimmel Park","not_available","97360",44.74492241302537,-122.47918861597545
+"97362","Mount Angel","OR","John B Humpert Park","not_available","97362",45.067630767822266,-122.78845977783203
+"97365","Newport","OR","Donald Davis Park","not_available","97365",44.63674228431831,-124.06257947963643
+"97365","Newport","OR","Frank V. Wade Memorial Park","1445 NE Big Creek Road","97365",44.64775848388672,-124.04872131347656
+"97365","Newport","OR","Sam Moore Parkway","656 NW High St.","97365",44.64092621,-124.05981747
+"97365","Newport","OR","Big Creek Park","2510 NE Big Creek Road","97365",44.65536117553711,-124.04206848144531
+"97365","Newport","OR","Agate Beach Neighborhood and Dog Park","185 NW 60th St.","97365",44.680484771728516,-124.06428527832031
+"97365","Newport","OR","Mombetsu Sister City Park","620 SW Neff Way","97365",44.6331174312016,-124.0596287512633
+"97365","Newport","OR","Mike Miller Park","4909 S Coast Hwy","97366",44.60301971435547,-124.05461120605469
+"97365","Newport","OR","Literacy Park","370 W. Olive St.","97365",44.636541,-124.057112
+"97367","Lincoln City","OR","Vic Hill Memorial Park","not_available","97367",44.961582,-124.016266
+"97367","Lincoln City","OR","Agnes Creek Open Space","999 SW Bard Rd.","97367",44.951511,-124.017189
+"97367","Lincoln City","OR","Dorchester Park","NW 28th and Neptune Streets","97367",44.985472701489336,-124.0106939473058
+"97367","Lincoln City","OR","Cutler Wetlands","not_available","97388",44.916903,-124.011476
+"97367","Lincoln City","OR","Fleet Street Park","Fleet Street","97367",44.915415,-124.017237
+"97377","Shedd","OR","Thompson's Mills State Heritage Site","32655 Boston Mill Dr","97377",44.4610710144043,-123.08209228515625
+"97378","Sheridan","OR","Deer Creek Park","not_available","97378",45.163868,-123.38727
+"97378","Sheridan","OR","Sheridan City Park","NE Yamhill Street","97378",45.10014834267098,-123.38870217963525
+"97378","Sheridan","OR","The Park","not_available","97396",45.07955957123801,-123.48530766772463
+"97380","Siletz","OR","Ichwhit Park","not_available","97380",44.775475,-123.91465
+"97381","Silverton","OR","Silverton City Park","not_available","97381",45.00125226666667,-122.782827
+"97381","Silverton","OR","Coolidge Mclaine Park","Coolidge Mclaine Park","97381",45.00160603097032,-122.7827317121935
+"97386","Sweet Home","OR","Sankey Park","not_available","97386",44.39414758648799,-122.72688833875013
+"97389","Tangent","OR","Oakville Park","not_available","97389",44.54476406453223,-123.11652258430622
+"97391","Toledo","OR","Frank Gray Joe Todd Memorial Park","not_available","97391",44.612408,-123.92874
+"97394","Waldport","OR","Cape Perpetua Viewpoint","Waldport, OR","97394",44.426463331052524,-124.06784533050129
+"97394","Waldport","OR","W. B. Nelson State Recreation Site","not_available","97394",44.41512,-124.035674
+"97401","Eugene","OR","jefferson park","not_available","97402",44.04255,-123.10355
+"97401","Eugene","OR","Charnel Mulligan Park","1618 Charnelton St","97401",44.04168405963738,-123.09605598449707
+"97401","Eugene","OR","Alton Baker Park","205 Day Island Rd","97401",44.056151697285294,-123.08100877824073
+"97401","Eugene","OR","Skinner Butte Park","10 Cheshire Ave","97401",44.0581969725122,-123.09263454421246
+"97401","Eugene","OR","Monroe Park","954 Monroe St","97402",44.04947727184332,-123.10552037817398
+"97401","Eugene","OR","Owens Rose Garden","196 N Jefferson St","97402",44.062950639510966,-123.10266494750977
+"97401","Eugene","OR","Riverplay Discovery Village","Cheshire Ave","97419",44.061225189682666,-123.09697484339995
+"97401","Eugene","OR","Alton Baker Park Pond","not_available","97401",44.052194,-123.063454
+"97401","Eugene","OR","Maurie Jacobs Park","301 N Adams St","97402",44.065800875058535,-123.11349193791023
+"97401","Eugene","OR","Sladden Park","198 N Adams St.","97402",44.06184046316271,-123.10726761817932
+"97401","Eugene","OR","Southwest Park Block","8th Ave.","97401",44.05067586603985,-123.09159278869629
+"97401","Eugene","OR","Rasor park","River Road","97404",44.073202828533184,-123.11628561378168
+"97401","Eugene","OR","Ascot Park","170 Bailey Ln","97401",44.071691058148524,-123.05889540850123
+"97401","Eugene","OR","River Wood","400 Adams St.","97402",44.055450439453125,-123.10661315917969
+"97401","Eugene","OR","Panda park","20th and Agate","97403",44.03853062696919,-123.06902435995296
+"97401","Eugene","OR","Lamb Cottage","248-298 Cheshire Ave","97401",44.060488,-123.09318386666666
+"97401","Eugene","OR","Nearby Nature","Alton Baker Park","97401",44.054242996646984,-123.07510137248761
+"97401","Eugene","OR","Kesey Square","2 E Broadway","97401",44.04984553901924,-123.09269574301096
+"97401","Eugene","OR","Fairmont Park","E 15th Ave & Fairmount Blvd","not_available",44.042926293041326,-123.06045484082534
+"97402","Eugene","OR","Westmoreland Park","Westmoreland City Park","97405",44.037720798588666,-123.11519074919562
+"97402","Eugene","OR","Zumwalt Park","not_available","97487",44.06420708690379,-123.30964123807533
+"97402","Eugene","OR","golden gardens park","golden gardens city park","not_available",44.09185221103277,-123.1781729611917
+"97402","Eugene","OR","Hawkins Heights City Park","Hawkins Heights","not_available",44.03590967317201,-123.13766661769887
+"97402","Eugene","OR","Petersen Barn","870 Berntzen Rd","97402",44.071947367635474,-123.15738683407415
+"97402","Eugene","OR","Perkins Peninsula County Park","88200-88242 Ellmaker Rd","97487",44.05471633622226,-123.29132080078125
+"97402","Eugene","OR","Richardson County Park","Richardson Park Rd","97448",44.121301020141345,-123.31358616195357
+"97402","Eugene","OR","Morse Ranch Park","285 Crest Dr","97405",44.021712715432194,-123.09990527143897
+"97402","Eugene","OR","Emerald Park","1400 Lake Dr","97404",44.08473228420574,-123.13761169720532
+"97402","Eugene","OR","Arrowhead Park","3500 Arrowhead St","97404",44.11448922592586,-123.15768241882324
+"97402","Eugene","OR","Fern Ridge Wildlife Area","27648-27690 Royal Ave.","97402",44.07054502267746,-123.25754426995543
+"97402","Eugene","OR","Churchill Sports Park","2120 Bailey Hill Rd","97405",44.03818130493164,-123.15362548828125
+"97402","Eugene","OR","Mangan City Park","Mangan St. and Wagner St.","97402",44.08653277013231,-123.16610816867154
+"97402","Eugene","OR","Dakota St City Park","Dakota St","97402",44.08803373,-123.19587533
+"97402","Eugene","OR","Filbert Meadows Park","Naismith Blvd. & Hyacinth St","not_available",44.119477113275934,-123.14872221844438
+"97402","Eugene","OR","Melvin Miller City Park","2400 Bowmont Dr","97405",44.03188606664456,-123.13398169961101
+"97403","Eugene","OR","Hendricks Park","2864 Fairmount Blvd","97403",44.03444952316638,-123.05854797363281
+"97403","Eugene","OR","Island Park","176 W B St","97477",44.04985062787118,-123.0296761810602
+"97403","Eugene","OR","Washburne Park","21st","97403",44.03796511161629,-123.06937968301591
+"97403","Eugene","OR","University Park","2362 University St","97405",44.033967597783565,-123.07559818658042
+"97403","Eugene","OR","Milton Park","3350 Potter","not_available",44.0216670613152,-123.07560072591434
+"97403","Eugene","OR","James Park","4140 E. 19th Ave","97403",44.04017518,-123.03135675
+"97404","Eugene","OR","Hileman Landing County Park","430 Hileman Ln","97404",44.138075,-123.12633799999999
+"97405","Eugene","OR","Washington Park","2025 Washington St","97405",44.03753778359977,-123.09925765368484
+"97405","Eugene","OR","Spencer Butte Park","Pruett Rd","97405",43.9817283304294,-123.09639691492006
+"97405","Eugene","OR","Amazon Park","Amazon Creek Path","97405",44.02666793995317,-123.08394712542285
+"97405","Eugene","OR","Tugman Park","3866 Hilyard St","97405",44.01596649843306,-123.08203429744579
+"97405","Eugene","OR","Adidas Amazon Trail","208 E 24th Ave","97401",44.03301287830632,-123.08788633302485
+"97405","Eugene","OR","Amazon Headwaters Keystone","West Amazon Drive","97405",43.99731944746012,-123.07682766455588
+"97405","Eugene","OR","Dorris Ranch","205 Dorris St","97477",44.03304859814616,-123.01949679925573
+"97405","Eugene","OR","Crest Heights City Park","not_available","97405",44.01705834986605,-123.11208591037449
+"97405","Eugene","OR","Willamette Heights Park","485-527 Park Ave","97477",44.03942948534082,-123.020165517098
+"97405","Eugene","OR","Skyview City Park","3020 Wintercreek Dr","97405",44.02333068847656,-123.14185333251953
+"97405","Eugene","OR","Volunteer Park","4350 Mt Vernon Rd","97478",44.037858,-122.960262
+"97408","Eugene","OR","Armitage Park","90064 Coburg Rd","97408",44.1113595397511,-123.05268970399868
+"97408","Eugene","OR","Harlow Road Park","Hartman Ln","not_available",44.08190489785838,-123.0425080648589
+"97408","Eugene","OR","Gilham Park","not_available","97408",44.09950366041992,-123.07438725060585
+"97408","Eugene","OR","Creekside Park","Crimson","97408",44.107125,-123.083028
+"97411","Bandon","OR","Seven Devils State Recreation Site","not_available","97411",43.23625620223714,-124.38561209263536
+"97411","Bandon","OR","Bandon City Park","1100 11th St SW","97411",43.11326599121094,-124.42803955078125
+"97411","Bandon","OR","Kronenburg County Park","846 Portland Ave SW","97411",43.113273833055615,-124.43375353040568
+"97413","Blue River","OR","Sahalie Falls","not_available","97413",44.346121,-121.999036
+"97414","Broadbent","OR","Coquille Myrtle Grove State Natural Site","not_available","97414",42.962332,-124.106766
+"97415","Brookings","OR","Azalea Park","Old county road","not_available",42.05801225990994,-124.2747008120025
+"97415","Brookings","OR","McVay Rock State Recreation Site","not_available","97415",42.01958824258042,-124.23673218289845
+"97415","Brookings","OR","Capella By The Sea","294-298 N Bank Chetco River Rd","97415",42.06105069442097,-124.26966726779938
+"97417","Canyonville","OR","Stanton Park","1540 Stanton Park Rd","97417",42.94695281982422,-123.29285430908203
+"97417","Canyonville","OR","Pioneer Park","SE Canyon St","97417",42.92637968,-123.27697465
+"97417","Canyonville","OR","Pickett Park","not_available","97417",42.94000193240737,-123.26412140586969
+"97420","Coos Bay","OR","Bastendorff Beach County Park","Bastendorff Beach Road","not_available",43.34129167985559,-124.34789322760382
+"97420","Coos Bay","OR","Airport Heights Park","Airport Ln.","97459",43.41358982308434,-124.25202369689941
+"97420","Coos Bay","OR","Ferry Road Park","not_available","97459",43.41931457931827,-124.22363329093267
+"97420","Coos Bay","OR","PArk","800 Exchange St","97459",43.390941,-124.22566294670105
+"97420","Coos Bay","OR","David Dewett Veterans Memorial","Hwy 101","not_available",43.450702986726895,-124.22531133593975
+"97420","Coos Bay","OR","Mingus Park","not_available","97420",43.370278508319096,-124.2228988845128
+"97420","Coos Bay","OR","Boynton Park","700 block Newmark ave","97459",43.391581505252866,-124.22512710723548
+"97424","Cottage Grove","OR","Bake Stewart Park","not_available","97424",43.746489,-122.892619
+"97424","Cottage Grove","OR","Yoncalla Community Park","not_available","97499",43.6027189505069,-123.27085435042454
+"97424","Cottage Grove","OR","Trailhead Park","Main St.","97424",43.795498065574556,-123.05815767757724
+"97424","Cottage Grove","OR","Cottage Grove Ranger District","78405 Cedar Park Rd","97424",43.79034423828125,-123.01815032958984
+"97431","Dexter","OR","Fall Creek State Recreation Area","Peninsula Rd.","97438",43.941487290479316,-122.74647761554182
+"97431","Dexter","OR","Dexter State Recreation Site","not_available","97431",43.917923497042,-122.81308796227185
+"97431","Dexter","OR","Lowell City Park","2-98 3rd St","97452",43.91900959629817,-122.78225898742676
+"97431","Dexter","OR","Dexter Lake","W North Shore Dr/Pengra Rd","not_available",43.91337162680242,-122.8004596597112
+"97431","Dexter","OR","Winberry","Winberry Creek Rd","97452",43.94048537226041,-122.7471908671146
+"97436","Elkton","OR","Alfred Tyson Park","not_available","97436",43.63702135885548,-123.57046731397877
+"97436","Elkton","OR","Umpqua State Scenic Corridor","not_available","97467",43.66124114034696,-123.73284118228128
+"97438","Fall Creek","OR","Jesse Maine Memorial Park","South 69th Place","97478",44.04075858185696,-122.90319442749023
+"97439","Florence","OR","18Th Street Pocket Park","not_available","97439",43.982677,-124.095146
+"97439","Florence","OR","Sweet Creek Trailhead","not_available","97453",43.953133,-123.902014
+"97439","Florence","OR","Lakeshore RV Park","83763 Highway 101","97439",43.9084084,-124.1119177
+"97441","Gardiner","OR","Lions Park","2001-2099 Elm Avenue","97467",43.69535389650875,-124.12068128585817
+"97441","Gardiner","OR","River Bend Park","100 River Bend Rd","97467",43.69576644897461,-124.10196685791016
+"97442","Glendale","OR","Wolf Creek Inn State Heritage Site","not_available","97526",42.72039451191547,-123.3836450107305
+"97442","Glendale","OR","Cow-Creek Rest Area","not_available","97442",42.75755173333334,-123.35286140441895
+"97443","Glide","OR","Swift Water Recreation Area","24813-24979 N Umpqua Hwy","97447",43.332937359809875,-123.00495743751526
+"97443","Glide","OR","Colliding River","Glide Loop","not_available",43.29780921102501,-123.10114319658854
+"97443","Glide","OR","Cavitt Creek Day Use Park","394 New Bridge Rd","97443",43.23665237426758,-123.01598358154297
+"97444","Gold Beach","OR","Arizona Beach State Recreation Site","not_available","97444",42.59830281826499,-124.39874827642784
+"97446","Harrisburg","OR","Festival Park","245 W 5th Ave","97448",44.2179871286775,-123.20268184393991
+"97446","Harrisburg","OR","Blue Star Memorial Highway","not_available","97448",44.27658777792267,-123.23944165216854
+"97446","Harrisburg","OR","Harrisburg Riverfont Park","not_available","97446",44.269921365074936,-123.17294294855661
+"97448","Junction City","OR","Orchard Point Park","27060 Clear Lake Rd","97402",44.11458566009334,-123.27857356696661
+"97448","Junction City","OR","Whisper-N-Oaks","96565 Hulbert Lake Rd","97448",44.284526,-123.26201
+"97449","Lakeside","OR","North Lake RV Resort & Marina","2090 N Lake Rd","97449",43.579252,-124.163809
+"97453","Mapleton","OR","Linslaw Park","15981 Florence-Eugene Highway","97490",43.999256,-123.69052
+"97457","Myrtle Creek","OR","Wildlife Safari","PO Box 1600","97496",43.14161044431275,-123.42796325683594
+"97457","Myrtle Creek","OR","South Umpqua Valley Industrial Park","Pruner","not_available",42.973040074933884,-123.34045952139425
+"97457","Myrtle Creek","OR","comunity park","not_available","97496",43.11643660335388,-123.40459791528261
+"97457","Myrtle Creek","OR","Millsite Park","441 SW 4th Ave","97457",43.02445983886719,-123.29391479492188
+"97462","Oakland","OR","Oakland City Park","not_available","97462",43.421161205022784,-123.29760251910211
+"97465","Port Orford","OR","Battle Rock Point","not_available","97465",42.74317652834223,-124.4926199526993
+"97467","Reedsport","OR","Scottsburg Park","not_available","97473",43.64959219635266,-123.83827066428168
+"97469","Riddle","OR","Island Creek Day Area","not_available","97469",42.922585,-123.44121
+"97470","Roseburg","OR","Stewart Park","NW Stewart Parkway","not_available",43.217317982751794,-123.37280880755115
+"97470","Roseburg","OR","Fir Grove Park","2079-2099 Centennial Dr","97471",43.214890348248815,-123.36636899158059
+"97470","Roseburg","OR","Hebe Square","748 SE Jackson St","97470",43.207411,-123.345514
+"97470","Roseburg","OR","Whistlers Bend Park","11154-12698 N Bank Rd","97470",43.31289,-123.21888
+"97470","Roseburg","OR","Micelli Park","1458 SE Micelli St","97470",43.20391800773647,-123.35623346395471
+"97470","Roseburg","OR","Park of Doom","Commercial st","not_available",43.215529686634625,-123.337909614405
+"97470","Roseburg","OR","O.C. Brown Park","2557 Buckhorn Rd","97470",43.206573486328125,-123.23210144042969
+"97470","Roseburg","OR","Templin Beach Park","SE Templin Ave","97471",43.209617598075596,-123.35376262664795
+"97470","Roseburg","OR","Sunshine Park","205 Sunshine Rd","97470",43.22041320800781,-123.27779388427734
+"97470","Roseburg","OR","Stewart Park Locomotive","not_available","97470",43.234426505661936,-123.370037072297
+"97470","Roseburg","OR","Beulah Park","NE Beulah Avenue","97470",43.22142428058178,-123.33809852600098
+"97470","Roseburg","OR","Laurelwood Park","W Riverside Dr","97470",43.21643717005465,-123.34870479171435
+"97470","Roseburg","OR","Music On The Half Shell","Stewart Parkway","97471",43.21692148771329,-123.37294017274458
+"97470","Roseburg","OR","Willis Park","744 SE Rose St","97470",43.2078971862793,-123.34626770019531
+"97471","Roseburg","OR","River Forks County Park","460 River Forks Park Rd","97471",43.27047176236563,-123.44395555403203
+"97471","Roseburg","OR","Singleton Park","Curry Road","97470",43.2677959616695,-123.44569985735788
+"97471","Roseburg","OR","Park Trail","Edenbower","not_available",43.234561920166016,-123.38229370117188
+"97477","Springfield","OR","Willamalane Center for Sports and Recreation","250 S 32nd St","97478",44.0441022140156,-122.98265818573742
+"97477","Springfield","OR","Meadow Park","851 Mill St.","97477",44.055327668320075,-123.02718647588739
+"97477","Springfield","OR","Willamalane Park","1276 G St","97477",44.05245401404884,-123.00759370773957
+"97477","Springfield","OR","Guy Lee Park","890 Darlene St.","97477",44.06878497809684,-123.03955051941145
+"97477","Springfield","OR","Native Plant Nursery","not_available","97478",44.04375,-122.9696
+"97477","Springfield","OR","32nd Street Sports Park","400 S. 32nd St.","97478",44.04200238270084,-122.98137247055799
+"97478","Springfield","OR","Dorothy Vickery Riverside Park","37082 Camp Creek Road","not_available",44.064388,-122.89323
+"97478","Springfield","OR","Lively Park Swim Center & Park","6100 Thurston Rd","97478",44.05567656165339,-122.91959737321375
+"97478","Springfield","OR","Quartz Park","Quartz Avenue","not_available",44.026809,-122.920679
+"97478","Springfield","OR","Thurston Park","6300 F St","97478",44.05007857298979,-122.91647322464169
+"97478","Springfield","OR","Bluebelle Park","50th Pl","97478",44.042810038108996,-122.9436206817627
+"97478","Springfield","OR","Deerhorn County Park","89065 Bridge St","97478",44.08927917480469,-122.7137451171875
+"97478","Springfield","OR","Rob Adams Park","890 Mountaingate Dr","97478",44.03690719604492,-122.92167663574219
+"97478","Springfield","OR","William S. Fort Memorial Park","Near 309-499 58th St","97478",44.048331650114584,-122.92757034301758
+"97487","Veneta","OR","Fern Park","24814 Parkside Dr","97487",44.046539306640625,-123.36111450195312
+"97487","Veneta","OR","Oregon Country Fair","Highway 126","97487",44.052919,-123.336755
+"97498","Yachats","OR","Yachats Ocean Road State Natural Site","not_available","97498",44.30713134994454,-124.10244681945287
+"97501","Medford","OR","The Commons","5th St","not_available",42.328428747693444,-122.87199523083146
+"97501","Medford","OR","Creekside Park","not_available","97530",42.317018,-122.964801
+"97501","Medford","OR","Doc Griffin Park","298 S 5th St","97530",42.312728,-122.966883
+"97501","Medford","OR","Hawthorne Park","501 E. Main St.","97504",42.32860259492489,-122.86901276561589
+"97501","Medford","OR","Bear Creek Park","1520 Siskiyou Blvd.","97504",42.32017655442162,-122.85281181335448
+"97501","Medford","OR","Britt Pavilion","350 First St","97530",42.31396433807685,-122.97145975408883
+"97501","Medford","OR","Fichtner-Mainwaring Park","334 Holmes Ave.","97501",42.31041418584542,-122.86897142010568
+"97501","Medford","OR","Ruhl Park","2352 Hillcrest Rd.","97504",42.32944107055664,-122.84110260009766
+"97501","Medford","OR","Railroad Park","2222 Table Rock Rd","97501",42.349621,-122.88085600000001
+"97501","Medford","OR","Donahue-Frohnmayer Park","1678 Spring St.","97504",42.33896664009805,-122.84740447998047
+"97501","Medford","OR","hidden park","1324 Fortune Dr","97504",42.322371999999994,-122.856857
+"97501","Medford","OR","Union Park","42.31843	-122.88671","not_available",42.3193673997898,-122.88690805435182
+"97501","Medford","OR","Bear Creek Park BMX Track","Highland Dr. & E. Barnett Rd.","97504",42.31778872501609,-122.85075187683105
+"97501","Medford","OR","Cascade Meadows Park","852 S. Haskell St","97502",42.36397171020508,-122.91242980957031
+"97501","Medford","OR","Alba Park","301 W. Main St.","97501",42.323951721191406,-122.87599182128906
+"97501","Medford","OR","Holmes Park","185 S. Modoc Ave.","97504",42.325706481933594,-122.84050750732422
+"97501","Medford","OR","Lone Pine Spray Park","Lone Pine Rd.","97504",42.345215538509045,-122.82990574836731
+"97501","Medford","OR","YMCA of Medford","522 W 6th St","97501",42.324727,-122.879817
+"97501","Medford","OR","Lewis Park","130 Lewis Ave.","97501",42.32059860229492,-122.89563751220703
+"97501","Medford","OR","fic","not_available","97501",42.309562070182714,-122.86981332771784
+"97502","Central Point","OR","Touvelle Park","not_available","97502",42.44202548321091,-122.8860507441753
+"97502","Central Point","OR","Gold Hill City Park","Second Ave.","97525",42.43101397345901,-123.04422842874006
+"97502","Central Point","OR","Don Jones Memorial Park","223 W Vilas Rd","97502",42.388107776641846,-122.89023543
+"97502","Central Point","OR","William Mott Memorial Park","2190 Jeremy St","97502",42.391617,-122.89572700000001
+"97502","Central Point","OR","Twin Creeks Park","555 Twin Creeks Crossing","97502",42.37933087547415,-122.92983228866404
+"97502","Central Point","OR","Flanagan Park","200 Tiffany Ave.","97502",42.36632537841797,-122.92160034179688
+"97502","Central Point","OR","Burns Park","7810 Division Rd","97503",42.430469112036036,-122.84577369689941
+"97502","Central Point","OR","Cascade Community Pool","7800 Division Rd","97503",42.430040000000005,-122.84553700000001
+"97502","Central Point","OR","Fleming Memorial Park","not_available","97527",42.41185301944681,-122.84203212661296
+"97502","Central Point","OR","Forest Glen Park","1101 Gatepark Dr.","97502",42.369247433971964,-122.88580634659247
+"97502","Central Point","OR","Harnish Wayside Park & Interpretive Center","Crater Lake Hwy","97524",42.46326464525983,-122.81493902206421
+"97503","White City","OR","Mattie Brown Park","S. Royal Ave.","97524",42.47066116333008,-122.80268859863281
+"97503","White City","OR","Upper Rogue Regional County Park","7660 Rogue River Dr","97539",42.613871,-122.814949
+"97504","Medford","OR","Blue Heron Park","Bear Creek Dr","97530",42.27226939068762,-122.81015657382459
+"97504","Medford","OR","Prescott Park / Roxy Ann Peak","3030 Roxy Ann Rd.","97504",42.34538206156958,-122.78614282608031
+"97504","Medford","OR","Colver Park","Colver Rd","97530",42.26482862576423,-122.8176212310791
+"97520","Ashland","OR","Lithia Park","59 Winburn Way","97520",42.19652762393222,-122.71588042341762
+"97520","Ashland","OR","Upper Duck Pond","not_available","97520",42.19093790569797,-122.71838148642139
+"97520","Ashland","OR","Garfield Park","1230 E Main St","97520",42.19402931787603,-122.69544124603271
+"97520","Ashland","OR","North Mountain Park & Nature Center","N Mountain Ave","97520",42.202843600970056,-122.70030677589934
+"97520","Ashland","OR","Glenwood Park","Ashland St","97520",42.18636851062687,-122.70189285869512
+"97520","Ashland","OR","Liberty Street Park","Liberty St","97520",42.180324235494865,-122.70411014556885
+"97520","Ashland","OR","Lithia Park Wading Pool","Lithia Park","97520",42.19515515657784,-122.71667413951134
+"97520","Ashland","OR","Railroad Park","A St","97520",42.19755386191788,-122.70388423679226
+"97520","Ashland","OR","Hunter Park","1751 Holmes Ave","97520",42.18797648459783,-122.68405759184822
+"97520","Ashland","OR","Clay Street Park","Faith Ave & Clay St","97520",42.18375542477882,-122.67912507828414
+"97520","Ashland","OR","OSF Bill Patton Garden","Hagardine St. & S. Pioneer St.","97520",42.19640196686365,-122.71457344293594
+"97520","Ashland","OR","Bluebird Park","Water St","97520",42.19837519450878,-122.715680338392
+"97520","Ashland","OR","Triangle Park","Siskiyou Blvd","97520",42.19055143761922,-122.70277642151605
+"97524","Eagle Point","OR","Chamberlain Park","Crystal Dr","97524",42.481624226569245,-122.79242992401123
+"97525","Gold Hill","OR","Valley of the Rogue State Park & Rest Area","3792 N River Rd","97525",42.41195590810327,-123.12849998474121
+"97525","Gold Hill","OR","Palmerton Park","W Evans Creek Rd","97537",42.43974546129483,-123.17354715193528
+"97526","Grants Pass","OR","Reinhart Volunteer Park (All Sports Park)","1690 Webster Road","97526",42.429124947404596,-123.34894052309775
+"97526","Grants Pass","OR","Riverside Park","304 E Park St","97527",42.42963240899656,-123.32856618207879
+"97526","Grants Pass","OR","Robert C Martin Park","Bridge St","97526",42.4348030090332,-123.33198547363281
+"97526","Grants Pass","OR","Tussing Park","800 W Park St","97527",42.42692947387695,-123.34525299072266
+"97526","Grants Pass","OR","Baker park","760 E Park St","97527",42.427926,-123.320415
+"97526","Grants Pass","OR","Gilbert Creek Park","NW Hillcrest Dr & NW Hawthorne Ave","97526",42.45786130428314,-123.32800791666666
+"97526","Grants Pass","OR","Wildlife Images Rehabilitation","11845 Lower River Rd","97526",42.49033,-123.47526299999998
+"97526","Grants Pass","OR","Redwood Park","1395 Dowell Rd","97527",42.4244,-123.36631200000001
+"97526","Grants Pass","OR","Kesterson Park","1000 6th Street","97526",42.44758224487305,-123.32225036621094
+"97526","Grants Pass","OR","Josephine County Sportsmans Park","7407 Highland Ave","97526",42.53183364868164,-123.36781311035156
+"97526","Grants Pass","OR","Merlin Veterans Walk Of Honor","not_available","97532",42.513642,-123.418613
+"97527","Grants Pass","OR","Indian Mary Park","Grants Pass,OR,97527","97527",42.549160555558764,-123.50160095231404
+"97540","Talent","OR","city of talent dog park","not_available","97540",42.238816730569475,-122.77812796178635
+"97601","Klamath Falls","OR","Moore Park","not_available","97601",42.232971910182265,-121.80884907738576
+"97601","Klamath Falls","OR","Klamath County Park - Williamson River","330 S Chiloquin Blvd","97624",42.5765495300293,-121.874755859375
+"97601","Klamath Falls","OR","Running Y Golf Course","5790 Coopers Hawk Rd","97601",42.277075517131294,-121.88491900863272
+"97601","Klamath Falls","OR","Wiard Park","not_available","97603",42.200800531746886,-121.72850006647424
+"97601","Klamath Falls","OR","Klamath Sportsman Park","2281 Highway 66","not_available",42.12130613431591,-121.94507096192125
+"97601","Klamath Falls","OR","Henzel Park","Henzel Park","97624",42.529179,-121.928464
+"97601","Klamath Falls","OR","Crest Park","Crest St","97603",42.200060178873905,-121.74206446785148
+"97601","Klamath Falls","OR","Miller Island","1850 Miller Island Rd","97603",42.147159576416016,-121.84326171875
+"97601","Klamath Falls","OR","Fairview Park","1500 Worden Ave","97601",42.23552,-121.78558
+"97601","Klamath Falls","OR","Putnam's Point","Co Hwy 630","97601",42.238454997119426,-121.80710971355438
+"97603","Klamath Falls","OR","Klamath Hills","3223 Lower Klamath Lake Road","not_available",42.06130558750949,-121.75027370452881
+"97603","Klamath Falls","OR","Merill City Park","not_available","97632",42.023937,-121.59713
+"97603","Klamath Falls","OR","Merrill Rest Area","not_available","97633",42.02365654053288,-121.60205582867326
+"97623","Bonanza","OR","Big Springs Park","Main St","97623",42.198884,-121.40113323333334
+"97630","Lakeview","OR","Chandler State Wayside","not_available","97630",42.407102,-120.289682
+"97630","Lakeview","OR","Summer Lake Rest Stop","OR-31","97636",42.608199,-120.428273
+"97630","Lakeview","OR","Goose Lake State Recreation Area","not_available","97635",41.99424002055523,-120.32431146741291
+"97701","Bend","OR","Drake Park","777 NW Riverside Blvd.","97701",44.06175966682158,-121.31725387759585
+"97701","Bend","OR","Riverbend Park","799 SW Columbia St","97702",44.04274685956325,-121.32119190277362
+"97701","Bend","OR","Pioneer Park","1525 Wall Street","97701",44.064731451566395,-121.30965303114151
+"97701","Bend","OR","Newberry National Volcanic Monument","not_available","97702",43.909647381889755,-121.35732462044128
+"97701","Bend","OR","Farewell Bend Park","1000 SW Reed Market Rd","97702",44.04090907534791,-121.32547867485133
+"97701","Bend","OR","Shevlin Park","18920 Shevlin Park Rd","97703",44.081653726625206,-121.37793397290275
+"97701","Bend","OR","Pageant Park","691 NW Drake Rd","not_available",44.06063774862594,-121.32144212722777
+"97701","Bend","OR","River Rim Park","19400 Charleswood Ln.","97702",44.01467514038086,-121.35511779785156
+"97701","Bend","OR","McKay Park","166 SW Shevlin Hixon Drive","97701",44.05019025551328,-121.32192094937332
+"97701","Bend","OR","Columbia Park","264 SW Columbia Street","97701",44.05299316707474,-121.32591193726404
+"97701","Bend","OR","Fort Rock Park","not_available","97707",43.88961327197038,-121.4297367683982
+"97701","Bend","OR","Wildflower Park","River Rim Drive","97702",44.01473435886644,-121.35062998642623
+"97701","Bend","OR","Compass Park","2500 NW Crossing Drive","97701",44.05863317010351,-121.35193347930908
+"97701","Bend","OR","Lava Lands","58201 S US Hwy. 97","97702",43.90967839623857,-121.35727255279357
+"97701","Bend","OR","Hollinshead Park","1235 NE Jones Rd","97701",44.07056712136043,-121.28734588623047
+"97701","Bend","OR","First Street Rapids Park","not_available","97701",44.06738073893824,-121.3138808632031
+"97701","Bend","OR","Mountain View Park","1975 NE Providence Dr","not_available",44.07011413574219,-121.25680541992188
+"97701","Bend","OR","Miller's Landing","80 NW Riverside Blvd","97703",44.051822662353516,-121.32080078125
+"97701","Bend","OR","Village Green City Park","375 S Fir St","97759",44.28939625735921,-121.54918401879151
+"97701","Bend","OR","Bend Park & Recreation District","200 NW Pacific Park Ln,","97703",44.063144,-121.311668
+"97701","Bend","OR","Hayden Park","1964 SW 35th Pl","97756",44.25770568847656,-121.20865631103516
+"97701","Bend","OR","Ponderosa Park","SE 15th Street","not_available",44.04782960713104,-121.28538788095756
+"97701","Bend","OR","Blakely Park","1155 SW Brookswood","97702",44.03734342183714,-121.31783413974476
+"97701","Bend","OR","Hollygrape Park","19433 Hollygrape St.","97702",44.01604937019983,-121.34460915841755
+"97701","Bend","OR","Canal Row Park","1630 ne Butler Market","97701",44.0808,-121.281944
+"97702","Bend","OR","Foxborough Park","Foxborough street","97702",44.02767864148821,-121.29177549242888
+"97702","Bend","OR","S. Creamer Park","Desert Stream Place","97702",44.022648,-121.280927
+"97702","Bend","OR","Overturf Park","475 NW 17th St","97701",44.05459976196289,-121.33883666992188
+"97702","Bend","OR","Woodriver Park","61690 Woodriver Drive","not_available",44.03982925415039,-121.32062530517578
+"97702","Bend","OR","Jaycee Park","478 SE Railroad St","97701",44.04868698120117,-121.29912567138672
+"97702","Bend","OR","Sunridge Common Lands","Chickasaw Way","97702",43.99219700820562,-121.16928577423096
+"97702","Bend","OR","Blakely Park","Brookswood & Hillwood","not_available",44.05455068555384,-121.31501984660571
+"97702","Bend","OR","Larkspur Park","1700 SE Reed Market Road","97702",44.037333893955555,-121.28379476137148
+"97731","Chemult","OR","Walt Haring Sno-Park","not_available","97731",43.226208660995425,-121.79513548136235
+"97734","Culver","OR","Peter Skene Ogden State Scenic Viewpoint","not_available","97760",44.3907408476308,-121.19271426668614
+"97734","Culver","OR","Juniper Hills Park Madras OR","E Ashwood","97741",44.62273808047,-121.12736089566597
+"97734","Culver","OR","Bean Park","686 East B Street","not_available",44.63634,-121.11566
+"97734","Culver","OR","Little Park","not_available","97741",44.589153,-121.172901
+"97753","Powell Butte","OR","Crooked River Wetlands","not_available","97754",44.31613,-120.895454
+"97754","Prineville","OR","Ochoco Creek Park","NE 4th St","not_available",44.3038422187936,-120.8380313760244
+"97754","Prineville","OR","Harwood Park","700 NW Harwood Ave","97754",44.30694626881009,-120.85591608838924
+"97754","Prineville","OR","Parks And Recreation Bench","bike path","97754",44.30442,-120.84202
+"97756","Redmond","OR","Redmond Centennial Park","750 SW Evergreen Avenue","97756",44.272831053501804,-121.174731475203
+"97756","Redmond","OR","Horsefield outdoors","NE 9th Street","97756",44.297546,-121.157892
+"97756","Redmond","OR","Sam Johnson Park Great Strides","not_available","97756",44.21791377811029,-121.21554065762656
+"97756","Redmond","OR","Valleyview Park","3660 SW Reservoir Drive","97756",44.24949645996094,-121.21089935302734
+"97756","Redmond","OR","American Legion Park","900 SW Rimrock Ave","97756",44.26850777856686,-121.19046753137714
+"97756","Redmond","OR","kalama city park","1624 SW Kalama age","97756",44.266634,-121.186474
+"97756","Redmond","OR","Fountain","435 SW 7th St","97756",44.2728385925293,-121.17559051513672
+"97756","Redmond","OR","Fairhaven Park","370 NW 25th St","97756",44.277424280720574,-121.19646847263444
+"97759","Sisters","OR","Creekside City Park","not_available","97759",44.28853046770742,-121.54277801513672
+"97801","Pendleton","OR","Roy Raley Park","1001-1199 SW Court Ave","97801",45.669972328728726,-118.79826908831011
+"97801","Pendleton","OR","Grecian Heights Park","Tutuilla Road","97801",45.65152476332837,-118.79125244221845
+"97801","Pendleton","OR","Elliott Memorial Park","Water st.","97886",45.811646260668006,-118.42455739096289
+"97801","Pendleton","OR","Rice-Blakey Park","2252 SW Quinney Ave","97801",45.650679,-118.806932
+"97801","Pendleton","OR","Pendleton Community Park (West)","1200 SW 44th St, Pendleton, OR 97801","97801",45.65403864527203,-118.82140640832333
+"97801","Pendleton","OR","July Grounds","July Grounds Ln","97801",45.66608950706917,-118.66319722462023
+"97801","Pendleton","OR","Wetlands Community Park","not_available","97801",45.66490936279297,-118.65859985351562
+"97801","Pendleton","OR","Aldridge Park","nw 12th st","97801",45.681317283333335,-118.79871583333333
+"97801","Pendleton","OR","pilot rock park","not_available","97868",45.4795,-118.8323
+"97801","Pendleton","OR","Pendleton Community Park (East)","1000 SW 37th St, Pendleton, OR 97801","97801",45.6533317565918,-118.82200622558594
+"97814","Baker City","OR","River Walk","3085 Resort St","97814",44.78706359863281,-117.8292007446289
+"97814","Baker City","OR","Dick Camp Memorial Park","Front St","not_available",44.91089630126953,-117.9380874633789
+"97818","Boardman","OR","Boardman Park","not_available","97818",45.84205945640932,-119.71334177179848
+"97820","Canyon City","OR","Canyon City Park","not_available","97820",44.388686,-118.949616
+"97823","Condon","OR","Dyer State Wayside","not_available","97823",45.1247504,-120.1874183
+"97825","Dayville","OR","John Day Fossil Beds National Monument (Sheep Rock Unit)","not_available","97845",44.552988,-119.64609
+"97825","Dayville","OR","Mascall Formation Overlook","Dayville, OR 97825","97825",44.50019862,-119.62206801
+"97825","Dayville","OR","Dayville park","not_available","97825",44.4665,-119.534327
+"97826","Echo","OR","Fort Henrietta Park","not_available","97826",45.742033,-119.198248
+"97827","Elgin","OR","Elgin Community Center","not_available","97827",45.567752838134766,-117.9201431274414
+"97837","Hereford","OR","Unity Lake State Recreation Site","not_available","97884",44.498889,-118.187222
+"97838","Hermiston","OR","Hemiston Softball","not_available","97838",45.84564,-119.299115
+"97838","Hermiston","OR","Mcnary Ponds","Cline Ave","97882",45.92748406036296,-119.32614911680805
+"97838","Hermiston","OR","Tremor Memorial Park","hwy. 730","97844",45.845,-119.50861111111111
+"97838","Hermiston","OR","Hodge Park","100-198 E Highland Ave","97838",45.83478927612305,-119.28932547569275
+"97838","Hermiston","OR","Mckenzie Park","201-299 W Orchard Ave","97838",45.83869847096039,-119.29256042835098
+"97838","Hermiston","OR","West park","not_available","97882",45.925748788885926,-119.30644085510325
+"97850","La Grande","OR","Riverside Park","62038-62084 Fruitdale Ln","97850",45.343416307798606,-118.08489757201954
+"97850","La Grande","OR","Gangloff Park","not_available","97850",45.335941,-118.108129
+"97850","La Grande","OR","Garden Club Park","Y Ave","97850",45.33604164577525,-118.09150750278688
+"97850","La Grande","OR","Union City Park","not_available","97883",45.21063216291299,-117.86561845049037
+"97862","Milton Freewater","OR","Marie Dorion Park","not_available","97862",45.908197,-118.370208
+"97865","Mount Vernon","OR","Mount Vernon City Park","not_available","97865",44.417305,-119.11085
+"97869","Prairie City","OR","Zelma Woods Park","not_available","97869",44.46182,-118.711317
+"97877","Sumpter","OR","Sumpter Valley Dredge State Heritage Area","not_available","97877",44.7952001,-118.3939852
+"97880","Ukiah","OR","Ukiah Dale Forest State Scenic Corridor","not_available","97880",45.12542,-118.97165
+"97884","Unity","OR","Unity Forest State Scenic Corridor","not_available","97908",44.371273,-118.112986
+"97885","Wallowa","OR","Minam State Recreation Area","not_available","97885",45.783201,-117.717698
+"97907","Huntington","OR","Lee Stevenson Memorial Lions Park","not_available","97907",44.351246,-117.26785
+"97910","Jordan Valley","OR","Sunrise Skypark","Airpark Loop Rd","83686",43.420169830322266,-116.70746612548828
+"97910","Jordan Valley","OR","Jubilee Park","not_available","83686",43.416540354334735,-116.86332153260489
+"97913","Nyssa","OR","Cow Hollow Park","Janeta Ave","97913",43.81681442260742,-117.12041473388672
+"97913","Nyssa","OR","Thunderegg Memorial Park","not_available","97913",43.877007,-116.99971
+"97914","Ontario","OR","Beck-Kiwanis Park","NW 7th St","97914",44.036823248673514,-116.96914921050025
+"97914","Ontario","OR","Kiwanas park","not_available","83661",44.068356680634324,-116.93596597141749
+"97914","Ontario","OR","Wadleigh City Park","515 Longfellow St S","97918",43.978946685791016,-117.24020385742188
+"97914","Ontario","OR","Lewin Memorial Park","Clark St N","not_available",43.98212814331055,-117.24967956542969
+"97914","Ontario","OR","Lions Park","790 SW 3rd Ave","97914",44.025489807128906,-116.97389221191406
+"97914","Ontario","OR","Weiser Sports Complex","E. Park","not_available",44.24869239733394,-116.96543268138613
+"97914","Ontario","OR","Laxson's Park","not_available","97914",44.03055,-116.96754
+"97914","Ontario","OR","Moore Park","Oregon St","97914",44.02599525705622,-116.96585655212401

@@ -1,0 +1,106 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"59007","Bearcreek","MT","Beartooth Hospital and Healthcare","600 W 21st St","59068",45.17729187011719,-109.25440216064453
+"59008","Belfry","MT","Beartooth Billings Clinic","not_available","59068",45.212247,-109.243882
+"59011","Big Timber","MT","Pioneer Medical Center","not_available","not_available",45.82790701638368,-109.95214273997037
+"59022","Crow Agency","MT","Crow/Northern Cheyenne Indian Hospital","100 Hospital Drive","59022",45.58220847715823,-107.44937896728516
+"59044","Laurel","MT","BioLife Plasma Services","2300 Grant Rd.","59102",45.75184849487549,-108.57340231436265
+"59044","Laurel","MT","Total Eye Care | Billings Eye Doctor","795 King Park Dr #2","59102",45.7557224,-108.5680338
+"59044","Laurel","MT","Richard Stewart, NP","2019 Broadwater Ave","59102",45.77752460339718,-108.56642782688141
+"59044","Laurel","MT","prime Medical Supplies","not_available","59102",45.75141280565853,-108.5766386786097
+"59044","Laurel","MT","Advanced Care Hospital Of Montana","3528 Gabel Rd","59102",45.7431221,-108.6047274
+"59044","Laurel","MT","Billings Health And Rehabilitation Community","2090-2200 St Johns Ave","59102",45.769902197448964,-108.57052667441566
+"59047","Livingston","MT","Livingston Healthcare","320 Alpenglow Ln","59047",45.6751954,-110.5268412
+"59047","Livingston","MT","LHC UrgentCare Clinic","104 Centennial Dr Ste 103","59047",45.641944885253906,-110.57339477539062
+"59047","Livingston","MT","Livingston Memorial Hospital","not_available","59047",45.649267,-110.569262
+"59074","Ryegate","MT","Grady Hospital","80 Jessie Rd, Ryegate, Mt 59074","59074",46.3736457824707,-109.28313446044922
+"59101","Billings","MT","St. Vincent Healthcare","1233 N 30th St","59101",45.7934793628791,-108.51945161819452
+"59101","Billings","MT","Billings Clinic Hospital","2800 10th Ave N","59101",45.788726642598846,-108.51300320391627
+"59101","Billings","MT","Billings Clinic Fish Room - PACU","not_available","59101",45.78958860831053,-108.51313195304623
+"59101","Billings","MT","Family Birthing Center: Billings Clinc","2900 10th Ave N","59101",45.79025579492786,-108.51303063108101
+"59101","Billings","MT","St. Vincent Healthcare Neuroscience Center","1041 N 29th St","59101",45.79174572808723,-108.51588479506731
+"59105","Billings","MT","Eagle Cliff Manor","Yellostone River Drive","not_available",45.8189293052151,-108.44893190347328
+"59215","Circle","MT","McCone County Health Center","not_available","59215",47.418284,-105.580169
+"59230","Glasgow","MT","FRANCES MAHON DEACONESS HOSPITAL","not_available","59230",48.19388736657613,-106.62413119996165
+"59254","Plentywood","MT","Sheridan Memorial Hospital","not_available","59254",48.779216,-104.563179
+"59270","Sidney","MT","Sidney Health Center","100-316 14th Ave SW","59270",47.715329,-104.173004
+"59301","Miles City","MT","Steven Maertens, MD","2600 Wilson St","59301",46.395311851589135,-105.82783341407782
+"59301","Miles City","MT","vetetans admimistration","not_available","59301",46.4039421081543,-105.83436584472656
+"59327","Forsyth","MT","Rosebud Healthcare Center","not_available","59327",46.27146229760636,-106.67052790773734
+"59330","Glendive","MT","Glendive Medical Center","202 Prospect Dr","59330",47.117664,-104.703999
+"59404","Great Falls","MT","Benefis Medical Professional Center","1401 25th St S","59405",47.49101590863069,-111.26338778634246
+"59404","Great Falls","MT","BioLife Plasma Services","1901 Market Place Dr","59404",47.48050533769083,-111.34662228221254
+"59404","Great Falls","MT","Missouri River Manor","not_available","59405",47.48662567138672,-111.28819274902344
+"59404","Great Falls","MT","Benefis Healthcare","2601-2799 11th Ave S","59405",47.49178005031261,-111.26189047540721
+"59404","Great Falls","MT","Benefis West","5th St S","59405",47.48947176616594,-111.29928983791581
+"59404","Great Falls","MT","Great Falls Clinic Hospital","3010 15th Ave S","59405",47.4889764,-111.2565935
+"59404","Great Falls","MT","Benefits Hospital","not_available","59401",47.49172336185783,-111.26190278686708
+"59417","Browning","MT","Blackfeet Community Hospital","Hospital Drive","not_available",48.56565980286134,-113.01920745590995
+"59425","Conrad","MT","Pondera Medical Center","not_available","59425",48.1746711730957,-111.95912170410156
+"59427","Cut Bank","MT","Northern Rockies Medical Center","not_available","59427",48.628245,-112.326706
+"59442","Fort Benton","MT","Big Sandy Medical Center","166 Montana Ave","59520",48.178792,-110.108301
+"59442","Fort Benton","MT","Missouri River Medical Center","not_available","59442",47.820376,-110.672169
+"59501","Havre","MT","Northern Montana Hospital","not_available","59501",48.53864668556548,-109.68554213983742
+"59526","Harlem","MT","Columbia Asia Sdn Bhd ","12th Floor, West Wing, Wisma Consplant 2,","47500",48.79069383738754,-108.5888671875
+"59601","Helena","MT","Samu Hospital Regional Antofagasta","not_available","59601",46.60590362548828,-112.02359771728516
+"59601","Helena","MT","St. Peter's Hospital","2475 E Broadway St","59601",46.58243639210382,-111.99702353946228
+"59601","Helena","MT","St. Peter's Urgent Care","2550 E Broadway St","59601",46.5849145,-111.9955003
+"59601","Helena","MT","Urgent Care Plus","39 Neill Ave","59601",46.592803,-112.03694
+"59601","Helena","MT","Shodair children's hospital","2801 Colonial Dr","59601",46.582146,-111.989242
+"59601","Helena","MT","VA Medical Center and Ambulatory Care Clinic","3687 Veterans Dr","59636",46.61859893798828,-112.1019287109375
+"59601","Helena","MT","Hospice of St. Peter's","201 S California St","59601",46.583064252615436,-111.99944883584976
+"59644","Townsend","MT","Broadwater Health Center","not_available","59644",46.321868896484375,-111.5162353515625
+"59701","Butte","MT","St James Healthcare","400 S Clark St","59701",46.00854281098201,-112.54561364650726
+"59714","Belgrade","MT","Belgrade Urgent care","not_available","59714",45.779299,-111.182328
+"59715","Bozeman","MT","Bozeman Deaconess Hospital","915 Highland Blvd","59715",45.6698461,-111.019974
+"59715","Bozeman","MT","Bozeman Urgent Care","1006 W Main St","59715",45.678994,-111.051118
+"59715","Bozeman","MT","B2 Microcare Clinic","1805 Oak St","59715",45.6934700012207,-111.06121063232422
+"59715","Bozeman","MT","Family Urgent Care","120 S 19th Ave","59715",45.681122,-111.061302
+"59715","Bozeman","MT","American Medical Response","2101 Industrial Dr","59715",45.700514,-111.034008
+"59715","Bozeman","MT","Acorn Pediatrics","1819 S 22nd Ave #100","59718",45.688422,-111.064641
+"59715","Bozeman","MT","SW Montana Plastic Surgery","300 N Willson Ave Ste 300C","59715",45.68252182006836,-111.03826904296875
+"59715","Bozeman","MT","Vance Thompson Vision - Bozeman","1925 North 22nd Avenue #201","59718",45.687393,-111.061796
+"59716","Big Sky","MT","b2 UrgentCare Big Sky","100 Beaverhead Dr","59716",45.28718154530252,-111.40339606277047
+"59718","Bozeman","MT","Build Physio & Performance","609 Pronghorn Trail Suite C","59718",45.6762478,-111.1846325
+"59722","Deer Lodge","MT","Deer Lodge Medical Center","not_available","59722",46.41288781936048,-112.72658487353942
+"59722","Deer Lodge","MT","Deer Lodge Medical Center","1100 Hollenbeck Ln","59722",46.41331481933594,-112.72679138183594
+"59725","Dillon","MT","Beaverhead Urgent Care","120 S Atlantic St","59725",45.214210510253906,-112.63484954833984
+"59725","Dillon","MT","Barrett Memorial Hospital","90 Hwy 91 S","59725",45.20678353147039,-112.6428662043779
+"59729","Ennis","MT","Madison Valley Medical Center","not_available","59729",45.35176086425781,-111.73197174072266
+"59740","Mc Allister","MT","Ruby Valley Medical Center","not_available","59749",45.45232884842122,-111.95650783749811
+"59801","Missoula","MT","Community FirstCare","2307 Brooks St","59801",46.84992980957031,-114.01766204833984
+"59801","Missoula","MT","Med Clinic","not_available","59808",46.87483383056068,-114.0249977667573
+"59801","Missoula","MT","Flower Medical MMJ Dispensary on Brooks","2710 Brooks St, Unit 3","59801",46.8454549,-114.0223384
+"59801","Missoula","MT","Flower Medical MMJ Dispensary","133 N Higgins Ave","59802",46.8709974,-113.9950869
+"59801","Missoula","MT","Community Medical Center","not_available","59801",46.84721829896202,-114.02078356828625
+"59801","Missoula","MT","Community FirstCare","323 East Front Street","59802",46.869421,-113.991725
+"59801","Missoula","MT","GUIDED HEALING TRAILS","500 N Higgins Avenue","59802",46.8741662,-113.9921517
+"59801","Missoula","MT","Providence St. Patrick Hospital","500 W Broadway","59802",46.875335693359375,-114.00019073486328
+"59801","Missoula","MT","St. Patrick's Hospital","500 West Broadway Street","59802",46.87581893582898,-114.00038413962518
+"59802","Missoula","MT","BioLife Plasma Services","3050 Great Northern Ave.","59808",46.891923176877114,-114.03496177766593
+"59802","Missoula","MT","Community FirstCare","2230 N Reserve St Ste 402","59808",46.885121779967406,-114.03732079524536
+"59802","Missoula","MT","Partners in Home Care","2673 Palmer St, Suite 201","59801",46.8846618,-114.028703
+"59802","Missoula","MT","St. Patrick Hospital- Admin Area","500 West Broadway","59802",46.88018,-113.97088
+"59802","Missoula","MT","Valerie Chyle Aprn","2825 Stockyard Rd # H3","59808",46.9005483,-114.0353979
+"59803","Missoula","MT","Community Medical Center","2827 Fort Missoula Rd","59804",46.846997442088444,-114.04747556110777
+"59803","Missoula","MT","Big Sky Surgery Center","2833 Fort Missoula Rd","59804",46.84754180908203,-114.0483169555664
+"59803","Missoula","MT","Rehab","not_available","59804",46.84742026332885,-114.04852062096587
+"59803","Missoula","MT","Community Physician Group - Lolo Family Medicine","11350 US Highway 93 S","59847",46.763253,-114.080464
+"59803","Missoula","MT","Community Medical Center - Nurse on Call","2728 Fort Missoula Road","59804",46.847209,-114.047366
+"59803","Missoula","MT","Western Montana Clinic Dermatology","2835 Fort Missoula Rd","59804",46.845892,-114.048793
+"59825","Clinton","MT","Providence Surgery Center","not_available","59825",46.74260330200195,-113.69117736816406
+"59840","Hamilton","MT","McMaster Children's Hospital","1200 Main West","not_available",46.24609419999999,-114.1729106
+"59860","Polson","MT","Providence St. Joseph Medical Clinic Urgent Care/Walk-in - Polson","6 13th Ave E","59860",47.6822197,-114.1624467
+"59860","Polson","MT","Polson Emergency Services","904 2nd St E","59860",47.68732283795941,-114.160425
+"59860","Polson","MT","Polson Ambulance","908 2nd St E","not_available",47.68717575073242,-114.1607894897461
+"59864","Ronan","MT","St Luke Community Healthcare","107 6th Ave SW","59864",47.5290176,-114.1070038
+"59870","Stevensville","MT","Community Physician Group - Stevensville Family Medicine","3800 Eastside Hwy","59870",46.500571,-114.091816
+"59872","Superior","MT","Mineral Community Hospital","not_available","59872",47.18836450253472,-114.87704936152305
+"59901","Kalispell","MT","Kalispell Regional Medical Center","310 Sunnyview Ln","59901",48.214883584427675,-114.32391671700614
+"59901","Kalispell","MT","Flower Medical MMJ Dispensary Kalispell","1440 MT-35, Suite B","59901",48.21518,-114.2743843
+"59901","Kalispell","MT","Glacier Medical Associates","1111 Baker Ave Montana)","59937",48.401054,-114.336957
+"59901","Kalispell","MT","North Valley Hospital","1600 Hospital Way","59937",48.380338,-114.331284
+"59901","Kalispell","MT","The Surgery Center at HealthCenter Northwest","not_available","59901",48.21508584063339,-114.32400036742314
+"59901","Kalispell","MT","Caring Chiropractic Inc","248 3rd Ave E","59901",48.19678497314453,-114.30873107910156
+"59901","Kalispell","MT","West Flathead EMS","Highway 2 West","59901",48.187,-114.33368
+"59923","Libby","MT","Saint John's Lutheran Hospital","300 East 4th St.","not_available",48.391311,-115.547795
+"59923","Libby","MT","Libby Clinic (VA Approved Urgent Care)","211 E 2nd St","59923",48.39310073852539,-115.54865264892578

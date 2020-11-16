@@ -1,0 +1,438 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"70001","Metairie","LA","Wally Pontiff Jr Playground","1521 Palm St","70001",29.981163443728992,-90.13758659362793
+"70001","Metairie","LA","Metaire Park","not_available","not_available",29.97888465451673,-90.13817074575715
+"70001","Metairie","LA","Bleachers At Pontiff!","not_available","70001",29.981554,-90.136396
+"70001","Metairie","LA","Touchdown","not_available","70005",29.983288,-90.138347
+"70001","Metairie","LA","Metairie Club Estates","1221 Airline Dr","70001",29.973522999999997,-90.137043
+"70003","Metairie","LA","Lafreniere Park","3000 Downs Blvd","70003",29.998660422805408,-90.21259875143528
+"70003","Metairie","LA","LaSalle Park","6600 Airline Dr","70003",29.976163359266092,-90.20782349227174
+"70003","Metairie","LA","Park-A-Boo","not_available","70003",30.000166,-90.213117
+"70003","Metairie","LA","Comet's Park","Williams blvd","70065",30.018212779066985,-90.23714359854404
+"70003","Metairie","LA","At The Park","By Rouse's","not_available",30.010938,-90.220776
+"70005","Metairie","LA","Riding Bikes","1103 Helios Ave","70005",30.009342193603516,-90.1433334350586
+"70031","Ama","LA","Ama Park","not_available","70031",29.95212878713964,-90.29087657935582
+"70037","Belle Chasse","LA","Forest Isle Dog Park","not_available","70131",29.901515881994374,-89.99902782403687
+"70037","Belle Chasse","LA","Tha Boondocks","809-849 Walker Rd","70037",29.79590955,-90.04312527
+"70037","Belle Chasse","LA","Oakdale Playground","650 Wall Blvd","70056",29.871281416394215,-90.02863689713965
+"70037","Belle Chasse","LA","Outside W/c 130","Blosk Ave","70037",29.82136845588684,-90.02394139766693
+"70037","Belle Chasse","LA","Bellevue Park","not_available","70053",29.897158,-90.046364
+"70037","Belle Chasse","LA","The Park","Manhattan Blvd.","70058",29.84708820909541,-90.0435444721996
+"70037","Belle Chasse","LA","Belle Chasse Park","not_available","70037",29.890550567701794,-89.97686862945557
+"70037","Belle Chasse","LA","Tree High","601-699 Taylorbrook Dr","70056",29.870046866666666,-90.02882946666666
+"70040","Braithwaite","LA","Braithwaite Park","not_available","70040",29.857887,-89.915024
+"70041","Buras","LA","Roger Halphen Park","Cazezu Dr","70050",29.356070023052368,-89.53280210494995
+"70043","Chalmette","LA","Sidney D. Torres Memorial Park","W. Judge Perez Dr.","70043",29.95738857388203,-89.98077392578125
+"70043","Chalmette","LA","Val Reiss Park","1101 Magistrate St","70043",29.95171819891331,-89.94500398635864
+"70047","Destrehan","LA","Ormond 9.11k Fun Run","not_available","70047",29.945928200585616,-90.36831225052691
+"70047","Destrehan","LA","Imtt Field","River Rd","70087",29.94247890413445,-90.3267519546977
+"70047","Destrehan","LA","St Charles parish park","13755 River Rd","70070",29.938022688835357,-90.37395038093706
+"70053","Gretna","LA","Annunciation Square","800 Race St","70130",29.934129268970114,-90.0684602490429
+"70053","Gretna","LA","Boettner Park","not_available","70130",29.92732644073059,-90.07137597773267
+"70056","Gretna","LA","Cross Country Camp","Audbon Park Shelter 10","not_available",29.928695,-90.00807
+"70057","Hahnville","LA","Norco Park","515-539 Good Hope St","70079",30.007298178440553,-90.40832346120244
+"70057","Hahnville","LA","Bethune Park","not_available","70079",30.0027,-90.42
+"70057","Hahnville","LA","Bonnet Carre Spillway locks (between the Mississippi River & Lake Ponchatrain)","PO Box 216","70079",30.001651599168277,-90.43024719268928
+"70057","Hahnville","LA","St. Charles Parish Parks & Rec Dept.","171 Keller St","70057",29.9652099609375,-90.40780639648438
+"70058","Harvey","LA","Lyons Center Field","624 Louisiana Ave","70115",29.918729782104492,-90.08715057373047
+"70062","Kenner","LA","Kenner Park","not_available","70062",29.99073810158726,-90.24279307678147
+"70062","Kenner","LA","Kenner Heritage Park","Williams","70062",29.97419355153128,-90.24251356180925
+"70062","Kenner","LA","Kenner Lions Hall","2001 18th St","70062",29.989410400390625,-90.24259185791016
+"70065","Kenner","LA","Kenner City Park","3800 Loyola Dr","70065",30.033946533704295,-90.26774672807294
+"70065","Kenner","LA","City of Kenner Greenlawn Playground","3323 Arkansas Avenue","70065",30.01740074157715,-90.24561309814453
+"70067","Lafitte","LA","Rosethorn Park","Jean Lafitte, LA","70067",29.753521733333333,-90.103132
+"70068","La Place","LA","Bonnet Carre Spillway","ATV Trails","not_available",30.035067992690504,-90.40889739990234
+"70068","La Place","LA","Ruddock Park","Old US 51","not_available",30.201395,-90.42831
+"70070","Luling","LA","Westbank Bridge Park","not_available","70070",29.93738091240538,-90.37669066186575
+"70072","Marrero","LA","Lincolnshire Walking Trail","not_available","70072",29.876080661432148,-90.1172372615794
+"70072","Marrero","LA","Glission park","5260 Sharpe Dr","70072",29.769486,-90.081585
+"70086","Saint James","LA","Romeville Park","8170 Romeville Park St","70723",30.063039979638393,-90.84631204605103
+"70090","Vacherie","LA","Six District Park","Church Street","not_available",30.008325576782227,-90.71820068359375
+"70092","Violet","LA","Audubon Wilderness Park","14001 Patterson Rd","70131",29.899349,-89.914114
+"70094","Westwego","LA","Audubon Park","6500 Magazine St","70118",29.926671724759164,-90.12797355651855
+"70094","Westwego","LA","The Fly (Avenger Park)","West Dr.","70118",29.92057185145104,-90.13453960418701
+"70094","Westwego","LA","Audubon Riverview","West Dr","70118",29.92179829864599,-90.13479375627901
+"70094","Westwego","LA","Dublin Park","not_available","70118",29.94541860440425,-90.13248921146469
+"70094","Westwego","LA","Jefferson Playground","3900 South Drive","70121",29.957215040133296,-90.16671101338984
+"70094","Westwego","LA","Rio Vista Park","not_available","70121",29.966219,-90.148029
+"70094","Westwego","LA","Tree High Park","540-580 Broadway St","70118",29.936152766666666,-90.12791083333333
+"70112","New Orleans","LA","Louis Armstrong Park","North Rampart Street","70116",29.96279836785037,-90.06795644760132
+"70112","New Orleans","LA","Judge Fred J. Cassibry Square","CHARTRES","not_available",29.9554864790494,-90.0660160569234
+"70112","New Orleans","LA","Simon Bolivar Park","not_available","70112",29.956457060092855,-90.07320103060319
+"70112","New Orleans","LA","Jazz In The Park","Armstrong Park","70116",29.962299715579352,-90.06878124346795
+"70112","New Orleans","LA","Platinum Parking","400 Block S. Rampart","70163",29.95114494172008,-90.07456947767831
+"70112","New Orleans","LA","Cancer Survivors Plaza","Poydras","not_available",29.950302838310407,-90.07558689128517
+"70113","New Orleans","LA","Margaret Place","Margaret Place","70130",29.94024755536527,-90.07243892751845
+"70113","New Orleans","LA","Planters Grove","2047 Felicity","70113",29.94022,-90.082583
+"70113","New Orleans","LA","Faubourg Delassize Community Garden","1836 Sixth Street","70115",29.932590537544403,-90.08936340678159
+"70113","New Orleans","LA","A.L. Davis Park","Fouth St.","70113",29.938383935177395,-90.0903994689107
+"70113","New Orleans","LA","Mr. Peanut","not_available","70113",29.9408,-90.0824
+"70113","New Orleans","LA","Birth Of A Muse Statue - Terpsichore Finger Park","Terpsichore","not_available",29.937538126810605,-90.07454575505108
+"70114","New Orleans","LA","Confetti Park","445 Pelican","not_available",29.952918285121342,-90.05129039230826
+"70114","New Orleans","LA","McDonough Park","Alix Street","70114",29.9515,-90.0511
+"70114","New Orleans","LA","Delcazal Playground","not_available","70114",29.94881291090673,-90.05055630915919
+"70115","New Orleans","LA","Danneel Park","St Charles Avenue","70115",29.929698958106837,-90.1140478185872
+"70115","New Orleans","LA","Solomon Square Park","2100 Napoleon Ave","70115",29.93155,-90.103386
+"70115","New Orleans","LA","Laurence Square Park","Napoleon Ave","not_available",29.923164091349335,-90.10406883770449
+"70115","New Orleans","LA","Annunciation Park","5927 Annunciation Street","not_available",29.917247574607348,-90.11968535920897
+"70115","New Orleans","LA","Wisner Park","4877 Laurel St","70115",29.91807928849846,-90.10779304687672
+"70115","New Orleans","LA","Alma Peters Park","not_available","70115",29.918236,-90.12156
+"70115","New Orleans","LA","Evans Field","2100 Sonait St.","70118",29.9336924658718,-90.1105000671368
+"70115","New Orleans","LA","The Gazebo","Audubon Park Trail","70118",29.932840257526497,-90.12291038332968
+"70115","New Orleans","LA","Sophie Bell Wright Park","Sophie Wright Place","70130",29.931475873408374,-90.07438242250379
+"70116","New Orleans","LA","Jackson Square","745 Decatur St.","70116",29.957451318025385,-90.06293803453445
+"70116","New Orleans","LA","Washington Square Park","701 Frenchmen St","70117",29.965111818239624,-90.05760591111812
+"70116","New Orleans","LA","Washington Artillery Park","750 Decatur St.","70116",29.956968210304765,-90.06217945430436
+"70116","New Orleans","LA","Mississippi River Heritage Park","1100 S Peters","70116",29.957762553196414,-90.06072798225998
+"70116","New Orleans","LA","la trobe Park","not_available","70116",29.962289810180664,-90.06085968017578
+"70116","New Orleans","LA","Our Engagement Tree","Jackson Square Park","not_available",29.957075,-90.063368
+"70116","New Orleans","LA","Gayarré Place","Esplanade Ave","not_available",29.973559053378366,-90.07455850236725
+"70116","New Orleans","LA","John Paul II Plaza","Chatre St","not_available",29.957446719468855,-90.06339338962931
+"70117","New Orleans","LA","Crescent Park","River Front","not_available",29.961509151072672,-90.04656241385287
+"70117","New Orleans","LA","McCue Park","not_available","70117",29.9845,-90.047874
+"70118","New Orleans","LA","Upper Audubon","570 Audubon st.","70118",29.93481644249357,-90.12609445750354
+"70118","New Orleans","LA","Shelter 12 @Audubon Park","Walnut St","70118",29.93436148912994,-90.12706297984558
+"70119","New Orleans","LA","New Orleans City Park","1 Palm Dr","70124",29.98576472554151,-90.09651599904475
+"70119","New Orleans","LA","Bayou St. John","1000 Moss St","70119",29.97624974120358,-90.09041316154862
+"70119","New Orleans","LA","City Park Botanical Gardens","not_available","70124",29.98703332943975,-90.09693141060953
+"70119","New Orleans","LA","Comisky Park","Jefferson Davis","not_available",29.96718274214408,-90.09809093475042
+"70119","New Orleans","LA","St. Louis Cemetery No. 2","3421 Esplanade Ave","70119",29.98262892154848,-90.08753014346586
+"70119","New Orleans","LA","The Island","not_available","70119",29.982598,-90.099975
+"70122","New Orleans","LA","Pontchartrain Park","5700 Press Dr","70126",30.021073190148556,-90.03872172954473
+"70122","New Orleans","LA","Sunshine Park","not_available","70126",30.00702817209424,-90.04386813734467
+"70122","New Orleans","LA","Sampson Park","3000 Louisa Street","70127",29.988048553466797,-90.03646850585938
+"70122","New Orleans","LA","Lake Terrace Park","not_available","70122",30.027421,-90.081305
+"70122","New Orleans","LA","Killdeer Park","Killdeer Street","70122",30.027713139133446,-90.06129082406405
+"70122","New Orleans","LA","Weaver Park","Paris Ave, New Orleans, LA","70119",29.99025535583496,-90.07308959960938
+"70122","New Orleans","LA","washington square","Elysian Fields","not_available",29.989659197538785,-90.05789777250533
+"70124","New Orleans","LA","City Park Badlands","City Park","70124",29.999047447426726,-90.08745566495747
+"70124","New Orleans","LA","Plaquemine Waterpark","City Park","not_available",30.001667022705078,-90.09278106689453
+"70124","New Orleans","LA","Kennedy Park","Esplanade Ave","70119",29.97734,-90.084932
+"70124","New Orleans","LA","Fortier Park","Esplanade ave","70119",29.980108218229805,-90.08450589638495
+"70125","New Orleans","LA","Pig Newton Park","not_available","70125",29.951689,-90.107271
+"70126","New Orleans","LA","Kenilworth Park","6800 Curran Road","70126",30.03332968180988,-90.01450324365088
+"70127","New Orleans","LA","Joe Brown Memorial Park","Nature Center Dr","70127",30.031052132808878,-89.9662827055062
+"70130","New Orleans","LA","Lafayette Square","500 Saint Charles Ave","70130",29.94829025393223,-90.07034629583359
+"70130","New Orleans","LA","Woldenberg Riverfront Park","1 Canal St","70130",29.95305385189401,-90.06310604740968
+"70301","Thibodaux","LA","Wetlands Acadian Cultural Center","not_available","70301",29.79624255795839,-90.82499430202911
+"70301","Thibodaux","LA","Peltier Park","Peltier Park Dr","70301",29.78970287998065,-90.808481535256
+"70301","Thibodaux","LA","Heroes Park","900-1898 Veterans Blvd","70301",29.776707433333332,-90.84393276666667
+"70301","Thibodaux","LA","Raceland Recreation Center","not_available","70394",29.731935,-90.602463
+"70301","Thibodaux","LA","Donner Community Center","325-399 Azalea Dr","70352",29.69229507446289,-90.9549560546875
+"70339","Pierre Part","LA","Brownell Memorial Park","Morgan City, LA 70380","70380",29.740594044789457,-91.17564320671228
+"70339","Pierre Part","LA","Lake End Park","2300 Highway 70","not_available",29.82746124267578,-91.17300415039062
+"70342","Berwick","LA","Atchafalaya National Heritage Area","not_available","70342",29.688374681412824,-91.24002410928856
+"70343","Bourg","LA","Texas Gulf Rd Park","not_available","70343",29.555557,-90.604179
+"70344","Chauvin","LA","Chauvin Park","not_available","70344",29.43222141549751,-90.59903254677768
+"70345","Cut Off","LA","Larose Civic Center","307 E 5th St","70373",29.575223922729492,-90.37732696533203
+"70346","Donaldsonville","LA","Park La Brea Water Fountain","Burnside","70725",30.1388095,-90.9239868
+"70346","Donaldsonville","LA","Burnside Park","Burnside Avenue","not_available",30.21098598185029,-90.92087447802317
+"70346","Donaldsonville","LA","Modeste Park & Playground","not_available","70346",30.1602903,-91.0106057
+"70354","Galliano","LA","GeauxPass","not_available","70357",29.37952914761495,-90.20200973228805
+"70354","Galliano","LA","Golden Meadow Oak Ridge Community Park","LA 3235","70357",29.394257521165223,-90.27813351330693
+"70358","Grand Isle","LA","Grand Isle State Park","Admiral Craik Dr.","70358",29.25366973876953,-89.96040344238281
+"70360","Houma","LA","Summerfield Park","San Antonio Blvd","70360",29.57888764029781,-90.74200630187988
+"70360","Houma","LA","Shady Oaks Park","not_available","70360",29.593412,-90.715587
+"70360","Houma","LA","Maple Ave Park","Maple Ave","not_available",29.603092193603516,-90.72329711914062
+"70360","Houma","LA","Oakshire Park","Oakshire Drive","not_available",29.646418719408565,-90.75803518295288
+"70360","Houma","LA","Legion Park","Williams Ave","70364",29.605178000000002,-90.71763399999999
+"70360","Houma","LA","Glenn F. Pope Memorial Park","not_available","70364",29.610358192100463,-90.71729909045906
+"70363","Houma","LA","Airbase Park","not_available","70363",29.577331531592183,-90.67976708576339
+"70363","Houma","LA","The Park","153-201 Lafayette Woods Blvd","70363",29.585392204553905,-90.658326015116
+"70380","Morgan City","LA","The Swamp Skate Park","not_available","70380",29.691962539873497,-91.26713327613352
+"70380","Morgan City","LA","Six Flags Magic Mountain Picnic Area","Parking Lot","70380",29.699728,-91.19297
+"70392","Patterson","LA","Bird sanctuary","not_available","70392",29.689267415408832,-91.3034926310301
+"70401","Hammond","LA","Cate Square Park","not_available","70401",30.5048317609377,-90.46347389645612
+"70401","Hammond","LA","Zemurray Park","not_available","70403",30.499219437655533,-90.46180320266504
+"70403","Hammond","LA","Kiwanis Park","South 6th Street","70454",30.438380301702356,-90.44234429166856
+"70420","Abita Springs","LA","Abita Springs Park","22132 Level St","70420",30.479355702647442,-90.0392778182449
+"70422","Amite","LA","Fleet Easley Park","not_available","70422",30.73421614897799,-90.4985635282046
+"70427","Bogalusa","LA","The Track","not_available","70427",30.778111,-89.866626
+"70433","Covington","LA","First Avenue Park","not_available","70433",30.45627275,-90.11179406
+"70433","Covington","LA","Myrtle Grove Community Park","not_available","70447",30.441382,-90.172467
+"70433","Covington","LA","Hordes Of Ducks!","N Causeway Approach","70471",30.413722375638603,-90.08313393013603
+"70433","Covington","LA","Bogue Falaya Wayward Park","Park","70433",30.47127305857988,-90.09450291422463
+"70433","Covington","LA","Chef Soiree","128-298 Park Dr","70433",30.471835780977504,-90.09435684414156
+"70438","Franklinton","LA","Bogue Chitto State Park","not_available","70438",30.76674930916607,-90.15575505586497
+"70444","Kentwood","LA","D. A. R. E. Park","C. B. Temple","70444",30.921838812741445,-90.53462394829177
+"70445","Lacombe","LA","Tammany Trace Slidell Trailhead","Gause Rd","not_available",30.301377416847988,-89.83187456107537
+"70445","Lacombe","LA","Bayou Lacombe Park","not_available","70445",30.31463,-89.941627
+"70445","Lacombe","LA","Camp Salmen Nature Park","Camp Salmen Rd","not_available",30.292501270270243,-89.82469946763084
+"70445","Lacombe","LA","Fontainebleu Lodge","not_available","70448",30.33371676162518,-90.0100895214865
+"70448","Mandeville","LA","Pelican Park","63350 Pelican Blvd","70448",30.356184978285416,-90.02332310397854
+"70448","Mandeville","LA","Mandeville Lakefront Park","1900","70448",30.367099637157267,-90.08028194256194
+"70448","Mandeville","LA","Park","not_available","70471",30.39912821156112,-90.1156889458704
+"70448","Mandeville","LA","Sunset Point","Massena St","70448",30.362297262606592,-90.07979575688532
+"70448","Mandeville","LA","Cecil Charlton Park","Mandeville Crescent","70471",30.3806327,-90.0981465
+"70448","Mandeville","LA","Mandeville Trailhead Community Farmers' Market","675 Lafitte St","70448",30.360967861923985,-90.06425086808875
+"70452","Pearl River","LA","Poitevent Park","66306 Highway 41","70452",30.44644146878142,-89.79858075049205
+"70458","Slidell","LA","Heritage Park","not_available","70458",30.279325367445317,-89.78313827261788
+"70458","Slidell","LA","John Slidell Park","105 Robert Blvd","70458",30.306346940495487,-89.74946218533593
+"70458","Slidell","LA","Griffith Park","Erlanger St","70458",30.276200935621034,-89.78130855539348
+"70501","Lafayette","LA","Heymann Park","1401 S Orange","70501",30.217395,-91.996027
+"70501","Lafayette","LA","Parc San Souci","Vermilion St","70506",30.224517018376062,-92.0175969350052
+"70501","Lafayette","LA","Dog Park","not_available","70503",30.211265377846473,-92.02600126146909
+"70501","Lafayette","LA","US National Park Service.","501 Fisher Rd","70508",30.213520000000003,-91.99414200000001
+"70501","Lafayette","LA","Graham Brown Memorial Park","E Pont Des Mouton Rd, Lafayette, LA 70501","70501",30.2727389,-92.0016492
+"70501","Lafayette","LA","Acadiana Park","not_available","70501",30.254275254826908,-91.98709899708882
+"70501","Lafayette","LA","Richard J. Putnam Park","800-898 S Pierce St","70501",30.224827552410765,-92.02080244239527
+"70501","Lafayette","LA","Dalton ""Pee Wee"" Leblanc Park","2036 Carmel Dr","70501",30.236988067626953,-91.97120666503906
+"70501","Lafayette","LA","Mudbugz Mud Park","1099 Lake Martin Rd","70501",30.220739364624023,-91.95520782470703
+"70501","Lafayette","LA","City Park.","901 Mudd Ave","70501",30.232954025268555,-92.00694274902344
+"70503","Lafayette","LA","Neyland Park","Eraste Landry Rd","not_available",30.21644653899566,-92.07051975207243
+"70503","Lafayette","LA","Veteran's Park","210 Feu Follet Rd","70508",30.180484771728516,-92.01424407958984
+"70503","Lafayette","LA","Thomas Park","301 Geraldine Dr","70503",30.184611028254494,-92.06033621322388
+"70503","Lafayette","LA","Parc Lafayette","1921 Kaliste Saloom Rd","70508",30.16670551839607,-92.03482032547734
+"70503","Lafayette","LA","Southside Park","2201 Robley Dr","70503",30.139381408691406,-92.07930755615234
+"70503","Lafayette","LA","Girard Park","500 Girard Park Dr","70503",30.207571721779416,-92.01960684772914
+"70503","Lafayette","LA","Fernewood Park","100 Boss Dr.","70503",30.161039003835505,-92.07146774236317
+"70503","Lafayette","LA","Chargois Park","606 Guilbeau Rd","70506",30.196327787646045,-92.06898290147005
+"70503","Lafayette","LA","Beaullieu Park","410 W Bluebird St","70508",30.153703689575195,-92.03425598144531
+"70503","Lafayette","LA","Rotary Point","245 W Bayou Pkwy","not_available",30.193869,-92.028674
+"70506","Lafayette","LA","Oaklawn Park","Jeanne St.","70506",30.228870567857353,-92.03850099864816
+"70506","Lafayette","LA","Begnaud House - Scott Visitor Center","not_available","70583",30.243263,-92.10702
+"70506","Lafayette","LA","Scott Park","1200 Cormier St","70583",30.241386007135247,-92.09417764022812
+"70507","Lafayette","LA","Carencro Park","University Ave","70520",30.310305484364193,-92.04987962112027
+"70507","Lafayette","LA","Moore Park","not_available","70507",30.282645,-92.020847
+"70508","Lafayette","LA","Picard Park","130 Park Ln","70508",30.118711471557617,-92.07203674316406
+"70508","Lafayette","LA","Fabacher Field","221 La Neuville Rd.","70508",30.144052471041306,-91.9976327604443
+"70508","Lafayette","LA","FE 'Pa' Davis Park","simcoe","70501",30.166075628408137,-91.99116117785493
+"70510","Abbeville","LA","Erath City Park Community Center","not_available","70533",29.967743527428787,-92.08415263819892
+"70510","Abbeville","LA","sewer park","not_available","70510",29.969890594482422,-92.11803436279297
+"70512","Arnaudville","LA","Cecilia Park","not_available","70517",30.338457749630603,-91.83794111428473
+"70515","Basile","LA","La Pay E Bas Lakes & RV Park","669 Arpent Dr","70535",30.44348907470703,-92.48346710205078
+"70517","Breaux Bridge","LA","Parc Hardy","1290 Rees St","70517",30.28755261648608,-91.89891730626114
+"70517","Breaux Bridge","LA","Catahoula Park","Catahoula Park Rd.","70582",30.20825185857553,-91.70361042022705
+"70517","Breaux Bridge","LA","Henry Guidry Memorial Park","Henderson,LA,70517","70517",30.3132529,-91.7903922
+"70517","Breaux Bridge","LA","Santa Clause Land Of Lights","Santa Clause","70517",30.273519,-91.89298
+"70517","Breaux Bridge","LA","Cecile Poche Memorial Park","not_available","70582",30.217126636318124,-91.82848342175974
+"70518","Broussard","LA","St. Julien Park","701 Saint Nazaire Rd","70518",30.13698959350586,-91.93405151367188
+"70518","Broussard","LA","Arceneaux Park","835 E Main St","70518",30.147506,-91.952056
+"70518","Broussard","LA","BYYA","not_available","70518",30.140755034562144,-91.9460249750059
+"70520","Carencro","LA","SMD Training Facility","212 Gills Rd","70584",30.34643716275059,-92.0881949391597
+"70526","Crowley","LA","7th St Park","not_available","70526",30.219758021506735,-92.36822482581796
+"70528","Delcambre","LA","Siracursa Water Splash","not_available","70560",29.947679,-91.962757
+"70529","Duson","LA","Fredericksburg Fireman's Park","2652 Route 343","not_available",30.119873046875,-92.17542266845703
+"70529","Duson","LA","Duson Park","101 B Robin Rd","70529",30.225447739814204,-92.18171017217684
+"70529","Duson","LA","Judice Park","500 Golden Grain Rd","70529",30.16121482849121,-92.15308380126953
+"70529","Duson","LA","F. Siadous Park","3rd St","70529",30.237839,-92.18132
+"70535","Eunice","LA","Eunice City Park","not_available","70535",30.48792801150097,-92.43587218359757
+"70538","Franklin","LA","Baldwin Park","not_available","70514",29.843295339716427,-91.51118768654888
+"70542","Gueydan","LA","Lake Arthur City Park","not_available","70549",30.080473286497377,-92.67699830236438
+"70544","Jeanerette","LA","Burleigh Park","Main","not_available",29.904920695140756,-91.67342380097506
+"70546","Jennings","LA","Louisiana Oil & Gas Park","100 Rue de Lacadie","70546",30.248769760131836,-92.66468048095703
+"70546","Jennings","LA","Jennings Oil Park","Rue De L' Acadie","70546",30.247336168144866,-92.66776112354722
+"70546","Jennings","LA","Welsh Park","not_available","70591",30.22703175206447,-92.82396832093809
+"70546","Jennings","LA","Park","not_available","70546",30.210289001464844,-92.65353393554688
+"70555","Maurice","LA","Maurice Park","not_available","70555",30.108684594268464,-92.11277749891002
+"70560","New Iberia","LA","New Iberia City Park","not_available","70563",30.005674196979502,-91.81019766857547
+"70560","New Iberia","LA","Iberia Parish Recreation","Willowood","70563",30.00786018371582,-91.74784851074219
+"70560","New Iberia","LA","New Iberia City Park","Parkview Drive","not_available",30.00653,-91.811054
+"70560","New Iberia","LA","Francis Romero Memorial Park","6310 Coteau Park Rd","70560",30.04865,-91.916071
+"70570","Opelousas","LA","South City Park","1524 S Market St","70570",30.520887442498772,-92.08585764002063
+"70570","Opelousas","LA","North Park","not_available","70570",30.54880271,-92.08145659
+"70570","Opelousas","LA","Chicken Fights","not_available","70584",30.427816638466854,-92.09413452743088
+"70582","Saint Martinville","LA","Magnolia City Park","100 Magnolia Dr","70582",30.139673,-91.820915
+"70582","Saint Martinville","LA","Longfellow-Evangeline State Historic Site","1200 N Main St","not_available",30.134916305541992,-91.82625579833984
+"70586","Ville Platte","LA","Le Pecaniere Walking Park","not_available","70586",30.683263818977686,-92.26608061955956
+"70592","Youngsville","LA","Youngsville Park","not_available","70592",30.095191489240136,-91.99374205047266
+"70592","Youngsville","LA","Foster Memorial Park","399 4th St","70592",30.094591617186275,-91.99356520811753
+"70601","Lake Charles","LA","Bord du Lac Park (Millennium Park)","1100 Lakeshore Dr","70601",30.225003145791845,-93.22169314580383
+"70601","Lake Charles","LA","Riverside Park","Fitzenreiter Road","70601",30.26578031176034,-93.20720870498565
+"70601","Lake Charles","LA","Lake Charles Park","Bor Du Lac Dr","70601",30.23056771358275,-93.22189434889488
+"70601","Lake Charles","LA","Veterans Memorial Park","not_available","70601",30.233389802309375,-93.22118768804182
+"70605","Lake Charles","LA","Prien Lake Park","3700 W Prien Lake Rd","70605",30.1886255279598,-93.26868921780742
+"70605","Lake Charles","LA","University Park","not_available","70605",30.16278101744443,-93.22616888383936
+"70605","Lake Charles","LA","Purple Strides Pancreatic Cancer Walk","not_available","70669",30.187446059155025,-93.32799526286522
+"70611","Lake Charles","LA","Ponderosa Park","3104 Westwood Rd","70669",30.27727988808333,-93.25915575101455
+"70611","Lake Charles","LA","White Oak Park","not_available","70615",30.296380724896874,-93.1178852662267
+"70631","Cameron","LA","The Parky Park","PSC","not_available",30.04144,-93.825825
+"70633","Dequincy","LA","Holbrook","not_available","LA 70663",30.319866,-93.344267
+"70634","Deridder","LA","East Park","not_available","70634",30.848185382764058,-93.27676538424531
+"70634","Deridder","LA","Rosepine Dixie Youth Complex","not_available","71446",30.930922222774413,-93.27784132447478
+"70647","Iowa","LA","Iowa Park","not_available","70647",30.23924543167195,-93.01538930836153
+"70656","Pitkin","LA","Warrior Memorial Park","not_available","71459",31.049110412597656,-93.21295928955078
+"70656","Pitkin","LA","Fort Polk Softball Fields","Mississippi ave","71459",31.047512,-93.20805
+"70661","Starks","LA","Vinton City Park","not_available","70668",30.186671369788165,-93.58137551423314
+"70663","Sulphur","LA","McMurray Park","300 S Hazel St.","70663",30.219729783105155,-93.33482265472412
+"70663","Sulphur","LA","Frasch Park","400 Picard Rd","70663",30.23069120694596,-93.3835779080061
+"70663","Sulphur","LA","Riverville","not_available","70665",30.200273,-93.487272
+"70663","Sulphur","LA","Center Circle Park","not_available","70663",30.229227710694357,-93.31835118981414
+"70668","Vinton","LA","Ochiltree Inman Park","W Front","77630",30.09061418137749,-93.73316589742899
+"70668","Vinton","LA","Ochiltree Inman Park","301-399 W Front Ave","77630",30.091201497273033,-93.73274141277888
+"70706","Denham Springs","LA","Live Oak Sports Complex","35102 Oak Place Dr","70706",30.576784133911133,-90.93688201904297
+"70706","Denham Springs","LA","Pride Park","not_available","70770",30.691827752547905,-90.98614891256159
+"70710","Addis","LA","Lukeville Park","not_available","70719",30.38194,-91.2461
+"70714","Baker","LA","Blackwater Conservation Area","Blackwater Rd, 9489","70714",30.534315285870917,-91.08739954054141
+"70714","Baker","LA","BREC J.S. Clark Park","Thomas Rd","not_available",30.5595394373859,-91.17018022877089
+"70714","Baker","LA","Jefferson Park","Jefferson St, 3622","70714",30.59108324616959,-91.16109873175567
+"70714","Baker","LA","Greenwood Waterfront","not_available","70714",30.567832997241855,-91.16589006509632
+"70714","Baker","LA","Alsen Park","not_available","70807",30.571621,-91.199382
+"70714","Baker","LA","T.D. Bicham, Jr. BREC Park","6850 Petit Road","70814",30.57492947887315,-91.12490961927597
+"70715","Batchelor","LA","Fordoche  Park and Playground","Overton Street","70732",30.592010891796043,-91.60805432660852
+"70726","Denham Springs","LA","Sidney Hutchinson Memorial Park","13740 Ball Park Rd","70785",30.50112590237626,-90.8574479669791
+"70726","Denham Springs","LA","Back Yard","not_available","70785",30.502891987155976,-90.85647173444323
+"70726","Denham Springs","LA","Pond At North Park","not_available","70726",30.49459568767853,-90.91791500936012
+"70726","Denham Springs","LA","Best Backyard Ever","not_available","70817",30.400874263623887,-90.99150831625272
+"70726","Denham Springs","LA","Oak Grove Community Park","not_available","70769",30.31999400706971,-90.97664107976772
+"70733","French Settlement","LA","French Settlement Pavillion","not_available","70733",30.298618,-90.799308
+"70734","Geismar","LA","Jackie Robinson Memorial Park","not_available","70721",30.22619879241476,-91.00795969260649
+"70739","Greenwell Springs","LA","Railey Roshto Park","11601 Norway Pine","70739",30.552828017685144,-91.0038123738408
+"70739","Greenwell Springs","LA","Lovett Road Park","Lovett Road","not_available",30.523282766925824,-91.03883482698704
+"70744","Holden","LA","Livingston Park","not_available","70754",30.49814373502747,-90.74389439682054
+"70748","Jackson","LA","Zachary Park","not_available","70791",30.652486106571995,-91.1977368689893
+"70748","Jackson","LA","Audubon State Historic Site","11788 LA Highway 965","70775",30.798093795776367,-91.30689239501953
+"70748","Jackson","LA","Rascal Park At Tbe Bluffs","not_available","70748",30.806586,-91.246253
+"70760","New Roads","LA","William H. Scott Civic Center","not_available","70760",30.697273056242032,-91.45729214366345
+"70764","Plaquemine","LA","City Park","not_available","70764",30.278965145556047,-91.23073021355765
+"70764","Plaquemine","LA","Pointe-Marie Square","14200 River Rd","70820",30.349069595336914,-91.16156768798828
+"70767","Port Allen","LA","Farr Park","River Rd","not_available",30.38664717415092,-91.20825774350129
+"70767","Port Allen","LA","Atchafalaya Heritage Area","I-10E","70767",30.452494,-91.288818
+"70769","Prairieville","LA","Butch Gore Memorial Park & Playground","14550 Harry Savoy Rd","70774",30.278308868408203,-90.86090850830078
+"70769","Prairieville","LA","Paula Park","42217 Louisiana 933","70769",30.312078722330604,-90.89788945905367
+"70769","Prairieville","LA","Ccl Park","not_available","70810",30.339821,-91.032448
+"70774","Saint Amant","LA","St. Amant Recreational Park","Stringer Bridge Rd.","70774",30.241277839334398,-90.83871355301821
+"70775","Saint Francisville","LA","St. Francisville Square","not_available","70775",30.788046966557836,-91.376470404996
+"70775","Saint Francisville","LA","West Feliciana Sports Park","Highway 61","70775",30.807435879382222,-91.3755845577157
+"70791","Zachary","LA","Regional Veterans Park","Lane Memorial Hsp","70791",30.647309,-91.137332
+"70791","Zachary","LA","Hug Your People Memorial Park","Lee St","70791",30.647698,-91.155103
+"70801","Baton Rouge","LA","Baton Rouge Downtown Greenway","Fifth St.","70802",30.44715,-91.185379
+"70801","Baton Rouge","LA","Lafayette Park","Lafayette St","not_available",30.44883828669469,-91.18933896279442
+"70801","Baton Rouge","LA","Convention Street Park","Convention St.","70802",30.449289022950445,-91.18343328981918
+"70801","Baton Rouge","LA","North Boulevard Promenade","North Blvd.","70801",30.447278,-91.187041
+"70802","Baton Rouge","LA","A.Z. Young Park","N. Third St.","not_available",30.454204515404303,-91.18869066238403
+"70802","Baton Rouge","LA","Milford Wampold Memorial Park","990 Stanford/L S U Ave","70808",30.408608148452785,-91.16383030319781
+"70802","Baton Rouge","LA","Spanish Town Park","not_available","70802",30.454688,-91.176427
+"70802","Baton Rouge","LA","Arsenal Park","1000 N. 5th St.","not_available",30.45733951019166,-91.18424005214166
+"70802","Baton Rouge","LA","BREC - Baton Rouge Beach","Stanford Ave","70808",30.408127603874465,-91.16437103094272
+"70802","Baton Rouge","LA","Raising Cane's Dog Park","1442 City Park Ave","70808",30.434678335171313,-91.16902793663941
+"70802","Baton Rouge","LA","Edward Park","3011 Edward Ave","70808",30.430081,-91.157212
+"70802","Baton Rouge","LA","City Park ( Tha Hill )","not_available","70806",30.434250554242812,-91.16891423295094
+"70802","Baton Rouge","LA","Gus Young Park","4200 Gus Young Ave","70802",30.4622802734375,-91.14804077148438
+"70802","Baton Rouge","LA","BREC City-Brooks Community Park","1515 Dalrymple Dr","70808",30.434439227981038,-91.16921900621178
+"70802","Baton Rouge","LA","Mississippi Riverfront","300 River Rd N","70802",30.449075,-91.190884
+"70802","Baton Rouge","LA","BREC Park","Valley Park","70808",30.423436249778458,-91.14585170466417
+"70805","Baton Rouge","LA","Howell Park","5509 Winbourne Ave","70805",30.47495102295212,-91.13552926592837
+"70805","Baton Rouge","LA","Maplewood Park Gym","not_available","70812",30.511502,-91.11451
+"70805","Baton Rouge","LA","Kerr Warren Park","4100 Geronimo St","70805",30.487251,-91.162094
+"70806","Baton Rouge","LA","BREC's Independence Park","7800 Independence Blvd","70806",30.444178,-91.106411
+"70806","Baton Rouge","LA","Parkview Neighborhood Park","not_available","70815",30.446424792418753,-91.0891965544597
+"70806","Baton Rouge","LA","BREC's Administrative offices","6201 Florida Blvd","70806",30.452912,-91.125388
+"70806","Baton Rouge","LA","Studio Park","1680 Lobdell Ave","70806",30.43429183959961,-91.11117553710938
+"70807","Baton Rouge","LA","SUBR Pavillion","not_available","70813",30.525021,-91.192661
+"70808","Baton Rouge","LA","BREC Park Perkins Road","not_available","70808",30.396108,-91.118075
+"70808","Baton Rouge","LA","Trace Park","6220 Corporate Blvd","70809",30.424104690551758,-91.12552642822266
+"70808","Baton Rouge","LA","Lakewood Park","402 Lee Dr","70808",30.397777,-91.155466
+"70809","Baton Rouge","LA","Forest Park","13900 S Harrells Ferry Rd","70816",30.425934,-91.02839
+"70809","Baton Rouge","LA","Highland Road Park","14024 Highland Rd","70810",30.349921,-91.073438
+"70809","Baton Rouge","LA","BREC Jefferson Hwy Park","not_available","70809",30.423498761067492,-91.10247066196051
+"70809","Baton Rouge","LA","Brec Cedar Ridge","13300 Cedar Ridge Ave","70817",30.400678634643555,-91.03202819824219
+"70809","Baton Rouge","LA","Antioch Park","6223 Antioch Blvd","70817",30.393764,-91.001788
+"70809","Baton Rouge","LA","Antioch Boulevard Park","6229 Antioch Blvd","70817",30.394394000000002,-91.001091
+"70809","Baton Rouge","LA","Jefferson Terrace Park","Cal Road","not_available",30.39998894891358,-91.07066391047285
+"70809","Baton Rouge","LA","Burbank BREC Park","12400 burbank","70810",30.347438117713168,-91.100827550277
+"70809","Baton Rouge","LA","Drusilla Lane Park","Drusilla Lane","70809",30.428006,-91.08442
+"70809","Baton Rouge","LA","Highland Park","Highland Rd","not_available",30.355389468037515,-91.06706689012368
+"70809","Baton Rouge","LA","Woodlawn Acres Park","16638 Woodlawn Acres Ave","70817",30.383460999999997,-90.999811
+"70809","Baton Rouge","LA","Baringer Road Park","7401 Baringer Road","70817",30.384117126464844,-91.01861572265625
+"70809","Baton Rouge","LA","BREC Antioch","Antioch","not_available",30.4253226804912,-91.00075819650738
+"70809","Baton Rouge","LA","BREC Dog Park","12400 Burbank Dr.","not_available",30.34518051147461,-91.09651184082031
+"70810","Baton Rouge","LA","BatonRougeTigersThursdayTraining","Amiss Rd","not_available",30.349622,-91.075876
+"70810","Baton Rouge","LA","Hartley/Vey Park at Gardere (Gardere Lane Park)","1702 Gardere Ln","70810",30.353836059570312,-91.12940979003906
+"70811","Baton Rouge","LA","Cadillac Street Park","6000 Cadillac St","70811",30.517860412597656,-91.13207244873047
+"70811","Baton Rouge","LA","Samuel D'Agostino Park","10300 El Scott Ave","not_available",30.50016212463379,-91.07498931884766
+"70814","Baton Rouge","LA","BREC Recreation & Park","3140 N Sherwood Forest Dr","70814",30.477609,-91.055891
+"70815","Baton Rouge","LA","BREC Blvd de Province Park","Blvd de Province","70816",30.439293,-91.04488
+"70815","Baton Rouge","LA","Red Oaks BREC Park","2100 Greenoaks Dr","70815",30.46794174497059,-91.06330181346677
+"70815","Baton Rouge","LA","Sunday in the Park/ Downtown","not_available","70816",30.447071723373885,-91.05215358297546
+"70815","Baton Rouge","LA","Tams Drive Park","11600 Tams Drive","70815",30.466629028320312,-91.05461883544922
+"70815","Baton Rouge","LA","BREC's Flannery Road Park","801 S Flannery Rd","not_available",30.45167,-91.034873
+"70816","Baton Rouge","LA","Kathy Drive Park","Kathy Dr","not_available",30.442735,-91.01386
+"71001","Arcadia","LA","Bonnie & Clyde Trade Days & RV Park","not_available","71001",32.51930806515151,-92.9435968614526
+"71006","Benton","LA","TK Pembina","Jl.Pembangunan","71111",32.5849881,-93.69275309999999
+"71006","Benton","LA","Cypress Park And Recreation","not_available","71006",32.68031750494912,-93.67520106272453
+"71032","Grand Cane","LA","Tree","not_available","71052",32.01286,-93.671387
+"71032","Grand Cane","LA","Grand Cane Park","not_available","71032",32.084073,-93.810368
+"71033","Greenwood","LA","Gators & Friends","11441 Highway 80","71033",32.46540099326559,-94.03704756558665
+"71037","Haughton","LA","Joe Delaney Memorial Park","not_available","71037",32.542316,-93.496679
+"71037","Haughton","LA","South Bossier Park","S Bossier Park Rd","71112",32.434692,-93.594071
+"71037","Haughton","LA","Parkk","8021 east Texas","71111",32.54816974760612,-93.6309814453125
+"71037","Haughton","LA","Cullen Park","not_available","71110",32.51222181635581,-93.61848305324148
+"71037","Haughton","LA","Park1","8020 east Texas","71111",32.54916455557742,-93.62928628921507
+"71044","Ida","LA","Noah Tyson Park","Louisiana 1, Rodessa, LA 71069","71069",32.929836630262976,-93.97537471239895
+"71047","Keithville","LA","Eddie D. Jones Park","not_available","71047",32.265847,-93.940762
+"71055","Minden","LA","Victory Park","300-308 McDonald St","71055",32.62030446,-93.28484493
+"71055","Minden","LA","Kisatchie National Forest","not_available","71055",32.67987532224175,-93.2715579710896
+"71055","Minden","LA","Victory Park","Summit street","not_available",32.626836334734726,-93.27487394844674
+"71055","Minden","LA","Hinton Park","1298 Gloria Street","71055",32.63296890258789,-93.26468658447266
+"71060","Mooringsport","LA","Earl G. Williamson Park","Oil City,LA,71061","71061",32.726810894636316,-93.9736710300586
+"71060","Mooringsport","LA","Richard Fleming Park","not_available","71107",32.536586,-93.921402
+"71071","Sarepta","LA","Muddy Bottoms ATV & Recreation Park","100 Muddy Bottoms Rd","71071",32.95207977294922,-93.48210906982422
+"71082","Vivian","LA","Vivian town park","not_available","71082",32.87376551767105,-93.97790045005193
+"71101","Shreveport","LA","Asian Garden","not_available","71101",32.509118217065165,-93.75221050579226
+"71101","Shreveport","LA","Magnet Tennis Courts","not_available","71104",32.49547035473333,-93.71911352560153
+"71101","Shreveport","LA","Horseshoe's Riverdome","711 Horseshoe Blvd","71111",32.51466254708823,-93.73838125866259
+"71101","Shreveport","LA","RiverView Park","601-699 Clyde Fant Memorial Pkwy","71101",32.514248024294076,-93.74215765011897
+"71101","Shreveport","LA","Clyde Fant Veterans Park-ing Lot","Clyde Fant Pkwy","71101",32.506365064415526,-93.72162169395543
+"71101","Shreveport","LA","Aligator Park","not_available","71111",32.52057,-93.74167
+"71101","Shreveport","LA","SWEPCO Park","Patzman St","71101",32.51489,-93.766444
+"71103","Shreveport","LA","The Porch","not_available","71103",32.4843,-93.7577
+"71103","Shreveport","LA","Park","not_available","71109",32.475461,-93.784506
+"71103","Shreveport","LA","Bilberry Park Community Center","1902 Alabama Ave","71109",32.4935188293457,-93.78677368164062
+"71104","Shreveport","LA","Betty Virginia Park","Betty Virginia Park","not_available",32.46869350857454,-93.7473896478687
+"71104","Shreveport","LA","East Kings Spar Park","not_available","71105",32.4715986485884,-93.71137170197312
+"71105","Shreveport","LA","Donnie Bickham","2283 E Industrial Loop","71105",32.43864424,-93.69386628
+"71105","Shreveport","LA","A.C. Steere Park","4009 Youree Dr","71105",32.464953938897686,-93.72153246844621
+"71105","Shreveport","LA","Bickham Dickson Park","Park Dr","71105",32.44342558960942,-93.69594114911207
+"71106","Shreveport","LA","A. B. Palmer Park","not_available","71106",32.43188038495529,-93.74602084568312
+"71106","Shreveport","LA","Park @ 12 Oaks","not_available","71115",32.39313949218398,-93.70385900197931
+"71107","Shreveport","LA","Chris Hays Park","Shreveport,LA,71109","71109",32.5251516,-93.7501789
+"71107","Shreveport","LA","David Raines Community Center","2920 Round Grove Ln","71107",32.5352897644043,-93.8254165649414
+"71108","Shreveport","LA","Cargill park","not_available","71108",32.435296191601545,-93.80979355574239
+"71109","Shreveport","LA","Ford Park Picnic/Family","not_available","71119",32.48799050318603,-93.84534952912685
+"71110","Barksdale Afb","LA","Mike Wood Park","2000 Dennis St","71112",32.48329497729342,-93.6583111441019
+"71111","Bossier City","LA","Tinsley Park","1046-1098 Tinsley Blvd","not_available",32.53302828095824,-93.6960154661261
+"71118","Shreveport","LA","Southern Hills Playground","1002 Industrial Loop","71118",32.403857138182154,-93.78403864405759
+"71118","Shreveport","LA","Southern Hills Park","1002 Bert Kouns Industrial Loop","71118",32.40397644042969,-93.78484344482422
+"71119","Shreveport","LA","Ford Park","5745-5809 S Lakeshore Dr","71119",32.489223405989655,-93.84679056899317
+"71119","Shreveport","LA","Bill Cockrell Metro Park & Community Center","4109 Pines Rd","71119",32.46666717529297,-93.86084747314453
+"71201","Monroe","LA","Triangle Park","not_available","71201",32.53949786789185,-92.12108332992526
+"71201","Monroe","LA","Forsythe Park","2300 Sycamore St","71201",32.52270929387392,-92.13108304156593
+"71201","Monroe","LA","Forsyth park","not_available","71291",32.50536213678845,-92.12791414766788
+"71202","Monroe","LA","Chenault Golf Course and Recreation Park (Shelter 4)","8475 Millhaven Rd","71203",32.49802017211914,-92.02062225341797
+"71202","Monroe","LA","Lazarre Park","not_available","71292",32.48908074735256,-92.11251871528319
+"71202","Monroe","LA","bernstein park","not_available","71202",32.46735076383405,-92.09811066011041
+"71203","Monroe","LA","Channalt Park","Channault Park","71203",32.52450368003322,-92.0525883333948
+"71203","Monroe","LA","ULM Bayou Park","not_available","71203",32.529925353224606,-92.07345954507595
+"71220","Bastrop","LA","Carter Park","not_available","71220",32.782115958141695,-91.89419118203607
+"71220","Bastrop","LA","Sterlington Park","not_available","71280",32.6999323438719,-92.08306070489067
+"71241","Farmerville","LA","The park","not_available","71260",32.83550095067129,-92.34079120836454
+"71251","Jonesboro","LA","Pocket Park - Jonesboro","Jimmie Davis Blvd.","71251",32.240634,-92.715186
+"71259","Mangham","LA","Mamgham Gazebo","not_available","71259",32.30652661228534,-91.77527078698216
+"71270","Ruston","LA","Huckleberry Park And Nature Trails","not_available","71270",32.51704722602001,-92.66590816473014
+"71270","Ruston","LA","R. L. Cook Park","2800 Kavanaugh","71270",32.56147643660418,-92.65591218576603
+"71282","Tallulah","LA","Vicksburg Riverfront Park","Washington St","39180",32.32064993467635,-90.89745159705517
+"71282","Tallulah","LA","Vicksburg Skate Park","not_available","39180",32.324076,-90.888171
+"71282","Tallulah","LA","City Park","100-198 Army Navy Dr","39180",32.32131147003231,-90.88983168626696
+"71282","Tallulah","LA","Washington Street Park","Washington St.","39183",32.35253,-90.881522
+"71291","West Monroe","LA","Kiroli Park","Kiroli Rd","71291",32.547588651274474,-92.1653031191499
+"71291","West Monroe","LA","Kiroli Park","Whites Ferry","71291",32.578670501708984,-92.14904022216797
+"71291","West Monroe","LA","Restoration Park","700 Downing Pines Rd","71292",32.50868281110552,-92.17003410962934
+"71301","Alexandria","LA","Frank O Hunter","Willow Glen","71302",31.275268,-92.442922
+"71301","Alexandria","LA","Alexandria City Park","not_available","71301",31.289295304613947,-92.45703668296494
+"71325","Cheneyville","LA","Domino Park","not_available","71325",31.023260694095807,-92.31254133509782
+"71334","Ferriday","LA","Memorial Park","not_available","39120",31.558194076315253,-91.40108362518254
+"71334","Ferriday","LA","Melrose Estate","1 Melrose Montebello Pkwy","39120",31.543148262764284,-91.38272976246952
+"71334","Ferriday","LA","William Johnson House","212 State Street","39120",31.560356558483573,-91.4059803805503
+"71334","Ferriday","LA","Duncan Park","57 Duncan Park Rd","39120",31.541019439697266,-91.39009094238281
+"71360","Pineville","LA","Kees Park","not_available","71360",31.332745474210093,-92.41345829964897
+"71360","Pineville","LA","gone wild safari park","805 Hooper Rd","71360",31.434738159179688,-92.46111297607422
+"71360","Pineville","LA","Fort Buhlow Recreation Area","Recreation Rd","71360",31.344103411006216,-92.44657390696328
+"71371","Trout","LA","Georgetown Park","not_available","71432",31.766755080479708,-92.38201530850834
+"71403","Anacoco","LA","SanJasWen","not_available","71403",31.258957689514784,-93.33938604725972
+"71403","Anacoco","LA","sova racing","157 S 5th St, Leesville, LA 71446","71446",31.142885208129883,-93.26371002197266
+"71409","Boyce","LA","my place","not_available","71409",31.33859853258665,-92.71451543743646
+"71417","Colfax","LA","Colfax Recreation Park","not_available","71457",31.523386,-92.727384
+"71417","Colfax","LA","walking park","not_available","71417",31.516996383666992,-92.71263885498047
+"71417","Colfax","LA","Colfax Lock & Dam","Unnamed Rd","71417",31.521991827304088,-92.72497699448776
+"71435","Grayson","LA","Urania Park","not_available","71480",31.8653,-92.2973
+"71435","Grayson","LA","Olla Walking Trail and Play Park","Blake Street","71465",31.894699072984054,-92.24136138555819

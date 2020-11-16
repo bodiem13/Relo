@@ -1,0 +1,485 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"68002","Arlington","NE","Monke Bros","10989 8th St","68044",41.53774642944336,-96.42827606201172
+"68003","Ashland","NE","Gretna Ace Hardware","104 W Glenmore Dr, Ste. 2","68028",41.1451899,-96.239982
+"68003","Ashland","NE","Ty's Outdoor Power & Service","21611 Platteview Rd","68028",41.08828,-96.254097
+"68003","Ashland","NE","C & L Hardware","not_available","not_available",41.040189,-96.368298
+"68003","Ashland","NE","Mead Lumber Company 1294U","201 N 14th St","68003",41.040218353271484,-96.36862182617188
+"68005","Bellevue","NE","Westlake Ace Hardware","1005 Galvin Rd S","68005",41.150653,-95.916088
+"68005","Bellevue","NE","Tops Lawn Care","102 Cunningham Rd","68005",41.104236,-95.898315
+"68005","Bellevue","NE","minuteKEY","10504 S 15th St","68123",41.155948638916016,-95.93671417236328
+"68005","Bellevue","NE","Granet And Marble","not_available","68147",41.18642858036312,-95.93677336675108
+"68008","Blair","NE","Reyzlik Ace Hardware","1704 Washington St","68008",41.543807,-96.14059
+"68008","Blair","NE","Bomgaars","not_available","68008",41.5491495,-96.1459868
+"68008","Blair","NE","Blair Ace Hardware","114 S 8th St","68008",41.54308,-96.122635
+"68018","Colon","NE","JC Small Engine Repair","121 S 4th St","68018",41.29655456542969,-96.60474395751953
+"68019","Craig","NE","Egbers Flighting Company","324 County Road 24","68031",41.70940017700195,-96.45951843261719
+"68020","Decatur","NE","Bomgaars","Iowa","51523",42.03624087616366,-96.13507228481744
+"68022","Elkhorn","NE","Menards","20406 Cumberland Dr","68022",41.265612080074035,-96.23849949140501
+"68022","Elkhorn","NE","Lowe's","18375 Wright Street","68130",41.2319692,-96.2023344
+"68022","Elkhorn","NE","minuteKEY","18201 Wright St","68130",41.2317449,-96.19914
+"68022","Elkhorn","NE","Elkhorn Ace Hardware","20277 Wirt St","68022",41.286076,-96.231827
+"68022","Elkhorn","NE","minuteKEY","750 N 205th St","68022",41.265254974365234,-96.23896026611328
+"68022","Elkhorn","NE","Sherwin-Williams Paint Store","18128 R Plz","68135",41.20481263230884,-96.20029833831906
+"68022","Elkhorn","NE","minuteKEY","18375 Wright St","68130",41.23184585571289,-96.2024917602539
+"68025","Fremont","NE","Tractor Supply Co.","2850 East 23rd Ave North","68025",41.452704,-96.460257
+"68025","Fremont","NE","Menards","3600 E 24th St","68025",41.45321707382646,-96.45174034699166
+"68025","Fremont","NE","Fremont Ace Hardware & Garden Ctr","1660 E 23rd St","68025",41.452215,-96.477061
+"68025","Fremont","NE","Sherwin-Williams Paint Store","312 N Main St","68025",41.43220440940609,-96.4960541946907
+"68025","Fremont","NE","Sears","1690 East 23rd Ave. North","68025",41.452789856736274,-96.47533081349184
+"68025","Fremont","NE","Carson Enterprises","6828 N. 264th Circle","68064",41.32010701725659,-96.33166551589966
+"68025","Fremont","NE","Bomgaars","1501-1945 E 23rd Ave S","68025",41.45176322623187,-96.47280038412077
+"68025","Fremont","NE","Fastenal","not_available","68025",41.44961686255333,-96.46174129756125
+"68025","Fremont","NE","Butler Machinery Co.","2831 N County Road 20 Ave","68025",41.45542907714844,-96.53689575195312
+"68028","Gretna","NE","Sherwin-Williams Paint Store","11108 Sapp Brothers Dr","68138",41.14733098300507,-96.16280704736708
+"68038","Lyons","NE","Steiny's General Store","245 S 2nd St","68038",41.9357936,-96.47747367
+"68045","Oakland","NE","Anderson Hardware","231 N Oakland Ave","68045",41.83488845825195,-96.46666717529297
+"68046","Papillion","NE","Lowe's","8707 South 71st Plaza","68133",41.1719336,-96.0210622
+"68046","Papillion","NE","The Home Depot","712 N Washington St","68046",41.1627893,-96.0446536
+"68046","Papillion","NE","Sherwin-Williams Paint Store","945 N Adams St Ste 2","68046",41.171561,-96.043853
+"68046","Papillion","NE","Antiquity Supply","503 W 6th St, #200","68046",41.160928999999996,-96.048159
+"68046","Papillion","NE","Nuts & Bolts Industrial Supply","12005 Centennial Rd","68128",41.169688,-96.101148
+"68046","Papillion","NE","Ferguson Plumbing Supply","13205 Lynam Dr","68138",41.15594,-96.11957
+"68046","Papillion","NE","minuteKEY","8525 S 71st Plz","68133",41.17449188232422,-96.020751953125
+"68046","Papillion","NE","ProSource of Omaha","11617 Centennial Rd","68128",41.169678999999995,-96.093595
+"68047","Pender","NE","Pender Ace Hardware","316 Main St","68047",42.1141,-96.706
+"68048","Plattsmouth","NE","Bomgaars","1538 S 15th St","68048",40.996230753311266,-95.89710200783567
+"68048","Plattsmouth","NE","Fastenal","not_available","68048",41.012574434280396,-95.90769410133362
+"68048","Plattsmouth","NE","John's Appliance","317 Main St","68048",41.01108517666082,-95.88309934480905
+"68048","Plattsmouth","NE","Higgins Hardware","433 Main St","68048",41.01114958141019,-95.884692321698
+"68061","Tekamah","NE","Bomgaars","Hwy 75","68061",41.76305598114473,-96.22165998214642
+"68061","Tekamah","NE","Wenz Service Inc.","1606 L St","68061",41.7774772644043,-96.22594451904297
+"68066","Wahoo","NE","Bomgaars","441 E 1st St","68066",41.20566177368164,-96.61563110351562
+"68066","Wahoo","NE","Wahoo Building Center","205 W 5th St","68066",41.209476470947266,-96.62150573730469
+"68066","Wahoo","NE","Drews Outdoor Power","224 E 6th St","68066",41.21120834350586,-96.61820983886719
+"68066","Wahoo","NE","Bomgaars","1310 E 34th St","68066",41.2388916015625,-96.60252380371094
+"68102","Omaha","NE","ABC Supply","1101 Grace St","68110",41.27646,-95.930624
+"68102","Omaha","NE","Ferguson Plumbing Supply","2213A Leavenworth St","68102",41.25212860107422,-95.9453125
+"68102","Omaha","NE","Micklin Lumber","1020 N 19th St","68102",41.26932907104492,-95.94169616699219
+"68104","Omaha","NE","The Home Depot","4545 N 72nd St","68134",41.3008559,-96.0217282
+"68104","Omaha","NE","Sherwin-Williams Paint Store","6009 N 72nd St","68134",41.31382976337132,-96.02329730987549
+"68104","Omaha","NE","minuteKEY","5018 Ames Ave","68104",41.30147933959961,-95.99166870117188
+"68104","Omaha","NE","Benson Faucet Shop","not_available","68104",41.28498981252941,-96.00564921277976
+"68105","Omaha","NE","Ty's Outdoor Power","4524 Leavenworth St","68106",41.252698,-95.981649
+"68105","Omaha","NE","Piping Resources","4502 F St","68117",41.220826,-95.98033000000001
+"68105","Omaha","NE","ABC Supply Company","3900 D St","68107",41.222469,-95.971083
+"68106","Omaha","NE","Appliance Parts Supply","not_available","68106",41.22724045243008,-96.01710253886694
+"68106","Omaha","NE","CE Sundberg Co.","6710 Grover St","68106",41.227336,-96.01706
+"68106","Omaha","NE","Westlake Ace Hardware","5502 Center St","68106",41.23931,-95.998638
+"68107","Omaha","NE","Shake&Shingle","not_available","68107",41.20572280883789,-95.95220184326172
+"68108","Omaha","NE","Johnson Hardware Co","1201 Pacific St","68108",41.248833,-95.93225
+"68108","Omaha","NE","Michael Todd & Company","1401 William St","not_available",41.245319,-95.934904
+"68110","Omaha","NE","Carter lake hardware","not_available","51510",41.284218127277,-95.91813909425262
+"68110","Omaha","NE","G.M.S Werks","4225 Florence Blvd","68110",41.298001,-95.941765
+"68111","Omaha","NE","24 Hour Lockouts Omaha","1301 N 30th St.","68131",41.27296852891577,-95.95639228820801
+"68112","Omaha","NE","Advantage Food Equipment","8505 N 29th St","68112",41.337733,-95.959064
+"68112","Omaha","NE","Home & Office Enhancements / www.HuskerHandyman.com","8402 N 44th St","68112",41.334216,-95.979352
+"68114","Omaha","NE","Lowe's","7525 Dodge Street","68114",41.2577472,-96.0296406
+"68114","Omaha","NE","Sherwin-Williams Paint Store","7653 Cass St","68114",41.2628237777487,-96.03371549963389
+"68114","Omaha","NE","Northern Tool + Equipment","7202 Pacific St","68114",41.249161,-96.024559
+"68114","Omaha","NE","minuteKEY","7525 Dodge St","68114",41.257647,-96.029337
+"68116","Omaha","NE","The Home Depot","3950 North 144th St","68116",41.2943769,-96.1413186
+"68116","Omaha","NE","Lowe's","3333 N 147th Street","68116",41.2893774,-96.1426062
+"68116","Omaha","NE","Sherwin-Williams Paint Store","17453 Manderson St","68116",41.29276,-96.188569
+"68116","Omaha","NE","minuteKEY","16960 W Maple Rd","68116",41.2945009,-96.1801474
+"68117","Omaha","NE","Builders Supply Company","5701 S 72nd St, Omaha, NE 68117","68117",41.20004080357811,-96.02338031011973
+"68117","Omaha","NE","Drop In Portables","6137 O St","68117",41.208139,-96.008558
+"68117","Omaha","NE","Westlake Ace Hardware","4250 S 50th St","68117",41.216422910335424,-95.99261874507297
+"68117","Omaha","NE","Bargain Mart Tools & More","4831 L St","68117",41.211151,-95.98745100000001
+"68117","Omaha","NE","Buller Fixture","not_available","68117",41.213073,-96.02291401641443
+"68118","Omaha","NE","The Shop","156th","68118",41.271198192803354,-96.16886405670105
+"68122","Omaha","NE","Tractor Supply Co.","9630 Ida St","68122",41.32052452,-96.06451135
+"68122","Omaha","NE","J D contracting","not_available","68122",41.32415008544922,-96.04796600341797
+"68122","Omaha","NE","minuteKEY","6304 N 99th St","68134",41.3154448,-96.0678174
+"68122","Omaha","NE","Farmers Choice","10520 Bondesson Cir","68122",41.339394306335016,-96.07747793197632
+"68123","Bellevue","NE","Menards","10501 S 21st St","68123",41.156181,-95.941161
+"68123","Bellevue","NE","Sherwin-Williams Paint Store","2805 Samson Way","68123",41.138158000000004,-95.955611
+"68123","Bellevue","NE","The Shop","not_available","68123",41.13100754798313,-95.96477168145447
+"68124","Omaha","NE","Westlake Ace Hardware","8425 W Center Rd","68124",41.2335056,-96.04417910000001
+"68127","Omaha","NE","Menards","7337 L St","68127",41.21144457605445,-96.02611278898836
+"68127","Omaha","NE","Westlake Ace Hardware 115","8018 Harrison St","68128",41.1916549,-96.037636
+"68127","Omaha","NE","Tractor Supply Co.","7910 L St","68127",41.21324598485126,-96.03843142325861
+"68127","Omaha","NE","Charlies Garage","not_available","68127",41.19551,-96.04
+"68127","Omaha","NE","Quality Door & Trim Co","5802 S 72nd St","68127",41.199609,-96.02533000000001
+"68127","Omaha","NE","Shelter Distribution","10000 J St","68127",41.214771,-96.068924
+"68127","Omaha","NE","Bolts Etc.","10441 J St","68127",41.21424509404811,-96.07639770712713
+"68127","Omaha","NE","Generators For Sale","4142 South 89th Street","68127",41.21879947379775,-96.04941129684448
+"68127","Omaha","NE","Omaha Winnelson Company","9737 I St","68127",41.215653,-96.065726
+"68127","Omaha","NE","Service Express Co., Inc.","8909 H St","68127",41.217169,-96.049693
+"68127","Omaha","NE","Tighton Tool And Fastener","7820 L St","68127",41.212893894934865,-96.03611207864415
+"68127","Omaha","NE","Spectrum Paint","8930 L St","68127",41.21347427368164,-96.04972076416016
+"68127","Omaha","NE","Kelly Supply Co","4242 S 90th St","68127",41.218133,-96.05325500000001
+"68127","Omaha","NE","Geeks","8218 F St","68127",41.220227,-96.041226
+"68127","Omaha","NE","G. A. Larson Co. - Omaha","10800 J St","68127",41.21396804407491,-96.05975243979393
+"68127","Omaha","NE","Sherwin-Williams Commercial Paint Store","9317 J St","68127",41.21352,-96.056474
+"68127","Omaha","NE","Diamomd Vogel","7870 L St","68127",41.21338653564453,-96.03678894042969
+"68127","Omaha","NE","Sherwin-Williams Product Finishes","4424 S 102nd St","68127",41.215077,-96.072862
+"68127","Omaha","NE","Kriha fluid power","9375 H Ct","68127",41.216658,-96.057965
+"68127","Omaha","NE","G. A. Larson Co. - Oma","4510 S 102nd St","68127",41.213536,-96.072731
+"68127","Omaha","NE","Tool Shed","8505 I St","68127",41.215734999999995,-96.04411
+"68128","La Vista","NE","Millard Metal Services","7059 S 107th St","68128",41.185956,-96.078711
+"68128","La Vista","NE","Rew Materials","not_available","68128",41.186059,-96.085899
+"68130","Omaha","NE","Ferguson Plumbing Supply","15005 Grover St","68144",41.230444,-96.151046
+"68131","Omaha","NE","Westlake Ace Hardware","350 N Saddle Creek Rd","68131",41.262199,-95.979992
+"68131","Omaha","NE","minuteKEY","360 N Saddle Creek Rd","68131",41.26301956176758,-95.98121643066406
+"68131","Omaha","NE","Judah Caster","2621 Farnam St, Omaha, NE 68131","68131",41.25754217409004,-95.95069091004137
+"68134","Omaha","NE","Westlake Ace Hardware 022","2802 N 90th St","68134",41.28441195216758,-96.05379661463058
+"68134","Omaha","NE","Harbor Freight Tools","3120 N 90th St","68134",41.28790866955922,-96.05395796950184
+"68134","Omaha","NE","ABC Seamless","not_available","68134",41.28547756901215,-96.03871836099889
+"68137","Omaha","NE","The Home Depot","12710 L Street","68137",41.21473599331483,-96.1117216944694
+"68137","Omaha","NE","Fireplace Stone and Patio Nebraska","13709 Industrial Rd","68137",41.21528,-96.12831800000001
+"68137","Omaha","NE","Color Store","13743 Industrial Road","68137",41.2170644,-96.12882239999999
+"68137","Omaha","NE","minuteKEY","12850 L St","68137",41.2128453,-96.1143622
+"68137","Omaha","NE","Redshaw","5890 S 118 St Circle","68144",41.199022,-96.09437
+"68137","Omaha","NE","Home & Garden True Value","5312 S 136th St","68137",41.203165000000006,-96.126348
+"68137","Omaha","NE","crescent electric","3726 S 149th St","68144",41.224076000000004,-96.147642
+"68137","Omaha","NE","Ambiance Window Coverings","14987 K St","68137",41.21362062,-96.14752078
+"68137","Omaha","NE","Irby","13530-42 I Cir","68137",41.217645422584276,-96.12470626831055
+"68137","Omaha","NE","Compressed Air Solutions","13414 A St","68144",41.224891,-96.123631
+"68137","Omaha","NE","Sears","5808 S. 144Th Street","68137",41.200428,-96.14177099999999
+"68137","Omaha","NE","Dennis Supply","10821 I St","68137",41.215503000000005,-96.08216
+"68137","Omaha","NE","Ferguson Fire & Fabrication","11428 P St","68137",41.20794413125059,-96.09192967414856
+"68137","Omaha","NE","Millard Lumber","12900 I St","68137",41.216965962562966,-96.11400196118849
+"68137","Omaha","NE","Kinetico Of Omaha","14503 Grover St","68144",41.223765,-96.14076999999999
+"68137","Omaha","NE","Foundation Building Materials","4629 South 136th Street","68137",41.2134095,-96.1254472
+"68138","Omaha","NE","Drywall Supply Inc","11351 South 145th Street","68138",41.14469216,-96.14000821
+"68138","Omaha","NE","TRI-V Tool & Manufacturing Co","13434 Centech Rd","68138",41.181087,-96.125632
+"68138","Omaha","NE","Superior Metal Products Inc","10708 S 149th St","68138",41.15208311088164,-96.14751666032168
+"68138","Omaha","NE","Intermountian","not_available","68138",41.156871,-96.126655
+"68138","Omaha","NE","Sherwin-Williams Floorcovering Store","13231 Centennial Rd","68138",41.16952133178711,-96.12142181396484
+"68138","Omaha","NE","HD Supply White Cap","9950 S 134th St","68138",41.161021999999996,-96.124713
+"68144","Omaha","NE","Westlake Ace Hardware","14060 W Center Rd","68144",41.23489757508803,-96.13609492778778
+"68144","Omaha","NE","Kwal Paint","not_available","68144",41.22629769301595,-96.1407305690156
+"68144","Omaha","NE","Sherwin-Williams Paint Store","2735 S 140th St","68144",41.232915000000006,-96.13251600000001
+"68144","Omaha","NE","Reams Sprinkler Supply","3623 S 149th St","68144",41.226924,-96.147733
+"68144","Omaha","NE","Spectrum Paint","14529 Industrial Rd","68144",41.2258872,-96.140544
+"68152","Omaha","NE","thompson heating & air conditioning","3418 Girard St. NE","not_available",41.3248405456543,-96.00106048583984
+"68154","Omaha","NE","Menards","708 N 120th St","68154",41.26531859401287,-96.10302798207157
+"68164","Omaha","NE","Sherwin-Williams Paint Store","3131 N 120th St","68164",41.287782,-96.099929
+"68164","Omaha","NE","United Electric Supply -  Emmet","12302 Emmet St","68164",41.291599,-96.104673
+"68301","Adams","NE","Hickman True Value","6800 Hickman Rd","68372",40.625503,-96.628855
+"68305","Auburn","NE","Orscheln Farm & Home","409 Central Avenue","68305",40.391992,-95.831052
+"68305","Auburn","NE","Lynch's Hardware & Gifts","915 Central Ave","68305",40.3926996,-95.83827620000001
+"68310","Beatrice","NE","Ace Hardware","2317 N 6th St","68310",40.2899997130801,-96.7483512000748
+"68310","Beatrice","NE","Tractor Supply Co.","3620 Air Park Rd","68310",40.302546,-96.747601
+"68310","Beatrice","NE","Orscheln Farm & Home","not_available","68310",40.291429,-96.74739
+"68310","Beatrice","NE","Sherwin-Williams Paint Store","616 Court St","68310",40.26609680577256,-96.7458039522171
+"68310","Beatrice","NE","Husqvarna","700 Dorsey St","68310",40.285301208496094,-96.7452163696289
+"68310","Beatrice","NE","Husqvarna","1160 E Dorsey Rd","68310",40.28519821166992,-96.70664978027344
+"68317","Bennet","NE","Big Red Drainage","not_available","68418",40.71154350826848,-96.44348373292368
+"68322","Bruning","NE","Bruning Lumber","not_available","68322",40.335148,-97.566611
+"68329","Cook","NE","Seeba Hardware & TV","not_available","68329",40.512786903235956,-96.1622554414355
+"68333","Crete","NE","Ace Tru-Value","not_available","68333",40.6236755,-96.9537286
+"68333","Crete","NE","Crete Ace Hardware","1025 Main Ave","68333",40.622926,-96.96234799999999
+"68333","Crete","NE","Plains Equipment Group®","2185 County Road H","68333",40.593735,-96.973722
+"68333","Crete","NE","Sack Lumber","125 E 11th St","68333",40.623055,-96.961137
+"68336","Davey","NE","Tractor Supply Co.","7300 Husker Cir","68504",40.885034000000005,-96.67898000000001
+"68336","Davey","NE","D & D Plumbing","6510 N 56th St","68504",40.877578,-96.64288
+"68341","De Witt","NE","Lifestyle Basement Finishing","8148 W Cherry Rd","68341",40.407859354397516,-96.83997631072998
+"68342","Diller","NE","Pro Struck","58076 709th Rd","68342",40.10258102416992,-96.94017791748047
+"68352","Fairbury","NE","Orscheln's","not_available","68352",40.15516597421152,-97.17095275509519
+"68352","Fairbury","NE","Ace Hardware","3036 Industrial Ave","68352",40.166656494140625,-97.1741943359375
+"68352","Fairbury","NE","Fairbury Winnelson","2525 K St","68352",40.1600197,-97.1726971
+"68354","Fairmont","NE","Gamble's Do It Best","not_available","68361",40.52547824183679,-97.59925775896603
+"68355","Falls City","NE","True Value Hardware","1519 Stone St","68355",40.06649513,-95.60940373
+"68355","Falls City","NE","Farm & City Supply","2618 Harlan St","68355",40.070689,-95.601808
+"68355","Falls City","NE","Husqvarna","1801 Chase St","68355",40.0628776550293,-95.60445404052734
+"68366","Greenwood","NE","Tractor Supply Co. - Hagerstown Distribution Center","9531 North 130th St","68462",40.902103958086606,-96.54747605323792
+"68366","Greenwood","NE","WAVERLY TRUE VALUE HDW","13940 Guildford St","68462",40.91404724121094,-96.53144836425781
+"68370","Hebron","NE","Hebron True Value","414 Lincoln Ave","68370",40.166908264160156,-97.58987426757812
+"68406","Milligan","NE","D & L K Enterprises LLC","507 5th St","68406",40.499244689941406,-97.38794708251953
+"68410","Nebraska City","NE","Westlake Ace Hardware 102","1107 Grundman Blvd","68410",40.658394,-95.861288
+"68410","Nebraska City","NE","Tractor Supply Co.","1556 South 11th St Ste A","68410",40.662021,-95.860493
+"68410","Nebraska City","NE","Nebraska City Do it Best Hardware","723 Central Ave","68410",40.676328000000005,-95.854061
+"68410","Nebraska City","NE","Husqvarna","1315 Central Ave","68410",40.67644119262695,-95.86212158203125
+"68420","Pawnee City","NE","Glenns' True Value","622 - 6th St","68420",40.10842176,-96.15393871
+"68430","Roca","NE","Lincoln Laminating","5010 Rent Worth Dr","68516",40.7221439439384,-96.62387110033114
+"68434","Seward","NE","Seward Ace Hardware","1519 W Highway 34","68434",40.903532,-97.109782
+"68434","Seward","NE","Precision Tool & Machine","not_available","68434",40.90211657475398,-97.1127244744415
+"68434","Seward","NE","krieser drywall and insulation","not_available","68524",40.901450093263676,-97.06410575237115
+"68436","Shickley","NE","Shickley Lumber Co.","202 South Market","68436",40.41491642766305,-97.7232440085922
+"68443","Sterling","NE","Husqvarna","120 Broadway St","68443",40.459171295166016,-96.37579345703125
+"68446","Syracuse","NE","E T's Lawn & Leisure","563 Midland St","68446",40.65779,-96.18664
+"68446","Syracuse","NE","Syracuse Lumber Co.","503 Mohawk St","68446",40.6571842,-96.1874733
+"68446","Syracuse","NE","Syracuse Do it Best Hardware","350 5th St","68446",40.65887403068991,-96.18389663391869
+"68450","Tecumseh","NE","Orscheln Farm Store","US 136","68450",40.378288,-96.17918994
+"68450","Tecumseh","NE","Kerner True Value","186 N 12th St","68450",40.369168,-96.181361
+"68463","Weeping Water","NE","Ace Hardware","214 W Eldora Ave","68463",40.869933,-96.143571
+"68464","Western","NE","Koll Construction Inc","1431 County Rd N","68465",40.508338928222656,-97.1152114868164
+"68467","York","NE","York Farm Supply","3420 N Lincoln Ave","68467",40.898052,-97.592582
+"68467","York","NE","Fastenal","921 Grant Ave","68467",40.870391802572044,-97.59209992586943
+"68467","York","NE","McCormick's Heating & Air Conditioning","302 N Grant Ave","68467",40.864048,-97.591387
+"68467","York","NE","Hurlbults","not_available","68467",40.910911560058594,-97.59677124023438
+"68467","York","NE","Beaver Bearing","121 S Lincoln Ave","68467",40.8613075,-97.5928327
+"68467","York","NE","Orscheln Farm & Home","110 Marquis Ave","68467",40.89293185092581,-97.59377360343933
+"68467","York","NE","Tractor Supply Co.","3417 South Holen Avenue","68467",40.829565387021134,-97.595557333374
+"68467","York","NE","Scott-Hourigan","164 W Nobes Rd","68467",40.85813903808594,-97.5951156616211
+"68467","York","NE","York Ace Hardware","630 S Lincoln Avenue","68467",40.859585,-97.593063
+"68502","Lincoln","NE","BISHOP HEIGHTS TRUE VALUE","4200 S 27th St","68502",40.77104949951172,-96.68109130859375
+"68502","Lincoln","NE","Lincoln Winnelson","700 Pioneers Blvd","68502",40.77079,-96.71067
+"68502","Lincoln","NE","Ferguson Plumbing Supply","5001 S 19th St","68512",40.7638614457831,-96.6947420481928
+"68502","Lincoln","NE","Neeman And Sons Roofing","South 9th St","68522",40.78049299391099,-96.70494333010718
+"68502","Lincoln","NE","Menards","Hwy.2","68516",40.77082941148557,-96.70103089800939
+"68502","Lincoln","NE","Fire Door Inspector","2156 Southwood Pl","68512",40.766418,-96.688424
+"68502","Lincoln","NE","Fastenal","500 W South St #11, Lincoln, NE 68522","68522",40.792263,-96.727531
+"68502","Lincoln","NE","84 Lumber Company","4401 S 33rd Ct","68516",40.768004,-96.67509
+"68503","Lincoln","NE","Westlake Ace Hardware 037","4545 Vine St","68503",40.820801,-96.656293
+"68503","Lincoln","NE","Total Tool Supply, inc","2611 Kimco Dr","68521",40.836884000000005,-96.683035
+"68503","Lincoln","NE","Sherwin-Williams Paint Store","235 N 46th St","68503",40.814979,-96.65650500000001
+"68504","Lincoln","NE","Menards","3500 N 27th St","68521",40.84768009299114,-96.67856073558474
+"68504","Lincoln","NE","The Home Depot","3300 N 27th St","68521",40.8445396,-96.6794509
+"68504","Lincoln","NE","Nebraska Window Store","5620 Cornhusker Hwy","68507",40.858382,-96.642697
+"68504","Lincoln","NE","Norandex","not_available","68507",40.871601302388804,-96.66136631360348
+"68504","Lincoln","NE","husker electric supply","not_available","68504",40.843336,-96.670723
+"68504","Lincoln","NE","Norandex","5601 N 57th St","68507",40.868602836645536,-96.64255380845307
+"68504","Lincoln","NE","Improve It Inc.","5701 Russell Dr","68507",40.860143,-96.642143
+"68504","Lincoln","NE","Murphy's QP Store","1554 N 48th St","68504",40.829095,-96.653412
+"68504","Lincoln","NE","minuteKEY","4700 N 27th St","68521",40.858333587646484,-96.67842102050781
+"68505","Lincoln","NE","Q.P. Ace Hardware.","924 N 70th St","68505",40.8218,-96.6246
+"68506","Lincoln","NE","Westlake Ace Hardware 050","2600 S 48th St Ste 19a","68506",40.786191,-96.653593
+"68506","Lincoln","NE","Glenns' True Value","2825 S 70th St","68506",40.78386228992537,-96.62550101847661
+"68506","Lincoln","NE","Scott And Ashley's Workshop","not_available","68516",40.767447,-96.620823
+"68507","Lincoln","NE","ABC","not_available","68517",40.871727,-96.607282
+"68507","Lincoln","NE","Wolfe Ace Hardware","6118 Havelock Ave","68507",40.857296999999996,-96.636528
+"68507","Lincoln","NE","Linweld","6803-6999 U.S. 6","68507",40.868770202560356,-96.62607728910909
+"68508","Lincoln","NE","Q P Ace Hardware","945 S 27th St","68510",40.804316,-96.683046
+"68508","Lincoln","NE","Ace Hardware","801 N St","68508",40.812219935621,-96.7094985569943
+"68508","Lincoln","NE","Stanczyk Cabinet Shop","2510","68502",40.80398122284502,-96.68422424749927
+"68508","Lincoln","NE","Tigers Hardware","2420 north 9th","68521",40.837845112012694,-96.70853733553193
+"68508","Lincoln","NE","Watson-Brickson Lumber","660 N St","68508",40.8106979544136,-96.71255993389613
+"68508","Lincoln","NE","Lumber Liquidators","2441 N 9th St","68521",40.83797769,-96.70906396
+"68508","Lincoln","NE","Husker Ready Mixed Concrete","201 S 1st St","68508",40.81134033203125,-96.72142028808594
+"68508","Lincoln","NE","Praxair","not_available","68521",40.838652,-96.703315
+"68508","Lincoln","NE","Handyman","not_available","68528",40.81840255919628,-96.7140175347258
+"68508","Lincoln","NE","Kelly Supply","600 Oakcreek Dr","not_available",40.819383,-96.723758
+"68508","Lincoln","NE","Handy Man Home Remodeling Center","501 Sun Valley Blvd","68528",40.817713,-96.723394
+"68516","Lincoln","NE","Lowe's","6101 Apples Way","68516",40.7512264,-96.6381069
+"68516","Lincoln","NE","The Home Depot","6800 S 70th St","68516",40.74290014466911,-96.62310361862183
+"68516","Lincoln","NE","Q P Ace Hardware","3800 Old Cheney Rd Ste B","68516",40.7554,-96.665899
+"68516","Lincoln","NE","Spectrum Paint","4815 Old Cheney Rd","68516",40.754746000000004,-96.653274
+"68516","Lincoln","NE","Andy's Appliances","5612 S 49th St","68516",40.756368,-96.651811
+"68516","Lincoln","NE","Sherwin-Williams Paint Store","2733 Grainger Pkwy","68516",40.729919,-96.68101999999999
+"68516","Lincoln","NE","Sherwin-Williams Paint Store","5601 S 56th St","68516",40.757781982421875,-96.6466293334961
+"68516","Lincoln","NE","Lumbermen's","8655 Amber Hill Ct","68526",40.73146438598633,-96.60285949707031
+"68521","Lincoln","NE","TooFast Supply","2140 Cornhusker Hwy","68521",40.84323,-96.688935
+"68521","Lincoln","NE","G. A. Larson Co. - Lincoln","2949 N 27th St","68521",40.841503,-96.68389300000001
+"68521","Lincoln","NE","Q.P. Ace Hardware","1401 Superior St","68521",40.856392,-96.700069
+"68521","Lincoln","NE","HD Supply White Cap","1720 Adams St","68521",40.84325884,-96.6965791
+"68521","Lincoln","NE","Ty's Outdoor Power & Service","1740 Yolande Ave. Lincoln, Nebraska","68521",40.8414421081543,-96.6955795288086
+"68521","Lincoln","NE","Mohrhoff popwer equipment","1740 Yolande Ave","68521",40.841366,-96.69559699999999
+"68521","Lincoln","NE","DXP Company","1919 Cornhusker Hwy","68521",40.84227,-96.69273000000001
+"68521","Lincoln","NE","Harbor Freight Tools","1940 Cornhusker Hwy","68521",40.84305378798959,-96.69236202118445
+"68521","Lincoln","NE","Drywall Supply Inc","1616 Cornhusker Highway","68521",40.842215,-96.697561
+"68522","Lincoln","NE","Lincoln True Value","1550 S Coddington Ave","68522",40.798752336415546,-96.74791152402256
+"68522","Lincoln","NE","West 'O' True Value","1340 W O St","68528",40.8137896,-96.7415048
+"68522","Lincoln","NE","Mark's Plumbing Inc","2045 S Folsom St Ste C","68522",40.7921936,-96.73071039999999
+"68522","Lincoln","NE","Earl Carter Lumber","1235 W O St","68528",40.812740000000005,-96.740416
+"68524","Lincoln","NE","HTI Plastics","5120 NW 38th St","68524",40.864399,-96.77356
+"68526","Lincoln","NE","Menards","8900 Andermatt Dr","68526",40.734203797464346,-96.59744787379529
+"68526","Lincoln","NE","Tractor Supply Co.","9000 Amber Hill Ct","68526",40.729913,-96.597497
+"68601","Columbus","NE","Tractor Supply Co.","1319 East 23rd St","68601",41.437632,-97.311008
+"68601","Columbus","NE","Cornhusker Irrigation","not_available","68601",41.41216278076172,-97.36735534667969
+"68601","Columbus","NE","Columbus Ace Hardware & Garden Ctr","1460 33rd Ave","68601",41.431006,-97.368973
+"68601","Columbus","NE","Hardware Store","501-611 24th St","68601",41.439939,-97.383985
+"68601","Columbus","NE","Menards","340 E 24th St","68601",41.44017162829788,-97.3244570269514
+"68601","Columbus","NE","Sherwin-Williams Paint Store","2008 23rd St","68601",41.43872911938304,-97.35205292701721
+"68601","Columbus","NE","Sears","4300 23rd St","68601",41.439935,-97.379797
+"68620","Albion","NE","Bomgaars","PO Box 233","68620",41.69670486450195,-98.00494384765625
+"68620","Albion","NE","True Value","408 Main Street","68620",41.693209,-98.00081999999999
+"68620","Albion","NE","Husqvarna","2452 State Highway 14","68620",41.704490661621094,-98.01411437988281
+"68629","Clarkson","NE","TRUE VALUE","220 Pine St","68629",41.72650909423828,-97.12269592285156
+"68632","David City","NE","David City Ace Hardware","443 N 4th St","68632",41.253333000000005,-97.13062099999999
+"68632","David City","NE","Sack Lumber Company","566 N 5th St","68632",41.254822,-97.127585
+"68633","Dodge","NE","Bayer Appliances & Hardware","135 Oak St, Dodge, NE 68633","68633",41.720536092474575,-96.8836154611188
+"68636","Elgin","NE","CENTRAL VALLEY AG COOPERATIVE TV","FIRST & MAPLE","68636",41.984466552734375,-98.08544921875
+"68636","Elgin","NE","Husqvarna","1328 W Highway 275","68756",42.138118743896484,-98.04595184326172
+"68642","Humphrey","NE","Werner's Hardware","313 Main St","68642",41.69147491455078,-97.4854965209961
+"68643","Leigh","NE","Husqvarna","106 S Main St","68643",41.703853607177734,-97.23811340332031
+"68661","Schuyler","NE","QC Supply","574 Road 11","68661",41.46296301,-97.05818133
+"68662","Shelby","NE","shelby lumber","not_available","68662",41.19201387170378,-97.37144768325008
+"68666","Stromsburg","NE","Ericson Hardware","319 Commercial St","68666",41.11356,-97.596538
+"68701","Norfolk","NE","Menards","2311 Taylor Ave","68701",42.02685133173859,-97.44326532016875
+"68701","Norfolk","NE","Fastenal","608 W Omaha Ave","68701",42.01851126399325,-97.41615946784691
+"68701","Norfolk","NE","stanton's hardware hank","not_available","68779",41.92835787291909,-97.42509371534034
+"68701","Norfolk","NE","Tractor Supply Co.","2201 Krenzien Dr","68701",42.022644,-97.43996
+"68701","Norfolk","NE","NHS Wrestling Practice","801 Riverside Blvd, Norfolk, NE 68701","68701",42.04111908799419,-97.41470221887433
+"68701","Norfolk","NE","Scheer's Ace Hardware","1308 Omaha Ave","68701",42.01880645751953,-97.42841339111328
+"68701","Norfolk","NE","Century Lumber","not_available","68701",42.03278379453693,-97.41450158557515
+"68701","Norfolk","NE","Sears","2110 Market Lane","68701",42.023131,-97.438354
+"68701","Norfolk","NE","Glass Edge","13th Street","68779",42.05221410371854,-97.4270264540547
+"68701","Norfolk","NE","Bomgaars","1100 W Omaha Ave","68701",42.018742774466396,-97.42254321735072
+"68701","Norfolk","NE","Sherwin-Williams Paint Store","2118 Market Ln","68701",42.023562310342975,-97.43934273719788
+"68701","Norfolk","NE","Hardware Hank","not_available","68715",41.999553,-97.599075
+"68713","Atkinson","NE","Carroll Olson Entprs Inc","115 East State Street","68713",42.531202,-98.978075
+"68713","Atkinson","NE","Ace Hardware","115 E State St","68713",42.53105926513672,-98.97745513916016
+"68713","Atkinson","NE","Wallingers Shop","W Main St","68780",42.537066936491684,-98.98037910461139
+"68713","Atkinson","NE","Husqvarna","512 E 2nd St","68713",42.53403854370117,-98.97322845458984
+"68713","Atkinson","NE","Wm. Krotter Company","not_available","68780",42.59833146918593,-99.14229936361822
+"68716","Beemer","NE","Wisner True Value Hardware","1019 Avenue E","68791",41.98738812,-96.91459585
+"68716","Beemer","NE","Ortmeier True Value Hardware & Farm Store","300 3rd St","68716",41.929511,-96.812724
+"68718","Bloomfield","NE","Hefner Ace Hardware","201 E Main St","68718",42.598545,-97.642859
+"68726","Clearwater","NE","town & country hardware","not_available","68726",42.17045593261719,-98.18852233886719
+"68726","Clearwater","NE","Husqvarna","501 First St","68726",42.17156982421875,-98.19029998779297
+"68731","Dakota City","NE","Wilmes Do It Best Hardware","815 W 29th St","68776",42.46316,-96.423431
+"68739","Hartington","NE","Kruse True Value","207 N Summit Ave","68739",42.622276306152344,-97.2658462524414
+"68739","Hartington","NE","Grossenburg Implement","not_available","68739",42.609981536865234,-97.27041625976562
+"68745","Laurel","NE","LAUREL TRUE VALUE HARDWARE","402 Highway 20 S","68745",42.43648147583008,-97.09587860107422
+"68763","Oneill","NE","Plains Equipment Group®","49110 Highway 20","68763",42.45798986654076,-98.67447987359294
+"68763","Oneill","NE","Shamrock Nursery","49368 Highway 20","68763",42.4463996887207,-98.62244415283203
+"68769","Plainview","NE","PLAINVIEW TRUE VALUE","108 S Main St","68769",42.34955978393555,-97.79351043701172
+"68771","Randolph","NE","Wattier True Value","55786 Hwy 20","68771",42.37933562,-97.35625863
+"68776","South Sioux City","NE","The Home Depot","415 Cunningham Dr","51106",42.48682637994,-96.3879886893119
+"68776","South Sioux City","NE","Sioux City Iron","310 S Floyd Blvd","not_available",42.48781967163086,-96.39274597167969
+"68776","South Sioux City","NE","Biersbach Equipment & Supply","not_available","51103",42.48886085,-96.38217383333334
+"68776","South Sioux City","NE","Tool Depot","1150 Dace Ave","51106",42.4884241577458,-96.3907855383573
+"68776","South Sioux City","NE","Lechner Lumber","not_available","51101",42.48952,-96.39592900000001
+"68778","Springview","NE","The Home Depot","S Main St","not_available",42.81460952758789,-99.74871826171875
+"68778","Springview","NE","Husqvarna","102 N Linden St","68778",42.82461929321289,-99.75039672851562
+"68779","Stanton","NE","Stanton Hardware","914 Ivy St","68779",41.950645446777344,-97.2232894897461
+"68783","Verdigre","NE","Jedlicka's Hardware Hank","not_available","68783",42.59705352783203,-98.03306579589844
+"68787","Wayne","NE","Ace Hardware & Home","615 Dearborn St","68787",42.235134,-97.009167
+"68787","Wayne","NE","Bomgaars","1400 W 7th St","68787",42.2361368167518,-97.03657809465572
+"68787","Wayne","NE","Bomgaars","not_available","68787",42.235181389230554,-97.00729328120488
+"68788","West Point","NE","WEST POINT TRUE VALUE HARDWARE & LUMBER","NORTH HWY 275","68788",41.83982849121094,-96.71200561523438
+"68788","West Point","NE","Bomgaar's","1310 S Lincoln St","68788",41.82600021362305,-96.70875549316406
+"68788","West Point","NE","West Point True Value Hardware & Lumber","300 Butterfield Rd","68788",41.85478973388672,-96.71051788330078
+"68801","Grand Island","NE","Grand Island Ace Hdwe & Garden Ctr","1704 W 3rd St","68803",40.91875,-98.35786
+"68801","Grand Island","NE","Midway Wholesale","4319 Juergen Rd","68801",40.869659423828125,-98.37709045410156
+"68801","Grand Island","NE","Briggs","not_available","68803",40.907623291015625,-98.37784576416016
+"68801","Grand Island","NE","Gustave A. Larson","7362 NW 5th Street","68801",40.921856,-98.35430507043074
+"68801","Grand Island","NE","Johnny's Lock And Key","314 N Pine St","68801",40.92622375488281,-98.34056854248047
+"68801","Grand Island","NE","Kriz-Davis Co","2400 W 3rd St","68803",40.914547999999996,-98.36559100000001
+"68801","Grand Island","NE","Winfrey Plumbing and Heating","808 W North Front St","68801",40.92432,-98.34931
+"68801","Grand Island","NE","Century Lumber","363 N Pine St","68801",40.92818832397461,-98.34058380126953
+"68801","Grand Island","NE","Kelly Supply","1021 W Oklahoma Ave","68801",40.91396009,-98.34464268
+"68801","Grand Island","NE","Overhead Door","2514 E US Highway 30","68801",40.93537737697777,-98.31470003839952
+"68801","Grand Island","NE","Roofer Chic","1112 Hall St","68801",40.91094,-98.32186
+"68801","Grand Island","NE","Sherwin-Williams Paint Store","502 W 3rd St","68801",40.924119534240134,-98.34460248103348
+"68803","Grand Island","NE","The Home Depot","911 Allen Dr","68803",40.9274573,-98.3805625
+"68803","Grand Island","NE","Menards","3620 State St","68803",40.93979274431014,-98.3860445022583
+"68803","Grand Island","NE","Crescent Electric Supply Company","3970 Reuting Rd","68803",40.906837463378906,-98.39611053466797
+"68803","Grand Island","NE","Harb's Landscaping & Supply","3663 S Engelman Rd","68803",40.88153,-98.414422
+"68803","Grand Island","NE","Tractor Supply Co.","1308 North Diers Ave","68803",40.932117,-98.385596
+"68803","Grand Island","NE","Mead Lumber","1612 S Webb Rd","68803",40.905540466308594,-98.37870788574219
+"68813","Anselmo","NE","Glurs Roofing","PO Box 1664","68602",41.50087992418243,-99.75103139877318
+"68818","Aurora","NE","Aurora Ace Hardware","1320 16th St","68818",40.87035,-97.997036
+"68818","Aurora","NE","Schneiders Hardware Home & Garden","not_available","68818",40.872052,-98.01637
+"68822","Broken Bow","NE","Pracht's Ace Hardware Inc","747 S C St","68822",41.403506,-99.638891
+"68823","Burwell","NE","Do It Best","423 Grand Ave","68823",41.781467,-99.13558
+"68826","Central City","NE","bomgaars","not_available","68826",41.11682201014087,-97.99019470185871
+"68826","Central City","NE","Central True Value","308 G St","68826",41.11501336,-98.00198972
+"68835","Elba","NE","Mitre 10","Dannevirke","68835",41.3411650350814,-98.61627409883536
+"68840","Gibbon","NE","Select Sprayers","4319 Imperial Ave","68847",40.71779251098633,-98.98767852783203
+"68845","Kearney","NE","Kearney Ace Hardware & Garden Ctr","307 W 56th St","68845",40.728660583496094,-99.08574676513672
+"68845","Kearney","NE","Jack Ledderman Co","1901 5th Ave","68845",40.69382641666667,-99.08853005
+"68845","Kearney","NE","Tractor Supply Co.","514 Third Ave","68845",40.679303000000004,-99.08662
+"68845","Kearney","NE","Builders Warehouse","4600 2nd Ave","68847",40.719425,-99.085331
+"68845","Kearney","NE","Ace","439-527 W 56th St","68845",40.728192093701786,-99.08563422361318
+"68847","Kearney","NE","Masters True Value","2505 Grand Avenue -","68847",40.70056915283203,-99.06269836425781
+"68847","Kearney","NE","Menards","6411 1st Ave","68847",40.73545268389389,-99.08147723739671
+"68847","Kearney","NE","Bedrock Marble","1508 E 25th St","68847",40.70074462890625,-99.06193542480469
+"68847","Kearney","NE","Sears","5011 2nd Ave Ste 43","68847",40.7238691,-99.0818254
+"68847","Kearney","NE","Drywall Supply","419 Landon Street","68847",40.67587288,-99.07698879
+"68847","Kearney","NE","Kearney Winnelson","not_available","68847",40.70199586,-99.06434011
+"68847","Kearney","NE","Butler AG Equipment","2607 E 32nd Street Pl","68847",40.70631790161133,-99.04769134521484
+"68847","Kearney","NE","Holmes","2003 Ave C, Kearney, NE 68847","68847",40.695382818831334,-99.07702559798518
+"68847","Kearney","NE","Fastenal","2630 Highway 30 E","68847",40.703822,-99.046565
+"68847","Kearney","NE","Buffalo Outdoor Power","2010 B Ave","68847",40.696266174316406,-99.07929992675781
+"68847","Kearney","NE","Winlectric","1960 1st Ave","68847",40.69465511666667,-99.08208765
+"68847","Kearney","NE","NCS Equipment Rental","3281-3339 Antelope Ave","68847",40.703393065722175,-99.04581229872366
+"68847","Kearney","NE","Sherwin-Williams Paint Store","3715 2nd Ave","68847",40.71259063938465,-99.08329552732233
+"68847","Kearney","NE","Linweld","582-598 Central Ave","68847",40.68058209,-99.08169179
+"68850","Lexington","NE","Meade Lumber","700 Plum Creek Pkwy","68850",40.77046203613281,-99.73909759521484
+"68850","Lexington","NE","Bob's True Value","1601 Plum Creek Parkway","68850",40.762210845947266,-99.74093627929688
+"68853","Loup City","NE","Kuszak Hardware & Variety","635 O St","68853",41.27444839477539,-98.96674346923828
+"68862","Ord","NE","Ord True Value","227 S 16th St","68862",41.6018728278562,-98.9293519931892
+"68862","Ord","NE","Napa","not_available","68862",41.60472106933594,-98.92704010009766
+"68862","Ord","NE","Husqvarna","915 S 11th St","68862",41.59541320800781,-98.92388916015625
+"68869","Ravenna","NE","Wilke True Value","204 Grand Ave","68869",41.02435,-98.91275959
+"68873","Saint Paul","NE","Smith Welding","not_available","68873",41.21406278018803,-98.45202094315299
+"68876","Shelton","NE","John Deere","not_available","68876",40.781638161200995,-98.72763300941517
+"68901","Hastings","NE","Menards","3400 Osborne Dr E","68901",40.6199953103744,-98.38050842285156
+"68901","Hastings","NE","Orscheln Farm & Home","not_available","68901",40.56386631220024,-98.39406098422351
+"68901","Hastings","NE","minuteKEY","3803 Osborne Dr W","68901",40.62440490722656,-98.38513946533203
+"68901","Hastings","NE","Showcase","501 West 1st Street","68901",40.5840227,-98.38762799999999
+"68901","Hastings","NE","DeBoer Outdoor Power","3301 Yost Ave","68901",40.619158,-98.3779117
+"68901","Hastings","NE","Big G Ace Hardware","3203 Osborne Dr W","68901",40.618089,-98.385506
+"68901","Hastings","NE","Mr. Tire","1113 W J St","68901",40.56778,-98.39566
+"68901","Hastings","NE","Orschelns","1315 W J St","68901",40.56737519,-98.398506
+"68901","Hastings","NE","Tractor Supply Co.","3000 Osborn Dr East Ste 100","68901",40.616024,-98.38063
+"68901","Hastings","NE","Sherwin-Williams Paint Store","315 N Burlington Ave","68901",40.58676281022451,-98.39270141345665
+"68901","Hastings","NE","Kully Pipe & Steel Supply","405 W South St","68901",40.582439,-98.386851
+"68920","Alma","NE","Trustworthy Hardware","716 Main St","68920",40.09773,-99.36245
+"68922","Arapahoe","NE","True Value Hardware","519 Nebraska Ave","68922",40.30389474,-99.89801411
+"68939","Franklin","NE","Lumber Yard","not_available","68939",40.097747,-98.956063
+"68949","Holdrege","NE","J D Lumber","not_available","68949",40.438262939453125,-99.39112091064453
+"68949","Holdrege","NE","True Value","West 4th Avenue","68949",40.437120241752105,-99.38205438628748
+"68949","Holdrege","NE","Svoboda's Ace Hardware","205 W 4th Ave","68949",40.4378749,-99.38265
+"68949","Holdrege","NE","Limitless Garage Solutions","2812 Burlington St","68949",40.46378743,-99.37856545
+"68959","Minden","NE","Minden Lumber and Concrete","247 N Colorado Ave","68959",40.49728012084961,-98.94951629638672
+"68970","Red Cloud","NE","Red Cloud Hardware","425 N Webster St","68970",40.08919143676758,-98.51962280273438
+"68978","Superior","NE","LandMark Implement","1890 Idaho St","68978",40.0362914,-98.06665729999999
+"68978","Superior","NE","Superior Ace Hardware","250 N Central Ave","68978",40.018415999999995,-98.071009
+"69001","Mc Cook","NE","D & S Hardware","897-999 Armory Pl","69001",40.199854,-100.63646
+"69001","Mc Cook","NE","Killdare","not_available","69001",40.198091,-100.624606
+"69001","Mc Cook","NE","McCook Ace Hardware","201-209 West C Street","69001",40.1999989,-100.62769
+"69001","Mc Cook","NE","Barnett's Do it center","1601-1751 U.S. 83","69001",40.198366,-100.620772
+"69001","Mc Cook","NE","Alco","601-799 W D St","69001",40.201194683333334,-100.63450763333333
+"69001","Mc Cook","NE","Tractor Supply Co.","208 Westview Plaza","69001",40.201134,-100.646097
+"69001","Mc Cook","NE","Husqvarna","801 W C St","69001",40.20006561279297,-100.63758087158203
+"69020","Bartley","NE","Lords Hardware","not_available","69034",40.23406510252211,-100.4176062144553
+"69021","Benkelman","NE","OWENS TRUE VALUE IMPRL.","1102 W Highway 34","69021",40.066810607910156,-101.5094985961914
+"69033","Imperial","NE","brophy electric","not_available","69033",40.51660611907705,-101.63012948029919
+"69033","Imperial","NE","Owens True Value Hardware","541 Highway 61","69033",40.51726,-101.629264
+"69101","North Platte","NE","North Platte Ace Hardware","235 E 6th St","69101",41.138989,-100.761567
+"69101","North Platte","NE","Do It Center","not_available","69101",41.14493415295118,-100.7608625589444
+"69101","North Platte","NE","Sherwin-Williams Paint Store","301 E 4th St","69101",41.13661486912355,-100.76037908590882
+"69101","North Platte","NE","Tractor Supply Co.","3728 South Jeffers St","69101",41.100407,-100.76548
+"69101","North Platte","NE","Menards","4571 S Parkway Dr","69101",41.093889976266745,-100.76297170500783
+"69101","North Platte","NE","Knapp Electric Inc","1900 E 4th St","69101",41.13294,-100.74061
+"69101","North Platte","NE","Fastenal","1617 E 4th St","69101",41.134193420410156,-100.74369049072266
+"69101","North Platte","NE","Swan's Fine Home","420 E 4th St","69101",41.135731,-100.759012
+"69101","North Platte","NE","TimeTool & Equipment Rentals.","908 Rodeo Rd","69101",41.147599,-100.770961
+"69101","North Platte","NE","North Platte Auto Tint","910 Industrial Avenue","69101",41.125728607177734,-100.73960876464844
+"69120","Arnold","NE","Hardware Hanks","not_available","69120",41.42275,-100.193
+"69122","Big Springs","NE","BIG SPRINGS COUNTRY SPLY TRUE VALUE","225 CHESTNUT","69122",41.062652587890625,-102.0732421875
+"69129","Chappell","NE","foster lumber","not_available","69129",41.093955993652344,-102.4727783203125
+"69129","Chappell","NE","Chappell Lumber","682 3rd St","69129",41.09364,-102.472536938776
+"69130","Cozad","NE","Tractor Supply Co.®","110 South Meridian Ave","69130",40.85274644,-99.9848
+"69130","Cozad","NE","222 Hardware","144 E 8th St","69130",40.8595655102041,-99.9852604081633
+"69140","Grant","NE","Country Supply True Value","205 Central Ave","69140",40.84098959,-101.725082
+"69143","Hershey","NE","kildare lumber","not_available","69165",41.15594106759197,-101.12842092374164
+"69145","Kimball","NE","Hometown Hardware","not_available","69145",41.236679,-103.663029
+"69153","Ogallala","NE","Kildare Lumber Company","1325 W 1st St","69153",41.12296875,-101.73404585
+"69153","Ogallala","NE","minuteKEY","201 Pony Express Lane","69153",41.113502502441406,-101.71914672851562
+"69153","Ogallala","NE","Ogallala Ace Hardware","605 E A St S","69153",41.1098039,-101.71561
+"69153","Ogallala","NE","A & B Tool And Equipment Rental","802 E 1st St","69153",41.12580491736997,-101.71082496643066
+"69154","Oshkosh","NE","Oshkosh Ace Hardware","400 W Avenue A","69154",41.401859283447266,-102.34883880615234
+"69162","Sidney","NE","Finneys Ace Hardware","1035 Illinois St","69162",41.1447679,-102.97719
+"69165","Sutherland","NE","Independent Sun Power","100 Pettit Dr","69167",41.65357971191406,-101.2550048828125
+"69201","Valentine","NE","True Value","303 N Main","69201",42.87472495,-100.5508752
+"69201","Valentine","NE","Ohlmann Building Ctr & Ace","103 N Cherry St","69201",42.87184524536133,-100.55278778076172
+"69210","Ainsworth","NE","Bomgaars","843 E 4th St, Ainsworth, NE 69210","69210",42.54941177368164,-99.85120391845703
+"69301","Alliance","NE","Carter's Home Hardware and Appliance","312 Flack Ave","69301",42.097908473962086,-102.85905402828575
+"69301","Alliance","NE","Bomgaars","2542 South Hwy 385","69301",42.09607890720988,-102.89906212070491
+"69301","Alliance","NE","Roller Hardware Appliance","416 Box Butte Ave","69301",42.098812103271484,-102.87120819091797
+"69301","Alliance","NE","Bernie's","315 Laramie Ave","69301",42.097747802734375,-102.87174224853516
+"69301","Alliance","NE","Alliance Tractor & Implement Co.","919 Flack Ave","69301",42.104182,-102.858117
+"69334","Bayard","NE","TRAIL CITY SUPPLY","925 Main St","69336",41.66533660888672,-103.0997314453125
+"69334","Bayard","NE","Bergs","921 Main St","69336",41.665523529052734,-103.10002136230469
+"69337","Chadron","NE","Chadron Ace Hardware","760 W 3rd St","69337",42.830232,-103.01064
+"69337","Chadron","NE","Hay Springs Lumber","not_available","69347",42.683817,-102.689963
+"69337","Chadron","NE","Herren Brothers True Value Hardware","402 2nd St","69339",42.68567898,-103.4133292
+"69337","Chadron","NE","Sears","302 E 2nd St","69337",42.83083209999999,-102.9978458
+"69337","Chadron","NE","Morford's Decorating Center, Inc.","1250 W 6th St","69337",42.8258154,-103.0173263
+"69337","Chadron","NE","Fire & Ice Mechanical","not_available","69337",42.830658,-102.99045
+"69343","Gordon","NE","True Value Hardware","217 N Main St","69343",42.80501143,-102.2032651
+"69346","Harrison","NE","Herren Brothers True Value Lumber","200 2nd St","69346",42.68719,-103.88791
+"69352","Lyman","NE","Morrill Hardware & Building Supply","106 Center Ave","69358",41.96247482299805,-103.92662048339844
+"69357","Mitchell","NE","The Home Depot","3102 Avenue I","69361",41.87744588037269,-103.67775857448578
+"69357","Mitchell","NE","menards","not_available","69357",41.94195677054228,-103.80291667372038
+"69361","Scottsbluff","NE","Murdoch's Ranch & Home Supply","1510 E 20th St","69361",41.86574935913086,-103.642578125
+"69361","Scottsbluff","NE","Harbor Freight","not_available","69361",41.869582,-103.646827
+"69361","Scottsbluff","NE","Bomgaars","230250-230280 U.S. 26 Scenic","69361",41.86111321220446,-103.63040138345906
+"69361","Scottsbluff","NE","Menards","2401 Delta Dr","69361",41.86489176421872,-103.63174047227177
+"69361","Scottsbluff","NE","Hydrotex","202 E Overland","69361",41.859091,-103.659539
+"69361","Scottsbluff","NE","Sherwin-Williams Paint Store","610 W 27th St","69361",41.873855,-103.670863

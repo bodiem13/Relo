@@ -1,0 +1,184 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"05001","White River Junction","VT","Coop Food Stores","209 Maple St","05001",43.65227289341396,-72.3182841228826
+"05001","White River Junction","VT","Walmart","285 Plainfield Rd","03784",43.62500387312125,-72.32276456201234
+"05001","White River Junction","VT","Shaw's","10 Benning Dr","03784",43.63202952714352,-72.31557905673986
+"05001","White River Junction","VT","White River Co-op","Pine St","05001",43.65216445011343,-72.31827146803484
+"05001","White River Junction","VT","Upper Valley Food Co-Op","193 N Main St","05001",43.650193510560506,-72.32185432793713
+"05001","White River Junction","VT","Dan and Whit's","319 Main St","05055",43.71473651775792,-72.30871984054488
+"05001","White River Junction","VT","Yipings Asian Market","not_available","03784",43.647029876708984,-72.31047058105469
+"05001","White River Junction","VT","Sterns Quality Produce","83 Pine St","05001",43.65293484798463,-72.31716207165401
+"05001","White River Junction","VT","Shaw's","250 Plainfield Rd","03784",43.63045224636976,-72.32244817443066
+"05001","White River Junction","VT","Singleton's Market","Rt. 4","05001",43.64345734322711,-72.42166329022103
+"05031","Barnard","VT","Barnard General Store","6231 VT Route 12","05031",43.72825089768444,-72.61864185333252
+"05032","Bethel","VT","Bethel Central Market","183 Main St","05032",43.8307360149384,-72.63283081997724
+"05033","Bradford","VT","South End Market","not_available","not_available",43.9949089312029,-72.12743081692125
+"05045","Fairlee","VT","Patterson's","not_available","03777",43.905432756904005,-72.13744080165077
+"05055","Norwich","VT","Hanover Co-op","45 S Park St","03755",43.69804656505611,-72.28054027749296
+"05055","Norwich","VT","Topside","West Wheelock St","03755",43.703218823580755,-72.28990572959512
+"05055","Norwich","VT","Jaybar, Inc","2 Allen St","03755",43.7014876,-72.2914464
+"05055","Norwich","VT","Collis Market","2 N Main St","03755",43.702698,-72.289911
+"05060","Randolph","VT","Shaw's","127 VT Hwy 12s","05060",43.91194333498015,-72.66314239832354
+"05065","Sharon","VT","Sharon Trading Post","5038 Vermont 14","05065",43.784144134604965,-72.4544459169867
+"05068","South Royalton","VT","South Royalton Co-op","105 Chelsea St","05068",43.82019169572065,-72.52188526835958
+"05089","Windsor","VT","Price Chopper","2741 US Rte 5 N","05089",43.486212,-72.384753
+"05089","Windsor","VT","12% Solution","994 Town House Rd","03745",43.46818161010742,-72.38326263427734
+"05091","Woodstock","VT","Woodstock Farmers' Market","468 Woodstock Rd","05091",43.61681799976368,-72.54226259787889
+"05091","Woodstock","VT","Mac's Woodstock Market","37 Pleasant St","05091",43.62652028746111,-72.51192382639552
+"05101","Bellows Falls","VT","Lisai's Market","128 Atkinson St","05101",43.137876,-72.453057
+"05101","Bellows Falls","VT","Tops","rt 5","05101",43.16539121666667,-72.45632136666667
+"05142","Cavendish","VT","Singleton's General Store","356 Main St","05153",43.38172786961369,-72.6403806761254
+"05143","Chester","VT","Grafton Village Store","not_available","05146",43.172103,-72.607753
+"05143","Chester","VT","Springfield Food Co-op","335 River St Ste 1","05156",43.31840896606445,-72.50418090820312
+"05148","Londonderry","VT","Clark's IGA","not_available","05148",43.2286888756684,-72.81505054471086
+"05149","Ludlow","VT","Shaw's","213 Main St","05149",43.3969757,-72.7035988
+"05155","South Londonderry","VT","Winhall Market","46 Route 30","05340",43.14455647209263,-72.8752297900433
+"05156","Springfield","VT","Shaw's","2 Chester Rd","05156",43.30248844300941,-72.49242782592773
+"05201","Bennington","VT","Aldi","10 Kocher Dr","05201",42.89536544425817,-73.20091992616653
+"05201","Bennington","VT","Price Chopper","214 Northside Dr","05201",42.89864,-73.212396
+"05201","Bennington","VT","Walmart Supercenter","212 Northside Dr","05201",42.89811593,-73.21021536
+"05201","Bennington","VT","Henry's Market","831 Main St","05201",42.879425663467984,-73.181136039593
+"05201","Bennington","VT","Walmart Grocery Pickup","210 Northside Dr","05201",42.897823333740234,-73.21070861816406
+"05201","Bennington","VT","Mag's Market","not_available","05201",42.871661516246256,-73.19613021284411
+"05254","Manchester","VT","Shaw's","64 Equinox Terrace","05255",43.17195158145684,-73.06156845423175
+"05255","Manchester Center","VT","Price Chopper","263 Depot St","05255",43.175604,-73.052275
+"05255","Manchester Center","VT","Fortuna's Sausage & Italian Market","4943 Main St","05255",43.17744708,-73.05574209
+"05255","Manchester Center","VT","Nature's Market","Center Hill Road","05255",43.176945894066954,-73.0523829516237
+"05301","Brattleboro","VT","Brattleboro Food Co-op","2 Main St","05301",42.850726521526546,-72.55800885784714
+"05301","Brattleboro","VT","Walmart Supercenter","724 Brattleboro Rd","03451",42.812953486086414,-72.5308783516573
+"05301","Brattleboro","VT","ALDI","Putney Road","05301",42.87334228544138,-72.56015944901553
+"05301","Brattleboro","VT","Market 32","499 Canal St","05301",42.839256286621094,-72.56684875488281
+"05301","Brattleboro","VT","Riverside Grocery","913 Gulf Rd","03466",42.883697509765625,-72.54972076416016
+"05301","Brattleboro","VT","Dotties Discount Foods","26-72 Flat St","05301",42.851271160446615,-72.55941644881742
+"05301","Brattleboro","VT","Market Basket","not_available","05301",42.839238,-72.566003
+"05343","Jamaica","VT","D&K's Jamaica Grocery","3816 VT Rte. 30","not_available",43.09990876900741,-72.77955639870267
+"05345","Newfane","VT","Riverbend Farm Market","625 VT Route 30","05353",43.02756118774414,-72.65853118896484
+"05356","West Dover","VT","Snow Mountain Market","323 Vermont 100","05356",42.95573432090553,-72.88168619990141
+"05363","Wilmington","VT","River Valley Market","661 VT Route 100 N","05363",42.90632450590319,-72.84981117994904
+"05363","Wilmington","VT","Shaw's","97 E Main St","05363",42.8647144,-72.8630348
+"05363","Wilmington","VT","Deerfield Valley Food Pantry","7 Church St","05363",42.906294649152734,-72.84962378388855
+"05401","Burlington","VT","Price Chopper","595 Shelburne Rd","05401",44.448884,-73.210604
+"05401","Burlington","VT","Shaw's","66 Mountain View","05446",44.50905775530667,-73.18092408824668
+"05401","Burlington","VT","City Market (Onion River Co-Op)","207 Flynn Ave","05401",44.45512394328189,-73.21792825171217
+"05401","Burlington","VT","Trader Joe's","200 Dorset St","05403",44.46378392173771,-73.18035934396865
+"05401","Burlington","VT","Shaw's","570 Shelburne Rd","05401",44.44969021153386,-73.20698443119909
+"05401","Burlington","VT","Willard Street Market","141 N Willard St","05401",44.484801,-73.206151
+"05401","Burlington","VT","Neighborhood Market","457 Saint Paul St","05401",44.4674,-73.210166
+"05401","Burlington","VT","Everest Market","97 North St","05401",44.48442,-73.218291
+"05401","Burlington","VT","Happy Belly Deli and Grill","65 Winooski Falls Way #B104","05404",44.49049815745826,-73.1840316371744
+"05401","Burlington","VT","Global Mart Ethnic Grocery","156 N Winooski Ave","05401",44.48493576049805,-73.21115112304688
+"05401","Burlington","VT","Thai Phat Oriental Food Market","100 North St","05401",44.484637022358385,-73.2180830826079
+"05401","Burlington","VT","Sagarmatha Grocery","235 Main St","05404",44.496036529541016,-73.18505096435547
+"05401","Burlington","VT","UVM Marché","409 S Prospect St","05401",44.473643528581604,-73.1946174069386
+"05403","South Burlington","VT","Price Chopper","41 Hinesburg Rd","05403",44.465951,-73.172247
+"05403","South Burlington","VT","Gagan Indian Grocery","1293 Williston Rd","05403",44.466827,-73.172228
+"05404","Winooski","VT","A Taste of Europe","not_available","05446",44.505568763227984,-73.17478521189939
+"05408","Burlington","VT","Price Chopper","1184 Prim Rd","05446",44.537748,-73.247755
+"05408","Burlington","VT","Darshan Namaste Asian Deli","1355 North Ave","05408",44.51137819838968,-73.25130376982722
+"05443","Bristol","VT","Shaw's","7 Prince Lane","05443",44.13376255068973,-73.07702334241179
+"05443","Bristol","VT","Almost Home Market","28 North St","05443",44.13500192392775,-73.0784836168018
+"05443","Bristol","VT","Jerusalem Corners Country Store","1858 VT Route 17","05487",44.170212041659234,-72.98679113388062
+"05443","Bristol","VT","Lincoln General Store","17 E River Rd","05443",44.105805,-72.9967
+"05444","Cambridge","VT","Cambridge Village Market","113 S Main St","05444",44.64469376299878,-72.87678170292604
+"05444","Cambridge","VT","Hanley's General","30 Main St","05464",44.64387697924027,-72.82922866029537
+"05446","Colchester","VT","Mac's Market","101 Pearl St","05452",44.49541458391607,-73.12111072606257
+"05446","Colchester","VT","Dick Mazza's General Store","W Lakeshore Dr.","05446",44.55049166782623,-73.22937137321415
+"05446","Colchester","VT","Everest Asian Market","62 Pearl St","05452",44.492966,-73.118813
+"05448","East Fairfield","VT","Menard's Market","4684 VT Route 36","05455",44.80195999145508,-72.94091033935547
+"05450","Enosburg Falls","VT","Vista Foods","not_available","05476",44.996287,-72.672792
+"05450","Enosburg Falls","VT","Mac's Market","44 Main St","05476",44.996499916666664,-72.67284148333333
+"05452","Essex Junction","VT","Price Chopper","90 Center Rd","05452",44.511655,-73.066248
+"05452","Essex Junction","VT","Shaw's Supermarket","not_available","05452",44.505657368498895,-73.05985450744629
+"05454","Fairfax","VT","Georgia Market","962 Ethan Allen Hwy","05478",44.6929937557598,-73.10792971291936
+"05455","Fairfield","VT","Rail City Market","8 S Main St","05478",44.8106476,-73.08364277
+"05455","Fairfield","VT","Evelyne's On Center","15 Center St","05478",44.812732,-73.083818
+"05455","Fairfield","VT","Price Chopper","170 Swanton Rd","05478",44.835821,-73.083781
+"05456","Ferrisburgh","VT","Shaw's","115C Monkton Rd","05491",44.1734164,-73.2421878
+"05457","Franklin","VT","Marché Richelieu - Les Entreprises Ouellet & Raymond","3795 Rue Saint-André","H2L 3V6",45.0,-73.0
+"05457","Franklin","VT","Super C","600 Boul Laurier","J3G 4J2",45.0,-73.0
+"05457","Franklin","VT","Marché Richelieu - Marché Labonté","365 Rue Jacques-Cartier Sud","J3B 4K1",45.0,-73.0
+"05458","Grand Isle","VT","A&B The Islands Supermarket","Route 2","05458",44.72038538974699,-73.29458486896841
+"05459","Highgate Center","VT","Desorcies Market","not_available","05459",44.93856207286173,-73.04574296260549
+"05461","Hinesburg","VT","Lantman's","10618 Rte 116","05461",44.32870195812299,-73.10938823412981
+"05462","Huntington","VT","Beaudry's Store","2175 Main Rd","05462",44.32077286415698,-72.98043578411324
+"05465","Jericho","VT","Richmond Market & Beverage","56 Railroad St","05477",44.40429243871182,-72.99488553979884
+"05465","Jericho","VT","Jericho Market","364 VT Route 15","05465",44.520788,-72.947103
+"05471","Montgomery Center","VT","Sylvesters Market","20 Main St","05471",44.87766894008075,-72.6081417542186
+"05478","Saint Albans","VT","Walmart","700 Tuckers Way","05478",44.84159057299903,-73.08880740563123
+"05478","Saint Albans","VT","Food City","101 Lake St","05478",44.81191758258249,-73.08764921383796
+"05486","South Hero","VT","Keeler Bay Variety","500 Route 2","05486",44.66163911590289,-73.3220291120632
+"05494","Westford","VT","Westford Market","1691 Main St","05494",44.61170722466072,-73.00889885446398
+"05495","Williston","VT","Walmart","863 Harvest Ln","05495",44.44190950780723,-73.12141573453555
+"05495","Williston","VT","Shaw's","71 Boxwood St","05495",44.44687491494603,-73.10834723717562
+"05495","Williston","VT","Natural Provisions Market","329 Harvest Ln","05495",44.448640554132126,-73.11505826704465
+"05602","Montpelier","VT","Walmart Supercenter","282 Berlin Mall Rd","05602",44.21592950825318,-72.56512633646598
+"05602","Montpelier","VT","Shaw's","160 Paine Turnpike N","05602",44.21137094789217,-72.57253076150624
+"05602","Montpelier","VT","Price Chopper","168 Ames Dr","05641",44.223551,-72.547176
+"05602","Montpelier","VT","Shaw's","2 Main St","05602",44.2588542,-72.5775085
+"05602","Montpelier","VT","L B J's Grocery","44 Worcester Village Rd","05682",44.370853424072266,-72.55015563964844
+"05602","Montpelier","VT","Dente's Market","406 N Main St #5","05641",44.20300448177546,-72.50828141679945
+"05602","Montpelier","VT","Grand Union","63 Plaza Dr","05663",44.16167449951172,-72.65546417236328
+"05641","Barre","VT","Trow Hill Grocery","275 Hill St","05641",44.191627502441406,-72.48042297363281
+"05641","Barre","VT","Schwan's Sales Enterprises","72 Pitman Rd","05641",44.17319107055664,-72.48395538330078
+"05641","Barre","VT","Quality Market","155 Washington St","05641",44.192493127888305,-72.49331611490565
+"05655","Hyde Park","VT","Price Chopper","370 Munson Ave","05661",44.572719,-72.589619
+"05657","Lake Elmore","VT","Elmore Store","1208 VT Route 12","05657",44.54083251953125,-72.5236587524414
+"05661","Morrisville","VT","Shaw's","751 Maple St","05672",44.4714571,-72.6741985
+"05661","Morrisville","VT","Mac's Market","88 S Main St","05661",44.46511688507945,-72.68947348093715
+"05661","Morrisville","VT","Alpine Mart / SUBWAY","968 Mountain Rd","05672",44.47398822908347,-72.69721534411269
+"05672","Stowe","VT","School House Store","383 Moscow Rd","05672",44.44010543823242,-72.71495056152344
+"05673","Waitsfield","VT","Mehuron's Grocery","5901 Main St # 6","05673",44.1842678818691,-72.83551197932144
+"05673","Waitsfield","VT","Shaw's","27 Mad River Canoe Rd","05673",44.1853649,-72.8382937
+"05673","Waitsfield","VT","Village Grocery / Giving Gas","4348 Main St","05673",44.190642864675105,-72.8241379088722
+"05676","Waterbury","VT","Shaw's","820 Waterbury Stowe Rd","05676",44.3477177,-72.7436672
+"05676","Waterbury","VT","Village Market of Waterbury","80 S Main St","05676",44.33541964996526,-72.75359495453804
+"05676","Waterbury","VT","Squash Valley Produce","2597 Waterbury Stowe Rd","05676",44.368858,-72.730467
+"05676","Waterbury","VT","Woodstock Farmers Market","2802 Waterbury-Stowe Rd","05677",44.371295,-72.726494
+"05680","Wolcott","VT","Craftsbury General Store","114 S Craftsbury Rd","05826",44.634591,-72.371956
+"05701","Rutland","VT","The Killington Market","2023 Killington Rd","05751",43.64418450477428,-72.7881217161351
+"05701","Rutland","VT","Walmart","90 Shopping Plz","05701",43.60548012015309,-72.98034832367962
+"05701","Rutland","VT","Price Chopper","38 Rutland Shopping Plz","05701",43.603904,-72.978458
+"05701","Rutland","VT","Killington Deli & Marketplace","2068 Route 4","05751",43.66686998050044,-72.80875356149076
+"05701","Rutland","VT","Stewart's Shops","Grove St","05701",43.61099229996873,-72.98138682120714
+"05701","Rutland","VT","Community Cupboard","not_available","05701",43.60771479338811,-72.99112022511332
+"05701","Rutland","VT","Discount Food Of Rutland","Cleveland ave","05701",43.61302947998047,-72.98836517333984
+"05701","Rutland","VT","ALDI","263 S Main St","05701",43.5901669,-72.9696264
+"05735","Castleton","VT","Pruniers Market","700 Route 4A W","05735",43.607845943898994,-73.2220779594736
+"05743","Fair Haven","VT","Shaw's","Washington St","05743",43.60203152320916,-73.27568906081692
+"05743","Fair Haven","VT","Shaw's","195 Old Route 22A","05743",43.601733301897966,-73.27610762449694
+"05743","Fair Haven","VT","Green Mountain Food Services, Inc.","4 Smith St","12887",43.54762268066406,-73.40902709960938
+"05743","Fair Haven","VT","Putorti's Broadway Market","155 Broadway","12887",43.55019,-73.40446
+"05753","Middlebury","VT","Middlebury Natural Food Co-op","9 Washington St","05753",44.01499616633535,-73.16513659155106
+"05753","Middlebury","VT","Shaw's","8 Washington St","05753",44.0143883,-73.163546
+"05753","Middlebury","VT","Greg's Meat Market","3 Elm St","05753",44.01859436204046,-73.16925768296323
+"05762","Pittsfield","VT","Original General Store","3963 Route 100","not_available",43.77280866173594,-72.81308203593792
+"05764","Poultney","VT","Shaw's","55 Depot St","05764",43.51797255342492,-73.23748917910052
+"05764","Poultney","VT","Discount Food Of Poultney","298 E Main St","05764",43.51773452758789,-73.22723388671875
+"05767","Rochester","VT","Mac's Market","67 N Main St","05767",43.875248700244185,-72.80840109154538
+"05776","West Rupert","VT","Price Chopper","56 Commons Drive","05829",43.284595,-73.155904
+"05777","West Rutland","VT","Price Chopper","100 Westway Mall Drive","05777",43.592393,-73.042474
+"05819","Saint Johnsbury","VT","Price Chopper","857 Memorial Dr","05819",44.444363,-72.016528
+"05819","Saint Johnsbury","VT","The White Market","385 Portland St","05819",44.420944,-72.00826464
+"05819","Saint Johnsbury","VT","Big Apple Food Stores","Portland St","not_available",44.4207090040055,-72.01005886644981
+"05819","Saint Johnsbury","VT","Northeast Kingdom Processing","796 Industrial Pkwy","05819",44.497947692871094,-72.01396942138672
+"05820","Albany","VT","Albany Village Country Market","not_available","05820",44.731198,-72.380537
+"05822","Barton","VT","Currier's Market","2984 Glover St","05839",44.70613479614258,-72.1878662109375
+"05822","Barton","VT","C & C Supermarket","71 Church St","05822",44.7498779296875,-72.17979431152344
+"05829","Derby","VT","Marché Richelieu - Marché St-Valérien","1380 Rue Principale","J0H 2B0",45.0,-72.0
+"05829","Derby","VT","Derby Village Store","483 Main St","05829",44.947992275769586,-72.13318876901111
+"05833","East Charleston","VT","East Charleston Country Store","not_available","05833",44.8379535,-71.9899966
+"05843","Hardwick","VT","Hardwick Village Market","not_available","05843",44.504072,-72.364701
+"05846","Island Pond","VT","Ted's Market","126 Cross St","05846",44.806989,-71.909872
+"05851","Lyndonville","VT","The White Market","not_available","05851",44.51992354830894,-72.0033271525257
+"05851","Lyndonville","VT","White's Market","128 Main St","05851",44.535740807605926,-72.00444050064193
+"05855","Newport","VT","Walmart Supercenter","115 Seymour Dr","05855",44.950165,-72.172386
+"05855","Newport","VT","Price Chopper","56 Commons Dr","05829",44.953846,-72.16088
+"05855","Newport","VT","Shaw's","4340 US Rt 5","05829",44.95382395690655,-72.15468406677252
+"05855","Newport","VT","Covered Bridge Maple Sugaring","6095 Lake Rd","05857",44.9997673034668,-72.25750732421875
+"05855","Newport","VT","Vista Foods","21 Waterfront Plz","05855",44.93930766461336,-72.20568218419639
+"05859","North Troy","VT","Jay Country Store","1077 VT Route 242","05859",44.947598176909004,-72.43921458056988
+"05859","North Troy","VT","Troy General Store","6740 VT Rt 100","05868",44.90414622845244,-72.40531154414579
+"05859","North Troy","VT","Main Street Grocery","67 Main St","05859",44.995705869309994,-72.4039574328848
+"05860","Orleans","VT","Lanoue's General Store","72 Main St","05860",44.809831939726024,-72.20432688478803
+"05860","Orleans","VT","Thibault's Market","1-51 Main St","05860",44.810077707280264,-72.2041353939262
+"05903","Canaan","VT","Solomon's","not_available","03597",44.995548248291016,-71.533935546875
+"05905","Guildhall","VT","Shaw's","199 Main St","03584",44.496398333009,-71.57349900172449

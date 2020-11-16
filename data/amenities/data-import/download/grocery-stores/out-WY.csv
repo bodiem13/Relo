@@ -1,0 +1,101 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"82001","Cheyenne","WY","King Soopers","3702 Dell Range Blvd","82009",41.161308233008036,-104.76460307836533
+"82001","Cheyenne","WY","Walmart Supercenter","2032 Dell Range Blvd","82009",41.16387776252936,-104.79112756045718
+"82001","Cheyenne","WY","Walmart Supercenter","580 Livingston Avenue","82007",41.12613992591921,-104.76468072969934
+"82001","Cheyenne","WY","Safeway","700 S Greeley Hwy","82007",41.110864,-104.802451
+"82001","Cheyenne","WY","Natural Grocers","5116 Frontier Mall Dr Ste 400","82009",41.164693843986655,-104.7999772326356
+"82001","Cheyenne","WY","Albertsons","3355 E Pershing Blvd","82001",41.1442992,-104.7690476
+"82001","Cheyenne","WY","Cash-Wa","1506 Thomes Ave Ste A","82001",41.13064956665039,-104.81864929199219
+"82001","Cheyenne","WY","Safeway","469 Cole Center","82001",41.144841624525306,-104.78796015759512
+"82001","Cheyenne","WY","oroweat","not_available","82007",41.123072973362746,-104.80206770607707
+"82001","Cheyenne","WY","Grocery Store","not_available","82001",41.130584,-104.830808
+"82009","Cheyenne","WY","Albertsons","5800 Yellowstone Rd","82009",41.17268211300173,-104.8299390077591
+"82070","Laramie","WY","Walmart Supercenter","4308 E Grand Ave","82070",41.30179594110061,-105.54048071999561
+"82070","Laramie","WY","Safeway","554 N 3rd St","82072",41.3170093,-105.5949072
+"82070","Laramie","WY","Ridley's","3112 E Grand Ave","not_available",41.308065,-105.555779
+"82070","Laramie","WY","Albertsons","3112 E Grand Ave","82070",41.30820302050608,-105.55562729363376
+"82070","Laramie","WY","Big Hollow Food Coop","119 S 1st St","82070",41.312532,-105.595147
+"82082","Pine Bluffs","WY","Trails End Market","Pine","82082",41.172296994318906,-104.08301866973424
+"82190","Yellowstone National Park","WY","Lake Yellowstone General Store","not_available","not_available",44.5501,-110.39665
+"82190","Yellowstone National Park","WY","Lake Lodge General Store","not_available","82190",44.549843,-110.39651
+"82201","Wheatland","WY","Safeway","1307 16th St","82201",42.060747,-104.9645316
+"82201","Wheatland","WY","Thrifty Foods","not_available","82201",42.054116,-104.954833
+"82201","Wheatland","WY","Thrifty Foods","500-630 W Ontario St","82214",42.269847068723145,-104.74818298260212
+"82240","Torrington","WY","KELLY'S SUPER MARKET","1042 Main St","82240",42.05540084838867,-104.18487548828125
+"82240","Torrington","WY","Main Street Market","1542 Main St","82240",42.06051356656594,-104.18493736041951
+"82240","Torrington","WY","Hot Tamn's","3826 Jefferson St","82240",42.087262,-104.19931
+"82301","Rawlins","WY","Walmart Supercenter","2390 E Cedar St","82301",41.790569021854154,-107.20746320432833
+"82301","Rawlins","WY","City Market","602 N Higley Blvd","82301",41.794723,-107.2170013
+"82301","Rawlins","WY","Discount Grocery","not_available","82301",41.790246,-107.228938
+"82327","Hanna","WY","Hanna Grocery","120 N Tipperary St.","82327",41.866551,-106.564491
+"82331","Saratoga","WY","Valley Foods","Wyoming 130, Saratoga, WY 82331","82331",41.440936783966414,-106.8070671518849
+"82410","Basin","WY","Wheeler's IGA","not_available","82410",44.380133531892405,-108.03941893365075
+"82414","Cody","WY","Walmart Supercenter","321 Yellowstone Ave","82414",44.5179287042599,-109.0886795872455
+"82414","Cody","WY","Albertsons","1825 17th St","82414",44.51791,-109.0554284
+"82426","Greybull","WY","Lynn’s Superfoods","not_available","82426",44.498632,-108.054739
+"82435","Powell","WY","Mr. D's","421 E 1st St, Powell, WY 82435","82435",44.7532844543457,-108.75389099121094
+"82443","Thermopolis","WY","Mack’s Market","not_available","82443",43.640145,-108.213212
+"82443","Thermopolis","WY","Dons IGA","225 S 4th St","82443",43.644589,-108.208124
+"82501","Riverton","WY","Walmart Supercenter","1733 N Federal Blvd","82501",43.04285667,-108.3792999
+"82501","Riverton","WY","Safeway","709 N Federal Blvd","82501",43.0310784703526,-108.38194280862808
+"82501","Riverton","WY","Smith's Grocery Pickup and Delivery","1200 W Main St","82501",43.02547119621969,-108.40905554384786
+"82514","Fort Washakie","WY","Hines General Store","14597 U.S. 287","82514",42.99028691987341,-108.87239200160764
+"82520","Lander","WY","Safeway","1165 Main St","82520",42.8377647,-108.7458648
+"82520","Lander","WY","The Gulch","not_available","82520",42.835598,-108.735004
+"82520","Lander","WY","Mr D's","725 Main St","82520",42.8346253863906,-108.73999105705886
+"82601","Casper","WY","Walmart Supercenter","4400 E 2nd St","82609",42.85071772090206,-106.26663174104037
+"82601","Casper","WY","Albertsons","2625 E 2nd St","82609",42.84816245321191,-106.29249845797403
+"82601","Casper","WY","Walmart Supercenter","4255 Cy Ave","82604",42.81677623788627,-106.37432823556989
+"82601","Casper","WY","Smith's","2405 C Y Ave","82604",42.82789858840553,-106.35307164522595
+"82601","Casper","WY","Grant Street Grocery","815 Grant Ave","82601",42.84203070459486,-106.31901425482526
+"82601","Casper","WY","Safeway","1375 Cy Avevue","82604",42.832245120914905,-106.34036256077569
+"82601","Casper","WY","Mini Mart","12th street","not_available",42.8387,-106.2905091047287
+"82601","Casper","WY","MC Market","2nd Street","not_available",42.848923,-106.323767
+"82601","Casper","WY","Natural Grocers","3650 E 2nd St","82609",42.84934454828821,-106.27848801080168
+"82601","Casper","WY","Albertsons","1076 CY Ave","82604",42.8350346,-106.3390042
+"82601","Casper","WY","Red Eagle #16","400 Valley Dr","82604",42.811302185058594,-106.40070343017578
+"82601","Casper","WY","Smith's Grocery Pickup and Delivery","2405 Cy Ave","82604",42.82814407348633,-106.35319519042969
+"82633","Douglas","WY","Safeway","1900 E Richards St","82633",42.744577,-105.361593
+"82633","Douglas","WY","Super Foods","not_available","82637",42.86052489975466,-105.87040972222022
+"82701","Newcastle","WY","Decker's Floral & Gift","709 W Main St","82701",43.8516960144043,-104.21392822265625
+"82701","Newcastle","WY","Woody's Food Center","622 W Main St","82701",43.85175047888731,-104.21134296834148
+"82701","Newcastle","WY","Deckers","645 W Main","82701",43.8516960144043,-104.21392822265625
+"82716","Gillette","WY","Walmart Supercenter","2300 S Douglas Hwy","82718",44.27327313437065,-105.49775198909772
+"82716","Gillette","WY","Albertsons","2610 S Douglas Hwy","82718",44.2705186,-105.4949177
+"82716","Gillette","WY","Smith's","906 Camel Dr","82716",44.2809455,-105.490842
+"82729","Sundance","WY","Decker’s Market","not_available","82729",44.407355,-104.37364
+"82801","Sheridan","WY","Walmart Supercenter","1695 Coffeen Ave","82801",44.77970472774646,-106.94027651902552
+"82801","Sheridan","WY","Albertsons","1865 Coffeen Ave","82801",44.7779082,-106.9414525
+"82801","Sheridan","WY","Safeway","169 Coffeen Ave","82801",44.79461933333333,-106.95247549079747
+"82832","Banner","WY","Story Store @ The Old Firehall","30 N Piney Rd","82832",44.57450485229492,-106.89237213134766
+"82834","Buffalo","WY","I.G.A.","not_available","82834",44.34876164636279,-106.70343402112663
+"82834","Buffalo","WY","Reese & Rays","440 Fort St","82834",44.348716735839844,-106.70433044433594
+"82836","Dayton","WY","Corner Grocery","415-499 Main St","82836",44.875465393066406,-107.26251220703125
+"82901","Rock Springs","WY","Walmart Supercenter","201 Gateway Blvd","82901",41.58038836101428,-109.25119723085056
+"82901","Rock Springs","WY","Smith's","2531 Foothill Blvd","82901",41.5825216,-109.2611499
+"82901","Rock Springs","WY","Smith's","905 Bridger Dr","82935",41.5041558,-109.4583189
+"82901","Rock Springs","WY","Albertsons","1323 Dewar Dr","82901",41.5757912,-109.2363555
+"82901","Rock Springs","WY","That Salsa Guy","1188 Palisades Ct","82901",41.5711519,-109.21839699999998
+"82901","Rock Springs","WY","Kelly's Convenience Store","1900 Yellowstone Rd, Rock Springs, WY 82901","82901",41.5761466,-109.25113114
+"82901","Rock Springs","WY","Heart of the Home Kitchenware","1577 Dewar Drive, Suite 110","82901",41.5735469,-109.2444502
+"82923","Boulder","WY","Ridley's Grocery Store","33 Fremont Lake Rd","82941",42.867178154839166,-109.85624168738757
+"82930","Evanston","WY","Walmart Supercenter","125 N 2nd St","82930",41.2658375041894,-110.95408739882839
+"82930","Evanston","WY","Smith's","70 Yellow Creek Rd","82930",41.25579528226674,-110.96954496237231
+"82930","Evanston","WY","Benedict's Market","not_available","82939",41.280029115897094,-110.33711544450935
+"82930","Evanston","WY","Jubilee foods","not_available","82930",41.26533508300781,-110.95967273333333
+"82932","Farson","WY","Farson Feed Store","3800 N US Highway 191","82932",42.075325,-109.436989
+"82941","Pinedale","WY","Daniel Junction Foodmart & Deli","11072 Highways 189 & 191","83115",42.89172730461066,-110.07402000656656
+"83001","Jackson","WY","Albertsons","105 Buffalo Way","83001",43.4723865,-110.7893977
+"83001","Jackson","WY","Aspens Market","4015 Lake Creek Dr N","83014",43.531780197573255,-110.84233657288897
+"83001","Jackson","WY","Smith's","1425 S Hwy 89","83001",43.458839,-110.7954088
+"83001","Jackson","WY","Jackson Whole Grocer","1155 US-89","83001",43.46385486448965,-110.79407226730731
+"83001","Jackson","WY","Dornan’s Moose Trading Post","not_available","83001",43.657219,-110.710585
+"83001","Jackson","WY","Hoback Market","10880 US-89","83001",43.32357871604126,-110.72935808157895
+"83001","Jackson","WY","Vitaltec LLC","690 S Highway 89, Suite 200 Box 8790 Jackson, WY 83002","83002",43.468196,-110.7922748
+"83014","Wilson","WY","Hungry Jack's General Store","5605 W Highway 22","83014",43.49862,-110.87393300000001
+"83101","Kemmerer","WY","Jubilee","Kemmerer, WY","83101",41.796372,-110.538932
+"83101","Kemmerer","WY","Ridley's Grocery","620 Pine Ave","83101",41.79615783691406,-110.53866577148438
+"83110","Afton","WY","Familee Thriftway","141 North Washington St","83110",42.7344970703125,-110.93294525146484
+"83110","Afton","WY","Broulims","141 North Washington Street	Afton,  WY 83110","not_available",42.7344970703125,-110.93294525146484
+"83128","Alpine","WY","Alpine Market","Grey's River Rd","83128",43.163149173814766,-111.01759157635321
+"83128","Alpine","WY","Broulims","100 Grey's River Road	Alpine,  WY 83129","not_available",43.16298294067383,-111.01744079589844

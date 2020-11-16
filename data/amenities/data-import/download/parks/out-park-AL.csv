@@ -1,0 +1,592 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"35004","Moody","AL","Moody Ballpark","670 Park Ave","35004",33.58749012599789,-86.49470190424178
+"35004","Moody","AL","Moody Park","not_available","35004",33.58620073572013,-86.49521521343367
+"35005","Adamsville","AL","John Bensko Park","not_available","not_available",33.63738392278544,-86.91804956494161
+"35005","Adamsville","AL","Maytown Park","Park Road","not_available",33.53504313333333,-86.996247
+"35005","Adamsville","AL","Adamsville Park","419 Spring St","35005",33.598475050147535,-86.95907681393975
+"35005","Adamsville","AL","Blackwell Park","not_available","35005",33.59837214257338,-86.9590963703376
+"35006","Adger","AL","Oak Grove Memorial Park","not_available","35006",33.452929432487856,-87.15140355606812
+"35007","Alabaster","AL","Alabaster Municipal Park","not_available","35114",33.21842903481244,-86.83614035252798
+"35007","Alabaster","AL","Veterans Park","7305 Highway 119","35007",33.184102056574815,-86.83313706602567
+"35007","Alabaster","AL","Penhale Park","Penhale Dr","35080",33.267606,-86.842947
+"35007","Alabaster","AL","Siluria Mill","not_available","35007",33.23196967300829,-86.82735107159424
+"35007","Alabaster","AL","Heroes Park","county road 12","35115",33.19987697659384,-86.8306944210927
+"35007","Alabaster","AL","Park Forest Park & Pool","not_available","35115",33.18058241942563,-86.8239045335752
+"35010","Alexander City","AL","Creation Plantation","not_available","36853",32.827235,-85.7649
+"35010","Alexander City","AL","Kamp Kiwanis","not_available","36024",32.73413,-86.019857
+"35010","Alexander City","AL","Strand Park","214-218 Tallapoosa St","35010",32.94342859314646,-85.95205307006836
+"35014","Alpine","AL","sally west park","not_available","35044",33.281461,-86.358397
+"35014","Alpine","AL","Sykes Park","484-852 Mardisville Rd","35160",33.38547351,-86.17150917
+"35016","Arab","AL","arab park","not_available","35016",34.3292236328125,-86.46974182128906
+"35019","Baileyton","AL","Baileyton Town Park","95 Fire Station Rd","35019",34.262428283691406,-86.61370849609375
+"35019","Baileyton","AL","Fairview Ballpark","not_available","35058",34.25920379375949,-86.68845849622241
+"35020","Bessemer","AL","Debardeleben Park","not_available","35020",33.398815,-86.955221
+"35020","Bessemer","AL","Brooklane Park","2800 Brooklane Dr","35023",33.430442810058594,-86.9793701171875
+"35020","Bessemer","AL","Hillman Park","not_available","35228",33.44790364534105,-86.90211446097442
+"35020","Bessemer","AL","Roosevelt Park","14th St. S","35020",33.393743789000986,-86.95328288099503
+"35020","Bessemer","AL","Dolomite- Westfield Park","Tin Mill Rd","35061",33.45080338311583,-86.98140015170638
+"35020","Bessemer","AL","Kids N Kop Day","Park","35020",33.39946746826172,-86.9561996459961
+"35022","Bessemer","AL","Brackner Park","6349 Eastern Valley Rd","35111",33.284175872802734,-87.05189514160156
+"35022","Bessemer","AL","Loveless Chapel Pumpkin Patch","6010 Moore Cemetery Rd","35111",33.33793640136719,-87.02031707763672
+"35022","Bessemer","AL","Ross Bridge Park","not_available","35226",33.38547963924005,-86.86638821219502
+"35022","Bessemer","AL","Cahaba Lily Park","3200 Highway 52 West","not_available",33.29023765956084,-86.8696798907039
+"35022","Bessemer","AL","Chalybe Park","not_available","35022",33.401349,-86.889684
+"35023","Bessemer","AL","Sylvan Springs Park","Park Ln","not_available",33.52103490478066,-87.00940328787486
+"35023","Bessemer","AL","Martin Luther King Jr. Park","Forest Rd.","35023",33.46235903865762,-86.9816396057768
+"35023","Bessemer","AL","Pleasant Grove Memorial","not_available","35127",33.489982089620696,-86.97051106031678
+"35031","Blountsville","AL","Governor's Park","Holly Pond, AL","35083",34.175324,-86.615299
+"35031","Blountsville","AL","Blountsville Ballfield","not_available","35031",34.08731895398056,-86.59362819091969
+"35031","Blountsville","AL","Holly Pond Park","Lions Park Rd","35083",34.18017475276504,-86.62039303710246
+"35031","Blountsville","AL","Cleveland City Park","254 Park Rd","35049",33.997772216796875,-86.57970428466797
+"35031","Blountsville","AL","Stephen Jonah King Community Park","2000 County Hwy 57","35031",34.0146720953841,-86.50356068170008
+"35033","Bremen","AL","Stoney Lonesome ORV Park","10075 AL Highway 69 S","35033",33.96746826171875,-86.99280548095703
+"35034","Brent","AL","Centreville Baseball Park","600 Birmingham Road","not_available",32.957625551333656,-87.14919764573901
+"35040","Calera","AL","alpine bobs ride","not_available","35051",33.17283248901367,-86.61875915527344
+"35040","Calera","AL","Calera Oliver Park","not_available","35040",33.105722339699604,-86.76569815978189
+"35040","Calera","AL","Columbiana City Park","Washington Street","35051",33.176245319385764,-86.604323387146
+"35043","Chelsea","AL","Heardmont Park","5452 Cahaba Valley Rd","35242",33.36495560939735,-86.72343604486053
+"35043","Chelsea","AL","Veterans Park on Valleydale","Valleydale Rd","35242",33.389113992326195,-86.72709601480811
+"35043","Chelsea","AL","Chelsea Recreation Park","not_available","35043",33.32665095086293,-86.64187320975151
+"35043","Chelsea","AL","Chelsea Park","not_available","35147",33.33485528746855,-86.58584346403056
+"35043","Chelsea","AL","Metro XC @Veterans Park 2019","not_available","35242",33.389165,-86.726319
+"35044","Childersburg","AL","Oak Grove Park","not_available","35150",33.182799,-86.297792
+"35044","Childersburg","AL","Shag Bark Rally Park","130 Shag Park Drive","35078",33.332807,-86.474503
+"35045","Clanton","AL","Peach Park","2300 7th St S","35046",32.800445169210676,-86.57393504090095
+"35045","Clanton","AL","Peach Park Gardens @ Peach Park","Hwy. 31","35046",32.80032275543251,-86.57393065148224
+"35045","Clanton","AL","Richard Wood Swedish Memorial Park","8696 Franklin Street","35171",32.91341559765744,-86.71426772507132
+"35045","Clanton","AL","OLLIE PARK","OLLIE AVE.","not_available",32.849696373728484,-86.62965763171958
+"35045","Clanton","AL","Goose Pond Park","799 Blackberry Ln","35045",32.847089320928596,-86.63437294751105
+"35049","Cleveland","AL","Locust Fork Park","not_available","35097",33.90443420410156,-86.62159729003906
+"35053","Crane Hill","AL","Smith Lake Park","416 County Road 385","35057",34.08038443680563,-86.95655397194464
+"35053","Crane Hill","AL","Dowling Park","15078-15098 County Road 222","35053",34.092721968675065,-87.06433296203613
+"35054","Cropwell","AL","Cropwell Historical Park","not_available","35128",33.55535664777377,-86.268027081341
+"35055","Cullman","AL","Heritage Park","1705 Lee Ave SW","35055",34.15591433178996,-86.84551667422056
+"35055","Cullman","AL","hathcock park","not_available","35057",34.112174,-86.868446
+"35055","Cullman","AL","Stiefelmeyer Park","8th Ave NE, Cullman, AL 35055","35055",34.182447988865356,-86.83443458190449
+"35055","Cullman","AL","Sportman's Lake Park","1544 Sportsman Lake Rd NW","35055",34.19430160522461,-86.85810852050781
+"35055","Cullman","AL","Depot Park","401 2nd Ave NE","35055",34.18021598198704,-86.84375186857183
+"35055","Cullman","AL","Heritage Park","not_available","35055",34.160202453332154,-86.8509701880257
+"35055","Cullman","AL","Sportsman Lake","1539 Sportsman Lake Rd NW","35055",34.19087176929475,-86.8614936652379
+"35057","Cullman","AL","Clarkson Covered Bridge","1240 County Road 1043","35057",34.20745014808312,-86.99075996875763
+"35062","Dora","AL","Horsecreek Walking Trail","Sellers Road","35062",33.75068558587918,-87.05940374035329
+"35062","Dora","AL","Dora Park Pavillion","not_available","35062",33.738905,-87.077466
+"35068","Fultondale","AL","Blackcreek Park","not_available","35217",33.621422135051766,-86.79805997278378
+"35068","Fultondale","AL","Children's Park","Stouts Rd","35068",33.61901508226486,-86.8023133277893
+"35068","Fultondale","AL","Fultondale Ball Park","not_available","35068",33.59483354239344,-86.7978784728797
+"35071","Gardendale","AL","Gardendale Dog Park","not_available","35117",33.636667,-86.869386
+"35071","Gardendale","AL","Grayrock OHV Park","7316 Lee Trail","35117",33.72567756634876,-86.89480585050252
+"35071","Gardendale","AL","Moncrief Park","not_available","35071",33.674699918268,-86.81499044702784
+"35071","Gardendale","AL","Kenneth A Clemons Recreation Complex","1156-1298 Jew Hollow Rd","35117",33.63838255405426,-86.86683654785156
+"35071","Gardendale","AL","Morris walking Path","not_available","35116",33.74763673945291,-86.8088114084398
+"35077","Hanceville","AL","CW Day - Hanceville Park","not_available","35077",34.06431010496352,-86.77772287220124
+"35078","Harpersville","AL","Vincent City Park","not_available","35178",33.37079528883348,-86.42476357294031
+"35080","Helena","AL","Joe Tucker Park","County Rd 52 East and Tucker Rd.","not_available",33.28515809648872,-86.84246063232422
+"35080","Helena","AL","Helena Park","Highway 261/Helena Road","35080",33.29709615343712,-86.84281353617996
+"35094","Leeds","AL","Leeds Memorial Park","801 Helen St","35094",33.53926863849446,-86.55960338405774
+"35094","Leeds","AL","Collins Park","not_available","35173",33.578609,-86.605602
+"35094","Leeds","AL","old leeds park","not_available","35094",33.54920224389453,-86.54328980543612
+"35096","Lincoln","AL","Moseley Park","Lincoln,AL,35096","35096",33.60550728109115,-86.11094907001998
+"35111","Mc Calla","AL","Green Pond Park","Green Pond,AL,35074","35074",33.2251162,-87.1263844
+"35112","Margaret","AL","Margaret Park","not_available","35112",33.680623050708235,-86.49141462584531
+"35115","Montevallo","AL","Orr Park","800-898 Island St","35115",33.09858911029654,-86.85760440994561
+"35120","Odenville","AL","St. Clair Memorial Park","US Hwy 411","35120",33.68646917818486,-86.38483370780193
+"35121","Oneonta","AL","Sand Mountain Fire Tower","not_available","35121",33.985643,-86.460022
+"35121","Oneonta","AL","Palisades Park","1225 Palisades Pkwy","35121",33.98825276063825,-86.45816441847101
+"35121","Oneonta","AL","Woodland Park","2-98 Jack Fendley Dr","35121",33.94882390857642,-86.46887662204239
+"35124","Pelham","AL","Pelham City Park","not_available","35124",33.30536497340516,-86.80958137906853
+"35124","Pelham","AL","Bent Creek Soccer Fields","not_available","35216",33.37853754521257,-86.77998919461086
+"35124","Pelham","AL","Wildflower Park","2000 Wildflower Drive","35244",33.35547586728329,-86.79810412130679
+"35124","Pelham","AL","Chase Park","not_available","35244",33.36631631203925,-86.80191055456025
+"35125","Pell City","AL","The Mill Village","not_available","35125",33.5917667597656,-86.27637713480932
+"35126","Pinson","AL","Pinson Triangle Park","Main Street","35126",33.69103020345533,-86.68287806520915
+"35128","Pell City","AL","The Point - Lakeside Park","not_available","35054",33.55167054245612,-86.26365394655897
+"35146","Springville","AL","Big Springs Park","not_available","35146",33.777451660401205,-86.47685125234477
+"35150","Sylacauga","AL","pinecrest Track","not_available","35151",33.156630442134684,-86.27188425015363
+"35160","Talladega","AL","Veterans Park","705 Patricia Ave","35160",33.42741775512695,-86.10541534423828
+"35160","Talladega","AL","Talladega Texaco Walk Of Fame Talladega Alabama","not_available","35160",33.43320275800015,-86.10484153061812
+"35160","Talladega","AL","Jemison Park Tennis Complex","Ashland Hwy","35160",33.43438327781815,-86.08706329
+"35173","Trussville","AL","Civitan Park - Trussville","Gadsden Hwy","35173",33.62335786244428,-86.59969156282226
+"35173","Trussville","AL","West Mall","West Mall","35173",33.628941,-86.609257
+"35173","Trussville","AL","Slackline Spot","109 South Mall","35173",33.62830352783203,-86.60701751708984
+"35173","Trussville","AL","Dog Daze","North Chalkville Road","35173",33.629174,-86.607348
+"35173","Trussville","AL","Park","2515 Galloway Dr","35235",33.652588,-86.640989
+"35203","Birmingham","AL","Railroad Park","1600 1st Ave S","35233",33.509764495688025,-86.80793066227511
+"35203","Birmingham","AL","Linn Park","2000 Park Pl","35203",33.52030795158189,-86.81011593749793
+"35203","Birmingham","AL","Kelly Ingram Park","551-599 16th St N","35203",33.51639720482671,-86.81372880935669
+"35203","Birmingham","AL","Fountain Heights Park","1201 15th Ct N","35204",33.528480529785156,-86.82477569580078
+"35203","Birmingham","AL","Linn Park Summer Farmer's Market","not_available","35203",33.51952786877278,-86.809586283301
+"35203","Birmingham","AL","Jim Limbaugh Family Park Of Hope","7th Ave","35233",33.50593184421547,-86.80401997308991
+"35203","Birmingham","AL","Eddie Kendrick Memorial Park","4th Avenue N.","35203",33.515563823915976,-86.80959118753297
+"35203","Birmingham","AL","Author Shores Park","1930 N Huntsville Rd","35234",33.527275587229326,-86.81586819915321
+"35203","Birmingham","AL","Pubbys","not_available","35235",33.52561559329763,-86.8060256804376
+"35203","Birmingham","AL","Alabama Power Employee Park","1700-1798 7th Ave N","35203",33.51852791472764,-86.81333787629498
+"35204","Birmingham","AL","Southen Environmental Center","900 Arkadelphia Rd","35254",33.51676940917969,-86.85174560546875
+"35204","Birmingham","AL","George Ward Park","not_available","35204",33.51128055770337,-86.84210517684295
+"35204","Birmingham","AL","Dorothy Spears Park","Bankhead Highway West","35204",33.5275762,-86.85044064
+"35205","Birmingham","AL","Rushton Park","not_available","35205",33.50634755621604,-86.78018143822288
+"35205","Birmingham","AL","Homewood Park","1632 Oxmoor Rd","35209",33.47771531155753,-86.79835579041361
+"35205","Birmingham","AL","Highland Park","2255 Highland Ave S","35205",33.5023716068772,-86.78830707383915
+"35205","Birmingham","AL","George Ward Park","1871 Green Springs Highway","35205",33.48821060172894,-86.82030085051868
+"35205","Birmingham","AL","Memorial Park","524 6th Ave S","35205",33.498899,-86.821773
+"35205","Birmingham","AL","Underwood Park","2621 10th Ave S","35205",33.504946866970734,-86.78871901882721
+"35205","Birmingham","AL","Phelan Park","14th Avenue South","35205",33.49446105957031,-86.80307006835938
+"35205","Birmingham","AL","UAB Mini Park","not_available","35233",33.50061038281433,-86.80734499755648
+"35205","Birmingham","AL","Peeping Toms","The Park","35205",33.486734269076834,-86.82106573619619
+"35205","Birmingham","AL","Birminhham Zoo Henley Lawn","not_available","35223",33.486498,-86.779698
+"35205","Birmingham","AL","UAB nursing park","18th St SO","not_available",33.503569499488776,-86.8012991163153
+"35205","Birmingham","AL","Mini Park","University Blvd.","35233",33.50003837467691,-86.80778149237182
+"35205","Birmingham","AL","Rhodes Park","2730 Highland Ct S","35205",33.50408902063958,-86.78457172337768
+"35205","Birmingham","AL","Homewood Park and Recreation","not_available","35209",33.47960454097247,-86.79133911977357
+"35206","Birmingham","AL","East Lake","not_available","35206",33.56963206636727,-86.71430703557031
+"35206","Birmingham","AL","Eastlake Park","8100-8198 4th Ave. N","35206",33.57017317660728,-86.72771498939241
+"35206","Birmingham","AL","Wahouma Park","71st Street North","35212",33.54758795483928,-86.74347164251658
+"35206","Birmingham","AL","Lewis Park","not_available","35212",33.543901,-86.726924
+"35206","Birmingham","AL","Ruffner Mountain Nature Center","1214 81st St S","35206",33.558131054019576,-86.70746653423807
+"35207","Birmingham","AL","hooper city recreation center","not_available","35207",33.55889129638672,-86.84075927734375
+"35207","Birmingham","AL","Norwood Market at The Trolley Stop","Norwood Boulevard","35234",33.539427330975336,-86.80059671401978
+"35208","Birmingham","AL","Central Park","not_available","35208",33.485356175001286,-86.88585582575169
+"35208","Birmingham","AL","West End Park","not_available","35211",33.47783199455595,-86.8547669887408
+"35209","Birmingham","AL","Woodward Park","McMillon Ave","not_available",33.495998190270484,-86.8455014173095
+"35209","Birmingham","AL","Overton Park","1920 Mayfair Dr.","35209",33.47369319946047,-86.79390492710587
+"35209","Birmingham","AL","Patriot Park","689 Oak Grove Rd","35209",33.458143707510885,-86.82958334087151
+"35209","Birmingham","AL","Shades Creek Restoration","2101-2121 Lakeshore Dr","35209",33.45104098320007,-86.80915296077728
+"35209","Birmingham","AL","mosley park","not_available","35096",33.44211196899414,-86.81519317626953
+"35210","Birmingham","AL","Irondale Furnace Park","3960 Forest Glen Dr","35213",33.50383758544922,-86.7315444946289
+"35210","Birmingham","AL","Beacon Park (Irondale Municipal Park)","5309 Beacon Drive","35210",33.52642329505737,-86.69355981559929
+"35211","Birmingham","AL","Wiggins Park & Recreation Center","3301 Jefferson Ave SW","35221",33.46369178249657,-86.88584603269489
+"35211","Birmingham","AL","Red Mountain Park","277 Lyon Ln","35211",33.443641662597656,-86.86343383789062
+"35211","Birmingham","AL","Johnson Lake Park","925 North Broad Street, Fremont, NE, 68025","68025",33.4445376,-86.8612785
+"35212","Birmingham","AL","Crestwood Park","9th Avenue South","35212",33.52867383776432,-86.7497620802955
+"35212","Birmingham","AL","W.C. Patton Park","14th Ave North","not_available",33.54369353555219,-86.7793324863212
+"35212","Birmingham","AL","Tarrant Park","Birmingham Street","not_available",33.57225211286212,-86.76485386458117
+"35213","Birmingham","AL","Crestline Park","Kinsbury Ave","35213",33.513087146695085,-86.73654680584713
+"35213","Birmingham","AL","Ramsay Park","not_available","35213",33.50209497073442,-86.7699046920746
+"35213","Birmingham","AL","Avondale Park","4101-4199 5th Ave S","35222",33.52169498268944,-86.77269739364975
+"35213","Birmingham","AL","Crestwood Walking Trail","not_available","35222",33.52068425628769,-86.74952024967052
+"35213","Birmingham","AL","Magic City Brewfest","4101 5th Ave South","35222",33.52083969116211,-86.77163696289062
+"35214","Birmingham","AL","McAlpine Park","not_available","35218",33.51903599392775,-86.88888668156078
+"35214","Birmingham","AL","Sherman Heights Park","not_available","35224",33.522668126176825,-86.90402832164317
+"35214","Birmingham","AL","Jimmie Hudson Park","301 Pratt Highway","35214",33.553261,-86.903533
+"35215","Birmingham","AL","Park","Next To City Hall","35215",33.633419036865234,-86.69763946533203
+"35215","Birmingham","AL","Reed Harvey Park","not_available","35215",33.63024453724607,-86.67540371975798
+"35215","Birmingham","AL","Chef Wm C. ""Billy"" Hewitt Park","2589-2663 Pinson Valley Pkwy","35217",33.60645728066789,-86.75071465977402
+"35216","Birmingham","AL","Georgetown Park","3228 Georgetown Pl","35216",33.40307308743742,-86.79717208843527
+"35216","Birmingham","AL","McCallum Park","3332 Rosemary Lane","35216",33.41646957397461,-86.78022766113281
+"35216","Birmingham","AL","Vestridge Sidewalk Path","Vestridge drive","35216",33.42026698561463,-86.78932675152659
+"35223","Birmingham","AL","Overton Park","Overton Road","not_available",33.468159062730756,-86.74032456481508
+"35226","Birmingham","AL","Moss Rock Nature Preserve","617 Preserve Pkwy","35226",33.381761205997236,-86.83973795959605
+"35242","Birmingham","AL","Liberty Park","4700 Sicard Hollow Rd","35242",33.47325908556495,-86.67503489039063
+"35242","Birmingham","AL","Altadena Park","not_available","35243",33.426432,-86.734899
+"35401","Tuscaloosa","AL","The Park at Manderson Landing","Jack Warner Pkwy","35401",33.221026383938714,-87.54629505457508
+"35401","Tuscaloosa","AL","Tuscaloosa Riverwalk","Jackwarner Pkwy NE","35401",33.21834303189294,-87.5573942758256
+"35401","Tuscaloosa","AL","Monnish Park","Hackberry Ln.","35401",33.19726284725184,-87.54308886514413
+"35401","Tuscaloosa","AL","River Road Park West","not_available","35401",33.21803117959793,-87.5574849998303
+"35401","Tuscaloosa","AL","Kentuck Ballpark","Northport,AL,35476","35476",33.218265758228924,-87.5879069286329
+"35401","Tuscaloosa","AL","Springbrook Park","3189 5th Ave. E","35405",33.18241881205147,-87.52914369106293
+"35401","Tuscaloosa","AL","Northport Riverwalk","not_available","35476",33.216072683514895,-87.57474018876474
+"35401","Tuscaloosa","AL","Foster's Park","not_available","35463",33.108752,-87.672656
+"35401","Tuscaloosa","AL","Parking Lot Plaza","In between streets","not_available",33.20897539240076,-87.56621766804517
+"35401","Tuscaloosa","AL","Queen City Park","Queen City Ave.","not_available",33.21515454192481,-87.56150209432343
+"35401","Tuscaloosa","AL","Harmon Playground","1101 29th St","35401",33.18438,-87.555079
+"35401","Tuscaloosa","AL","Capitol Park","6th St","35401",33.20783679888651,-87.57408392403987
+"35404","Tuscaloosa","AL","Hurricane Creek Park","not_available","35404",33.21237321492938,-87.44768002804236
+"35404","Tuscaloosa","AL","Randall Pkwy","not_available","35406",33.24671612137224,-87.53039711574056
+"35405","Tuscaloosa","AL","Bower's Park","not_available","35405",33.17799492125351,-87.51074408276436
+"35406","Tuscaloosa","AL","Sokol Park","1152 Union Chapel Rd","35406",33.26353716746006,-87.53956855943422
+"35406","Tuscaloosa","AL","Stonewall Jackson Memorial Garden","2480 McLean Cir","35406",33.240689,-87.540773
+"35406","Tuscaloosa","AL","Northridge PARA Shelter and Playground","4205 Northridge Rd","35406",33.25788116455078,-87.52995300292969
+"35443","Boligee","AL","Eutaw City Park","County Road 53","35462",32.82848105285436,-87.892532058454
+"35444","Brookwood","AL","Brookwood Town Park","not_available","35444",33.2534194885339,-87.3295999810924
+"35446","Buhl","AL","Faucett Brothers Recreational Center","not_available","35473",33.286746642554796,-87.63256567798683
+"35461","Ethelsville","AL","McShan","not_available","35481",33.408914,-88.118774
+"35463","Fosters","AL","Moundville Archeological Park","13075 Moundville Archeological Park","35474",33.006140167283746,-87.63120647735691
+"35466","Gordo","AL","Reform Park","33.37387	-88.01696","not_available",33.37474589125225,-88.01683902740479
+"35473","Northport","AL","The Track At CES","2400 34th Ave","35476",33.23319,-87.589872
+"35501","Jasper","AL","Gamble Park","not_available","35501",33.838793110396935,-87.26762566624473
+"35501","Jasper","AL","Jasper Discgolf Course and Park","3531-3689 N Highland Blv","35503",33.88253513448047,-87.29105224002527
+"35501","Jasper","AL","Legion Park","not_available","35549",33.88585951466145,-87.53462808776375
+"35553","Double Springs","AL","Double Springs Community Center","not_available","35553",34.148570755490695,-87.39262588228019
+"35555","Fayette","AL","Guthrie J. Smith Park","2nd Ave NE","35555",33.71560819209196,-87.81119056924737
+"35563","Guin","AL","Ivan K. Hill","not_available","35594",33.9365867146737,-87.80899192430714
+"35564","Hackleburg","AL","Dismals Canyon","Notsure Wishwecould Edit Without This","35581",34.32668511086288,-87.78176401254282
+"35564","Hackleburg","AL","Hackleburg Park","not_available","35564",34.263770447802834,-87.82797930188845
+"35565","Haleyville","AL","Rocky Ravine Park","not_available","35565",34.232198453527104,-87.60860228003337
+"35565","Haleyville","AL","Phil Campbell Memorial Park","not_available","35581",34.35069,-87.70587
+"35570","Hamilton","AL","Bedford Industrial Park","not_available","35570",34.1505229604357,-87.95724073168454
+"35571","Hodges","AL","Hodges Park","not_available","35571",34.335549,-87.930312
+"35586","Sulligent","AL","Vernon City Park","Beaver Creek Rd.","35592",33.76491355120127,-88.10588836669922
+"35601","Decatur","AL","Delano Park","825 Gordon Dr SE","35601",34.598235988151146,-86.98025661988201
+"35601","Decatur","AL","Rhodes Ferry Park","100 Market St NE","not_available",34.613701503050905,-86.98005136769764
+"35601","Decatur","AL","Wilson Morgan Park","300 Beltline Rd SW","35601",34.56201825412738,-86.98965818401051
+"35601","Decatur","AL","Frazier Park","Cherry St SE","35601",34.60880704514148,-86.98300300517569
+"35601","Decatur","AL","Pines Park","1612 5th St NW","35601",34.612355101804916,-87.00761571867882
+"35601","Decatur","AL","Cashin Wheeler Park","417 Monroe Dr NW","35601",34.610813,-87.007076
+"35601","Decatur","AL","Japanese Garden (at Frasier Park)","not_available","35601",34.60851740008752,-86.98370575904846
+"35601","Decatur","AL","Hospitality Park","Beeline Hiway","35671",34.62765953857709,-86.95719936272377
+"35601","Decatur","AL","A.C. Banks Park","705 B McCartney St NW","35601",34.627128,-86.986604
+"35601","Decatur","AL","Bank Street Green","508 Bank St NE","35601",34.611137,-86.986482
+"35601","Decatur","AL","Julien Harris Park","not_available","35603",34.577558741873425,-87.02658692247158
+"35601","Decatur","AL","Point Mallard Park","2600 Point Mallard Dr SE","35601",34.57323027099201,-86.9377507223269
+"35610","Anderson","AL","Bunker Hill Park","35600 St. Rd. 62","34219",34.97733775323819,-87.24569320678711
+"35611","Athens","AL","Big Spring Park","not_available","35611",34.80332760258362,-86.96678630735636
+"35613","Athens","AL","The Pond at Old Overton Park","Old Overton Dr, Madison, AL 35756","35756",34.735842910131325,-86.79429739049844
+"35619","Danville","AL","Oakville Indian Mounds Education Center","1219 County Road 187","35619",34.443962246128926,-87.17809520553763
+"35619","Danville","AL","Speake Park","not_available","35619",34.417136,-87.168525
+"35619","Danville","AL","West park","not_available","35640",34.45664798868379,-87.03881533377726
+"35621","Eva","AL","Eva Community Center","not_available","35621",34.339299,-86.759418
+"35621","Eva","AL","Shorty Ryan Park","County Road 35","35621",34.34017608184614,-86.75901174545288
+"35622","Falkville","AL","Falkville Municipal Park (Jack McCaig Park)","not_available","35622",34.36836,-86.911812
+"35630","Florence","AL","Martin Park","421 N Royal Ave","35630",34.809214810700404,-87.66809925517234
+"35630","Florence","AL","Pavilion # 1","not_available","35630",34.809155,-87.66729
+"35630","Florence","AL","Hidden Shaded Pavilion #2","Royal Ave.","35630",34.808945,-87.66716
+"35630","Florence","AL","Veterans Memorial Park","Veterans Park Dr","35630",34.81013342226571,-87.6265216884664
+"35630","Florence","AL","Kennedy-Douglass Center for the Arts","217 E Tuscaloosa St","35630",34.80409240722656,-87.67550659179688
+"35630","Florence","AL","St. Florian Park","4201-4299 Old Jackson Hwy S","35634",34.87203111400598,-87.62670002769995
+"35630","Florence","AL","River Heritage Place","800 Cox Creek Pkwy S","35630",34.81061935424805,-87.63027954101562
+"35630","Florence","AL","Wildwood Park","Waterloo Rd./CR 14","35630",34.80438749970757,-87.69551102502737
+"35630","Florence","AL","Deibert Park","Cox Creek Pkwy.","35630",34.8406120274208,-87.6445484161377
+"35633","Florence","AL","Coulburn Park","not_available","35660",34.74046662909099,-87.7134540413722
+"35633","Florence","AL","Sheffield Waterfront Park","837 Montgomery ave","not_available",34.76544191557566,-87.71288636342156
+"35634","Florence","AL","Killen Park","not_available","35645",34.85481054777223,-87.54007078687259
+"35640","Hartselle","AL","E.A.R.T.H. Park","Barkley St","35640",34.437252,-86.937137
+"35643","Hillsboro","AL","summit","not_available","35673",34.54381561279297,-87.1620101928711
+"35650","Moulton","AL","Patch O'green","Court Street","35650",34.48182,-87.29298
+"35650","Moulton","AL","Practice Field/H.A. Alexander Park","not_available","35650",34.48066329956055,-87.30321502685547
+"35650","Moulton","AL","Moulton Mini Park","1-199 College St","35650",34.47602426581581,-87.30021766485407
+"35652","Rogersville","AL","Graceland Park","not_available","35652",34.825434,-87.290577
+"35652","Rogersville","AL","Golf Cart Mecca","not_available","35672",34.773114130367944,-87.42597796620592
+"35653","Russellville","AL","Sloss Lake","Hwy 24","35654",34.483424408069546,-87.7084601563848
+"35653","Russellville","AL","City Lake Park","City Lake Drive","35653",34.522358106902054,-87.73831425572959
+"35654","Russellville","AL","littleville park","not_available","35654",34.600365044755094,-87.67415687642877
+"35660","Sheffield","AL","Tuscumbia Pocket Park","not_available","35674",34.731849,-87.703435
+"35661","Muscle Shoals","AL","Webster Softball Field","not_available","35661",34.74766915444261,-87.63696059154262
+"35674","Tuscumbia","AL","Spring Park","Spring Park","35674",34.728913467981194,-87.70413456565507
+"35741","Brownsboro","AL","Central Playground","not_available","35741",34.75144958496094,-86.44893646240234
+"35741","Brownsboro","AL","Central Youth Athletic Association (CYAA)","990 Ryland Pike","not_available",34.76416573404138,-86.45539833136489
+"35741","Brownsboro","AL","Tiny Toone's","not_available","35811",34.76388143144794,-86.47437258726683
+"35741","Brownsboro","AL","Simmons Park","Old Big Cove Rd","35741",34.67612850801101,-86.50165580732325
+"35747","Grant","AL","Ryder And Sophie's Play Pen","not_available","35747",34.561350927811404,-86.18837411332717
+"35749","Harvest","AL","Providence Park/Trail","not_available","35806",34.75543699346259,-86.69563099994222
+"35749","Harvest","AL","Gilwood Park","not_available","35757",34.784286,-86.747182
+"35749","Harvest","AL","Bridgewater Trail","1501 Old Monrovia Rd NW","35806",34.753291,-86.682356
+"35749","Harvest","AL","Jack Lynch Park","4 Battery St NW","35806",34.758871,-86.694979
+"35750","Hazel Green","AL","Billy Hunter Park","not_available","35750",34.959222654614024,-86.56439438627505
+"35750","Hazel Green","AL","The Backyard","275 Narrow Ln","35761",34.90878955,-86.53269705
+"35754","Laceys Spring","AL","Hudson Recreation Area","Redstone Arsenal","35801",34.57771948684312,-86.61778367164288
+"35754","Laceys Spring","AL","Tennessee River Greenway","101-191 Harbor Rd SE","35803",34.57328093704508,-86.55056231081053
+"35756","Madison","AL","Dublin Park","8324 Madison Pike","35758",34.70727030043609,-86.73559395018437
+"35756","Madison","AL","Mill Creek Greenway","not_available","35758",34.70454667601872,-86.76901629479853
+"35756","Madison","AL","Westgate Neighborhood Park","276 Pine Ridge Dr","35758",34.69453411239891,-86.72875642103386
+"35756","Madison","AL","Stavemill Park","Seina Vista Drive","not_available",34.70362154602193,-86.72971923435267
+"35758","Madison","AL","Indian Creek Greenway","392 Harvest Wood Ct.","35806",34.73486188960317,-86.70292041466787
+"35758","Madison","AL","Greenway","7308-7398 Old Madison Pike NW","35806",34.7088272629941,-86.70199148001531
+"35758","Madison","AL","Forest Park","190 Shelton Rd","35758",34.695932,-86.71769599999999
+"35763","Owens Cross Roads","AL","Goldsmith Schiffman Wildlife Sanctuary","Taylor & Terry Drake","35763",34.634053016060896,-86.48248951005345
+"35763","Owens Cross Roads","AL","River Ridge","not_available","35763",34.599558990197565,-86.48258139584942
+"35763","Owens Cross Roads","AL","Hell's Gates","5000 Nature Trail Rd SE","35803",34.59788131713867,-86.51673126220703
+"35765","Pisgah","AL","Henagar City Park","Hwy 75","35978",34.62144191474044,-85.75807557312145
+"35765","Pisgah","AL","Henagar Park","not_available","35978",34.62666138911491,-85.75614780729912
+"35768","Scottsboro","AL","Scottsboro City Park","not_available","35769",34.618121973433176,-86.03992154612172
+"35769","Scottsboro","AL","Weathington Park","not_available","35771",34.59179053440815,-86.00067789180778
+"35772","Stevenson","AL","Stevenson Park","not_available","35772",34.85313087329006,-85.83192847336632
+"35772","Stevenson","AL","USW Union Meeting","Stevenson Municipal Park, Stevenson, AL 35772","35772",34.870398980609075,-85.80724231676857
+"35801","Huntsville","AL","Brahan Spring Park","Brahan Spring Park","35805",34.706269572128235,-86.59767150878906
+"35801","Huntsville","AL","Oak Park","not_available","35801",34.74680088816492,-86.55475276223717
+"35801","Huntsville","AL","Big Spring Park","700 Monroe St SW","35801",34.72749197436534,-86.5872733750968
+"35801","Huntsville","AL","Kids Space","2010 Airport Rd SW","35801",34.693788,-86.58909
+"35801","Huntsville","AL","California Street Park","780 California St SE","35801",34.72460916553292,-86.57440372073938
+"35801","Huntsville","AL","Capt Chuck Facemire RC Airport","not_available","35802",34.68649843694595,-86.59571671487993
+"35801","Huntsville","AL","Hastings Park","Kent Rd","35801",34.70724172775344,-86.57469445897918
+"35801","Huntsville","AL","Chapman Park","Philpot Ave","35811",34.74986405967036,-86.57003402709961
+"35801","Huntsville","AL","Downtown 47 Tinsel Trail","Big Spring Park East","35801",34.72867383963687,-86.58708620568915
+"35801","Huntsville","AL","Concerts In The Park","305 Church St SW","35801",34.727264404296875,-86.58598327636719
+"35801","Huntsville","AL","Hermatage Park","Kennamer And Hermatage","35811",34.72740391689254,-86.55529503009181
+"35801","Huntsville","AL","Phillips Park","Huntsville,AL,35806","35806",34.7303688,-86.5861037
+"35802","Huntsville","AL","Jones Farm park","Four Mile Post Rd","35802",34.67231432917354,-86.55150941515878
+"35802","Huntsville","AL","Four Mile Park","1145-1201 4 Mile Post Rd SE","35802",34.672290992318565,-86.55152368094316
+"35802","Huntsville","AL","Park","not_available","35803",34.631304232348896,-86.57102618906067
+"35803","Huntsville","AL","Aldridge Creek Greenway","Mountain Gap Rd. SE","35803",34.623809489609876,-86.53972958737788
+"35803","Huntsville","AL","Buchanan Park","10044 Fielding Dr.","35803",34.62353211929979,-86.57672882080078
+"35803","Huntsville","AL","Sandhurst Upperfield","14017 Armond Dr SW","35803",34.597158,-86.573239
+"35803","Huntsville","AL","Bell Mountain Park","Redstone Rd.","35803",34.61872393238608,-86.58081927643349
+"35805","Huntsville","AL","Vincent Park","not_available","35808",34.680673,-86.637494
+"35805","Huntsville","AL","Bledsoe Park","Jordan Lane","35816",34.73107367076835,-86.62856979655295
+"35805","Huntsville","AL","Purdy Butterfly House","not_available","35805",34.71037958081962,-86.63225054740906
+"35805","Huntsville","AL","University Park","4500 Saundralane Dr NW","35805",34.723341999999995,-86.633135
+"35806","Huntsville","AL","McMillian Park @ Hudson Alpha","977 Explorer Blvd NW","35806",34.731974,-86.681287
+"35810","Huntsville","AL","Mastin Lake Park","Walter Ave","35810",34.76889932914972,-86.63843327049793
+"35810","Huntsville","AL","Lakewood Park","not_available","35810",34.773336902205614,-86.59002232411189
+"35810","Huntsville","AL","Maplewood Park","North Parkway","35810",34.787902258267934,-86.58050537109375
+"35816","Huntsville","AL","the tree in the yard","not_available","35816",34.744869075254066,-86.6253209152691
+"35901","Gadsden","AL","Noccalula Falls","1600 Noccalula Rd","35904",34.04007817048724,-86.02172590964238
+"35901","Gadsden","AL","Moragne Park","Riverside Dr","35901",34.00463291669044,-86.00204868964899
+"35901","Gadsden","AL","Malone's Mansion Driveway","110 Mountain Creek Dr","35901",34.0643196105957,-85.93657684326172
+"35901","Gadsden","AL","9/11 Memorial Park","not_available","35901",34.013071,-86.002878
+"35901","Gadsden","AL","North Glencoe Baptist Church","1119 Chastain Blvd.","35903",33.97053882003635,-85.94660936769868
+"35901","Gadsden","AL","Track","not_available","35905",33.953917,-85.926968
+"35901","Gadsden","AL","Glencoe Park","301-325 Nancy Carrol Ave","35905",33.9570209801252,-85.92748758762284
+"35901","Gadsden","AL","Hokes Bluff Park","3244-3394 Gazaway St","35903",33.99212150679475,-85.86154553562774
+"35901","Gadsden","AL","Ola Lee Mize Patriots Park","not_available","35904",34.03675170786641,-86.02363393782751
+"35901","Gadsden","AL","North Gadsden Park","not_available","35903",34.01807055,-85.96219379
+"35903","Gadsden","AL","ballplay walking track","not_available","36272",34.01236634068453,-85.7797518302321
+"35904","Gadsden","AL","Hastings Park","34th street","35904",34.02286574240661,-86.05651766725533
+"35905","Gadsden","AL","Dive Land Park","401 Websters Chapel Rd","35905",33.92172,-85.906773
+"35950","Albertville","AL","Graham Park","not_available","35950",34.263482,-86.203565
+"35951","Albertville","AL","High Falls","CR 356","35974",34.4183453698654,-86.09135627746582
+"35951","Albertville","AL","Chalet 412 Lake Guntersville","not_available","35976",34.39264765454714,-86.20750854696323
+"35952","Altoona","AL","Tnt fireworks stand","not_available","35952",34.11664581298828,-86.41368865966797
+"35953","Ashville","AL","Ashville  Park","3rd Ave.","35953",33.8386609855182,-86.25307202339172
+"35953","Ashville","AL","D.O. Langston Park","211 8th St","35953",33.834052898019856,-86.25417224274275
+"35954","Attalla","AL","shady central","not_available","35957",34.215431213378906,-86.16227722167969
+"35959","Cedar Bluff","AL","Sand Rock Park","not_available","35983",34.242696572101515,-85.76651407474198
+"35959","Cedar Bluff","AL","Cedar Bluff Park","not_available","35959",34.21814064145978,-85.60853827329932
+"35959","Cedar Bluff","AL","Leesburg Park","Lokey Street","35983",34.177422542859425,-85.76360812039373
+"35961","Collinsville","AL","Crossville Walking Track & Park","not_available","35962",34.298064919287,-85.96762423794473
+"35967","Fort Payne","AL","Fort Payne City Park","not_available","35967",34.44375728407482,-85.71865004390801
+"35967","Fort Payne","AL","Nice park","not_available","35986",34.50392532348633,-85.84791564941406
+"35967","Fort Payne","AL","Little River Canyon","472 State Hig. 35","35967",34.403806250262335,-85.63929940279314
+"35968","Fort Payne","AL","Sylvania Lake/Park","720 Michael Rd","35988",34.575889587402344,-85.8089828491211
+"35968","Fort Payne","AL","Rainsville City Park","Broadway St","35986",34.49350632693225,-85.84957575910116
+"35971","Fyffe","AL","Fyffe City Park","Church Street","35971",34.45228762801875,-85.90634665921532
+"35976","Guntersville","AL","Guntersville Civitan Park","1800-1898 sunset Dr","35976",34.35467081306061,-86.31673078199381
+"35984","Mentone","AL","Desota Falls Picnic Table","not_available","35984",34.549181907172674,-85.58954466869604
+"36003","Autaugaville","AL","Swift Creek Park & Boat Landing","Swift Creek Boat Landing","36067",32.45747978771755,-86.73907129247728
+"36003","Autaugaville","AL","Autaugaville Sunflower Field","not_available","36003",32.429972124324784,-86.66478524511975
+"36009","Brantley","AL","Rose Hill War Zone","33071 Rose Hill Rd","36028",31.444835662841797,-86.3373031616211
+"36009","Brantley","AL","Backwoods Country Park","Opp Hwy","36028",31.434881918661958,-86.26100112447483
+"36010","Brundidge","AL","Ariton Recreation Park","79 Claybank St","36311",31.59503936767578,-85.71350860595703
+"36016","Clayton","AL","Pratt Park","not_available","36027",31.801382578250475,-85.22890231215747
+"36016","Clayton","AL","Cleveland City Park","not_available","30528",31.83797258,-85.46444645
+"36020","Coosada","AL","Camp Stew","Sheppard Drive","not_available",32.519688,-86.351592
+"36022","Deatsville","AL","Upper Kingston Park","1309 Upper Kingston Road","36067",32.497492317615375,-86.47452592849731
+"36022","Deatsville","AL","Confederate Memorial Park","not_available","36091",32.719551320220184,-86.47364673973641
+"36022","Deatsville","AL","Legacy Park","1889 Deatsville Hwy","36054",32.53242492675781,-86.39427185058594
+"36022","Deatsville","AL","Confederate Memorial Park","not_available","36022",32.657652670512846,-86.5004023010326
+"36024","Eclectic","AL","Bell Park","not_available","36078",32.69791928780067,-85.9531995637574
+"36027","Eufaula","AL","Hatchechubbee Creek Park","Chubcreek Rd","36027",32.13880563290034,-85.06342369330459
+"36037","Greenville","AL","beeland community center","not_available","36037",31.83931541442871,-86.65167999267578
+"36040","Hayneville","AL","Ruby S Moore Park","N Broad St","36752",32.2784617,-86.61052836666667
+"36043","Hope Hull","AL","Pa","not_available","36108",32.30516,-86.345215
+"36049","Luverne","AL","Douglas Park","not_available","36049",31.712017059326172,-86.26322174072266
+"36054","Millbrook","AL","Village Green Park","3113-3177 Park Circle","36054",32.47598291971844,-86.36227492438924
+"36054","Millbrook","AL","Cooter's Pond Park","1844 Cooters Pond Road","36066",32.43073936000098,-86.40057853495217
+"36054","Millbrook","AL","Plantation Oakes","131 Plantation Oaks Blvd","36054",32.48328492111389,-86.37250714446992
+"36064","Pike Road","AL","Sturbridge Clubhouse","not_available","36116",32.33063183012544,-86.1663710772343
+"36064","Pike Road","AL","Halcyon Summit Pond","Steeleridge Rd","36117",32.371051,-86.156159
+"36066","Prattville","AL","Overlook Park","Jay St","not_available",32.44801010164682,-86.42232186824786
+"36066","Prattville","AL","Newton Park Tennis Courts","Till St","36066",32.46889631481597,-86.44534033947077
+"36066","Prattville","AL","Newton Park","502 Park St","36067",32.46867714973288,-86.44527611200336
+"36066","Prattville","AL","candlestick Park","not_available","36067",32.43081440269983,-86.42015570688841
+"36067","Prattville","AL","Autauga Creek Canoe Trail","145 W Main St","36067",32.457674323994055,-86.4719036750226
+"36067","Prattville","AL","Wilderness Park / Bamboo Forest","800 Upper Kingston Rd","36067",32.4786611521649,-86.48103243619195
+"36067","Prattville","AL","Pratt Park","347 Doster Road","36067",32.455921,-86.467692
+"36067","Prattville","AL","Spinner's Park","Lower Kingston Rd","not_available",32.46727112194086,-86.48184770899356
+"36067","Prattville","AL","Heritage Park","Main St.","36067",32.46060074416381,-86.47513792527435
+"36067","Prattville","AL","Spinners Arts And Crafts Show","Spinners Park","not_available",32.466987,-86.48157
+"36069","Ramer","AL","Pine Level Park","not_available","36065",32.0646,-86.05448
+"36078","Tallassee","AL","FBC Reeltown Pavilion and Playground","16963 Highway 49 S","36866",32.61025619506836,-85.80094146728516
+"36079","Troy","AL","Parp","left on murphee right on china","36081",31.81313085,-85.97523904
+"36079","Troy","AL","Bicentennial Park","not_available","36081",31.78569155044817,-85.9647466057996
+"36083","Tuskegee","AL","Tuskegee National Forest Rec Area","E Martin Luther King Hwy","36083",32.46012388154055,-85.6202615198107
+"36083","Tuskegee","AL","Park","not_available","36083",32.432969,-85.70885
+"36092","Wetumpka","AL","Fort Toulouse","not_available","36093",32.506196569114614,-86.25239213388087
+"36092","Wetumpka","AL","Gold Star Park","not_available","36092",32.535701607574545,-86.20709654216482
+"36093","Wetumpka","AL","Sheridan Heights Community Center","not_available","36110",32.43585491464117,-86.28454688858274
+"36104","Montgomery","AL","Cloverdale Park","Cloverdale Road","36106",32.35445873038022,-86.29256814447626
+"36104","Montgomery","AL","Lower Dexter Pocket Park","not_available","36104",32.377455,-86.30847
+"36104","Montgomery","AL","Overlook Park","544 Bell St","36104",32.37756926361431,-86.3214262187709
+"36104","Montgomery","AL","Air Park","not_available","36113",32.382347106933594,-86.34514617919922
+"36104","Montgomery","AL","Thunderbird Park","Maxwell Blvd","not_available",32.383019300602804,-86.34337704181979
+"36104","Montgomery","AL","The A&P Courtyard","501 Cloverdale Rd","36106",32.358734130859375,-86.2982177734375
+"36104","Montgomery","AL","Www.prattpark.com","not_available","36109",32.385273931808406,-86.34958967340897
+"36104","Montgomery","AL","Oak Park","1010 Forest Ave","36106",32.36685483989534,-86.28963435085151
+"36105","Montgomery","AL","Wynton Blount Cultural Park","6055 Vaughn Rd","36116",32.3427240343259,-86.20365531779106
+"36105","Montgomery","AL","Vaughn Road Park","3620 Vaughn Rd","36106",32.35050555262547,-86.24503167844604
+"36105","Montgomery","AL","Shakespeare Park","not_available","36117",32.344068438588366,-86.20862044690539
+"36105","Montgomery","AL","Vaugh Road Park","Vaugh Road","not_available",32.34695604359238,-86.24505151938169
+"36105","Montgomery","AL","James A. Shannon Park","2076 Potomac Ave","36108",32.347567,-86.327505
+"36105","Montgomery","AL","Ida Bell Young Park","5400 Vaughn Rd","36117",32.34025930976158,-86.2142292151445
+"36105","Montgomery","AL","Hammockville","1500 E Fairview Ave, Huntingdon College, Montgomery, AL 36106","36106",32.35166931152344,-86.28475952148438
+"36105","Montgomery","AL","Vaughn rd park","not_available","36106",32.35082499085187,-86.24428267745984
+"36107","Montgomery","AL","Kinghill","not_available","36107",32.39191030266052,-86.27814532758565
+"36108","Montgomery","AL","Dr. Robert B. Adams Park","4300 Richardson Rd.","36108",32.3110897728292,-86.39875380231312
+"36109","Montgomery","AL","Fisk Park","South Dr","36114",32.403358807715755,-86.24758117522147
+"36109","Montgomery","AL","Lagoon Park Tennis Facility","2839-2855 Lagoon Park Dr","36117",32.40078800672978,-86.22100854779627
+"36110","Montgomery","AL","Hyde Park","Hyde Park Drive","36117",32.39661233412683,-86.20117431695873
+"36201","Anniston","AL","Hamilton Park","not_available","36207",33.653468933066016,-85.81584077724503
+"36201","Anniston","AL","Oxford Public Tennis Courts","247-489 Recreation Dr","36203",33.60716271380916,-85.82344766617092
+"36201","Anniston","AL","Wellborn Park","135 Pinson Rd","36201",33.652565002441406,-85.88269805908203
+"36201","Anniston","AL","Zinn Park","W 14th St.","not_available",33.66186254031825,-85.83185847231103
+"36206","Anniston","AL","Weaver Park","not_available","36277",33.748747623628404,-85.813580003626
+"36206","Anniston","AL","Alexandria Community Center","Alexandria Wellington Rd","36250",33.769340736232294,-85.88258971253255
+"36206","Anniston","AL","YMCA Camp Hamilton","not_available","36265",33.764643,-85.776598
+"36207","Anniston","AL","Walking Track","3618 Spring Valley Rd","36207",33.632259,-85.78461349010468
+"36251","Ashland","AL","Lineville City Park","Highway 9","36266",33.315819298313784,-85.743858523824
+"36251","Ashland","AL","McCrary park","not_available","36266",33.31474304199219,-85.74581146240234
+"36258","Delta","AL","Morris Mountain","not_available","36258",33.48232374613907,-85.6621679895863
+"36265","Jacksonville","AL","Jacksonville Veterans Memorial Park","James St SE","36265",33.8082082240789,-85.75787528904023
+"36271","Ohatchee","AL","Janney Furnace Park","145 Janney Rd","36271",33.79525375366211,-86.0200424194336
+"36274","Roanoke","AL","Kiwanis Park","Hwy 431","not_available",33.30117222773486,-85.4860162646745
+"36278","Wedowee","AL","French Park","not_available","36278",33.337818,-85.481581
+"36301","Dothan","AL","Red Light Circle And 52","not_available","36301",31.210580556388663,-85.42437595460389
+"36301","Dothan","AL","Azalea Park","E Cottonwood Rd","36301",31.200748085975647,-85.37632763385773
+"36301","Dothan","AL","Poplar Head Park","not_available","36303",31.22386912617269,-85.3895240083392
+"36301","Dothan","AL","A-Okay RV Park","5081 Third Ave Lot D7","36301",31.1521901,-85.3795607
+"36301","Dothan","AL","Rehobeth Walking Trail & Nature Park","5449 Hwy 109","not_available",31.12727627625068,-85.4458152740353
+"36303","Dothan","AL","Landmark Park","430 Landmark Dr","36303",31.28924713671244,-85.36965620627787
+"36303","Dothan","AL","Haddington Park","not_available","36305",31.235612567730907,-85.49245269048838
+"36310","Abbeville","AL","Abbeville Recreation Complex","512 Ozark Rd","36310",31.5535831451416,-85.272216796875
+"36322","Daleville","AL","Culpepper Park Daleville Al","Hwy 85","36322",31.304835908715607,-85.71772804357394
+"36322","Daleville","AL","John Hutto Park","not_available","36352",31.345202,-85.613984
+"36322","Daleville","AL","Fort Rucker Veterans Memorial Park","3td Avenue","36362",31.32256317138672,-85.7112045288086
+"36323","Elba","AL","Vetetans Memorial Park","not_available","36323",31.40548903548408,-86.04610152360226
+"36330","Enterprise","AL","enterprise recreational park","not_available","36330",31.347550661678085,-85.86585798304091
+"36340","Geneva","AL","Robert Fowler Memorial Park","S Herring ST","36340",31.024216038024278,-85.85839033126831
+"36344","Hartford","AL","The Square","not_available","36344",31.102245767811176,-85.69696375452666
+"36345","Headland","AL","Gazebo","9 Park St","36345",31.352214813232422,-85.34168243408203
+"36360","Ozark","AL","Police Memorial Park","not_available","36360",31.385638224082587,-85.69542477846781
+"36401","Evergreen","AL","Evergreen Municipal Park","Crestview Ave","36401",31.42737308050354,-86.92704254948183
+"36420","Andalusia","AL","Lockhart, AL","not_available","36442",31.010879742627804,-86.34847096120349
+"36420","Andalusia","AL","Johnson Park","not_available","36420",31.296827510331955,-86.47279249749363
+"36426","Brewton","AL","Flomaton hurrican park","not_available","36441",31.008457107738433,-87.27185147220845
+"36460","Monroeville","AL","Whitey Lee Park","not_available","36460",31.515806,-87.339896
+"36502","Atmore","AL","Tom Bryne Park","Near  Barnes Dr","not_available",31.004276093606027,-87.4823164335498
+"36507","Bay Minette","AL","Universal Kids Park","not_available","36507",30.895734323295393,-87.77439957116923
+"36507","Bay Minette","AL","Pratt Park","Doster Rd","36507",30.91697,-87.782812
+"36509","Bayou La Batre","AL","Mariner Park","not_available","36509",30.404776,-88.247536
+"36521","Chunchula","AL","Creola Park","not_available","36525",30.899798968874073,-88.0374000127596
+"36521","Chunchula","AL","JFK Statue","not_available","36572",30.870927915900417,-88.04630191429152
+"36523","Coden","AL","Bayfront Park","15961  Dauphin Island Pkwy","36602",30.356851155961106,-88.11672449111938
+"36523","Coden","AL","Rolston Park","7840 Coden Belt","not_available",30.371681113356445,-88.22806566953659
+"36526","Daphne","AL","W. O. Lott Park","2039 Main St","36526",30.60662078857422,-87.90373992919922
+"36526","Daphne","AL","Bayfront Park","6200 Bayfront Park Dr","36526",30.629950495160184,-87.91854016034807
+"36526","Daphne","AL","May Day Park","College Ave.","36526",30.59942955746679,-87.91365862571458
+"36526","Daphne","AL","Jackson's Oak Park","not_available","36526",30.628784344053116,-87.91431477884849
+"36526","Daphne","AL","Village Park Preserve","27717 N Main St.","36526",30.628643515502755,-87.91191101074219
+"36526","Daphne","AL","Spirit Park","30492 Emily Frances Ln.","36527",30.667856216430664,-87.8965072631836
+"36526","Daphne","AL","Gator Alley","US-98","36526",30.65425900333103,-87.91262950748205
+"36527","Daphne","AL","5 Rivers Delta Resource Center","30945 Five Rivers Blvd","36527",30.675540080846286,-87.93145895004272
+"36527","Daphne","AL","Fitzpen Center","not_available","36551",30.676882451743673,-87.83172207673053
+"36528","Dauphin Island","AL","Dauphin Island Indian Shell Mound Park","not_available","36528",30.25604498556846,-88.10751124310845
+"36528","Dauphin Island","AL","Cadillac Square","Bienville Blvd","36528",30.25157910578236,-88.10258354991674
+"36528","Dauphin Island","AL","Salt Creek Park","Omega St","36528",30.254001357095294,-88.12221594485203
+"36530","Elberta","AL","Elberta Town Park","County Road 83","36530",30.41529898980246,-87.59952178444833
+"36532","Fairhope","AL","Weeks Bay Reserve","11300 U.S. 98","36532",30.417248895821935,-87.84351457978747
+"36532","Fairhope","AL","Founders Park","18862 Founders Dr","36532",30.499946730988587,-87.87891983985901
+"36532","Fairhope","AL","Fairhope Municipal Park","1 Fairhope Ave","36532",30.524242490204244,-87.91207807134336
+"36532","Fairhope","AL","Mary Ann Nelson Park","10646 County Rd 1","36532",30.379256243539707,-87.8527621904724
+"36535","Foley","AL","Heritage Park (Centennial Park)","125 E Laurel Ave","36535",30.406734466552734,-87.68299865722656
+"36535","Foley","AL","Buelah Heights Park","E Jefferson Ave.","36535",30.397808579145117,-87.6677656173706
+"36535","Foley","AL","Melvin Roberts (Cedar Street) Park","Cedar St.","36535",30.416869907807737,-87.6925277709961
+"36535","Foley","AL","Aaronville Park","Irwin St.","36535",30.390164496362864,-87.68688440322876
+"36535","Foley","AL","Wetlands Park","not_available","36542",30.318082407307987,-87.69699331250168
+"36535","Foley","AL","Max Griffin Park","S Pine St.","36535",30.40252799256586,-87.68658399581909
+"36542","Gulf Shores","AL","Hugh S. Branyon Backcountry Trails","Campground Rd.","36561",30.282074124105836,-87.61381822081512
+"36542","Gulf Shores","AL","Romar Beach Access","24450 Perdido Beach Blvd","36561",30.26241256718928,-87.60709941387177
+"36542","Gulf Shores","AL","Orange Beach Park","not_available","36561",30.284210572482635,-87.58217559145781
+"36542","Gulf Shores","AL","Wade Ward Nature Park","Gulf Shores Pkwy","36542",30.25200542368272,-87.68893897533417
+"36542","Gulf Shores","AL","Lagoon Park","Fort Morgan Rd.","36542",30.255590568395075,-87.71569581883799
+"36549","Lillian","AL","Blue Angel Recreational Park","2100 Bronson Rd","32506",30.387388047033095,-87.42156028747559
+"36549","Lillian","AL","Lillian Recreation Center","not_available","36549",30.40969953895569,-87.44440407425
+"36551","Loxley","AL","Memorial Park","22884 Milwaukee St.","36567",30.55864406696232,-87.71274089813232
+"36551","Loxley","AL","Memorial Park","Silverhill Ave","36576",30.54886441059164,-87.73870468139648
+"36551","Loxley","AL","Honey Bee Park","22780 Milwaukee St.","36567",30.55582150567965,-87.71001900024405
+"36551","Loxley","AL","Garrett Park","Park Ave.","36567",30.551580823997366,-87.71366357803345
+"36561","Orange Beach","AL","Perdido Key Beach","15301 Perdido Key Dr.","32507",30.29379879984793,-87.45134766012733
+"36561","Orange Beach","AL","Orange Beach Waterfront Park","Canal Rd.","36561",30.293354421473573,-87.57511174624938
+"36561","Orange Beach","AL","Orange Beach Community Kids Park","26425 Canal Rd.","36561",30.292756575712513,-87.5749397277832
+"36571","Saraland","AL","Brooks Park","not_available","36611",30.78195177446422,-88.07274394548828
+"36571","Saraland","AL","Spanish Trace Park","not_available","36571",30.826964626709106,-88.11406282035085
+"36571","Saraland","AL","Chickasabogue Park","60 Aldock Rd","36613",30.786714117098178,-88.10163974761963
+"36571","Saraland","AL","Baldwin Square","Old Highway 43","36572",30.851627545694246,-88.05591815927032
+"36575","Semmes","AL","Semmes Baseball Association","10000 Blackwell Nursey Rd S","36575",30.783147105406325,-88.28378319740295
+"36575","Semmes","AL","millers park","not_available","36575",30.741430282592773,-88.21446228027344
+"36575","Semmes","AL","Semmes Park","Moffett rd","36575",30.785084,-88.28258
+"36576","Silverhill","AL","pumpkin patch express","not_available","36532",30.50295952153248,-87.78979963574933
+"36582","Theodore","AL","Theodore Athletic Association","not_available","36582",30.55062916400561,-88.18581350147724
+"36582","Theodore","AL","Trimmier Park","Alba Club Rd","36605",30.598265375567927,-88.09923648834229
+"36582","Theodore","AL","Helen K. Wood Park","not_available","36605",30.56869324579426,-88.08600783348083
+"36587","Wilmer","AL","Walters Park","not_available","36608",30.704205,-88.250257
+"36587","Wilmer","AL","Tanner Williams Park","13001 Tanner Williams Rd","36608",30.724342346191406,-88.3515625
+"36587","Wilmer","AL","Escatawpa Hollow Camp Ground & Canoe Rental","15551 Moffett Rd","36587",30.859691,-88.41257
+"36602","Mobile","AL","Cathedral Square","300 Conti St","36602",30.69035377871937,-88.04502367973328
+"36602","Mobile","AL","Mardi Gras Park","S Royal St","36603",30.689564940858588,-88.04045923054218
+"36602","Mobile","AL","British Park","208 S Warren St","36602",30.68492404492722,-88.04800629615784
+"36602","Mobile","AL","Pratt Park","460 Doster Rd","36067",30.690537,-88.038849
+"36602","Mobile","AL","Caldwell Field","not_available","36603",30.696822,-88.055202
+"36602","Mobile","AL","De Tonti Square Park","311 N Conception St","36602",30.697061634487255,-88.045858394721
+"36603","Mobile","AL","Alabama Korean War Memorial","2703 Battleship Pkwy","36602",30.68522071838379,-88.01765441894531
+"36603","Mobile","AL","Cooper Riverside Park","101 S Water St","36602",30.68994321478922,-88.03772807121277
+"36603","Mobile","AL","Lyons Park","Lyons Park Ave","36604",30.69383658227188,-88.07389497756958
+"36603","Mobile","AL","James Seals Park & Community Center","540 Texas St","36603",30.678721999999997,-88.04634899999999
+"36603","Mobile","AL","Thomas Sullivan Community Center","351 N Catherine St","36603",30.700534,-88.07296099999999
+"36603","Mobile","AL","Washington Square","not_available","36604",30.682257504809208,-88.05665340274572
+"36603","Mobile","AL","Crawford Park","S. Ann St.","36604",30.677534,-88.066807
+"36604","Mobile","AL","Geri moulton children's park","1700 Center St","36604",30.69748306274414,-88.07782745361328
+"36605","Mobile","AL","Maitre Park","2412 Halls Mill Rd","36606",30.658679872975974,-88.10168266296387
+"36605","Mobile","AL","Gerald Matthews Sports Complex","1935 McDonough Rd","36605",30.630255,-88.089295
+"36605","Mobile","AL","Doyle Park","Rosedale Rd","36605",30.624438235087435,-88.07637333869934
+"36605","Mobile","AL","Arlington Park","Old Bayfront","36603",30.64731561660439,-88.0611455784289
+"36606","Mobile","AL","Denton Park","Emogene St.","not_available",30.682959998379964,-88.11270394882237
+"36606","Mobile","AL","Memorial Park","1850 Government St","36606",30.677619574942277,-88.08259606361389
+"36606","Mobile","AL","Sage Park","2906 Dauphin St","36606",30.690522055247317,-88.1130234065998
+"36607","Mobile","AL","Lake Drive Tricentennial Park","not_available","36617",30.698358151239663,-88.08518374755036
+"36607","Mobile","AL","Hobbit Park","Park Avenue","36607",30.69929810325439,-88.09816360473633
+"36607","Mobile","AL","Tricentennial Park","2121 Lake Dr","36617",30.6976261138916,-88.08656311035156
+"36608","Mobile","AL","Langan Park","4901 Zeigler Blvd","36608",30.70621681607043,-88.15963983535767
+"36608","Mobile","AL","Medal of Honor Park","1711 Hillcrest Rd","36609",30.656520083709548,-88.18391420920199
+"36608","Mobile","AL","Charles Wood Japanese Garden","Forest Hill Dr","not_available",30.708106863375026,-88.15143679130361
+"36608","Mobile","AL","The Grove ""Central Park""","6501 N University Blvd","36688",30.690994993049713,-88.19343566894531
+"36608","Mobile","AL","Hillsdale Heights Park","Zeigler Blvd","36608",30.70213022300899,-88.20198655128479
+"36608","Mobile","AL","Laun Park","2563-3243 Windmill Dr","36693",30.638101074635365,-88.16683830020362
+"36608","Mobile","AL","Malibar Heights Park","1805 Oakado Dr E","36609",30.65355110168457,-88.16706085205078
+"36608","Mobile","AL","West Mobile County Park","2275 Leroy Stephens Rd.","36695",30.64427207767197,-88.23014974594116
+"36608","Mobile","AL","Relay For Life","not_available","36609",30.656516,-88.18194
+"36608","Mobile","AL","Hackmeyer Park","3810 S Conway Dr","36608",30.680143356323242,-88.13580322265625
+"36608","Mobile","AL","Crestview Park","Rowland Dr","36693",30.627208,-88.14139799999998
+"36608","Mobile","AL","Stotts Park","2150 Demetropolis Rd","36693",30.645496368408203,-88.15635681152344
+"36608","Mobile","AL","Mims Park Athletics","5400 Grishilde Dr","36633",30.622725604205893,-88.16752552986145
+"36610","Mobile","AL","Pollard Park","W Clark Ave","36610",30.731553517813747,-88.0891252309084
+"36613","Eight Mile","AL","Highpoint Park","Highpoint blvd","36613",30.756222274383088,-88.16117301553982
+"36613","Eight Mile","AL","Chandler Park","not_available","36618",30.742951,-88.152296
+"36617","Mobile","AL","Trinity Gardens Park","3100 Banks Ave","36617",30.72327995300293,-88.11421203613281
+"36701","Selma","AL","Riverfront Park","not_available","36703",32.406846746860715,-87.01793483720742
+"36701","Selma","AL","Valley Grande Walking Trail","not_available","36701",32.50545483970794,-86.99745070407594
+"36732","Demopolis","AL","Confederate Park","not_available","36732",32.51792528980404,-87.83786339169141
+"36742","Gallion","AL","Screen On The Green","Piedmont Park","36742",32.46040999889374,-87.71490812301636
+"36744","Greensboro","AL","Lions Park","Hall St.","36744",32.69225678315753,-87.5895133112598
+"36756","Marion","AL","Perry Lakes Park","State Hwy 175","not_available",32.63172563700087,-87.32142039970557
+"36784","Thomasville","AL","Gates Drive Park","Gates Drive","36784",31.885137432291128,-87.73467063903809
+"36801","Opelika","AL","Louise Kreher Forest Ecology Preserve","2222 North College Street","36830",32.660178154896656,-85.48760153859472
+"36801","Opelika","AL","The Courtyard and Fountain","not_available","36801",32.646298847643344,-85.37840095046177
+"36801","Opelika","AL","The Dog Park","not_available","36830",32.624257,-85.473205
+"36801","Opelika","AL","ALFA Pavilion","620 N Donahue Dr","36832",32.616947174072266,-85.49002838134766
+"36804","Opelika","AL","Town Creek Park","1150 S Gay St.","36830",32.58302012862318,-85.47622679518264
+"36804","Opelika","AL","Town Creek Cemetery and Park","S. Gay St.","36830",32.5841077274047,-85.47602545069176
+"36804","Opelika","AL","Auburn Research Park","not_available","36832",32.58531460695904,-85.49472314309
+"36804","Opelika","AL","Ag Heritage Park","Auburn University","36849",32.59538241032673,-85.49129529763346
+"36804","Opelika","AL","Hutsell Track","530-598 Biggio Dr","36832",32.5987559027414,-85.49453090310638
+"36804","Opelika","AL","Spring Villa Park","not_available","36804",32.587631696153856,-85.31151388303843
+"36804","Opelika","AL","Davis Arboretum Pavilion","181 Garden Dr","36849",32.596053000000005,-85.482843
+"36804","Opelika","AL","Martin Luther King Park","190 Byrd St","not_available",32.60734176635742,-85.50244903564453
+"36804","Opelika","AL","Arboretum","College st.","36832",32.59439262008521,-85.48368104614818
+"36830","Auburn","AL","Kiesel Park","520 Chadwick Ln","36832",32.58535170770875,-85.54359969482498
+"36856","Fort Mitchell","AL","Pratt park","not_available","31905",32.358707427978516,-84.95067596435547
+"36856","Fort Mitchell","AL","Fort Mitchell National Historic Landmark","561 Alabama 165","36856",32.34730813707436,-85.02366321722023
+"36863","Lanett","AL","Anderson Park at West Point Lake","3065-3499 County Road 212","36863",32.937737049710755,-85.20181304907989
+"36863","Lanett","AL","Beardley Creek Park","not_available","30240",32.91696456509007,-85.19114767877123
+"36867","Phenix City","AL","Chattahoochee Riverwalk","1200 Bay Ave","31901",32.462339676833516,-84.9962854385376
+"36867","Phenix City","AL","Lakewood Park","4312 Park Dr","36867",32.50502989187175,-85.04145416384348
+"36867","Phenix City","AL","Dancing Mountain","not_available","31901",32.463951,-84.996085
+"36867","Phenix City","AL","CSU Frank & Edith Lumpkin RiverPark Glen","6 W. 10th Street","31901",32.46416091918945,-84.99567413330078
+"36867","Phenix City","AL","Chattahoochee Glide Tours","100 Bay Ave.","31901",32.46505535458633,-84.99585628509521
+"36867","Phenix City","AL","may day","not_available","36867",32.5014533996582,-85.00039672851562
+"36867","Phenix City","AL","Aflac Outdoor Games","Downtown","31901",32.46393288437683,-84.99658584594727
+"36867","Phenix City","AL","Idle Hour Park","1218 Airport Rd.","36867",32.499048016512916,-85.01088231369837
+"36869","Phenix City","AL","wouldnt you like to know?","not_available","36869",32.46443766376131,-85.11452221626104
+"36869","Phenix City","AL","Dinglewood Park","not_available","31906",32.47017218315478,-84.96991607059749
+"36869","Phenix City","AL","Mildred Tillis Rec Center","13th Avenue","not_available",32.47399617119486,-84.97479783837207
+"36869","Phenix City","AL","Bulldog Bait & Tackle","1300 Victory Dr","31901",32.445782,-84.97693100000001
+"36869","Phenix City","AL","Austin Sumbry Park","Us Highway 431 S, Phenix City, AL 36875","36875",32.393475171247495,-85.06513787597694
+"36869","Phenix City","AL","TSYS Fountain","One TSYS Way, Columbus, GA 31901","31901",32.472909015560795,-84.99339081683964
+"36874","Salem","AL","Jim Cox Go Kart Track","not_available","36874",32.60010246452765,-85.12362174831547

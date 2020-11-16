@@ -1,0 +1,253 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"03901","Berwick","ME","Millennium Field","Stackpole","03878",43.238498010584486,-70.86707799208044
+"03901","Berwick","ME","Pines","not_available","03878",43.260061982272084,-70.86905785905154
+"03901","Berwick","ME","North Berwick Soccer Fields","246-296 Lebanon Rd","03906",43.32275538978582,-70.75597080934926
+"03902","Cape Neddick","ME","Perkins Cove Rotary Park","not_available","03907",43.236748,-70.590239
+"03902","Cape Neddick","ME","Veteran's Park","not_available","not_available",43.24902,-70.59946
+"03902","Cape Neddick","ME","Dorothea Grant Common","86 Obeds Lane","03907",43.24430847167969,-70.6006088256836
+"03902","Cape Neddick","ME","Cape Neddick Park","Hutchins Blvd","03902",43.19169209328873,-70.60571908950806
+"03903","Eliot","ME","Rogers Park","Dion Ave","not_available",43.09750462986455,-70.73410034179688
+"03903","Eliot","ME","Old Town Hall","not_available","03801",43.09635248580193,-70.83272792678724
+"03903","Eliot","ME","Dead Duck Boat Launch","Hammond Rd.","03903",43.11241792014388,-70.79627891009847
+"03903","Eliot","ME","Eliot Boat Launch","61-73 Maine 101","03908",43.188071,-70.805615
+"03903","Eliot","ME","Frost Tufts Park and Ballpark","Old Rd.","03903",43.1260782829246,-70.8046525142752
+"03903","Eliot","ME","William A. Bray Memorial Park","not_available","03908",43.190505281672685,-70.82533035602837
+"03904","Kittery","ME","Prescott Park","105 Marcy St","03801",43.07717173811275,-70.75216770172119
+"03904","Kittery","ME","Fort McClary State Historic Site","not_available","03905",43.082077260400446,-70.70927616058042
+"03904","Kittery","ME","Peirce Island Playground","2 Peirce Island Rd","03801",43.07478202125523,-70.7464289867088
+"03904","Kittery","ME","Portsmouth Waterfront  Park","Ceres Street","not_available",43.07706535,-70.75134568
+"03904","Kittery","ME","Emery Field","2-12 Manson Ave","03904",43.09146670196592,-70.7345987131732
+"03904","Kittery","ME","Meade Pond","342 Meade Street","03904",43.07813564604729,-70.7334566116333
+"03904","Kittery","ME","Jamaica Island Rec Area","Parker Ave.","03904",43.081270201161814,-70.72429418563843
+"03904","Kittery","ME","Hislop Park","Preble Way","not_available",43.09222958933195,-70.77007607568649
+"03904","Kittery","ME","Haven Park","10-14 Edwards St","03801",43.07413008429317,-70.75444343401996
+"03904","Kittery","ME","Kittery Christmas Tree","State Rd","03904",43.08412052440606,-70.75050011093855
+"03904","Kittery","ME","Atkinson Park","court street","03801",43.07659864425659,-70.75428128242493
+"03905","Kittery Point","ME","Fort Foster Park","76 Pocahontas Rd","03905",43.067868638029346,-70.69182836330393
+"03905","Kittery Point","ME","Fort Stark Historic Site","Wild Rose Ln","03870",43.05857884724654,-70.7134386003858
+"03905","Kittery Point","ME","Smuttynose Island","Isles of Shoals","not_available",42.981496328714385,-70.61136514063763
+"04002","Alfred","ME","Gowen Park","not_available","04073",43.448100178625104,-70.78521100912647
+"04002","Alfred","ME","Carpentier Park","High Street","04073",43.44404570281924,-70.76564990449239
+"04005","Biddeford","ME","Shuffleboard Courts","West Grand Ave.","04063",43.50038512393939,-70.38590286770142
+"04005","Biddeford","ME","Clifford Park","not_available","04005",43.488007804206404,-70.44812199367922
+"04005","Biddeford","ME","Talbot Park","not_available","04046",43.42982940714767,-70.49034118652342
+"04005","Biddeford","ME","Memorial Park Scarborough","not_available","04074",43.59081940847826,-70.3457362829592
+"04005","Biddeford","ME","Pleasent point park","not_available","04072",43.58722054699405,-70.55433847022978
+"04005","Biddeford","ME","Guild Park","not_available","04064",43.504635,-70.392863
+"04005","Biddeford","ME","Kennebunk Plains Wildlife Management Area","73-299 Webber Hill Rd","04043",43.40242746846196,-70.62504267870735
+"04005","Biddeford","ME","Black Point Community Park","Black Point Rd","04074",43.57668,-70.31918
+"04005","Biddeford","ME","Secret Bench","not_available","04063",43.49866362054743,-70.38530909956125
+"04005","Biddeford","ME","Rotary Park","Outer Main St","not_available",43.49954385499985,-70.47413571542566
+"04005","Biddeford","ME","May Field Park","144 May st","04005",43.48517490337766,-70.47444035083572
+"04008","Bowdoinham","ME","Mailly Waterfront Park","not_available","04008",44.00786989443236,-69.89562342452963
+"04009","Bridgton","ME","Pondicherry Park Loop","15 Depot St","04009",44.05312,-70.70691500000001
+"04011","Brunswick","ME","Brunswick Town Mall","Park Row","04011",43.91285762624897,-69.96355533599852
+"04011","Brunswick","ME","Nathaniel Davis Park","not_available","04011",43.91335847163191,-69.97308522880785
+"04011","Brunswick","ME","Mere Point","Mere Point Rd.","not_available",43.82709671571044,-70.01792907714844
+"04011","Brunswick","ME","Wharton Point","Maquoit Road","04011",43.86788875604221,-69.99312400817871
+"04011","Brunswick","ME","Pettengill Farm","4 Pettengill Rd","04032",43.84986846898118,-70.08011327145834
+"04011","Brunswick","ME","Thomas Point Beach Campground","29 Meadow Rd","04011",43.89553454895854,-69.89260363281792
+"04020","Cornish","ME","Thompson Park","not_available","04020",43.80484,-70.80207
+"04027","Lebanon","ME","Gia:","not_available","04083",43.46355257854608,-70.84083902775595
+"04030","East Waterboro","ME","Bob Fay Memorial Park","not_available","04061",43.6161617825318,-70.70939469329191
+"04032","Freeport","ME","Winslow Park","Staples Point Road","not_available",43.801338527690476,-70.1154340103285
+"04032","Freeport","ME","Memorial Park","31 Park St","04032",43.859283447265625,-70.0980224609375
+"04032","Freeport","ME","Leon Gorman Park","Park Street","04032",43.85778931028242,-70.09632756316935
+"04037","Fryeburg","ME","Bradley Memorial Park","Main Street","not_available",44.014438114342134,-70.98440945148468
+"04037","Fryeburg","ME","Pine Hill","not_available","04037",44.0146484375,-70.98556518554688
+"04038","Gorham","ME","Robie Park","not_available","04038",43.675482,-70.444101
+"04038","Gorham","ME","The Park Bench","37 College Ave","04038",43.68351683043608,-70.47469621490299
+"04038","Gorham","ME","Dundee Park","Dundee Park Rd","not_available",43.79303728201589,-70.45052125314183
+"04039","Gray","ME","Pineland Farms disc golf course","not_available","04260",43.902563,-70.259313
+"04043","Kennebunk","ME","Lower village park","School La","04043",43.36044445915449,-70.48571156928517
+"04043","Kennebunk","ME","Kennebunkport Village Green","Green st","04043",43.35860726080079,-70.47459687026623
+"04043","Kennebunk","ME","Lafayette Park","not_available","04043",43.383939828901056,-70.54113576578824
+"04046","Kennebunkport","ME","Henry Parsons Park","Ocean ave","04046",43.34434354028548,-70.47154426574707
+"04050","Long Island","ME","Peaks Island Reserve","158 New Island Ave","04108",43.65480246,-70.19086562
+"04062","Windham","ME","East Bridge Fields","not_available","04092",43.69770576023425,-70.33249411006173
+"04071","Raymond","ME","The Sebago Center at Saint Joseph's College of Maine","289 Whites Bridge Road","04084",43.825862,-70.47812110000001
+"04074","Scarborough","ME","Western Promenade Park","West End","not_available",43.64973807940644,-70.27622540975466
+"04074","Scarborough","ME","McIntyre Park","Taylor St","04102",43.64772131885387,-70.26722431182861
+"04074","Scarborough","ME","Deering Street Park","Deering Street","04101",43.654151207433884,-70.2671950874576
+"04074","Scarborough","ME","Congress Square Park","not_available","04101",43.654276,-70.263068
+"04074","Scarborough","ME","Thomas Knight Park","0 Ocean Street","04106",43.64180483278828,-70.25561613719819
+"04074","Scarborough","ME","Pleasant Street Park","59 Pleasant St","04101",43.65402599249237,-70.25881375077856
+"04074","Scarborough","ME","Congress Square Gallery","609 Congress St","04101",43.65427399135134,-70.2630824466221
+"04074","Scarborough","ME","Wilkinson Park","172 New York Ave.","not_available",43.61885070800781,-70.31758117675781
+"04074","Scarborough","ME","Rigby Park","Highland ave","04106",43.607554673138424,-70.29882934855364
+"04074","Scarborough","ME","South Portland Farmers' Market","Hinckley Drive","not_available",43.64147090144539,-70.25527197717908
+"04090","Wells","ME","Webhannett Falls Park","Rt 1 Post Road","04090",43.298224,-70.587561
+"04090","Wells","ME","Founder's Park","not_available","04090",43.322203904615485,-70.58450820498868
+"04092","Westbrook","ME","Westbrook Boardwalk","Westbrook Boardwalk","04092",43.67716694630019,-70.36639877656586
+"04092","Westbrook","ME","Riverbend park","Main street","04092",43.67963656318559,-70.35247754941419
+"04092","Westbrook","ME","Westbrook Together Days","Riverbank Park","04092",43.67886360225541,-70.35871095097446
+"04096","Yarmouth","ME","Royal River Park","103 E Elm St","04096",43.806544,-70.190838
+"04096","Yarmouth","ME","Royal River Park","not_available","04069",43.78388732711548,-70.19260987099774
+"04096","Yarmouth","ME","Grist Mill Park","Rt. 88","04096",43.79900769404138,-70.17801296830856
+"04096","Yarmouth","ME","Royal River","not_available","04096",43.804888938546675,-70.19015368469874
+"04101","Portland","ME","Eastern Promenade","Eastern Promenade","04101",43.668788353912944,-70.24345124132066
+"04101","Portland","ME","Deering Oaks Park","btwn Deering Ave. & Forest Ave.","04101",43.65826130193157,-70.27117813528898
+"04101","Portland","ME","Lincoln Park","356 Congress Street","04101",43.66016471809591,-70.25516175325804
+"04101","Portland","ME","Deering Oaks Rose Circle","19 Park Ave","04101",43.658546447753906,-70.26820373535156
+"04101","Portland","ME","Tommy's Park","Middle St","04101",43.65782580535075,-70.25457286018988
+"04101","Portland","ME","Post Office Park","Between Market & Exchanges Streets","04101",43.657810930178385,-70.25450416608119
+"04101","Portland","ME","Forth Sumner Park","North Street","04101",43.66873122055152,-70.25062558364769
+"04101","Portland","ME","High Street Park","High Street","04106",43.64807682521132,-70.24119983681065
+"04101","Portland","ME","Portland Square Cafe","1 Portland Sq","04101",43.6564,-70.256158
+"04101","Portland","ME","Standpipe Park","North St","04101",43.66752706283272,-70.25203274087438
+"04101","Portland","ME","Lincoln Park on Congress & Franklin Streets","Congress Street","04101",43.659581034154236,-70.2540646159968
+"04101","Portland","ME","Back Cove Park","not_available","04103",43.664735,-70.264522
+"04102","Portland","ME","Baxter Woods Park","Forest Ave","not_available",43.677042235519124,-70.29289781893087
+"04102","Portland","ME","Payson Park","532 Baxter Blvd","04101",43.681235460829946,-70.26753990211724
+"04102","Portland","ME","Douglas Field","not_available","04102",43.65930957,-70.28640942
+"04102","Portland","ME","Payson Hill Terrain Park","Ocean Ave","04103",43.6834221406697,-70.27160167694092
+"04103","Portland","ME","The Giggey Par 8","125 Allen Ave Ext","not_available",43.712189,-70.258113
+"04103","Portland","ME","Maple's Tree","Forest Avenue","04102",43.69697189331055,-70.3069076538086
+"04105","Falmouth","ME","Falmouth Community Park","Winn Rd","not_available",43.74824687560303,-70.28990474650189
+"04105","Falmouth","ME","Village Park","not_available","04105",43.721789,-70.236304
+"04106","South Portland","ME","Bug Light Park","Portland Harbor","not_available",43.65415016587868,-70.23444104544103
+"04106","South Portland","ME","Mill Creek Park","not_available","04106",43.63560083866712,-70.25164017001151
+"04106","South Portland","ME","Millcreek Park","Market St","04106",43.6381297374191,-70.2535399377772
+"04107","Cape Elizabeth","ME","Fort Williams Park","1000 Shore Rd","04107",43.623059839515975,-70.21255016326904
+"04107","Cape Elizabeth","ME","Kettle Cove","Kettle Cove Rd","04107",43.56112976542547,-70.21752420940237
+"04107","Cape Elizabeth","ME","Crescent Beach State Park","Bowery Beach Rd","04107",43.56401475963835,-70.23038413188254
+"04107","Cape Elizabeth","ME","Gull Crest","not_available","04107",43.584276,-70.242265
+"04210","Auburn","ME","Simard-Payne Police Memorial Park","Oxford Street","04240",44.09400245664927,-70.22155459556616
+"04210","Auburn","ME","Veterans Memorial Park","1-99 Mill St","04240",44.09750134860251,-70.22112676137009
+"04210","Auburn","ME","Pettingill park","pettingill park rd","not_available",44.106973403445494,-70.2340311247806
+"04210","Auburn","ME","Gas Light Park (Unitil)","333 Lincoln Street","04210",44.088857522140614,-70.21608796079872
+"04210","Auburn","ME","Bonney Park","205 Main St","04240",44.099209,-70.217028
+"04210","Auburn","ME","little park by the river","not_available","04240",44.10038041649719,-70.21941500252805
+"04210","Auburn","ME","Aero Air Park","40 East Ave","04240",44.087249755859375,-70.20162963867188
+"04210","Auburn","ME","Great Falls Plaza","Great Falls Plaza","04210",44.09843553757296,-70.2247157031333
+"04210","Auburn","ME","Sunnyside Park","132 Winter St.","04240",44.10884094238281,-70.21763610839844
+"04210","Auburn","ME","Kennedy Park","Bates St","04240",44.094859306344595,-70.21403074264526
+"04210","Auburn","ME","Marcotte Park","Birch st","04240",44.09555049154284,-70.20323905698541
+"04217","Bethel","ME","Davis Park","not_available","04217",44.41427978659032,-70.78731566835528
+"04217","Bethel","ME","Sunday River Bike Park","15 South Ridge Road","04261",44.47349166870117,-70.85543823242188
+"04217","Bethel","ME","Swan Hill at Intervale","Swan Hill Rd","04217",44.472395,-70.775404
+"04217","Bethel","ME","Flatt Howard's Hideaway","not_available","04255",44.37011100168828,-70.67789170339697
+"04220","Buckfield","ME","Shenantaha Park","East Line Rd","not_available",44.27639365196228,-70.32812654972076
+"04224","Dixfield","ME","Boivin Park","10 Bridge St","04276",44.54263675041117,-70.54806518267424
+"04239","Jay","ME","Wilson lake park","not_available","04294",44.58459105196797,-70.23577269647842
+"04239","Jay","ME","Livermore Falls Skate Park","not_available","04254",44.47106170654297,-70.18626403808594
+"04240","Lewiston","ME","Beaver Park","Cotton Rd","04250",44.030016595579404,-70.12962044291704
+"04280","Sabattus","ME","Martin's Point","Lake St","04280",44.12578537918291,-70.10651162332458
+"04281","South Paris","ME","Moore Park","Park Street","04281",44.22545879218999,-70.51420211791992
+"04294","Wilton","ME","Farmington Fair","not_available","04938",44.66095789982988,-70.13847297513342
+"04294","Wilton","ME","Kemp Memorial Park","not_available","46049",44.5932697,-70.2370258
+"04330","Augusta","ME","Grant City Park","not_available","04347",44.287393,-69.789231
+"04330","Augusta","ME","Mill Park","2-32 Northern Ave","04330",44.32180283729046,-69.7728603249187
+"04330","Augusta","ME","Waterfront Park","Maine Ave.","04345",44.228976,-69.769741
+"04330","Augusta","ME","Waterfront Park","Front St.","04330",44.314372628683145,-69.77358744040781
+"04352","Mount Vernon","ME","Belgrade Village Green","not_available","04918",44.524178,-69.88538
+"04352","Mount Vernon","ME","Peninsula Park","not_available","04917",44.529255,-69.88902
+"04358","South China","ME","China Baptist Church Park","Causeway Rd","04926",44.47888560082863,-69.5144336255024
+"04401","Bangor","ME","Bangor Waterfront","Bangor, Maine","04401",44.79554215031573,-68.77079479189447
+"04401","Bangor","ME","Broadway Park","Broadway","04401",44.81109773229308,-68.7716969772069
+"04401","Bangor","ME","Fairmount Park","662 Hammond St","04401",44.797986288939356,-68.7975670674413
+"04401","Bangor","ME","Stillwater Park","Howard Street","04401",44.81917006922982,-68.75686988346826
+"04401","Bangor","ME","Gateway Park","1-99 Valley Ave","04401",44.80938951666667,-68.77886531666667
+"04401","Bangor","ME","Norumbega Parkway","not_available","04401",44.80285061469894,-68.77165571058357
+"04401","Bangor","ME","Cascade Park","State St","04401",44.81155939177879,-68.74562767872591
+"04401","Bangor","ME","The Dump","not_available","04444",44.76310276044116,-68.90497928361607
+"04401","Bangor","ME","Brown Woods, Bangor","1178-1292 Ohio St","04401",44.83104145779705,-68.8184933137372
+"04401","Bangor","ME","Peirce Memorial Park","Harlow St","not_available",44.80481785413145,-68.77214141548056
+"04401","Bangor","ME","Sewall Park","off Poplar St.","04468",44.945999306591105,-68.7790060043335
+"04401","Bangor","ME","Eastern Park","S Main St","04412",44.77514387,-68.779758
+"04411","Bradley","ME","Old Town Park","not_available","04468",44.93722320113652,-68.6469960064101
+"04411","Bradley","ME","Webster Park","North Main Ave.","04473",44.88640753484994,-68.66824352387407
+"04411","Bradley","ME","Leonard's Mills","Government Road","04411",44.87408126038702,-68.63687640545645
+"04412","Brewer","ME","Coe Park Playground","Court Street","04401",44.803831545121184,-68.77937455804947
+"04412","Brewer","ME","Maple St Park","Maple St","04412",44.79030588735205,-68.76482336609244
+"04414","Brownville","ME","Katahdin Iron Works","not_available","04414",45.4230737466222,-69.13241083749953
+"04416","Bucksport","ME","Fort Knox State Historic Site","Ft Knox Rd","04416",44.566243249100964,-68.80362553271677
+"04416","Bucksport","ME","Olin Richardson Tract","Richardson Rd","not_available",44.685140015161544,-68.74667281245442
+"04418","Greenbush","ME","Motor Man's Jeep Park","not_available","04418",45.12075131666667,-68.58019051666666
+"04421","Castine","ME","Tidal Falls","Tidal Falls Road","04421",44.389791975,-68.80254247500001
+"04426","Dover Foxcroft","ME","Peaks Kenney State Park","not_available","04426",45.26123005485529,-69.2859028720725
+"04441","Greenville","ME","Mt. Kineo Fire Tower","not_available","04441",45.699561,-69.733909
+"04441","Greenville","ME","Allagash Wilderness Waterway","Pleasant Street","04441",45.459603867003615,-69.59057807922363
+"04457","Lincoln","ME","Margueritte Flanders Playground","not_available","04457",45.36952,-68.501705
+"04460","Medway","ME","Medway Veterans Memorial Park","Medway Rd","04460",45.61347198486328,-68.53981018066406
+"04462","Millinocket","ME","Baxter State Park","64 Balsam Dr","04462",45.65750808894866,-68.6918225854977
+"04468","Old Town","ME","Coombs Park","not_available","04473",44.908341927659414,-68.68642090970071
+"04496","Winterport","ME","Gesner Park","not_available","04951",44.618523,-69.00775
+"04530","Bath","ME","Waterfront Park","61 Commercial St.","04530",43.914269614340434,-69.81314168773818
+"04530","Bath","ME","Bath Waterfront Park","Commercial St","not_available",43.913782176759526,-69.81318595446172
+"04530","Bath","ME","Bates-Morse Mountain Conservation Area","Phippsburg,ME,04562","04562",43.80868914056448,-69.8202327448563
+"04530","Bath","ME","Morse Cove Public Boat Launch","not_available","04562",43.870976,-69.804072
+"04530","Bath","ME","Library Park","not_available","04530",43.91603924770161,-69.8157854129663
+"04537","Boothbay","ME","Barrett Park","Lobster Cove Road","04538",43.84802140061375,-69.61796455968299
+"04537","Boothbay","ME","McKown Square","not_available","04538",43.851112365722656,-69.62848663330078
+"04537","Boothbay","ME","Boothbay Commons","1 Common Drive","04537",43.875961064950566,-69.63369888068883
+"04548","Georgetown","ME","Morse Pond","Seguinland Road","04548",43.80055454034749,-69.72612619400023
+"04554","New Harbor","ME","Colonial Pemaquid State Historic Site","not_available","04558",43.87982728172193,-69.52138687619272
+"04556","Edgecomb","ME","Fort Edgecomb","not_available","04556",43.99365412044794,-69.65620792389592
+"04562","Phippsburg","ME","Popham Beach State Park","10 Perkins Farm Ln","04562",43.73641653431807,-69.79592388447955
+"04563","Cushing","ME","Harvey Park","not_available","04563",44.010340821181444,-69.24847053307388
+"04605","Ellsworth","ME","Knowlton Park","not_available","04605",44.54795538218484,-68.42679976359193
+"04605","Ellsworth","ME","Wild Acadia Fun Park","233 Bar Harbor Rd","04605",44.49602813320962,-68.3798875310777
+"04605","Ellsworth","ME","bar harbor field and park","not_available","04640",44.540283203125,-68.32267761230469
+"04605","Ellsworth","ME","Taylor Creek Greenway","Eastbrook rd","not_available",44.637332916259766,-68.26819610595703
+"04605","Ellsworth","ME","West Eden Commons","not_available","04609",44.39819518226759,-68.33401811409728
+"04605","Ellsworth","ME","Union River Harbor Park","Water Street","04605",44.534690756050516,-68.41974008112011
+"04605","Ellsworth","ME","Horton Emerson Park","not_available","04614",44.41307513704231,-68.58734935914276
+"04607","Gouldsboro","ME","Agamont Park","1 Main St","04609",44.39086516801896,-68.20456314291387
+"04607","Gouldsboro","ME","Village Green","Village Green","04609",44.38776490082074,-68.20505619049072
+"04607","Gouldsboro","ME","Grant Park In Albert Meadow","1 Albert Meadow","04609",44.38940108629325,-68.2013394365455
+"04607","Gouldsboro","ME","Barker Park","Cottage st","not_available",44.389586,-68.207505
+"04607","Gouldsboro","ME","Gouldsboro Town Park","Pond Rd","04669",44.408535,-68.026509
+"04609","Bar Harbor","ME","Sand Beach","Park Loop Rd","not_available",44.329271,-68.182259
+"04609","Bar Harbor","ME","South Bubble Summit","Acadia National Park","04675",44.33955538821362,-68.253274555362
+"04609","Bar Harbor","ME","Suminsby Park","not_available","04660",44.336143,-68.30388
+"04609","Bar Harbor","ME","Sieur De Monts Visitor Center","Park Loop Rd.","04609",44.36215779116416,-68.20786400277356
+"04609","Bar Harbor","ME","Acadia National Park Headquarters","20 McFarland Hill Dr","04609",44.37446975708008,-68.2594223022461
+"04611","Beals","ME","Great Wass Island","not_available","04611",44.467716,-67.577076
+"04619","Calais","ME","Triangle Park","Main St","04619",45.189190315127895,-67.27744102478027
+"04619","Calais","ME","Meridian Park","Lincoln St","04619",45.18477432065333,-67.28089570999146
+"04623","Columbia Falls","ME","Cottonwood Camping & RV Park","151 Centerville Rd","04623",44.662803649902344,-67.71430969238281
+"04627","Deer Isle","ME","Small Cove Park","not_available","04681",44.155727,-68.663092
+"04627","Deer Isle","ME","Deer Isle Public Park & Boat Launch","not_available","04650",44.29051,-68.691704
+"04630","East Machias","ME","Bad Little Falls Park","not_available","04654",44.71367852952996,-67.45726507029975
+"04643","Harrington","ME","Mcclellan Park","not_available","04658",44.48610086429211,-67.8552787575562
+"04652","Lubec","ME","Roosevelt Campobello International Park","459 Route 774","E5E 1A4",44.87499829133551,-66.95929745695014
+"04679","Southwest Harbor","ME","Seawall Picnic Area","425 Seawall Rd","04679",44.25361633300781,-68.29466247558594
+"04680","Steuben","ME","Melebec Mud Park","not_available","04680",44.503284,-67.936764
+"04683","Sunset","ME","Mullen Head Park","North Haven,ME,04853","04853",44.17340611560685,-68.82370488805486
+"04693","Winter Harbor","ME","Schoodic Peninsula","Schoodic Peninsula","not_available",44.33283312578136,-68.06096304618755
+"04693","Winter Harbor","ME","Frazer Point","Frazer Point Rd.","04693",44.37532178501088,-68.07521857157045
+"04730","Houlton","ME","Littleton playground","Us Hwy 1","not_available",46.23257,-67.839407
+"04736","Caribou","ME","Teague Park","not_available","04736",46.86403788732095,-68.00650176587362
+"04741","Estcourt Station","ME","Parc de la Frontière","1309, rue Principale","G0L 1J0",47.45962746974556,-69.22450482845306
+"04745","Frenchville","ME","Four Corner Park","Main St","04756",47.355809,-68.332651
+"04769","Presque Isle","ME","Riverside Park","not_available","04769",46.680271935641905,-68.01924454816142
+"04785","Van Buren","ME","Champlain Street Park","not_available","04785",47.16926574707031,-67.94628143310547
+"04786","Washburn","ME","Thomas I. Brewer Memorial Park","not_available","04786",46.77534103393555,-68.1558609008789
+"04841","Rockland","ME","Winslow-Holbrook Memorial Veterans Park","not_available","04841",44.102185,-69.108911
+"04841","Rockland","ME","Thomaston Park","not_available","04861",44.085472,-69.177216
+"04841","Rockland","ME","Jc Park","Birch St","04841",44.117313385009766,-69.1154556274414
+"04841","Rockland","ME","Friends of Maine Coastal Islands National Wildlife Refuge","9 Water St","04841",44.099729,-69.109269
+"04843","Camden","ME","Camden Hills State Park","280 Belfast Rd","04843",44.2292305990217,-69.05142466232965
+"04843","Camden","ME","Camden Harbor Park","10 Atlantic Avenue","04843",44.210933,-69.0639508
+"04843","Camden","ME","Camden Village Green","not_available","04843",44.20345501265252,-69.06535968826692
+"04858","South Thomaston","ME","Mill River Park","57 Thatcher St","04861",44.075006,-69.173147
+"04862","Union","ME","Ayer Park","not_available","04862",44.203184,-69.27606253
+"04863","Vinalhaven","ME","Skoog Park","Skoog Rd","not_available",44.060937612323265,-68.87542520764327
+"04864","Warren","ME","Payson Park","Camden Road","04864",44.12320798,-69.24675072
+"04901","Waterville","ME","Mill Island Park","not_available","04901",44.57694625854492,-69.62889099121094
+"04901","Waterville","ME","Fort Halifax Park","Bay Street","04901",44.53964881069494,-69.6287333585642
+"04915","Belfast","ME","Belfast City Park","not_available","04915",44.414160694852335,-68.99325355034819
+"04915","Belfast","ME","Belfast Skate Park","Washington St","04915",44.427446357749254,-69.00710629028562
+"04920","Bingham","ME","Radar Ridge Guiding","841 STREAM RD","04920",45.120941162109375,-69.85643005371094
+"04924","Canaan","ME","Lake George Regional Park","Skowhegan,ME,04976","04976",44.76213923585882,-69.58843702371567
+"04928","Corinna","ME","Gazebo","not_available","04928",44.921559,-69.261066
+"04929","Detroit","ME","Detroit Town Park","Main st.","04929",44.79406241666667,-69.29325916666667
+"04938","Farmington","ME","Lance Corporal Scott Paul Memorial Park","Strong, Maine","04983",44.81700684538645,-70.22744178771973
+"04950","Madison","ME","Country Corner Park","not_available","04950",44.780376,-69.84076
+"04953","Newport","ME","Grove Street Park","not_available","04953",44.837334,-69.27026
+"04964","Oquossoc","ME","Haley Pond Park","not_available","04970",44.96508684014353,-70.6419827315944
+"04966","Phillips","ME","Park By The Bridge","Route 149","04966",44.824373458608584,-70.33812046051025
+"04967","Pittsfield","ME","Manson park","not_available","04967",44.78065497148847,-69.3786002159076
+"04974","Searsport","ME","Mosman Park","Mosman St.","not_available",44.45575701533738,-68.92416672300692
+"04981","Stockton Springs","ME","Fog Bell Tower","not_available","04981",44.46746,-68.812231

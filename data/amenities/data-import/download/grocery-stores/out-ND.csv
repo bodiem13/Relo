@@ -1,0 +1,138 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"58006","Arthur","ND","Mary's Market","not_available","58006",47.10374069213867,-97.21784210205078
+"58012","Casselton","ND","Wanglers","not_available","58012",46.90049548623046,-97.20900535583496
+"58027","Enderlin","ND","Jay's Food Pride","not_available","58027",46.62393212217897,-97.60070013031682
+"58027","Enderlin","ND","Organic Cupboard","207 Broadway St","58027",46.62806618252224,-97.60338296771491
+"58027","Enderlin","ND","Jay's foodmart","not_available","not_available",46.627460653040785,-97.61342108951344
+"58032","Forman","ND","Dystes","not_available","58032",46.10801272773367,-97.63624012682128
+"58040","Gwinner","ND","Teal's Market","highway 13","58040",46.22530474300299,-97.65516791693291
+"58045","Hillsboro","ND","Ricks Food Pride","1-99 1st St SW","58045",47.402356133333335,-97.06292406666667
+"58045","Hillsboro","ND","Dales Food Pride","not_available","58045",47.40254580974579,-97.06317901611328
+"58047","Horace","ND","Walmart Supercenter","3757 55th Ave S","58104",46.801741150011715,-96.84228822881634
+"58051","Kindred","ND","Wrangler Foods","465-495 Elm St","58051",46.648759,-97.018936
+"58053","Lidgerwood","ND","Jack & Jill Grocery","not_available","58053",46.07434515090365,-97.15306656583364
+"58054","Lisbon","ND","Teal's Market","1609 Main St","58054",46.42915598779081,-97.68303201961518
+"58072","Valley City","ND","Market Place Foods","100-198 2nd St SW","58072",46.922583,-98.003473
+"58072","Valley City","ND","Leevers South","148 Central Ave S","58072",46.920524,-98.009408
+"58072","Valley City","ND","Leevers Super Value","424 2nd Ave NE","58072",46.92671511316586,-98.00119946355021
+"58075","Wahpeton","ND","Walmart Supercenter","1625 Commerce Dr","58075",46.28389023803973,-96.62966879361217
+"58075","Wahpeton","ND","Econofoods","259-399 State Highway 127","58075",46.26197319576132,-96.61667291810272
+"58075","Wahpeton","ND","Econo Foods","not_available","58075",46.26982873110888,-96.61242182959134
+"58078","West Fargo","ND","Target","4202 13th Ave S","58103",46.860456923527295,-96.85297241606727
+"58078","West Fargo","ND","Hornbachers","4151 45th St S","58104",46.8176783,-96.8635019
+"58078","West Fargo","ND","Walmart Supercenter","4731 13th Ave S","58103",46.86604981049268,-96.86800932432793
+"58078","West Fargo","ND","Cashwise","755 33rd Ave W","58078",46.83180134258709,-96.88558093952133
+"58078","West Fargo","ND","Hornbacher's","2050 Sheyenne St","58078",46.8525304,-96.907911
+"58078","West Fargo","ND","ALDI","4305 13th Ave S","58103",46.863523,-96.854827
+"58078","West Fargo","ND","Natural Grocers","4517 13th Ave S","58103",46.86360928664544,-96.86232655535943
+"58078","West Fargo","ND","Family Fare Supermarket","1100 13th Avenue East","58078",46.8639949,-96.8813259
+"58078","West Fargo","ND","Food Services Of America","4101 15th Ave N","58102",46.898211,-96.852788
+"58102","Fargo","ND","Hornbacher's","2510 Broadway N","58102",46.91031732932205,-96.78915972023776
+"58102","Fargo","ND","Tochi Products","1101 2nd Ave N","58102",46.878586,-96.796329
+"58102","Fargo","ND","Lotus Blossom","2750 Main Ave","58103",46.87551435267151,-96.82406422453691
+"58102","Fargo","ND","Asian American Market","1015 Main Ave","58103",46.87505179628957,-96.79484164928203
+"58102","Fargo","ND","Family Fare Supermarket","724 North University Drive","58102",46.8841241,-96.7992791
+"58102","Fargo","ND","Everyday Mart","707 10th St N","58102",46.88380432128906,-96.79357147216797
+"58102","Fargo","ND","Carbonic","not_available","58103",46.874176025390625,-96.80144500732422
+"58103","Fargo","ND","Cash Wise Foods","1401 33rd St S","58103",46.8590939,-96.8335879
+"58103","Fargo","ND","Hornbacher's Express","1433 University Dr S","58103",46.8583386,-96.7993448
+"58103","Fargo","ND","Sunmart","2855 27th St S","58103",46.833608147289894,-96.82174637746552
+"58103","Fargo","ND","Hornbacher's","4101 13th Ave S","58103",46.86325214792761,-96.85006700859833
+"58104","Fargo","ND","Hornbacher's","1532 32nd Ave S","58103",46.8314452362843,-96.80310985289236
+"58104","Fargo","ND","Cash Wise Foods","4907 Timber Pkwy S","58104",46.8064211,-96.8310151
+"58201","Grand Forks","ND","Target","3601 32nd Ave S","58201",47.88721543786896,-97.08019065572377
+"58201","Grand Forks","ND","Walmart Supercenter","2551 32nd Ave S","58201",47.88751398,-97.06459522
+"58201","Grand Forks","ND","Hugo's","1750 32nd Ave S","58201",47.890241662409096,-97.05310503260189
+"58201","Grand Forks","ND","Hugo's","1315 S Columbia Rd","58201",47.9083544363547,-97.06490868189559
+"58201","Grand Forks","ND","Walmart Supercenter","5755 Gateway Drive","58203",47.93057872051307,-97.11328878329344
+"58201","Grand Forks","ND","Hugo's","1925 13th Ave N","58203",47.93183906012577,-97.05460391201166
+"58201","Grand Forks","ND","Natural Grocers","1901 32nd Ave S","58201",47.88838149822136,-97.05530028856644
+"58201","Grand Forks","ND","Hugo's","1631 S Washington St","58201",47.904455178075224,-97.04430784620794
+"58201","Grand Forks","ND","Toucan International Market","1826 S Washington St","58201",47.90234816557345,-97.04878261009503
+"58201","Grand Forks","ND","Hamro Asian Market","1375 S Columbia Rd Ste C","58201",47.907712,-97.064775
+"58201","Grand Forks","ND","Hornbacher's","2771 32nd Ave S","58201",47.887591018175,-97.0687768013886
+"58204","Grand Forks Afb","ND","Grand Forks AFB Commissary","380 Warrior Dr","58205",47.950448550598374,-97.37901680289863
+"58212","Aneta","ND","Oxton's Super Valu","121 Main Street","58254",47.76383699276567,-98.17654740772441
+"58225","Drayton","ND","Hugo's","155 E 12th St","58237",48.41313180914454,-97.40826438113677
+"58231","Fordville","ND","J Mart","not_available","58273",48.31039031156841,-97.71023861223954
+"58249","Langdon","ND","Warehouse Foods","not_available","58249",48.760711689062845,-98.36193902900835
+"58271","Pembina","ND","D&K Grocery","not_available","58271",48.9669593785147,-97.24517161126778
+"58301","Devils Lake","ND","Walmart Supercenter","1424 Hwy 2 E","58301",48.09810411082373,-98.8413985804979
+"58301","Devils Lake","ND","Wally's Supermarket","807 Highway 20 S","58301",48.10187911987305,-98.86680603027344
+"58318","Bottineau","ND","Walmart Supercenter","912 11th St E","58318",48.8188857775619,-100.43248330613326
+"58318","Bottineau","ND","Jerry's Jack & Jill","301-399 Thompson St","58318",48.82911458,-100.44626238
+"58324","Cando","ND","Supermarket Foods","Main St & 4th Ave","58324",48.4834634,-99.2095021
+"58341","Harvey","ND","SuperValue","not_available","58341",47.7699881580454,-99.9332149772503
+"58341","Harvey","ND","Jerry's","not_available","58438",47.64774537086801,-99.62025136548581
+"58344","Lakota","ND","Wimer's Supermarket","not_available","58344",48.04202958408639,-98.34319794810368
+"58346","Leeds","ND","Tracy's Market","not_available","58346",48.29000768928268,-99.44144164784619
+"58366","Rolette","ND","Rolette Super Valu","208 Main St, Rolette, ND 58366","58366",48.66178239767331,-99.84440928312827
+"58367","Rolla","ND","Leevers SuperValu Foods","not_available","58367",48.859935,-99.613686
+"58368","Rugby","ND","Leevers","215 2nd Ave SE","58368",48.368082,-99.994198
+"58401","Jamestown","ND","Hugo's","310 1st Ave S","58401",46.905616581380336,-98.70868428372559
+"58401","Jamestown","ND","Cash Wise Foods","410 10th St SE","58401",46.89773306918371,-98.70336853372953
+"58401","Jamestown","ND","Walmart Supercenter","921 25th St Sw","58401",46.88051319207263,-98.72278375267864
+"58401","Jamestown","ND","County Market","not_available","58401",46.89813,-98.70328428333333
+"58425","Cooperstown","ND","Millers Fresh Foods","100-148 9th St NE","58425",47.44550323486328,-98.12507629394531
+"58428","Dawson","ND","Dawson Grocery","not_available","58428",46.867382,-99.75169
+"58433","Edgeley","ND","Edgeley Food Center","510 Main St","58433",46.360271609070416,-98.71117115020752
+"58433","Edgeley","ND","Kulm Grocery","not_available","58456",46.30226,-98.949135
+"58474","Oakes","ND","K&J Foods","not_available","58474",46.14058170761985,-98.09053871766803
+"58495","Wishek","ND","Stans Supervalu","not_available","58495",46.25881879058191,-99.54975041049185
+"58501","Bismarck","ND","Walmart Supercenter","2717 Rock Island Pl","58504",46.79192125,-100.7504225
+"58501","Bismarck","ND","Walmart Supercenter","1400 Skyline Blvd","58503",46.85774555231517,-100.768523332717
+"58501","Bismarck","ND","Dan's Supermarket","835 S Washington Street","58504",46.79679929510743,-100.79277350328412
+"58501","Bismarck","ND","Dan's Supermarket","1190 W Turnpike Ave","58501",46.82634300509591,-100.81254605008093
+"58501","Bismarck","ND","Cash Wise Foods","900 43rd AVE NE","58503",46.85324897728655,-100.77964237301637
+"58501","Bismarck","ND","Dan's Supermarket","3101 North 11th Street","58503-0594",46.84020720312949,-100.77464193903957
+"58501","Bismarck","ND","Nutripharma","2941 N 11th St","58503",46.839262,-100.775464
+"58501","Bismarck","ND","Cash Wise Foods","1144 E Bismarck Expy","58504",46.79544431578424,-100.77415607605747
+"58501","Bismarck","ND","Dan's Supermarket","3103 Yorktown Drive","58503",46.840094,-100.727205
+"58503","Bismarck","ND","Dan's Supermarket","500 Burlington Street SE","58554",46.824920738497724,-100.88206243902533
+"58503","Bismarck","ND","Walmart Supercenter","1000 Old Red Trl Nw","58554",46.84674069554352,-100.90358880573913
+"58503","Bismarck","ND","Dan's Super Market","504 W Main St","58554",46.82600203789646,-100.89676614491968
+"58504","Bismarck","ND","Johns Food Center","64 Santee Rd","58504",46.765018463134766,-100.69281768798828
+"58523","Beulah","ND","Krause's SuperValu","1221 Main St W","58545",47.294089306636984,-101.64532271751175
+"58531","Coleharbor","ND","Garrison Super Valu","not_available","58540",47.64699090907255,-101.4117479450807
+"58538","Fort Yates","ND","White Buffalo Super Value","Sitting Bull St./Yates St.","58538",46.088493360542834,-100.62943297566386
+"58540","Garrison","ND","Teresa's Grocery & Bakery","Main Street","58545",47.51155790424724,-101.45539330752686
+"58554","Mandan","ND","Royse's Twin City Produce","3613 Memorial Hwy","58554",46.814945,-100.844914
+"58563","New Salem","ND","Tellmann’s Market","412 N 6th St","58563",46.84717,-101.41509
+"58581","Zeeland","ND","Zeeland Supervalu","not_available","58581",45.972397,-99.83014
+"58601","Dickinson","ND","Walmart Supercenter","2456 3rd Ave W","58601",46.90818056401999,-102.7868765135824
+"58601","Dickinson","ND","South Dan's","not_available","58601",46.87928458727269,-102.78054125627973
+"58601","Dickinson","ND","Cash Wise Foods","1761 3rd Ave W","58601",46.901787000000006,-102.79186800000002
+"58601","Dickinson","ND","Amma' African & Caribbean Market","1251 1st St S","58601",46.878074645996094,-102.80459594726562
+"58601","Dickinson","ND","Family Fare Supermarket","302 East 1st Street","58601",46.87910842895508,-102.780517578125
+"58626","Dunn Center","ND","Jerry's Super Valu","200 Central Ave SE","58640",47.37156707692416,-102.75261666094808
+"58631","Glen Ullin","ND","Super  Valu","100 E Oak Ave","58631",46.815477433333335,-101.83008231666666
+"58639","Hettinger","ND","kennedy's","main st","58639",46.00225984265021,-102.63650396629653
+"58639","Hettinger","ND","jack & Jill","not_available","58639",46.00204398439921,-102.64299181482879
+"58646","Mott","ND","Regent Co-op","not_available","58650",46.421577791351325,-102.55649398316824
+"58701","Minot","ND","Walmart Supercenter","3900 S Broadway","58701",48.194541163836426,-101.29990196809472
+"58701","Minot","ND","Marketplace Foods","1930 S Broadway","58701",48.211486788325,-101.29734148900279
+"58701","Minot","ND","Cash Wise Foods","3208 16th St SW Ste 400","58701",48.20298553930238,-101.32015980134952
+"58701","Minot","ND","marketplace foods arrowhead","not_available","58701",48.235536315221786,-101.3183072928877
+"58701","Minot","ND","Marketplace Foods - South Broadway","1620 S Broadway","58701",48.217012594732495,-101.29688085563662
+"58701","Minot","ND","B & D Market","600 3rd St NE","58703",48.24224080515554,-101.28755084347917
+"58701","Minot","ND","Coborn's","3208 16th St SW","58701",48.202030181884766,-101.3193588256836
+"58701","Minot","ND","Marketplace Foods - Dakota Square","Dakota Square","58701",48.208156558445374,-101.31033530671178
+"58701","Minot","ND","Miracle Mart","1024 24th Ave SW","58701",48.20857620239258,-101.31097412109375
+"58703","Minot","ND","Minot AFB Commissary","360 MISSILE AVENUE","58705",48.4240675685505,-101.33617109915063
+"58721","Bowbells","ND","Kenmare Super Value","not_available","58746",48.671189,-102.081494
+"58721","Bowbells","ND","Gartner's Jack & Jill","309 N Central Ave","58746",48.674004,-102.082889
+"58730","Crosby","ND","Jason's Super Food","211 S Main St.","58730",48.91086168956873,-103.29532174577552
+"58741","Granville","ND","Spener's foods","112 Broadway","S0C 0S0",48.23972017194068,-100.9096565045211
+"58761","Mohall","ND","Mohall Super Valu","not_available","58761",48.764464210344194,-101.51208509236476
+"58770","Parshall","ND","Parshall Food Pride, Inc.","17 Main Street","58770",47.9535995,-102.1338595
+"58773","Powers Lake","ND","Country Fresh Food","2-98 Main St","58773",48.5618407713602,-102.64692359912175
+"58784","Stanley","ND","Cash Wise Foods","406 Westview Lane","58784",48.306103681482575,-102.40029273743437
+"58790","Velva","ND","Velva Fresh Foods","Main Street","58790",48.0579411829184,-100.92940998677497
+"58801","Williston","ND","Cash Wise Foods (Formerly Economart)","300 11th St W","58801",48.15516499028745,-103.62776872883603
+"58801","Williston","ND","Walmart Supercenter","4001 2nd Ave W","58801",48.182357633458444,-103.62988110553093
+"58801","Williston","ND","Albertsons","20 26th St E","58801",48.1679133,-103.6225375
+"58801","Williston","ND","Pepsi-Cola Distributing of Williston","3520 2nd Ave W","58801",48.177917,-103.625096
+"58852","Tioga","ND","Cash Wise Foods","802 N Elm St","58852",48.402444,-102.931203
+"58852","Tioga","ND","Tioga Food Pride","Main st","not_available",48.396955399999996,-102.93826062
+"58852","Tioga","ND","Cash Wise Foods (Formerly Food Pride)","100-198 Main St N","58852",48.39694706666667,-102.93850165
+"58854","Watford City","ND","Cash Wise Foods","113 6th Ave SE","58854",47.7944156,-103.2790424

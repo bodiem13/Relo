@@ -1,0 +1,401 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"89002","Henderson","NV","VONS","45 E Horizon Ridge Pkwy","89002",36.0090554,-114.9930656
+"89002","Henderson","NV","Albertsons","575 College Dr","89015",36.013771,-114.9646301
+"89005","Boulder City","NV","Smith's","830 S Boulder Hwy","89015",36.0268337,-114.9657033
+"89005","Boulder City","NV","Walmart Supercenter","300 E Lake Mead Pkwy","89015",36.03928455309524,-114.97755737997953
+"89005","Boulder City","NV","Albertsons","190 N Boulder Hwy","89015",36.0416081,-114.9812989
+"89005","Boulder City","NV","Albertsons","1008 Nevada Way","89005",35.9760734,-114.845262
+"89005","Boulder City","NV","Cuevas Meat Market","530 S Boulder Hwy","89015",36.03255159795069,-114.97271352362964
+"89005","Boulder City","NV","Groceries","not_available","not_available",35.975732,-114.832106
+"89011","Henderson","NV","Walmart Supercenter","540 Marks St","89014",36.06058632885916,-115.03360394302038
+"89011","Henderson","NV","Sprouts Farmers Market","515 N Stephanie St","89014",36.05688168278003,-115.04827827215195
+"89011","Henderson","NV","Walmart Neighborhood Market","1401 American Pacific Dr","89074",36.04072113605133,-115.04805161274027
+"89011","Henderson","NV","Joshan Filipino Oriental Market","6325 E Russell Rd #105","89122",36.08341478854489,-115.0338483403161
+"89011","Henderson","NV","Mabuhay Asian Market","565 Marks St Ste 140","89014",36.062374114990234,-115.037109375
+"89011","Henderson","NV","Quick Mart","not_available","89122",36.09120404347936,-115.04067078211989
+"89012","Henderson","NV","Whole Foods Market","100 S. Green Valley Pkwy","89012",36.02330731875146,-115.08263615490658
+"89012","Henderson","NV","Albertsons","201 S Stephanie St","89012",36.02033388148955,-115.04939858967646
+"89012","Henderson","NV","Smith's","1000 N Green Valley Pkwy","89074",36.0277512,-115.0842834
+"89012","Henderson","NV","Sprouts Farmers Market","635 S Green Valley Pkwy","89052",36.00432848391971,-115.0848314166069
+"89012","Henderson","NV","Smith's","55 S Valle Verde Dr","89012",36.0258089,-115.0636805
+"89012","Henderson","NV","F&E KT","not_available","89012",36.005298,-115.080778
+"89012","Henderson","NV","GLAZIER'S FOOD MARKETPLACE INC.","514 Beneficial Pl","89012",36.01042,-115.06136
+"89014","Henderson","NV","WinCo Foods","80 N Stephanie St","89074",36.033560497897255,-115.0439701447837
+"89014","Henderson","NV","Smith's","4600 E Sunset Rd","89014",36.07253891062866,-115.07351249456406
+"89014","Henderson","NV","Trader Joe's","2716 N Green Valley Pkwy","89014",36.06965885821514,-115.08109974067273
+"89014","Henderson","NV","Natural Grocers","1660 W Sunset Rd","89014",36.06410445945923,-115.05802508912038
+"89014","Henderson","NV","La Bonita","not_available","89014",36.073159,-115.083151
+"89014","Henderson","NV","Kim Ngoc Asian Grocery","Green Valley Plaza, 2600 N Green Valley Pkwy, Henderson, NV 89014-2112","89014-2112",36.069435119628906,-115.08197784423828
+"89025","Moapa","NV","Moapa Paiute Travel Plaza / Chevron Gas","I-15 Exit 75","89025",36.499588811321125,-114.75969309273887
+"89027","Mesquite","NV","Walmart Supercenter","1120 W Pioneer Blvd","89027",36.805294449929946,-114.10712996115902
+"89027","Mesquite","NV","Smith's","350 N Sandhill Blvd","89027",36.8083312201044,-114.06247794628143
+"89027","Mesquite","NV","Dixie Nutrition, Mesquite","300 N Sandhill Blvd Ste F","89027",36.807952887182694,-114.06391843788367
+"89027","Mesquite","NV","The Ranch Market","not_available","89027",36.80437336582707,-114.0792553769878
+"89029","Laughlin","NV","Walmart Supercenter","2840 Highway 95","86442",35.08242893,-114.5947498
+"89029","Laughlin","NV","Safeway","1751 Highway 95","86442",35.1216994,-114.5881761
+"89029","Laughlin","NV","Smith's","1775 Lakeside Dr","86442",35.10648497149917,-114.61371678393334
+"89029","Laughlin","NV","Walmart Supercenter","5210 S. Hwy 95","86426",35.005831554708344,-114.59485573771201
+"89029","Laughlin","NV","Safeway","4823 S Highway 95","86426",35.0171575,-114.5988565
+"89029","Laughlin","NV","Smith's","4747 S Highway 95","86426",35.0191499,-114.5993779
+"89029","Laughlin","NV","Smart & Final Extra!","2250 Highway 95","86442",35.10637283325195,-114.59740447998047
+"89030","North Las Vegas","NV","Smart & Final","365 W. Craig Rd.","89032",36.239146337503705,-115.14555782057961
+"89030","North Las Vegas","NV","Smith's","2255 Las Vegas Blvd N","89030",36.2021304,-115.1220507
+"89030","North Las Vegas","NV","El Super","2021 E. Lake Mead","89030",36.194853218991724,-115.1196625174053
+"89030","North Las Vegas","NV","Carniceria Guadalajara","955 W Craig Rd","89032",36.238470872916764,-115.15570106776374
+"89030","North Las Vegas","NV","Sto Nino Filipino Asian Market","955 W Craig Rd Ste 114","89032",36.238372802734375,-115.15495300292969
+"89030","North Las Vegas","NV","La Bonita","2021 Civic Center Dr","89030",36.197973,-115.119694
+"89030","North Las Vegas","NV","La Bonita","2672 Las Vegas Blvd N","89030",36.207439562409185,-115.10764974195544
+"89030","North Las Vegas","NV","Buy Low Market","1061 W Owens Ave","89106",36.186964100326335,-115.15532280683618
+"89030","North Las Vegas","NV","Mariana's Supermarkets","2325 E Cheyenne Ave","89030",36.2167551006224,-115.11829994223123
+"89031","North Las Vegas","NV","Smith's","5564 Camino Al Norte","89031",36.26112927401822,-115.15378296375275
+"89031","North Las Vegas","NV","Natural Grocers","6305 Simmons St","89031",36.27481686896737,-115.18040630091532
+"89031","North Las Vegas","NV","Smith's","4700 W Ann Rd","89031",36.26292000624715,-115.2057695388794
+"89031","North Las Vegas","NV","Albertsons","3010 W Ann Rd","89031",36.2629086,-115.1808856
+"89031","North Las Vegas","NV","Walmart Neighborhood Market","5545 Simmons St","89031",36.26031729281216,-115.18142411557699
+"89031","North Las Vegas","NV","Sprouts Farmers Market","6150 N. Decatur Blvd","89130",36.271705649808446,-115.2050511607132
+"89031","North Las Vegas","NV","King Ranch Market","Decatur Blvd","not_available",36.268826,-115.20678578
+"89031","North Las Vegas","NV","Albertsons liquor Department","not_available","89031",36.26129913330078,-115.17996215820312
+"89032","North Las Vegas","NV","Walmart Supercenter","1807 W Craig Rd","89032",36.23750894,-115.1681045
+"89032","North Las Vegas","NV","Walmart Supercenter","3950 W Lake Mead Blvd","89032",36.200817581851034,-115.19138358456004
+"89032","North Las Vegas","NV","Smith's","3013 W Craig Rd","89032",36.238287,-115.1814945
+"89032","North Las Vegas","NV","Albertsons","4850 W Craig Rd","89130",36.2402179,-115.2090051
+"89040","Overton","NV","Lin's Market","350 N Moapa Valley Blvd","89040",36.537942138864366,-114.44236091168898
+"89044","Henderson","NV","Albertsons","2910 Bicentennial Pkwy","89044",35.942416,-115.1174278
+"89048","Pahrump","NV","Walmart Supercenter","300 S Highway 160","89048",36.21491710176116,-115.99442605687624
+"89048","Pahrump","NV","Smith's","601 S Hwy 160","89048",36.2117587,-115.986495
+"89048","Pahrump","NV","Albertsons Pharmacy","200 S Hwy 160","89048",36.2168959791764,-115.995050847514
+"89048","Pahrump","NV","LJ's Market","not_available","89048",36.205488,-115.99922
+"89048","Pahrump","NV","Smith's Grocery Pickup and Delivery","601 S Highway 160","89048",36.2115364074707,-115.98648071289062
+"89049","Tonopah","NV","Raley's","1201 S. Main St.","89049",38.057677,-117.2179
+"89049","Tonopah","NV","Scolari's Food & Drug","Hwy 95 Air Force Rd","89049",38.057710962441014,-117.21818542469988
+"89052","Henderson","NV","Walmart Supercenter","2310 E Serene Ave","89123",36.022764,-115.124078
+"89052","Henderson","NV","Smith's","10616 S Eastern Ave","89052",35.9992098,-115.1026439
+"89052","Henderson","NV","Sprouts Farmers Market","1140 E Silverado Ranch Blvd","89183",36.012724527023366,-115.13820612090149
+"89052","Henderson","NV","Trader Joe's","10345 S Eastern Ave","89052",36.00088120636101,-115.10917855012991
+"89052","Henderson","NV","Smith's","9750 S Maryland Pkwy","89183",36.012068339241225,-115.1341148134918
+"89052","Henderson","NV","Albertsons","9725 S Maryland Pkwy","89183",36.012184,-115.1379495
+"89052","Henderson","NV","VONS","2511 Anthem Village Dr","89052",35.97844,-115.0999354
+"89052","Henderson","NV","Walmart Neighborhood Market","490 E Silverado Ranch Blvd","89183",36.01433003801603,-115.15272518515684
+"89052","Henderson","NV","Smart & Final","10050 S. Eastern Ave. Suite 100","89052",36.007047823552334,-115.1123816706944
+"89052","Henderson","NV","CVS pharmacy","2501 Anthem Village Dr","89052",35.97875882922936,-115.09878070451836
+"89052","Henderson","NV","Kababayan Ko","9560 S Eastern Ave","89074",36.014524,-115.117451
+"89052","Henderson","NV","Bahay Kubo Asian Food Mart","not_available","89123",36.006697977406624,-115.14654191315323
+"89052","Henderson","NV","Deliver Las Vegas","not_available","89183",35.99978,-115.13583
+"89074","Henderson","NV","VONS","2667 Windmill Pkwy","89074",36.041430000000005,-115.10285591667173
+"89074","Henderson","NV","Water Store","2647 Windmill Pkwy","89074",36.04083,-115.10178
+"89074","Henderson","NV","Walmart Grocery Pickup and Delivery","7445 S Eastern Ave","89123",36.05474758,-115.1182549
+"89074","Henderson","NV","Asian Seafood Market","8826 S Eastern Ave","89123",36.029182411804825,-115.11667951448409
+"89081","North Las Vegas","NV","Smith's","2255 E Centennial Pkwy","89081",36.275192337674305,-115.11935144662857
+"89081","North Las Vegas","NV","Walmart Neighborhood Market","5940 Losee Rd","89081",36.2677654331191,-115.11556998679394
+"89081","North Las Vegas","NV","Smith's Clicklist","not_available","89081",36.274643,-115.11869
+"89084","North Las Vegas","NV","Walmart Supercenter","6464 N Decatur Blvd","89131",36.27778507739011,-115.20336766433036
+"89084","North Las Vegas","NV","Smith's","6855 Aliante Pkwy","89084",36.2852025,-115.1786204
+"89101","Las Vegas","NV","Mariana's Supermarkets","574 N Eastern Ave","89101",36.17309317455191,-115.11482647179565
+"89101","Las Vegas","NV","Smith's","3602 E Bonanza Rd","89110",36.1742553,-115.0963018
+"89101","Las Vegas","NV","Sister's Oriental Market","not_available","89101",36.16248,-115.125897
+"89101","Las Vegas","NV","Cardenas Markets","2400 E Bonanza Rd","89101",36.17283760784265,-115.1173533511024
+"89101","Las Vegas","NV","La Bonita","2405 E Ogden Ave","89101",36.16488752131022,-115.11674046656356
+"89101","Las Vegas","NV","Smart & Final","2305 Bonanza Road","89101",36.174325,-115.11821100000002
+"89101","Las Vegas","NV","BJ Performance Consulting and Training","5030 Paradise Rd","89119",36.175054412172635,-115.14263033866882
+"89101","Las Vegas","NV","Fremont Family Market And Deli","611-20 Fremont St","89101",36.16858751,-115.1391492
+"89102","Las Vegas","NV","Walmart Supercenter","4505 W Charleston Blvd","89102",36.15670065767359,-115.20177841186523
+"89102","Las Vegas","NV","Smith's","850 S Rancho Dr","89106",36.1612898,-115.1745909
+"89102","Las Vegas","NV","El Super","4610 W Sahara Ave","89102",36.14539933917493,-115.20512787392309
+"89102","Las Vegas","NV","Smith's","4840 W Desert Inn Rd","89102",36.1311848,-115.2061029
+"89102","Las Vegas","NV","Rani's World Foods","4505 W Sahara Ave","89102",36.14369280859374,-115.20126626529051
+"89102","Las Vegas","NV","SF Supermarket","5115 Spring Mountain Rd Ste 168","89146",36.125844520471,-115.21089759841266
+"89102","Las Vegas","NV","Mariana's Supermarkets","3631 W Sahara Ave","89102",36.143588654638265,-115.18996906917044
+"89102","Las Vegas","NV","Smart & Final Extra!","4439 W. Charleston Blvd.","89102",36.15843843814319,-115.2006238032225
+"89102","Las Vegas","NV","El Super","4610 West Sahara Avenue","89102",36.144989013671875,-115.20420837402344
+"89102","Las Vegas","NV","Vons Food and Drug","4616 W Sahara Ave","89102",36.145375,-115.20522057
+"89102","Las Vegas","NV","Smith's","not_available","89104",36.14397189532711,-115.155099971229
+"89103","Las Vegas","NV","Smith's","6130 W Tropicana Ave","89103",36.10148689774885,-115.22642254829407
+"89103","Las Vegas","NV","Sprouts Farmers Market","4020 S Rainbow Blvd","89103",36.11533916395534,-115.24114787578583
+"89103","Las Vegas","NV","168 Market","3459 S Jones Blvd","89146",36.12613470033786,-115.22599633816787
+"89103","Las Vegas","NV","Smith's","4001 S Decatur Blvd","89103",36.1181237,-115.209433
+"89103","Las Vegas","NV","Albertsons","5975 W Tropicana Ave","89103",36.0988808,-115.2238413
+"89103","Las Vegas","NV","SF Las Vegas Superstore","4801 Spring Mountain Rd","89102",36.125173497154364,-115.20659001985848
+"89103","Las Vegas","NV","99 Ranch Market","4215 Spring Mountain Rd","89102",36.1255807038536,-115.19528496005562
+"89103","Las Vegas","NV","La Bonita","4120 S Rainbow Blvd","89103",36.11336900688222,-115.24192252309346
+"89103","Las Vegas","NV","Peace Ethiopian Market & Restaurant","4850 W Flamingo Rd","89103",36.115773,-115.206559
+"89103","Las Vegas","NV","International Marketplace","5000 S Decatur Blvd","89118",36.09979571872668,-115.2066066156737
+"89103","Las Vegas","NV","Western Oriental Super Market","3899 Spring Mountain Rd","89102",36.12553024291992,-115.19326782226562
+"89103","Las Vegas","NV","Auntee M's Market & Delo","4275 Arville St","89103",36.112361907958984,-115.20001983642578
+"89103","Las Vegas","NV","24 Hour Store","4275 Arville St Ste A","89103",36.112361907958984,-115.20001983642578
+"89103","Las Vegas","NV","Cereal llc","4952 S Rainbow Blvd Ste 217","89118",36.0987663269043,-115.2425765991211
+"89103","Las Vegas","NV","Bangkok Market","4825 W Flamingo Rd #15 & 16","89103",36.11457168566617,-115.2072683312813
+"89103","Las Vegas","NV","Mediterranean Market","not_available","89103",36.125650362291594,-115.22364968297227
+"89103","Las Vegas","NV","Los Compadres Meat Market","3655 S Decatur Blvd","89103",36.12328883,-115.208575
+"89104","Las Vegas","NV","Smith's","2540 S Maryland Pkwy","89109",36.1432022,-115.1350591
+"89104","Las Vegas","NV","Smith's","4965 E Sahara Ave","89104",36.1431906,-115.067049
+"89104","Las Vegas","NV","Walmart Neighborhood Market","1400 S Lamb Blvd","89104",36.15642394236839,-115.07967321768017
+"89104","Las Vegas","NV","Cardenas Markets","2545 S Eastern Ave","89169",36.14337,-115.12013
+"89104","Las Vegas","NV","Albertsons","1760 E Charleston Blvd","89104",36.15689296566621,-115.12560045732243
+"89104","Las Vegas","NV","Rainbow's End Las Vegas Natural Foods","1100 E Sahara Ave","89104",36.144832611083984,-115.13915252685547
+"89104","Las Vegas","NV","Value Market","1510 E Sahara Ave","89104",36.14446197944444,-115.13226832447477
+"89104","Las Vegas","NV","La Mexicana","1120 E Charleston Blvd","89104",36.15789031982422,-115.13758087158203
+"89104","Las Vegas","NV","Rainbow's End","1100 E Sahara Ave Ste 120","89104",36.144541008152764,-115.13912582605437
+"89104","Las Vegas","NV","A-Mart","953 E Sahara Ave","89104",36.140902201661184,-115.1420717134559
+"89106","Las Vegas","NV","7 Eleven","Martin Luther King","89106",36.180141,-115.161459
+"89107","Las Vegas","NV","Cardenas Markets","4700 Meadows Ln","89107",36.1713503013995,-115.20491230647946
+"89107","Las Vegas","NV","Walmart Neighborhood Market","6310 W Charleston Blvd","89146",36.160003647704386,-115.23182836287312
+"89107","Las Vegas","NV","Mariana’s Supermarket","Jones","89107",36.175269,-115.222772
+"89107","Las Vegas","NV","Kings Ranch Market","not_available","89107",36.18034362792969,-115.2050552368164
+"89107","Las Vegas","NV","Marketon","840 N Decatur Blvd","89107",36.1802008551616,-115.20481965855232
+"89108","Las Vegas","NV","Walmart Neighborhood Market","5850 W Craig Rd","89130",36.24025948896321,-115.22398659961237
+"89108","Las Vegas","NV","Smith's","3160 N Rainbow Blvd","89108",36.217161281337425,-115.2408018708229
+"89108","Las Vegas","NV","Walmart","3041 N Rainbow Blvd","89108",36.214930100699505,-115.24476685810104
+"89108","Las Vegas","NV","Smart & Final Extra!","1941 North Decatur Blvd.","89108",36.194314108263896,-115.20729451456602
+"89108","Las Vegas","NV","La Bonita","6000 W Cheyenne Ave","89108",36.217786991975586,-115.22453621086305
+"89108","Las Vegas","NV","Walmart Neighborhood Market","6151 W Lake Mead Blvd","89108",36.19486440681158,-115.22597615849537
+"89108","Las Vegas","NV","Smith's","1421 N Jones Blvd","89108",36.186539995192426,-115.2250994145993
+"89108","Las Vegas","NV","La Isleña Market","2405 N Rainbow Blvd","89108",36.20349884033203,-115.24241638183594
+"89108","Las Vegas","NV","Sari Sari Oriental Market","3119 N Rancho Dr","89130",36.21573,-115.21296299999999
+"89109","Las Vegas","NV","Seafood City","3890 S Maryland Pkwy","89119",36.118230617713266,-115.13608253790851
+"89109","Las Vegas","NV","Albertsons","1300 E Flamingo Rd","89119",36.1157306,-115.1362918
+"89109","Las Vegas","NV","VONS","1131 E Tropicana Ave","89119",36.1002171,-115.137753
+"89109","Las Vegas","NV","VONS","1155 E Twain Ave","89169",36.1212469,-115.1386225
+"89109","Las Vegas","NV","India Market & Cafe","1435 E Tropicana Ave","89119",36.10027863675964,-115.13375759124754
+"89109","Las Vegas","NV","L.A. Price Market (International, Mediterranean/European Grocery)","4972 S Maryland Pkwy Ste 8","89119",36.09914016723633,-115.13619232177734
+"89109","Las Vegas","NV","Aladdin Market","not_available","89119",36.10028412253162,-115.12860774993896
+"89109","Las Vegas","NV","watermill express","Maryland Pkwy, Henderson, NV 89052","89052",36.099447883941366,-115.1419037902327
+"89110","Las Vegas","NV","Albertsons","5881 E Charleston Blvd","89142",36.1584968,-115.045527
+"89110","Las Vegas","NV","Smith's","450 N Nellis Blvd","89110",36.16754518595062,-115.06036130715074
+"89110","Las Vegas","NV","Walmart","201 N Nellis Blvd","89110",36.16487991788131,-115.06303532421575
+"89110","Las Vegas","NV","Cardenas Markets","4421 E Bonanza Rd","89101",36.17269072214031,-115.07911423618134
+"89110","Las Vegas","NV","Marketon","755 N Nellis Blvd","89110",36.17620849609375,-115.06307983398438
+"89110","Las Vegas","NV","Los Compadres","not_available","89110",36.1664924621582,-115.0808334350586
+"89110","Las Vegas","NV","Cabana Food Market","3965 E. Owens Ave","not_available",36.18788721,-115.089904
+"89110","Las Vegas","NV","Liborio","930 N Lamb Blvd","89110",36.18170166015625,-115.08109283447266
+"89113","Las Vegas","NV","Walmart Supercenter","7200 Arroyo Crossing Pkwy","89113",36.064715786309414,-115.2488413348442
+"89113","Las Vegas","NV","Smith's Food & Drug","8525 W Warm Springs Rd","89113",36.0544509,-115.2769686
+"89113","Las Vegas","NV","Walmart Photo Center","6973 Blue Diamond Rd","89178",36.020452877535696,-115.24552627110822
+"89113","Las Vegas","NV","VONS","7405 S Durango Dr","89113",36.0538688,-115.2810965
+"89113","Las Vegas","NV","Sprouts Farmers Market","7375 S. Rainbow Blvd.","89139",36.0547515,-115.2455638
+"89113","Las Vegas","NV","Walmart Grocery Pickup and Delivery","6973 Blue Diamond Road","89117",36.0220698147489,-115.245044021578
+"89113","Las Vegas","NV","Euro Delicacies","not_available","89113",36.045601,-115.243889
+"89113","Las Vegas","NV","CLB Global Services","7315 Larix Rd","89113",36.05359649658203,-115.25129699707031
+"89113","Las Vegas","NV","Asian Market","7537 S Rainbow Blvd","89139",36.05168281603528,-115.24412185771635
+"89115","Las Vegas","NV","Nellis AFB Commissary","4200 Mountain Home St","89191",36.23709195528644,-115.0508156568901
+"89115","Las Vegas","NV","Walmart Neighborhood Market","6570 E Lake Mead Blvd","89156",36.19650692100005,-115.02931760633489
+"89115","Las Vegas","NV","Albertsons","6885 E Lake Mead Blvd","89156",36.19465,-115.0237832
+"89115","Las Vegas","NV","Liborio Market 12","3258 Las Vegas Blvd N","89115",36.216665,-115.092853
+"89117","Las Vegas","NV","Walmart Supercenter","3615 S Rainbow Blvd","89103",36.12341099,-115.2460571
+"89117","Las Vegas","NV","Whole Foods Market","8855 West Charleston Blvd.","89117",36.157854398486194,-115.28834143478932
+"89117","Las Vegas","NV","Smith's","9851 W Charleston Blvd","89117",36.15767085514606,-115.31221836805344
+"89117","Las Vegas","NV","Albertsons","1001 S Rainbow Blvd","89145",36.160163,-115.2452074
+"89117","Las Vegas","NV","Smith's","8555 W Sahara Ave","89117",36.142674765747806,-115.27761250734329
+"89117","Las Vegas","NV","Sprouts Farmers Market","10000 W Sahara Ave, Ste 180","89117",36.14591939672955,-115.3119421005249
+"89117","Las Vegas","NV","VONS","8540 W Desert Inn Rd","89117",36.1313007,-115.2775857
+"89117","Las Vegas","NV","Albertsons","2550 S Fort Apache Rd","89117",36.14336820904155,-115.2959051880498
+"89117","Las Vegas","NV","Smart & Final Extra!","8485 W. Sahara Ave.","89117",36.1426335881379,-115.27617949450902
+"89117","Las Vegas","NV","Max Market","8450 W Sahara Ave Ste 117","89117",36.144524,-115.27604099999999
+"89117","Las Vegas","NV","Tindahan","103 fort apache st","89117",36.144184,-115.28306313333333
+"89117","Las Vegas","NV","The Lakes Mini Market","2934 Lake East Dr","89117",36.13859706080402,-115.28364552081688
+"89117","Las Vegas","NV","Water U Love","3665 S Fort Apache Rd Ste 103","89147",36.123135603861414,-115.29794076358034
+"89117","Las Vegas","NV","Drive Up & Go","not_available","89117",36.13119,-115.27665
+"89118","Las Vegas","NV","sunflower Farmers Market","not_available","89118",36.07463133283353,-115.22425660977065
+"89119","Las Vegas","NV","Walmart Supercenter","6005 S Eastern Ave","89119",36.08075383739181,-115.12161917790067
+"89119","Las Vegas","NV","Whole Foods Market","6689 Las Vegas Blvd.","89119",36.067343416216865,-115.17423356238382
+"89119","Las Vegas","NV","Albertsons","7271 S Eastern Ave","89119",36.0580322,-115.120382
+"89119","Las Vegas","NV","Marketon","2475 E Tropicana Ave","89121",36.098801368694765,-115.11682989167821
+"89119","Las Vegas","NV","Veg-In-Out Market","2301 E Sunset Rd","89119",36.0708587,-115.1200354
+"89119","Las Vegas","NV","Mariana's Supermarkets","4151 S Eastern Ave","89119",36.11313111781852,-115.1204595264954
+"89119","Las Vegas","NV","Artisanal Foods","2275 E Sunset Rd","89119",36.071266174316406,-115.12120056152344
+"89120","Las Vegas","NV","Walmart Supercenter","3075 E Tropicana Ave","89121",36.098140353921146,-115.10821087993229
+"89120","Las Vegas","NV","Sprouts Farmers Market","3365 E Tropicana Ave","89121",36.0987967,-115.102057
+"89121","Las Vegas","NV","Smith's","3850 E Flamingo Rd","89121",36.1164141968339,-115.08978278967334
+"89121","Las Vegas","NV","Albertsons","2885 E Desert Inn Rd","89121",36.1283802,-115.1110745
+"89121","Las Vegas","NV","Walmart Supercenter","5198 Boulder Hwy","89122",36.108691280262896,-115.06324456077472
+"89121","Las Vegas","NV","Albertsons","2835 S Nellis Blvd","89121",36.138433583789386,-115.06724256283633
+"89121","Las Vegas","NV","Smart & Final Extra!","3750 E. Flamingo Rd.","89119",36.11552047729492,-115.0927734375
+"89121","Las Vegas","NV","Cardenas Markets","4500 E Tropicana Ave","89121",36.10081636868752,-115.0756095141687
+"89121","Las Vegas","NV","La Bonita","2500 E Desert Inn Rd","89121",36.13073177761322,-115.11577257530165
+"89121","Las Vegas","NV","Marketon","3736 E Desert Inn Rd","89121",36.13027745537754,-115.09301460388899
+"89121","Las Vegas","NV","Laos Asia Market","3050 E Desert Inn Rd","89121",36.130522315864816,-115.10899435938589
+"89121","Las Vegas","NV","The Drop","2770 E Flamingo Rd ste b","89121",36.11536508943802,-115.11293551473256
+"89121","Las Vegas","NV","Mediterranean Country Market","not_available","89121",36.100784000000004,-115.103127
+"89121","Las Vegas","NV","E's pilipino Market","3310 S Nellis Blvd","89121",36.13248066047838,-115.06449927046127
+"89121","Las Vegas","NV","Brazil Store","2585 E Flamingo Rd","89121",36.11427307128906,-115.11521911621094
+"89122","Las Vegas","NV","Albertsons","5500 Boulder Hwy","89122",36.1016909,-115.0546281
+"89123","Las Vegas","NV","Smith's","2385 E Windmill Ln","89123",36.0408045,-115.1189392
+"89123","Las Vegas","NV","Smith's","8180 Las Vegas Blvd S","89123",36.0402345,-115.1708061
+"89123","Las Vegas","NV","VONS","475 E Windmill Ln","89123",36.0415833,-115.15241
+"89123","Las Vegas","NV","Viet My Asian Market","8810 S Maryland Pkwy #105","89123",36.02962875366211,-115.13544464111328
+"89124","Las Vegas","NV","Smith's","8050 S Rainbow Blvd","89139",36.042371671769516,-115.24182379245758
+"89124","Las Vegas","NV","WinCo Foods","7501 W Washington Ave","89128",36.18037414550781,-115.25651550292969
+"89124","Las Vegas","NV","Target","4100 Blue Diamond Rd","89139",36.04071781046444,-115.19487085979463
+"89124","Las Vegas","NV","Smith's","7130 N Durango Dr","89149",36.29065164794483,-115.28568863868713
+"89124","Las Vegas","NV","Smith’s Marketplace","9710 Skye Canyon Park Dr","89166",36.31630289748741,-115.30818237301634
+"89124","Las Vegas","NV","Walmart Supercenter","8060 W Tropical Pkwy","89149",36.27139790702898,-115.27066321220977
+"89124","Las Vegas","NV","Smith's","10600 Southern Highlands Pkwy","89141",35.99691381404077,-115.20537793636322
+"89124","Las Vegas","NV","Trader Joe's","2315 Summa Dr Ste 100","89135",36.145680534442256,-115.33521023735464
+"89128","Las Vegas","NV","Smith's","2211 N Rampart Blvd","89128",36.2014602,-115.283483
+"89128","Las Vegas","NV","Trader Joe's","7575 W Washington","89128",36.18061289074853,-115.25793054357099
+"89128","Las Vegas","NV","Whole Foods Market","7250 W. Lake Mead Blvd.","89128",36.197457389634536,-115.25011460152976
+"89128","Las Vegas","NV","Albertsons","1650 N Buffalo Dr","89128",36.1898476,-115.2587965
+"89128","Las Vegas","NV","Sprouts Farmers Market","7530 W Lake Mead Blvd","89128",36.1975122068793,-115.25875926017761
+"89128","Las Vegas","NV","Town Center Grocer","1571 N Buffalo Dr","89128",36.18848718239625,-115.26058713635295
+"89129","Las Vegas","NV","Walmart Neighborhood Market","10440 W Cheyenne Ave","89129",36.22039696835246,-115.32438830376175
+"89129","Las Vegas","NV","Albertsons","7151 W Craig Rd","89129",36.2381787,-115.2502838
+"89129","Las Vegas","NV","Albertsons","8350 W Cheyenne Ave","89129",36.2197912,-115.275066
+"89130","Las Vegas","NV","Trader Joe's","5639 Centennial Center Blvd","89149",36.26365896088297,-115.25744421406365
+"89130","Las Vegas","NV","Albertsons","7075 W Ann Rd","89130",36.2608425,-115.2478945
+"89130","Las Vegas","NV","WinCo Foods","6101 N Decatur Blvd","89130",36.269902751846345,-115.20820027881204
+"89130","Las Vegas","NV","Centinella Market","5071 N Rainbow Blvd","89130",36.253973,-115.242655
+"89130","Las Vegas","NV","Fresh And Easy","Jones","not_available",36.25493687890616,-115.22357351237032
+"89131","Las Vegas","NV","Albertsons","8410 Farm Rd","89131",36.3006818,-115.2793596
+"89131","Las Vegas","NV","Sprouts Farmers Market","8441 Farm Rd","89131",36.299555,-115.282925
+"89131","Las Vegas","NV","VONS","6450 Sky Pointe Dr","89131",36.2803029,-115.2614721
+"89131","Las Vegas","NV","Glacier Water Vendor","Durango","89131",36.301057056998175,-115.27968092953391
+"89134","Las Vegas","NV","Albertsons","1940 Village Center Circle","89134",36.1936658,-115.3058394
+"89135","Las Vegas","NV","Albertsons","10250 W Charleston Blvd","89135",36.1607956,-115.3194022
+"89135","Las Vegas","NV","Albertsons","11720 W Charleston Blvd","89135",36.1609235,-115.3505846
+"89139","Las Vegas","NV","Albertsons","7350 S Rainbow Blvd","89139",36.0547435,-115.2414489
+"89139","Las Vegas","NV","Albertsons","4800 Blue Diamond Rd","89139",36.0351268,-115.2063367
+"89145","Las Vegas","NV","Sprouts Farmers Market","771 S Rainbow Blvd, # 130","89145",36.16402485152744,-115.24595786869247
+"89145","Las Vegas","NV","Watermill Express","not_available","89145",36.174094,-115.277776
+"89146","Las Vegas","NV","Jones Market Eastern European","3301 S Jones Blvd","89146",36.12788419676832,-115.22592589175899
+"89147","Las Vegas","NV","Smith's","10100 W Tropicana Ave","89147",36.10162693758239,-115.31311960534367
+"89147","Las Vegas","NV","Albertsons","4055 S Durango Dr","89147",36.1157566,-115.2803299
+"89147","Las Vegas","NV","Albertsons","10140 W Flamingo Rd","89147",36.1164838,-115.3136567
+"89147","Las Vegas","NV","Smith's","9350 W Flamingo Rd","89147",36.115942,-115.2955882
+"89147","Las Vegas","NV","Smith's","4015 S Buffalo Dr","89147",36.115954457814894,-115.26266989996657
+"89148","Las Vegas","NV","Walmart Grocery Pickup and Delivery","5200 S Fort Apache Rd","89148",36.094142039808,-115.297374985168
+"89148","Las Vegas","NV","Rons Market Eastern European Meat & Deli","6085 S Fort Apache Rd #140","89148",36.078227004461574,-115.29848532189142
+"89148","Las Vegas","NV","Urban Eats","not_available","89148",36.069664,-115.306608
+"89149","Las Vegas","NV","Albertsons","6730 N Hualapai Way","89149",36.2839809,-115.3133061
+"89149","Las Vegas","NV","Glacier Water Vendor","not_available","89149",36.290877,-115.286334
+"89149","Las Vegas","NV","Durango Market","6955 N Durango Dr #1114","89149",36.286829,-115.28841499999999
+"89166","Las Vegas","NV","7 11","Spring mountain","not_available",36.25756502151489,-115.64517974853516
+"89178","Las Vegas","NV","Albertsons","7975 Blue Diamond Rd","89178",36.0183831,-115.2648616
+"89301","Ely","NV","Ridley Family Market","1689 Great Basin Blvd","89301",39.24538430299574,-114.87125574668673
+"89301","Ely","NV","Andersons Food Town","1101 E. Aultman","89301",39.2487298,-114.8859094
+"89316","Eureka","NV","Raine's Market","not_available","89316",39.5133925659743,-115.96126110758064
+"89403","Dayton","NV","Smith's","2200 US Highway 50 E","89403",39.26392516239258,-119.58268312739165
+"89403","Dayton","NV","Grocery Outlet","7 Dayton Village Parkway","89403",39.27601623535156,-119.55189514160156
+"89406","Fallon","NV","Walmart Supercenter","2333 Reno Hwy","89406",39.47600762487216,-118.80680449952975
+"89406","Fallon","NV","Safeway","890 W Williams Ave","89406",39.4772276,-118.7872023
+"89406","Fallon","NV","Fallon NAS Commissary","4755 Pasture Rd Bldg 340","89496",39.42240599573182,-118.72402533731227
+"89406","Fallon","NV","Better Daze LLC","not_available","89406",39.472424,-118.777245
+"89408","Fernley","NV","Walmart Supercenter","1550 Newlands Dr E","89408",39.61058282,-119.2170805
+"89408","Fernley","NV","Raley's","1400 US Highway 95A North","89408",39.608888,-119.223768
+"89408","Fernley","NV","Grocery Outlet","1305 Chisholm Trail","89408",39.606959,-119.220961
+"89408","Fernley","NV","Raleys","1400 US Highway 95A N","89408",39.60972595214844,-119.22389221191406
+"89408","Fernley","NV","Scolari's","not_available","89408",39.60860776300911,-119.22342550168229
+"89410","Gardnerville","NV","Walmart Supercenter","1511 Grant St","89410",38.923777462498094,-119.72122981738518
+"89410","Gardnerville","NV","Raley's","1363 Highway 395 North","89410",38.938275213808154,-119.74202648167973
+"89410","Gardnerville","NV","Wa She Shu Travel Plaza","1001 US Highway 395 N","89410",38.9111217,-119.7089643
+"89410","Gardnerville","NV","Smith's","1341 US Highway 395 N","89410",38.93757718723555,-119.73861427637524
+"89410","Gardnerville","NV","Grocery Outlet","1329 Us Highway 395n, Ste.12-3","89410",38.93565368652344,-119.73817443847656
+"89415","Hawthorne","NV","Safeway","1095 Hwy 95","89415",38.53526501909742,-118.63073063558198
+"89419","Lovelock","NV","Safeway","400 Dartmouth Ave","89419",40.17996655666237,-118.47701273401071
+"89421","Mc Dermitt","NV","Quinn River Mercantile","not_available","89425",41.995301,-117.718415
+"89423","Minden","NV","Carson Country Market","not_available","89705",39.091098,-119.777795
+"89423","Minden","NV","Lira's Supermarket","1681 Lucerne St","89423",38.960049,-119.771895
+"89431","Sparks","NV","Safeway","2858 Vista Blvd","89434",39.5555452,-119.7034489
+"89431","Sparks","NV","Smith's","1255 Baring Blvd","89434",39.5550155,-119.7222061
+"89431","Sparks","NV","Sprouts Farmers Market","125 Disc Dr","89436",39.57514831847551,-119.74241649362739
+"89431","Sparks","NV","Raley's","2895 North McCarran Blvd.","89431",39.555390381345106,-119.75402924787831
+"89431","Sparks","NV","Grocery Outlet","2020 Oddie Boulevard","89431",39.5463807,-119.7707216
+"89431","Sparks","NV","FoodMaxx","565 E Prater Way","89431",39.540217,-119.73532
+"89431","Sparks","NV","Asia Market","Prater","not_available",39.53673183917999,-119.77287948131561
+"89431","Sparks","NV","Scolari's Food & Drug Co","950 Holman Way","89431",39.54988013324683,-119.7544429169631
+"89431","Sparks","NV","HK Market","2124 Greenbrae Dr","89431",39.547641999999996,-119.77193899999999
+"89431","Sparks","NV","Winco","not_available","89512",39.536466523771075,-119.74203559181495
+"89431","Sparks","NV","Saag Market","780 15th Street","89431",39.53848648071289,-119.76145935058594
+"89431","Sparks","NV","Ralston Foods","1055 E Greg St","89431",39.520386,-119.727249
+"89431","Sparks","NV","Pauls Market","2156 Oppio St","89431",39.551349,-119.763263
+"89431","Sparks","NV","A1 Indian Market","not_available","89431",39.546267,-119.777235
+"89433","Sun Valley","NV","Walmart Supercenter","5065 Pyramid Way","89436",39.584442491832945,-119.74606246950162
+"89433","Sun Valley","NV","Scolari's Food & Drug Co","5430 Sun Valley Blvd","89433",39.59066083388961,-119.7790582943302
+"89434","Sparks","NV","Raley's","2389 Wingfield Hills Road","89436",39.608043413972936,-119.69906723335974
+"89434","Sparks","NV","Grocery Outlet Bargain Market","1300 Disc Dr","89436",39.577374,-119.7211056
+"89436","Sparks","NV","Save Mart","9750 Pyramid Lakes Hwy","89436",39.638243,-119.709484
+"89444","Wellington","NV","Bridgeport MCMWTC Commissary","1003 Champagne Ave","96107",38.5882883172247,-119.52117349076144
+"89445","Winnemucca","NV","Walmart Supercenter","3010 Potato Rd","89445",40.95388867,-117.746669
+"89445","Winnemucca","NV","Grocery Outlet","880 Hanson St","89445",40.96303176879883,-117.74915313720703
+"89445","Winnemucca","NV","Grocery Outlet","880 Hanson Street","89445",40.962913513183594,-117.7346420288086
+"89445","Winnemucca","NV","Khoury's","1066-1098 Nevada 294","89445",40.960632483333335,-117.73586005
+"89445","Winnemucca","NV","Raley’s","1125 W Winnemucca Blvd","89445",40.96462199897465,-117.74207178955456
+"89447","Yerington","NV","Raley's","176 West Goldfield Avenue","89447",38.995697,-119.164816
+"89447","Yerington","NV","Scolari's","not_available","89447",38.9955754615779,-119.16455175410407
+"89448","Zephyr Cove","NV","Safeway","212 Elks Point Rd","89448",38.9865028,-119.9437343
+"89449","Stateline","NV","Raley's","4000 Lake Tahoe Blvd., #6","96150",38.95445299335037,-119.94257119081173
+"89451","Incline Village","NV","Raley's","930 Tahoe Blvd.","89451",39.250625127184065,-119.94966707018582
+"89451","Incline Village","NV","Village Market","770 Mays Blvd","89451",39.24774370479817,-119.96292472127415
+"89451","Incline Village","NV","La Tienda Latina","785 Southwood Blvd #1","89451",39.248227,-119.96261799999999
+"89501","Reno","NV","Great Basin Food Coop","240 Court St","89501",39.52281470595382,-119.81572049244723
+"89501","Reno","NV","midway east sidr","not_available","89501",39.529563903808594,-119.81533813476562
+"89502","Reno","NV","Whole Foods Market","6139 S. Virginia Street","89502",39.46903536447077,-119.7865930443653
+"89502","Reno","NV","Walmart Supercenter","2425 E 2nd St","89502",39.529056598421256,-119.78199913305399
+"89502","Reno","NV","Trader Joe's","5035 S McCarran Blvd","89502",39.47866105266163,-119.78395301823247
+"89502","Reno","NV","WinCo Foods","9750 S Virginia St","89511",39.44184483710849,-119.76849547125693
+"89502","Reno","NV","Walmart Supercenter","4855 Kietzke Ln","89509",39.48031324565671,-119.79827629573066
+"89502","Reno","NV","Save Mart","195 W. Plumb Ln","89509",39.506898,-119.806632
+"89502","Reno","NV","Asian Mart","115 E Moana Ln","89502",39.492283,-119.79509
+"89502","Reno","NV","Marketon","1500 S Wells Ave Reno","89502",39.510992834828976,-119.80246605665226
+"89502","Reno","NV","Smart & Final Extra!","365 East Plumb Lane","89502",39.50652169510319,-119.79913521659435
+"89502","Reno","NV","Save Mart","4995 Kietzke Ln.","89509",39.477252,-119.796016
+"89502","Reno","NV","Natural Grocers","4819 Kietzke Ln","89509",39.48062256375855,-119.79516193667756
+"89502","Reno","NV","168 Asian Market","not_available","89502",39.49514561669109,-119.79771136838289
+"89502","Reno","NV","Scolari's Food & Drug Co","3310 S McCarran Blvd","89502",39.48250556613489,-119.74264762687403
+"89502","Reno","NV","Grocery Outlet","3800 S Kietzke Lane #130","89502",39.4875062,-119.7870488
+"89502","Reno","NV","Smart Foodservice Warehouse Stores","115 Kietzke Lane","89502",39.529065245326365,-119.78970806984852
+"89502","Reno","NV","Raley's","3310 South McCarran Boulevard","89502",39.484590999999995,-119.746508
+"89502","Reno","NV","International Supermarket","225 Gentry Way","89502",39.495166,-119.794956
+"89502","Reno","NV","Daily market","75 patriot blvd","89511",39.453174,-119.776553
+"89502","Reno","NV","Nutrishop","5280 Longley Ln Ste 200","89511",39.4736958,-119.7647033
+"89502","Reno","NV","Turmeric","9333 Double R Blvd #400","89521",39.45066833496094,-119.75867462158203
+"89502","Reno","NV","Sak 'n Save Food Store","1000 E Plumb Ln","89502",39.50520957461889,-119.78685849228907
+"89503","Reno","NV","Walmart Supercenter","5260 W 7th St","89523",39.53544786559129,-119.8674207383444
+"89503","Reno","NV","Raley's","701 Keystone Ave.","89503",39.531308367027854,-119.83197147421784
+"89503","Reno","NV","Save Mart","525 Keystone Ave","89503",39.527873,-119.829735
+"89503","Reno","NV","Safeway","5150 Mae Anne Ave","89523",39.5308423,-119.8671408
+"89503","Reno","NV","Save Mart","10500 N. Mccarran","89523",39.53435,-119.862788
+"89503","Reno","NV","Pack Pit Stop","1664 N Virginia St, #56","89557",39.5443207118799,-119.81616905845897
+"89503","Reno","NV","Reno Asian Supermarket","803 W 5th St","89503",39.529379999999996,-119.82669399999999
+"89506","Reno","NV","Smith's","175 Lemmon Dr","89506",39.6136923,-119.8511594
+"89506","Reno","NV","Walmart Supercenter","250 Vista Knoll Parkway","89506",39.61560060233228,-119.85318971999283
+"89506","Reno","NV","Raley's","1075 N. Hills Blvd.","89506",39.605201790453435,-119.84003992209928
+"89506","Reno","NV","Grocery Outlet Bargain Market","200 Lemmon Dr Ste 101","89506",39.6131716,-119.8479626
+"89506","Reno","NV","Scolari's Food & Drug Co","200 Lemmon Dr","89506",39.611881256103516,-119.849365234375
+"89509","Reno","NV","Raley's","1441 Mayberry Drive","89509",39.51031337608607,-119.8364720231373
+"89509","Reno","NV","Skyline Market","2995 Skyline Blvd","89509",39.482472,-119.835624
+"89509","Reno","NV","Raley's","4788 Caughlin Parkway","89519",39.483848571777344,-119.85392761230469
+"89509","Reno","NV","Raley's","not_available","89509",39.487057,-119.812869
+"89509","Reno","NV","Scolari's Food & Drug Co","4788 Caughlin Pkwy","89519",39.48308575054404,-119.85377247176949
+"89509","Reno","NV","Food Source","4047 S Virginia St","89502",39.4865514053089,-119.79675839266817
+"89511","Reno","NV","Raley's","18144 Wedge Parkway","89511",39.3949161746832,-119.76582672471682
+"89511","Reno","NV","Walmart Supercenter","155 Damonte Ranch Pkwy","89521",39.422587937446394,-119.75664689583365
+"89511","Reno","NV","Smith's","750 S Meadows Pkwy","89521",39.43738843049868,-119.75684658454156
+"89511","Reno","NV","Sprouts Farmers Market","587 S Meadows Pkwy","89521",39.439735271905654,-119.76002097129822
+"89512","Reno","NV","WinCo Foods","2855 Northtowne Ln","89512",39.55375645769611,-119.78396949810997
+"89523","Reno","NV","Raley's","1630 Robb Drive","89523",39.527865551851626,-119.88015677218301
+"89523","Reno","NV","Aladdins Bazaar","not_available","89523",39.52164208028218,-119.89971953647684
+"89523","Reno","NV","Raley's","1690 Robb Dr","89523",39.52913239309286,-119.88147734405841
+"89523","Reno","NV","Scolari's Food & Drug Co","6225 Sharlands Ave","89523",39.51767668311949,-119.88343952187857
+"89701","Carson City","NV","Walmart Supercenter","3200 Market St","89706",39.187431443325366,-119.75752250280532
+"89701","Carson City","NV","Smith's","599 E William St","89701",39.1690308,-119.7626252
+"89701","Carson City","NV","Walmart Supercenter","3770 Us Highway 395 S","89705",39.111779624589246,-119.77769943945695
+"89701","Carson City","NV","Raley's","3701 S. Carson St.","89701",39.13294768262904,-119.76808038721163
+"89701","Carson City","NV","Trader Joe's","3790 US Hwy 395 S","89705",39.11293172177288,-119.77567716136967
+"89701","Carson City","NV","Save Mart","3620 N. Carson St.","89706",39.19069,-119.774993
+"89701","Carson City","NV","Grocery Outlet","1831 North Carson Street","89701",39.1767834,-119.7661582
+"89701","Carson City","NV","Save Mart","4348 S. Carson St.","89701",39.127372,-119.772139
+"89701","Carson City","NV","Hacienda Market & Grill","2270 E William St","89701",39.174795,-119.744353
+"89701","Carson City","NV","Kam's Kettle Cooked Foods Inc","204 W Spear St #3286","89703",39.1667196,-119.7681403
+"89701","Carson City","NV","Smart Foodservice Warehouse Stores","222 Fairview Dr Ste 100","89701",39.151268005371094,-119.76594543457031
+"89701","Carson City","NV","Smart Foodservice Warehouse Stores","222 Fairview Drive Suite 100","89701",39.151268005371094,-119.76594543457031
+"89701","Carson City","NV","FoodMaxx","3325 Highway 50 East,","89701",39.176027,-119.731326
+"89801","Elko","NV","Smith's","1740 Mountain City Hwy","89801",40.8347551,-115.7849166
+"89801","Elko","NV","Khoury's marketplace","568 Spring Valley Pkwy","89815",40.786770802520124,-115.67833406414098
+"89801","Elko","NV","Walmart Supercenter","2944 Mountain City Hwy","89801",40.84034446814543,-115.79200002484018
+"89801","Elko","NV","Our Grocery Store","not_available","89831",41.989906,-116.126926
+"89801","Elko","NV","Raley’s","2505 Mountain City Hwy","89801",40.83744803289417,-115.79254554375854
+"89801","Elko","NV","Raley's","2505 Mountain City Hwy.","89801",40.837457,-115.79241569
+"89801","Elko","NV","Albertsons","2582 Idaho St","89801",40.8516558,-115.7430036
+"89820","Battle Mountain","NV","Midway Market","not_available","89820",40.63794887111434,-116.94155024340894
+"89835","Wells","NV","Roys Grocery Market","647 Humboldt Ave","89835",41.106545000000004,-114.97551200000001
+"89883","West Wendover","NV","Smith's","1855 W Wendover Blvd","89883",40.7399011,-114.0779941
+"89883","West Wendover","NV","Daves Supermart","100 wendover blvd","not_available",40.736026763916016,-114.0462875366211

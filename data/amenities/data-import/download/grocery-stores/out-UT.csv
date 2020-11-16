@@ -1,0 +1,441 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"84003","American Fork","UT","Walmart Supercenter","949 W Grassland Dr","84003",40.38504480542689,-111.82500630651747
+"84003","American Fork","UT","Smith's","1550 E 3500 N","84043",40.4297205,-111.8243999
+"84003","American Fork","UT","Fresh Market","135 E Main St","84003",40.378045317114804,-111.7949777002456
+"84003","American Fork","UT","Walmart Supercenter","585 N State St","84042",40.3487334256237,-111.73180488921234
+"84003","American Fork","UT","Walmart Supercenter","4689 W Cedar Hills Dr","84062",40.416440818333825,-111.77068408845508
+"84003","American Fork","UT","Walmart Neighborhood Market","1707 West State Street","84062",40.36771655152949,-111.76529563592108
+"84003","American Fork","UT","Macey's","931 W State Rd","84062",40.36492986463082,-111.75418191135934
+"84003","American Fork","UT","Smith's","210 E 700 S","84062",40.3538096,-111.7375228
+"84003","American Fork","UT","Ridley's","5353 W 11000 N","84003",40.43139972630165,-111.78633615625706
+"84003","American Fork","UT","Macey's","760 E Main St","84043",40.38679355650738,-111.8371589509504
+"84003","American Fork","UT","Kohler's","300 E Main St","84043",40.38735856799356,-111.84425377988886
+"84003","American Fork","UT","Daily Bread","1464 W 40 S","84042",40.33787536621094,-111.75159454345703
+"84003","American Fork","UT","Rain International","825 E 1180 S #310","84003",40.3530442,-111.77585950000002
+"84003","American Fork","UT","La Chiquita Supermarket","400 east","not_available",40.375001384297754,-111.78839725603046
+"84003","American Fork","UT","Tabitha's Way","920 E State Rd Ste C","84003",40.370174407958984,-111.77296447753906
+"84003","American Fork","UT","Don Ramon Market","not_available","84003",40.374979987254754,-111.78825169815727
+"84003","American Fork","UT","Vyne Fresh","1325 S 500 E Ste 319","84003",40.3502037,-111.7834974
+"84003","American Fork","UT","Walmart Grocery Pickup","1707 W State Rd","84062",40.3692789398281,-111.765267621777
+"84003","American Fork","UT","Family Storehouse Food Storage","456 E State Rd","84003",40.373390197753906,-111.78661346435547
+"84003","American Fork","UT","Herbs For Health","399 E State Rd #2","84062",40.354298,-111.73399099999999
+"84003","American Fork","UT","Macey's","3981 Wasatch Boulevard Olympus Hills Shopping Center","84124",40.43228162414314,-111.78911805152893
+"84005","Eagle Mountain","UT","Ridley's Market","not_available","not_available",40.36362528975392,-111.96628380577955
+"84010","Bountiful","UT","Smith's","555 S 200 W","84010",40.88170016747443,-111.88385099172592
+"84010","Bountiful","UT","Smith's","614 W 2600 S","84010",40.863519229075635,-111.89797049073792
+"84010","Bountiful","UT","Dick's Fresh Market","2280 S Orchard","84010",40.86523410219744,-111.88077277659713
+"84010","Bountiful","UT","Natural Grocers","55 W 500 S","84010",40.88439063656987,-111.8816699796161
+"84010","Bountiful","UT","Winegar's Supermarket","3371 Orchard Dr","84010",40.85325936221712,-111.89464189003854
+"84010","Bountiful","UT","Take Two Nutrition","1430 S 500 W","84010",40.87570789999999,-111.8926514
+"84010","Bountiful","UT","Smith's Grocery Pickup and Delivery","614 West 2600 South","84010",40.863121032714844,-111.89803314208984
+"84010","Bountiful","UT","Fresh Market","535 S 200 W","84010",40.883489529589774,-111.88415606357951
+"84010","Bountiful","UT","Fresh Market","535 W 500 S","84010",40.88392639160156,-111.89369201660156
+"84014","Centerville","UT","Walmart Supercenter","221 W Parrish Ln","84014",40.91934538825795,-111.88362191745594
+"84014","Centerville","UT","Dick's Fresh Market","84 W Parrish Ln","84014",40.922195925603546,-111.88065920362162
+"84014","Centerville","UT","Fresh Market","not_available","84014",40.921427214019104,-111.89207426046185
+"84015","Clearfield","UT","Walmart Supercenter","1632 N 2000 W","84015",41.13743384,-112.0617464
+"84015","Clearfield","UT","Smith's","2353 N Main St","84015",41.14793482453184,-112.02869562199339
+"84015","Clearfield","UT","Walmart Supercenter","2228 W 1700 S","84075",41.09054172109087,-112.06929737603485
+"84015","Clearfield","UT","Smith's","217 N 2000 W","84015",41.11672314463331,-112.06740818596859
+"84015","Clearfield","UT","Smith's","951 W 1700 S","84075",41.0881194,-112.044272
+"84015","Clearfield","UT","Kents Market","not_available","84015",41.104600263756375,-112.01792087558798
+"84015","Clearfield","UT","Macey's","2062 W 1800 N","84015",41.14129792302064,-112.06611627865034
+"84015","Clearfield","UT","Winegar's Supermarket","1080 W 300 N","84015",41.119890861448525,-112.04838262753236
+"84015","Clearfield","UT","Macey's","580 S State St","84015",41.104671478271484,-112.01822662353516
+"84017","Coalville","UT","Nena's","47 Main St.","not_available",40.915421,-111.397866
+"84017","Coalville","UT","Griffith's Food Towne","50 N Main St","84017",40.917572021484375,-111.39906311035156
+"84020","Draper","UT","Harmons Grocery","125 E 13800 S","84020",40.50196498427492,-111.88689416442533
+"84020","Draper","UT","Harmons Grocery","672 E 11400 S","84020",40.54234977697057,-111.87266679996006
+"84020","Draper","UT","Smith's","212 E 12300 S","84020",40.5256397,-111.8850911
+"84020","Draper","UT","Walmart Neighborhood Market","1360 Draper Pkwy","84020",40.526729163023234,-111.85221820597503
+"84020","Draper","UT","Fresh Market","12300 S.","not_available",40.527094541105185,-111.88498863938698
+"84020","Draper","UT","Honey Bee Produce Company","not_available","84020",40.527948,-111.85638
+"84020","Draper","UT","Macey's","1212 E Draper Pkwy","84020",40.527497,-111.856034
+"84021","Duchesne","UT","Als Food Town","not_available","84021",40.163827594758104,-110.39561784727299
+"84022","Dugway","UT","Dugway PG Commissary","BLDG. 5114 SECOND STREET","84022",40.222499657783366,-112.74453837007653
+"84023","Dutch John","UT","Flaming Gorge Resort","1100 Flaming Gorge Ldg","84023",40.88473129272461,-109.4573974609375
+"84025","Farmington","UT","Smith's","1316 N Highway 89","84025",41.00235885118128,-111.90669269875798
+"84025","Farmington","UT","Harmons","200 N Station Pkwy","84025",40.984168754739144,-111.90335724109617
+"84025","Farmington","UT","Sitka Vending","1123 Fairway Cir","84025",40.998956,-111.918522
+"84029","Grantsville","UT","Soelbergs Market","213 E Main St","84029",40.58285804663423,-112.4699941277504
+"84032","Heber City","UT","Kamas Food Town","145 W 200 S","84036",40.64038271108739,-111.28385879377538
+"84032","Heber City","UT","Smith's","550 N Main St","84032",40.515034867432,-111.41118943691254
+"84032","Heber City","UT","Walmart Supercenter","1274 S Us 189","84032",40.493618251284296,-111.41750501906758
+"84032","Heber City","UT","Natural Grocers","989 S. Main Street","84032",40.49466105853254,-111.4125144481659
+"84032","Heber City","UT","The Store- Midway","not_available","84049",40.512841013722856,-111.47327154001752
+"84032","Heber City","UT","Lee’s Marketplace","890 S Main St","84032",40.49619674682617,-111.41503143310547
+"84032","Heber City","UT","Real Foods Market","not_available","84032",40.50880501190051,-111.41415385440682
+"84037","Kaysville","UT","Smith's","1370 W 200 N","84037",41.0402724,-111.9663311
+"84037","Kaysville","UT","Bowman's Market","326 N Main St","84037",41.041224629191106,-111.94097086619193
+"84037","Kaysville","UT","Smith's","1170 E Gentile St","84040",41.06035352995406,-111.94352343678474
+"84037","Kaysville","UT","Arce Market La Favorita","53 N Fort Ln","84041",41.060934,-111.95809799999999
+"84037","Kaysville","UT","Fresh Market","200 N Main St.","not_available",41.03863755401706,-111.94082725380632
+"84037","Kaysville","UT","Fresh Market","not_available","84037",41.060921309991365,-111.96407670736811
+"84040","Layton","UT","Walmart Supercenter","745 W Hill Field Rd","84041",41.06861377710947,-111.97927951949161
+"84040","Layton","UT","Walmart Neighborhood Market","1356 E Highway 193","84040",41.100163716535874,-111.94053280863659
+"84040","Layton","UT","Fresh Market","910 N Fairfield Rd","84041",41.07327318785728,-111.94870948791504
+"84040","Layton","UT","Hill AFB Commissary","7451 6th St","84056",41.10995223762323,-111.98485978247302
+"84040","Layton","UT","Harvest Moon Healthfoods","not_available","84041",41.077819446303195,-111.98607828798156
+"84040","Layton","UT","Gluten Free Foods","400 W 1596 N","not_available",41.083722,-111.973037
+"84040","Layton","UT","Thai Market","1986 N Hill Field Rd #7A","84041",41.08870315551758,-111.97283172607422
+"84040","Layton","UT","Big Lots","1030 N Main St","84041",41.07559093559383,-111.97961991106479
+"84043","Lehi","UT","Walmart Supercenter","136 W State Road 73","84045",40.38931007327949,-111.9194025026556
+"84043","Lehi","UT","Harmons Grocery","3450 N Triumph Blvd","84043",40.43340686612135,-111.87848384934372
+"84043","Lehi","UT","Smith's","689 N Redwood Rd","84045",40.3744343,-111.9189561
+"84044","Magna","UT","Smith's","8055 W 3500 S","84044",40.6951888323454,-112.08389520181197
+"84044","Magna","UT","Rancho Market","8177 W 3500 S","84044",40.696284,-112.08631
+"84044","Magna","UT","Reams","7235 W 3500 S","84044",40.695220235904046,-112.06408470869064
+"84044","Magna","UT","Fresh Market","not_available","84044",40.69715223,-112.08395188
+"84044","Magna","UT","Walmart Neighborhood Market","3555 S. 8400 W.","84044",40.69510594421166,-112.08987759723384
+"84047","Midvale","UT","WinCo Foods","7020 S 700 W","84047",40.6240577387587,-111.91118958841763
+"84047","Midvale","UT","Trader Joe's","6989 S 1300 E","84047",40.62417447280947,-111.85416552958102
+"84047","Midvale","UT","Smith's","980 E Fort Union Blvd","84047",40.6216075,-111.8635549
+"84047","Midvale","UT","Harmons Grocery","7755 S 700 E","84047",40.6104651533656,-111.8708552950809
+"84047","Midvale","UT","Walmart Supercenter","7250 Union Park Ave","84047",40.61999307953036,-111.85869804840827
+"84047","Midvale","UT","Good Earth Natural Foods","7905 S 700 E","84070",40.6072073155184,-111.87160356840816
+"84047","Midvale","UT","Macey's","7850 S 1300 E","84094",40.608903445366515,-111.85482486163198
+"84047","Midvale","UT","All Seasons Market","8767 S 700 E","84070",40.59203338623047,-111.87184143066406
+"84047","Midvale","UT","Fresh Market","not_available","84047",40.62424421310425,-111.85432255268097
+"84047","Midvale","UT","Brazilian Flavors","6546 S State St","84107",40.629815,-111.890305
+"84047","Midvale","UT","Sevillo Fine Foods","7000 S Cottonwood St","84047",40.624216,-111.900168
+"84047","Midvale","UT","Assosiated Fresh Market","not_available","84121",40.6231,-111.85798
+"84047","Midvale","UT","The Water Store","not_available","84070",40.6091330037648,-111.872347
+"84047","Midvale","UT","Smokeland","7948 S State","84047",40.60691,-111.891425
+"84050","Morgan","UT","Ridley's","not_available","84050",41.04410453476793,-111.67772526920186
+"84057","Orem","UT","WinCo Foods","895 N 980 W","84057",40.31398856539485,-111.72055812946866
+"84057","Orem","UT","Smith's","45 S State St","84058",40.2964921,-111.6917112
+"84057","Orem","UT","El Mexicano Market","450 N State St","84057",40.307115790128435,-111.69891798394875
+"84057","Orem","UT","Macey's","880 N State St","84057",40.31288206870959,-111.70065194189564
+"84057","Orem","UT","Bollywood Market","186 W Center St","84057",40.297596999999996,-111.70036499999999
+"84057","Orem","UT","Super Hispano","192 W Center St","84057",40.297576904296875,-111.70063018798828
+"84057","Orem","UT","Real Foods Market","420 W 800 N","84057",40.31307076005429,-111.70617191615834
+"84057","Orem","UT","Eden Valley Farms","1145 N State St","84057",40.318224,-111.705005
+"84057","Orem","UT","Three Sisters Indian Market","not_available","84057",40.29736,-111.70026
+"84058","Orem","UT","Trader Joe's","440 East Park Avenue","84097",40.276041,-111.68494
+"84058","Orem","UT","Walmart Supercenter","1355 Sandhill Rd","84058",40.27305076670936,-111.7109808698246
+"84058","Orem","UT","Sprouts Farmers Market","1375 S State Street","84097",40.271800612389605,-111.68257534503937
+"84058","Orem","UT","Good Earth Natural Foods","500 S State St","84058",40.28811865475,-111.69155610601067
+"84060","Park City","UT","Fresh Market","1800 Park Ave.","84060",40.65933673937105,-111.50720615336743
+"84060","Park City","UT","The Market at Park City","1500 Snow Creek Dr","84060",40.66198995639453,-111.5092234659394
+"84060","Park City","UT","Mountain Town Olive Oil","613 Main Street","84060",40.64598557071027,-111.49714091193631
+"84060","Park City","UT","Park City Grocery Express","2375 Doc Holiday Dr","84060",40.66759,-111.49057
+"84060","Park City","UT","copps produce","Main St","not_available",40.64478302001953,-111.49652862548828
+"84060","Park City","UT","Stacey’s Grocery Services","1725 W Uintah","84060",40.6823064,-111.4835127
+"84064","Randolph","UT","Randolph Country Store","468 S Main St","84064",41.656318,-111.184082
+"84065","Riverton","UT","Walmart Supercenter","13502 Hamilton View Rd","84065",40.505554115426996,-111.97770565310934
+"84065","Riverton","UT","Peterson's Marketplace","1784 W 12600 S","84065",40.523563924364396,-111.94057703018188
+"84065","Riverton","UT","Walmart Neighborhood Market","1202 West 12600 South","84065",40.523391,-111.92598899999999
+"84065","Riverton","UT","Walmart Grocery Pickup","1202 W 12600 S","84065",40.5234834963698,-111.922168295024
+"84066","Roosevelt","UT","IGA Davis Jubilee","750 E 200 N","84066",40.30202102661133,-109.98059844970703
+"84067","Roy","UT","Harmons Grocery","5370 S 1900 W","84067",41.16628820640572,-112.02451096000898
+"84067","Roy","UT","Ocean Mart","5651 S 1900 W","84067",41.16100632676043,-112.02772101042926
+"84067","Roy","UT","WinCo Foods","6060 S 3500 W","84067",41.15318034246634,-112.06240701629865
+"84067","Roy","UT","Winegar's Supermarket","3440 W 4800 S","84067",41.17696775212415,-112.06288284738449
+"84067","Roy","UT","Kent's Market","3535 W 5600 S","84067",41.162684519927645,-112.06577589405042
+"84070","Sandy","UT","Walmart Supercenter","11328 S Jordan Gtwy","84095",40.54583995172043,-111.90111557496202
+"84070","Sandy","UT","Reams","10650 S 700 E","84094",40.557430295829654,-111.87334637710057
+"84070","Sandy","UT","House of Cards Inc","33 W 10600 S","84070",40.5588039,-111.89206969999998
+"84074","Tooele","UT","Walmart Supercenter","99 W 1280 N","84074",40.55604418338253,-112.30045944198616
+"84074","Tooele","UT","Lucky's","not_available","84074",40.544174,-112.296425
+"84074","Tooele","UT","Soelbergs Market","6727 N Sr36 Hwy","84074",40.650595227366736,-112.28794455528258
+"84074","Tooele","UT","Macey's","972 N Main St","84074",40.54936229631856,-112.29650501937758
+"84074","Tooele","UT","Albertsons","740 N Main St","84074",40.54453838109414,-112.29638814926147
+"84078","Vernal","UT","Smith's","1080 W Highway 40","84078",40.45272773377958,-109.54781861619273
+"84078","Vernal","UT","Walmart Supercenter","1851 W Highway 40","84078",40.43867406,-109.5636225
+"84078","Vernal","UT","IGA Davis Jubilee","575 W Main St","84078",40.45489219946107,-109.53909968145403
+"84078","Vernal","UT","Basin  Clean & Home Survival","54 N Vernal Ave","84078",40.456451,-109.528152
+"84081","West Jordan","UT","Walmart Supercenter","5675 W 6200 S","84118",40.636256369514705,-112.0262617637303
+"84081","West Jordan","UT","Harmons Grocery","4872 W 6200 S","84081",40.639224478471824,-112.00683268165832
+"84081","West Jordan","UT","Smith's","5710 W 7800 S","84081",40.611273,-112.0268925
+"84081","West Jordan","UT","Harmons","not_available","84081",40.625106592500245,-112.04241766603351
+"84083","Wendover","UT","Daves Supermart","100 wendover blvd","not_available",40.736026763916016,-114.0462875366211
+"84084","West Jordan","UT","Walmart Supercenter","7671 S 3800 W","84084",40.61144887519337,-111.97829129454283
+"84084","West Jordan","UT","Smith's","7061 S Redwood Rd","84084",40.622928999561154,-111.93682998418808
+"84084","West Jordan","UT","Ream's","3665 Bennion Blvd.","84118",40.63769881726829,-111.97888223341707
+"84084","West Jordan","UT","Lucky","6936 S Redwood Rd","84084",40.6252456,-111.9404041
+"84084","West Jordan","UT","La Cantera Market","3078 W 7800 S","84088",40.609920843077674,-111.96553230285643
+"84087","Woods Cross","UT","Clem's","1881 Redwood Rd, Woods Cross, UT 84087","84087",40.866769085768794,-111.93360378217463
+"84087","Woods Cross","UT","Harmons","2000 North Station Parkway","84025",40.872358,-111.935199
+"84087","Woods Cross","UT","Flexpak","1894 W 2425 S","84087",40.864810999999996,-111.932483
+"84088","West Jordan","UT","Macey's","7859 S 3200 W","84088",40.60861935009347,-111.96600885497712
+"84088","West Jordan","UT","Smith's","1820 W 9000 S","84088",40.58954797446049,-111.94093647663976
+"84088","West Jordan","UT","Smith's","4080 W 9000 S","84088",40.5888693,-111.9874284
+"84088","West Jordan","UT","Ream’s Food Stores","2640 W 9000 S","84088",40.58840835961135,-111.95650894525541
+"84088","West Jordan","UT","WiO Diet","8100 S 1300 W Ste A","84088",40.604045,-111.9298566
+"84092","Sandy","UT","Smith's","2039 E 9400 S","84093",40.5816756,-111.8328451
+"84092","Sandy","UT","Smith's","10305 S 1300 E","84094",40.56376412260895,-111.85132384300232
+"84092","Sandy","UT","Ream's","8725 S Highland Dr","84093",40.5926698104877,-111.8318966884211
+"84092","Sandy","UT","Fresh Market","1860 E 9400 S","84093",40.579214115428464,-111.83766206628974
+"84093","Sandy","UT","Smith's","3470 Bengal Blvd","84121",40.60808444629264,-111.79695279928632
+"84093","Sandy","UT","Smith's Grocery Pickup and Delivery","3470 E Bengal Blvd","84121",40.6080924580284,-111.79690937909228
+"84094","Sandy","UT","Walmart Supercenter","9151 South Quarry Blvd","84094",40.585505491087794,-111.85997954768608
+"84095","South Jordan","UT","Sprouts Farmers Market","11519 S 4000 W","84095",40.54090211035647,-111.98520362377167
+"84095","South Jordan","UT","Walmart Supercenter","3590 W. South Jordan Pkwy","84095",40.563091140751204,-111.97501554622546
+"84095","South Jordan","UT","Harmons Grocery","11453 S Parkway Plaza Dr","84095",40.543446751692024,-111.97775507161352
+"84095","South Jordan","UT","Smith's","5448 W Daybreak Pkwy","84009",40.5393431,-112.0211
+"84095","South Jordan","UT","Smith's","1634 W South Jordan Pkwy","84095",40.5639789,-111.9373621
+"84095","South Jordan","UT","Natural Grocers","10622 S Redwood Rd","84095",40.557777,-111.93898999999999
+"84095","South Jordan","UT","Harmons Grocery","10507 S Redwood Rd","84095",40.56046955840946,-111.93693500315746
+"84095","South Jordan","UT","Dhanya Spices & Groceries","1098 S Jordan Pkwy #109","84095",40.561979,-111.922611
+"84095","South Jordan","UT","Apna Baazar","10482 S Redwood Rd","84095",40.560645,-111.93928400000001
+"84096","Herriman","UT","WinCo Foods","Anthem Park Blvd. &, Mountain View Corridor Trail","84096",40.533603,-112.01453
+"84096","Herriman","UT","Smith's","5560 W 13400 S","84096",40.5092002,-112.0237067
+"84096","Herriman","UT","Walmart Neighborhood Market","5056 W 13400 S","84096",40.50897578899729,-112.01157342112198
+"84096","Herriman","UT","Harmons","13330 S Kestrel Range Rd","84096",40.50906,-112.002808
+"84097","Orem","UT","Day's Market","3121 N Canyon Rd","84604",40.27511272927805,-111.65187844529054
+"84097","Orem","UT","Harmons Grocery","870 E 800 N","84097",40.31118353862023,-111.67530651352783
+"84097","Orem","UT","Walmart Neighborhood Market","2255 N University Parkway","84604",40.26304337124039,-111.66993937582818
+"84097","Orem","UT","Buy Low Market","2250 N University Pkwy","84604",40.265256983811284,-111.66555722438937
+"84097","Orem","UT","Food For Health International, LLC","825 E 800 N","84097",40.3123836,-111.6763832
+"84098","Park City","UT","Whole Foods Market","6598 N Landmark Drive","84098",40.7274167657978,-111.5470283065542
+"84098","Park City","UT","Smith's","1725 Uinta Way","84098",40.7234642,-111.5429069
+"84098","Park City","UT","Walmart Supercenter","6545 Landmark Dr","84098",40.72596755881685,-111.54885440454235
+"84098","Park City","UT","Fresh Market","3151 Kilby Rd","84098",40.75008537316632,-111.57070346016421
+"84098","Park City","UT","Park City Grocery Express","900 Bitner Rd, Park City, UT 84098","84098",40.72357940673828,-111.5277099609375
+"84098","Park City","UT","Park City Grocery Express","900 Bitner Rd","84098",40.7237295,-111.5276564
+"84098","Park City","UT","Ioulia Greek Olive Oil Co.","7596 Stagecoach Dr","84098",40.74407,-111.58536
+"84101","Salt Lake City","UT","Jade Market","353 W 200 S","84101",40.76491577594218,-111.9014438396282
+"84101","Salt Lake City","UT","The Store","not_available","84101",40.767433,-111.904172
+"84101","Salt Lake City","UT","La Superbodega Warehouse And Market","556 W 600 S","84101",40.75667953491211,-111.9070816040039
+"84101","Salt Lake City","UT","AJ Market","270 S Main St","84101",40.763886,-111.891846
+"84101","Salt Lake City","UT","Smart Foodservice Warehouse Stores","370 West Paxton Avenue","84101",40.744076,-111.901535
+"84101","Salt Lake City","UT","City Mart","641 W North Temple Ste 30","84116",40.771358489990234,-111.90966796875
+"84102","Salt Lake City","UT","Trader Joe's","634 East 400 South","84102",40.75995682373036,-111.87259749369863
+"84102","Salt Lake City","UT","Smith's","876 E 800 S","84102",40.7507554,-111.8661753
+"84102","Salt Lake City","UT","Whole Foods Market","544 South 700 East","84102",40.75784435614018,-111.871659721765
+"84102","Salt Lake City","UT","Smith's","455 S 500 E","84102",40.7597155,-111.8757898
+"84102","Salt Lake City","UT","Sprouts Farmers Market","216 S 700 East","84102",40.7645442,-111.8728644
+"84102","Salt Lake City","UT","Natural Grocers","645 E 400 S Ste A","84102",40.76151850636713,-111.87270223298674
+"84102","Salt Lake City","UT","Smith's","873 E South Temple","84102",40.76969933261856,-111.86613790693627
+"84102","Salt Lake City","UT","London Market & Bakery","439 E 900 S, Salt Lake City, UT 84111","84111",40.750069440390135,-111.87808820350037
+"84102","Salt Lake City","UT","Oriental Food Market","667 S 700 E","84102",40.75472909867939,-111.87069116562937
+"84103","Salt Lake City","UT","Harmons","135 E 100 S","84111",40.767495644426795,-111.88731272570055
+"84103","Salt Lake City","UT","Smith's","402 E 6th Ave","84103",40.7754214,-111.876887
+"84103","Salt Lake City","UT","Neighbors Market","44 N State St","84103",40.77042007446289,-111.88810729980469
+"84104","Salt Lake City","UT","Smith's","828 S 900 W","84104",40.7512232,-111.918346
+"84104","Salt Lake City","UT","Super Europa Market","not_available","84104",40.742786,-111.939854
+"84104","Salt Lake City","UT","The Community Co-Op","1726 S 700 W","84104",40.73308563232422,-111.91148376464844
+"84104","Salt Lake City","UT","Gonzalez Market","1220 S Redwood Rd","84104",40.742786,-111.939854
+"84104","Salt Lake City","UT","SuperMercaro","1179 S Navajo St","84104",40.742844,-111.929105
+"84104","Salt Lake City","UT","Muir Enterprises, Inc.","3575 W 900 S","84104",40.74915499999999,-111.976561
+"84104","Salt Lake City","UT","Campos' Market","900 W 800 S","84104",40.752227,-111.916352
+"84105","Salt Lake City","UT","Fresh Market","1638 S 900 E","84105",40.73394077872948,-111.8664241160058
+"84105","Salt Lake City","UT","Dave's Shop N Go","1700 E 1700 S","not_available",40.733434629716946,-111.84201409229264
+"84105","Salt Lake City","UT","Harmons Emigration Market","1706 E 1300 S","84108",40.741431241190455,-111.84204517509846
+"84105","Salt Lake City","UT","Natural Grocers","1033 E 2100 S","84106",40.725637,-111.861387
+"84105","Salt Lake City","UT","southwest market","not_available","84102",40.74967561087827,-111.8770587849908
+"84106","Salt Lake City","UT","Harmons Grocery","3270 S 1300 E","84106",40.70124059399712,-111.85514730240028
+"84106","Salt Lake City","UT","Smith's","922 E 2100 S","84106",40.7245477,-111.8646889
+"84106","Salt Lake City","UT","Whole Foods Market","1131 E. Wilmington Ave.","84106",40.723584604728195,-111.858654602962
+"84106","Salt Lake City","UT","A Fresh Market South Salt Lake","not_available","84106",40.69989,-111.859828
+"84106","Salt Lake City","UT","Vitaminerals","1434 E 3045 S","84106",40.7046535,-111.85003489999997
+"84106","Salt Lake City","UT","Walmart Grocery Pickup","3701 S Highland Dr","84106",40.691033000000004,-111.84656100000001
+"84106","Salt Lake City","UT","Namaste","741 E 3300 S","84106",40.70030975341797,-111.86992645263672
+"84106","Salt Lake City","UT","Rancho Markets","898 E 3300 S","84106",40.69905961659134,-111.86613810327154
+"84106","Salt Lake City","UT","Real Foods Market","2209 S Highland Dr","84106",40.72288498616563,-111.85832866937376
+"84106","Salt Lake City","UT","Salt Lake Homeopathy","1121 E 3900 S Ste C140","84124",40.6883576,-111.8590966
+"84106","Salt Lake City","UT","Blackhouse Vapor Company","2148 South 900 East #3","84106",40.724274,-111.865764
+"84106","Salt Lake City","UT","Wild Oats","1131 E Wilmington Ave","84106",40.723683,-111.858884
+"84107","Salt Lake City","UT","Smith's","845 E 4500 S","84107",40.675491640354124,-111.86717838048935
+"84107","Salt Lake City","UT","Sprouts Farmers Market","6284 S State Street","84107",40.63444874334583,-111.89052164554596
+"84107","Salt Lake City","UT","Shiraz Market","135 East 4370 South","84107",40.676058,-111.887433
+"84107","Salt Lake City","UT","Utah Co-Op","291 E 4500 S","84107",40.66511980889351,-111.89969060349397
+"84107","Salt Lake City","UT","Macey's","5632 S 900 E","84121",40.64876,-111.86796
+"84108","Salt Lake City","UT","Walmart Supercenter","2705 E Parleys Way","84109",40.71968687,-111.8130256
+"84108","Salt Lake City","UT","Dan's Foods","1360 S Foothill Dr","84108",40.739742399957315,-111.82676100888222
+"84108","Salt Lake City","UT","Fresh Market","2040 S 2300 E","84108",40.72589758358604,-111.82600342432909
+"84109","Salt Lake City","UT","Smith's","3215 S Valley St","84109",40.7013627,-111.7993264
+"84109","Salt Lake City","UT","Harmon’s Grocery","not_available","84117",40.66868721544347,-111.82419925390943
+"84109","Salt Lake City","UT","Fresh Market","2300 East 3900 South","not_available",40.687540764667126,-111.82364111662027
+"84109","Salt Lake City","UT","Dan's Foods","3981 S Wasatch Blvd","84124",40.684914520676664,-111.7947559971609
+"84109","Salt Lake City","UT","Dan's Marketplace","not_available","84093",40.63927303031119,-111.79824278320034
+"84111","Salt Lake City","UT","South East Asian Market","422 E 900 S","84111",40.74952407948326,-111.87914802597886
+"84111","Salt Lake City","UT","freshmarket","400 e 200 s","84102",40.76472854614258,-111.87934112548828
+"84115","Salt Lake City","UT","Walmart Supercenter","350 Hope Ave","84115",40.74051649995603,-111.9013995847253
+"84115","Salt Lake City","UT","WinCo Foods","2193 S Main St","84115",40.72406434577077,-111.89023893581
+"84115","Salt Lake City","UT","Japan - Sage Market","1515 S Main St","84115",40.736595,-111.890639
+"84115","Salt Lake City","UT","Main Street Quality Meats","2685 S Main St","84115",40.71323,-111.8909
+"84115","Salt Lake City","UT","La Pequeñita","2740 S State St","84115",40.711632,-111.888576
+"84115","Salt Lake City","UT","Honeyville Farms","389 W 1830 S Ste 500","84115",40.72924259684576,-111.90188884735107
+"84115","Salt Lake City","UT","Wing Fong Mart","3370 S State St #5","84115",40.698062896728516,-111.88876342773438
+"84115","Salt Lake City","UT","Ream'S Food Stores","160 E Claybourne Ave","84115",40.7107211,-111.8871396
+"84115","Salt Lake City","UT","Cali's Natural Foods","389 W 1700 S Ste C","84115",40.733228303687206,-111.90205931813081
+"84115","Salt Lake City","UT","Ream's","2783 S State St","84115",40.71067323280181,-111.88738872798017
+"84115","Salt Lake City","UT","Qaderi Sweets & Spicez","1785 S State St","84115",40.73169791035999,-111.88800573348999
+"84116","Salt Lake City","UT","Smith's","1174 W 600 N","84116",40.7832971,-111.9247095
+"84116","Salt Lake City","UT","Lucky","729 N Redwood Rd","84116",40.7855899,-111.9407322
+"84116","Salt Lake City","UT","La Vaquita","Bodwell St.","84116",40.7899006765483,-111.916148978107
+"84116","Salt Lake City","UT","Viva Market","855 W North Temple","84116",40.77235781108774,-111.91602539200895
+"84117","Salt Lake City","UT","Walmart Supercenter","4627 S 900 E","84117",40.66969883361846,-111.86371494470613
+"84117","Salt Lake City","UT","Sprouts Farmers Market","1785 E Murray Holladay Rd, #A","84117",40.66723421900319,-111.84080690145493
+"84117","Salt Lake City","UT","Walmart Pickup","5596 S Van Winkle Expy","84117",40.6498,-111.8493
+"84117","Salt Lake City","UT","Macey's","4530 S Highland Dr","84117",40.673403,-111.842688
+"84117","Salt Lake City","UT","European Tastees","4700 S 900 E #51","84117",40.66628206021072,-111.86272600491989
+"84117","Salt Lake City","UT","The Store","2050 E 6200 S","84121",40.63818360211424,-111.83271340004056
+"84118","Salt Lake City","UT","Harmons Grocery","5454 S Redwood Rd","84123",40.65211224562891,-111.94050758484148
+"84118","Salt Lake City","UT","Smith's","4643 S 4000 W","84120",40.6682409,-111.9848133
+"84118","Salt Lake City","UT","Walmart Neighborhood Market","4570 S 4000 W","84120",40.67057726296776,-111.98876885256051
+"84118","Salt Lake City","UT","Walmart Grocery Pickup and Delivery","5469 S Redwood Rd","84123",40.6517762622863,-111.938861914527
+"84118","Salt Lake City","UT","Neighborhood Market","not_available","84095",40.646034148550314,-111.9790860054164
+"84118","Salt Lake City","UT","Stan's Market","4195 W Kearns Blvd","84118",40.65206406137975,-111.99104574137526
+"84118","Salt Lake City","UT","Pacific Mart","4095 W 5415 S","84118",40.651905,-111.98823600000001
+"84118","Salt Lake City","UT","Big Lots","4041w 5415 S","84118",40.65192056660045,-111.98756479178019
+"84118","Salt Lake City","UT","Fresh Market","1825 W 4700 S","84129",40.66661603694653,-111.9411013123439
+"84118","Salt Lake City","UT","Ream's","2600 W 4700 S","84129",40.668485458720525,-111.9564963451942
+"84118","Salt Lake City","UT","Against the Grain","2292 W 5400 S","84129",40.653504999999996,-111.95025700000001
+"84118","Salt Lake City","UT","1st Oriental","4616 S","84120",40.66957121650533,-111.98752215452578
+"84119","West Valley City","UT","Smith's","4065 S Redwood Rd","84123",40.6834277,-111.9378941
+"84119","West Valley City","UT","Lucky’s","not_available","84119",40.696264,-111.9366
+"84119","West Valley City","UT","Super Saver","1585 W 3500 S","84119",40.6955412,-111.9363268
+"84119","West Valley City","UT","Powerful African Market","3500 South 2778 West","84119",40.697112,-111.959557
+"84119","West Valley City","UT","Kim Thành Supermarket","3086 S Redwood Rd","84119",40.704262,-111.93955
+"84119","West Valley City","UT","Randall's Market","3235 W 4100 S","84119",40.681745,-111.96843600000001
+"84119","West Valley City","UT","Bountiful Baskets Valley Fair Mall","2700 west 3500 south","84119",40.693797933333336,-111.9561651872996
+"84119","West Valley City","UT","Ridgecrest Herbals, Inc.","3683 W 2270 S Ste A","84120",40.721199,-111.9794425
+"84119","West Valley City","UT","Jubilee Foods","3765 S Constitution Blvd","84119",40.69018514146347,-111.95724296581442
+"84119","West Valley City","UT","Jubilee Grocery Store","3850 S","84119",40.69033977956846,-111.95634497065902
+"84119","West Valley City","UT","Viva Market","1824 W 3500 S","84119",40.697365000000005,-111.94176000000002
+"84119","West Valley City","UT","Fresh Market","3555 W 3500 S","84119",40.69532359750561,-111.97590954681952
+"84120","West Valley City","UT","WinCo Foods","2572 S 5600 W","84120",40.71390927725461,-112.02623090166756
+"84120","West Valley City","UT","Smith's","5620 W 4100 S","84128",40.68398103893379,-112.02545428834321
+"84120","West Valley City","UT","Harmons Grocery","3955 W 3500 S","84120",40.69585976297461,-111.98573077061302
+"84120","West Valley City","UT","Thai Lao Market","3376 S 5600 W","84120",40.69868850708008,-112.02638244628906
+"84121","Salt Lake City","UT","Whole Foods Market","6930 S. Highland Drive","84121",40.624901887613916,-111.83579359137016
+"84121","Salt Lake City","UT","Dan's Foods","2029 E Fort Union Blvd","84121",40.62481491524003,-111.83341449764349
+"84121","Salt Lake City","UT","Ream's Food Store","2396 E Fort Union Blvd","84121",40.623308557751585,-111.82271837198273
+"84123","Salt Lake City","UT","Smith's","665 W 5300 S","84123",40.6526788,-111.9093196
+"84128","West Valley City","UT","Walmart Supercenter","3180 S 5600 W","84120",40.70227413000427,-112.02694749966936
+"84128","West Valley City","UT","Win co","not_available","84128",40.695715664357046,-112.03527414916057
+"84302","Brigham City","UT","Walmart Supercenter","1200 S Commerce Way","84302",41.48456618,-112.030313
+"84302","Brigham City","UT","Smith's","156 S Main St","84302",41.506656666669144,-112.01666530261718
+"84302","Brigham City","UT","Kent's Marketplace","260 N Main St","84302",41.516465793586775,-112.01497295298121
+"84302","Brigham City","UT","Honeyville Farms","1080 N Main St Ste 101","84302",41.531546999999996,-112.013522
+"84307","Corinne","UT","Sara Lee Bakery","2200 West 4700 South","not_available",41.24742824343033,-112.12044818536481
+"84307","Corinne","UT","Ridley's Supermarket","74 S 100 E","84337",41.710960388183594,-112.16500091552734
+"84307","Corinne","UT","Kents Marketplace","300 E Main St","84337",41.71143127828974,-112.16187274971247
+"84310","Eden","UT","Smith's","2434 N 400 E","84414",41.3029333,-111.9668342
+"84310","Eden","UT","Walmart Supercenter","534 N Harrisville Rd","84404",41.269183546026674,-111.97309510316259
+"84310","Eden","UT","Natural Grocers","270 12th St","84404",41.244885281144576,-111.97328925132751
+"84310","Eden","UT","Smith's","1485 Harrison Blvd","84404",41.241296,-111.9464808
+"84310","Eden","UT","Valley Market","not_available","84310",41.30535539770257,-111.8266215430799
+"84310","Eden","UT","Harmons Grocery","37 N Harrisville Rd","84404",41.259930951292276,-111.97182579819828
+"84310","Eden","UT","Viva Market","916a E 700 S St","84404",41.2521,-111.95512
+"84319","Hyrum","UT","Ridley's Food and Drug","780 E Main St","84319",41.63310487543139,-111.83356250119147
+"84319","Hyrum","UT","Ridley's South Cache Market","780 E Main St, Hyrum, UT 84319","84319",41.632965087890625,-111.83389282226562
+"84321","Logan","UT","Walmart Supercenter","1550 N Main St","84341",41.76060849783971,-111.830992938356
+"84321","Logan","UT","Walmart Supercenter","1150 S 100 W","84321",41.71222213469821,-111.836246997117
+"84321","Logan","UT","Smith's","175 East 442 N","84321",41.7397228,-111.8305325
+"84321","Logan","UT","Smith's","750 N Main St","84321",41.745605169017885,-111.83277904987335
+"84321","Logan","UT","Macey's","50 N Highway 165","84332",41.70897989035252,-111.83214038279748
+"84321","Logan","UT","Lee's Marketplace","555 E 1400 N","84341",41.75845890904344,-111.82040349508681
+"84321","Logan","UT","Lee's Marketplace","850 S Main St","84335",41.8263656524659,-111.83251945757287
+"84321","Logan","UT","Island Market","400 E Center St","84321",41.731096,-111.824516
+"84321","Logan","UT","Big Lots","1617 N Main St","84341",41.76161995907406,-111.83570993573107
+"84321","Logan","UT","Natural Grocers","1075 N Main St Ste 110","84341",41.75112063332786,-111.83604565021928
+"84321","Logan","UT","Macey's","49 E 400 N","84321",41.74006145936964,-111.83265882934838
+"84321","Logan","UT","Cox Honeyland","1780 S State Highway 89","84321",41.70036315917969,-111.85480499267578
+"84401","Ogden","UT","WinCo Foods","205 W 12th St","84404",41.24260661548888,-111.98128603012947
+"84401","Ogden","UT","Smith's","4275 Harrison Blvd","84403",41.1853282,-111.9504256
+"84401","Ogden","UT","Walmart Supercenter","1959 Wall Ave","84401",41.23205644999211,-111.98089147041586
+"84401","Ogden","UT","Macey's","325 36th St","84405",41.196774768815125,-111.97294670107202
+"84401","Ogden","UT","carl's super saver store","not_available","84403",41.20703887939453,-111.94927978515625
+"84401","Ogden","UT","Rancho Market","not_available","84401",41.21814359942819,-111.95558737106924
+"84401","Ogden","UT","Fresh Market","3945 Washington Blvd","84403",41.191437705036435,-111.97245037463739
+"84401","Ogden","UT","Good Earth Natural Food","1050 W Riverdale Rd","84405",41.17744827113568,-112.00390805460434
+"84401","Ogden","UT","Easy Shop Corporation","251 17th St","84404",41.23659133911133,-111.97412872314453
+"84401","Ogden","UT","Steve & Irina's Down To Earth","341 27th St","84401",41.216201,-111.972048
+"84401","Ogden","UT","Fresh Market","2012 Harrison Blvd","84401",41.2298104193521,-111.94708385317135
+"84403","Ogden","UT","Walmart Neighborhood Market","1710 E Skyline Dr","84405",41.15232682613587,-111.93804797528826
+"84403","Ogden","UT","Fresh Market","5691 Harrison Blvd","84403",41.15967222327204,-111.9412986358746
+"84403","Ogden","UT","H.M. Health Foods","1735 E Skyline Dr Ste 2","84405",41.1511444,-111.9367525
+"84404","Ogden","UT","Associated Foods","1850 West 2530 North","84404",41.303699466618,-112.02338218688965
+"84405","Ogden","UT","Walmart Supercenter","4848 S 900 W","84405",41.17601970600539,-111.99936416318586
+"84501","Price","UT","Walmart Supercenter","255 S Highway 55","84501",39.5962923296791,-110.78932301649247
+"84501","Price","UT","Smith's","1075 E Main St","84501",39.60036464955677,-110.79354912042618
+"84501","Price","UT","Fresh Market","760 W Price River Dr","84501",39.599529,-110.824273
+"84511","Blanding","UT","Southway Mini Mart","not_available","84511",37.60047149658203,-109.48066711425781
+"84525","Green River","UT","City Market","not_available","84525",38.928582,-110.457866
+"84532","Moab","UT","City Market","425 S Main St","84532",38.5669016,-109.5495312
+"84532","Moab","UT","Village Market","702 S Main St","84532",38.56226467654366,-109.5491447535555
+"84532","Moab","UT","Moonflower Market","1-99 E 100 N","84532",38.574929328339636,-109.55011792620768
+"84601","Provo","UT","Smith's","350 N Freedom Blvd","84601",40.2386763,-111.661556
+"84601","Provo","UT","Macey's","1400 N State St","84604",40.25303070701178,-111.66664386798882
+"84601","Provo","UT","Fresh Market","560 W Center St","84601",40.23424701670146,-111.66836306096161
+"84601","Provo","UT","Allen's Super Save","655 E 300 S","84606",40.230098644720904,-111.64758995900819
+"84601","Provo","UT","Asian Market","not_available","84601",40.234200986589705,-111.66737380709927
+"84601","Provo","UT","Lia's Polynesian Market","604 N Freedom Blvd","84601",40.24163940523517,-111.6615164919065
+"84601","Provo","UT","Community Action Services & Food Bank","815 S Freedom Blvd","84601",40.223188,-111.66176499999999
+"84601","Provo","UT","Chao's Trading Co.","77 N University Ave","84601",40.234782,-111.65918
+"84601","Provo","UT","Rancho Market","1700 N State St","84604",40.2377325296402,-111.6479641199112
+"84624","Delta","UT","Delta Jubilee","377 W Main St","84624",39.35223875306868,-112.58302206934052
+"84627","Ephraim","UT","Walmart Supercenter","777 N Main St","84627",39.37390821406852,-111.58936880042636
+"84627","Ephraim","UT","Kent's Market","475 S Main St","84627",39.351028,-111.586284
+"84628","Eureka","UT","Taylor's General Store","285 W. Main St.","84628",39.9544677734375,-112.11964416503906
+"84629","Fairview","UT","Fountain Green General Store & Shep's Grill","84 S State Street","84632",39.6271928,-111.6344255
+"84631","Fillmore","UT","Duane's Food Town","375 S Main St","84631",38.960987,-112.32258600000002
+"84634","Gunnison","UT","Gunnison Market","520 S Main St.","84634",39.14478956813191,-111.81889057159424
+"84645","Mona","UT","Mt. Nebo Market","965 N Main St","84648",39.722389221191406,-111.83706665039062
+"84646","Moroni","UT","Norbest Outlet Store","306 W 300 S","84646",39.52054507708568,-111.59008166250159
+"84647","Mount Pleasant","UT","Terrels","not_available","84647",39.53188460615189,-111.4639253272203
+"84651","Payson","UT","Walmart Supercenter","1052 Turf Farm Rd","84651",40.02823816460322,-111.75627547401427
+"84651","Payson","UT","Macey's","not_available","84655",39.97755,-111.77634
+"84651","Payson","UT","Stokes Fresh Food Market","not_available","84653",40.06694,-111.667046
+"84651","Payson","UT","Smith's","632 S 100 W","84651",40.034281,-111.7346679
+"84651","Payson","UT","Payson Market","586 N Main St","84651",40.051992970862095,-111.7312351985485
+"84651","Payson","UT","Macey's","110 N 400 E St","84655",39.97453849286645,-111.80467486381531
+"84654","Salina","UT","Barretts Food Town","93 N State St","84654",38.95853243004521,-111.86051783196112
+"84660","Spanish Fork","UT","Walmart Supercenter","1206 N. Canyon Creek Parkway","84660",40.12401284174414,-111.63947877139908
+"84660","Spanish Fork","UT","Macey's","187 E 1000 N","84660",40.12378101649578,-111.65147545097454
+"84660","Spanish Fork","UT","Walmart Supercenter","660 S 1750 W","84663",40.15777057092767,-111.6441192117013
+"84660","Spanish Fork","UT","Smith's","1117 W 400 S","84663",40.1589389066783,-111.63007915019989
+"84660","Spanish Fork","UT","Walmart Neighborhood Market","898 S 2550 E","84660",40.09820655653397,-111.61359895521309
+"84660","Spanish Fork","UT","Ream's","759 E 400 S","84663",40.16128010618881,-111.59694520882422
+"84660","Spanish Fork","UT","Good Earth Natural Foods","863 N 700 E","84660",40.120906829833984,-111.64305877685547
+"84660","Spanish Fork","UT","Allen's Super Save","340 S Main St","84663",40.16214877103687,-111.61133850566173
+"84660","Spanish Fork","UT","El Torito","not_available","84663",40.176422429919334,-111.61097819709003
+"84660","Spanish Fork","UT","Nu Harvest Foods","3465 W 6400 S","84660",40.1132739,-111.737108
+"84701","Richfield","UT","Walmart Supercenter","10 E 1300 S","84701",38.74833698261431,-112.08530746406875
+"84701","Richfield","UT","Fresh Market","250 S Main St","84701",38.764451275514176,-112.08572330911623
+"84713","Beaver","UT","Mike's Food Town","270 N Main St","84713",38.277858,-112.640603
+"84720","Cedar City","UT","Walmart Supercenter","1330 S Providence Center Dr","84720",37.65452559,-113.0875224
+"84720","Cedar City","UT","Smith's","633 S Main St","84720",37.66619353789493,-113.06202471256256
+"84720","Cedar City","UT","Lin's Market","150 N Main St","84720",37.680186955445826,-113.06089616004621
+"84720","Cedar City","UT","Arabic and Indian Foods","535 S Main St Ste 14","84720",37.66756723190956,-113.06224465370178
+"84720","Cedar City","UT","Alicias Tamales","1500 N Main St","84721",37.67722457568854,-113.06337640877635
+"84720","Cedar City","UT","Food Mart","not_available","84720",37.681250334989386,-113.07701134682009
+"84720","Cedar City","UT","Spices of India","565 S Main St #14","84720",37.66748046875,-113.06214141845703
+"84725","Enterprise","UT","Carter's Market","150 E Main St","84725",37.57390767587312,-113.717759380601
+"84729","Glendale","UT","Terry’s Food & Drug","not_available","84758",37.276107,-112.637496
+"84731","Greenville","UT","Todds Market","not_available","84752",38.215015,-112.924921
+"84737","Hurricane","UT","Walmart Supercenter","180 N 3400 W","84737",37.172432665655386,-113.36439222760991
+"84737","Hurricane","UT","Lin's Market","1120 W State St","84737",37.177105090644524,-113.30912135662017
+"84737","Hurricane","UT","Farmer's Market","not_available","84745",37.21043627964572,-113.27355387795068
+"84737","Hurricane","UT","Crystal Springs","950 N Old Highway 91","84746",37.164598,-113.427783
+"84738","Ivins","UT","Red Mountain Market","374 S 200 E","84738",37.16124,-113.67504358291626
+"84741","Kanab","UT","Glazier's Family Market","264 S 100 E","84741",37.04370421068939,-112.5269005438032
+"84741","Kanab","UT","Honey's Marketplace","260 E 300 S","84741",37.04241369135904,-112.52290009366695
+"84759","Panguitch","UT","General Store","Route 12 near Bryce Canyon City","not_available",37.697675201716024,-112.18543492173734
+"84759","Panguitch","UT","Heather's Liquor Agency","48 N Main St","84759",37.823361,-112.435272
+"84761","Parowan","UT","Parowan Market","740 W 200 S","84761",37.83902570419638,-112.84141302108765
+"84761","Parowan","UT","Western Family","800-1598 W 200 S","84761",37.83888954809506,-112.84149173196614
+"84767","Springdale","UT","Sol Foods Downtown Market","995 Zion Park Blvd","84767",37.18803160817176,-113.00058077052743
+"84767","Springdale","UT","Happy Camper Market","95 Zion Park Boulevard #1","84767",37.199176,-112.989048
+"84770","Saint George","UT","Albertsons","745 N Dixie Dr","84770",37.1207408,-113.6242945
+"84770","Saint George","UT","Harmons Grocery","1189 E 700 S","84790",37.097280271993,-113.55820210128721
+"84770","Saint George","UT","Smith's","20 N Bluff St","84770",37.1088883,-113.5916001
+"84770","Saint George","UT","Smith's Marketplace","565 S Mall Dr","84790",37.1180027,-113.5432453
+"84770","Saint George","UT","Lin's Market","1930 W Sunset Blvd Ste 108","84770",37.124041698327346,-113.62482579608427
+"84770","Saint George","UT","3 Amigos Market","325 N Bluff St","84770",37.11373273507056,-113.59608333609988
+"84770","Saint George","UT","Sari Sari Store","175 W 900 S","84770",37.092529296875,-113.58744812011719
+"84770","Saint George","UT","Premium Oil Company - Texaco","181 North Bluff St.","84770",37.1113395690918,-113.59496307373047
+"84770","Saint George","UT","Mahrak Asian Store","440 W Saint George Blvd Ste 2","84770",37.11023712158203,-113.59258270263672
+"84770","Saint George","UT","Redmond Heritage Farm Store","695 S 100 W","84770",37.09658432006836,-113.58524322509766
+"84770","Saint George","UT","Sunset Gas and Market Place","929 W Sunset Blvd","84770",37.1244006,-113.60294209
+"84770","Saint George","UT","Boomers Discount Markets","855 S Bluff St","84770",37.092903,-113.5861096
+"84773","Teasdale","UT","Taft Travel Plaza","not_available","84775",38.299331,-111.402454
+"84776","Tropic","UT","Clarke's Country Market","141 N Main","84776",37.625606,-112.08227099999999
+"84780","Washington","UT","Walmart Supercenter","625 W Telegraph St","84780",37.12645431806741,-113.51834125514806
+"84780","Washington","UT","Albertsons","915 Redcliffs Dr","84780",37.1256841,-113.524627
+"84780","Washington","UT","Lin's Market","2928 East Mall Dr.","not_available",37.09436894655579,-113.52412663330253
+"84780","Washington","UT","Natural Grocers","712 W Telegraph St","84780",37.13018267972308,-113.52048496071346
+"84790","Saint George","UT","Walmart Supercenter","2610 Pioneer Rd","84790",37.06332798098258,-113.58694649450806

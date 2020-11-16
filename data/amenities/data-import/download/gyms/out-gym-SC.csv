@@ -1,0 +1,852 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"29003","Bamberg","SC","BHHS weight room","Country Club Rd","29817",33.31599807739258,-81.11515808105469
+"29006","Batesburg","SC","Anytime Fitness","221 W Columbia Ave","29006",33.90999,-81.53332
+"29009","Bethune","SC","fitness world gym","not_available","29009",34.41399804765301,-80.34793349752192
+"29016","Blythewood","SC","Jeep Rogers YMCA","900 Lake Carolina Blvd","29229",34.18668714558129,-80.88251619424678
+"29016","Blythewood","SC","All Access Gym","not_available","not_available",34.1868782043457,-80.9704818725586
+"29016","Blythewood","SC","MÜV Fitness","450 Killian Road","29203",34.1389427,-80.9530607
+"29016","Blythewood","SC","Anytime Fitness","715 University Vlg Dr","29016",34.21535,-80.98688
+"29016","Blythewood","SC","Bodysmith Fitness","2108 Clemson Rd","29229",34.1401252746582,-80.9157485961914
+"29016","Blythewood","SC","Warrior Fitness CrossFit","not_available","29229",34.179178,-80.897999
+"29016","Blythewood","SC","DXC Fitness Center","10301 Wilson Blvd","29016",34.17732151587501,-80.97355663776398
+"29020","Camden","SC","Fitness zone","not_available","29078",34.230990519453485,-80.67330261919918
+"29020","Camden","SC","Workin' Out!","not_available","29020",34.324924683333336,-80.64997761666666
+"29020","Camden","SC","Crossfit 1732","938 Broad St","29020",34.244240999999995,-80.60651700000001
+"29020","Camden","SC","Stover Middle School Gym","not_available","29045",34.17079539817015,-80.76055056075539
+"29020","Camden","SC","Carolina Fitness Gym","2300 Broad St","29020",34.26974868774414,-80.60894775390625
+"29020","Camden","SC","Atlas Gym","1099 Gordon St.","29020",34.24519421586539,-80.6135166967776
+"29033","Cayce","SC","Crews Facility","1125 George Rogers Blvd","29201",33.97246502651366,-81.01736040811116
+"29033","Cayce","SC","Planet Fitness","833 State St","29033",33.987183337976475,-81.0548327160687
+"29033","Cayce","SC","Brickhouse Gym","519 Huger St","29201",33.98870677780076,-81.04149867928034
+"29033","Cayce","SC","SCANA Gym","220 Operation Way","29033",33.95649719238281,-81.04766082763672
+"29033","Cayce","SC","Treadmill Of Doom","Ohio","29201",33.96944444444445,-81.028125
+"29033","Cayce","SC","SCANA Corporation HQ LiveWell Wellness Center","100 Scana Pkwy","29033",33.93596267700195,-81.04679107666016
+"29033","Cayce","SC","Tri-city Leisure Center","485 Brooks Ave","29169",33.974676967099306,-81.08934000603197
+"29033","Cayce","SC","Garnet River Walk Gym","500 Alexander Cir","29206",33.97512408525343,-81.05689783449586
+"29033","Cayce","SC","Olympia Mills Gym","600 Heyward St","29201",33.982898244657726,-81.03629138844286
+"29033","Cayce","SC","Curves","2215 Platt Springs Rd Ste D","29169",33.969905853271484,-81.09126281738281
+"29033","Cayce","SC","Iron Bearcat","not_available","29033",33.98226323437181,-81.05738304178182
+"29033","Cayce","SC","112 Evergreen Sweat Shack","not_available","29172",33.95315788650698,-81.05974051520442
+"29033","Cayce","SC","Granby Village Fitness Center","1505 Charleston Hwy","29169",33.97373580932617,-81.07560729980469
+"29033","Cayce","SC","The Insanity Inn","not_available","29169",33.99119034072187,-81.07342650797672
+"29033","Cayce","SC","THE MADDISON FITNESS FACILITY","406 WILLIAMS ST A","29201",33.9865608215332,-81.04154968261719
+"29033","Cayce","SC","Granby Mills Gym","510 Heyward St","29201",33.98274230957031,-81.03677368164062
+"29036","Chapin","SC","Back In Shape Fitness Center","510 Columbia Ave","29036",34.17056365770758,-81.33155559467207
+"29036","Chapin","SC","Anytime Fitness","1237 Chapin Rd Suite C","29036",34.16518,-81.35242
+"29036","Chapin","SC","Crossfit Bomb Island","The Street","not_available",34.170684814453125,-81.33219909667969
+"29040","Dalzell","SC","The Free Weight Gym","not_available","29150",33.975,-80.405
+"29044","Eastover","SC","McEntire Gym","not_available","29044",33.91232279827044,-80.80122529021598
+"29045","Elgin","SC","Orangetheory Fitness","10296 Two Notch Rd","29229",34.123783,-80.872638
+"29045","Elgin","SC","Sport Of Fitness CrossFit","537A Clemson Rd","29229",34.11441295864809,-80.85099093205666
+"29045","Elgin","SC","Curves","10244 Two Notch Rd, Columbia, SC 29229","29229",34.12145233154297,-80.87574005126953
+"29045","Elgin","SC","Crossfit Sport Of Fitness","537a clemson","29045",34.102959304797736,-80.85176597746032
+"29045","Elgin","SC","Better Body Fitness","1230 Rose St","29045",34.16871754043116,-80.78994662438362
+"29045","Elgin","SC","Optimal Physical Performance","720 Old Clemson Rd Ste E","29229",34.12175369262695,-80.8607406616211
+"29045","Elgin","SC","Health Advantage","130 Pontiac Business Center Dr","29045",34.10773849487305,-80.83784484863281
+"29045","Elgin","SC","Carolina Crossfire Cheer","535 Clemson Rd Ste B","29229",34.11383819580078,-80.85174560546875
+"29045","Elgin","SC","Scott Gym","Lupine Court","29045",34.19119799771561,-80.80367088317871
+"29045","Elgin","SC","Burn Boot Camp","715 Fashion Dr","29229",34.12342,-80.87604
+"29053","Gaston","SC","The Gym","Tall Oak Ct","29053",33.804304012032766,-81.15289413920198
+"29053","Gaston","SC","New Horizon Fitness","1741 Southbound Rd","29160",33.752597156168356,-81.10052753297168
+"29059","Holly Hill","SC","Holly Hill Academy gymnasium","152 Bunch Ford Rd.","29059",33.33775920918715,-80.41263732203919
+"29061","Hopkins","SC","Defender Gym","not_available","29061",33.947443,-80.8677328
+"29061","Hopkins","SC","Meyer Fortitude of Fitness Fortress","not_available","29209",33.98940146513501,-80.9416898161226
+"29061","Hopkins","SC","Applied Fitness","6420 Garners Ferry Rd","29209",33.98046196,-80.96040522
+"29061","Hopkins","SC","The Gym @ UofSC School of Medicine","6439 Garners Ferry Rd","29209",33.97668230755789,-80.9603762626648
+"29061","Hopkins","SC","Gym at Hampton Inn & Suites","201 E Exchange Blvd","29209",33.969852,-80.953384
+"29061","Hopkins","SC","Vanguard Gym","not_available","29206",33.99860416471437,-80.95827737731005
+"29061","Hopkins","SC","Word of God Gym","7355-G Garners Ferry Road","29209",33.96871566772461,-80.94894409179688
+"29061","Hopkins","SC","Dad's","Charles towne","29209",33.969051,-80.918569
+"29061","Hopkins","SC","Ladies Choice Fitness","6614 Garners Ferry Rd","29209",33.97753143310547,-80.95893096923828
+"29063","Irmo","SC","Northwest YMCA","1501 Kennerly Rd","29063",34.11637310878906,-81.16810951491615
+"29063","Irmo","SC","Anytime Fitness","2726 N Lake Dr","29212",34.09738,-81.2208
+"29063","Irmo","SC","MÜV Fitness","800 Columbiana Dr","29063",34.092653701786034,-81.16905162891995
+"29063","Irmo","SC","Treadmill Therapy","not_available","29063",34.144233376219276,-81.20580517852865
+"29063","Irmo","SC","Orangetheory Fitness","7467 Saint Andrews Rd","29063",34.0863275,-81.18569
+"29063","Irmo","SC","Anytime Fitness","11107 Broad River Rd","29063",34.14793642,-81.24058148
+"29063","Irmo","SC","5 Minute Planks","1st Floor Stretching Area","not_available",34.092963,-81.169334
+"29063","Irmo","SC","Harbison Community Center","106 Hillpine Rd","29212",34.0811016529828,-81.14169337762073
+"29063","Irmo","SC","Elite Personal Training","1186 Columbia Ave","29063",34.086158752441406,-81.1783218383789
+"29063","Irmo","SC","Sozo Fitness","7319 College St","29063",34.087936,-81.17424
+"29063","Irmo","SC","Tiger Rock Martial Arts of Irmo","7320 Broad River Rd Ste L","29063",34.09688394775833,-81.15775501719665
+"29063","Irmo","SC","Athlete's Arena","3541 Dreher Shoals Rd","29063",34.12403864,-81.23326315
+"29063","Irmo","SC","Century Heights Gym","not_available","29212",34.088386,-81.154933
+"29065","Jenkinsville","SC","NNOB Fitness Center","Bradham Blvd., Hwy 215","29065",34.295494721098315,-81.31996020862469
+"29070","Leesville","SC","New Life Fitness World","265 Charter Oak Rd","29072",33.98837849406737,-81.30701184585854
+"29070","Leesville","SC","Dynamic Health And Fitness","364 Longs Pond Rd","29073",33.9208313,-81.2904398
+"29072","Lexington","SC","Anytime Fitness","1787 S Lake Dr Stes E,F-G","29073",33.91278,-81.22496
+"29072","Lexington","SC","24/7 Health and Fitness Center","3681 Leaphart Rd","29169",34.003063262838566,-81.13568873995992
+"29072","Lexington","SC","Lexington Wellness Center","not_available","29072",33.9867653,-81.24750673770905
+"29072","Lexington","SC","Zumba","not_available","29170",33.983927958406355,-81.16123442884131
+"29072","Lexington","SC","Kelly's Gym and Party Center","116 W Lake Dr, Lexington, SC 29073","29073",33.93667221069336,-81.21998596191406
+"29072","Lexington","SC","YMCA Wellness Center","not_available","29073",33.943846444909305,-81.21803364443005
+"29072","Lexington","SC","Train with Kelley","5102 Augusta Rd","29072",33.97912917594753,-81.20289305791432
+"29072","Lexington","SC","BodyShop","5347 Sunset Blvd","29072",34.00070086,-81.20931426
+"29072","Lexington","SC","SimplyFit","253 Creek Branch Drive","29072",34.02878889,-81.17875904
+"29072","Lexington","SC","Lexington Leisure Center","108 Park Rd","29072",33.98677824031792,-81.24714268107776
+"29072","Lexington","SC","Perfect Fit Personal Training Studio","710 Oak Dr","29073",33.99674987792969,-81.16065979003906
+"29072","Lexington","SC","Watson Gym","Carriage Hill Lakes","29072",34.006383,-81.22864
+"29072","Lexington","SC","casa de pitchalady","1113 Lake Shire Dr","29170",33.951875,-81.178712
+"29072","Lexington","SC","The Edge","not_available","29210",34.04150470704733,-81.14256580246293
+"29072","Lexington","SC","Genova Family Karate","169 U.S. 378, Lexington, SC 29072","29072",33.98054186517175,-81.27618943858616
+"29072","Lexington","SC","RockBox Fitness Lexington","929 N Lake Dr","29072",33.996357,-81.231166
+"29073","Lexington","SC","Orangetheory Fitness","5230 Sunset Blvd","29072",34.00585868899726,-81.20444978115918
+"29102","Manning","SC","Fitness Forum","not_available","29102",33.761075,-80.333871
+"29102","Manning","SC","Anytime Fitness","5 W Rigby St","29102",33.69694,-80.21101
+"29108","Newberry","SC","Old Gym","not_available","29178",34.28504446793306,-81.61456705273655
+"29108","Newberry","SC","Unique Fitness","not_available","29108",34.27450300207382,-81.61586759463053
+"29108","Newberry","SC","Anytime Fitness","1224 Wilson Rd","29108",34.283260345458984,-81.59603881835938
+"29108","Newberry","SC","YMCA","8220 Jollystreet Rd","29108",34.26245771985545,-81.58052598001717
+"29115","Orangeburg","SC","Planet Fitness","1486 Chestnut St","29115",33.51579618806049,-80.86319556413925
+"29115","Orangeburg","SC","Healthplex","not_available","29118",33.53965452343605,-80.83152375399999
+"29115","Orangeburg","SC","YMCA Orangeburg","2550 Saint Matthews Rd","29118",33.53204722174969,-80.84425842180461
+"29115","Orangeburg","SC","YMCA","2500 St.Matthews Road","29115",33.51318346664754,-80.85979225555148
+"29123","Pelion","SC","Joe's Gym","not_available","29123",33.78529341666667,-81.23925141666666
+"29150","Sumter","SC","Anytime Fitness","1288 Broad St","29150",33.95533,-80.38864
+"29150","Sumter","SC","Gym - Alice Drive Middle School","40 Miller Rd","29150",33.93159484863281,-80.37663269042969
+"29150","Sumter","SC","SHS Gym","Sumter High School","not_available",33.897710986580805,-80.39278451367349
+"29150","Sumter","SC","Workout Anytime","493 N Guignard Dr","29150",33.93168070759357,-80.36739012626508
+"29150","Sumter","SC","Curves","397 Rast St","29150",33.951279868103576,-80.37181430919867
+"29150","Sumter","SC","F45 Training Sumter","20 West Liberty Street","29150",33.920264,-80.342685
+"29152","Shaw Afb","SC","Shaw AFB Gym","Shaw AFB","29152",33.97114068643659,-80.48189018656893
+"29152","Shaw Afb","SC","Fitness & Sport Center","428 Shaw Dr","29152",33.971414677592264,-80.48215624445155
+"29160","Swansea","SC","Steve's Workout Zone","129 Faith Church Rd","29160",33.74407958984375,-81.09626770019531
+"29161","Timmonsville","SC","Zumba Class","not_available","29501",34.169897788094,-79.84395588995544
+"29161","Timmonsville","SC","Fitness World Ladies 2","3203 W Palmetto St Ste C","29501",34.16972732543945,-79.84398651123047
+"29161","Timmonsville","SC","PeeDee Crossfit","111 Technology Pl","29501",34.197265625,-79.84639739990234
+"29169","West Columbia","SC","CanalSide Apartments","383 Taylor St","29201",34.00187248209076,-81.05050360074641
+"29169","West Columbia","SC","Body Quest","3116 Platt Springs Rd","29170",33.96001729287666,-81.10564933315082
+"29169","West Columbia","SC","X360 Fitness","Shuler Street","29169",33.99140167236328,-81.05773162841797
+"29169","West Columbia","SC","Gym Broad River Trace","1126-1144 Riverhill Cir","29210",34.02280173161603,-81.07111855512298
+"29169","West Columbia","SC","Bridgepointe Fitness Center","100 Sunset Blvd","29169",33.99566650390625,-81.0545425415039
+"29169","West Columbia","SC","Abberly Village Fitness Center","1000 Abberly Village Cir","29169",34.01287078857422,-81.11316680908203
+"29169","West Columbia","SC","P90X House Of Fitness","827 Arrowwood Rd","29210",34.02378463745117,-81.08847045898438
+"29169","West Columbia","SC","BodyQuest Fitness 24 hour","2927 Platt Springs Rd","29170",33.959771754497176,-81.10558987731554
+"29169","West Columbia","SC","Fitness Center at Holiday Inn Hotel & Suites","110 McSwain Dr","26169",34.00463,-81.10891099999999
+"29169","West Columbia","SC","Brock And Nay's Gym","not_available","29201",34.019873339015234,-81.05451561704425
+"29169","West Columbia","SC","Kaylynn Pilates","Sunset","29169",33.99794321979627,-81.0849540601459
+"29169","West Columbia","SC","Staybridge Suites Gym","1913 Huger St","29201",34.00770950317383,-81.0497817993164
+"29170","West Columbia","SC","Spectrum Gym","3347 Platt Springs Rd, West Columbia, SC 29170","29170",33.9537060836387,-81.1207874351909
+"29201","Columbia","SC","Strom Thurmond Wellness and Fitness Center","University of South Carolina","29208",33.99165682577909,-81.03188018571224
+"29201","Columbia","SC","Drew Wellness Center","2101 Walker Solomon Way","29204",34.01800833930402,-81.02351871070384
+"29201","Columbia","SC","YMCA","1447 Hampton St","29201",34.00693458612318,-81.03106858626612
+"29201","Columbia","SC","Anytime Fitness","2808 Devine St","29205",33.99798,-81.00315
+"29201","Columbia","SC","Blatt PE Center","1300 Wheat St","not_available",33.99239286905955,-81.02581969493617
+"29201","Columbia","SC","MÜV Fitness","4114 Forest Drive","29206",34.0203769,-80.9812633
+"29201","Columbia","SC","Strong Foundations","3251 Forest Drive","29204",34.022609143702184,-80.99871057529784
+"29201","Columbia","SC","Synergy Personal Fitness","2927 Devine St","29205",33.99819564819336,-80.99921417236328
+"29201","Columbia","SC","Eastminster Presbyterian Church Gym","Trenholm rd","not_available",34.00816099423701,-80.99482454827567
+"29201","Columbia","SC","Estep Family Life Center","1306 Hampton St","29201",34.00485604791373,-81.0331421446623
+"29201","Columbia","SC","City of Columbia City Gym","1632 Hampton St","29201",34.0072021484375,-81.0278091430664
+"29201","Columbia","SC","Lyerly Personal Training Columbia SC","3014 Devine St #102","29205",33.997761,-80.9980282
+"29201","Columbia","SC","Pure Barre","2123 Greene St Ste A","29205",34.0007197,-81.0157721
+"29201","Columbia","SC","fit columbia","not_available","29205",33.997430751898925,-81.01617827783441
+"29203","Columbia","SC","Orangetheory Fitness","4708 Forest Dr","29206",34.01911,-80.969859
+"29203","Columbia","SC","The NEW Hookz & Jabz","1971 Legrand Rd","29223",34.091339111328125,-80.95068359375
+"29203","Columbia","SC","CYCLEBAR","4609 Forest Drive, Suite 4","29206",34.0200735,-80.9712919
+"29203","Columbia","SC","burn bootcamp","4507 forest drive","29206",34.02111053466797,-80.97270965576172
+"29203","Columbia","SC","gym","not_available","29223",34.0309785638464,-81.08402448531551
+"29203","Columbia","SC","Sonny Arnold Pro Fitness","4702 Forest Dr","29206",34.01939010620117,-80.97074127197266
+"29203","Columbia","SC","Courtyard Marriott Gym","not_available","29203",34.10417019287895,-80.95572618170006
+"29203","Columbia","SC","University of Personal Fitness","6539 Two Notch Rd","29223",34.058836,-80.966426
+"29203","Columbia","SC","Palmetto GBA Gym","17 Technology Cir","29203",34.09701919555664,-80.96624755859375
+"29203","Columbia","SC","New Life Fitness World","7000 Saint Andrews Rd","29212",34.075847106598516,-81.17665748698977
+"29203","Columbia","SC","TITLE Boxing Club Columbia-Harbison","275 Park Terrace Dr","29212",34.0726831,-81.1534362
+"29204","Columbia","SC","Carolina Crossfit","1825 Laurel St","29201",34.01290825976643,-81.02644778292397
+"29204","Columbia","SC","Verizon Wireless Gym","3400 Forest Dr","29204",34.01594741666667,-80.99077758333334
+"29204","Columbia","SC","PT/OT","2935 Colonial Dr","29203",34.02773666381836,-81.02906036376953
+"29205","Columbia","SC","F45 Training Forest Acres","4333 Fort Jackson Blvd","29205",33.991899,-80.974556
+"29205","Columbia","SC","Stronghold Gym","5910 Garners Ferry Rd","29209",33.982704162597656,-80.96953582763672
+"29205","Columbia","SC","P90x Room","424 Saluda Ave","29205",33.994541999999996,-81.017995
+"29205","Columbia","SC","Body Fit","Rosewood Drive","29205",33.977393,-80.987845
+"29206","Columbia","SC","Solomon Center Gym","Marion","29206",34.01475342901877,-80.93379653777586
+"29206","Columbia","SC","Perez Gym","4149 Sumter Ave","29207",34.01734736401441,-80.9466690510228
+"29206","Columbia","SC","Atrium Fitness Center at Blue Cross Blue Shield of SC","2401 Faraway Dr","29223",34.06593386447876,-80.91994862148329
+"29206","Columbia","SC","Forest Drive CrossFit","4714 Forest Dr","29206",34.018790746173565,-80.96850418369286
+"29206","Columbia","SC","Doctors Wellness Center","1 Monckton Blvd","29206",34.01497405642542,-80.96606950872645
+"29206","Columbia","SC","Coleman Gym","Fort Jackson","29207",34.01892421922673,-80.93577760391192
+"29207","Columbia","SC","BlueCross BlueShield Gym","4101 Percival Rd","29229",34.0899785321088,-80.85946433604529
+"29207","Columbia","SC","Newbody Fat Loss & Fitness","9300 Two Notch Rd","29223",34.096748999999996,-80.921137
+"29207","Columbia","SC","Jewish Community Center (JCC)","306 Flora Dr","29223",34.10273496013636,-80.93035613380339
+"29207","Columbia","SC","Nutrition Warehouse","9600 Two Notch Rd #14","29223",34.10121536254883,-80.909423828125
+"29207","Columbia","SC","Snap Fitness","843-2 Polo Rd","29223",34.08194725490866,-80.8898289195064
+"29209","Columbia","SC","The Retreat - Phase 2 Gym","1929 Bluff Rd","29201",33.959744,-80.999651
+"29210","Columbia","SC","24/7 Health & Fitness Center","3827 Broad River Rd","29210",34.059199,-81.112837
+"29210","Columbia","SC","Iron Tribe Fitness","735 Saturn Pkwy Ste 100","29212",34.07261276245117,-81.1483154296875
+"29210","Columbia","SC","The Crestmont Gym","The Crestmont Apts","29212",34.07629274693009,-81.14668545446136
+"29210","Columbia","SC","Pivotal Fitness","4350 Saint Andrews Rd","29210",34.04816919144474,-81.15059237404739
+"29210","Columbia","SC","Fitness Center at Reserve at Riverwalk","4501 Bentley Dr","29210",34.03404148189797,-81.07644392362191
+"29212","Columbia","SC","IMS Gym","Wescott rd","not_available",34.070991829599976,-81.17829838805991
+"29223","Columbia","SC","Bodysmith Fitness Training","8810 Farrow Rd Ste F","29203",34.104794,-80.953475
+"29223","Columbia","SC","Boot camp","Hastings point club house","29203",34.099552,-80.992331
+"29301","Spartanburg","SC","10 Star Fitness","2700 Reidville Rd","29301",34.91814601335939,-82.00320623809807
+"29301","Spartanburg","SC","Westside Club","Willis Road","not_available",34.93088629901814,-82.0105732013682
+"29301","Spartanburg","SC","Anytime Fitness","163 Hadden Hts Rd","29301",34.9348364,-82.01001213
+"29301","Spartanburg","SC","Horton/Lawson Gym","not_available","29334",34.897244,-82.064335
+"29301","Spartanburg","SC","The Treadmill","not_available","29301",34.935137960506516,-81.98046800491969
+"29301","Spartanburg","SC","Carolina Cheerleading","219 northeast dr","29303",34.96887895,-82.02066108333334
+"29301","Spartanburg","SC","Admissions Gym","not_available","29303",34.96840281346852,-81.93842728986469
+"29301","Spartanburg","SC","River Run Clubhouse","901 Meridian River Run","29301",34.906909999999996,-82.02586099999999
+"29301","Spartanburg","SC","ZX Fitness","309 peachwood center dr","29301",34.93366,-81.996403
+"29301","Spartanburg","SC","One-On-One Fitness, LLC","144 Hwy 295","not_available",34.916263580322266,-81.96929931640625
+"29301","Spartanburg","SC","Body Sculptors, LLC","1529 John B. White Boulevard Suite D","29301",34.92325537650303,-81.97384357452391
+"29301","Spartanburg","SC","Curves","217 E Blackstock Rd","29301",34.927982330322266,-81.98748779296875
+"29302","Spartanburg","SC","Robbie Stephens Torture Chamber","not_available","29302",34.938436,-81.869391
+"29302","Spartanburg","SC","CYCLEBAR","120 W Saint John St","29306",34.9515495300293,-81.93351745605469
+"29302","Spartanburg","SC","Nautilus Fitness Center","160 S Church St","29306",34.94797412952466,-81.93121490355823
+"29302","Spartanburg","SC","YMCA","151 Ribault St","29302",34.94705979755698,-81.91788365972677
+"29303","Spartanburg","SC","Trinity Health & Fitness","1650 Skylyn Dr","29307",34.977173563149506,-81.89833653188306
+"29303","Spartanburg","SC","EDC CrossFit","3124A Boiling Springs Rd","29316",35.04017843647438,-81.97523924810453
+"29303","Spartanburg","SC","Inman Health and Fitness","185 Land Grant Rd","29349",35.03569272252653,-82.06836689994816
+"29303","Spartanburg","SC","Crossfit Spartanburg","330 Tenosha Dr","29334",34.997833251953125,-81.98448181152344
+"29303","Spartanburg","SC","Anytime Fitness","1040 Fernwood Glendale Rd Ste 26","29307",34.96717,-81.89234
+"29303","Spartanburg","SC","Rock Solid Fitness And Beyond","1045 Fernwood Glendale Rd","29307",34.966084,-81.891503
+"29303","Spartanburg","SC","Pure Barre","1200 E Main St Ste 7","29307",34.962895,-81.902579
+"29303","Spartanburg","SC","Cops Gym @ Sheriffs Office","8045 Howard St","29303",34.984161376953125,-81.97679138183594
+"29306","Spartanburg","SC","Dorman Practice Gym","Cavalier Way","29376",34.84784639136904,-81.97255394463474
+"29306","Spartanburg","SC","F45 Training Roebuck","4795 S Church St Ext","29376",34.870823,-81.958355
+"29307","Spartanburg","SC","Orangetheory Fitness","1985 E Main St","29307",34.96898651123047,-81.88697052001953
+"29307","Spartanburg","SC","9Round Fitness","2225 E Main St","29307",34.97605616,-81.87613195
+"29316","Boiling Springs","SC","Anytime Fitness","3621 Boiling Springs Rd.","29316",35.04464507,-81.98135593
+"29316","Boiling Springs","SC","Fitness Edge","not_available","29316",35.0560212597314,-81.99332250947698
+"29316","Boiling Springs","SC","Ideal Shape LLC","5075 Highway 9","29349",35.0683956,-82.0102003
+"29322","Campobello","SC","9Round Fitness","13041 Asheville Hwy","29349",35.04915048,-82.10626192
+"29325","Clinton","SC","CrossFit864","not_available","29325",34.47290153795555,-81.8821733003739
+"29334","Duncan","SC","YMCA","720 Shoals Rd","29334",34.89771026017117,-82.08549322794974
+"29334","Duncan","SC","abner creek fittness center","not_available","29651",34.875671437876804,-82.14708921949541
+"29334","Duncan","SC","Anytime Fitness","2153 E Main St Ste. A-1","29334",34.88817,-82.06791
+"29334","Duncan","SC","Workout Anytime","700 E Main St, Ste 8C","29334",34.92760087214065,-82.12324261665344
+"29340","Gaffney","SC","Cherokee County YMCA","390 Whelchel Rd","29341",35.10084180807654,-81.68785434265406
+"29340","Gaffney","SC","Timken Gym","limestone college","29340",35.05516369127533,-81.65161558243452
+"29340","Gaffney","SC","Workout Anytime","108 Wilkinsville Hwy","29340",35.05603192410323,-81.63967251777649
+"29340","Gaffney","SC","Carolina Cheer And Dance","not_available","29341",35.07051086425781,-81.67680358886719
+"29340","Gaffney","SC","Your Best Body","1844 Old Georgia Hwy","29340",35.05916589602641,-81.67784792818193
+"29349","Inman","SC","coach's","not_available","29385",35.02167510986328,-82.12750244140625
+"29360","Laurens","SC","YMCA","410 Anderson Dr","29360",34.504364749911375,-82.03458924564517
+"29360","Laurens","SC","L.F.C","not_available","29360",34.50050183462224,-82.04824646831653
+"29365","Lyman","SC","9Round Greer","201 W Wade Hampton Blvd","29650",34.95782048761883,-82.17586439967228
+"29365","Lyman","SC","The Gym at Gabriel Point","not_available","29365",34.966731,-82.129389
+"29369","Moore","SC","Dorman Gym","not_available","29376",34.86106872558594,-81.98039245605469
+"29379","Union","SC","onlyusladiesfitness","708 S Duncan Byp Ste C","29379",34.702816009521484,-81.63177490234375
+"29379","Union","SC","Union YMCA","106 Lakeside Dr","29379",34.716835021972656,-81.6158218383789
+"29379","Union","SC","Body Masters Gym","not_available","29379",34.698296,-81.617656
+"29388","Woodruff","SC","Reidville Gym","not_available","29388",34.856510162353516,-82.09889221191406
+"29388","Woodruff","SC","Anytime Fitness","450 Pelham Rd","29515",34.85663466082049,-82.12789043897774
+"29388","Woodruff","SC","The Gym","not_available","29644",34.75953404706282,-82.15189740285535
+"29401","Charleston","SC","MUSC Wellness Center","45 Courtenay Dr","29425",32.7854504515306,-79.95208615658231
+"29401","Charleston","SC","Eco Fitness Gym","69B Wentworth St","29401",32.7829676806116,-79.93303440118585
+"29401","Charleston","SC","Long Training Studios","145 Saint Philip St","29403",32.78949287130795,-79.94082809430174
+"29401","Charleston","SC","F45 Training Downtown Charleston","476 Meeting St","29403",32.79561096,-79.93999761
+"29401","Charleston","SC","Embassy Suites Charleston Historic District Gym","not_available","29403",32.78755187988281,-79.93626403808594
+"29401","Charleston","SC","Willard A. Silcox Physical Education And Health Center","20 George St.","29401",32.78512783818154,-79.93379831314087
+"29401","Charleston","SC","Renaissance Gym","68 Wentworth St","29401",32.783016204833984,-79.93358612060547
+"29401","Charleston","SC","Pure Barre Market Street","164 Market St Unit C","29401",32.78071353287142,-79.93462122983914
+"29401","Charleston","SC","Promethean Coaching","Charleston","29414",32.786868644394225,-79.94104564189911
+"29401","Charleston","SC","Sgt. Jasper Gym","310 Broad St","29401",32.775699615478516,-79.94294738769531
+"29401","Charleston","SC","CrossFit Discovery","80 1/2 Society St","29401",32.78395770886808,-79.93379088403
+"29401","Charleston","SC","East Shore Athletic Club","80 Wentworth St","29401",32.78235119609679,-79.93490507985896
+"29401","Charleston","SC","Bluefish Fitness Club","360 Concord St","29401",32.79157601401796,-79.92670128792916
+"29401","Charleston","SC","Poundtown 207","207 Coming St Apt A","29403",32.79064178466797,-79.94316864013672
+"29401","Charleston","SC","Cannon Street YMCA","61 Cannon St","29403",32.790112,-79.94447331
+"29401","Charleston","SC","Bee Street Lofts Gym","150 Bee St","29401",32.78498432357337,-79.9550168604344
+"29401","Charleston","SC","Sunlighten Saunas Charleston","200 Meeting St","29401",32.782331653271484,-79.93159890174866
+"29401","Charleston","SC","Courtyards Gym","411 Meeting St","29403",32.791609,-79.93811600000001
+"29403","Charleston","SC","IB Performance Training","796 Meeting St","29403",32.809836,-79.947857
+"29403","Charleston","SC","Exercise Room - Holiday Inn Riverview","301 Savannah Hwy","29407",32.781089782714844,-79.965087890625
+"29403","Charleston","SC","Pale Horse Crossfit","62 Brigade St Unit C6","29403",32.81144714355469,-79.94673156738281
+"29404","Charleston Afb","SC","Fitness & Sports Center","W. Hill Blvd","29404",32.895569861118155,-80.05779683589935
+"29404","Charleston Afb","SC","Hampton Oaks Weight Room","not_available","29406",32.91916,-80.0269
+"29404","Charleston Afb","SC","SCE&G Fitness Center","West Aviation Ave.","29406",32.902002,-80.027544
+"29404","Charleston Afb","SC","Pax Terminal Gym!","Bates St","29404",32.89558336510693,-80.04929283738156
+"29404","Charleston Afb","SC","JB Charleston Crossfit","Joint Base Charleston","29404",32.89565509256125,-80.0575442768557
+"29405","North Charleston","SC","Planet Fitness","5060 Dorchester Rd","29418",32.8581577,-80.0339779
+"29405","North Charleston","SC","Pivotal Fitness","1401 Sam Rittenberg Blvd","29407",32.81308801836633,-79.995895303273
+"29405","North Charleston","SC","Pumpin Iron, Giving Wood A New Stand","1164 Braddock Ave","29405",32.889591217041016,-79.98255920410156
+"29405","North Charleston","SC","NESU POWER PLANT","1050 Register St","29405",32.846839904785156,-79.93681335449219
+"29405","North Charleston","SC","City Hall Gym","2500 City Hall Ln","29406",32.876121520996094,-80.01200103759766
+"29405","North Charleston","SC","Charleston Plaza Fitness Center","4770 Goer Dr","29406",32.872276306152344,-80.0098876953125
+"29405","North Charleston","SC","FLETC Gymnasium","Bldg 46 Barracks Rd","29405",32.847766,-79.939647
+"29405","North Charleston","SC","JCC","not_available","29407",32.81271017599883,-80.01794438987731
+"29405","North Charleston","SC","Title Boxing Club Charleston - West Ashley","2245 Ashley Crossing Dr Ste 16","29414",32.8129768371582,-80.03974914550781
+"29405","North Charleston","SC","This Time Fitness","2408 Ashley River Rd","29414",32.826725006103516,-80.03897094726562
+"29405","North Charleston","SC","Park Circle CrossFit","4151 Spruill Ave Ste 300","29405",32.87044906616211,-79.9803695678711
+"29405","North Charleston","SC","CGFS Gym","1969 Dyess Ave","29405",32.84776306152344,-79.9438705444336
+"29405","North Charleston","SC","WC Gym","3445B Buffalo St","29418",32.858213782310486,-80.02259016036987
+"29405","North Charleston","SC","Plantation Oaks Fitness Center","2225 Ashley River Rd","29414",32.816255,-80.034674
+"29406","Charleston","SC","Palmetto Fitness","7665 Northwoods Blvd","29406",32.9400634765625,-80.04800415039062
+"29406","Charleston","SC","Got Muscle PT","2138 Ashley Phosphate Rd #103","29406",32.936842,-80.04097800000001
+"29406","Charleston","SC","Full Spectrum Fitness","2245 Tall Fern Ct","29406",32.957166,-80.051511
+"29406","Charleston","SC","O2 Fitness - Hanahan","1005 Tanner Ford Blvd #201","29410",32.932866551740396,-79.99897145415731
+"29406","Charleston","SC","The FROG","1505 Egret Creek Ct","29410",32.9525146484375,-80.01933288574219
+"29406","Charleston","SC","Crunch Fitness - North Charleston","7800 Rivers Avenue","29406",32.9494716,-80.03927689999999
+"29406","Charleston","SC","Pine Lakes Gym","not_available","29445",32.96690902717249,-80.00693726787674
+"29406","Charleston","SC","Select Fitness","7800 Rivers Ave","29406",32.949224111535656,-80.0398058432227
+"29406","Charleston","SC","O2 Fitness - Goose Creek","214 Saint James Ave","29445",32.99881137255251,-80.03876456100163
+"29407","Charleston","SC","Crossfit Integrity","1012 Saint Andrews Blvd","29407",32.79389524759149,-79.9902887731687
+"29407","Charleston","SC","Aerial Fit","1045 5th Ave","29407",32.79523228197544,-79.99136418082595
+"29407","Charleston","SC","Complete Nutrition - Charleston","2000 Sam Rittenberg Blvd, Suite 120","29407",32.7948702636286,-80.02810435558801
+"29407","Charleston","SC","O2 Fitness - West Ashley","1119 Wappoo Rd","29407",32.799892,-80.015893
+"29407","Charleston","SC","Iron Bridge Crossfit","1038 Jenkins Rd","29407",32.79794692993164,-80.01979064941406
+"29407","Charleston","SC","Abberly at West Ashley Fitness Room","not_available","29414",32.798154249768885,-80.03629194969422
+"29407","Charleston","SC","Compass Fitness","1890 Sam Rittenberg Boulevard","29407",32.799647,-80.0221181
+"29407","Charleston","SC","Pure Barre","1300 Savannah Hwy","29407",32.78539274735525,-80.00106069998265
+"29407","Charleston","SC","Progressive Fittness","47 Windermere Blvd","29407",32.776099,-79.975273
+"29407","Charleston","SC","Barre Evolution (Charleston)","70 Folly Road Blvd","29407",32.7771155,-79.9739013
+"29407","Charleston","SC","Jazzercise","1964 Ashley River Rd","29407",32.80896759033203,-80.02372741699219
+"29410","Hanahan","SC","Cmma","1750 Remount Rd","29406",32.90100860595703,-80.00871276855469
+"29410","Hanahan","SC","Garage Of Destruction","Peregrine Ct","29410",32.957371961058854,-80.0389064747409
+"29412","Charleston","SC","Crescent Fitness","719 Folly Rd","29412",32.743687,-79.9699
+"29412","Charleston","SC","Exemplar Fitness","not_available","29412",32.75756468085762,-79.97741084004561
+"29412","Charleston","SC","Center Of The Edge Wellness","1120 Folly Rd","29412",32.726082,-79.96730699999999
+"29412","Charleston","SC","Curves","1175 Folly Rd","29412",32.723967,-79.967961
+"29412","Charleston","SC","CrossFit Wappoo","325 Folly Rd","29412",32.76026153564453,-79.9755630493164
+"29412","Charleston","SC","Gym at Regatta on James Island","1755 Central Park Rd","29412",32.74700104793443,-79.97485357004284
+"29412","Charleston","SC","The Retreat Gym","1025 Riverland Woods Pl","29412",32.717352000000005,-79.973287
+"29412","Charleston","SC","Gold's Gym","1291 Folly Rd","29412",32.71622646903605,-79.96746239436112
+"29412","Charleston","SC","The Peninsula Gym","700 Daniel Ellis Dr","29412",32.751163482666016,-79.96575164794922
+"29412","Charleston","SC","East West Health Arts","792 Folly Rd","29412",32.74026178209749,-79.96679781804635
+"29412","Charleston","SC","Premier Fitness","455 Fleming Rd, Charleston, SC 29412","29412",32.753161548347045,-79.98394727657143
+"29412","Charleston","SC","CrossFit James Island","1750 Signal Point Rd","29412",32.70972476978876,-79.96760381764157
+"29414","Charleston","SC","Cypress Cove Gym","Mary Ader Ave","29414",32.82087192709633,-80.06265737297797
+"29414","Charleston","SC","Home Gym","2747 Mona Ave","29414",32.838561999999996,-80.057951
+"29414","Charleston","SC","CHUCKTOWN FITNESS","3750 Savannah Hwy, F","29455",32.80386,-80.1179539
+"29414","Charleston","SC","Heron Reserve Gym","Waterstone Ln","29414",32.8131581,-80.06035
+"29414","Charleston","SC","Adrenaline Performance Training","1662 Savannah Hwy","29407",32.7881829,-80.03402499999999
+"29418","North Charleston","SC","East Shore Athletic Club","8545 Dorchester Rd","29420",32.9182324804989,-80.11559857457151
+"29418","North Charleston","SC","Work Out Z one","not_available","29418",32.92139,-80.109216
+"29418","North Charleston","SC","Burn Boot Camp","8600 Dorchester Rd","29420",32.92101,-80.11686
+"29420","North Charleston","SC","Title Boxing Club","340 - 9500 Dorchester Rd","29485",32.9353177956505,-80.13994802452913
+"29420","North Charleston","SC","TITLE Boxing Club Charleston Wescott","9500 Dorchester Road","29485",32.93615718,-80.14035349
+"29420","North Charleston","SC","Body Smart","9000 Parlor Dr","29456",32.95869827270508,-80.14887237548828
+"29429","Awendaw","SC","O2 Fitness - Park West","3301 Stockdale St","29466",32.87683087190845,-79.78066459237144
+"29429","Awendaw","SC","Tennyson Row Gym","1771 1/2","not_available",32.901108,-79.793628
+"29429","Awendaw","SC","CrossFit Park West","3400 Turgot Ln","29466",32.883959999999995,-79.78554399999999
+"29429","Awendaw","SC","Pure Barre","1133 Oakland Market Rd Ste M","29466",32.862863,-79.785706
+"29429","Awendaw","SC","Snap Fitness","not_available","29466",32.85973855388202,-79.79663583129354
+"29429","Awendaw","SC","EatFit LiveFit + CrossFit","1118 Park West Blvd","29466",32.8747641438693,-79.77766291963715
+"29429","Awendaw","SC","Orangetheory Fitness","1137 Oakland Market Rd","29466",32.862879,-79.785443
+"29431","Bonneau","SC","O2 Fitness - Moncks Corner","414 Drive in Ln","29461",33.207783,-79.985325
+"29431","Bonneau","SC","Anytime Fitness","484 N US-52","29461",33.20711,-79.98293
+"29437","Dorchester","SC","New Image Fitness","not_available","29477",33.10321580986322,-80.3108947330383
+"29438","Edisto Island","SC","Dings Workout Room","1234 Dings Street","not_available",32.493178,-80.331027
+"29440","Georgetown","SC","Anytime Fitness","907 N Fraser St","29440",33.38424,-79.288
+"29440","Georgetown","SC","Parks & Rec Gym","not_available","29440",33.39626314001512,-79.47609844710747
+"29440","Georgetown","SC","Larry's Gym","not_available","29585",33.44142304722799,-79.152776721028
+"29440","Georgetown","SC","YMCA Gym","Browns ferry road.","not_available",33.42280960083008,-79.28990936279297
+"29440","Georgetown","SC","Stingrays Gym","8435 Ocean Hwy #2","29585",33.42610168457031,-79.15906524658203
+"29440","Georgetown","SC","winyah fitness center","929 Front St","29440",33.367679595947266,-79.2860336303711
+"29445","Goose Creek","SC","Eagle Fitness","1600 Charleston Regional Pkwy","29492",32.912079999999996,-79.90910699999999
+"29445","Goose Creek","SC","World Fitness 24hrs","across from Walmart","29445",33.0352416876912,-80.06549340317163
+"29446","Green Pond","SC","Omni Health And Fitness","2127-18 Boundary St, B","29902",32.44388364050692,-80.69183781057862
+"29446","Green Pond","SC","Gym @ Holiday Inn","2225 Boundary St","29902",32.443090000000005,-80.695854
+"29450","Huger","SC","Kidsfit","2130 Cainhoy Rd","29450",33.001096000000004,-79.84791899999999
+"29451","Isle Of Palms","SC","Pavillion Fitness Center","5757 Palm Blvd","29451",32.805538177490234,-79.7386703491211
+"29455","Johns Island","SC","The Sanctuary Fitness Center","not_available","29455",32.61171222747814,-80.09214044299766
+"29455","Johns Island","SC","Anytime Fitness","3575 Maybank Hwy","29455",32.720987,-80.078687
+"29455","Johns Island","SC","River Course Fitness Center","10 River Course Ln","29455",32.61188888549805,-80.09919738769531
+"29456","Ladson","SC","Planet Fitness","368 E 5th North St","29483",33.0211472,-80.1610825
+"29456","Ladson","SC","Pivotal Fitness","1645 Old Trolley Rd","29485",32.963718398684485,-80.16464706366627
+"29456","Ladson","SC","U-Flex Fitness","not_available","29483",33.018436,-80.13472
+"29456","Ladson","SC","Crunch Fitness - Summerville","4564 Ladson Road","29485",32.95688633,-80.16140457
+"29456","Ladson","SC","CrossFit Summerville","1668 Old Trolley Rd","29485",32.96129335429738,-80.16533400096127
+"29456","Ladson","SC","Gallo-tep","not_available","29456",32.97388458251953,-80.13583374023438
+"29456","Ladson","SC","Practical Fitness","113 College Park Rd Ste B","29456",32.991692,-80.101439
+"29456","Ladson","SC","CrossFit Sacred Pine","9559 Hamburg Rd","29456",32.981853,-80.11579
+"29456","Ladson","SC","Orangetheory Fitness","1101 N Main St","29483",33.031895,-80.16280549999999
+"29456","Ladson","SC","Fitness For Life","103 - A Harth place","29456",32.969695,-80.147497
+"29456","Ladson","SC","Ladies Choice Fitness","not_available","29485",32.96027777777778,-80.16388888888889
+"29456","Ladson","SC","Anytime Fitness","4500 Ladson Rd Ste 21","29456",32.95831,-80.15985
+"29456","Ladson","SC","CrossFit Influx","257 Treeland Dr","29456",33.015822,-80.11806700000001
+"29456","Ladson","SC","iLoveKickboxing - Summerville, SC","9730 Dorchester Rd, Suite 204","29485",32.948289,-80.1550144
+"29456","Ladson","SC","iLoveKickboxing - Summerville","9730 Dorchester Rd Unit 204","29485",32.948478067609784,-80.15388787221377
+"29456","Ladson","SC","The Gym!","Ingleside","not_available",32.97370079017919,-80.07809649497763
+"29456","Ladson","SC","Body Sculpting","1815 Old Trolley Rd","29485",32.956817626953125,-80.16473388671875
+"29461","Moncks Corner","SC","Bold Fitness","401 Front St","29486",33.04111,-80.143574
+"29461","Moncks Corner","SC","TITLE Boxing Club Summerville","1000 Nexton Square Drive","29486",33.04120440853035,-80.14175534248352
+"29461","Moncks Corner","SC","Bold Fitness","N. Main St","29483",33.03968691329509,-80.13794241655404
+"29461","Moncks Corner","SC","YMCA","Rembert C. Dennis Blvd.","29461",33.18853,-79.990486
+"29461","Moncks Corner","SC","YMCA @ Oakbrook","W Doty St","29483",32.97765785539402,-80.17212591949315
+"29461","Moncks Corner","SC","Curves","Old Trolley Rd","29485",32.967957859471184,-80.16714468195411
+"29464","Mount Pleasant","SC","Golds’s Gym","730 Coleman Blvd","29464",32.79349136352539,-79.86847686767578
+"29464","Mount Pleasant","SC","Hampton inn Gym","not_available","29492",32.865626,-79.912305
+"29464","Mount Pleasant","SC","Old Village Basketball Courts","316 King St","29464",32.7864875793457,-79.87419128417969
+"29464","Mount Pleasant","SC","Pure Barre","919 Houston Northcutt Blvd","29464",32.80244135499115,-79.88849032759532
+"29464","Mount Pleasant","SC","Southampton Pointe Gym","not_available","29464",32.823583,-79.846251
+"29464","Mount Pleasant","SC","Synergy Fitness","Johnnie Dodds","29464",32.80694243158634,-79.87864458914544
+"29464","Mount Pleasant","SC","Gym-Daniel Island Village","777 Ballin Street","not_available",32.86639345807922,-79.91289419367628
+"29464","Mount Pleasant","SC","DUFF","539 Long Point Rd Ste 201B","29464",32.83940887451172,-79.8687515258789
+"29464","Mount Pleasant","SC","O2 Fitness - Coleman","G, 320 West Coleman Boulevard","29464",32.797760009765625,-79.88890838623047
+"29464","Mount Pleasant","SC","The Gym","The Meridian","29466",32.834220783452594,-79.82199499424733
+"29464","Mount Pleasant","SC","O2 Fitness - Long Point","677 Long Point Rd #101","29464",32.841182708740234,-79.85973358154297
+"29464","Mount Pleasant","SC","CYCLEBAR","1601 Palmetto Grande Dr Ste I-7","29464",32.829537,-79.829091
+"29464","Mount Pleasant","SC","Yoga Daily","1965 Riviera Dr #2A","29464",32.82126235961914,-79.81684875488281
+"29464","Mount Pleasant","SC","Defining Fitness","878 Whipple Rd Ste 100","29464",32.83138656616211,-79.845458984375
+"29464","Mount Pleasant","SC","Crossfit Frequency","589 Belle Hall Pkwy Ste D","29464",32.84163163022899,-79.85924551834357
+"29464","Mount Pleasant","SC","Orangetheory Fitness","695 Johnnie Dodds Blvd","29464",32.80741470596819,-79.877447627998
+"29464","Mount Pleasant","SC","Karma Balance Massage Therapy & Bodywork","886 Johnnie Dodds Boulevard","29464",32.81169538,-79.870007
+"29464","Mount Pleasant","SC","Breathe Pilates Studio & Spa","664 Long Point Rd","29464",32.84144973754883,-79.85404968261719
+"29464","Mount Pleasant","SC","Velocity Sports Performance","411 Wando Park Blvd","29464",32.84560441550208,-79.87634261863897
+"29466","Mount Pleasant","SC","Snee Farm Running Route","Snee Farm Pkwy","29464",32.83846448990998,-79.82310269569777
+"29466","Mount Pleasant","SC","Next Level Fitness, LLC.","Lauda Dr","not_available",32.828935278535404,-79.83901977539062
+"29466","Mount Pleasant","SC","RockBox Fitness Mount Pleasant","1168 Basketweave Dr","29466",32.8391521,-79.81702659999999
+"29466","Mount Pleasant","SC","Montclair","1861 Montclair Dr","29464",32.83177947998047,-79.83222961425781
+"29466","Mount Pleasant","SC","Long Grove Fitness Center","1600 Long Grove Dr","29464",32.818580627441406,-79.81321716308594
+"29466","Mount Pleasant","SC","CorePower Yoga","1711 Shoremeade Road, Suite 130","29464",32.8307821,-79.8369653
+"29466","Mount Pleasant","SC","Central Square Gym","1280 Appling Dr","29464",32.807979583740234,-79.84612274169922
+"29466","Mount Pleasant","SC","Fitness Together","1136 Hungry Neck Blvd","29464",32.8294962,-79.823488
+"29468","Pineville","SC","Gerardo Gym","Pokemon Badge Ln","29468",33.436436,-80.016426
+"29472","Ridgeville","SC","East Shore Athletic Club","829 Orangeburg Rd","29483",33.006937546517705,-80.23708710020163
+"29472","Ridgeville","SC","Gym / Fitness Center","975 Bacons Bridge Rd","29485",32.99649860990658,-80.1829433441162
+"29472","Ridgeville","SC","Cleaning","104 English Rd","29483",32.99181365966797,-80.22369384765625
+"29472","Ridgeville","SC","ufc on fox","not_available","29420",32.99288448386747,-80.19327931887736
+"29472","Ridgeville","SC","Summerville High School Big Gym","1101 Boone Hill Rd","29483",32.99477005004883,-80.21935272216797
+"29472","Ridgeville","SC","Ymca Gym At The Ponds","125 Heart Pine Cir","29485",32.94649124145508,-80.24588012695312
+"29482","Sullivans Island","SC","Prime Time Fitness","not_available","29482",32.762451,-79.837994
+"29483","Summerville","SC","YMCA Of Summerville","204 W Doty Ave","29483",33.02076774006338,-80.17748056929501
+"29488","Walterboro","SC","curves","1102 Jefferies Hwy, Walterboro, SC 29488","29488",32.91691970825195,-80.66695404052734
+"29501","Florence","SC","Orangetheory Fitness","1901 W Palmetto St","29501",34.18952178955078,-79.80523681640625
+"29501","Florence","SC","Extreme Fitness","1518 Meadors Rd.","29505",34.16650042579768,-79.76236018688122
+"29501","Florence","SC","Zumba In My Living Room","not_available","29505",34.162028942392055,-79.8060365262815
+"29501","Florence","SC","Florence Tennis Facility","casual Dr","not_available",34.21135593682777,-79.79114534522893
+"29501","Florence","SC","Fitness Forum","120 E Elm St","29506",34.190054166906975,-79.76425182671737
+"29501","Florence","SC","Florence Family YMCA","Wakefield St","not_available",34.16167607575733,-79.77222636659778
+"29501","Florence","SC","Anytime Fitness","2515 S. Cashua Dr.","29505",34.16706,-79.82615
+"29501","Florence","SC","Extreme Cheer","1518 S Meadows Farm Rd Unit D","29505",34.199957,-79.777444
+"29501","Florence","SC","McLeod Health and Fitness Center","2437 Willwood Dr","29501",34.186293055150465,-79.81961031011811
+"29510","Andrews","SC","All About Fitness","4800  Hwy  377","not_available",33.5627238946753,-79.86559959112066
+"29511","Aynor","SC","AYNOR HEALTH & FITNESS","843 N MAIN ST","29511",33.99900881852466,-79.20085155983482
+"29520","Cheraw","SC","Cheraw Country Club Gym","State Road S-13-148","29520",34.65017725,-79.89294783333334
+"29526","Conway","SC","Orangetheory Fitness","7753 N Kings Hwy","29572",33.7485224,-78.817691
+"29526","Conway","SC","Claire Chapin Epps Family YMCA","5000 Claire Chapin Epps Dr","29577",33.746233478008406,-78.84579619353103
+"29526","Conway","SC","Tuscany Gym","not_available","29579",33.729648988419356,-78.96110281076885
+"29526","Conway","SC","Marriott Ocean Watch Gym","8500 Costa Verda Dr","29572",33.748713,-78.806662
+"29526","Conway","SC","Conway Wellness & Fitness Center","2369 Cypress Cir","29526",33.78422729019926,-78.99993775543103
+"29526","Conway","SC","Long beach resort Gym","not_available","29572",33.74055480957031,-78.8189697265625
+"29526","Conway","SC","Dough Jo","3587 B Townsend Ln.","29527",33.81466990010186,-79.10528079027534
+"29526","Conway","SC","Seaside Grove Gym","101 Augusta Plantation Dr","29579",33.73702621459961,-78.89948272705078
+"29526","Conway","SC","Crossfit Asperitas","208 Ronnie Ct","29579",33.76176199689316,-78.96085980165626
+"29526","Conway","SC","Alta Surf Gym","101 Breakers Dr","29579",33.76230020498539,-78.85232353737065
+"29526","Conway","SC","180 Degree Fitness","4036 River Oaks Dr #4","29579",33.754869,-78.86493320000001
+"29526","Conway","SC","American 24hrs Health Fitness","2000 Carolina Forest Blvd","29579",33.75731110527655,-78.96308552136688
+"29526","Conway","SC","Savannah Shores Fitness Center","9710 Chestnut Road","not_available",33.779433,-78.787248
+"29526","Conway","SC","Anytime Fitness Forestbrook","3471 Belle Terre Blvd","29579",33.732459,-78.948911
+"29526","Conway","SC","Myrtle Beach Body Fitness","not_available","29526",33.791142,-78.999975
+"29526","Conway","SC","The gym","not_available","29588",33.75254821777344,-79.00950622558594
+"29526","Conway","SC","Fitness Edge","3881 Renee Dr","29579",33.76047758525353,-78.96321477224303
+"29526","Conway","SC","Be Like Mike Fitness","6299 Doyle Lane","29526",33.939799658257385,-78.94835472106934
+"29526","Conway","SC","MegaFitness Center","9654 N Kings Hwy","29572",33.775781906158215,-78.79137525281229
+"29526","Conway","SC","Carolina Gym","Carolina Lakes","29588",33.746538226847754,-79.0130816619407
+"29526","Conway","SC","One Punch Fitness","4036-5 River Oaks Dr","29579",33.75458076800351,-78.86514907178876
+"29527","Conway","SC","Jungle Gym 24/7","not_available","29527",33.847034971035775,-79.06217462307208
+"29527","Conway","SC","Wicked Fitness","640 U.S. 17 Business","29575",33.609002709938444,-79.04818767462312
+"29536","Dillon","SC","ThaBox","1324 Highway 917 W 1324 Highway 917 W","29565",34.3140082,-79.396309
+"29536","Dillon","SC","Wellness Center","Commerce Drive","not_available",34.441100783231086,-79.35686033139686
+"29550","Hartsville","SC","Fitness World","821 S 5th St","29550",34.36381096361196,-80.06649881715128
+"29550","Hartsville","SC","Russell's Ultimate Fitness","146 W Carolina Ave","29550",34.37382888793945,-80.0753402709961
+"29556","Kingstree","SC","Mind Body & Soul Fitness","129 Mill Street","29556",33.663038,-79.83212
+"29560","Lake City","SC","IH3 Wellness Center","148 Sauls St","29560",33.873305,-79.7526681
+"29566","Little River","SC","Mar Vista Grande exercise room","not_available","29582",33.815620015447124,-78.68046700024637
+"29566","Little River","SC","North Myrtle Beach Aquatic & Fitness Center","1100 2nd Ave S","29582",33.82916237521794,-78.68450246544069
+"29566","Little River","SC","Curves","Beach Drive","28467",33.89052069,-78.57918425
+"29566","Little River","SC","Zumba","not_available","29568",33.885832,-78.68954
+"29566","Little River","SC","Horry County Recreation Center","not_available","29566",33.881853,-78.667573
+"29566","Little River","SC","Gym At Sands","Shore Dr, Myrtle Beach, SC 29572","29572",33.81468095425947,-78.7160857228121
+"29566","Little River","SC","Garage Gym","606 Charter Dr","29568",33.90099343333333,-78.68393355
+"29566","Little River","SC","Body by Croft","4350 Spa Dr Apt 506","29566",33.866092681884766,-78.65619659423828
+"29566","Little River","SC","CrossFit North Myrtle Beach","383 Strand Industrial Dr","29566",33.86149978637695,-78.66120910644531
+"29566","Little River","SC","Category Five Fitness","304 Highway 90 E","29566",33.86006546020508,-78.65234375
+"29569","Loris","SC","The Loris Center for Health & Fitness","3207 Casey St","29569",34.058467864990234,-78.89909362792969
+"29571","Marion","SC","Club-fit briarcliff","not_available","10510",34.22714,-79.38428
+"29575","Myrtle Beach","SC","Myrtle Beach Resort Exercise Room","5905 S Kings Hwy","not_available",33.62879141218623,-78.95320470232456
+"29575","Myrtle Beach","SC","BCBS gym","not_available","29575",33.63675187950111,-78.98848528872952
+"29575","Myrtle Beach","SC","The Gym","421 Pennington Loop","29588",33.64228820800781,-78.99302673339844
+"29575","Myrtle Beach","SC","Crossfit Vengence","3254 Holmestown Rd","29588",33.625926,-79.00927
+"29575","Myrtle Beach","SC","Her Body & Soul Spa","8605 Montague Lane","29588",33.6398875,-78.99383069999999
+"29575","Myrtle Beach","SC","Fitness N' FriendZ","353 Highway 17 Business N","29575",33.614451825676525,-78.97843772636811
+"29576","Murrells Inlet","SC","Planet Fitness","10125 Highway 17 Byp","29576",33.5810398,-79.0264044
+"29576","Murrells Inlet","SC","Pure Barre","11897 South Carolina 707","29576",33.587635,-79.052639
+"29576","Murrells Inlet","SC","Walton Gym","Mt Gilead","29576",33.5732071,-79.0157187
+"29576","Murrells Inlet","SC","Fitness Edge","Hwy 17S","not_available",33.55690955170903,-79.04398224430972
+"29576","Murrells Inlet","SC","American Fitness 24/7","3334 S Highway 17","29576",33.577874,-79.02586099999999
+"29576","Murrells Inlet","SC","Ladies choice fitness center","11871 Plaza Dr","not_available",33.58178825086441,-79.02614650469948
+"29576","Murrells Inlet","SC","American Athletic Club","701-717 Inlet Square Dr","29576",33.577508142984264,-79.02545623379413
+"29577","Myrtle Beach","SC","Crabtree Memorial Gym","1004 Crabtree Ln","29577",33.67080034681984,-78.94671682175277
+"29577","Myrtle Beach","SC","X Gym Fitness Center Sports Mall","568 George Bishop Pkwy","29579",33.71122771230204,-78.94027318957103
+"29577","Myrtle Beach","SC","Caribbean Resort & Villas","3000 N Ocean Blvd","29577",33.707710698760934,-78.86104665581591
+"29577","Myrtle Beach","SC","Gold's Gym Myrtle Beach","951 Jason Blvd","29577",33.71516565416029,-78.90230951336392
+"29577","Myrtle Beach","SC","Fitness Center @ Compass Cove Resort","not_available","29577",33.665430085912995,-78.90926732811424
+"29577","Myrtle Beach","SC","Driftwood Hotel","1600 N Ocean Blvd","29577",33.696677,-78.874418
+"29577","Myrtle Beach","SC","Hilton Garden Inn Fitness Center","2383 Coastal Grand Cir","29577",33.70185470581055,-78.92799377441406
+"29577","Myrtle Beach","SC","Crossfit Driving Formations","3205 Highway 17 Bypass","29577",33.688674271789026,-78.9518785465043
+"29577","Myrtle Beach","SC","Paradise Resort Fitness Center","2201 S Ocean Blvd","29577",33.66806,-78.90708000000001
+"29577","Myrtle Beach","SC","Cc's Gym","North Ocean Blvd","29577",33.706266,-78.86454299924873
+"29577","Myrtle Beach","SC","The Gym at Seaside Resort","2301 S Ocean Blvd","29582",33.666579,-78.908767
+"29579","Myrtle Beach","SC","Grand Strand Juniors Volleyball","568 Robert M Grissom Pkwy, Myrtle Beach, SC 29577","29577",33.7110648928178,-78.9406602988749
+"29585","Pawleys Island","SC","Curves","10126 Ocean Highway 17","29585",33.43571311186887,-79.13238740222334
+"29585","Pawleys Island","SC","Anytime Fitness","113 Willbrook Blvd Unit A","29585",33.48225,-79.09825
+"29588","Myrtle Beach","SC","American Athletic Club","4257-4423 Dick Pond Rd","29588",33.66413328235252,-78.99606690149659
+"29588","Myrtle Beach","SC","Sky Fitness LLC","4828 Highway 17 Byp S","29588",33.6778886,-78.9664754
+"29601","Greenville","SC","Orangetheory Fitness","101 Falls Park Dr","29601",34.8459416,-82.4034447
+"29601","Greenville","SC","Caine Halter Family YMCA","721 Cleveland St","29601",34.83570423839213,-82.38584813583428
+"29601","Greenville","SC","premier personal training","not_available","29601",34.84864414197523,-82.39762402385078
+"29601","Greenville","SC","First Baptist Church AYMC","847 Cleveland St","29601",34.832252000000004,-82.380175
+"29601","Greenville","SC","Aiken's Theater","200 W Park Ave","29601",34.859128999999996,-82.398934
+"29601","Greenville","SC","CycleBar Greenville","307 E McBee Ave Ste B","29601",34.8490257,-82.3961868
+"29601","Greenville","SC","The Beat Health And Fitness","401 Guess St","29605",34.82948303222656,-82.40988159179688
+"29601","Greenville","SC","Lion's Roar CrossFit","1320 Hampton Ave Ext","29601",34.86583659,-82.41574319
+"29601","Greenville","SC","Greenville Drive Weight Room","Field Street","29601",34.84199521099698,-82.40726149756222
+"29601","Greenville","SC","Distinct Crossfit","1005 First St","29605",34.82672119140625,-82.39974212646484
+"29601","Greenville","SC","core24gvl","103 N Main St. (coffee st)","29601",34.85172398597039,-82.39869475364685
+"29601","Greenville","SC","Anytime Fitness","100 E Washington St","29601",34.85017,-82.39782
+"29601","Greenville","SC","Crossfit Reaction","9 Ferguson St","29601",34.84498977661133,-82.40849304199219
+"29601","Greenville","SC","The Upstate Performance Project","928 S Main St","29601",34.84366524859745,-82.40829050244673
+"29601","Greenville","SC","LifeForce Fitness","101 E Washington St","29601",34.85071563720703,-82.39763641357422
+"29601","Greenville","SC","Derrick's Gym","not_available","29605",34.826595,-82.400235
+"29601","Greenville","SC","In-Home Personal Trainer","404 Mills Ave","29605",34.827293,-82.409792
+"29601","Greenville","SC","On Call Personal Trainer","8 S Main St","29601",34.848880767822266,-82.39958190917969
+"29601","Greenville","SC","Fitness Shakers","1 Chick Springs Rd","29609",34.86675262451172,-82.38199615478516
+"29601","Greenville","SC","The Lofts Gym","201 Smythe St","29611",34.86708579268262,-82.4242977635699
+"29601","Greenville","SC","The Pit","125 E Broad St","29601",34.84712600708008,-82.39796447753906
+"29605","Greenville","SC","Greenville Life Center Health & Conditioning Club","875 W Faris Rd","29605",34.816947367048925,-82.40725395133994
+"29605","Greenville","SC","Gold's Gym","1332 S. Pleasantburg Drive","29605",34.800891595060136,-82.37792526256567
+"29605","Greenville","SC","BodyByBo","490 S Pleasantburg Dr","29607",34.832043,-82.370134
+"29605","Greenville","SC","Michelin Wellness Center","not_available","29673",34.72898786147835,-82.36672548295249
+"29605","Greenville","SC","Brit's Brothers Personal Training & Fitness","576 Woodruff Rd","29607",34.836285,-82.329263
+"29605","Greenville","SC","Equilibrium Gym","Augusta Rd.","not_available",34.823858887835236,-82.39339911963545
+"29605","Greenville","SC","CrossFit Rekkr","20A Maple Creek Cir","29607",34.77686882894095,-82.33750358280521
+"29605","Greenville","SC","Greenville Indoor Rowing","578 Woodruff Rd","29607",34.83578109741211,-82.32868957519531
+"29605","Greenville","SC","Brit's Brothers Gym","75  Orchard Park Dr","29615",34.836292635753374,-82.32908009402922
+"29605","Greenville","SC","The Perfect Fit","Laurens Rd","29607",34.837923,-82.355531
+"29605","Greenville","SC","CUICAR Vrum","5 Research Dr","29607",34.8143196105957,-82.32706451416016
+"29605","Greenville","SC","Laundry Gym","763 Woodruff Rd","29607",34.83756637573242,-82.32477569580078
+"29607","Greenville","SC","GHS Family YMCA","550 Brookwood Point Pl","29681",34.769020804461036,-82.2768146783742
+"29607","Greenville","SC","Orangetheory Fitness","1143 Woodruff Rd","29607",34.82560701223071,-82.29424286871722
+"29607","Greenville","SC","Curves","620 Howell Rd #7","29615",34.87480653834354,-82.3300459201008
+"29607","Greenville","SC","Mauldin Sports Center","10 City Center Dr","29662",34.78009427535693,-82.30537507733729
+"29607","Greenville","SC","Bullard Strength & Conditioning","15 Pelham Rd","29615",34.868279,-82.35329899999999
+"29607","Greenville","SC","Burpeeville","not_available","29607",34.819201,-82.287243
+"29607","Greenville","SC","iLoveKickboxing - Greenville, SC","553 Haywood Rd","29607",34.846841,-82.341461
+"29607","Greenville","SC","Sportsclub","712 Congaree Rd","29607",34.8423767,-82.3231392
+"29607","Greenville","SC","crossfit redeemed","25 BOLAND CT","not_available",34.85900115966797,-82.25611877441406
+"29607","Greenville","SC","Gym","65 Villa Rd","29615",34.860375,-82.345648
+"29607","Greenville","SC","D1 Sports Training and Therapy","1334 Miller Rd","29607",34.825862581299056,-82.29516952684035
+"29607","Greenville","SC","The Gym At The Preserve","3000-4941 Glen Forest Dr","29607",34.853026270866394,-82.34120428562164
+"29607","Greenville","SC","Caledon Fitness Center","not_available","29615",34.86376006465868,-82.33866400355194
+"29607","Greenville","SC","Fitness Center @ Clarion Inn & Suites","50 Orchard Park Dr","29615",34.8553352355957,-82.33256530761719
+"29607","Greenville","SC","Fitness 19 Greenville","2131 Woodruff Rd Ste 1400","29607",34.82100217810403,-82.25771217235263
+"29607","Greenville","SC","The Carlyle Apartments","620 Halton Rd","29607",34.83906101570215,-82.33699849603997
+"29607","Greenville","SC","Performance QSA","610 Keith Dr","29607",34.84702151368631,-82.36007102916122
+"29607","Greenville","SC","4Balance Fitness","48 Brookfield Oaks Dr Ste C","29607",34.80715826534063,-82.27888402883605
+"29607","Greenville","SC","Maximized Living","280 Rocky Creek Rd","29615",34.821075,-82.272889
+"29607","Greenville","SC","Knock It Out Express Spa","2430 E North St","29615",34.86861801147461,-82.35614776611328
+"29607","Greenville","SC","3D Fitness","98 Pelham Commons Blvd","29615",34.868221000000005,-82.347942
+"29609","Greenville","SC","9Round Fitness","5000 Old Buncombe Rd","29617",34.9103595,-82.42642731
+"29609","Greenville","SC","Gold's Gym","3245 N. Pleasantburg Drive","29609",34.88907422662584,-82.40240558981895
+"29609","Greenville","SC","Wade Hampton Weight Room","106 Pine Knoll Dr.","29609",34.8865770636799,-82.35524293514995
+"29609","Greenville","SC","Curves","105 New Plaza Dr","29617",34.91195773302349,-82.42849826925736
+"29609","Greenville","SC","The Warehouse","not_available","29609",34.8808847326708,-82.38841149672412
+"29609","Greenville","SC","Zx Fitness","not_available","29687",34.9037534,-82.333318
+"29609","Greenville","SC","Ahold/IBM Gym","Wade hampton","29687",34.86246916666666,-82.3367135
+"29609","Greenville","SC","iLoveKickboxing - Greenville SC","1120 North Pleasantburg Drive, Suite 302","29607",34.87036951470703,-82.35733644893492
+"29609","Greenville","SC","The Vintage Gym","25 Pelham Rd Ste B","29615",34.86820983886719,-82.35074615478516
+"29609","Greenville","SC","RockBox Fitness Greenville","501 E Stone Avenue, UNIT E","29601",34.8596516,-82.3859658
+"29611","Greenville","SC","pitre household workout station","not_available","29642",34.807147947164296,-82.48887318190246
+"29611","Greenville","SC","9Round Fitness","6 Halter Dr","29673",34.78271883,-82.47562642
+"29611","Greenville","SC","Fitness Center","10 Kalyns Way","29673",34.77589416503906,-82.4670181274414
+"29611","Greenville","SC","Willenhall Gym","Willenhall","29611",34.867083,-82.468231
+"29613","Greenville","SC","Furman Fitness Center","3300 Poinsett Hwy","29613",34.92092775547193,-82.43858910158654
+"29615","Greenville","SC","Powerhouse Gym","1018 S Batesville Rd","29650",34.87064,-82.249908
+"29615","Greenville","SC","YMCA","1250 Taylors Rd","29687",34.89899027391609,-82.28914050523846
+"29615","Greenville","SC","Gym @ Palmetto","Westbury Pl","29687",34.88821010344599,-82.30253887843105
+"29615","Greenville","SC","Airborne Athletics","299 Riverside Ct","29650",34.87300022449216,-82.24547065512081
+"29617","Greenville","SC","The Dungeon","2 Bluff Ridge Ct","29617",34.94700622558594,-82.44879150390625
+"29621","Anderson","SC","YMCA","201 E Reed Rd","29621",34.5421028125184,-82.62660572939559
+"29621","Anderson","SC","Gold's Gym","1475 Pearman Dairy Rd","29625",34.529703332403116,-82.69755634840143
+"29621","Anderson","SC","Rockstar Cheer- Anderson","not_available","29621",34.560242,-82.693267
+"29621","Anderson","SC","9Round Fitness","4418 Clemson Blvd","29621",34.56076221,-82.69236465
+"29621","Anderson","SC","Oakwood Gym","304 Pearman Dairy Rd","29625",34.506457,-82.684073
+"29621","Anderson","SC","War Cross Martial Arts LLC","1012 Whitehall Rd","29625",34.530317,-82.68678299999999
+"29621","Anderson","SC","Coleman Municipal Recreation Center","1107 N Murray Ave","29625",34.51224136352539,-82.65544128417969
+"29621","Anderson","SC","Coop's Health & Fitness","219 Brown Rd","29621",34.55867016316337,-82.67943934382741
+"29621","Anderson","SC","Jean's fitness room.","not_available","29627",34.456016540527344,-82.51939392089844
+"29621","Anderson","SC","Lilia Day Spa & Gym","E. Benson St.","29624",34.502875663921756,-82.64949676729758
+"29621","Anderson","SC","Whitaker Gym","Airline Rd","not_available",34.404558449999996,-82.62578915
+"29621","Anderson","SC","Trailhead Climbing & Outdoor Center","505 Camson Rd","29625",34.547452,-82.692363
+"29621","Anderson","SC","Workout Anytime Anderson","3150 N Main St","29621",34.538852,-82.66601
+"29621","Anderson","SC","Planet Fitness","2600 David H McLeod Blvd Unit D","29501",34.503439,-82.650133
+"29621","Anderson","SC","Palmetto Cheer and Tumble","not_available","29625",34.54770188937305,-82.67353537532202
+"29621","Anderson","SC","Golds Gym","3420 Clemson Blvd #1700","29621",34.548028,-82.671372
+"29621","Anderson","SC","Golds Gym","3793 Clemson Blvd","29621",34.552833,-82.683853
+"29625","Anderson","SC","Chiseled Fitness","4105 Highway 24","29626",34.50747299194336,-82.74095153808594
+"29625","Anderson","SC","The Lovely Treadmill","107 Wisteria Way","29670",34.62802505493164,-82.76303100585938
+"29625","Anderson","SC","Chiseled Fitness","1814 Centerville Rd","29625",34.53336715698242,-82.73643493652344
+"29626","Anderson","SC","Insanity - Plyometric Cardio Circuit","not_available","29626",34.500335693359375,-82.72807312011719
+"29627","Belton","SC","Armory Fitness","123 Gossett Dr","29697",34.615119,-82.479495
+"29630","Central","SC","Anytime Fitness","379 Old Greenville Hwy","29631",34.68486,-82.816
+"29630","Central","SC","Gold's Gym","500 Old Greenville Hwy Ste 1","29631",34.688254217289824,-82.81106852857441
+"29630","Central","SC","Berkeley Gym","not_available","29631",34.69391382137173,-82.80224301894833
+"29630","Central","SC","Central-Clemson Recreation Center","130 Commons Way","29630",34.71380004756778,-82.7872155560792
+"29630","Central","SC","Reserve Gym","not_available","29630",34.70800057879929,-82.79124777241448
+"29630","Central","SC","The Woodlands","Mt Tabor Cir","29630",34.70257520163659,-82.7998535874363
+"29630","Central","SC","Liberty Middle School Gym","not_available","29657",34.788127,-82.710194
+"29630","Central","SC","UFC Training Center","Charleston Ave, Clemson, SC 29631","29631",34.6995002692441,-82.82575385929137
+"29630","Central","SC","Hampton Inn Clemson University Area Gym","851 Tiger Blvd","29631",34.693401,-82.847587
+"29630","Central","SC","UV Gym","University Village Drive","29630",34.71024392942504,-82.79110038495041
+"29635","Cleveland","SC","BF Workout Room","Summer Road","28718",35.13381988496767,-82.63507803538812
+"29638","Donalds","SC","Erskine Gym","not_available","29639",34.332375,-82.39329322901798
+"29640","Easley","SC","Planet Fitness","265 Rolling Hills Circle","29640",34.829301,-82.543008
+"29640","Easley","SC","Wii Fit Gym","not_available","29661",34.88883248230238,-82.54825503593696
+"29640","Easley","SC","Swirl Walking Corridor","900 E Main St","29640",34.831748962402344,-82.58663940429688
+"29640","Easley","SC","My Iron Asylum","Where Ever I Want It To Be","29640",34.837616,-82.604702
+"29640","Easley","SC","Workout Anytime","6525 Calhoun Memorial Hwy","29640",34.820135807074195,-82.58530834078766
+"29640","Easley","SC","Fit 4 Life(24 Hour)","2017 E Main St","29640",34.8272845839386,-82.56629838771916
+"29640","Easley","SC","Push It Performance And Fitness","5156 Calhoun Memorial Hwy","29640",34.825321197509766,-82.55844116210938
+"29640","Easley","SC","Studio SI Easley","1729 Powdersville Rd., Ate A","29642",34.81209182739258,-82.52900695800781
+"29640","Easley","SC","Anytime Fitness","1011 S Pendleton St","29642",34.817609999999995,-82.600387
+"29640","Easley","SC","Pickens County YMCA","201 Burns Rd","29640",34.829233055527254,-82.5785638317047
+"29640","Easley","SC","Dance In Motion","201 W Main St","29640",34.829653,-82.604037
+"29640","Easley","SC","Spotlight Dance Company","221B W Main St","29640",34.82945251464844,-82.60517120361328
+"29642","Easley","SC","The Life Center - Mt. Airy Baptist","210 Mount Airy Church Rd","29642",34.749333,-82.531727
+"29642","Easley","SC","Total Fitness","9801 Anderson Rd","29673",34.74939077218613,-82.50134807522267
+"29644","Fountain Inn","SC","jasmine cove pool","not_available","29680",34.703674033817045,-82.24922355313883
+"29644","Fountain Inn","SC","Sportsclub","667 SE Main St","29681",34.72327052684792,-82.2516201595983
+"29644","Fountain Inn","SC","Above All Healthy Lifestyle","411 N Main St","29662",34.7847785949707,-82.31312561035156
+"29644","Fountain Inn","SC","RxHuman.net","138 W Fall River Way","29680",34.73565,-82.30123
+"29644","Fountain Inn","SC","Groupfit, LLC","not_available","29681",34.74218142858321,-82.27167267898639
+"29644","Fountain Inn","SC","Gym - KJ","South St","29680",34.740851,-82.275075
+"29646","Greenwood","SC","Planet Fitness","542 Bypass 72 NW","29649",34.20613098144531,-82.19461059570312
+"29646","Greenwood","SC","The Sweat Box","118-A Crosscreek Connector","29649",34.20802244352492,-82.17500925064087
+"29646","Greenwood","SC","Gym Sugar","not_available","29653",34.24409440004004,-82.21510137100022
+"29646","Greenwood","SC","Brewer Community Center","not_available","29646",34.197821740115934,-82.14220100939681
+"29646","Greenwood","SC","CrossFit Greenwood","1110 Durst Ave E","29649",34.21204376220703,-82.14269256591797
+"29646","Greenwood","SC","Greenwood YMCA","1760 Calhoun Rd","29649",34.21231806621615,-82.20464384311185
+"29646","Greenwood","SC","Lead's Gym","not_available","29649",34.199448359638076,-82.1980341009304
+"29646","Greenwood","SC","9Round Fitness","521 SC-72","29649",34.2048,-82.192651
+"29646","Greenwood","SC","Omni Health and Fitness","1330 Bypass 72 NE","29649",34.214468488202364,-82.1506495643342
+"29646","Greenwood","SC","Anytime Fitness","1560 Pkwy","29646",34.16837,-82.15313
+"29650","Greer","SC","Orangetheory Fitness","870 E Suber Rd","29650",34.9011611,-82.255783
+"29650","Greer","SC","Anytime Fitness","955 W. Wade Hampton Blvd. #1A","29650",34.94408,-82.25121
+"29650","Greer","SC","the gym!","not_available","29650",34.93493252470165,-82.23755063437159
+"29650","Greer","SC","Rockstar Cheer","428 S Buncombe Rd","29650",34.9326993522758,-82.25279451430042
+"29650","Greer","SC","Basketball Combine Training","5216 Pelham Rd Unit B","29615",34.854535,-82.249055
+"29650","Greer","SC","Pure Barre","3722 Pelham Rd","29615",34.85899187221209,-82.26668216783742
+"29650","Greer","SC","Gym / Fitness Center/Marriott","1 Parkway E","29615",34.862935681402135,-82.25821137428284
+"29650","Greer","SC","The Fitness Center @ Alta Crescent","401 Elizabeth Sarah Blvd","29650",34.934669494628906,-82.26844787597656
+"29650","Greer","SC","The Gym","2670 Dry Pocket Rd","29650",34.8643798828125,-82.25285339355469
+"29650","Greer","SC","Pivotal Fitness","5000 Old Spartanburg Rd","29687",34.89051616967263,-82.29526439038062
+"29650","Greer","SC","Of The Body And Mind","10 Meadow Ln","29615",34.86239242553711,-82.29570007324219
+"29650","Greer","SC","Gold's Gym","1207 W. Wade Hampton Blvd.","29650",34.941849820069024,-82.25704608126168
+"29651","Greer","SC","Sports Club Five Forks","2701 Woodruff Rd","29681",34.803448193756445,-82.22638190334806
+"29651","Greer","SC","Curves Fitness","3209 Wade Hampton Blvd","29687",34.9160041809082,-82.31977844238281
+"29651","Greer","SC","ZX Fitness","Wade Hampton Blvd","not_available",34.911060588585826,-82.32342333791479
+"29655","Iva","SC","Iva Civic Center","not_available","29655",34.306064655955055,-82.66674340478914
+"29655","Iva","SC","Movers And Shapers","11 Station Road","29655",34.26567459106445,-82.66622924804688
+"29661","Marietta","SC","George I. Theisan YMCA","100 Inspirational Way","29690",34.96475967011711,-82.46251068388324
+"29662","Mauldin","SC","MuvE Fitness In Motion","787-E Butler Rs","not_available",34.794915,-82.286279
+"29664","Mountain Rest","SC","Fit 4 Life","not_available","29691",34.76508712768555,-83.0616455078125
+"29670","Pendleton","SC","Gym At The Reserve","not_available","29670",34.647709,-82.75771
+"29671","Pickens","SC","PHS Crossfit","not_available","29671",34.90523320758388,-82.71559038079701
+"29671","Pickens","SC","Pickens County YMCA (Pickens, SC)","2223 Gentry Memorial Hwy","29671",34.85812590369463,-82.67652955311428
+"29671","Pickens","SC","Pickens LEC Gym","LEC Road","29671",34.87188091081669,-82.70169265841035
+"29671","Pickens","SC","The Farm Project","2100 Fox Squirrel Ridge Rd","29671",34.929888,-82.681352
+"29672","Seneca","SC","CORE 24 GYM","107 Nelson Ln","29678",34.68584060668945,-82.98936462402344
+"29672","Seneca","SC","CrossFit Proverb","517 Concord Industrial Dr","29672",34.70816421508789,-82.99403381347656
+"29672","Seneca","SC","Banz36 Fitness and Weight Loss","110 Pine Cliff Dr","29672",34.68566,-82.9532
+"29672","Seneca","SC","Xtreme Fitness 24/7","278 Market St","29678",34.687310853612274,-82.99340994085809
+"29672","Seneca","SC","Planet Fitness","107 Bilo Place","29678",34.69268035888672,-82.98249053955078
+"29676","Salem","SC","Fitness And Racquet Center","Stamp Creek Road","29676",34.839183211126596,-82.91980928601133
+"29676","Salem","SC","The Wellness Centre at The Cliffs, Lake Keowee","not_available","29685",34.92994961731231,-82.9009142077999
+"29678","Seneca","SC","Brian Fox","2363 Sandifer Blvd","29693",34.66436767578125,-83.04855346679688
+"29678","Seneca","SC","The Workout Room","not_available","29678",34.65928649902344,-82.88673400878906
+"29681","Simpsonville","SC","SportsClub","317 Scuffletown Rd","29681",34.80338842620931,-82.22631804903213
+"29681","Simpsonville","SC","Stoneheaven Weightroom","English Oak Road","29681",34.810859242227316,-82.24146658331304
+"29681","Simpsonville","SC","Southern Moon Crossfit","1200 Woodruff Rd Ste F14","29607",34.82094,-82.290631
+"29681","Simpsonville","SC","4Balance Fitness","297 Garlington Rd, B","29615",34.82998268487403,-82.29307241964341
+"29681","Simpsonville","SC","Fitness At Roselite","Walden Creek Way","not_available",34.822434,-82.280703
+"29681","Simpsonville","SC","Burn Boot Camp","1618 Woodruff Rd","29607",34.819,-82.27501
+"29685","Sunset","SC","Tennis and Fitness Center, The Reserve at Lake Keowee","1016 Reserve Boulevard","29685",34.894813537597656,-82.8662109375
+"29687","Taylors","SC","Peak Fitness","3150 Wade Hampton Blvd","29687",34.91077423095703,-82.32341003417969
+"29689","Townville","SC","My Wannabe Gym","not_available","29689",34.48967773597737,-82.86830813030889
+"29690","Travelers Rest","SC","CheerZone Elite","319B Hawkins Road","29690",34.97615119310987,-82.42038009018633
+"29690","Travelers Rest","SC","Anytime Fitness","28 S Main St","29690",34.967197999999996,-82.441951
+"29693","Westminster","SC","ymca","not_available","30577",34.560245513916016,-83.34496307373047
+"29693","Westminster","SC","Gold's Gym","194-276 E Doyle St","30577",34.579127517040895,-83.33010859644784
+"29693","Westminster","SC","Gym Nation","3384 Highway 17 Alternate","30577",34.5567,-83.2857
+"29702","Blacksburg","SC","Total Definition","E Cherokee St","29702",35.11943795,-81.51895746666666
+"29706","Chester","SC","Ymca","not_available","29706",34.705251950000005,-81.21361555
+"29707","Fort Mill","SC","Anytime Fitness","855 Gold Hill Rd Ste 103","29708",35.06103,-80.96198
+"29707","Fort Mill","SC","The Clubhouse at Bridgemill","Harcourt Crossing","29707",34.976157453676656,-80.86478472100896
+"29707","Fort Mill","SC","Morrison YMCA","9405 Bryant Farms Rd","28277",35.04218012931352,-80.82773015321403
+"29707","Fort Mill","SC","Crunch Fitness - Ballantyne","16045 Johnston Road","28277",35.030067443847656,-80.84994506835938
+"29707","Fort Mill","SC","Greenway Recreation Complex","971 Tom Hall St","29715",35.00896712602837,-80.92186732230293
+"29707","Fort Mill","SC","Orangetheory Fitness","14825 Ballantyne Village Way","28277",35.05415,-80.851876
+"29707","Fort Mill","SC","Paddock Exercise Room","1555 Paddock Club Ln","29715",35.03034973144531,-80.9134292602539
+"29707","Fort Mill","SC","Intense fitness and boxing","not_available","28277",35.058509826660156,-80.80797576904297
+"29707","Fort Mill","SC","F45 Training Indian Land","9456 Charlotte Hwy","29707",34.990547,-80.852934
+"29707","Fort Mill","SC","LA Fitness","12325 Copper Way","28277",35.06911062958058,-80.84430392800006
+"29707","Fort Mill","SC","Academy Fitness","118 Academy St","29715",35.00629806518555,-80.94429779052734
+"29707","Fort Mill","SC","YogaSix","14815 Ballantyne Village Way Ste 105","28277",35.0535664,-80.851867
+"29707","Fort Mill","SC","Everlasting Changes","520 Zimmer Rd","29707",34.99248876778316,-80.8424090781592
+"29707","Fort Mill","SC","The Gym @ The Preserve At Ballantyne Commons","11280 Foxhaven Dr","28277",35.05577,-80.81975600000001
+"29707","Fort Mill","SC","YMCA Corporate Wellness Center","10301-10313 Ballantyne Commons Pkwy","28277",35.0547080669652,-80.85065250428012
+"29707","Fort Mill","SC","Ciarla Fitness","15640 John J Delaney Dr","28277",35.059298999999996,-80.849757
+"29707","Fort Mill","SC","Home Gym","not_available","29715",35.065343,-80.929405
+"29707","Fort Mill","SC","Faith Fitness Studio","2752 Pleasant Rd Ste 110","29708",35.05974576970182,-80.96508574322038
+"29707","Fort Mill","SC","Sara's YMCA","15940 Brixham Hill Ave","28277",35.060962864777515,-80.85363911790284
+"29708","Fort Mill","SC","Planet Fitness","825 Crossroads Plaza","29708",35.0590534,-80.990647
+"29708","Fort Mill","SC","Palisades Country Club Gym","13417 Grand Palisades Pkwy","28278",35.073033874927866,-81.04029183113957
+"29708","Fort Mill","SC","YMCA Baxter","857 Promenade Walk","29708",35.02489759469669,-80.96859534541733
+"29708","Fort Mill","SC","Burn Bootcamp Lake Wylie","1736 Gold Hill Rd","29708",35.06111145019531,-80.99349975585938
+"29708","Fort Mill","SC","Steeling Steele Creek Fitness Center","Winter Hazel Road","28278",35.102522352948526,-80.99510650403157
+"29708","Fort Mill","SC","CYCLEBAR","2351 Len Patterson Rd Ste 106","29708",35.0408287,-80.9849166
+"29708","Fort Mill","SC","Fitness Together - Steele Creek","13545 Steelecroft Pkwy","28278",35.10203460855177,-80.99110394115546
+"29708","Fort Mill","SC","My Gym","12840 Walker Branch Rd Ste 900","28273",35.10017776489258,-80.98644256591797
+"29708","Fort Mill","SC","PushPointe Indoor Cycle and Fitness","1741 Gold Hill Rd, Ste 108","29708",35.060250888296764,-80.99327877731554
+"29708","Fort Mill","SC","Sport & Nutrition","not_available","29708",35.0922966003418,-80.93559265136719
+"29708","Fort Mill","SC","Snap Fitness","3150 U.S. 21","29715",35.077227636663366,-80.93391006214935
+"29708","Fort Mill","SC","Dave's Fitness","14435","28273",35.091899,-80.966579
+"29708","Fort Mill","SC","Cloisters Club Gym","10000 Cloisters Club Ln","28278",35.103291,-80.99262
+"29708","Fort Mill","SC","Steelecroft Farm Fitness Center","S Tryon St","28278",35.10552426666069,-80.99453458539028
+"29708","Fort Mill","SC","RockBox Fitness Steele Creek","14135 Steele Creek Rd Ste 100","28273",35.1023515,-80.98620079999999
+"29708","Fort Mill","SC","Pure Barre","733 Stockbridge Dr","29708",35.062240080032026,-80.99281294473371
+"29708","Fort Mill","SC","Carolina Stars","4201 Pleasant Rd","29708",35.095436347215475,-80.94769573125215
+"29708","Fort Mill","SC","iLoveKickboxing - Fort Mill, SC","1504 Carolina Pl","29708",35.03127,-80.96504
+"29708","Fort Mill","SC","The Gym at 214 Main","214 Main St","29715",35.00774361174417,-80.94367665254629
+"29708","Fort Mill","SC","LFM Gym","784 Gates Mills Dr","29708",35.057945251464844,-80.96565246582031
+"29710","Clover","SC","Beast Fitness","not_available","29710",35.082655007447876,-81.21801504537054
+"29710","Clover","SC","Clover YMCA","107 S Main St","29710",35.10509673205406,-81.213883034988
+"29710","Clover","SC","Anytime Fitness","125 Evergreen Rd","29710",35.11586,-81.07677
+"29710","Clover","SC","Curves Clover SC","131 N Main St","29710",35.112064286956304,-81.22618695255133
+"29710","Clover","SC","YMCA","Madison Ave","29745",34.995936,-81.237564
+"29710","Clover","SC","Anytime Fitness","916 E Liberty St","29745",34.98445,-81.21589
+"29710","Clover","SC","Palisades Sports Complex","13417 Grand Palisades Parkway","not_available",35.07315444946289,-81.04032135009766
+"29715","Fort Mill","SC","Hilton Garden Inn Gym","not_available","29730",34.94343604634642,-80.97542688728618
+"29715","Fort Mill","SC","Anytime Fitness","601 N Polk St","28134",35.09275,-80.8854
+"29715","Fort Mill","SC","Impact express Fitness","Manchester Village","29730",34.94678123355106,-80.97875663192072
+"29715","Fort Mill","SC","Cross Fit Pineville","400 N Polk St Ste A","28134",35.089327,-80.8857419
+"29715","Fort Mill","SC","L35 Crossfit","358-398 State Road S-46-48","29715",35.089877,-80.926518
+"29715","Fort Mill","SC","RockBox Fitness Riverwalk","652 Herrons Ferry Rd Unit 108","29730",34.9832204,-80.9715529
+"29715","Fort Mill","SC","Gym @ Manchester Village","Longsight Ln","29730",34.945801,-80.980869
+"29715","Fort Mill","SC","Hampton Inn & Suites Fitness Room","401 Towne Centre Blvd","28134",35.083166,-80.88341
+"29715","Fort Mill","SC","Willow Ridge Fitness Center","9510 Willow Ride","not_available",35.094745,-80.871858
+"29720","Lancaster","SC","Bettys Tanning","not_available","29720",34.70556927763018,-80.76662722909298
+"29720","Lancaster","SC","Snap Fitness","not_available","28173",34.9373794109134,-80.75063643935127
+"29720","Lancaster","SC","Island Sun Tanning & Fitness","1200 Great Falls Rd","29720",34.70641326904297,-80.76658630371094
+"29720","Lancaster","SC","Snap Fitness","7605 Sims Rd","28173",34.89680099487305,-80.75515747070312
+"29720","Lancaster","SC","Anytime Fitness","1133 SC 9 Bypass W","29720",34.73346,-80.79367
+"29720","Lancaster","SC","ISI Elite Training - Indian Land","7780 Charlotte Hwy","29707",34.9400428,-80.8378529
+"29720","Lancaster","SC","Gregory Health And Wellness Center","476 Hubbard Dr","29720",34.735809326171875,-80.78981018066406
+"29720","Lancaster","SC","Agape Health And Wellness Center","6237 Carolina Commons Dr","29720",34.936227616789175,-80.83811134923681
+"29730","Rock Hill","SC","Orangetheory Fitness","2674 Celanese Rd","29732",34.976537284734704,-81.02440485386187
+"29730","Rock Hill","SC","LA Fitness","745 Arden Ln","29732",34.95993675871918,-81.04413128911594
+"29730","Rock Hill","SC","Brookstone Apartments Gym","not_available","29732",34.964855970720635,-81.01092434777694
+"29730","Rock Hill","SC","Rock Hill Brazilian Jiu-Jitsu (RHBJJ)","489 Herlong Ave S Ste 6","29732",34.95300574479763,-81.05951972239086
+"29730","Rock Hill","SC","Rhbjj","S Herlong","29732",34.952995,-81.059475
+"29730","Rock Hill","SC","CrossFit Rock Hill","563 Linkwood Road","29730",34.94652609793025,-80.98876820439703
+"29730","Rock Hill","SC","Whisper Creek","Beckham Ln, Rock Hill, SC 29732","29732",34.95656452013627,-81.05594897603044
+"29730","Rock Hill","SC","YMCA","402 Charlotte Ave","29730",34.9365223284179,-81.02339867815597
+"29730","Rock Hill","SC","Paces River Apartments","1817 Paces River Ave","29732",34.9817181,-80.98915889999999
+"29730","Rock Hill","SC","Get Fit with Troy","Black St","29730",34.923621,-81.025748
+"29730","Rock Hill","SC","Curves of Rock Hill","2034 Cherry Rd","29732",34.961926,-81.001664
+"29730","Rock Hill","SC","Workout Anytime","1347 E Main St","29730",34.91729094102846,-80.99990129470825
+"29730","Rock Hill","SC","Golds gym","201-213 Garden Way","29732",34.978154997477525,-81.07791534325057
+"29730","Rock Hill","SC","Anytime Fitness","2049 Celanese Rd","29732",34.97598,-81.00698
+"29730","Rock Hill","SC","OAPC GYM","Oakland Avenue","29730",34.936692398063315,-81.02707340279461
+"29730","Rock Hill","SC","Get Fit With Troy","300 Technology Way, Suite 22","29730",34.9317403,-81.0307985
+"29732","Rock Hill","SC","Shiland Hills Gym","2549 Shiland Dr","29732",34.972095,-81.02129000000001
+"29732","Rock Hill","SC","Courtyard By Marriot Fitness Center","1300 River Run Ct","29732",34.978515625,-80.9897232055664
+"29732","Rock Hill","SC","Carolina Bingo Promotion","1102 Cherry Rd","29732",34.9496181,-81.018441
+"29801","Aiken","SC","Aiken Health & Fitness Club","110 Park Avenue South West","29801",33.5599212189121,-81.72188758850098
+"29801","Aiken","SC","Hitchcock Healthcare","not_available","29801",33.574405670166016,-81.76132202148438
+"29801","Aiken","SC","Achieve Fitness","401 Silver Bluff Rd","29803",33.52035040259409,-81.72269968516075
+"29801","Aiken","SC","Gym","383-385 Wrights Mill Rd","29801",33.57325164485507,-81.67337023147937
+"29801","Aiken","SC","Gold's Gym","2477 Wagener Rd","29801",33.546891,-81.67886
+"29801","Aiken","SC","The Y Parking Lot","not_available","29829",33.57695940194187,-81.78514480432423
+"29801","Aiken","SC","f.i.t.","147 Pendleton St NW","29801",33.563615,-81.72349
+"29801","Aiken","SC","Nu-Look Weight Loss & Fitness","not_available","29803",33.531809,-81.698869
+"29801","Aiken","SC","Pump Up The Jam","3138 Dewey St","29851",33.542111,-81.80609
+"29801","Aiken","SC","Gold's Gym","101 Corporate Pkwy","29803",33.5197536282246,-81.71428694055336
+"29801","Aiken","SC","USCA intramural gym","471 University Pkwy","29801",33.57405090332031,-81.76554107666016
+"29801","Aiken","SC","Golds Gym","not_available","29847",33.6877479609692,-81.78603814080039
+"29801","Aiken","SC","Family Y of Aiken County","621 Trolley Line Rd, Aiken, SC 29829","29829",33.57716942593956,-81.7842596850297
+"29801","Aiken","SC","Golds North Branch","843 Old Graniteville Hwy","29801",33.62981414794922,-81.78702545166016
+"29803","Aiken","SC","Kenny Ray Personal Fitness","6120 Woodside Executive Ct","29803",33.5064697265625,-81.73854064941406
+"29821","Clarks Hill","SC","Anytime Fitness","3110 William Few Pkwy","30809",33.572818,-82.19158900000001
+"29821","Clarks Hill","SC","Lori's Personal Training","not_available","30809",33.58240525910419,-82.18930511073992
+"29835","Mc Cormick","SC","redneckville gym","A","29835",33.920623779296875,-82.2485580444336
+"29835","Mc Cormick","SC","redneckville gym","not_available","29845",33.850425720214844,-82.26105499267578
+"29841","North Augusta","SC","Family Y","401 Martintown Rd","29841",33.50787054863742,-81.9689316288848
+"29841","North Augusta","SC","CrossFit Downtown","1348 Reynolds St","30901",33.480346000000004,-81.976816
+"29841","North Augusta","SC","Norman Bonner Gymnasium","not_available","30901",33.468244360744194,-81.98125084261662
+"29841","North Augusta","SC","Anytime Fitness","336 Georgia Ave Ste 202","29841",33.4923,-81.97203
+"29841","North Augusta","SC","Kroc Center- Health & Fitness Area","1384 Greene St","30901",33.48555418721684,-81.99487898290184
+"29841","North Augusta","SC","Randall Carter Gymnasium @ Paine College","not_available","30904",33.470868491965355,-81.99825283427008
+"29841","North Augusta","SC","YMCA Downtown","945 Broad St","30901",33.476644470596064,-81.9687458474606
+"29841","North Augusta","SC","CrossFit North Augusta","125 Merovan Dr","29860",33.575277,-81.938192
+"29841","North Augusta","SC","Gymin' It","Hwy 25","29860",33.57653133,-81.94020097
+"29902","Beaufort","SC","Planet Fitness","332 Robert Smalls Pkwy","29906",32.426873,-80.73102
+"29902","Beaufort","SC","YMCA of Beaufort County","1801 Richmond Ave","29935",32.38370849701968,-80.68968555179627
+"29902","Beaufort","SC","bikini prep station","not_available","29906",32.437734733012185,-80.7447101147452
+"29902","Beaufort","SC","Parris Island Gym","not_available","29905",32.350216997169085,-80.68160441830372
+"29902","Beaufort","SC","Gym","MCAS","not_available",32.458477383607566,-80.72061488123909
+"29902","Beaufort","SC","Combat Fitness Center","Samoa St","29902",32.34715374974204,-80.67751389608462
+"29902","Beaufort","SC","Stillness Gym","2219 Prince St","29902",32.435746,-80.685517
+"29902","Beaufort","SC","Paul L. Siegmund Fitness Complex","Gordon St","29904",32.45847069539964,-80.72064669062783
+"29902","Beaufort","SC","Beaufort Memorial LifeFit Wellness Center","955 Ribaut Rd","29902",32.41707229614258,-80.68780517578125
+"29902","Beaufort","SC","Naval Hospital Fitness Center","not_available","29935",32.38859170518173,-80.68323479204584
+"29902","Beaufort","SC","WFTBN Gym","wake blvd","not_available",32.329638466666665,-80.70925153333333
+"29902","Beaufort","SC","Madness Of Beaufort","1804 Boundary St","29902",32.439273834228516,-80.6827392578125
+"29906","Beaufort","SC","Ashton Pointe Gym","100 Ashton Pointe Blvd","29906",32.40346145629883,-80.75562286376953
+"29907","Beaufort","SC","EarthFit","not_available","29907",32.417387598271254,-80.64873540735773
+"29909","Okatie","SC","Planet Fitness","50 Burnt Church Rd, Ste 100F","29910",32.247817031729916,-80.84560038319395
+"29909","Okatie","SC","Sun City Gym","672 Cypress Hills Dr","29909",32.27780925664017,-80.97881112390715
+"29909","Okatie","SC","Cynergy","110 Buckwalter Pkwy","29910",32.283848822626425,-80.91139709169799
+"29909","Okatie","SC","Country Club Of Hilton Head Fitness","not_available","29926",32.246150905352,-80.74317804016091
+"29909","Okatie","SC","Mill Creek Weight Center","not_available","29909",32.263145,-80.970965
+"29909","Okatie","SC","FiT of Bluffton","Fording Island Rd","29910",32.255851,-80.851222
+"29909","Okatie","SC","Boathouse Fitness Center","Jasper Blvd","29909",32.309266700244685,-80.9550406169174
+"29909","Okatie","SC","Bluffton CrossFit","21 Simmonsville Rd","29910",32.265288,-80.863957
+"29909","Okatie","SC","AAA's Gym","not_available","29936",32.33807908825159,-80.9312876039629
+"29909","Okatie","SC","Lawton Station ""Gym""","not_available","29910",32.25856191168406,-80.95548866386372
+"29909","Okatie","SC","Riptide MMA","36 Persimmons St #303","29910",32.260754009126565,-80.86320790883545
+"29909","Okatie","SC","Wellness Institute","100 Okatie Center Blvd N","29909",32.297247586680335,-80.93634437301637
+"29909","Okatie","SC","Pure Barre","109 Towne Dr","29910",32.268401000000004,-80.858465
+"29909","Okatie","SC","Hidden Cypress Fitness Center","Hidden Cypress Ln","29909",32.2723314415418,-80.9693872719791
+"29910","Bluffton","SC","Sea Pines Country Club Fitness Center","30 Governors Rd","29928",32.148159805777084,-80.78801225035494
+"29910","Bluffton","SC","Odyssey Health Club","7 Office Way","29928",32.15353695993736,-80.76295264958799
+"29910","Bluffton","SC","Sea Pines Fitness Center","100 N Sea Pines Dr","29928",32.1278190612793,-80.78964233398438
+"29910","Bluffton","SC","Marriot Grand Ocean Fitness Center","not_available","29928",32.13691,-80.761629
+"29910","Bluffton","SC","Conviction Training Facility","1 New Orleans Rd C/D","29928",32.16255896004858,-80.76673153907156
+"29910","Bluffton","SC","Monarch Gym","Turtle Ln Dr","29928",32.12479214052228,-80.787564691113
+"29910","Bluffton","SC","Players Health and Racquet Club","35 Deallyon Ave","29928",32.143463134765625,-80.7602767944336
+"29910","Bluffton","SC","CYCLEBAR","11 Palmetto Bay Rd Ste 106B","29928",32.1572425,-80.7647992
+"29910","Bluffton","SC","Lava 24","1541 Fording Island Rd","29926",32.2369270324707,-80.8072738647461
+"29915","Daufuskie Island","SC","Haig Point - Fitness Center","not_available","29915",32.131502,-80.843535
+"29926","Hilton Head Island","SC","Live In Fitness","5 Trent Jones Ln.","29928",32.1697406,-80.7197563
+"29926","Hilton Head Island","SC","Pure Barre","28 Shelter Cove Ln Unit 105","29928",32.1850205,-80.72132900000001
+"29926","Hilton Head Island","SC","Riptide MMA","55 Mathews Dr Ste 120","29926",32.218570709228516,-80.70299530029297
+"29926","Hilton Head Island","SC","Orangetheory Fitness","430 William Hilton Pkwy","29926",32.214908599853516,-80.703857421875
+"29926","Hilton Head Island","SC","Progressive health and fitness","2 Marshland Rd","29926",32.205936431884766,-80.70306396484375
+"29926","Hilton Head Island","SC","Lava 24 Fitness","811 William Hilton Pkwy #B","29928",32.1766455694271,-80.72905332908606
+"29926","Hilton Head Island","SC","Beach City Health and Fitness","39 Hospital Center Common","29926",32.22360439249933,-80.71231984428813
+"29926","Hilton Head Island","SC","Palmetto Athletic Club","435 William Hilton Pkwy #14","29926",32.216949462890625,-80.70354461669922
+"29926","Hilton Head Island","SC","Powerhouse Gym","1530 Fording Island Road","29926",32.236227,-80.808909
+"29926","Hilton Head Island","SC","Island Rec Center","20 Wilborn Rd","29926",32.219904339440006,-80.73448242312881
+"29926","Hilton Head Island","SC","Marriott Surfwatch Gym","10 SurfWatch Way","29928",32.19711376446875,-80.69823293018999
+"29926","Hilton Head Island","SC","Row House","20 Hatton Pl","29926",32.2119204,-80.7235814
+"29927","Hardeeville","SC","Fitness on Broughton","not_available","31401",32.07888211020431,-81.09183653470501
+"29927","Hardeeville","SC","First City Fitness","2127 1/2 E Victory Dr","31404",32.03993545035641,-81.06334138321411
+"29927","Hardeeville","SC","Walden Lane Fitness Room","Walden Ln","31405",32.06806045181135,-81.15613559746804
+"29927","Hardeeville","SC","Gym","not_available","31405",32.05109721452065,-81.15077258014713
+"29927","Hardeeville","SC","The Fit Lab","2011 Mills B Lane Blvd","31405",32.05346894752301,-81.13998619705126
+"29927","Hardeeville","SC","Strong Gym","1321 Bull St","31401",32.062743,-81.098303
+"29927","Hardeeville","SC","Anytime Fitness","119 Charlotte Rd","31410",32.04157,-81.00798
+"29927","Hardeeville","SC","Fitness Club","2164 E Victory Dr","31404",32.040543171069885,-81.06260340923349
+"29927","Hardeeville","SC","Gym West Broad YMCA","1110 May St","31415",32.066341400146484,-81.10491180419922
+"29927","Hardeeville","SC","CrossFit SteadFast","514 Berrien St","31401",32.07368289850865,-81.10062492226038
+"29927","Hardeeville","SC","Westin Workout","1 Resort Dr","31421",32.08382034301758,-81.08521270751953
+"29927","Hardeeville","SC","Bootcamp Workout","Waring Dr","31404",32.04584218,-81.0852138
+"29927","Hardeeville","SC","Pure Barre","10 Whitaker St","31401",32.0806945,-81.0923236
+"29928","Hilton Head Island","SC","Sonesta Resort Gym","130 Shipyard Dr","29928",32.15414047241211,-80.73204803466797
+"29928","Hilton Head Island","SC","Reebok CrossFit Coastal Carolina","18 New Orleans Rd","29928",32.15773904048382,-80.75502994361096
+"29945","Yemassee","SC","Palmetto Sun Gym","4 Castle Hall Road","29945",32.68698501586914,-80.84730529785156

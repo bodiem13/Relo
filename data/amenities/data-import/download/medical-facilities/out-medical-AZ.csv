@@ -1,0 +1,809 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"85003","Phoenix","AZ","Duane M. Wooten, MD, PC","515 W Buckeye Rd Ste 306","85003",33.4367606,-112.0810799
+"85003","Phoenix","AZ","STAIRWAY","not_available","not_available",33.47183225,-112.0742341
+"85003","Phoenix","AZ","Phoenix Memorial Hospital","not_available","85007",33.435492220975235,-112.08155820188904
+"85003","Phoenix","AZ","St. Joseph's Employee Relations","not_available","85003",33.4622817628298,-112.08002705744788
+"85003","Phoenix","AZ","Maricopa Urgent Care","1201 S 7th Ave","85007",33.435326,-112.081376
+"85003","Phoenix","AZ","supernatural restoration com","not_available","85035",33.44814733811612,-112.07335710525511
+"85004","Phoenix","AZ","UPC","903 N 2nd St","85004",33.457902000000004,-112.07088600000002
+"85004","Phoenix","AZ","Hospice of the Valley","340 E Coronado Rd","85004",33.468042,-112.06766200000001
+"85004","Phoenix","AZ","Sunrise Midwifery LLC","531 E Lynwood St","85004",33.46471,-112.065996
+"85004","Phoenix","AZ","Banner Urgent Care","1 N Central Ave","85004",33.4484182,-112.0727634
+"85006","Phoenix","AZ","Banner – University Medical Center Phoenix","1111 E McDowell Rd","85006",33.46411239075461,-112.05876192723144
+"85006","Phoenix","AZ","Phoenix Children's Hospital","1919 E Thomas Rd","85016",33.479473607036525,-112.04241514205933
+"85006","Phoenix","AZ","Banner West Tower","1033 Brill","85006",33.46498152725172,-112.05951079536283
+"85006","Phoenix","AZ","St. Luke's Behavioral Health Center","1800 East Van Buren Street","85006",33.45467195871885,-112.0423696328429
+"85006","Phoenix","AZ","NextCare Urgent Care","1701 E Thomas Rd Ste A104","85016",33.48002657073494,-112.0446844820792
+"85006","Phoenix","AZ","Phoenix Children's Hospital - Allergy","1919 E Thomas Rd Floor 2, Clinic E","85016",33.4789775,-112.0408823
+"85006","Phoenix","AZ","Adult CF Clinic at PCH","1919 E Thomas Rd","not_available",33.479273,-112.040776
+"85006","Phoenix","AZ","Phoenix Children's Hospital - Complex Care","1919 E Thomas Rd Ambulatory Building,","85016",33.4789487,-112.041008
+"85006","Phoenix","AZ","Phoenix Children's Hospital - Volunteer Services","1919 E Thomas Rd Floor 3","85016",33.4788932800293,-112.0404281616211
+"85006","Phoenix","AZ","Phoenix St Lukes Registration","not_available","85006",33.45452645422587,-112.04202177480464
+"85006","Phoenix","AZ","Robert K Strumpf, MD","2632 N 20th St","85006",33.46103723087586,-112.03660011291504
+"85006","Phoenix","AZ","Phoenix Children's Hospital - Gastroenterology","1919 E Thomas Rd Floor 2, Clinic C","85016",33.4789775,-112.0408823
+"85006","Phoenix","AZ","Saint Luke's Hospital & Medical Center","1800 E Van Buren St","85006",33.45464838388757,-112.04231832795847
+"85006","Phoenix","AZ","Phoenix Children's Hospital - Admitting","1919 E Thomas Rd Floor 1","85016",33.4789487,-112.041008
+"85006","Phoenix","AZ","Phoenix Children's - Ophthalmology","1920 E Cambridge Ave Rosenberg Medical Pl","85006",33.477858,-112.0402013
+"85006","Phoenix","AZ","Banner University Medicine Orthopedic & Spine Clinic","755 East McDowell Rd","85006",33.46536923679493,-112.05961346626282
+"85006","Phoenix","AZ","Surgicenter","1040 E McDowell Rd","85006",33.46613482800117,-112.05893837191003
+"85006","Phoenix","AZ","Phoenix Childrens Pharmacy","not_available","85016",33.478580931138495,-112.0418283441343
+"85006","Phoenix","AZ","Phoenix Children's Hospital - Cardiovascular Intensive Care Unit","1919 E Thomas Rd Floor 5","85016",33.4789487,-112.041008
+"85007","Phoenix","AZ","Cannabis Herm Store","1350 W Roosevelt St","85007",33.4588382,-112.0911737
+"85007","Phoenix","AZ","Dy Wilpurt Programs","2220 N 9th Ave","85007",33.472334000000004,-112.08518899999999
+"85007","Phoenix","AZ","M.O.B.","not_available","85013",33.48020123848322,-112.08301948333192
+"85007","Phoenix","AZ","CRU","1424 S 7th Ave","85007",33.434219,-112.08336000000001
+"85008","Phoenix","AZ","Maricopa Medical Center","2601 E Roosevelt St","85008",33.45753144325406,-112.02653539602109
+"85008","Phoenix","AZ","Care Meridian","5241 E Thomas Rd","85018",33.47963845193236,-111.96676678636065
+"85008","Phoenix","AZ","MMC Pre-OP","not_available","85008",33.45738637385154,-112.02581929443716
+"85008","Phoenix","AZ","Ark Conference Room","2611 E Pierce St","85008",33.45613098144531,-112.02713775634766
+"85008","Phoenix","AZ","Maricopa Integrated Hospital","2619 E Pierce St","85008",33.45753144325406,-112.02604052909251
+"85008","Phoenix","AZ","Maricopa County Hospital Patient Registration","2525 E Roosevelt St","85008",33.45838928222656,-112.02689361572266
+"85008","Phoenix","AZ","Oasis Hospital","750 N 40th St","85008",33.45661549746688,-111.99657082557678
+"85008","Phoenix","AZ","St Lukes ER","not_available","85040",33.4544134526055,-112.03006932551834
+"85008","Phoenix","AZ","Los Ninos Hospital","2303 E Thomas Rd","85016",33.479861,-112.032328
+"85012","Phoenix","AZ","Carl T Hayden VA Medical Center","Indian School Rd","not_available",33.4959028125703,-112.0659813513458
+"85012","Phoenix","AZ","Carl T Hayden VA Medical Center, Diamond Clinic","650 E Indian School Rd","85012",33.4956967194465,-112.0672888304372
+"85012","Phoenix","AZ","Banner Urgent Care","5018 N. 7th St.","85014",33.50990329079979,-112.06532798834326
+"85012","Phoenix","AZ","St Josephs Hospital Radiology Schedulers","240 W Thomas Rd","85013",33.481682,-112.07858799999998
+"85012","Phoenix","AZ","Carl T Hayden VA Medical Center, Morgue","not_available","85012",33.49532313923357,-112.06675321800748
+"85012","Phoenix","AZ","community medical clinic","3201 N 3rd St","85012",33.485002,-112.0692
+"85012","Phoenix","AZ","Carl T Hayden VA Medical Center, Gold Clinic","700-798 E Indian School Rd","85014",33.49544142034557,-112.06705013360757
+"85012","Phoenix","AZ","Scope Room","Va Hospital","85012",33.496111,-112.066867
+"85012","Phoenix","AZ","Phoenix Children's Specialty Care at St. Joseph's","124 W Thomas Rd Suite 320","85013",33.48081588745117,-112.07621765136719
+"85012","Phoenix","AZ","CuraHealth","40 E Indianola Ave","85012",33.492759704589844,-112.07213592529297
+"85012","Phoenix","AZ","Ivy Brain Tumor Center","2910 N 3rd Ave","85013",33.4813545,-112.0787418
+"85012","Phoenix","AZ","Goodnight pediatrics","3600 N 3rd Ave, Phoenix, AZ 85013","85013",33.48960494995117,-112.0786361694336
+"85012","Phoenix","AZ","St. Joseph's Hospital Drive Me Safe Station","350 W Thomas Rd","85013",33.48143336005723,-112.07683861255646
+"85013","Phoenix","AZ","St. Joseph's Medical Center - Educational Development","3511 N.  3rd Ave.","not_available",33.48487048485091,-112.08310681088048
+"85013","Phoenix","AZ","St Joes Emergency Room","500-598 W Catalina Dr","85013",33.48296338056305,-112.0793627151171
+"85013","Phoenix","AZ","Alliance Urgent Care","9897 W McDowell Rd","85353",33.510149292113574,-112.08297284258708
+"85013","Phoenix","AZ","Alliance Urgent Care","3310 N. 7th Avenue","85013",33.50994004238179,-112.08318831658963
+"85014","Phoenix","AZ","Phoenix Indian Medical Center","4214 N 16th St","85016",33.49718424222845,-112.04871116427354
+"85014","Phoenix","AZ","Phoenix Indian Medical Hospital","4212 N 16th St","85016",33.49701690673828,-112.04847717285156
+"85014","Phoenix","AZ","Leo Biglaiser O.D.","1219 E Glendale Ave","85020",33.537831,-112.0551319
+"85014","Phoenix","AZ","St. Josephs Medical Center","500 thomas","not_available",33.48669257447226,-112.04902554769677
+"85014","Phoenix","AZ","SJRMC","not_available","85004",33.482355803919944,-112.06415666049068
+"85014","Phoenix","AZ","PIMC X-Ray","not_available","85014",33.49738474427986,-112.0489032874811
+"85015","Phoenix","AZ","Abrazo Central Campus","2000 W Bethany Home Rd","85015",33.52530813184537,-112.1025509166316
+"85015","Phoenix","AZ","Surgical Specialty Hospital Of Arizona","6501 N 19th Ave","85015",33.53194482190704,-112.09919249130522
+"85015","Phoenix","AZ","VA Midtown Clinic","5040 N 15th Ave","85015",33.50997949077407,-112.09142215825247
+"85015","Phoenix","AZ","FastMed Urgent Care","5201 N 19th Ave","85015",33.51375221,-112.09942053
+"85015","Phoenix","AZ","Canyon Surgery Center","6036 N 19th Ave Ste 100","85015",33.5256054,-112.100435
+"85015","Phoenix","AZ","Central Supply End Of The Month","not_available","85015",33.525948,-112.111685
+"85015","Phoenix","AZ","CHEEERS Center","1950 W Heatherbrae Dr","85015",33.498107,-112.101529
+"85015","Phoenix","AZ","Advanced Urgent Care","5201 N 19th Ave #100","85015",33.513653999999995,-112.09929199999999
+"85016","Phoenix","AZ","Abrazo Arizona Heart Hospital","1930 E Thomas Rd","85016",33.48079563449125,-112.03990259134935
+"85016","Phoenix","AZ","Rheumatology: Banner Health Clinic: Phoenix","4400 N 32nd St","85018",33.50109100341797,-112.01338195800781
+"85016","Phoenix","AZ","Arizona Heart Institute","1910 E Thomas Rd Ste 200","85016",33.48112869262695,-112.04068756103516
+"85017","Phoenix","AZ","Advance urgent care","3302 W Thomas Rd, Phoenix, AZ 85017","85017",33.480831146240234,-112.13066864013672
+"85017","Phoenix","AZ","FastMed Urgent Care","3302 W Thomas Rd #10","85017",33.480916,-112.130715
+"85017","Phoenix","AZ","MBI","3501 W Osborn Rd","85019",33.4871814,-112.13479765
+"85017","Phoenix","AZ","Alcohol Drug Rehab Phoenix","3108 W Thomas Rd #1205","85017",33.48090362548828,-112.12712860107422
+"85018","Phoenix","AZ","banner good samaritan atu","not_available","85018",33.49705505371094,-112.0096664428711
+"85018","Phoenix","AZ","NextCare Urgent Care","3931 East Camelback Road","85018",33.50942044490297,-111.99590379499482
+"85018","Phoenix","AZ","Advanced Knee Care - Stefan D. Tarlow MD","4440 N 36th St, Suite 100","85018",33.501814,-112.0046476
+"85018","Phoenix","AZ","Banner Urgent Care","3141 E Indian School Rd, Ste 102 - 104","85016",33.494209988897964,-112.01365360491087
+"85018","Phoenix","AZ","Robert Meger, M.D. P.C.","3333 E Camelback Rd","85018",33.509502000000005,-112.00943899999999
+"85018","Phoenix","AZ","PIMC Same Day Surgery","4214 E Indian School Rd","85018",33.495253000000005,-111.99042299999999
+"85018","Phoenix","AZ","NextCare Urgent Care","4730 E Indian School Rd Ste 211","85018",33.49489986987289,-111.97983384132384
+"85018","Phoenix","AZ","Arcadia Urgent Care","4730 E Indian School Rd #211","85018",33.4951012611184,-111.97989545316513
+"85020","Phoenix","AZ","John C. Lincoln North Mountain Hospital","250 E Dunlap Ave","85020",33.569267928886894,-112.0708680152893
+"85020","Phoenix","AZ","Banner Urgent Care","9111 N 7th St","85020",33.56859839712047,-112.06491072825906
+"85020","Phoenix","AZ","John C. Lincoln North Mountain Outpatient Surgery Center","9250 N 3rd St Ste 1001","85020",33.570134,-112.070108
+"85020","Phoenix","AZ","North Mountain Medical and Rehabilitation Center","9155 N 3rd St","85020",33.56946150257447,-112.06883661664502
+"85020","Phoenix","AZ","Virginia G. Piper Cancer Care Network","303 E Eva St","85020",33.568791999999995,-112.06800600000001
+"85020","Phoenix","AZ","JCL 5E Orthopedics","not_available","85020",33.569800565113965,-112.07064703420576
+"85020","Phoenix","AZ","North Mountain Surgery Center","9250 N 3rd St","85020",33.57472396249543,-112.06477960166212
+"85021","Phoenix","AZ","John C. Lincoln Morgue","not_available","85021",33.57577133178711,-112.08100128173828
+"85021","Phoenix","AZ","NextCare Urgent Care","8101 N 19th Ave Ste A","85021",33.55495316892024,-112.09932639264045
+"85021","Phoenix","AZ","Advanced Urgent Care","2423 W Dunlap Ave Ste 150","85021",33.566988394856395,-112.11155213434543
+"85021","Phoenix","AZ","Banner Urgent Care","1940 W. Glendale Ave. .","85021",33.5392656,-112.10030415
+"85022","Phoenix","AZ","FastMed Urgent Care","401 E Bell Rd","85022",33.63861471679536,-112.06786394119263
+"85022","Phoenix","AZ","Maricopa Integrated Health System","Roosevelt and 36 th street","not_available",33.63391879506527,-112.07190557197775
+"85022","Phoenix","AZ","Advanced Urgent Care","401 E Bell Rd Ste 18","85022",33.63882827758789,-112.0669174194336
+"85022","Phoenix","AZ","Regent Medical Urgent Care","16872 N Cave Creek Rd","85032",33.63993835449219,-112.03096008300781
+"85022","Phoenix","AZ","Luminessence CranioSacral and Lymphatic Therapy","706 E Bell Rd. Suite 102","85022",33.640724182128906,-112.06501770019531
+"85023","Phoenix","AZ","John C Lincoln ER","not_available","85027",33.646929249661056,-112.09339397403143
+"85023","Phoenix","AZ","Urgent Care","1920 W Thunderbird Rd","85023",33.611846923828125,-112.10157012939453
+"85023","Phoenix","AZ","Urgent Care Medical Office","1930 W Thunderbird Rd Ste 101","85023",33.61125232770871,-112.10082259399796
+"85027","Phoenix","AZ","HonorHealth Deer Valley Medical Center","19829 N 27th Ave","85027",33.66581337252174,-112.11631433428606
+"85027","Phoenix","AZ","Native 5","702 W Deer Valley Rd","85027",33.68731689453125,-112.0896224975586
+"85027","Phoenix","AZ","Mendy's Place","19841 N 27th Ave","85027",33.66575950074025,-112.11637061124095
+"85027","Phoenix","AZ","John C Lincoln Outpatient Surgery","19464 N 27th Ave, Bldg 3","85027",33.665215300355634,-112.11838105609873
+"85028","Phoenix","AZ","Global Retina Institute","4835 East Cactus Road Ste 105","85254",33.59678117,-111.97656858
+"85028","Phoenix","AZ","Elite Plastic Surgery","10910 N Tatum Blvd #100","85028",33.5846328,-111.9780071
+"85028","Phoenix","AZ","Tiny Blessings Doula","11640 N Tatum Blvd","85028",33.5937119,-111.98263600000001
+"85028","Phoenix","AZ","Statclinix","not_available","85028",33.5847,-111.97953
+"85029","Phoenix","AZ","Urgent Air","3039 W Peoria Ave","85029",33.5815543405452,-112.12369680404663
+"85029","Phoenix","AZ","Quick visit Urgent Care","not_available","85029",33.596310519231736,-112.11771155487281
+"85029","Phoenix","AZ","FastMed Urgent Care","2860 W Peoria Ave , Ste B","85029",33.58243027836699,-112.12165832519531
+"85031","Phoenix","AZ","Abrazo Maryvale Hospital Medical Center","5102 W Campbell Ave","85031",33.50304305937526,-112.17096410999085
+"85031","Phoenix","AZ","FastMed Urgent Care","5259 W Indian School Rd","85031",33.49450529,-112.17276997
+"85031","Phoenix","AZ","Barbara Garcia, MD","5112 W. Olive Road, Suite C113","85302",33.503278,-112.172519
+"85031","Phoenix","AZ","Abrazo Healthcare","not_available","85031",33.502717057667105,-112.17105560547397
+"85031","Phoenix","AZ","InjuryMD of Arizona (InjuryMD)","4524 North Maryvale Parkway Suite 140","85031",33.503249,-112.1725023
+"85032","Phoenix","AZ","Abrazo Scottsdale Campus","3929 E Bell Rd","85032",33.63987731933594,-111.9974136352539
+"85032","Phoenix","AZ","FastMed Urgent Care","2301 N 44th St","85008",33.6097497,-112.0147079
+"85032","Phoenix","AZ","Banner Urgent Care","3247 E Bell Rd","85032",33.639915,-112.011771
+"85032","Phoenix","AZ","HonorHealth Urgent Care - Saguaro","18404 N Tatum Blvd Ste 101C","85032",33.6540701,-111.9784252
+"85032","Phoenix","AZ","Miller Medical","4727 E Bell Rd","85032",33.63919531251684,-111.97908282279968
+"85032","Phoenix","AZ","NextCare Urgent Care","3229 E Greenway Rd Ste 102","85032",33.62595447206158,-112.01172176961495
+"85032","Phoenix","AZ","Scottsdale Healthcare Urgent Care","not_available","85032",33.612976917627876,-111.97740925257322
+"85032","Phoenix","AZ","North Court","13232 N Tatum Blvd","85032",33.606544494628906,-111.97903442382812
+"85032","Phoenix","AZ","Phoenix Children's Sports Medicine PT - Phoenix","4215 E Bell Rd","85032",33.64002227783203,-111.98971557617188
+"85032","Phoenix","AZ","Urgent Care Tatum","18404 N Tatum Blvd Ste 102","85032",33.65395736694336,-111.97859954833984
+"85032","Phoenix","AZ","Laura P. Pomeroy, RDN, CDE","3815 E Bell Rd #2100","85032",33.63952580371762,-112.00124859809875
+"85032","Phoenix","AZ","Phoenix Children's Pediatrics - North Phoenix","3805 E Bell Rd Suite 5100","85032",33.6400707,-112.0000357
+"85033","Phoenix","AZ","Advanced Urgent Care","8260 W Indian School Rd","85033",33.495647999999996,-112.23723100000001
+"85033","Phoenix","AZ","Dignity Health AGH ER - Glendale Camelback","8310 W Camelback Rd","85305",33.50941876048705,-112.23835185170174
+"85033","Phoenix","AZ","Akos Med Clinic","4811 N 83rd Ave","85033",33.5076,-112.235805
+"85034","Phoenix","AZ","One Health Medical System Urgent Care","901 E Jefferson St","85034",33.446669,-112.06173100000001
+"85034","Phoenix","AZ","Myalertdevice.com","455 S 48th St Ste 105","85281",33.42499542236328,-111.97688293457031
+"85034","Phoenix","AZ","Phoenix childrens hospital","not_available","85034",33.448309399505646,-112.03758546027542
+"85034","Phoenix","AZ","Concentra Urgent Care","1818 E Sky Harbor Circle North Building 2, Suite 150","85034",33.43972268107115,-112.0440762862927
+"85034","Phoenix","AZ","Drug & Alcohol Rehab Phoenix","3636 E Anne St","85040",33.413872,-112.002319
+"85035","Phoenix","AZ","NextCare Urgent Care","5920 West McDowell Road","85035",33.46641540527344,-112.18794
+"85037","Phoenix","AZ","Banner Estrella Medical Center","9201 W Thomas Rd","85037",33.478018962582716,-112.25781959085941
+"85037","Phoenix","AZ","Phoenix Childrens Southwest Valley Center","1665 N Avondale Blvd","85392",33.46534017013119,-112.30578536681718
+"85037","Phoenix","AZ","West Valley Urgent Care","4110 N 108th Ave Ste 101","85037",33.49370894068627,-112.29364829603888
+"85037","Phoenix","AZ","Goodnight Pediatrics","10300 W McDowell Rd","85392",33.46503426,-112.282794
+"85037","Phoenix","AZ","Express Urgent Care - Estrella","9250 W Thomas Rd #100","85037",33.48150634765625,-112.2610092163086
+"85037","Phoenix","AZ","Dr. Tan's office at Banner","not_available","85037",33.478177,-112.260624
+"85037","Phoenix","AZ","Heart One Associates","9520 W Palm Lane Suite 150","85037",33.4688698,-112.267555
+"85037","Phoenix","AZ","Phoenix Children's Ophthalmology - West Phoenix","9250 W Thomas Rd Suite 320","85037",33.4803839,-112.2587532
+"85041","Phoenix","AZ","Dignity Health Arizona General Hospital","7171 S 51st Ave","85339",33.380712,-112.166813
+"85041","Phoenix","AZ","Akos Med Clinic","5035 W Baseline Rd","85339",33.3763662,-112.1662459
+"85041","Phoenix","AZ","Arizona General Hospital ER","not_available","85339",33.380646,-112.167348
+"85041","Phoenix","AZ","Laveen Urgent Care","51st Avenue","85339",33.376201,-112.166354
+"85042","Phoenix","AZ","IMS Urgent Care","3540 E Baseline Rd Ste 131","85042",33.3790168762207,-112.00524139404297
+"85042","Phoenix","AZ","FastMed Urgent Care","2720 W Baseline Rd , Ste 140","85283",33.37938681337918,-111.97784900665283
+"85042","Phoenix","AZ","Akos Med Clinic","4747 E Elliot Rd","85044",33.347844,-111.982049
+"85042","Phoenix","AZ","Jesse Owen Urgent Care","325 E Baseline Rd","85042",33.37714019449257,-112.06917511678344
+"85042","Phoenix","AZ","goodnight pediactrics","not_available","85042",33.378150939941406,-112.06858825683594
+"85044","Phoenix","AZ","Dignity Health AGH ER - Ahwatukee","4328 E Chandler Blvd","85048",33.305858880090774,-111.98964618961327
+"85044","Phoenix","AZ","Chandler Regional Hospital","not_available","85048",33.30722162734772,-111.97867846140456
+"85044","Phoenix","AZ","StatClinix","not_available","85044",33.315708,-111.982314
+"85045","Phoenix","AZ","Team Significant Life","not_available","85045",33.3022,-112.1226
+"85048","Phoenix","AZ","Dignity Health Urgent Care","4545 E Chandler Blvd","85048",33.3043199,-111.9853131
+"85048","Phoenix","AZ","La Estancia Nursing & Rehabilitation","15810 S 42nd St","85048",33.303750474599994,-111.99352048528701
+"85050","Phoenix","AZ","NextCare Urgent Care","20950 N Tatum Blvd Ste 190","85050",33.676337217703434,-111.97805616654679
+"85053","Phoenix","AZ","Urgent Care Extra","4232 W Bell Rd","85308",33.639938,-112.149817
+"85054","Phoenix","AZ","Mayo Clinic","5777 E Mayo Blvd","85054",33.6584154,-111.9561318
+"85054","Phoenix","AZ","Mayo Clinic Surgical Floor","not_available","85054",33.658882,-111.95652
+"85054","Phoenix","AZ","MedPost Urgent Care","23015 N Scottsdale Rd Ste 101","85255",33.6953325,-111.9253195
+"85054","Phoenix","AZ","Phoenix Children's Pediatrics - Scottsdale","5425 E Bell Rd Suite 145","85254",33.640079,-111.9627229
+"85054","Phoenix","AZ","Regenerative Med Center","9377 E Bell Rd Ste 343","85260",33.64872545500348,-111.93861365318298
+"85054","Phoenix","AZ","Mayo Clinic - Angel & Paul Harvey Atrium","5779 E Mayo Blvd","85054",33.659264188367345,-111.95642648002496
+"85054","Phoenix","AZ","Mayo Clinic - 4W","5777 E Mayo Blvd, Phoenix, AZ 85054","85054",33.65937042236328,-111.956298828125
+"85083","Phoenix","AZ","FastMed Urgent Care","3730 W Happy Valley Rd , Ste 100","85310",33.713184724806695,-112.13972568511963
+"85085","Phoenix","AZ","HonorHealth Sonoran Health and Emergency Center","33423 N 32nd Ave","85085",33.786893012770065,-112.12905838156075
+"85085","Phoenix","AZ","future john c. lincon","not_available","85085",33.782691955566406,-112.12812042236328
+"85086","Phoenix","AZ","The Underground CBD Extracts","42002 North Long Cove Way","85086",33.8657735,-112.1037597
+"85086","Phoenix","AZ","HonorHealth Urgent Care - Gavilan Peak","3648 W Anthem Way Bldg A-100C","85086",33.8671757,-112.1372929
+"85086","Phoenix","AZ","John C. Lincoln Urgent Care","3648 W Anthem Way Ste A100","85086",33.867260585162555,-112.1372290599789
+"85118","Gold Canyon","AZ","Stripes Urgent Care","6820 S Kings Ranch Rd","85118",33.35296108,-111.45940818
+"85119","Apache Junction","AZ","Mountain Vista Medical Center","not_available","85209",33.38871529210805,-111.52109237937312
+"85120","Apache Junction","AZ","Mountain Vista Medical Center","1301 South Crismon Road","85209",33.39176430099206,-111.61101897700769
+"85120","Apache Junction","AZ","NextCare Urgent Care","2080 W Southern Ave Bldg A1","85120",33.39366464648118,-111.56947816134847
+"85120","Apache Junction","AZ","FastMed Urgent Care","1955 S Signal Butte Rd #103","85209",33.37931671997781,-111.60088887858724
+"85120","Apache Junction","AZ","Banner Urgent Care","1157 S Crismon Rd, Ste 101","85208",33.39381,-111.6148553
+"85120","Apache Junction","AZ","Mountain Vista Medical Center Labor & Delivery","1301 S Crismon Rd","85209",33.391283,-111.611255
+"85120","Apache Junction","AZ","Banner Goldfield Medical Center","2050 W Southern Ave","85120",33.39436680582737,-111.56718017485139
+"85120","Apache Junction","AZ","Steward Medical Group Women's Health Associates","10238 E Hampton Ave Ste 301B","85209",33.39090801695756,-111.6099128521426
+"85120","Apache Junction","AZ","Desert Grove Family Medical","10238 E Hampton Ave Ste 508","85209",33.390970407969576,-111.60993864418032
+"85120","Apache Junction","AZ","Mountain Vista Surgical Specialists","10238 E Hampton Ave Ste 305","85209",33.39094729487036,-111.60991109325408
+"85120","Apache Junction","AZ","Steward Orthopedic & Sports Medicine Center","10238 E Hampton Avenue, Suite 301A","85208",33.3910041,-111.6099141
+"85120","Apache Junction","AZ","The Little Clinic","2724 S Signal Butte Rd","85209",33.3662769,-111.6035766
+"85122","Casa Grande","AZ","Banner Casa Grande Medical Center","1800 E Florence Blvd","85122",32.88104644294947,-111.7097729926424
+"85122","Casa Grande","AZ","Banner Urgent Care","1676 E McMurray Blvd, Ste 1","85122",32.8845425019277,-111.71480315583705
+"85122","Casa Grande","AZ","NextCare Urgent Care","1683 E Florence Blvd Ste. 7","85122",32.878182,-111.714709
+"85122","Casa Grande","AZ","Phoenix Children's Cardiology - Casa Grande","1828 E Florence Blvd Building C Suite 142","85222",32.8806528,-111.709487
+"85122","Casa Grande","AZ","Casa Grande Emergency Room","not_available","85222",32.88151153470471,-111.70917263047087
+"85122","Casa Grande","AZ","CGRMC Urgent Care","1690 E McMurray Blvd","85122",32.88456983333333,-111.7145517
+"85122","Casa Grande","AZ","Dermatology Specialists","1890 E Florence Blvd Ste 4","85122",32.880253,-111.706
+"85122","Casa Grande","AZ","Serenity Integrated Healthcare","115 E 1st St","85122",32.875999,-111.7536273
+"85128","Coolidge","AZ","Oh, Darling Birth Services","5710 E Valley View Dr","85132",33.097345,-111.50641300000001
+"85128","Coolidge","AZ","Florence Hospital","4545 N Hunt Hwy","85132",33.0731155,-111.4855536
+"85132","Florence","AZ","east valley urgent care","not_available","85232",33.03777313232422,-111.38245391845703
+"85132","Florence","AZ","Florence Community Hospital","450 W Adamsville Rd","85132",33.026851654052734,-111.39369201660156
+"85132","Florence","AZ","Urgent Care, Florence,Az","not_available","85132",33.036381,-111.378301
+"85132","Florence","AZ","FastMed Urgent Care","495 N Pinal Pkwy","85132",33.0363572,-111.37823449
+"85138","Maricopa","AZ","Dignity Health Urgent Care","20750 N John Wayne Pkwy","85139",33.06750264589038,-112.04749757191166
+"85138","Maricopa","AZ","Maricopa Animal Hospital","19950 N. John Wayne Pkwy","85139",33.061084820326414,-112.04840260272906
+"85138","Maricopa","AZ","Maricopa Hospital","not_available","85239",33.050041861130204,-112.01378526733956
+"85138","Maricopa","AZ","Maricopa Urgent Care","21300 N John Wayne Pkwy","85139",33.07392883300781,-112.04549407958984
+"85139","Maricopa","AZ","Antonelli's Hypochondriacal Delusion","45176 W Alamendras St, Maricopa, AZ 85139","85139",33.07120132446289,-112.0532455444336
+"85140","San Tan Valley","AZ","Banner Ironwood Medical Center","37000 N Gantzel Rd","85140",33.214426155856714,-111.56563440664797
+"85140","San Tan Valley","AZ","Banner Urgent Care","40773 N Ironwood Rd","85140",33.2495272,-111.5626204
+"85140","San Tan Valley","AZ","Urgent Care Extra","40773 N Ironwood Dr","85140",33.24958540804183,-111.56277553794834
+"85140","San Tan Valley","AZ","Banner Ironwoof","not_available","85242",33.237817744553816,-111.55790137764407
+"85140","San Tan Valley","AZ","Banner Urgent Care","35945 N Gary Rd","85143",33.20570783872241,-111.58225777240466
+"85140","San Tan Valley","AZ","Banner Ironwood ER Department","not_available","85142",33.21522185600888,-111.5659654097818
+"85140","San Tan Valley","AZ","The Little Clinic","155 W Combs Rd","85140",33.2182655,-111.5661621
+"85142","Queen Creek","AZ","Dignity Health AGH ER - Gilbert","4760 E Germann Rd","85297",33.278906607885055,-111.68695622007363
+"85142","Queen Creek","AZ","Nextcare Urgent Care","6343 S Higley Rd","85298",33.234901,-111.719705
+"85142","Queen Creek","AZ","Alliance Urgent Care","21582 S Ellsworth Loop Rd Ste 100","85142",33.25267161313832,-111.63840745263944
+"85142","Queen Creek","AZ","Mercy Gilbert Hospital Room 235","not_available","85296",33.28689296750835,-111.74932359763777
+"85142","Queen Creek","AZ","Lund Family Hospice","1982 E Woodside Ct","85297",33.2872200012207,-111.74723052978516
+"85142","Queen Creek","AZ","Phoenix Children's Mercy Gilbert Specialty Care - Neurology","3420 Mercy Rd Suite 113 & 205","85297",33.28749,-111.7502406
+"85142","Queen Creek","AZ","Dignity Health Urgent Care","7205 S Power Rd","85142",33.285185002781674,-111.68561160564423
+"85142","Queen Creek","AZ","Phoenix Children's Mesa Pediatrics - San Tan","3592 South Atherton Blvd Ste 101","85297",33.2854031,-111.7169461
+"85142","Queen Creek","AZ","Urgent Care","not_available","85297",33.27618885243578,-111.68971426892391
+"85142","Queen Creek","AZ","Banner Urgent Care","3160 E Queen Creek Rd","85297",33.26358564656778,-111.72129795643139
+"85142","Queen Creek","AZ","Desert Grove Family Medical","20928 E Heritage Loop Rd Ste 106","85142",33.25161168211947,-111.63179058354956
+"85142","Queen Creek","AZ","The Little Clinic","6470 S Higley Rd","85298",33.2328798,-111.7228547
+"85142","Queen Creek","AZ","Emergency Room at Arizona General Hospital - San Tan Valley, AZ","1419 W Hunt Hwy","85143",33.176783,-111.581835
+"85143","San Tan Valley","AZ","Urgent Care","Johnson Ranch","85143",33.16171109676361,-111.5648102760315
+"85147","Sacaton","AZ","The Money Maker Box - GRHC","483 W Seed Farm Rd, Sacaton, AZ 85147","85147",33.07337188720703,-111.75885009765625
+"85147","Sacaton","AZ","HuHuKam Memorial","not_available","AZ",33.07328821129373,-111.75955588786542
+"85147","Sacaton","AZ","Joni's Office","483 W. Seed Farm Rd","85147",33.07337188720703,-111.75885009765625
+"85201","Mesa","AZ","Desert Vista Behavioral Health  Center","570 W Brown Rd","85201",33.43548717179877,-111.84473371469302
+"85201","Mesa","AZ","Mesa Christian Health & Rehab","not_available","85201",33.434536637617605,-111.8371437483639
+"85201","Mesa","AZ","Room 502","1400 S Dobson Rd, Mesa, AZ 85202","85202",33.40757028119687,-111.88119255817628
+"85201","Mesa","AZ","Akos Med Clinic","1902 West Main Street","85201",33.4165921,-111.8730677
+"85201","Mesa","AZ","Southwest Urgent Care","535 E McKellips Rd","85203",33.450897216796875,-111.81941223144531
+"85201","Mesa","AZ","Drug & Alcohol Rehab Mesa","198 East Main Street","85201",33.41485749260141,-111.82672262191771
+"85201","Mesa","AZ","An Oasis of Healing","210 N Center St #102","85201",33.4199215,-111.8318568
+"85201","Mesa","AZ","New *OLD* Southwest Ambulance Station 1","617 W Main St","85201",33.414695739746094,-111.8455810546875
+"85201","Mesa","AZ","FastMed Urgent Care","835 W University Dr","85201",33.4218396,-111.8494759
+"85202","Mesa","AZ","Banner Desert Medical Center","1400 S Dobson Rd","85202",33.39064995858753,-111.877269230649
+"85202","Mesa","AZ","Southern Desert Medical","2600 E Southern","85282",33.393392685185056,-111.88159429085401
+"85202","Mesa","AZ","banner desert Gift Shop","not_available","85282",33.38955733876501,-111.88368446462398
+"85202","Mesa","AZ","BDMC Juniper Room","not_available","85202",33.389349,-111.876796
+"85202","Mesa","AZ","Banner Urgent Care","1955 W Guadalupe Rd, Ste 1","85202",33.3636375,-111.8757823
+"85202","Mesa","AZ","Grace Hospice of Arizona, Inc.","2141 E Broadway Rd Ste 118","85282",33.406577,-111.89356000000001
+"85202","Mesa","AZ","Banner Health Medical Building","1520 S Dobson Rd","85202",33.387851481824434,-111.87623202988752
+"85202","Mesa","AZ","Friendship Village-Hospice of the Valley","2525 E Southern Ave","85282",33.392608,-111.88408700000001
+"85202","Mesa","AZ","Banner Desert Surgicenter","1500 S Dobson Rd #101, Mesa, AZ 85202","85202",33.387393951416016,-111.87628173828125
+"85203","Mesa","AZ","StatClinix Urgent Care","11510N Gilbert Rd","85213",33.436923,-111.787549
+"85203","Mesa","AZ","Banner Urgent Care","1908 E McKellips Rd","85203",33.45206915937003,-111.78953122497353
+"85203","Mesa","AZ","Drug & Alcohol Rehab Mesa","851 N Stapley Dr #C","85203",33.43109893798828,-111.80413818359375
+"85203","Mesa","AZ","The Little Clinic","1935 N Stapley Dr","85203",33.45041100671736,-111.80288799140169
+"85203","Mesa","AZ","Mesa Urgent Care","1242 E McKellips Rd","85203",33.45183181762695,-111.80351257324219
+"85204","Mesa","AZ","Mesa Care Partnership","466 S Bellview","85204",33.40639877319336,-111.81598663330078
+"85204","Mesa","AZ","Dignity Health AGH ER - Mesa Baseline","1910 S Gilbert Rd","85204",33.38056488811792,-111.78890698472969
+"85204","Mesa","AZ","NextCare Urgent Care","3130 E Baseline Rd Ste 105","85204",33.38011318398962,-111.76348930239897
+"85204","Mesa","AZ","Cigna Medical Urgent Care","not_available","85204",33.381913282030496,-111.80887760985456
+"85204","Mesa","AZ","Urgent Care Extra","1120 S Gilbert Rd","85204",33.39483642703873,-111.78872397378903
+"85205","Mesa","AZ","Banner Heart Hospital","6750 E Baywood Ave","85206",33.41151147228811,-111.68601656764893
+"85205","Mesa","AZ","Banner Baywood Emergency Department","6644 E Baywood Ave","85206",33.411116724021205,-111.68654433432773
+"85205","Mesa","AZ","CPR and First Aid Training Center","4410 E. University Drive, Suite 103","85205",33.4239769,-111.7357131
+"85205","Mesa","AZ","Radiologie AZ Damiaan Oostende","AZ Damiaan Oostende","85206",33.412774,-111.734388
+"85205","Mesa","AZ","FastMed Urgent Care","415 N Val Vista Dr , Ste 101","85205",33.423149810069276,-111.75252199172974
+"85205","Mesa","AZ","NextCare Urgent Care","1066 N Power Rd Ste 101","85205",33.43554802317996,-111.68485567688832
+"85205","Mesa","AZ","Sterling House Hacienda Healthcare","not_available","85225",33.41413562272543,-111.7000373346526
+"85205","Mesa","AZ","Alta Mesa Animal Hospital","6704 E Brown Road","85205",33.43777245481359,-111.68561924231051
+"85205","Mesa","AZ","Banner Baywood Morgue","not_available","85205",33.41096152436811,-111.68764732604684
+"85205","Mesa","AZ","NextCare Urgent Care","4401 E McKellips Rd Ste 102","85215",33.4513093,-111.73522668333334
+"85206","Mesa","AZ","Banner Gateway Medical Center","1900 N Higley Rd","85234",33.3845237,-111.7238908
+"85206","Mesa","AZ","Banner Desert Hospital Emergency Room","2940 East Banner Gateway Dr.","85206",33.385015556359384,-111.72270552760986
+"85206","Mesa","AZ","Phoenix Children’s Specialty and Urgent Care - East Valley Center","5131 E Southern Ave","85206",33.39325426306509,-111.72079300966475
+"85206","Mesa","AZ","Banner Urgent Care - Non-Respiratory Clinic","1660 N Higley Rd Ste 104","85234",33.3806051,-111.722783
+"85206","Mesa","AZ","FastMed Urgent Care","1810 South Power Rd #101","85206",33.38328116984514,-111.68640133782857
+"85206","Mesa","AZ","Alliance Urgent Care","1660 N Higley Rd","85234",33.380461,-111.72286100000001
+"85206","Mesa","AZ","Banner MD Anderson Cancer Center","2946 E Banner Gateway Dr","85234",33.38450135281697,-111.72291056158565
+"85206","Mesa","AZ","ER Yellow #9","not_available","85206",33.395877838134766,-111.72748565673828
+"85206","Mesa","AZ","Er Room 5","not_available","85234",33.38505,-111.722714
+"85206","Mesa","AZ","Valley Sleep Center - Mesa Sleep Clinic","4555 E Inverness Ave","85206",33.38112104,-111.73630963
+"85206","Mesa","AZ","Phoenix Children's Ophthalmology – Southeast Mesa","1220 S Higley Rd Suite 106","85206",33.39255142211914,-111.71989440917969
+"85207","Mesa","AZ","Mercy Hospital","not_available","85207",33.43038,-111.633273
+"85207","Mesa","AZ","Home Care Assistance of Mesa","2031 N Power Rd","85215",33.452579,-111.681927
+"85207","Mesa","AZ","Dignity Health AGH ER - N Power","1833 N Power Rd","85205",33.44906935215548,-111.68351494590752
+"85208","Mesa","AZ","Springdale Nursing Home","7335 E Broadway Rd","85208",33.406734466552734,-111.6722412109375
+"85208","Mesa","AZ","Banner Hospice","not_available","85208",33.40688863333333,-111.67552030251478
+"85209","Mesa","AZ","New York Methodist Hospital","506 6th St","11215",33.366881,-111.634551
+"85209","Mesa","AZ","Chandler regional hospital","not_available","85224",33.363383997292196,-111.62604070705518
+"85209","Mesa","AZ","NextCare Urgent Care","535 E McKellips Rd Ste 101","85203",33.385560409686136,-111.68954542007845
+"85210","Mesa","AZ","The Emergency Center","1325 N Fiesta Blvd","85233",33.3737,-111.835495
+"85210","Mesa","AZ","PCM Custom Molding, Inc.","432 S Robson","85210",33.4041393,-111.8366959
+"85210","Mesa","AZ","Community Bridges- The New One","not_available","85210",33.380887,-111.825239
+"85210","Mesa","AZ","Phoenix Children's Ophthalmology– West Mesa","2045 South Vineyard, Bldg 3 Suite 137","85210",33.37747573852539,-111.84358215332031
+"85212","Mesa","AZ","Gilbert Emergency Room","South Power Rd.","85236",33.31389651439572,-111.68739114156051
+"85212","Mesa","AZ","Gilbert Hospital","5656 S Power Rd","85295",33.31378361715381,-111.68742670525468
+"85212","Mesa","AZ","Dignity Health - Arizona General Hospital Mesa - Mesa, AZ","9130 E Elliot Rd","85212",33.3504785,-111.6361588
+"85213","Mesa","AZ","Banner Urgent Care","407 N Lindsay Rd, Ste 103","85213",33.42303849425604,-111.7706280184027
+"85215","Mesa","AZ","StatClinix Urgent Care Fountain Hills","17225 E Shea Blvd Ste 105","85268",33.56917190551758,-111.7110595703125
+"85215","Mesa","AZ","StatCinix Urgent Care","not_available","85264",33.568148,-111.705635
+"85224","Chandler","AZ","Chandler Regional Medical Center","1955 W Frye Rd","85224",33.2972365,-111.8745708
+"85224","Chandler","AZ","Chandler Health Care Center","2121 W Elgin St","85224",33.29650104631221,-111.87782149554748
+"85224","Chandler","AZ","Sun Valley Pediatric Urgent Care, PC","801 W Ray Rd","85225",33.32061,-111.855239
+"85224","Chandler","AZ","NextCare Urgent Care","600 S Dobson Rd Ste. C26","85224",33.29612691574394,-111.876739999613
+"85224","Chandler","AZ","Dignity Health Rehabilitation Hospital","1515 W Chandler Blvd","85224",33.3055077,-111.86872417
+"85224","Chandler","AZ","Phoenix Children’s Pediatrics- Dobson Village","205 S Dobson Rd Suite 1","85224",33.3006023,-111.8757226
+"85224","Chandler","AZ","Chandler Hospital Neurology","485 S Dobson Rd","85224",33.296490000000006,-111.875298
+"85224","Chandler","AZ","FastMed Urgent Care","2875 W Ray Rd , Ste 8","85224",33.31871276368223,-111.89113855361938
+"85224","Chandler","AZ","Archstone Care Center","1980 W Pecos Rd","85224",33.292902916106044,-111.87358000807684
+"85224","Chandler","AZ","Chandler Urgent Care","936 W Chandler Blvd","85225",33.30650210380554,-111.857943
+"85224","Chandler","AZ","Arizona Premier Surgery, Chandler","655 S Dobson Rd Ste. A105","85224",33.2968518,-111.8761824
+"85225","Chandler","AZ","Banner Urgent Care","3000 N Arizona Ave","85225",33.3500413,-111.8424659
+"85225","Chandler","AZ","Urgent Care Extra","641 W Warner Rd","85233",33.33490512046128,-111.80376985724104
+"85225","Chandler","AZ","Sight On Site Mobile Eye Care","950 E Pecos Rd Suite 5","85225",33.2933061,-111.8262629
+"85225","Chandler","AZ","Noelle Daniels, MD","2487 S Gilbert Rd","85295",33.304080140206956,-111.78980469703674
+"85225","Chandler","AZ","Purge Love and Peace Rage Rooms","106 S Oregon St","85225",33.29995889200188,-111.8429145814298
+"85225","Chandler","AZ","Oasis Urgent Care","2181 E Pecos Rd","85225",33.28918104062617,-111.80493823769861
+"85225","Chandler","AZ","Emergency Room at Arizona General Hospital Chandler McQueen - Chandler, AZ","1064 E Ray Rd","85225",33.3211441,-111.8221579
+"85226","Chandler","AZ","The Little Clinic","9900 S Rural Rd","85284",33.3213381,-111.9303095
+"85226","Chandler","AZ","Kyrene Urgent Care","40 S Kyrene Rd #3","85226",33.30274963378906,-111.94622039794922
+"85226","Chandler","AZ","Phoenix Children's Mesa Pediatrics - Chandler","60 S Kyrene Rd Ste 1","85226",33.3023876,-111.9469859
+"85226","Chandler","AZ","FastMed Urgent Care","4959 W Ray Rd #33","85226",33.318382263183594,-111.92689514160156
+"85233","Gilbert","AZ","Cornerstone Pediatric Urgent Care","1430 N Cooper Rd Ste 101","85233",33.375710017429384,-111.80862454887092
+"85233","Gilbert","AZ","Contemporary Dentistry, Dr. Kathy Jacobsen, DMD","1170 N. Gilbert Rd Suite 125","85234",33.3710433,-111.7909569
+"85234","Gilbert","AZ","Dermatology Solutions","4915 E Baseline Rd #124","85234",33.3786052,-111.7250312
+"85234","Gilbert","AZ","Phoenix Children's Mesa Pediatrics - Gilbert","2550 East Guadelupe Road Ste 115","85234",33.3650631,-111.7495419
+"85234","Gilbert","AZ","Akos Med Clinic","90 S Val Vista Dr","85296",33.3486653,-111.7572612
+"85234","Gilbert","AZ","Banner Urgent Care","1641 E Guadalupe Rd","85234",33.3642407,-111.7547122
+"85234","Gilbert","AZ","Dignity Health Urgent Care Gilbert","1501 N Gilbert Rd","85234",33.375942,-111.788244
+"85234","Gilbert","AZ","Gilbert Health Center","1515 N Gilbert Rd","85234",33.37744140625,-111.7874984741211
+"85234","Gilbert","AZ","Phoenix Children's Specialty Care - Gilbert","1501 N Gilbert Road Suite 203","85234",33.3760871887207,-111.78773498535156
+"85234","Gilbert","AZ","Phoenix Children’s Pediatrics - Palo Verde","120 S Val Vista Dr","85296",33.3479239,-111.7562959
+"85234","Gilbert","AZ","Healthsouth Rehab Hospital East Valley","5652 E Baseline Rd","85206",33.3802128,-111.7094562
+"85234","Gilbert","AZ","Phoenix Children’s Pediatrics - Val Vista Lakes","1546 N Parkway Dr Suite 101","85234",33.3782448,-111.7587878
+"85248","Chandler","AZ","Alpha Chiropractic & Physical Therapy","4955 S Alma","85248",33.235565185546875,-111.85762786865234
+"85248","Chandler","AZ","Akos Med Clinic","4970 S Alma School Rd","85248",33.2336567,-111.8603985
+"85248","Chandler","AZ","Urgent Care Extra","3200 S Gilbert Rd","85286",33.2599555,-111.7901549
+"85248","Chandler","AZ","Desert Valley Urgent Care","250 W Chandler Heights Rd","85248",33.23346,-111.84406399999999
+"85248","Chandler","AZ","NextCare Urgent Care","1155 W Ocotillo Rd Ste 4","85248",33.2467633390458,-111.86607599258423
+"85248","Chandler","AZ","Phoenix ER & Medical Hospital","not_available","85248",33.26086,-111.881996
+"85248","Chandler","AZ","FastMed Urgent Care","3705 S Arizona Ave","85248",33.251532,-111.840754
+"85250","Scottsdale","AZ","ELIZABETH ANN SMITH , LCSW, ACSW","7702 E Doubletree Ranch Rd Ste 300","85258",33.56501711161324,-111.91849708557127
+"85250","Scottsdale","AZ","Advanced Knee Care - Stefan D. Tarlow MD","8630 East Via De Ventura, Suite 105","85258",33.55434,-111.89537
+"85250","Scottsdale","AZ","Recovery Spot","not_available","85250",33.52764912657055,-111.89714539191921
+"85250","Scottsdale","AZ","Chap Suites - Mohave Kiva","not_available","85251",33.50958305045012,-111.91844873179836
+"85250","Scottsdale","AZ","Shea Medical Center","6005-6021 Pima Fwy","85250",33.53186659133585,-111.88511672795839
+"85250","Scottsdale","AZ","Cancer Treatment Scottsdale","8131 E Indian Bend Rd #125","85250",33.53856884217507,-111.90385222434996
+"85250","Scottsdale","AZ","Arizona Premier Surgery, Scottsdale","8415 N Pima Rd Suite 280","85258",33.5570846,-111.8907396
+"85251","Scottsdale","AZ","Scottsdale Healthcare Osborn Emergency Room","7400 E Osborn Rd","85251",33.48876450412111,-111.92234999857148
+"85251","Scottsdale","AZ","Greenbaum Surgery Center","3535 N Scottsdale Rd","85251",33.49008513218869,-111.92545958472182
+"85251","Scottsdale","AZ","St. Joseph's Childrens Hospital","1919 E. Thomas Road","85251",33.49221,-111.90971
+"85251","Scottsdale","AZ","Scottsdale Urgent Care","4368 N Civic Center Plz","85251",33.500728,-111.92163300000001
+"85251","Scottsdale","AZ","Dispatch","7300 E Osborn Rd","85281",33.489451,-111.924155
+"85251","Scottsdale","AZ","Scottsdale Osborn Trauma Bay","7051-7067 E 4th St.","85251",33.48855808242512,-111.92264068430272
+"85251","Scottsdale","AZ","Evangelista orthopedic clinic","3271 N Civic Center Plaza #110","85251",33.4856702,-111.9214974
+"85251","Scottsdale","AZ","Phoenix Therapies, LLC","7324 E 6th Ave","85251",33.499125,-111.92344399999999
+"85253","Paradise Valley","AZ","Phoenix Children's Specialty and Urgent Care - Scottsdale Center","6990 E Shea Blvd","85254",33.58261313698848,-111.93074050686877
+"85253","Paradise Valley","AZ","Dolce Salon & Spa","6166 N Scottsdale Rd","85253",33.52797317504883,-111.92755889892578
+"85253","Paradise Valley","AZ","NextCare Urgent Care","7425 E Shea Blvd Ste 108","85260",33.581203476734956,-111.92132334917501
+"85253","Paradise Valley","AZ","Banner Urgent Care","10330 N Scottsdale Rd, Ste 25","85253",33.58007883216852,-111.92647932390025
+"85253","Paradise Valley","AZ","John C Lincoln Hospital Emergency","not_available","85253",33.57522061666667,-111.92622441666667
+"85253","Paradise Valley","AZ","Urgent Care","6530 E Shea Blvd","85254",33.582477000000004,-111.940876
+"85253","Paradise Valley","AZ","Urgent Care Extra","10330 N Scottsdale Rd #25","85253",33.580073999999996,-111.92650900000001
+"85254","Scottsdale","AZ","Abrazo Medical Group Parkway","6565 E Greenway Pkwy Ste 100","85254",33.62457204049175,-111.93976163864136
+"85254","Scottsdale","AZ","Royal Bolton Hospital ( Delivery Suit )","Princess Ann Building","not_available",33.599171,-111.9283046
+"85254","Scottsdale","AZ","FastMed Urgent Care","4902 East Shea Blvd #101","85028",33.58303075893256,-111.9762445563495
+"85254","Scottsdale","AZ","East Valley Urgent Care","not_available","85254",33.624171928142296,-111.94253492710921
+"85254","Scottsdale","AZ","Banner Urgent Care","6501 E Greenway Pkwy","85254",33.624023218120044,-111.94162272913081
+"85254","Scottsdale","AZ","Hospice House","not_available","85260",33.58942413330078,-111.90851593017578
+"85254","Scottsdale","AZ","Arthritis Online","5831 E Kathleen Rd","85254",33.630955,-111.95478200000001
+"85255","Scottsdale","AZ","Thompson Peak Hospital","7400 E Thompson Peak Pkwy","85255",33.67088329596174,-111.92189796015951
+"85255","Scottsdale","AZ","Star Medica Lomas Verdes","Lomas Verdes","85262",33.7314844,-111.9317553
+"85255","Scottsdale","AZ","thompson peak hospital","thompson peak parkway","85255",33.62546503543854,-111.88650284899643
+"85255","Scottsdale","AZ","TPK xray","not_available","85255",33.6709667161835,-111.92193620372208
+"85255","Scottsdale","AZ","Stat Clinix Northsight","15233 N 87th St Ste 110","85260",33.62488555908203,-111.89170837402344
+"85255","Scottsdale","AZ","Phoenix Children's Ophthalmology – Scottsdale","20201 N Scottsdale Healthcare Dr Suite 150","85255",33.6710164,-111.9203406
+"85255","Scottsdale","AZ","MedPost Urgent Care of Scottsdale","23015 N Scottsdale Rd","85255",33.69639368,-111.92464988
+"85257","Scottsdale","AZ","FastMed Urgent Care","7730 E McDowell Rd Ste 101","85257",33.46634415390167,-111.91416926924045
+"85257","Scottsdale","AZ","Nextcare Urgent Care","2122 N Scottsdale Rd","85257",33.47172164916992,-111.926513671875
+"85257","Scottsdale","AZ","NextCare Urgent Care","914 N Scottsdale Rd Ste. 104","85281",33.43961763622032,-111.92679052004543
+"85258","Scottsdale","AZ","HonorHealth Scottsdale Shea Medical Center","10460 N 92nd St","85258",33.58138004573438,-111.88309729099274
+"85258","Scottsdale","AZ","Scottsdale Healthcare Hospital OB Department","9003 E Shea Blvd","85260",33.579185592825596,-111.88502427257113
+"85258","Scottsdale","AZ","Hospice Of The Valley- Eckstein Center","9808 N 95th St","85258",33.575638,-111.876594
+"85258","Scottsdale","AZ","Shea Flow Lab","not_available","85258",33.580126939065195,-111.88504686146537
+"85258","Scottsdale","AZ","Scottsdale Medical Center","10133 N 92nd St","85258",33.578091,-111.88016100000002
+"85258","Scottsdale","AZ","Phoenix Children's Cardiology Clinic","10250 N 92nd Street Suite 212","85258",33.58047103881836,-111.8829116821289
+"85258","Scottsdale","AZ","Cancer Treatment Centers of America (CTCA) Outpatient Care Center, Scottsdale","9755 N. 90th Street","85258",33.5748036,-111.8857848
+"85258","Scottsdale","AZ","SHBC","10200 N 92nd St Ste 225","85258",33.578128814697266,-111.88124084472656
+"85259","Scottsdale","AZ","Mayo Clinic Nuclear Medicine","Mayo Clinic","85259",33.58615624784655,-111.79311332942106
+"85259","Scottsdale","AZ","Mayo Clinic Hematology/Oncology","13400 E Shea Blvd","85259",33.58586161631572,-111.79378289512576
+"85260","Scottsdale","AZ","Holistic Urgent Care","8962 E Desert Cove Ave","85260",33.58575439453125,-111.88748931884766
+"85260","Scottsdale","AZ","Arizona Oncology Services","8994 E Desert Cove Ave","85260",33.585725,-111.886649
+"85260","Scottsdale","AZ","Kindred Hospital Arizona - Scottsdale","11250 N 92nd St","85260",33.587547302246094,-111.88337707519531
+"85260","Scottsdale","AZ","StatClinix Urgent Care Scottsdale","15223 N 87th St Ste 110","85260",33.6228907,-111.89184
+"85260","Scottsdale","AZ","gemini healthcare","14301 N 87th St","85260",33.617213,-111.892641
+"85260","Scottsdale","AZ","Akos Med Clinic","14696 N Frank Lloyd Wright Blvd","85260",33.6195395,-111.8750239
+"85260","Scottsdale","AZ","North Scottsdale Outpatient Surgery Center","8913 E Bell Rd Ste 101A","85260",33.638182260244534,-111.89022862325126
+"85260","Scottsdale","AZ","Scottsdale Healthcare PreOp Waiting Area","9300 E Shea Blvd, Scottsdale, AZ 85260","85260",33.584590911865234,-111.88033294677734
+"85260","Scottsdale","AZ","Scottsdale Plastic Surgery","8896 East Becker Lane Suite 102","85260",33.5835859,-111.88931
+"85268","Fountain Hills","AZ","Fountainview Assisted Living","15663 East Richwood Avenue","85268",33.63449907,-111.74191741
+"85281","Tempe","AZ","Tempe St. Luke's Hospital","1500 S Mill Ave","85281",33.41255,-111.94097
+"85281","Tempe","AZ","FastMed Urgent Care","940 E University Dr , Ste 105","85281",33.42223644026115,-111.92465543746948
+"85281","Tempe","AZ","Akos Med Clinic","926 E Broadway Rd","85282",33.408954,-111.9252345
+"85281","Tempe","AZ","Reverence Home Health & Hospice","348 N Burdick St","49007",33.409663197123066,-111.93860292434692
+"85282","Tempe","AZ","FastMed Urgent Care","3244 S Mill Ave , Ste 101","85282",33.39319354230964,-111.93985675041117
+"85282","Tempe","AZ","Banner Urgent Care","3141 S McClintock Dr, Ste 1","85282",33.39475931957725,-111.90855778834327
+"85282","Tempe","AZ","Arizona Glove  &  Safety, Inc.","3010 S 52nd St","85282",33.395701,-111.971153
+"85282","Tempe","AZ","Concentra Urgent Care","3225 S Hardy Dr","85282",33.393603000000006,-111.951356
+"85282","Tempe","AZ","Dignity Health General Hospital ER","5125 S Rural Rd","85282",33.380028,-111.92778100000001
+"85282","Tempe","AZ","Best Urgent Care Extra","3121 S McClintock Rd Suite 1","85282",33.394479472955325,-111.90870242444903
+"85283","Tempe","AZ","Generations House Call Providers","2111 E Baseline Rd","85283",33.37797,-111.896739
+"85283","Tempe","AZ","Banner Urgent Care","6323 S Rural Rd, Ste 107","85283",33.36399785901827,-111.92813996625307
+"85283","Tempe","AZ","Phoenix Children's Mesa Pediatrics - Tempe","6301 S. McClintock Dr Ste 101","85283",33.3646658,-111.9106652
+"85283","Tempe","AZ","Urgent Care Extra","6323 S Rural Rd","85283",33.363956532815,-111.9282816333768
+"85283","Tempe","AZ","FastMed Urgent Care","1804 W Elliot Rd","85284",33.34998321533203,-111.96707153320312
+"85284","Tempe","AZ","Banner Children's Urgent Care","931 E Elliot Rd Ste 115","85284",33.34774389883678,-111.92728604457744
+"85284","Tempe","AZ","Urgent Care Extra","931 E Elliot Rd #115","85284",33.34819030761719,-111.92667388916016
+"85284","Tempe","AZ","Evdi Medical Imaging","1846 E. Warner Rd.","85284",33.335746,-111.909453
+"85286","Chandler","AZ","Banner Urgent Care","2950 S Alma School Rd, Ste 1","85286",33.262510600589756,-111.85943169938832
+"85286","Chandler","AZ","Dignity Health AGH ER - Chandler","2977 E Germann Rd","85286",33.276576808082524,-111.79052889347076
+"85286","Chandler","AZ","Banner Health Ocotillo","Willis Road","85286",33.285213,-111.856939
+"85286","Chandler","AZ","Healing Therapeutic Hands","2222 S Dobson Rd Apt 1016","85286",33.273468017578125,-111.87787628173828
+"85286","Chandler","AZ","Banner Ocotillo Medical Center","1405 S Alma School Rd","85286",33.28553250427856,-111.85687663932363
+"85295","Gilbert","AZ","Emergency Room - Mercy Gilbert Medical Center","3555 S Val Vista Dr","85297",33.287286,-111.7516341
+"85295","Gilbert","AZ","Phoenix Children's Sports Medicine PT - Gilbert","3530 S Val Vista Dr Suite B205","85297",33.2860851,-111.7572876
+"85295","Gilbert","AZ","Desert Eyesthetics, PC","1754 E Boston St #103","85295",33.303995,-111.752321
+"85295","Gilbert","AZ","Mercy Gilbert Sleep Center","3420 A. Val Vista Dr. Suite 305","85297",33.28753117185445,-111.75059869095536
+"85295","Gilbert","AZ","Phoenix Children's Specialty Clinic – Orthopedics and ortho Radiology","3370 South Mercy Road Suite 112","85297",33.2891522,-111.7494887
+"85295","Gilbert","AZ","FastMed Urgent Care","920 E Williams Field Rd Ste 101","85295",33.306984,-111.77029499999999
+"85295","Gilbert","AZ","Banner Urgent Care","3126 S Higley Rd, Ste 109","85295",33.293604973068,-111.72190391228582
+"85295","Gilbert","AZ","Prolete Natural Health","633 E Ray Rd","85296",33.32084274291992,-111.77581024169922
+"85295","Gilbert","AZ","Phoenix Children's Specialty Clinic – Pediatric Surgery, Plastics, Pediatric & Adolescent Gynecology, and Cardio","3370 South Mercy Road Suite 125","85297",33.2891522,-111.7494887
+"85295","Gilbert","AZ","Urgent Care Extra","3126 S Higley Rd Ste 109","85295",33.293795,-111.72188500000001
+"85295","Gilbert","AZ","Phoenix Children’s Pediatrics-San Tan Village","1790 E Boston St Suite 101","85295",33.3035466,-111.75148
+"85295","Gilbert","AZ","Phoenix Children's Specialty Clinic –  Otolaryngology","3370 S Mercy Rd Ste 108","85297",33.2891522,-111.7494887
+"85296","Gilbert","AZ","Backfit Health + Spine","754 S Val Vista Dr #105","85296",33.336570739746094,-111.75707244873047
+"85296","Gilbert","AZ","Urgent Care Extra","1355 S Higley Rd #104","85296",33.325315288589074,-111.72056578320984
+"85296","Gilbert","AZ","Banner Children's Urgent Care","1355 S Higley Rd Ste 104","85296",33.325251667675666,-111.72070141166176
+"85296","Gilbert","AZ","Elite Urgent Care","652 E Warner Rd","85296",33.335916,-111.775774
+"85297","Gilbert","AZ","Phoenix Children's Specialty Clinic – Neurology, Neurosurgery, Developmental Pediatrics","3370 South Mercy Road Suite 214","85297",33.2891522,-111.7494887
+"85297","Gilbert","AZ","Phoenix Children's Specialty Clinic – Gastrointestinal (Phoenix Children's Specialty Clinic – Endocrinology)","3370 South Mercy Road Suite 108","85297",33.2891522,-111.7494887
+"85297","Gilbert","AZ","Phoenix Children's Mercy Gilbert Pediatric Inpatient Unit","3555 S Val Vista Dr","85296",33.2871651,-111.7522435
+"85301","Glendale","AZ","Bella Vita Health And Rehabilitation Center","5125 N 58th Ave","85301",33.512615999999994,-112.183001
+"85301","Glendale","AZ","Wisconsin Institute of Nutrition, LLP","6789 N Green Bay Avenue","53217",33.539588296676136,-112.18667507171631
+"85301","Glendale","AZ","Total Medical Care - Urgent Care","5048 W Northern Ave #106, Glendale, AZ 85301","85301",33.553536357407644,-112.16785371957387
+"85301","Glendale","AZ","Drug & Alcohol Rehab Glendale","5704 W Palmaire Ave","85301",33.54121017456055,-112.18156433105469
+"85301","Glendale","AZ","Akos Urgent Care","5104 N 67th Ave","85301",33.51063287257068,-112.20363747805897
+"85301","Glendale","AZ","Banner Urgent Care","7952 N 43rd Ave","85301",33.552255,-112.1519935
+"85301","Glendale","AZ","Banner Urgent Care","6702 W Bethany Home Rd, Ste 14","85303",33.52503249962916,-112.20365487535429
+"85302","Glendale","AZ","NextCare Urgent Care","10240 N 43rd Ave Ste. 3","85302",33.58020964892315,-112.15197707808484
+"85302","Glendale","AZ","Dignity Health AGH ER - Glendale","5171 W Olive Ave","85302",33.5669469557929,-112.17192777316086
+"85302","Glendale","AZ","SWA 154","not_available","85302",33.577284451650335,-112.18409596140548
+"85304","Glendale","AZ","Banner Thunderbird Medical Center","5555 W Thunderbird Rd","85306",33.60904046643734,-112.17955845749941
+"85304","Glendale","AZ","Maternity/OB Triage-Thunderbird Hospital","not_available","85304",33.60907124980914,-112.1788238772487
+"85304","Glendale","AZ","The South Tower 4th floor","not_available","85306",33.60825541607873,-112.1794619874289
+"85304","Glendale","AZ","Banner Thunderbird Occupational Health Clinic","5601 W Eugie Ave Ste 213","85304",33.606610227368115,-112.1812304013095
+"85304","Glendale","AZ","Cigna Urgent Care","5891 W Eugie Ave","85304",33.608181,-112.185298
+"85304","Glendale","AZ","Thunderbird Hospital","5959 W Thunderbird","not_available",33.60898,-112.17954
+"85304","Glendale","AZ","Banner Thunderbird Pre-Admissions Testing","5601 W Eugie Ave Ste 211B","85304",33.6067230698628,-112.18167418739641
+"85305","Glendale","AZ","Dignity Health St Joseph's Westgate Medical Center","7300 N 99th Ave","85307",33.54197389002308,-112.27471002442655
+"85305","Glendale","AZ","NextCare Urgent Care","9494 W Northern Ave Ste 101","85305",33.551964625922885,-112.2637599501595
+"85305","Glendale","AZ","State of the Art Research","6770 N Sunrise Blvd #207","85305",33.533851623535156,-112.2607650756836
+"85306","Glendale","AZ","Advantage Urgent Care","5310 W Thunderbird","85306",33.61453897448388,-112.16190984182919
+"85306","Glendale","AZ","BioLife Plasma Services","16480 N 59th Ave","85306",33.6357617,-112.1864335
+"85306","Glendale","AZ","O.U.C.H Urgent Care","15236 N 59th Ave","85306",33.62464904785156,-112.1861801147461
+"85306","Glendale","AZ","Farah Akhdar, DO","6220 W Bell Rd Ste 100C","85308",33.639280455403295,-112.19307298646726
+"85306","Glendale","AZ","NextCare Urgent Care","5410 W Thunderbird Rd Ste 101","85306",33.61107429342715,-112.17601486154614
+"85307","Glendale","AZ","MedPost Urgent Care","13840 West Camelback Road Suite 10 Shops B","85340",33.51028823852539,-112.35730743408203
+"85307","Glendale","AZ","Emergency Department at St. Joseph's Hospital and Medical Center - Litchfield Park, AZ","4975 N Dysart Rd Ste 100","85340",33.5075549,-112.3405884
+"85308","Glendale","AZ","Arrowhead Hospital","18701 N 67th Ave","85308",33.655072707374735,-112.20202812001908
+"85308","Glendale","AZ","Arrowhead Hospital E.R.","not_available","85308",33.655498238222165,-112.2018705219512
+"85308","Glendale","AZ","Abrazo Arizona Heart Hospital - Arrowhead","18700 N 64th Dr Ste 301","85308",33.655254,-112.20043
+"85308","Glendale","AZ","Emergency Department at St. Joseph's Hospital and Medical Center - Glendale, AZ","17040 N 51st Ave","85308",33.6396296,-112.1699632
+"85308","Glendale","AZ","West Valley Care","17218 N 72nd Dr","85308",33.64086869366224,-112.21568822566164
+"85308","Glendale","AZ","Ultimate Urgent Care","7727 W Deer Valley Rd","85382",33.68053436279297,-112.22518157958984
+"85308","Glendale","AZ","Phoenix Children's Northwest Valley Specialty Care Center","20325 N 51st Ave","85308",33.6700937,-112.1683085
+"85308","Glendale","AZ","Banner Arizona Medical Clinic","20325 N 51st Ave #170","85308",33.670382665900995,-112.1680669790269
+"85308","Glendale","AZ","Phoenix Children's Ophthalmology – Glendale","6320 W Union Hills Dr Suite 230","85308",33.6553407,-112.1984463
+"85308","Glendale","AZ","Akos Med Clinic","20205 N 67th Ave","85308",33.6686634,-112.2027749
+"85308","Glendale","AZ","Phoenix Children's Specialty Care - Arrowhead","18555 N 79th Ave Suite E-105","85308",33.6513137,-112.2288546
+"85308","Glendale","AZ","NextCare Urgent Care","18589 N 59th Ave Ste 101","85308",33.653852920267376,-112.18467721051721
+"85308","Glendale","AZ","Banner Surgery Center - Union Hills","18301 N 79th Ave","85308",33.648526590390425,-112.22915762390778
+"85310","Glendale","AZ","MedPost Urgent Care","24874 N 67th Ave Ste 101","85383",33.710636138916016,-112.2038803100586
+"85323","Avondale","AZ","Abrazo West Campus","13677 W McDowell Rd","85395",33.46201705932617,-112.35327911376953
+"85323","Avondale","AZ","NextCare Urgent Care","13075 W McDowell Rd Ste D106","85392",33.46363654744135,-112.33822317783535
+"85323","Avondale","AZ","Banner Urgent Care - Non-Respiratory Clinic","11685 W. Van Buren Street","85323",33.4490378,-112.31061074
+"85323","Avondale","AZ","FastMed Urgent Care","1507 N Litchfield Rd , Ste 200","85395",33.46300635131268,-112.35758543014526
+"85323","Avondale","AZ","Palm Valley Rehab","not_available","85395",33.46154200282965,-112.35123715188037
+"85323","Avondale","AZ","CTCA","14200 W Fillmore St","85338",33.453814,-112.364151
+"85323","Avondale","AZ","West Valley Hospital 2nd Floor","not_available","85338",33.46170013061404,-112.35295434856772
+"85323","Avondale","AZ","Hospice Of The Valley","13575 W McDowell Rd","85395",33.461168,-112.35118899999999
+"85323","Avondale","AZ","West Valley Hospital Nursing Office","not_available","85305",33.46190906139856,-112.3537168997016
+"85323","Avondale","AZ","Walter Schell, MD","13677 W McDowell Rd Ste 201","85395",33.46201705932617,-112.35327911376953
+"85323","Avondale","AZ","Estrella Care And Rehabilitation Center","350 E La Canada Blvd","85323",33.447337,-112.345947
+"85323","Avondale","AZ","The Little Clinic","1575 N Dysart Rd","85392",33.46301530175799,-112.3389333486557
+"85326","Buckeye","AZ","Banner Urgent Care","3328 N Litchfield Rd","85395",33.484835859492065,-112.36304166195396
+"85326","Buckeye","AZ","Abrazo Buckeye Emergency Center","525 S Watson Rd","85326",33.44200158634269,-112.55463123321533
+"85326","Buckeye","AZ","Urgent Care","not_available","85326",33.43523703333334,-112.55893681666667
+"85326","Buckeye","AZ","Estrella ENT, P.C. Goodyear","2700 N 140th Ave Suite 107","85395",33.4775154,-112.3602742
+"85326","Buckeye","AZ","Alliance Urgent + Care","980 S Watson Rd","85326",33.43767441302194,-112.55752440319877
+"85326","Buckeye","AZ","Sun Valley Urgent Care","2901 N Litchfield Road","85395",33.47843596022892,-112.36002102925076
+"85326","Buckeye","AZ","Cancer Treatment Centers of America","14200 W Celebrate Life Way","85338",33.45390849933569,-112.36428197737321
+"85326","Buckeye","AZ","West Valley Hospital","13777 West McDowell Road","85395",33.46493962604358,-112.35629796981812
+"85326","Buckeye","AZ","Dignity Health AGH ER - Goodyear","251 N Estrella Pkwy","85338",33.449397,-112.3918132
+"85332","Congress","AZ","Rosewood Centers for Eating Disorders","36075 S Rincon Rd","85390",34.028259999999996,-112.74231200000001
+"85334","Ehrenberg","AZ","Palo verde hospital","not_available","92225",33.612844005947714,-114.59520216536804
+"85335","El Mirage","AZ","New Hope Recovery Surprise Arizona","15845 N Verde St","85378",33.62879180908203,-112.32984924316406
+"85338","Goodyear","AZ","Alliance Urgent Care","15530 W Roosevelt St Ste D101","85338",33.45783615112305,-112.3929443359375
+"85339","Laveen","AZ","MedPost Urgent Care of Laveen","5130 W Baseline Rd","85339",33.37930366,-112.16943014
+"85339","Laveen","AZ","Gila River Fire Sta 426","4987 w pecos","85339",33.29017774663389,-112.16194667688089
+"85339","Laveen","AZ","George Fuzfa, MD","5130 W Baseline Rd Ste 103","85339",33.379445000000004,-112.170073
+"85340","Litchfield Park","AZ","Angela Sturdivant, MD","3125 N Dysart Rd","85392",33.480593870826596,-112.33903527259827
+"85344","Parker","AZ","La Paz Hospital","2347-2385 S Mohave Ave","85344",34.13696005331745,-114.28516577587094
+"85344","Parker","AZ","USPHS Parker Indian Health Services","12033 Agency Rd","85344",34.1469612121582,-114.3017578125
+"85345","Peoria","AZ","Urgent Care Extra","7611 W Cactus Rd","85381",33.595395,-112.222641
+"85345","Peoria","AZ","banner desert hospital Cafe","not_available","85345",33.55814743041992,-112.2715835571289
+"85345","Peoria","AZ","The Little Clinic","9043 W Olive Ave","85345",33.5648002,-112.2541275
+"85345","Peoria","AZ","Psychiatric Recovery Center West","11361 N 99th Ave","85345",33.58700109483166,-112.27130294491688
+"85348","Salome","AZ","La Paz Regional Hospital, Laboratory Collection Center","39726 Harquahala Rd","85348",33.75816345214844,-113.61101531982422
+"85349","San Luis","AZ","Centro Medico del Noroeste","Av. Kino","83400",32.474747384128904,-114.76949055536353
+"85349","San Luis","AZ","Hospital Santa Margarita","Ave 16 De Septiembre","83400",32.47160169751822,-114.77854508464337
+"85349","San Luis","AZ","ISSSTE","Av. Libertad","not_available",32.4698486328125,-114.78551483154297
+"85351","Sun City","AZ","Banner Boswell Medical Center","10401 W Thunderbird Blvd","85351",33.603810063329526,-112.28363349868971
+"85351","Sun City","AZ","Trilium Specialty Hospital","13818 N Thunderbird Blvd","85351",33.608993,-112.298565
+"85351","Sun City","AZ","Banner Ambulatory Surgical Center","13640 N Plaza del Rio Blvd","85381",33.60721328000299,-112.25853491081344
+"85351","Sun City","AZ","Kindred Hospital Arizona - Northwest Phoenix","13216 N Plaza del Rio Blvd","85381",33.604299272700786,-112.26042936698579
+"85351","Sun City","AZ","NextCare Urgent Care","9745 W Bell Rd Ste 105","85351",33.637578567011744,-112.26986646652222
+"85351","Sun City","AZ","Hospice Of Arizona","address is 12740 N Plaza Del Rio BLVD.  Peoria AZ 85381.","not_available",33.599483489990234,-112.261474609375
+"85351","Sun City","AZ","Banner Boswell Surgery Patients Waiting Area","not_available","85351",33.603562,-112.282898
+"85351","Sun City","AZ","Banner Health Center: Orthopedic and Sports Medicine","9165 West Thunderbird Rd","85381",33.608257508284595,-112.2562301158905
+"85351","Sun City","AZ","Banner Boswell Rehabilitation Center","10601 W Santa Fe Dr","85351",33.60346752386666,-112.28719311783935
+"85353","Tolleson","AZ","Alliance Urgent Care","9897 W McDowell Rd #100","85353",33.463636,-112.27096200000001
+"85353","Tolleson","AZ","FastMed Urgent Care","9870 W Lower Buckeye Rd","85353",33.4243719,-112.271467
+"85355","Waddell","AZ","Banner Urgent Care","15521 W Bell Rd","85374",33.637617968344514,-112.39453361840265
+"85355","Waddell","AZ","Banner Surprise Urgent Care","15468 N Civic Center Dr","85374",33.62569046020508,-112.36939239501953
+"85355","Waddell","AZ","MedPost Urgent Care of Surprise","16840 W Waddell Rd","85379",33.61028199,-112.42120566
+"85355","Waddell","AZ","Dignity Health Emergency Room","not_available","85374",33.6382,-112.36739
+"85355","Waddell","AZ","Del Webb","not_available","85379",33.58761370182037,-112.38976120948792
+"85355","Waddell","AZ","Jennifer Wesley, MSN, ACNPC-BC","16453 N 150th Dr","85374",33.63389,-112.38334
+"85355","Waddell","AZ","West Valley Urgent Care","14811 W Bell Rd Ste 100","85374",33.638194680463975,-112.37927970848686
+"85355","Waddell","AZ","Dignity Health AGH ER - Surprise","14267 W Bell Rd","85374",33.638087641351994,-112.36737446626648
+"85355","Waddell","AZ","NextCare Urgent Care","20470 N Lake Pleasant Rd Ste 102","85382",33.638310483333335,-112.39050684
+"85355","Waddell","AZ","Express Urgent Care","13755 N Litchfield Rd","85379",33.608737,-112.356469
+"85364","Yuma","AZ","Yuma Regional Medical Center","2400 S Avenue A","85364",32.68298308818145,-114.63568210601807
+"85364","Yuma","AZ","Yuma Regional Medical Center Pediatrics","1025 W 24th St","85364",32.6832742,-114.6315272
+"85364","Yuma","AZ","NextCare Urgent Care","1394 W 16th St","85364",32.69878286,-114.63743546666667
+"85364","Yuma","AZ","Primecare Urgent Care","not_available","85364",32.68430709838867,-114.64691162109375
+"85364","Yuma","AZ","Urgent Care","284 W 32nd St","85364",32.670519609447425,-114.62241855610904
+"85364","Yuma","AZ","Yuma Rehabilitation Hospital, a partnership of Encompass Health & Yuma Regional Medical Center","901 W 24th St","85364",32.6834764,-114.630043
+"85364","Yuma","AZ","Yuma Regional Medical Center Center for Bone and Joint Health","2460 S Parkview Loop","85364",32.6822961,-114.637677
+"85364","Yuma","AZ","YRMC Women & Childrens Services","Avenue A","not_available",32.682422666437525,-114.63413265554234
+"85364","Yuma","AZ","Yuma Regional Medical Center General Surgery","2270 S Ridgeview Dr","85364",32.68709,-114.63861
+"85364","Yuma","AZ","Tower 2 @ YRMC","1501 W 24th St","85364",32.68357849121094,-114.63777160644531
+"85364","Yuma","AZ","Ft. Yuma Indian Health Services","One Indian Hill Rd","92283",32.73253601656802,-114.61537132197464
+"85364","Yuma","AZ","Clinica De Cirugia Plastica","Sultepec","85364",32.722448,-114.62027
+"85364","Yuma","AZ","Phoenix Children's Urology & Surgery - Yuma","2851 S Ave B, Bldg 20 Suite 2001","85364",32.67500686645508,-114.64823913574219
+"85364","Yuma","AZ","The Hospital","not_available","85365",32.68016405389169,-114.62433227059358
+"85364","Yuma","AZ","YRMC Gift Shop","2400 24th Street","not_available",32.683064,-114.63534
+"85364","Yuma","AZ","Palm View","Ave A","85364",32.68716383683363,-114.63351216539084
+"85365","Yuma","AZ","Primecare Urgent Care","not_available","85367",32.669448,-114.436403
+"85365","Yuma","AZ","Prime Care 24 Foothills Urgent Care","11200-11226 S Scottsdale Dr","85367",32.66935078,-114.4362174
+"85373","Sun City","AZ","Care from the Heart, Inc.","10032 W Bell Rd","85351",33.646184484540655,-112.27873116731644
+"85373","Sun City","AZ","Sun Grove","10164-10180 W Mohawk Ln","85382",33.6713969497005,-112.27898514879938
+"85373","Sun City","AZ","Theracare Pediatric Services","9385 W Donald Dr.","85383",33.6885512,-112.2624789
+"85373","Sun City","AZ","MedPost Urgent Care","21471 N Lake Pleasant Pkwy","85382",33.67893386,-112.27829078
+"85373","Sun City","AZ","NextCare Urgent Care","not_available","85382",33.66946,-112.28052
+"85374","Surprise","AZ","Banner Del E Webb Medical Center","14502 W Meeker Blvd","85375",33.65989699166913,-112.3727650710623
+"85374","Surprise","AZ","FastMed Urgent Care","12775 W Bell Rd","85378",33.6380364,-112.33509153
+"85374","Surprise","AZ","Banner Del E Webb ER","not_available","85383",33.661145294392306,-112.37356055774428
+"85374","Surprise","AZ","Estrella ENT, P.C. Sun City West","14506 West Granite Valley Drive Suite 124","85375",33.6621388,-112.3725681
+"85374","Surprise","AZ","NextCare Urgent Care","14800 W Mountain View Blvd Ste 190","85374",33.655864,-112.37994838333333
+"85374","Surprise","AZ","Banner Urgent Care - Non-Respiratory Clinic","13901 W Meeker Blvd","85375",33.65974753580027,-112.35991040798666
+"85374","Surprise","AZ","Serenity west health care","not_available","85375",33.65867078603721,-112.36174403703687
+"85374","Surprise","AZ","Banner Health Center: Orthopedic Medicine","14416 West Meeker Blvd","85375",33.65906718995458,-112.37199425697327
+"85374","Surprise","AZ","Banner Hospice - Grandview Terrace","14505 W. Granite Valley Dr.","85375",33.6601676940918,-112.37504577636719
+"85381","Peoria","AZ","We Care Urgent Care","7615 W Thunderbird Rd","85381",33.609556,-112.222674
+"85381","Peoria","AZ","Rapid Care Center - Urgent Care & Advanced Wound Care","7615 W Thunderbird Rd Ste 106","85381",33.610271,-112.222751
+"85381","Peoria","AZ","Alliance Urgent Care","not_available","85381",33.611324405744625,-112.24019897372902
+"85381","Peoria","AZ","Extremity Health Centers (Extremity Health Center)","7615 W Thunderbird Rd #105","85381",33.609572,-112.22265
+"85382","Peoria","AZ","Heart One Associates","8877 W Union Hills Drive Suite 240","85382",33.6521441,-112.249765
+"85382","Peoria","AZ","Goodnight Pediatrics","8801 W Union Hills Dr Bldg A","85382",33.652369,-112.24779
+"85382","Peoria","AZ","Banner Del E. Webb Surgery Center","18301 North 79th Ave","85308",33.648636142726545,-112.23020195960999
+"85382","Peoria","AZ","West Valley Urgent Care","17218 N 72nd Dr Ste 100","85308",33.64088439941406,-112.21561431884766
+"85383","Peoria","AZ","North Peoria Emergency Center","26900 N Lake Pleasant Pkwy","85383",33.727993580713786,-112.26762106864945
+"85383","Peoria","AZ","Urgent Care Extra","21980 N 83rd Ave","85383",33.68325424194336,-112.23847198486328
+"85383","Peoria","AZ","North Peoria Emergency Center","lake pleasant rd","85383",33.728182911872864,-112.26706087589264
+"85383","Peoria","AZ","Peoria ER","9617 W Redbird Rd","85383",33.72866439819336,-112.26764678955078
+"85383","Peoria","AZ","HonorHealth Urgent Care - Del Lago","10230 W Happy Valley Pkwy Ste 100C","85383",33.713819,-112.2793784
+"85396","Buckeye","AZ","The Little Clinic","1300 S Watson Rd","85326",33.4343804,-112.5582905
+"85501","Globe","AZ","Cobre Valley Regional Medical Center","5880 S Hospital Dr","85501",33.406063079833984,-110.82681274414062
+"85501","Globe","AZ","Native 3","Bixby Rd","85501",33.448267579078674,-110.83313584327698
+"85533","Clifton","AZ","Gila Health Resources","401 Burro Aly","85540",33.052498,-109.323321
+"85541","Payson","AZ","Banner Payson Medical Center","807 S Ponderosa St","85541",34.22995307035885,-111.32084727287292
+"85541","Payson","AZ","Banner Urgent Care","101 E State Highway 260","85541",34.2396181,-111.3220016
+"85541","Payson","AZ","payson regional medical center outpatient radiology","127 E Main St Ste B","85541",34.229408264160156,-111.32289123535156
+"85541","Payson","AZ","StatClinix Urgent Care","01 E Highway 260 Suite G","85541",34.2398140703454,-111.32226188197232
+"85541","Payson","AZ","North Country HealthCare - Payson","126 E Main St","85541",34.22997283935547,-111.32315826416016
+"85542","Peridot","AZ","San Carlos Apache Healthcare Center","103 Medicine Way","not_available",33.294876,-110.417595
+"85543","Pima","AZ","Mt. Graham Regional Medical Center","1600 S 20th Ave","85546",32.82195681054341,-109.73481336781842
+"85543","Pima","AZ","Phoenix Children's Cardiology - Safford","2115 W 16th St","85546",32.821720123291016,-109.73416137695312
+"85602","Benson","AZ","Benson Hospital","not_available","85602",31.965061,-110.308153
+"85603","Bisbee","AZ","Copper Queen Community Hospital","101 Cole Ave","85603",31.417867159268912,-109.88302292861178
+"85607","Douglas","AZ","Phoenix Children's Cardiology - Douglas","815 15th St","85607",31.349292755126953,-109.54911041259766
+"85610","Elfrida","AZ","Gleeson Hospital","not_available","85610",31.732892,-109.827741
+"85614","Green Valley","AZ","Northwest Urgent Care","1295 W Duval Mine Rd","85614",31.902140999999997,-110.99233999999998
+"85615","Hereford","AZ","Insurance Enterprises of Arizona, LLC","5581 E Calle del Narcisco","85615",31.456945419311523,-110.23258209228516
+"85615","Hereford","AZ","Sierra Vista Regional Health Center Rehabilitation Services","2151 S Highway 92","85635",31.52901828289032,-110.25609612464905
+"85621","Nogales","AZ","Carondelet Holy Cross Hospital","1171 W Target Range Rd","85621",31.34036058649765,-110.95964061302685
+"85634","Sells","AZ","IHS Sells Service Unit - Urgent Care","not_available","85634",31.918989695795805,-111.89159684018894
+"85634","Sells","AZ","Mental Ward","6455 N Sanders Rd","85743",32.322148999999996,-111.235599
+"85634","Sells","AZ","Arche Hendricks Sr. Skilled Nursing Care Facility","Indn Route 34","85634",32.275693525738404,-112.05566834416543
+"85635","Sierra Vista","AZ","Canyon Vista Medical Center","5700 E Highway 90","85635",31.55281010813638,-110.23015491892465
+"85635","Sierra Vista","AZ","Hacienda Rehab.","not_available","85635",31.547746,-110.279118
+"85635","Sierra Vista","AZ","Urgent Care","Fry Blvd","85635",31.551361083984375,-110.30430603027344
+"85635","Sierra Vista","AZ","Phoenix Children's Cardiology - Sierra Vista","155 Calle Portal Suite 700","85635",31.55267333984375,-110.26640319824219
+"85635","Sierra Vista","AZ","SVRHC Emergency Room","300 El Camino Real","85635",31.551382,-110.271492
+"85635","Sierra Vista","AZ","Raymond W. Bliss Army Medical Center","Winrow Ave, Sierra Vista, AZ 85613","85613",31.562056676119262,-110.28761695523193
+"85641","Vail","AZ","St Joseph's Hospital","350 N Wilmot Rd","85711",32.226449075932024,-110.85556843004115
+"85641","Vail","AZ","NextCare Urgent Care","9525 E Old Spanish Trl Ste 101","85748",32.20841875574348,-110.7890079358513
+"85641","Vail","AZ","Kindred Hospital Tucson","355 N Wilmot Rd","85711",32.225577,-110.85856299999999
+"85641","Vail","AZ","El Dorado Hospital","1400 N Wilmot Rd","85712",32.23955154418945,-110.8564453125
+"85641","Vail","AZ","Kylie, Willie and Haydens Rm","not_available","85710",32.2223939,-110.8556065
+"85641","Vail","AZ","Cornerstone Hospital","7220 E Rosewood St","85710",32.230967,-110.83799199999999
+"85641","Vail","AZ","Emmanuel Adult Care Home Inc.","6414 E Calle Cappela","85710",32.201369,-110.854449
+"85641","Vail","AZ","Tucson Surgery Center","1398 N Wilmot Rd","85712",32.2399787902832,-110.85528564453125
+"85641","Vail","AZ","TMC Outpatient Clinic","not_available","85712",32.23969616970705,-110.85637170612111
+"85641","Vail","AZ","St Joseph's Hospital Morgue","350 N Wilmot Rd, Tucson, AZ 85711","85711",32.226619720458984,-110.85566711425781
+"85641","Vail","AZ","El Rio Health Center","6950 E Golf Links Rd","85730",32.191060630008664,-110.84457290615178
+"85641","Vail","AZ","Southern Arizona Urgent Care","6572 E Grant Rd Ste 130","85715",32.24946975708008,-110.8519515991211
+"85641","Vail","AZ","Fire Station #21","not_available","85749",32.257747650146484,-110.8078842163086
+"85641","Vail","AZ","FastMed Urgent Care","9175 E Tanque Verde Rd","85749",32.25769384,-110.79647347
+"85641","Vail","AZ","Cat Hospital Of Tucson","7292 E Broadway Blvd","85710",32.22061538696289,-110.83679962158203
+"85643","Willcox","AZ","Northern Cochise Community Hospital","901 W Rex Allen Dr","85643",32.265152,-109.838346
+"85643","Willcox","AZ","Walker Family Medicine","801 W Rex Allen Dr","85643",32.2646388,-109.8369656
+"85658","Marana","AZ","pokecenter","not_available","85739",32.43612996657599,-110.96818256218687
+"85701","Tucson","AZ","NextCare Urgent Care","501 N Park Ave Ste 110","85719",32.22810535503233,-110.95673793008213
+"85701","Tucson","AZ","Drug & Alcohol Rehab Tucson","100 N Stone Ave #945","85701",32.224818738408565,-110.97176313400267
+"85704","Tucson","AZ","Northwest Hospital Surgery/Endoscopy Waiting Room","6200 N LA Cholla Blvd","85741",32.32011413574219,-111.0108871459961
+"85704","Tucson","AZ","Carondelet Heart & Vascular Institute Of Tucson","1601 W Saint Marys Rd","85745",32.2945469375628,-110.97035389339986
+"85704","Tucson","AZ","Casas Adobes Pet Clinic","6745 N La Canada Dr","85704",32.32900323333333,-110.99614105
+"85704","Tucson","AZ","NorthWest Rehabilitation Center","not_available","85705",32.29362705839097,-110.99554269995015
+"85704","Tucson","AZ","Banner Urgent Care","6021 North Oracle Road, Suite 107","85704",32.3164105678628,-110.97703517238733
+"85704","Tucson","AZ","Tucson Heart Hospital","not_available","85718",32.29456,-110.97033083438873
+"85704","Tucson","AZ","Harbor Light Hospice","4703 N 1st Ave","85718",32.29273769644497,-110.96122741699217
+"85704","Tucson","AZ","Northwest Hospital","not_available","85704",32.30519053364935,-111.01198809392956
+"85704","Tucson","AZ","Carondelet Heart And Vascular G.I. Lab","4888 N Stone Ave","85704",32.2944450378418,-110.97028350830078
+"85704","Tucson","AZ","Southern Arizona Urgent Care","7725 N Oracle Rd Ste 131","85704",32.3479118347168,-110.97630310058594
+"85704","Tucson","AZ","Northwest Medical Center Outpatient Therapy Services","6060 N Fountain Plaza Dr #150","85704",32.31711959838867,-111.00961303710938
+"85704","Tucson","AZ","SOS CBD","7090 N Oracle Rd. Suite 178-215","85704",32.3354267,-110.9757238
+"85704","Tucson","AZ","NW Medical Center Womens Center","1920 W Rudasill Rd","85704",32.31679320386206,-111.00890024423695
+"85704","Tucson","AZ","North West Medical Hospital","2055 W Hospital Dr","85704",32.318625,-111.01095600000001
+"85704","Tucson","AZ","Northwest Medical Center - Emergency Room","6200 N La Cholla Blvd","85741",32.32011413574219,-111.0108871459961
+"85704","Tucson","AZ","Encompass Health Rehabilitation Hospital of Northwest Tucson","1921 W Hospital Dr","85704",32.318559,-111.008487
+"85705","Tucson","AZ","NextCare Urgent Care","4280 N Oracle Rd Ste 100","85705",32.28446037726657,-110.97696489223702
+"85705","Tucson","AZ","Flightline","not_available","85745",32.22796946245989,-110.99967004302331
+"85705","Tucson","AZ","Katrzyna Cal, MD","892 N Stone Ave #100","85705",32.23325738837887,-110.97207427024841
+"85705","Tucson","AZ","UMC ED","not_available","85719",32.24258902580668,-110.96151723311554
+"85705","Tucson","AZ","Diamond Childrens Medical Center NICU","UMC, The University of Arizona, Tucson, AZ 85719","85719",32.26837881677437,-110.9643696414579
+"85705","Tucson","AZ","New Life Health Center","3954 N Oracle Rd","85705",32.278634000000004,-110.977516
+"85706","Tucson","AZ","San Xavier Health Center","not_available","85706",32.162839565376885,-110.97133186654123
+"85707","Tucson","AZ","Las Colinas","not_available","85708",32.18209508,-110.87821671
+"85707","Tucson","AZ","St Josephs Hospital Cancer Center","St Joseph's Hospital","85710",32.19336973934271,-110.87465508782836
+"85707","Tucson","AZ","Tucson VA Hospital Bldg. 80","not_available","85714",32.17794420422213,-110.9090221646057
+"85710","Tucson","AZ","Southern Arizona Urgent Care","6303 E Broadway Blvd #161","85710",32.221723,-110.857496
+"85710","Tucson","AZ","Southern Arizona Urgent Care","1040 S Harrison Rd #120","85748",32.208534240722656,-110.7906723022461
+"85710","Tucson","AZ","Senior Helpers","7650 East Broadway Boulevard","85710",32.2204395,-110.8284056
+"85711","Tucson","AZ","St. Josephs","215 S Craycroft Rd","85711",32.21888732910156,-110.8740234375
+"85711","Tucson","AZ","Tucson ER and Hospital","4575 E Broadway Blvd","85711",32.222023228775,-110.89476442350131
+"85711","Tucson","AZ","A Desert Villita Assisted Living LLC","4232 E 5th St","85711",32.228841670780305,-110.90236365795135
+"85711","Tucson","AZ","FastMed Urgent Care","5594 E 22nd St","85711",32.205766,-110.87398600000002
+"85711","Tucson","AZ","Fire Station #11","not_available","85711",32.216453552246094,-110.9054946899414
+"85711","Tucson","AZ","University Medical Center","1501 N Campbell Ave","85724",32.23567769515689,-110.89293869496272
+"85711","Tucson","AZ","UMC Alvernon Surgery Center","not_available","85716",32.223658110196126,-110.88958581054959
+"85711","Tucson","AZ","Banner Urgent Care - Non-Respiratory Clinic","5545 E Broadway Blvd, Ste 101","85711",32.22196049932189,-110.87477007555003
+"85711","Tucson","AZ","Urgent Care Extra","5545 E Broadway Blvd Ste 101","85711",32.222176,-110.874724
+"85712","Tucson","AZ","Encompass Health Rehabilitation Institute of Tucson","2650 N Wyatt Dr","85712",32.255966,-110.883129
+"85712","Tucson","AZ","TMC emergency room","5301 E Grant Rd","85712",32.252518,-110.878307
+"85712","Tucson","AZ","FastMed Urgent Care","2460 North Swan Rd #140","85712",32.2518164753658,-110.89222853479843
+"85712","Tucson","AZ","Tucson Medical Center Emergency Department","5301 E. Grant Road, Emergency Entrance","85712",32.25148067386995,-110.88033199310301
+"85712","Tucson","AZ","Tucson Medical Center Labor & Delivery","5301 E Grant Rd, Southeast Entrance","85712",32.25197096774898,-110.8786424202434
+"85712","Tucson","AZ","NextCare Urgent Care","6238 E Pima St","85712",32.24284812045336,-110.85918664070468
+"85713","Tucson","AZ","Banner - University Medical Center South","2800 E Ajo way","85713",32.175466,-110.92933
+"85713","Tucson","AZ","FastMed Urgent Care","2510 E Broadway Blvd","85716",32.2209947,-110.93488003
+"85713","Tucson","AZ","Nextcare Urgent Care","1570 E Tucson Marketplace Blvd","85713",32.181968688964844,-110.94782257080078
+"85713","Tucson","AZ","University of Arizona Health Network Hospital (UAHN South Campus)","2800 E Ajo Way","85713",32.176056917478896,-110.93040301663046
+"85713","Tucson","AZ","Phf","1555 E Apache Park Pl","85714",32.171803999999995,-110.94893200000001
+"85713","Tucson","AZ","VA Hospital Bldg 80/Lab","3601 S 6th Ave","85723",32.18110836142508,-110.96291706988583
+"85713","Tucson","AZ","University Physicians Hospital Kino","not_available","85713",32.221311,-110.936147
+"85713","Tucson","AZ","UPH Emergency Room","2801-2999 E District St","85714",32.17544705,-110.93049486666666
+"85714","Tucson","AZ","Concentra Urgent Care","4600 S Park Ave Ste 5","85714",32.167975,-110.956712
+"85714","Tucson","AZ","NextCare Urgent Care","5369 S Calle Santa Cruz Ste 145","85706",32.15415657029969,-110.99008290753552
+"85714","Tucson","AZ","Southern Arizona Urgent Care","1218 W Irvington Rd #150","85714",32.16379165649414,-110.99038696289062
+"85715","Tucson","AZ","Benzo Detox Facility","7049 E Tanque Verde Rd #119","85715",32.252220153808594,-110.842041015625
+"85715","Tucson","AZ","Phoenix Children's Cardiology & Dermatology - Tucson","5983 E Grant Rd Suite 201","85712",32.25156784057617,-110.86455535888672
+"85715","Tucson","AZ","Urgent Care","1101 N Wilmot Rd","85712",32.23701858520508,-110.85872650146484
+"85715","Tucson","AZ","Urology Care: Iris B. Bernstein, MD","6226 East Pima Street, Suite 100","85712",32.2431951,-110.8592561
+"85715","Tucson","AZ","advancedenergytherapeutics","197f n kolb tucson az","85715",32.246027948656746,-110.84663928985951
+"85716","Tucson","AZ","Drug & Alcohol Rehab Tucson","33 N Tucson Blvd","85716",32.2221,-110.93555400000001
+"85718","Tucson","AZ","Acacia Animal Hospital","4205 N Campbell Ave","85719",32.28343409450822,-110.94436756294957
+"85718","Tucson","AZ","Banner Urgent Care","3611 N Campbell Ave","85719",32.2725746,-110.9443573
+"85718","Tucson","AZ","UPH Tucson Breast Center","2028 E Prince Rd","85719",32.271786,-110.940455
+"85718","Tucson","AZ","Velo Med Urgent Care","2404 E River Rd","85718",32.28555679321289,-110.9359359741211
+"85718","Tucson","AZ","UMC Radiation Oncology","N Campbell Ave, Tucson, AZ","85719",32.279518127441406,-110.94378662109375
+"85718","Tucson","AZ","Cheryl Jobe, NP","4892 N Stone Ave #100","85704",32.41145084898498,-110.93402981758118
+"85719","Tucson","AZ","Umc 4nw","1400-1446 N Campbell Ave","85724",32.241485425,-110.946056
+"85719","Tucson","AZ","By Caralynns Side","1574-1698 N Warren Ave","85719",32.24209466666667,-110.94668023333334
+"85719","Tucson","AZ","UMC BLDG 526 RM 126 - Helpdesk Support","1690 N Warren Ave","85719",32.24311447143555,-110.94583892822266
+"85724","Tucson","AZ","Diamond Children's Medical Center","1625 N Campbell Ave","85719",32.2419743,-110.9442251
+"85730","Tucson","AZ","Urgent Care Extra","7066 E Golf Links Rd","85730",32.19120407104492,-110.84149932861328
+"85737","Tucson","AZ","Oro Valley Hospital","1551 Tangerine Road","85755",32.42928094462482,-110.94816322315955
+"85737","Tucson","AZ","southern arizona urgent care","1880 E Tangerine Rd Ste 100","85755",32.42619526523664,-110.94509124755858
+"85737","Tucson","AZ","Oro Valley Hospital - Emergency Room","1551 E Tangerine Rd","85755",32.4291928,-110.9485214
+"85741","Tucson","AZ","Banner Urgent Care","7089 N. Thornydale Road, Suite 101","85741",32.335929943873396,-111.04745504356862
+"85741","Tucson","AZ","Urgent Specialists","2120 W Ina Rd","85741",32.3378256,-111.0133919
+"85741","Tucson","AZ","northwest hospital","3860 West ORANGE GROVE","85741",32.32537497272677,-111.04948414246235
+"85741","Tucson","AZ","Foothills Surgery Center","2220 W Orange Grove Rd","85741",32.323803999999996,-111.014311
+"85741","Tucson","AZ","Northwest Urgent Care","3860 W River Rd #126","85741",32.321887,-111.043351
+"85741","Tucson","AZ","Southern Arizona Urgent Care","3662 W Ina Rd #150","85741",32.33808135986328,-111.0438461303711
+"85742","Tucson","AZ","FastMed Urgent Care","7850 North Silverbell Rd #132","85743",32.349700927734375,-111.0990219116211
+"85742","Tucson","AZ","Continental Reserve Urgent care","8333 N Silverbell Rd","85743",32.357465999999995,-111.114819
+"85742","Tucson","AZ","Northwest Emergency Center Marana","6350 W Marana Center Blvd","85742",32.37754440307617,-111.10076141357422
+"85742","Tucson","AZ","University Medical Center","1501 N Campell Avenue","not_available",32.376258850097656,-111.1219482421875
+"85746","Tucson","AZ","FastMed Urgent Care","1895 W Valencia Rd","85746",32.13334274291992,-111.00712585449219
+"85747","Tucson","AZ","Urgent Care","9348 E Rita Rd","85747",32.1138471364975,-110.79369394
+"85747","Tucson","AZ","Northwest Emergency Center at Vail","not_available","85747",32.088239,-110.775347
+"85756","Tucson","AZ","St. Josephs Hospital","350 n wilmont road","85711",32.12871488333333,-110.86695883333333
+"85901","Show Low","AZ","Summit Healthcare Regional Medical Center","2200 E Show Low Lake Rd","85901",34.20299,-110.01767
+"85901","Show Low","AZ","Summit Healthcare Administration Building Conference Rm A","not_available","85901",34.203767,-110.018027
+"85901","Show Low","AZ","Banner Urgent Care","680 E Deuce of Clubs Ste B","85901",34.2532653,-110.0352859
+"85911","Cibecue","AZ","Banner Urgent Care","3457 W White Mountain Blvd","85929",34.1651827,-109.9925865
+"85936","Saint Johns","AZ","North Country HealthCare - St. Johns","625 North 13th West","85936",34.51419950526106,-109.38354134559631
+"85937","Snowflake","AZ","The CBD Tincture","761 S, N 1st St W 2862","85937",34.4986892,-110.0802809
+"85938","Springerville","AZ","North Country HealthCare - Round Valley/Springerville","488 S Mountain Ave","85938",34.125756194981136,-109.2896184325218
+"85938","Springerville","AZ","WMRMC","118 S Moutain Ave","85939",34.13028803,-109.27431297
+"85941","Whiteriver","AZ","Indian Health Service Hospital","not_available","85941",33.87663269042969,-109.95923614501953
+"86001","Flagstaff","AZ","Flagstaff Medical Center","1200 N Beaver St","86001",35.20876928237533,-111.64414832362178
+"86001","Flagstaff","AZ","Flagstaff animal hospital","2308 E Route 66","86004",35.205204010009766,-111.61469268798828
+"86001","Flagstaff","AZ","Don Berlyn Hypnotherapy LLC","2104 N 3rd St","86004",35.209195,-111.614427
+"86001","Flagstaff","AZ","Flagstaff Medical Center Maturnity Department","not_available","86001",35.20889530490285,-111.64521964228474
+"86001","Flagstaff","AZ","Flagstaff Medical Center Human Resources","1500 N. Beaver Street","86001",35.20904820180023,-111.64548747194716
+"86001","Flagstaff","AZ","NextCare Urgent Care","1000 N Humphreys St Ste 104","86001",35.207388008091016,-111.64666941587566
+"86001","Flagstaff","AZ","Back2Basics Outdoor Adventures","1600 W University Ave #109","86001",35.183877,-111.67544199999999
+"86001","Flagstaff","AZ","Flagstaff Urgent Care","2700 S Woodlands Village Blvd Ste 700","86001",35.1761732,-111.6658812
+"86001","Flagstaff","AZ","FMC Administrative Offices West Campus 4th Floor","1200 N Beaver St, Flagstaff, AZ 86001","86001",35.209068298339844,-111.64447021484375
+"86020","Cameron","AZ","Tuba City Regional Health Care Corporation","167 N Main St","86045",36.135717276334354,-111.23732947313253
+"86020","Cameron","AZ","TCRHCC Pharmacy","not_available","86045",36.133029209322764,-111.23019753946691
+"86020","Cameron","AZ","Tuba City Indian Medical Center","Main Street","86045",36.136163119539326,-111.23564691738093
+"86040","Page","AZ","Page Hospital ER","501 N Navajo Dr","86040",36.917663,-111.463505
+"86040","Page","AZ","Banner Page Hospital","501 South Navajo Dr","86040",36.917501820251225,-111.46300290575961
+"86040","Page","AZ","Page Hospital","501 N Navajo Rd","86040",36.917597395766684,-111.4635912180483
+"86047","Winslow","AZ","Little Colorado Medical Center","1501 N Williamson Ave","86047",35.03567123413086,-110.69225311279297
+"86301","Prescott","AZ","Northern Arizona VA Health Care System","500 N State Route 89","86313",34.55373768555071,-112.4525785446167
+"86301","Prescott","AZ","valley radiology","Samaritan Way, Prescott, AZ 86301","86301",34.59711456298828,-112.44776153564453
+"86301","Prescott","AZ","NextCare Urgent Care","2062 Willow Creek Rd","86301",34.578612318670075,-112.48272120952606
+"86301","Prescott","AZ","Sana Behavioral Hospital","181 Whipple St","86301",34.5565939,-112.471217
+"86301","Prescott","AZ","Yavapai Regional Medical Center Cardiology Dept","not_available","86301",34.559751,-112.479248
+"86301","Prescott","AZ","Yavapai Regional Medical Center - West Campus","1003 Willow Creek Rd","86301",34.55906804588982,-112.48150549164606
+"86305","Prescott","AZ","Community Health Center","not_available","86321",34.57739964893108,-113.18328447242799
+"86314","Prescott Valley","AZ","Yavapai Regional Medical Center - East Campus","7700 E Florentine Rd","86314",34.590321,-112.32781200000001
+"86314","Prescott Valley","AZ","NextCare Urgent Care","3051 N Windsong Dr","86314",34.58750283004557,-112.32645034790039
+"86314","Prescott Valley","AZ","The Little Clinic","3100 N Glassford Hill Rd","86314",34.5875358,-112.341751
+"86320","Ash Fork","AZ","Steve's Heart","123 Steve Lane","not_available",35.2464599609375,-112.49969482421875
+"86322","Camp Verde","AZ","Immediate Care","1298 W Finnie Flat Rd","86322",34.5667264,-111.8768405
+"86324","Clarkdale","AZ","Verde Valley Medical Center","300 S Willard St","86326",34.7356442569749,-112.02933575897626
+"86324","Clarkdale","AZ","Northern Arizona Healthcare Medical Group - Cottonwood (General Surgery)","340 S Willard St","86326",34.73365,-112.02947
+"86324","Clarkdale","AZ","VVMC Pharmacy","not_available","86326",34.736138,-112.029086
+"86324","Clarkdale","AZ","Verde Valley Medical Center","269 S Candy Ln","86326",34.73552322387695,-112.02989959716797
+"86326","Cottonwood","AZ","Hospital","901-1005 Camino Real","86326",34.703513,-112.00969
+"86326","Cottonwood","AZ","Phoenix Children's Pediatrics - Cottonwood","800 Cove Pkwy","86326",34.725067138671875,-112.00482177734375
+"86326","Cottonwood","AZ","NextCare Urgent Care","450 S Willard St Ste. 120","86326",34.73176007306777,-112.02898869089928
+"86336","Sedona","AZ","Sedona Medical Center","3700 W State Route 89A","86336",34.85592000130516,-111.82324814492459
+"86336","Sedona","AZ","NextCare Urgent Care","2530 W State Route 89A Ste A","86336",34.86324259003769,-111.80415608267312
+"86401","Kingman","AZ","Kingman Regional Medical Center","3269 Stockton Hill Rd","86409",35.219899589327795,-114.03687556887465
+"86401","Kingman","AZ","Hualapai Mountain Medical Center","3801 Santa Rosa Dr","86401",35.21915054321289,-113.98565673828125
+"86401","Kingman","AZ","Krmc","3325-3359 Stockton Hill Rd","86409",35.21986350963673,-114.0372704657483
+"86401","Kingman","AZ","Desert Highlands","not_available","86401",35.21314304533483,-114.04063894268519
+"86401","Kingman","AZ","AIMS Urgent Care","3636 Stockton Hill Rd","86409",35.229203500660645,-114.03601608628847
+"86401","Kingman","AZ","KRMC Urgent Care","1726 E Beverly Ave","86409",35.21784210205078,-114.03905487060547
+"86401","Kingman","AZ","Krmc Hospice","812 Airway Ave","86409",35.224586486816406,-114.04401397705078
+"86401","Kingman","AZ","KRMC Emergency Department","3269 N Stockton Hill Rd","86409",35.220001220703125,-114.03800201416016
+"86403","Lake Havasu City","AZ","Havasu Regional Medical Center","101 Civic Center Ln","86403",34.48027848371308,-114.33865124126896
+"86403","Lake Havasu City","AZ","HRMC Cardiac Rehab","not_available","86403",34.479187,-114.334911
+"86403","Lake Havasu City","AZ","NextCare Urgent Care","1810 Mesquite Ave Ste B","86403",34.478966,-114.337884
+"86403","Lake Havasu City","AZ","Paul Klein, NP","1799 Kiowa Ave Ste 104","86403",34.505054,-114.351368
+"86403","Lake Havasu City","AZ","Havasu Memorial Hospital","100 civic dr","86403",34.480735659599304,-114.33815538883209
+"86403","Lake Havasu City","AZ","HRMC","101 Civic Center Lane","not_available",34.47332420511491,-114.34393045899705
+"86403","Lake Havasu City","AZ","North Country HealthCare - Lake Havasu City","2090 Smoketree Ave N","86403",34.47975678937209,-114.33000415563583
+"86404","Lake Havasu City","AZ","Havasu Hospital","4000 Bluegrass Dr","86406",34.494808197021484,-114.26837921142578
+"86413","Golden Valley","AZ","Valley View Medical Center","5300 S Highway 95","86426",35.00216658761636,-114.59607604771492
+"86413","Golden Valley","AZ","warmc","not_available","86429",35.11101303499524,-114.55539185606406
+"86413","Golden Valley","AZ","Fox Creek Urgent Care","not_available","86442",35.08121374087513,-114.55108230430442
+"86413","Golden Valley","AZ","Valley View General and Vascular Surgery","5300 Hwy 95, Suite D","86426",35.002655029296875,-114.59587860107422
+"86413","Golden Valley","AZ","Colorado River Medical Center","1401 Bailey Ave","92363",34.83293533325195,-114.61756134033203
+"86413","Golden Valley","AZ","Western Arizona Regional Medical Center - Emergency Room","2735 Silver Creek Rd","86442",35.11036682128906,-114.5554428100586
+"86413","Golden Valley","AZ","Urgent Care","1355 Ramar Rd","86442",35.11556208870015,-114.59990558534585
+"86413","Golden Valley","AZ","Fasttrax Urgent Care","3641 Highway 95","86442",35.05411363034823,-114.58925756227944
+"86413","Golden Valley","AZ","Warmc Surgery Center","1225 Hancock Rd #F","86442",35.108238220214844,-114.60580444335938
+"86413","Golden Valley","AZ","Fort Mohave Mental Health","not_available","86440",34.831848,-114.510272
+"86413","Golden Valley","AZ","Well, I did ideal good this time, broke Two, count em 2 bones in my RIGHT ankle and my  shin bone. this is the job they gave me this time .","My Place!","not_available",34.913597106933594,-114.63568878173828
+"86413","Golden Valley","AZ","Valley View Primary and Walk-In Care","5300 S Highway 95 Ste B","86426",35.002655029296875,-114.59587860107422
+"86503","Chinle","AZ","Chinle Hospital","not_available","86503",36.15820788404822,-109.60795831157701
+"86504","Fort Defiance","AZ","Tse'hootsooi' Medical Center","not_available","86504",35.75949346153287,-109.04835310452549
+"86505","Ganado","AZ","hospital de villarrica","not_available","86505",35.75080108642578,-109.63343811035156

@@ -1,0 +1,1014 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"80002","Arvada","CO","Ralston Central Park","not_available","not_available",39.802626091004164,-105.09729992607424
+"80002","Arvada","CO","Prospect Park","not_available","80033",39.78194276442579,-105.12830025822942
+"80002","Arvada","CO","McIlvoy Park","5750 Upham St.","80002",39.80134225249208,-105.07811521027521
+"80002","Arvada","CO","Fountain","5728 Olde Wadsworth Blvd","80002",39.80040281,-105.08116961
+"80002","Arvada","CO","Skate Park","Van Bibber Creek Trail","80002",39.7974904547214,-105.12762863762121
+"80002","Arvada","CO","Stinger Field","not_available","80002",39.799899,-105.12381
+"80002","Arvada","CO","Memorial Park","8001 W 59th Ave","80004",39.80423939570191,-105.08720943978388
+"80002","Arvada","CO","Jack B. Tomlinson Park","5155 Garrison St.","80002",39.7891816543481,-105.10229587554932
+"80002","Arvada","CO","Grace Climb on the Move","Sheridan & 69th","not_available",39.800605,-105.091612
+"80002","Arvada","CO","Columbine Park","6700-6798 W 53rd Ave","80002",39.79214007776517,-105.07127631798012
+"80002","Arvada","CO","Columbine Park","53rd street","80002",39.80025,-105.09299
+"80003","Arvada","CO","Emil Schneider Park","not_available","80005",39.828085,-105.082575
+"80003","Arvada","CO","Faversham Park","Near 7310 Jay St","80030",39.83091326602662,-105.0600196007341
+"80003","Arvada","CO","Tennyson Knolls Park","not_available","80003",39.81037321391444,-105.04935554953946
+"80003","Arvada","CO","Lake Arbor Park","8018-8198 Lamar St","80003",39.84493062100468,-105.06896440337614
+"80003","Arvada","CO","Lowell Ponds State Wildlife Area","5540 Lowell Blvd.","not_available",39.797086598988805,-105.03517994630067
+"80003","Arvada","CO","Wolff Run Park","W 76th Ave & Sheridan Ave","80003",39.83568236416422,-105.04742101908336
+"80003","Arvada","CO","Hoskinson Park","not_available","80004",39.80566092995489,-105.08244247041861
+"80003","Arvada","CO","Westminster Hills Park","4183 W 80th Ave","80030",39.84267779023202,-105.04112696251546
+"80003","Arvada","CO","Hidden Lake Park","Lowell Blvd","80003",39.8170909898409,-105.04047631864351
+"80003","Arvada","CO","Clear Creek Valley Park","5801 Lowell Blvd","80221",39.80139923095703,-105.03739166259766
+"80003","Arvada","CO","Clear Creek Valley Playground","5900 Tennyson St","80221",39.802977,-105.039263
+"80003","Arvada","CO","England Park","W. 72nd Ave","80030",39.82573028494824,-105.03887254971349
+"80004","Arvada","CO","Majestic View Park","W 72nd Ave","80004",39.824786880249206,-105.09920597076416
+"80004","Arvada","CO","Arvada Tennis Center","6404-6430 Miller St","80004",39.81356038876078,-105.11355872665713
+"80004","Arvada","CO","Ralston Valley Park","13600 W 69th Pl","80004",39.824065999999995,-105.15214499999999
+"80004","Arvada","CO","Yankee Doodle Park","Yank Way","80004",39.81573072553287,-105.14388084411621
+"80004","Arvada","CO","Ladybug Park","Dover St","80004",39.816065305345084,-105.09392738342285
+"80004","Arvada","CO","Fitzmorris Park","63rd & Independence","80004",39.81198441002367,-105.10413758500317
+"80005","Arvada","CO","Robby Ferrufino Park","8615 W 65th Pl","80004",39.83135272230567,-105.09745746706571
+"80005","Arvada","CO","Ketner Lake Open Space","not_available","80021",39.88229318828005,-105.11006355285645
+"80005","Arvada","CO","Kings Mill","8909 Field St","80021",39.858215,-105.099368
+"80005","Arvada","CO","Two Ponds National Wildlife Refuge","9210 W 80th Ave","not_available",39.840911865234375,-105.10159301757812
+"80005","Arvada","CO","Woodrun Park","Hoyt Way","80005",39.845574103443795,-105.10428603516084
+"80005","Arvada","CO","Arvada Volunteer Firefighter Park","8351 Club Crest Dr","80005",39.849427670080594,-105.09889623868658
+"80005","Arvada","CO","Countryside Park And Pool","10470 Oak St","80021",39.886454,-105.1183
+"80005","Arvada","CO","Club Crest North Park","7838 Club Crest Dr","80005",39.83672459380133,-105.09092035046815
+"80005","Arvada","CO","Willow Run Park","W 115th Ave","80031",39.87818464,-105.09501209
+"80005","Arvada","CO","Sierra Park","7801 Oak St","80005",39.83870942400293,-105.12131872749765
+"80005","Arvada","CO","Beeman Park","13405 W 83rd Pl","80005",39.84761383525144,-105.14990756245314
+"80007","Arvada","CO","Long Lakes Regional Park","not_available","80403",39.81205303229939,-105.20519454829954
+"80007","Arvada","CO","West Woods Park","not_available","80007",39.813074,-105.17978
+"80010","Aurora","CO","Greenway Park","not_available","80238",39.747754529142256,-104.86569119517642
+"80010","Aurora","CO","Bluff Lake Nature Center","Havana","80238",39.758283,-104.85739101666667
+"80010","Aurora","CO","Aurora Hills","S Ursula St","80012",39.71285218867676,-104.839034821572
+"80010","Aurora","CO","Bicentennial Park","13600 E Bayaud Ave","80012",39.713609000000005,-104.831281
+"80010","Aurora","CO","Lowery Park","E Severn Pl","80010",39.73129792953008,-104.8753435553477
+"80010","Aurora","CO","Cherry Pie Park","2754 Kenton St","80238",39.75587027018827,-104.8601155584487
+"80010","Aurora","CO","Spencer Garrett Park","10908 E 16th Ave","80010",39.741774,-104.85983999999999
+"80010","Aurora","CO","Fulton Park","not_available","80010",39.72871483420587,-104.8738303820934
+"80010","Aurora","CO","Prospect Park","4th Pl","80230",39.71894155624565,-104.88197454953239
+"80010","Aurora","CO","Smash Park","not_available","80012",39.711228666037584,-104.83736467301493
+"80010","Aurora","CO","Park Lane Park","E. 30th Ave.","80011",39.76257368563293,-104.84087247492879
+"80010","Aurora","CO","General's Park","N Quentin St","80011",39.74110315181997,-104.84543627200095
+"80010","Aurora","CO","Pancake Breakfast Fundraiser","1026 Dallas St","80010",39.73159,-104.876565
+"80010","Aurora","CO","Arc Park","9858 E 28th Ave","80238",39.7564582824707,-104.87335968017578
+"80010","Aurora","CO","McMullen Park","Emporia And","80010",39.7222756837757,-104.87458525644767
+"80011","Aurora","CO","Toll Gate Park","673 S Jasper St","80017",39.70575322727859,-104.80445549529897
+"80011","Aurora","CO","Highland Hollows park","Uravan St & Louisiana Ave","80017",39.6927243051069,-104.77755546569824
+"80011","Aurora","CO","Rocky Ridge Park","16200 E Mississippi Ave","80017",39.69514797000191,-104.80030978433456
+"80011","Aurora","CO","Peoria Hills Park","12449-12551 E Florida Ave","80012",39.6907793238312,-104.84170760288404
+"80011","Aurora","CO","Side Creek Park","1734 S Cathay St","80017",39.68707206095388,-104.7646649286333
+"80011","Aurora","CO","Colorado Freedom Memorial","756 Telluride Street","80011",39.72856903076172,-104.78115844726562
+"80011","Aurora","CO","Apache Mesa Park","not_available","80011",39.72815939449246,-104.79925819745888
+"80011","Aurora","CO","Springhill Park","Telluride","not_available",39.72792067165576,-104.7815417918006
+"80011","Aurora","CO","Utah Park Rec Center","1800 S Peoria St","80012",39.68382612614979,-104.84678727924828
+"80011","Aurora","CO","Jewell Wetlands Park","13005 E Jewell Ave","80014",39.68374252319336,-104.83453369140625
+"80011","Aurora","CO","CentrePointe Park - Playground","16299 E Exposition Ave","80017",39.704330747624056,-104.79448556900024
+"80011","Aurora","CO","Review Park","1161-1171 S Lewiston St","80017",39.695905251970736,-104.79998194028411
+"80012","Aurora","CO","Tierra Park","14700 E Jewell Ave","80013",39.681865096392045,-104.81600201917689
+"80012","Aurora","CO","Cantebury park","1450 South Arkansas Avenue","not_available",39.692,-104.86015
+"80012","Aurora","CO","Settlers Park","753 S Eagle St","80012",39.702154,-104.816616
+"80012","Aurora","CO","Village Green Park","1300 S Chambers Cir","80012",39.69291746175061,-104.81322645580545
+"80013","Aurora","CO","Great Plains Park","20100 E Jewell Avenue","80013",39.68073795132733,-104.75613033221586
+"80013","Aurora","CO","Olympic Park","15300 E. Yale Ave","80013",39.66876230420738,-104.80672013014555
+"80013","Aurora","CO","Wheel Park Skate Park","2500 S Wheel Park Cir","80013",39.67206867384731,-104.80778945787209
+"80013","Aurora","CO","Tall Grass","21131 E Lehigh Pl","80013",39.64696314010303,-104.74220137533352
+"80013","Aurora","CO","Hanakapi'ai Falls","18472 E Atlantic Dr","80013",39.681129455566406,-104.77345275878906
+"80013","Aurora","CO","Hampden Run Park","3501 S Uravan St","80013",39.65574029362705,-104.77918849344115
+"80013","Aurora","CO","Great Plains Park","not_available","80013",39.67567350971232,-104.72548828117999
+"80013","Aurora","CO","Open Space","17706 E Oxford Pl","80013",39.640229999999995,-104.781808
+"80013","Aurora","CO","Hilltop Park","17404 E Eastman Dr","80013",39.6567,-104.786653
+"80014","Aurora","CO","Kennedy Dog Park","9500 E Hampden Ave, Denver, CO 80014","80014",39.64967343294639,-104.8747334494752
+"80014","Aurora","CO","John F. Kennedy Park","9500 E Hampden Ave","80231",39.652328999999995,-104.876573
+"80014","Aurora","CO","Babi Yar Park","Babi Yar Park","not_available",39.66854769705549,-104.87080000197288
+"80014","Aurora","CO","Cherry Creek Park","4201 S Parker Rd","80014",39.64064025878906,-104.82919311523438
+"80014","Aurora","CO","Hollow","Yale","not_available",39.667903900146484,-104.8679428100586
+"80014","Aurora","CO","Hampden Heights North Park","3149-3275 S Havana St","80231",39.65859825363109,-104.8663924395093
+"80014","Aurora","CO","Crestridge Park","14751 E Yale Ave","80014",39.667984000000004,-104.816191
+"80015","Aurora","CO","Sagebrush Park","not_available","80015",39.6305708367022,-104.81974084348293
+"80015","Aurora","CO","LakeView Park","11700 E. Orchard Rd.","80112",39.60909652709961,-104.85186767578125
+"80015","Aurora","CO","Creekside Park","not_available","80016",39.60543027941039,-104.77595205402945
+"80015","Aurora","CO","Shalom Park","14800 E Belleview Dr","80015",39.621973549344446,-104.81642377233146
+"80015","Aurora","CO","Cherry Creek Family Shooting Center","cherry creek state park","80016",39.62001035516013,-104.84140086493588
+"80015","Aurora","CO","Pioneer Park","21452 E Crestridge Pl","80015",39.61579247020722,-104.74032718592512
+"80016","Aurora","CO","John Derry Park","312 Inverness Dr. S.","80112",39.56446604049099,-104.8632739215208
+"80016","Aurora","CO","The Greenbelt","not_available","80111",39.59910656232829,-104.86996142234663
+"80016","Aurora","CO","Dove Ridge Park","Dove Ridge Rd","80134",39.56057119222187,-104.80557253915183
+"80016","Aurora","CO","Cottonwood Park West","not_available","80134",39.557852743761046,-104.7889210086304
+"80016","Aurora","CO","Arapahoe Parks And Trails","1600 e broncos pkwy","not_available",39.579608717272386,-104.80367979866355
+"80016","Aurora","CO","Dove Valley","not_available","80112",39.57398147195723,-104.80306941689352
+"80016","Aurora","CO","Arapahoe Park Horse Track","26000 E Quincy Ave","80016",39.6272342276401,-104.68514509375781
+"80017","Aurora","CO","Mountain View Park","17200 E Kentucky Ave, Aurora, CO 80017","80017",39.70184234231279,-104.78775854511684
+"80017","Aurora","CO","Our park","941 S Quintero Ct","80017",39.699286,-104.787154
+"80017","Aurora","CO","Panorama Park","E Wyoming Pl","80017",39.69349803056247,-104.78451053123986
+"80018","Aurora","CO","Newfoundland Palace","not_available","80018",39.69253167658771,-104.70876560468193
+"80019","Aurora","CO","Green Valley Ranch East Park","4475 Rebel st.","80249",39.77887116054127,-104.74978381381233
+"80019","Aurora","CO","Green Valley East","not_available","80249",39.77378845061952,-104.74744239012762
+"80020","Broomfield","CO","Hampshire Park","not_available","80031",39.87865803122761,-105.04792106744402
+"80020","Broomfield","CO","Valley View Park","Decatur st.","80234",39.888335426541865,-105.02154030143403
+"80020","Broomfield","CO","Westminster City Park","10455 Sheridan Blvd","80020",39.8875377666956,-105.05964857613672
+"80020","Broomfield","CO","Louisville Community Park","not_available","80027",39.97149778482016,-105.13122054067708
+"80020","Broomfield","CO","Brandywine Park","not_available","80020",39.92296883540872,-105.0386842077832
+"80020","Broomfield","CO","Northmoor Park","1400 Birch","80020",39.935833125266534,-105.05824753781553
+"80020","Broomfield","CO","Windsor Park","3545 W 107th Ave","80031",39.89108911828599,-105.03334223683545
+"80020","Broomfield","CO","Broomfield Commons","E 13th Ave","80031",39.93540783518281,-105.04916667938232
+"80020","Broomfield","CO","Discovery Park East","Miramonte","80020",39.93348489280527,-105.08386147138266
+"80020","Broomfield","CO","Del Corso Park","Del Corso Way","80020",39.94774,-105.12212
+"80020","Broomfield","CO","Highland Park","1200 Highland Park Dr","not_available",39.92108965838224,-105.05968282452565
+"80020","Broomfield","CO","Bronco Park","Westlake dr","80020",39.932345306250795,-105.02595736609048
+"80020","Broomfield","CO","Broadlands West Park","5101 Meadow Mountain Dr","80023",39.9530698907202,-105.0513606779635
+"80020","Broomfield","CO","North Midway Park","1275 W Midway Blvd","80020",39.922122955322266,-105.08463287353516
+"80021","Broomfield","CO","Wildflower Park","3151 S Indiana St","80027",39.92347717285156,-105.16098022460938
+"80021","Broomfield","CO","Trendwood Park","6500-6502 W 96th Ave","80021",39.870165669522144,-105.0671638764574
+"80021","Broomfield","CO","Westglenn Park","9000 Vance Street","80021",39.86072540283203,-105.07785034179688
+"80021","Broomfield","CO","Red Slide Park","West Torreys Peak","not_available",39.924499119221714,-105.16267730415623
+"80021","Broomfield","CO","West Park","455 Eldorado","80021",39.922573,-105.124875
+"80022","Commerce City","CO","Reunion Park","not_available","80022",39.88964115508866,-104.78436237783488
+"80022","Commerce City","CO","Southlawn Park","10070 Southlawn Cir","80022",39.88010020681321,-104.77912222196447
+"80022","Commerce City","CO","Rotella Park","1900 Coronado Pkwy S","80229",39.84214244759942,-104.96613182179817
+"80022","Commerce City","CO","East Lake #3","2952 E 128th Ave","80241",39.926845,-104.951636
+"80022","Commerce City","CO","Quebec Run","not_available","80602",39.93272405336402,-104.91087934692172
+"80022","Commerce City","CO","Swansea Park & Recreation Center","E 49th Ave.","80216",39.784679694976624,-104.9551904631826
+"80022","Commerce City","CO","Platte River Trailhead Park","Thornton","CO",39.85479241633131,-104.93988137520209
+"80022","Commerce City","CO","Lake Village Park","not_available","80241",39.9297044782419,-104.9542492446178
+"80022","Commerce City","CO","Montbello Central Park","Dillon St & 47th Ave","80239",39.78443289776699,-104.82793807983398
+"80022","Commerce City","CO","Cherry Park","not_available","80233",39.90539013736915,-104.93204950184798
+"80022","Commerce City","CO","Prairie Meadows Park Stapleton","51st Ave","80238",39.793099,-104.89166
+"80022","Commerce City","CO","Trail Winds Park and Open Space","13500 Holly Steet","80241",39.93788200102079,-104.92535938314234
+"80022","Commerce City","CO","Ken Mitchell Park & Open Space","889 Kinglet Ct.","80601",39.96593745,-104.83912634
+"80022","Commerce City","CO","Montbello Falcon Park","not_available","80239",39.79339120200843,-104.82700216866077
+"80022","Commerce City","CO","Margaret Carpenter Rec Center","1151 Colorado Blvd","80233",39.896935779878014,-104.94219415723484
+"80023","Broomfield","CO","Trails Park","not_available","80234",39.94916521990624,-105.01955759282697
+"80023","Broomfield","CO","Wildgrass Park - East Side","not_available","80023",39.965796334782866,-105.04649773730222
+"80025","Eldorado Springs","CO","Harlow Platts Park","1599 Knox Dr","80305",39.97409427741741,-105.25019706412387
+"80026","Lafayette","CO","Waneka Lake","not_available","80026",39.99396321357213,-105.10893944476497
+"80026","Lafayette","CO","Rothman Open Space","Lucerne Dr.","80026",40.00550369388184,-105.08429215220372
+"80026","Lafayette","CO","Simpson Mine Park","700 E Simpson St","80026",39.997989654541016,-105.08259582519531
+"80026","Lafayette","CO","Yarrow Park","1451 Spring Creek Dr","80026",40.01641531028158,-105.12338583881584
+"80026","Lafayette","CO","Erie Community Park","Powers St Erie","80516",40.03863087079983,-105.05533904470622
+"80026","Lafayette","CO","Erie Commons Neighborhood Park","not_available","80516",40.038822,-105.060462
+"80026","Lafayette","CO","Community Labyrinth","2393 Park Lane","80026",40.013515,-105.127493
+"80026","Lafayette","CO","Ofelia Miramontes Park","500-528 Crossing Dr","80026",40.00201548435684,-105.09960421031354
+"80026","Lafayette","CO","Indian Peaks Trail West Gazebo","Indian Peaks Trail West","80026",40.001966184961844,-105.1375513305841
+"80026","Lafayette","CO","Pirates Park","1450 Jefferson Ave","not_available",39.983069405617556,-105.13407584542253
+"80026","Lafayette","CO","Indian Peaks Trail West Park","313 Indian Peaks Trail West","80026",40.00632869334735,-105.14025732669153
+"80027","Louisville","CO","East Boulder Community Park","5660 Sioux Dr","80303",39.99851156788325,-105.22470092566499
+"80027","Louisville","CO","Flatirons Vista Trailhead","not_available","80303",39.92432426681572,-105.23520561671917
+"80027","Louisville","CO","Burke Park","Admiral Arleigh A. Burkey Park","not_available",39.99607916510171,-105.23632247435879
+"80027","Louisville","CO","Coyote Run Trail","600 Tamarisk Ct.","80027",39.98232328708964,-105.15270506711722
+"80027","Louisville","CO","Blue Castle Slide Park","South Torreys Peak","80027",39.916693,-105.159294
+"80030","Westminster","CO","Town Square Park","not_available","80030",39.83402537439821,-105.03430103917485
+"80031","Westminster","CO","Westminster Center Park","6080 W 92nd Ave","80031",39.86477738654264,-105.04899474160445
+"80031","Westminster","CO","Savery Pond","10930 Federal Blvd","80031",39.895100266188635,-105.02227076375486
+"80031","Westminster","CO","Cobblestone Park","not_available","80221",39.84488914643383,-105.02296698872375
+"80031","Westminster","CO","Armed Forces Tribute Garden","6001 W 104th Ave","80021",39.88526052142283,-105.05617240214734
+"80031","Westminster","CO","Westminster Skate Park","Westminster","80031",39.88528469191586,-105.04358687651406
+"80031","Westminster","CO","Stratford Lakes Park","W 114th Loop, Westminster, CO 80031","80031",39.9060165476584,-105.02904077148318
+"80033","Wheat Ridge","CO","Crown Hill Open Space Park","2600 Kipling Blvd","80033",39.75518959579748,-105.10236303378521
+"80033","Wheat Ridge","CO","Founders' Park","3705 Jay St","80033",39.767063,-105.065541
+"80033","Wheat Ridge","CO","Apel-Bacher Park","45th Ave and Vance st.","80033",39.777889760781285,-105.07989633777007
+"80033","Wheat Ridge","CO","Rogue Picnic & Games","not_available","80214",39.778456546656926,-105.08128928434711
+"80033","Wheat Ridge","CO","Wheat Ridge Skate Park","3701 Johnson St","80033",39.767301,-105.10892
+"80033","Wheat Ridge","CO","Hacienda Loma Vista Courtyard","3200 Yarrow St","80033",39.762368,-105.08357
+"80102","Bennett","CO","Trupp Park","not_available","80102",39.757069,-104.43439
+"80104","Castle Rock","CO","Larkspur Community Park","not_available","80118",39.232249483575956,-104.8835767488894
+"80104","Castle Rock","CO","Festival Park","300 Second St.","80104",39.37138132845252,-104.85963799424137
+"80104","Castle Rock","CO","Douglas County Fairgrounds","500 Fairgrounds Rd","80104",39.36423558212285,-104.85374139290982
+"80104","Castle Rock","CO","Tour De Cure Tent @ Elephant Rock","not_available","80104",39.3723258972168,-104.86144256591797
+"80104","Castle Rock","CO","Castle Rock Park","716 Cantril St","80104",39.377027000000005,-104.857069
+"80104","Castle Rock","CO","Ravenwood Park","not_available","80108",39.382391,-104.811824
+"80104","Castle Rock","CO","Matney Park Disc Golf Course","6060 Lost Canyon Ranch Rd","80104",39.354559,-104.799177
+"80106","Elbert","CO","The Pineries Open Space","not_available","80908",39.023229,-104.659877
+"80106","Elbert","CO","Longview Park","not_available","80831",38.98873,-104.5941
+"80107","Elizabeth","CO","Casey Jones Park","4189 Highway 86","80107",39.36358642578125,-104.58467102050781
+"80107","Elizabeth","CO","Evan's Park","not_available","80107",39.36463098251055,-104.59075062052106
+"80108","Castle Rock","CO","Daniels Park","7292 County Road 36","80108",39.47356287273277,-104.92242220746984
+"80108","Castle Rock","CO","Stroh Ranch Soccer Park","18775 E Stroh Rd.","80134",39.47910243802683,-104.77107524871826
+"80108","Castle Rock","CO","Butterfield Park","3952 Butterfield Crossing Dr","80109",39.4097059187374,-104.90606626722274
+"80108","Castle Rock","CO","Elk Ridge Park","6971 Mira Vista Ln","80108",39.463375091552734,-104.88804626464844
+"80108","Castle Rock","CO","Salisbury Equestrian Park","9200 Motsenbocker Rd","80134",39.500935830282444,-104.78237205799235
+"80108","Castle Rock","CO","Kiowa Town Park","not_available","80117",39.48562446449093,-104.78099477496654
+"80108","Castle Rock","CO","Starry Night Park","not_available","80109",39.38304475466063,-104.90173804165433
+"80108","Castle Rock","CO","Horse Creek 1 Park","Firefly Ave","80134",39.49331155681551,-104.79649432855055
+"80110","Englewood","CO","Cushing Park","795 W. Eastman Ave.","not_available",39.65922231014875,-104.9965753127188
+"80110","Englewood","CO","Cornerstone Park","5150 Windmere St","80120",39.62331805188957,-105.00439821153077
+"80110","Englewood","CO","Bellview Park","not_available","80110",39.624871533644715,-105.00042680190252
+"80110","Englewood","CO","Sheridan Skate Park","3325 W Oxford Ave","80236",39.644075,-105.03123300000001
+"80110","Englewood","CO","West Harvard Gulch Park","not_available","80219",39.67072060770876,-105.01920626815624
+"80110","Englewood","CO","Cosgrove's Crawfish Boil","Bannock St","80110",39.633921,-104.991044
+"80110","Englewood","CO","Grant-Frontier Park","2300 S Platte River Dr.","80223",39.673606872558594,-104.99786376953125
+"80110","Englewood","CO","Frontier West Park","2300 S Platte River Dr","80223",39.673606872558594,-104.99786376953125
+"80110","Englewood","CO","Progress Park","5100 S. Hickory St.","80120",39.622855864995884,-104.99832701564932
+"80110","Englewood","CO","Bobcat Park","3101 W. Bear Creek Drive","80110",39.650164,-105.026739
+"80110","Englewood","CO","Wildcat Park","3003 west Jefferson ave, englewood. co","80110",39.65124553298416,-105.0279376654722
+"80110","Englewood","CO","Jason Park","1101 W Quincy Ave","80110",39.639389376850396,-104.99985049914815
+"80111","Englewood","CO","Westlands Park","Quebec","not_available",39.61263806662101,-104.90634569558836
+"80111","Englewood","CO","Cherry Park","6300 E Weaver Drive","80111",39.59786899135874,-104.91302933460683
+"80111","Englewood","CO","Village Greens Park","9301 E Union Ave","80111",39.63457985966521,-104.87794916650695
+"80111","Englewood","CO","George M. Wallace Park","4700 DTC Blvd","80237",39.6298600756403,-104.89036774538033
+"80111","Englewood","CO","Tommy Davis Park","Orchard & Yosemite","80111",39.609121844057896,-104.88240788298957
+"80111","Englewood","CO","Running Fox Park","S Quebec Street","not_available",39.62117995088572,-104.9039506112633
+"80111","Englewood","CO","Rosamond Park","8000 E Quincy Ave","80237",39.63952030544544,-104.8959330443111
+"80111","Englewood","CO","Heritage Runner's Loop","Newport and Heritage Pl","80111",39.60031925261,-104.90958481944882
+"80111","Englewood","CO","Eastmoor Park","6900 E. Princeton Ave.","80237",39.639199973578044,-104.91100092234939
+"80111","Englewood","CO","Volleyball","not_available","80237",39.62561013417959,-104.89217530567764
+"80112","Englewood","CO","Willow Creek Park","7600 E Mineral Pl","80112",39.57090263467642,-104.8999645867339
+"80112","Englewood","CO","Palomino Park","S Quebec","80130",39.559014004273344,-104.91045734121283
+"80112","Englewood","CO","Timberline Park","Timberline Rd","80130",39.54456187232004,-104.90660801654217
+"80112","Englewood","CO","Altair Park","13441 S Peacock Dr","80124",39.558205,-104.90352
+"80112","Englewood","CO","Eastridge Park","not_available","80130",39.54373676,-104.90877531
+"80112","Englewood","CO","Foxhill Park","8100 S Holly St","80112",39.57049422191954,-104.92027781827674
+"80112","Englewood","CO","Heritage Hills Park","9260-9298 E Heritage Hills Pkwy","80124",39.5484364993481,-104.8824420935762
+"80112","Englewood","CO","Rolling Hills at Palomino Park","6530-6548 Palamino Pkwy","80130",39.55531438433808,-104.91584084938256
+"80112","Englewood","CO","Highland Park ark","not_available","80124",39.560401916503906,-104.88580322265625
+"80112","Englewood","CO","Its A Park","6828 E County Line Rd","80126",39.56506723333333,-104.90987498333334
+"80112","Englewood","CO","Welte Park","6351 Freeport Dr","80130",39.553837,-104.91507
+"80113","Englewood","CO","Mamie D. Eisenhower Park","4400-4500 E Dartmouth Ave","80222",39.65894611576505,-104.93734818375766
+"80113","Englewood","CO","Baker Acres","not_available","80121",39.61939094780639,-104.9583507162969
+"80113","Englewood","CO","De Boer Park","De Boer Park","80210",39.66546574920093,-104.9661677655383
+"80113","Englewood","CO","Barde Park","not_available","80113",39.659162,-104.972882
+"80113","Englewood","CO","Bates & Logan Park","555 E Cornell Ave","80113",39.66333204480587,-104.98131290947572
+"80113","Englewood","CO","Herbert Hosana Park","S. Clarkson Street","80113",39.651157171391226,-104.97858009368228
+"80120","Littleton","CO","Charley Emley Park Lee Gulch Blue Park","not_available","80120",39.595549,-105.015322
+"80120","Littleton","CO","James Taylor Park","not_available","80123",39.625424,-105.039585
+"80120","Littleton","CO","Sterne Park","5800 S Spotswood St","80120",39.607395694417995,-105.01082252497591
+"80120","Littleton","CO","Berry Park","3400 W Berry","80123",39.616991005644415,-105.0327886452101
+"80120","Littleton","CO","Footbridge Park","1312 W Geddes Ave","80120",39.584065,-105.003824
+"80120","Littleton","CO","Bega Park","2300 W Main St","80120",39.613471000000004,-105.015553
+"80120","Littleton","CO","Bowles Grove Park","5501 S. Federal Blvd.","80123",39.614603440232685,-105.0286282078385
+"80120","Littleton","CO","Bocce World National","111 1st st","not_available",39.5854,-105.01905620098114
+"80120","Littleton","CO","Gallup Park Playground","6147 S Gallup Street","80120",39.605252335410675,-105.00298310033489
+"80120","Littleton","CO","Park","not_available","50323",39.59312568717274,-105.00737683290713
+"80120","Littleton","CO","Reynolds Landing","6745 S Santa Fe Dr","80120",39.593448638916016,-105.02403259277344
+"80120","Littleton","CO","Writer Vista Park","1900 W. Mineral Av","not_available",39.572189,-105.012279
+"80121","Littleton","CO","Julia deKoevend Park","6301 S University Blvd","80121",39.5999142986249,-104.95890405222896
+"80121","Littleton","CO","South Suburban Park","6325 S University Blvd","80121",39.601986,-104.96086899999999
+"80121","Littleton","CO","Little dry creek park","Peakview","80121",39.59916980040513,-104.93665945925511
+"80121","Littleton","CO","South Suburban Park and Recreation District","6631 S University Blvd","80121",39.596556,-104.959378
+"80121","Littleton","CO","Curtis park","University and Orchard","80121",39.61138569233065,-104.96372649067429
+"80122","Littleton","CO","Medema Park","4950 E Easter Ave","80122",39.585421496149245,-104.93017304636352
+"80122","Littleton","CO","Clarkson Park","7346 S Clarkson St","80122",39.58380390335309,-104.97342837737796
+"80122","Littleton","CO","Cherry Knolls Park","7077 S Elizabeth St","80122",39.590769167784615,-104.95715848351765
+"80122","Littleton","CO","Duck Pond","not_available","80122",39.58692384209893,-104.95511630636757
+"80122","Littleton","CO","Arapaho Park","7800 S Adams St","80122",39.57697935447174,-104.95145414332453
+"80122","Littleton","CO","Abbott Park","8000 S. High St","80122",39.57261324407678,-104.96689055684047
+"80123","Littleton","CO","Robert F. Clement Park","7306 W Bowles Ave","80123",39.607202588364515,-105.08054713920048
+"80123","Littleton","CO","Weaver Park","weaver st","80123",39.59930071250389,-105.06598465069229
+"80123","Littleton","CO","Lilley Gulch Recreation Center","6147 S Holland Way","80123",39.60315266948832,-105.10379414161976
+"80123","Littleton","CO","Clement Park Baseball Fields","7194-7272 W Bowles Ave","80123",39.60708693956017,-105.07637977140547
+"80123","Littleton","CO","Pinehurst Park","4700 W Quincy Ave","80236",39.63708727028509,-105.0479018040746
+"80123","Littleton","CO","Bow Mar Heights Park","Quitman and Rice Pl","80236",39.63495950919082,-105.04212576300822
+"80124","Lone Tree","CO","Lonesome Pine Park","501 Maximus Dr","80124",39.55854034423828,-104.89430236816406
+"80124","Lone Tree","CO","Fairways at Lone Tree","9607 Troon Village Dr","80124",39.541015625,-104.88790130615234
+"80124","Lone Tree","CO","Acres Green Park","Acres Green Park","80124",39.556413,-104.896157
+"80124","Lone Tree","CO","Rc Car Track","not_available","80126",39.565352,-104.925225
+"80125","Littleton","CO","Foothills Park","not_available","80129",39.54259818467639,-104.99290079254861
+"80125","Littleton","CO","Redstone Park","Redstone Park Cir","80129",39.54666510222445,-105.02707591838454
+"80125","Littleton","CO","Civic Green Park","9370 Ridgeline Blvd.","80129",39.54578151064036,-104.99611314020159
+"80125","Littleton","CO","Trailmark Park","8853 W. Trailmark Parkway","80127",39.53791898374144,-105.10155189283701
+"80125","Littleton","CO","Plum Valley Park","W Westridge Village Pkwy","80129",39.530513561226805,-105.02510133639154
+"80125","Littleton","CO","Crystal Lake","Red Fox Ct","80125",39.47363783627255,-105.06424006504142
+"80125","Littleton","CO","DuPont Park","not_available","80131",39.47768417943248,-105.00458080742791
+"80125","Littleton","CO","Schmidt Nature Park","Sleeping Bear Trail","80125",39.46977,-105.089914
+"80125","Littleton","CO","Trailmark Sledding Hill","not_available","80127",39.54053476250392,-105.10375504098555
+"80125","Littleton","CO","Falcon Park","9555 S Fallbrooke Dr","80126",39.54233857570385,-104.93543641186635
+"80125","Littleton","CO","Red-tail Park","2674 Pemberly Avenue","80126",39.51967214191635,-104.95726532100227
+"80125","Littleton","CO","David A Lorenz Regional Park","8422 S. Colorado Blvd.","80126",39.563260012552334,-104.93843189709817
+"80126","Littleton","CO","Highland Heritage Regional Park","S Quebec St","80130",39.53614391738785,-104.93154292822923
+"80126","Littleton","CO","Big Dry Creek Park","9898 S Atherton Way","80130",39.53603370628051,-104.93180142741822
+"80127","Littleton","CO","Weaver Hollow Park","not_available","80465",39.63442288588543,-105.14132854189663
+"80127","Littleton","CO","Westbury Park","10001 W Burgundy Dr","80127",39.605768,-105.11304399999999
+"80127","Littleton","CO","North Ranch Park","25 mule deer trail","80127",39.59933515549492,-105.16668529775741
+"80127","Littleton","CO","The Park","W Marlowe Ave","80465",39.63223120962857,-105.13081509141671
+"80127","Littleton","CO","Robert A. Easton Regional Park","12819 W. Coal Mine Ave","80127",39.60140829155286,-105.14574313455722
+"80127","Littleton","CO","Turkey Creek Park","6701-6799 S Turkey Creek Rd","80465",39.593609468282374,-105.22250045677971
+"80127","Littleton","CO","Mossbrucker Park","12776 W Cross Ave","80127",39.614078521728516,-105.14159393310547
+"80128","Littleton","CO","Columbine Manor Park","5075 W. Ken Caryl Ave.","80128",39.581321716308594,-105.05287170410156
+"80128","Littleton","CO","Coronado Park","not_available","80128",39.57187454573618,-105.08712951340317
+"80128","Littleton","CO","Valley View Park","9600 W Columbine Dr","80128",39.58491516113281,-105.10061645507812
+"80128","Littleton","CO","Frolf Course","7640-7658 S Continental Divide Rd","80127",39.57792611484876,-105.1186006869761
+"80132","Monument","CO","Palmer Lake Regional Recreational Area","not_available","80133",39.125639177074184,-104.90965325235526
+"80132","Monument","CO","Limbach Park","not_available","80132",39.09106669174899,-104.87410063123656
+"80132","Monument","CO","Fox Run Regional Park","2110 Stella Dr","80921",39.05809332909192,-104.79146250315614
+"80132","Monument","CO","Lewis-Palmer Grounds Dept.","2 S Jefferson St","80132",39.08841133117676,-104.87054765224457
+"80134","Parker","CO","O'Brien Memorial Park","Victorian Drive & E. Mainstreet","80134",39.51910530967166,-104.7639513015747
+"80134","Parker","CO","Tallman Meadow Park","12335 Canterberry Parkway","80138",39.492422067571326,-104.73369080105485
+"80134","Parker","CO","The Pavillion","not_available","80138",39.517875,-104.748665
+"80135","Sedalia","CO","Some Park","11346-11458 S Foxton Rd","80433",39.436374,-105.233261
+"80138","Parker","CO","Park","11550 Club Dr","80138",39.50432205200195,-104.75270080566406
+"80138","Parker","CO","Parker Sprinkler Supply Company","18648 Longs Way #107","80134",39.52361297607422,-104.77281951904297
+"80202","Denver","CO","Confluence Park","2250 15th St.","80204",39.75448692690256,-105.00856943810193
+"80202","Denver","CO","Commons Park","2101 15th St.","80202",39.75572827475747,-105.00562503168432
+"80202","Denver","CO","Civic Center Park","101 W. 14th Ave. Pkwy.","80203",39.73937019305758,-104.98877561591745
+"80202","Denver","CO","Riverfront Park","1610 Little Raven St","80202",39.75620698382686,-105.00466069319789
+"80202","Denver","CO","City of Cuernavaca Park","3500 Rockmont Dr","80202",39.762416816781176,-105.00104399049856
+"80202","Denver","CO","Fishback Landing","not_available","80211",39.754709569312254,-105.0114454217908
+"80202","Denver","CO","Hirshorn Park","Hirshorn Park","80211",39.76024883233525,-105.0110688019649
+"80202","Denver","CO","Boxyard Park","not_available","80205",39.759983,-104.987385
+"80202","Denver","CO","Railyard Dog Park","19th St. & Bassett St.","80202",39.758110984657066,-105.00149198154647
+"80202","Denver","CO","Centennial Park","Centennial Park","not_available",39.7524959058514,-105.00915718457256
+"80202","Denver","CO","Grassy Triangle","1300 Wazee St","80202",39.74891647980287,-105.0029374517933
+"80202","Denver","CO","LoDo","not_available","80204",39.75137783129078,-104.99659813608734
+"80202","Denver","CO","SendGrid Field Trip","not_available","80202",39.746982517436344,-104.9971002510128
+"80202","Denver","CO","Highland Gateway","1943 Central St","80211",39.76174592405175,-105.00589756623276
+"80202","Denver","CO","Colorado Mountain Urban Winefest","1245 Champa St","80204",39.743633,-104.99813400000001
+"80202","Denver","CO","Skyline Park","1600 Arapahoe St","80435",39.74788901230272,-104.99615878681095
+"80203","Denver","CO","Governor's Park","701 Pennsylvania St.","80203",39.727966,-104.98149
+"80203","Denver","CO","Grant Park","not_available","80203",39.74713512806507,-104.9842566122864
+"80203","Denver","CO","Humphrey's Park","701-743 Pennsylvania St","80203",39.7287074378629,-104.98072526457972
+"80203","Denver","CO","Arlington Park","Arlington Park","80203",39.718289963377366,-104.97783841891702
+"80204","Denver","CO","Sloan's Lake Park","1700 Sheridan Blvd","80204",39.75246920015107,-105.04706382751465
+"80204","Denver","CO","Jefferson Park","2201 Clay St.","80211",39.74997501388818,-105.02017492821858
+"80204","Denver","CO","Sunken Gardens Park","1099 Speer Blvd.","80204",39.72895411042792,-104.9895689267484
+"80204","Denver","CO","Hallack Park","Hallack Park","not_available",39.747281745009346,-105.02985521186785
+"80204","Denver","CO","Barnum Park","360 Hooker St","80219",39.72554325820287,-105.02684193486758
+"80204","Denver","CO","Trestles Bike Skills Course at Barnum North","6th Ave and Knox Street","not_available",39.72626361587264,-105.03106510401035
+"80204","Denver","CO","Denver City Park","2400 West 8th Avenue","not_available",39.729157680206974,-105.01236414959523
+"80204","Denver","CO","Frog Hollow Park","780 River Dr","80204",39.72862339568404,-105.01517172283916
+"80204","Denver","CO","Phil Milstein Park","1-25 And 8th avenue","not_available",39.72283073508396,-105.01258099294473
+"80204","Denver","CO","Lakewood Gulch","Sun Valley","80204",39.73916,-105.020569
+"80204","Denver","CO","Trestle Bike Park","800 Knox St.","80204",39.7271308337501,-105.03864425649276
+"80205","Denver","CO","City Park","1700 York St","80206",39.74593969067049,-104.95614880049796
+"80205","Denver","CO","Benedict Fountain Park","401 E 20th Ave","80205",39.748057,-104.982271
+"80205","Denver","CO","Madame C.J. Walker Park","High St.","not_available",39.75929860492205,-104.96479511260986
+"80205","Denver","CO","Mestizo-Curtis Park","3000 Curtis St","80205",39.76051181639267,-104.97715379909562
+"80205","Denver","CO","Fuller Dog Park","1600 E 29th Ave","not_available",39.75785660417691,-104.96780479373956
+"80205","Denver","CO","Globeville Landing Park","3901 Arkins Ct.","80216",39.77629089355469,-104.97672271728516
+"80205","Denver","CO","Lawson Park","Lawson Park","80205",39.751713538583495,-104.98336304611054
+"80205","Denver","CO","Lightning Tree","not_available","80206",39.74439437264679,-104.95108336824953
+"80205","Denver","CO","Dr. Daniel Hale Williams Park","Lafayette St.","not_available",39.75956252967952,-104.97101783752441
+"80205","Denver","CO","Purple Park","2300 N Steele St","80205",39.750125885009766,-104.94900512695312
+"80205","Denver","CO","Scl Health Fitness Zone","Humboldt","80218",39.744503,-104.97007
+"80205","Denver","CO","Lawson Park Dog Park","California and 24th","not_available",39.752475,-104.982652
+"80205","Denver","CO","George Morrison Sr. Park","1400 E Martin Luther King Blvd","not_available",39.76173987033513,-104.96960163116455
+"80205","Denver","CO","Fountain At City Park","1900 steele st","80205",39.746381160541446,-104.95087801627004
+"80206","Denver","CO","Congress Park","914 Elizabeth St.","80206",39.72984,-104.95672
+"80206","Denver","CO","DC Burns Park","250 Colorado Blvd","80206",39.71264,-104.93993
+"80206","Denver","CO","James N. Manley Park","400 Josephine St","80206",39.72306524871673,-104.95732961686383
+"80206","Denver","CO","City Of Karmiel Park","3300 E. Cherry Creek North Dr.","80206",39.71373287063956,-104.9498398519644
+"80206","Denver","CO","National Get Outdoors Day at Denver City Park","1700 Colorado Blvd","80220",39.743943,-104.940357
+"80206","Denver","CO","Cherry Creek Park","4 S University Blvd","80209",39.713818,-104.950498
+"80206","Denver","CO","Winston Park","2702-2798 E 3rd Ave","80206",39.72098014058481,-104.94082179619738
+"80206","Denver","CO","Garfield Dog Park","not_available","80209",39.715919,-104.943546
+"80206","Denver","CO","Pulaski Park","3300 E Bayaud Ave","80209",39.71301587206438,-104.94709046036985
+"80207","Denver","CO","Central Park","9000 E Martin Luther King Blvd.","80238",39.76044123030155,-104.88732858164849
+"80207","Denver","CO","Fred Thomas Park","not_available","80207",39.75280696846662,-104.90184638841714
+"80207","Denver","CO","Stapleton Dog Park","2002 N Spruce St.","80238",39.749697654341716,-104.89771842956543
+"80207","Denver","CO","Founders Green at Stapleton","7601 East 29th Avenue","80238",39.75834350940831,-104.89843299777985
+"80207","Denver","CO","Westerly Creek Park","not_available","80220",39.75262045460064,-104.89616423692087
+"80207","Denver","CO","Hiawatha Davis Recreation Center","3334 Holly St","80207",39.76438084524962,-104.92225737571506
+"80207","Denver","CO","Greenway Park sledding hill","Stapleton","80238",39.75450124014636,-104.89446187047427
+"80207","Denver","CO","Greenway Park - Stapleton","Roslyn","80238",39.74839308998062,-104.8926086670461
+"80207","Denver","CO","W.H. Ferguson Park","4716 E 23rd Ave","80207",39.750808374250425,-104.93250231445484
+"80209","Denver","CO","Washington Park","1100 S Franklin St","80210",39.70145984831918,-104.97312030655681
+"80209","Denver","CO","Hungarian Freedom Park","Hungarian Freedom Park","80218",39.71783821139603,-104.97712527333306
+"80209","Denver","CO","cranmer park","not_available","80226",39.70353089670235,-104.95161956632752
+"80209","Denver","CO","The Grassy Knoll","Ogden St","80209",39.71583589717241,-104.97502472274218
+"80209","Denver","CO","Eugene Field's House","not_available","80210",39.694066376881544,-104.97744476216323
+"80209","Denver","CO","Brest Park - Fireworks","625 S Colorado Blvd","80246",39.70505142211914,-104.9411849975586
+"80209","Denver","CO","Spinal Bifida Walk & Roll at Washington Park","1000 S Downing St","80209",39.69819022,-104.97115515
+"80209","Denver","CO","City of Brest Park","3800 E. Cherry Creek South Dr.","not_available",39.70597945608927,-104.94077046147333
+"80209","Denver","CO","City of Takayama Park","Denver","CO",39.707360238189494,-104.94233332602231
+"80210","Denver","CO","Harvard Gulch Park","2300 S. Logan St.","80210",39.67695981736469,-104.97830053894566
+"80210","Denver","CO","Observatory Park","2930 E Warren Ave","80210",39.67592724060203,-104.95293725221678
+"80210","Denver","CO","City Of Kunming Park","2500 S Grant St","80210",39.66954266829463,-104.98442232841411
+"80210","Denver","CO","Historic Buchtel Boulevard Trail","1921-1935 S St Paul St","80210",39.6837637291981,-104.94795698629336
+"80210","Denver","CO","James H. Platt Park","1500 S Grant St","80210",39.691630341785775,-104.98480646484413
+"80210","Denver","CO","Veterans Park","Veterans Park","not_available",39.68835675978598,-104.96147109959497
+"80210","Denver","CO","Harvard Gulch Golf Course","660 E Iliff Ave","80210",39.67307342730698,-104.97983524339145
+"80210","Denver","CO","Dinosaur Park","End of S Fillmore before Yale","80210",39.667998416782275,-104.95355106974552
+"80210","Denver","CO","Sherman And Vassar Park","2500 S Sherman St","80210",39.670372009277344,-104.98462677001953
+"80211","Denver","CO","McDonough Park","4101 Federal Blvd","80211",39.7744693338306,-105.02559945355243
+"80211","Denver","CO","Rocky Mountain Lake Park","3301 W. 46th Ave.","not_available",39.78064879235879,-105.03382734445317
+"80211","Denver","CO","Columbus Park","1500 W 38th Ave","80211",39.77019972119098,-105.00515142093829
+"80211","Denver","CO","Chaffee Park","W 43rd Ave","80211",39.776547,-105.010573
+"80211","Denver","CO","Viking Park","2945 North Speer Blvd","80211",39.75859957678577,-105.02444505002121
+"80211","Denver","CO","Osceola & 29Th Park","Osceola & 29th Ave","80212",39.758374,-105.036742
+"80212","Denver","CO","Berkeley Park","4601 W 46th Ave","80212",39.780701821493665,-105.0458870154315
+"80212","Denver","CO","Cesar Chavez Park","not_available","80212",39.77337218669185,-105.04439124438893
+"80212","Denver","CO","Old Elitch Gardens Pavilion and Park","3752 Tennyson St","80212",39.768120111796414,-105.0455667986208
+"80212","Denver","CO","Lakeside Train","4601 Sheridan Blvd","80212",39.779510498046875,-105.05628204345703
+"80212","Denver","CO","Citizens Park","2245 Ames St","80214",39.75080389086355,-105.05653200290955
+"80214","Denver","CO","Walker - Branch Park","5825 W 16th Ave","80214",39.74309433677237,-105.06223434976447
+"80214","Denver","CO","Aviation Park","1900 Teller St.","not_available",39.7459831237793,-105.0760726928711
+"80214","Denver","CO","Mountair Park","5620 W 14th Ave","80214",39.73806739664898,-105.0592490121314
+"80215","Denver","CO","Idlewild Park","14th Place & Lewis","not_available",39.73799040807384,-105.11256003940754
+"80215","Denver","CO","Gary McDonnell Park","1001 Simms st","not_available",39.733126041617645,-105.12876501818943
+"80215","Denver","CO","COBE Park","1215 Quail St","80215",39.735660552978516,-105.12484741210938
+"80215","Denver","CO","Holbrook Park","at Lakewood Village Dr","80215",39.730616842373074,-105.11227399367577
+"80216","Denver","CO","Argo Park","not_available","80216",39.78216432437051,-104.98164952256829
+"80216","Denver","CO","Veterans Memorial Park","6001 Forest St","80022",39.80680847167969,-104.92692565917969
+"80218","Denver","CO","Cheesman Park","1599 E. 8th Ave.","80218",39.73344929181756,-104.96654826991082
+"80218","Denver","CO","Alamo Placita Park","300 Emerson St.","80218",39.7214573370664,-104.97528251980434
+"80218","Denver","CO","St Joseph Fitness Zone Park","not_available","80218",39.744618,-104.970182
+"80218","Denver","CO","Miyoko Edwards memorial bench","cheesman park","80218",39.73002929478612,-104.96821407317469
+"80219","Denver","CO","Godsman Park","1400 S Zuni St.","80223",39.69020080566406,-105.01461029052734
+"80219","Denver","CO","Huston Lake Park","850 S Bryant St.","80219",39.69965535176167,-105.0160234729517
+"80219","Denver","CO","Garfield Lake Park","1200 S Lowell","80219",39.6939131058612,-105.03551959991455
+"80219","Denver","CO","Harvey Park","Evans Ave","80219",39.677855709883545,-105.04171482720419
+"80219","Denver","CO","Weir Gulch Park","Alameda and Weir","80219",39.713661582174055,-105.04821001757199
+"80219","Denver","CO","athmar park","not_available","80223",39.70539647481782,-105.01529573103734
+"80220","Denver","CO","Lowry Sports Park and Open Space","8100 E Lowry Blvd","80230",39.71494755117525,-104.89313962408313
+"80220","Denver","CO","Lowry Dam Trail","not_available","80230",39.71493114382176,-104.89314694915704
+"80220","Denver","CO","Great Lawn Park","101 Yosemite St","not_available",39.725326348177525,-104.88898515701294
+"80220","Denver","CO","Montclair Park","Oneida","not_available",39.734769088557854,-104.90868949163777
+"80220","Denver","CO","Robinson Park","3rd and Glencoe","not_available",39.71987856283521,-104.92798292564147
+"80220","Denver","CO","Cranmer Park","4501 E. 1st Ave.","80246",39.71910426187165,-104.93539810180664
+"80220","Denver","CO","Lindsley Park","4800 E 12th Ave","not_available",39.73515082983945,-104.93277617597914
+"80220","Denver","CO","Crescent Park","7600 E 8th Ave","80220",39.72784772105843,-104.89731869726573
+"80220","Denver","CO","Kittredge Park","800 Oneida St","80220",39.73241419200543,-104.90494949990025
+"80221","Denver","CO","Berkeley Hills Park","2648 rosemary ln","not_available",39.79474736445684,-105.01997095994608
+"80221","Denver","CO","Emily And Tonys Summer Soltice","4900 Umatilla St","80221",39.785773999999996,-105.012106
+"80222","Denver","CO","The sledding hill @ Monaco & Iliff","not_available","80224",39.6783497359469,-104.91700425856612
+"80223","Denver","CO","Ruby Hill Park","1200 W Florida Ave.","80223",39.68554449273281,-105.00274915169584
+"80223","Denver","CO","Overland Pond Park","955 W Florida Ave.","80223",39.68951905667749,-104.99858948743527
+"80223","Denver","CO","Pasquinel's Landing Park","801 W Evans Ave.","80223",39.67876052856445,-104.99773406982422
+"80223","Denver","CO","Habitat Park","610 S Jason St","80223",39.705360412597656,-104.99871826171875
+"80223","Denver","CO","West-Bar-Val wood Park","West-Bar-Val Wood Park","not_available",39.7139431571468,-105.01155384281256
+"80223","Denver","CO","Levitt Pavilion Denver","1380 W Florida Ave","80223",39.68678326564656,-105.00317499345711
+"80223","Denver","CO","Sanderson Gulch Park","W Arkansas Ave","80223",39.69189873698225,-105.00354766845703
+"80223","Denver","CO","Vanderbilt Park","855 S Platte River Dr.","80223",39.7014366402968,-104.99530291503716
+"80223","Denver","CO","Unamed Park","S Tejon & Pacific Pl","80223",39.6790542853469,-105.01072642106705
+"80223","Denver","CO","Aspgren (Clifford) Park","1201 W Exposition Ave","80223",39.70412063598633,-105.00167083740234
+"80224","Denver","CO","Garland Park","6300 E. Mississippi Ave.","80224",39.69565317303437,-104.917557451211
+"80224","Denver","CO","Crestmoor Park","100 Kearney St","80220",39.71421132487238,-104.91426113582631
+"80224","Denver","CO","Southmoor Park","3600 S. Oneida Way","80224",39.6513287064037,-104.90619172479548
+"80224","Denver","CO","James A. Bible Park","6802 E Yale Ave","80222",39.66685266944253,-104.90701860673077
+"80224","Denver","CO","City of Potenza Park","5201-5299 Nebraska Way","80246",39.6994953212746,-104.91832736170086
+"80224","Denver","CO","Judge Joseph E. Cook Park","7100 Cherry Creek South Dr","80224",39.68775423581271,-104.91063594818115
+"80224","Denver","CO","City Of Madras Park","not_available","80231",39.6876329695205,-104.90275865255046
+"80224","Denver","CO","Hutchinson Park","E Eastman Ave & S Pontiac St","80224",39.657149188269365,-104.90424600309487
+"80226","Denver","CO","Belmar Park","801 Wadsworth Blvd","80226",39.70226715585329,-105.08723258972168
+"80226","Denver","CO","Addenbrooke Park","600 S Kipling St","80226",39.70539681010562,-105.10263596211878
+"80226","Denver","CO","O'Kane Park","6907 W 1st Ave","80226",39.71936185295968,-105.073662476557
+"80226","Denver","CO","South Simms Park","544 S Simms St","80226",39.706085205078125,-105.12802124023438
+"80226","Denver","CO","Jim Hoida Memorial Park","not_available","80232",39.694533252910425,-105.12633808428002
+"80226","Denver","CO","Washington Heights Park","100-198 Lamar St","80226",39.719102,-105.06716966629028
+"80227","Denver","CO","Bear Creek Lake Park","not_available","80227",39.661296141488386,-105.11376340642292
+"80227","Denver","CO","Bates Hobart Park","W. Bates st. and S. Hobart way","80236",39.66173060571907,-105.06287880174497
+"80227","Denver","CO","Sister City Park","3270-3298 S Carr Ct","80227",39.65609974055982,-105.08686301272306
+"80227","Denver","CO","Hodgson Park","9401 West Morrison Road","80227",39.670947127723146,-105.10402910228065
+"80228","Denver","CO","Coyote Gulch Park","not_available","80228",39.6707092683107,-105.16175773136546
+"80228","Denver","CO","Union Square Park","W. 2nd Place","not_available",39.71953752204926,-105.14206136975578
+"80228","Denver","CO","Foothills Park","12800 w virginia ave","80227",39.70509338378906,-105.14630126953125
+"80228","Denver","CO","Wright Park","Wright St","not_available",39.7210041100288,-105.13765974988027
+"80228","Denver","CO","Golden Heights Park","16350-16398 W 4th Ave","80401",39.72051579051843,-105.1844001255238
+"80228","Denver","CO","Union Ridge Park","Zang St","80228",39.72275175168126,-105.14342307687002
+"80229","Denver","CO","Fairfax Park","6850 Fairfax Dr","80022",39.820994,-104.928423
+"80229","Denver","CO","Amulek Visits North Suburbia","not_available","80229",39.8619,-104.986
+"80229","Denver","CO","Park","2173-2299 E 97th Ave","80229",39.87293282897359,-104.9607339860795
+"80229","Denver","CO","Thornton civic center park","2211 Eppinger Blvd","80229",39.867162,-104.958799
+"80229","Denver","CO","WinDance Park","2100 E 99th Pl","80229",39.87580884835931,-104.96203224651316
+"80230","Denver","CO","Prospect Park","5th Ave","80230",39.725608,-104.892447
+"80231","Denver","CO","Country Lane Park","not_available","80247",39.685565265896756,-104.87146087529943
+"80231","Denver","CO","Indian Creek","Quebec Way","80231",39.685161782445086,-104.89655543093775
+"80231","Denver","CO","Peewee's Playhouse","1234 Fun House Lane","80231",39.668309472627946,-104.88912470326126
+"80231","Denver","CO","Serenity Hour","7808 E Cherry Creek South Dr","80231",39.6790771484375,-104.89849090576172
+"80232","Denver","CO","Main Reservoir","W Florida Ave & S Kipling Pkwy","not_available",39.69120642681939,-105.11774988100782
+"80232","Denver","CO","Kendrick Lake Park","9351 W Jewell Ave","80232",39.683223991949916,-105.10424736804548
+"80232","Denver","CO","Green Gables Park","1450 South Garrison Street","80232",39.68944977836982,-105.0999696162212
+"80232","Denver","CO","Hangman's Tree","Iowa Ave.","80232",39.687688003281124,-105.10248996678246
+"80232","Denver","CO","Jewell Park","9316 W Utah Ave","80232",39.683177,-105.10166399999999
+"80233","Denver","CO","Webster Lake","11672 Community Center Dr","80233",39.909200515964415,-104.9851697389932
+"80233","Denver","CO","Holly Park","11101 Holly St.","not_available",39.898344117315474,-104.9284009573894
+"80233","Denver","CO","Nglenn Pathway","10500 Grant Dr","80233",39.887277000000005,-104.98183799999998
+"80233","Denver","CO","Briar Ridge Park","4060 Woodglen Blvd","not_available",39.90753936767578,-104.93834686279297
+"80233","Denver","CO","Grange Creek Park","4200 E 110th Ave","80233",39.890144485958366,-104.92763300049701
+"80234","Denver","CO","Big Dry Creek Park","1700 W. 128th Ave.","80234",39.92777880773042,-105.0096707512012
+"80234","Denver","CO","Northwest Open Space","2000 W. 112th Ave","80234",39.895448125200424,-105.01075744628906
+"80234","Denver","CO","Danahy Park","Livingston Drive","80234",39.890221309919916,-105.00205218659235
+"80234","Denver","CO","The Ranch Park","2202 W 118th Ave","80234",39.912129968830435,-105.0103612156194
+"80234","Denver","CO","Croke Reservoir Nature Area","Huron Street","80234",39.8902272051967,-105.00208454721945
+"80234","Denver","CO","Hillcrest Elm Park","103rd","80260",39.88397005,-105.00145205
+"80235","Denver","CO","Pinecrest Village Park","3776-3792 S Benton Way","80235",39.64771475334307,-105.05660049838293
+"80235","Denver","CO","Schaefer Park","3604 S Kipling St","80235",39.650272369384766,-105.10572814941406
+"80235","Denver","CO","Kendall Park","not_available","80235",39.65253529978672,-105.06512638046225
+"80237","Denver","CO","Rosamond Parl","4100 S. Tamarac","80237",39.64098807719576,-104.89697085732023
+"80239","Denver","CO","Montbello Recreation Center","15555 E 53rd Ave","80239",39.79252992200417,-104.8060398561651
+"80239","Denver","CO","mel silverman park","12941-12977 Andrews Dr","80239",39.78529033639711,-104.8408555984497
+"80239","Denver","CO","Parkfield Lake Park","53rd Ave & Kittredge St","80239",39.790137961508144,-104.80570793151855
+"80241","Thornton","CO","Woodglen Park","11800 Clayton St.","80233",39.924772977828006,-104.9370629972592
+"80241","Thornton","CO","Woodglen Meadows Park","Clermont St","80241",39.9246615036485,-104.9368576632958
+"80241","Thornton","CO","Hunters Glen Park","128th","not_available",39.929326644638735,-104.97187068145148
+"80241","Thornton","CO","Neighborhood Park","130th Ave","80241",39.93175506591797,-104.92356872558594
+"80246","Denver","CO","Infinity Park","4400 E Kentucky Ave","80246",39.69835955966959,-104.935003965861
+"80246","Denver","CO","Creekside Park","not_available","80246",39.70634475368416,-104.93544101715088
+"80246","Denver","CO","Four Mile Historic Park","715 S Forest St","80246",39.7035258717078,-104.9291350166456
+"80246","Denver","CO","Playa del Carmen Park","4800 East Kentucky Ave.","80246",39.700462832979746,-104.92947660357733
+"80249","Denver","CO","Towne Center Park","Argonne St","80249",39.786746,-104.768697
+"80260","Denver","CO","Niver Creek Open Space","not_available","80260",39.86076747167456,-104.99104064931419
+"80260","Denver","CO","Ruston Park","2526 W 99th Pl","80260",39.87798025191301,-105.0094424991646
+"80301","Boulder","CO","Boulder Creek","The Creek","not_available",40.014782398214905,-105.27977867904755
+"80301","Boulder","CO","Holiday Park","4650 Holiday Dr","80304",40.059526,-105.278302
+"80301","Boulder","CO","Boulder Reservoir & Park","5565 51st St","80301",40.07145436132503,-105.22881031036377
+"80301","Boulder","CO","Canyon Park","Canyon Blvd.","80302",40.016418849479436,-105.26725712923582
+"80301","Boulder","CO","East Palo Park","not_available","80301",40.04668808269914,-105.24894510392616
+"80301","Boulder","CO","Lovers' Hill Park","2150 Mesa Dr.","80304",40.02488212331933,-105.26892500614633
+"80301","Boulder","CO","Catalpa Park","3780 Cloverleaf Dr","not_available",40.04125517314522,-105.27400979763149
+"80301","Boulder","CO","Salberg Park","19th Street","not_available",40.0309482997148,-105.27342741704206
+"80301","Boulder","CO","Elmer's Two Mile Park","2749 Glenwood","not_available",40.032160761861014,-105.26121981738973
+"80301","Boulder","CO","Parkside Park","26th St. and Kalmia Ave.","80304",40.038556526492016,-105.26412963867188
+"80301","Boulder","CO","Christensen Park","Kings Ridge Blvd","not_available",40.032326659744825,-105.24238957859401
+"80301","Boulder","CO","Goose Creek Greenway - Western Artery","2800 Folsom St","80304",40.02838897705078,-105.26260375976562
+"80301","Boulder","CO","Boulder Central Park","1770 13th St","80302",40.0154873695804,-105.27817368507385
+"80301","Boulder","CO","Crest View Park","not_available","80304",40.05448118048524,-105.26761621129833
+"80301","Boulder","CO","Jenny's Park","Oakleaf Circle","80304",40.04463487172733,-105.2798701294959
+"80301","Boulder","CO","Green Leaf Park","Pearl St.","80302",40.02211490323316,-105.26367274247069
+"80302","Boulder","CO","CU: Farrand Field","Farrand Fld","80309",40.00626831205269,-105.26752476749692
+"80302","Boulder","CO","Colorado Chautauqua National Historic Landmark","900 Baseline Rd","80302",39.99873240180494,-105.28187633617367
+"80302","Boulder","CO","North Boulder Park","800-898 Dellwood Ave","80304",40.02848389301053,-105.28682622441264
+"80302","Boulder","CO","Eben G. Fine Park","3rd St. & Arapahoe Ave.","80302",40.013084907488505,-105.29531453423364
+"80302","Boulder","CO","Yale Road Community Park","not_available","80305",39.980803,-105.252963
+"80302","Boulder","CO","Hiram Fullen Park","not_available","80302",40.0159,-105.289053
+"80302","Boulder","CO","Settler's Park","100 Pearl St","80302",40.01409757203347,-105.29539037268398
+"80302","Boulder","CO","Scott Carpenter Park","1505 30th St","80303",40.01164440046737,-105.25501458079026
+"80302","Boulder","CO","Beach Park","Euclid Ave","80302",40.00398681435964,-105.27633217640985
+"80302","Boulder","CO","Chipeta Park","not_available","80466",39.96113,-105.507287
+"80303","Boulder","CO","Martin Park","Broadway","80305",39.986573375590034,-105.24477780954557
+"80304","Boulder","CO","Sundance Community Park","crystal ct","80304",40.048585194281536,-105.26090093924014
+"80401","Golden","CO","Red Rocks Park & Amphitheatre","18300 W Alameda Pkwy","80465",39.66538036697848,-105.20586133003235
+"80401","Golden","CO","Lookout Mountain Park","910 Colorow Rd","80401",39.73352352026977,-105.23874530187118
+"80401","Golden","CO","Heritage Dells Park","not_available","80401",39.721311,-105.212242
+"80401","Golden","CO","Lair O' the Bear","bear creek rd","80465",39.66786639534617,-105.25787036973948
+"80401","Golden","CO","Maple Grove Park","W 32nd St","80401",39.76130321360181,-105.16250595480172
+"80401","Golden","CO","Apex Park","Golden","not_available",39.71605421909675,-105.20975455161636
+"80401","Golden","CO","Bergen Park","1491 Bergen Pkwy.","80439",39.692459899138285,-105.36297896668923
+"80401","Golden","CO","Parfet Park","10th St. and Washington Ave.","80401",39.75729151659593,-105.22303807585635
+"80401","Golden","CO","Matthews Winters","CO Hwy 26","not_available",39.6944586417003,-105.20484224025375
+"80401","Golden","CO","Lions Park","1445 10th St","80401",39.7545999378807,-105.22903134638086
+"80401","Golden","CO","Eagle Ridge Park","Stonebridge","80401",39.729117,-105.217936
+"80401","Golden","CO","Elk Meadow Park","not_available","80439",39.663029302104626,-105.35861012621662
+"80401","Golden","CO","Vanover Park","10th","80401",39.75825680853073,-105.22018070962199
+"80401","Golden","CO","Genesee Park","701-1099 Genesee Mountain Rd","80401",39.683622735666546,-105.29007633231744
+"80401","Golden","CO","The Cave","Elk Rest Meadows","80439",39.69905346666667,-105.32338575
+"80401","Golden","CO","Clear Creek History Park","1020 11th St.","80401",39.75498413978786,-105.22452311973565
+"80401","Golden","CO","Hockey Stop Park","17385 Golden Rd","80401",39.740931,-105.197611
+"80403","Golden","CO","North Table Mountain Park","Golden, CO","80403",39.78150118172848,-105.2245574023695
+"80403","Golden","CO","Fairmount Park","5222 Quaker St","80403",39.79268762116315,-105.18338903444223
+"80403","Golden","CO","Tanglewood Park Tennis Courts","13705 Denver W Pkwy","80401",39.745299112429336,-105.15609190493417
+"80421","Bailey","CO","Kickball Practice Park","Parkview","80421",39.41743,-105.471722
+"80421","Bailey","CO","McGraw Memorial Park","39 CR 68","not_available",39.40469,-105.473107
+"80424","Breckenridge","CO","Rainbow Lake","not_available","80443",39.56303016164448,-106.08852519319989
+"80424","Breckenridge","CO","Wellington Bike Park","710 Wellington Rd","80435",39.483734130859375,-106.0314712524414
+"80424","Breckenridge","CO","toms baby Park","not_available","80424",39.48304,-106.046386
+"80424","Breckenridge","CO","walter byron park","Frisco","80443",39.57878337091126,-106.09759436225646
+"80424","Breckenridge","CO","Carter Park","528 S High St","not_available",39.48145826397863,-106.03835043896098
+"80424","Breckenridge","CO","Nike Rail Jam","River Walk Center","80424",39.48045107770755,-106.04670230738557
+"80424","Breckenridge","CO","Kingdom Park","Kingdom Dr","80424",39.494398326717956,-106.0482750822508
+"80424","Breckenridge","CO","Adventure Point at Keystone","not_available","80435",39.579146362292065,-105.94048373359836
+"80435","Dillon","CO","Walker Island","Trailhead Dr","80435",39.6061635017395,-105.94220817089081
+"80438","Empire","CO","Big Bend Picnic Ground","not_available","80438",39.769943,-105.81707
+"80439","Evergreen","CO","Evergreen Lakehouse","29612 Upper Bear Creek Rd.","80439",39.63157264473662,-105.33121366156978
+"80439","Evergreen","CO","Pence Park","Parmalee Gulch Road","80439",39.635532819652724,-105.27883559918973
+"80439","Evergreen","CO","Dedisse Park","4365 Evergreen Pkwy","80439",39.63467129213625,-105.33098151424029
+"80439","Evergreen","CO","Evergreen Park & Recreation District","1521 Bergen Pkwy","80439",39.6870231628418,-105.36348724365234
+"80439","Evergreen","CO","Fillius park","1180-1198 Evergreen Pk","80439",39.5870716,-105.30811089
+"80439","Evergreen","CO","Fillio Park","1180-1198 Evergreen Pkwy","80439",39.693962406045294,-105.35758655276582
+"80439","Evergreen","CO","Kittredge Community Park","26440 CO-74","80439",39.654755,-105.30357
+"80440","Fairplay","CO","Cohen Park","not_available","80440",39.2258654386189,-105.99557116042962
+"80442","Fraser","CO","Trestle Bike Park","not_available","80482",39.88544519136403,-105.76256541574263
+"80442","Fraser","CO","Hideaway Park","78841 US Highway 40","80482",39.919836777552206,-105.78425993433014
+"80442","Fraser","CO","Wolf Park","313 Kings Crossing Rd.","80482",39.9228401184082,-105.79045867919922
+"80442","Fraser","CO","Mountain Man Park","not_available","80442",39.933249,-105.788512
+"80444","Georgetown","CO","Georgetown park","not_available","80444",39.70958996921463,-105.6953392594332
+"80446","Granby","CO","Point Park","not_available","80447",40.24510707767241,-105.82606315612793
+"80446","Granby","CO","Green Mountain Employee Housing","Rocky Mountain National Park","80447",40.246989278109986,-105.83835545133094
+"80446","Granby","CO","Polhamus Park","not_available","80446",40.08683920974946,-105.94251458745697
+"80447","Grand Lake","CO","Endovalley Picnic Area","not_available","80517",40.414001,-105.656529
+"80449","Hartsel","CO","Buena Vista Town Park","not_available","81211",38.84282091929744,-106.13376364243571
+"80449","Hartsel","CO","McPhelemy Park","Hwy 24","81211",38.83048896411917,-106.12794073543101
+"80452","Idaho Springs","CO","Summit Lake Park (overlook)","Mt. Evans Rd","80439",39.60178490607584,-105.64224476894606
+"80461","Leadville","CO","Twin Lakes Recreation Area","County Road 24C","81251",39.09536717997871,-106.3453644259241
+"80477","Steamboat Springs","CO","Kasters Cove","not_available","80477",40.4854621887207,-106.83153533935547
+"80480","Walden","CO","Whistler Park","Meadow Lane","80487",40.441656113263,-106.80938243865967
+"80480","Walden","CO","Emerald Field","Pamela lane","80487",40.47184306763828,-106.8289141444044
+"80480","Walden","CO","Rich Weiss Park","not_available","80487",40.48155,-106.828018
+"80480","Walden","CO","Rita Valentine Park","Anglers Drive","80487",40.470367688484615,-106.8165665695784
+"80480","Walden","CO","Barn Village","Angel's View Way","80487",40.46286511666667,-106.82430916666667
+"80480","Walden","CO","West Lincoln Park","13th and Lincoln","not_available",40.488637946708046,-106.84006314697969
+"80497","Silverthorne","CO","Trent Park","not_available","80498",39.652186415979116,-106.08769620566227
+"80498","Silverthorne","CO","Big horn park","4236-4298 Nugget Ln","81657",39.62902751580157,-106.28796100616455
+"80498","Silverthorne","CO","Ford Park","700 E. I-70 Frontage Rd","not_available",39.64065934097187,-106.36202260580818
+"80498","Silverthorne","CO","Ford Park","not_available","81657",39.63957978517143,-106.3664401079976
+"80498","Silverthorne","CO","Ellefson Park","2300 Garmisch Dr","81657",39.627958,-106.424909
+"80498","Silverthorne","CO","Donavan Pavilion","1600 S Frontage Rd W","81657",39.634716,-106.408102
+"80501","Longmont","CO","Roosevelt Park","not_available","80501",40.17139955515272,-105.10410332729357
+"80501","Longmont","CO","Prospect Park","100 Year Party Court","not_available",40.1351948604404,-105.1043374217852
+"80501","Longmont","CO","Thompson Park","Bross St & Fifth Ave","not_available",40.16674038076914,-105.10774612426758
+"80501","Longmont","CO","Lefthand Park","not_available","80504",40.135963040009784,-105.11910317847594
+"80501","Longmont","CO","Union Reservoir","co rd 26","80504",40.13613812,-105.10743514
+"80501","Longmont","CO","Lexington Park","71-99 E Longs Peak Ave","80501",40.1726506254215,-105.08977852282888
+"80501","Longmont","CO","Price Park","501 Sunset","not_available",40.17020970175787,-105.12566996993355
+"80501","Longmont","CO","Carr Park","1200 21st Ave","80501",40.19513716739583,-105.11112059751908
+"80501","Longmont","CO","Rothrock Dell Park","600-948 5th Ave","80501",40.16731752536436,-105.08025599087156
+"80501","Longmont","CO","Collyer Park","Collyer St","not_available",40.16963392558966,-105.10008380573449
+"80503","Longmont","CO","Niwot Children's Park","not_available","80503",40.102592,-105.17359
+"80503","Longmont","CO","Lavern M. Johnson Park","600 Park Dr","80540",40.22342,-105.271731
+"80503","Longmont","CO","Willow Farm Park","fordham","80503",40.14272335606724,-105.14869006937032
+"80503","Longmont","CO","Sandstone Park","300 Broadway St","80540",40.223727,-105.268665
+"80503","Longmont","CO","Lyons Dirt Jumps","End of Park Ave","80540",40.22096372811223,-105.2575805505459
+"80503","Longmont","CO","Pratt Park","1600 Ithaca Ct","80503",40.186488,-105.15034399999999
+"80503","Longmont","CO","Niwot Cruiser Ride","79th","not_available",40.099093,-105.169546
+"80503","Longmont","CO","Lichen Loop Trail","Longmont, CO","80501",40.132576679108105,-105.29479436292594
+"80503","Longmont","CO","Meadowview Park","600 A Airport Rd","80503",40.150753397490945,-105.14999953047639
+"80503","Longmont","CO","Willow Farm ""Barn"" Park","901 S Fordham Street","80501",40.14874385586024,-105.14079171720923
+"80503","Longmont","CO","Rock N Rails","1st Ave","80503",40.10247978548916,-105.17432931295811
+"80504","Longmont","CO","Mead Park - Town Hall/Firehouse","not_available","80542",40.258391414873465,-104.98579049936222
+"80504","Longmont","CO","Hobby Town USA Off road Track","334-458 County Road 26","80504",40.17060671666667,-105.04580348333333
+"80504","Longmont","CO","Centennial Park","not_available","80530",40.094266,-104.938378
+"80504","Longmont","CO","Stoneridge","Sable","80504",40.141976612373604,-104.95244651859393
+"80513","Berthoud","CO","Fickle Park","620 Mountain Ave.","80513",40.30541354937053,-105.083401562064
+"80513","Berthoud","CO","Bein Fields","Spartan Ave.","not_available",40.29906582544181,-105.08984132314193
+"80515","Drake","CO","Sleepy Hollow Park","not_available","80515",40.40759,-105.408479
+"80516","Erie","CO","Lehigh Park","Eichorn St","80516",40.03645387172393,-105.04541298652177
+"80516","Erie","CO","Reliance park","900 County road 1 1/2","80516",40.0533332824707,-105.04750061035156
+"80516","Erie","CO","Elephant Park in Vista Ridge","Juniper Way","not_available",40.01131,-105.017582
+"80517","Estes Park","CO","Performance Park","417 W Elkhorn Ave","80517",40.37680292669135,-105.52794352498687
+"80517","Estes Park","CO","Buser Park","Windcliff","80517",40.33852810080072,-105.55538598675112
+"80517","Estes Park","CO","Estes Park","338 West Riverside Drive","80517",40.3724479675293,-105.5229721069336
+"80520","Firestone","CO","Miners Park","226 Grant Ave","80520",40.11677576524809,-104.93784427642821
+"80520","Firestone","CO","Hart Park Firestone","479-483 Jackson Ave","80520",40.11553001113097,-104.93265407883418
+"80521","Fort Collins","CO","City Park","1500 W Mulberry St","80521",40.58372999312416,-105.1020079109997
+"80521","Fort Collins","CO","Lee Martinez Park","600 N Sherwood St","80521",40.593119841893106,-105.08748347338577
+"80521","Fort Collins","CO","North Shields Ponds Natural Area","not_available","80524",40.607071987587155,-105.1009973247054
+"80521","Fort Collins","CO","Washington Park","301 Maple Street","80521",40.59040832519531,-105.08122253417969
+"80521","Fort Collins","CO","Civic Center Park","W Mountain Ave","80524",40.58806418492557,-105.08005047471657
+"80521","Fort Collins","CO","Overland Park","2930 Virginia Dale Dr","not_available",40.571607697541886,-105.1294845395902
+"80521","Fort Collins","CO","Reservoir Ridge Natural Area","1436 N County Rd 23","not_available",40.61112992599247,-105.15361316690698
+"80521","Fort Collins","CO","Rotary Park","107-167 N County Road 23","80526",40.56628220678843,-105.15489822230474
+"80521","Fort Collins","CO","Gateway Natural Area","5216 Poudre Canyon/ Hwy 14","80521",40.616497635981446,-105.10905935031518
+"80521","Fort Collins","CO","Creekside Park","200 Johnson Drive","80525",40.56238555908203,-105.07858276367188
+"80521","Fort Collins","CO","Park Bike Track","520 Hickory St","80524",40.604381,-105.086321
+"80521","Fort Collins","CO","Avery Park","1101 Castlerock Dr.","80521",40.57161331176758,-105.11286926269531
+"80521","Fort Collins","CO","Saddle Ridge Natural Area","not_available","80521",40.578335,-105.131478
+"80521","Fort Collins","CO","Freedom Square Park","600 N. Shields","80521",40.57970462434987,-105.09615898132324
+"80521","Fort Collins","CO","Soft Gold Park","520 Hickory St","80521",40.604381,-105.086321
+"80524","Fort Collins","CO","Spring Canyon Park","2626 W Horsetooth Rd.","80526",40.53931563076436,-105.12631524271912
+"80524","Fort Collins","CO","Fischer Natural Area","1309 W Stuart St","80526",40.56000649648066,-105.10167675774227
+"80524","Fort Collins","CO","Edora Park","not_available","80525",40.56485947429143,-105.04787326581739
+"80524","Fort Collins","CO","Landings Park","4351 Boardwalk Dr","80525",40.526938,-105.067394
+"80524","Fort Collins","CO","Spring Creek Park","100 Spring Creek","not_available",40.55989391825003,-105.06508274395435
+"80524","Fort Collins","CO","Rossborough Park","not_available","80526",40.54438424028591,-105.10695245126239
+"80524","Fort Collins","CO","Rolland Moore Park","2201 S. Shields St.","80521",40.55671699698229,-105.10403481189583
+"80524","Fort Collins","CO","Troutman Park","Manhattan Avenue","80526",40.53108732975837,-105.08652435778845
+"80524","Fort Collins","CO","Gustav Swanson Natural Area","445 Linden Street","not_available",40.59263610839844,-105.07271575927734
+"80524","Fort Collins","CO","Richards Lake Park","2945 Parkside Drive","80524",40.62797562068675,-105.04551887512207
+"80524","Fort Collins","CO","The Pier Apartments - Poolside","Boardwalk Drive","80525",40.5247760651884,-105.06716357465648
+"80524","Fort Collins","CO","Old Fort Collins Heritage Park","112 Willow St","80524",40.592735290527344,-105.0749282836914
+"80525","Fort Collins","CO","Fossil Creek Park","5821 S Lemay Ave","80525",40.5026400079975,-105.05847930908203
+"80525","Fort Collins","CO","Twin Silo Park","not_available","80528",40.510344,-105.01812
+"80525","Fort Collins","CO","Harmony Park","Corbett Drive","80528",40.51520924410568,-105.02723707100724
+"80525","Fort Collins","CO","Ridgeview Park","4700 Hinsdale Drive","80526",40.521705627441406,-105.08577728271484
+"80525","Fort Collins","CO","River Bluffs Open Space","6101 East County Road 32E","80528-9463",40.486043157575416,-104.95863594076543
+"80525","Fort Collins","CO","Wood West Park","Dunno","80526",40.550783,-105.087249
+"80525","Fort Collins","CO","Beattie Park","500 W Swallow Road","80525",40.545681631911165,-105.08554241193455
+"80525","Fort Collins","CO","Gabriellos","401 derry drive","80525",40.503483,-105.071676
+"80525","Fort Collins","CO","Shepherdson Elementary Park","1501 Springwood Dr","80525",40.541936,-105.050821
+"80525","Fort Collins","CO","English Ranch Park & Playground","Kingsley Dr","80525",40.53369731932518,-105.02910569205062
+"80525","Fort Collins","CO","Radiant Park","3651 Kechter Road","80528",40.50767517089844,-105.00938415527344
+"80526","Fort Collins","CO","Coyote Ridge Natural Area","7609 S Taft Hill Rd","80538",40.48024992986486,-105.11630352100131
+"80526","Fort Collins","CO","Gateway Natural Area","Fort Collins,CO,80521","80521",40.533494170954285,-105.10309843766305
+"80526","Fort Collins","CO","Cottonwood Glen Park","3074 Overland Trail","80521",40.54470665134115,-105.13072372270712
+"80526","Fort Collins","CO","Registry Park","6820 Rangers Drive","80526",40.49092416903429,-105.10422706604002
+"80528","Fort Collins","CO","Southeast Community Park","Ziegler Road","80528",40.512624595426495,-105.01650810241699
+"80530","Frederick","CO","Jame M Crist Park","5th street","80530",40.098820748854564,-104.94139788700988
+"80534","Johnstown","CO","Parish Park","not_available","80534",40.336468698812524,-104.90870659976524
+"80534","Johnstown","CO","Fitnesd Park","not_available","80543",40.32094955444336,-104.86949157714844
+"80534","Johnstown","CO","Rolling Hills Ranch Park","Rolling Hills Pkwy","80534",40.338037633333336,-104.92772486666667
+"80534","Johnstown","CO","Sunrise Park","N 6th St","80534",40.343976524566216,-104.91930484771729
+"80534","Johnstown","CO","Hays Park","Country Acres Dr.","80534",40.33269164227748,-104.91605185924017
+"80534","Johnstown","CO","Eddie Aragon Park","401-499 S Parish Ave","80534",40.33229112625122,-104.90622103214264
+"80537","Loveland","CO","High Plains Village Park","not_available","80538",40.411500686913485,-105.01908642872583
+"80537","Loveland","CO","Benson Sculpture Gardens","1125 W 29th St","80538",40.4235969036932,-105.0938491747944
+"80537","Loveland","CO","Dwayne Webster Veterans Park (Canon Park)","272-398 W Eisenhower Blvd","80537",40.406585383333336,-105.08065815
+"80537","Loveland","CO","Osborn Park","not_available","80537",40.39031539790406,-105.05633793255821
+"80537","Loveland","CO","Fairgrounds Park","S Roosevelt Ave","80537",40.387500050414715,-105.07888588805677
+"80537","Loveland","CO","Lakeside Park","272-398 U.S. 34","80537",40.40646928161547,-105.08038729299487
+"80537","Loveland","CO","Fairlay Park","1615 Foxtrail Dr","80538",40.409991999999995,-105.00183200000001
+"80537","Loveland","CO","Chapungu Gallery At Centerra","5971 Sky Pond Dr","80538",40.415963,-104.98909099999999
+"80537","Loveland","CO","HPV Park","Buffalo Mountain Pl","80538",40.41376446666666,-105.0193992
+"80537","Loveland","CO","High Plains Environmental Center","2725 Rocky Mountain Ave","80538",40.420047760009766,-105.00155639648438
+"80537","Loveland","CO","Dwayne Webster Park","400-484 W Eisenhower Blvd","80537",40.40596102562401,-105.09142846632982
+"80537","Loveland","CO","R2J Cross Country Invite","W Lake Park Rd","80538",40.41911147,-105.09344648
+"80537","Loveland","CO","North Lake Park","2626 N Taft Ave","80538",40.420357,-105.095121
+"80543","Milliken","CO","Josephine B Park","not_available","80634",40.393903069864734,-104.76499538305264
+"80543","Milliken","CO","Eagle Ridge Tennis","W 22nd St","80634",40.4033001,-104.8001962
+"80543","Milliken","CO","Lola Park","301-385 S Irene Ave","80543",40.32720318005875,-104.85850789612228
+"80549","Wellington","CO","Soapstone Prairie Natural Area","22998 Rawhide Flats Rd","80549",40.882582076549376,-105.0762484725049
+"80549","Wellington","CO","Wellington Community Park","not_available","80549",40.71275,-105.012111
+"80549","Wellington","CO","Viewpointe Park","3545 Reagan ct","80549",40.69129825402918,-105.01054952455421
+"80550","Windsor","CO","Eastman Park","not_available","80550",40.464429669309915,-104.90949927835723
+"80550","Windsor","CO","Windsor Lake","100 North 5th Street","80550",40.48231886142174,-104.90334044079201
+"80550","Windsor","CO","Village East Park","865 Park Edge Cir","80550",40.48453903198242,-104.87647247314453
+"80550","Windsor","CO","Covenant Park","1401 Fernwood Dr","80550",40.471662,-104.924714
+"80550","Windsor","CO","Missile Site Park","Missile Park Road","80634",40.49225080651551,-104.93056658686939
+"80550","Windsor","CO","Atlas E Missile Silo","Missile Park Rd","80550",40.429766294925784,-104.86205577850342
+"80601","Brighton","CO","Adams County Fairgrounds","9755 Henderson Rd","80601",39.92971483647532,-104.87484455108643
+"80601","Brighton","CO","Malcolm Park","16 N 5th Ave, Brighton, CO 80601","80601",39.98695373535156,-104.81600189208984
+"80601","Brighton","CO","Veterans Park","not_available","80601",39.987468763907046,-104.83011426807353
+"80601","Brighton","CO","Central park","not_available","80640",39.89253616333008,-104.87818908691406
+"80601","Brighton","CO","Freezbee Golf","1860 E Egbert St","80601",39.982696533203125,-104.79974365234375
+"80601","Brighton","CO","Brighton Park","555 N 11th Ave","80601",39.996694,-104.809023
+"80601","Brighton","CO","Villages East Park","11698 Chambers Rd","80022",39.90787124633789,-104.80693817138672
+"80601","Brighton","CO","Benedict Park","1855 Southern Street","not_available",39.980294697144465,-104.80017569877481
+"80601","Brighton","CO","CVC Lookout","Dayton Way","80640",39.890831,-104.876927
+"80602","Brighton","CO","HOMESTEAD HILLS PARK","E 140TH AVE","not_available",39.94907290245333,-104.93466174715059
+"80615","Eaton","CO","Herb Ledall BBQ Pit","not_available","80615",40.527833892227676,-104.71770768231171
+"80620","Evans","CO","Anna Gimmestead Memorial Park","not_available","80631",40.385941265269096,-104.70829858049001
+"80620","Evans","CO","Renaissance Park","not_available","80620",40.380930060611966,-104.7527348555949
+"80620","Evans","CO","Evans City Park","3929 Golden Street","80620",40.37372589111328,-104.68954467773438
+"80620","Evans","CO","Prairie View Park","Prairie View Dr","80620",40.36903590383715,-104.71824783079973
+"80621","Fort Lupton","CO","Sam Koshio Memorial Park","not_available","80621",40.08042490595326,-104.8133005461803
+"80621","Fort Lupton","CO","RailRoad Park","101 Pacific Ave.","80621",40.081973,-104.807897
+"80631","Greeley","CO","Bittersweet Park","35th Ave","80634",40.41694839645906,-104.74346131468124
+"80631","Greeley","CO","Broadview Park","600 28th ave","not_available",40.42719439870748,-104.72708318149763
+"80631","Greeley","CO","La Salle Park","not_available","80645",40.35342661951109,-104.70143576638525
+"80631","Greeley","CO","Coyote Run Park","225 N 50th Ave","80634",40.43628692626953,-104.76139831542969
+"80631","Greeley","CO","Monfort Park","47th Ave","not_available",40.40340381726632,-104.75843200627564
+"80631","Greeley","CO","Epple Park","43th ave","80634",40.42547411606491,-104.75783578690572
+"80631","Greeley","CO","Lincoln Park","941-963 9th St","80631",40.4249007530928,-104.69382722823755
+"80631","Greeley","CO","Park","5000 A St.","not_available",40.43570136524825,-104.76230049079547
+"80631","Greeley","CO","Pheasant Run Park","301-399 47th Ave","80634",40.42546151230359,-104.75783637438231
+"80631","Greeley","CO","Coyote Run Park","50th Ave Ct & A St","not_available",40.425257110930374,-104.76739404740071
+"80631","Greeley","CO","Ramseier Farm Park","2828 C St","80631",40.436920419091244,-104.72613193539753
+"80631","Greeley","CO","Island Grove Regional Park","501 N 14th Ave","80631",40.43874689171652,-104.70154397435782
+"80634","Greeley","CO","Luther Park","21st Ave","not_available",40.42228647416402,-104.73436297128518
+"80651","Platteville","CO","Harvest Daze","not_available","80651",40.20800735,-104.82168506
+"80723","Brush","CO","Doty Ponds","not_available","80723",40.251110988315155,-103.6224543698815
+"80728","Fleming","CO","highland windfarm","not_available","80731",40.745418443993465,-102.768002730166
+"80741","Merino","CO","Merino Rec Center","not_available","80741",40.484127044677734,-103.35233306884766
+"80751","Sterling","CO","Pioneer Park","Sterling, CO","80751",40.62620493574522,-103.24322657177574
+"80751","Sterling","CO","RIVERVIEW RV PARK Sterling Colorado","12166 County Road 370","80751",40.61462482,-103.18192216
+"80751","Sterling","CO","prairie park","not_available","80751",40.6331672668457,-103.21341705322266
+"80759","Yuma","CO","Memorial Park Memorial","not_available","80759",40.118157,-102.727115
+"80802","Arapahoe","CO","Medicine Arrow Park","not_available","80810",38.817035,-102.352953
+"80804","Arriba","CO","Arriba Park","not_available","80804",39.286469,-103.273743
+"80808","Calhan","CO","pikes peak qma","not_available","80808",38.83631896972656,-104.3753890991211
+"80809","Cascade","CO","Manitou Cliff Dwellings","10 Cliff Rd","80829",38.86320267564611,-104.91249166890876
+"80809","Cascade","CO","Manitou Springs Memorial Park","not_available","80829",38.85803364776659,-104.91114737815639
+"80809","Cascade","CO","Soda Springs Park","1016 Manitou Ave.","80829",38.85965559994979,-104.91959344482669
+"80814","Divide","CO","Colorado Wolf and Wildlife Center","4729 Twin Rocks Rd","80814",38.93353,-105.21266
+"80815","Flagler","CO","Flagler Recreation State Area","not_available","80815",39.286661,-102.985001
+"80816","Florissant","CO","Livepositvely.com/parks","not_available","80816",38.912909,-105.286731
+"80817","Fountain","CO","Widefield Community Park","1300 Fontaine Blvd","80911",38.73597756533771,-104.71016099027575
+"80817","Fountain","CO","Cross Creek Park","Parkglen Drive","80817",38.71451420712525,-104.68719720840454
+"80817","Fountain","CO","Cheyenne Mountain Shooting Complex","not_available","80913",38.71777210031677,-104.73184519612688
+"80817","Fountain","CO","Fountain Creek Regional Park","Duckwood Dr","80817",38.71009551993905,-104.71648037045556
+"80817","Fountain","CO","Widefield Frolf Course","not_available","80911",38.73574723530101,-104.71028629082502
+"80817","Fountain","CO","The Park","Cross Creek","not_available",38.70709852586262,-104.68929987116692
+"80817","Fountain","CO","Mayor's Park","not_available","80817",38.690794,-104.705318
+"80821","Hugo","CO","Hugo Park","not_available","80821",39.13417,-103.470474
+"80828","Limon","CO","Genoa Community Paek","not_available","80818",39.27319180811104,-103.71091582460038
+"80829","Manitou Springs","CO","Balanced Rock At Garden Of The Gods","not_available","80904",38.86487670169565,-104.89743051387494
+"80831","Peyton","CO","Climber's Park","Colorado Spruce Lane","80927",38.928123,-104.672844
+"80840","Usaf Academy","CO","Metal Slides","not_available","80921",39.000415,-104.798933
+"80840","Usaf Academy","CO","Pine Valley Park 2","not_available","80840",38.96531600599213,-104.79878520199122
+"80840","Usaf Academy","CO","GlenEagle Hiking and Dog Run Trail","Paloma Heights","80921",39.03067430611962,-104.82971527752042
+"80840","Usaf Academy","CO","Mary Kyer Park","1101 Middle Creek Pkwy.","80921",39.01123510706978,-104.8059429732549
+"80840","Usaf Academy","CO","Woodman Valley Park","not_available","80919",38.946684633028646,-104.86627841582845
+"80863","Woodland Park","CO","Meadow Wood Sports Complex","2000 Evergreen Heights Dr.","80863",39.00258916499235,-105.07394790456127
+"80863","Woodland Park","CO","Crestwood Park","not_available","80863",39.01392764995725,-105.05331845603398
+"80863","Woodland Park","CO","Meadowood Park","Evergreen Heights Dr.","80863",39.00282598912078,-105.07425045879093
+"80863","Woodland Park","CO","Farish Recreation Area","Off US 24","80866",38.991537801452985,-105.0450080503118
+"80863","Woodland Park","CO","Skateboard Park","Evergreen Heights Drive","80863",39.00628863913533,-105.06696077057158
+"80902","Colorado Springs","CO","Liberty Bell Invitational","not_available","80906",38.749362,-104.833309
+"80902","Colorado Springs","CO","Ironhorse Park","1798 4th Infantry Div Rd","80902",38.73253211759298,-104.78970738592055
+"80902","Colorado Springs","CO","Iron Horse Park","Wetzel Ave","80902",38.73322017279294,-104.78819161874634
+"80903","Colorado Springs","CO","Monument Valley Park","170 W. Cache La Poudre St.","80903",38.83843737952053,-104.8280668258667
+"80903","Colorado Springs","CO","Mid Shooks Run Park","not_available","80903",38.85250375361736,-104.80062932255902
+"80903","Colorado Springs","CO","America the Beautiful Park","126 Cimino Dr.","80903",38.8299978945189,-104.83182423907374
+"80903","Colorado Springs","CO","Memorial Park","1605 E Pikes Peak Ave","80909",38.82961196984668,-104.79944229125977
+"80903","Colorado Springs","CO","Skatepark in Memorial Park","1605 E. Pikes Peak Ave.","80910",38.8323277078281,-104.7969445224193
+"80903","Colorado Springs","CO","Heritage Gardens","not_available","80905",38.85027257863254,-104.8294304567712
+"80903","Colorado Springs","CO","Boulder Park","Boulder St. to St. Vrain St.","80909",38.83987813255753,-104.80260339905271
+"80903","Colorado Springs","CO","Acacia Park","115 E. Platte Ave.","80903",38.83717801909711,-104.82310358178283
+"80903","Colorado Springs","CO","Pike Peak Region Peace Officers’ Memorial","not_available","80909",38.826599,-104.796971
+"80903","Colorado Springs","CO","Otis Park","731 Iowa Ave","80909",38.843375,-104.78967
+"80903","Colorado Springs","CO","John ""Prairie Dog"" O'Byrne Park","509 E Bijou St","not_available",38.836416272760125,-104.81474730552098
+"80903","Colorado Springs","CO","2100 Trust Park","30 S Prospect St","80903",38.831911485973755,-104.8109548223185
+"80903","Colorado Springs","CO","South Shooks Run Park","402 E Fountain Blvd","80907",38.85256101247775,-104.80056169002829
+"80904","Colorado Springs","CO","Garden of the Gods","1805 N 30th St","80904",38.878296809114346,-104.87817723079637
+"80904","Colorado Springs","CO","Red Rock Canyon Open Space","3550 W High St.","80904",38.85359546475483,-104.87945439689463
+"80904","Colorado Springs","CO","Garden Of The Gods Main Parking Lot","1337-1499 Juniper Way","80904",38.88101160110469,-104.88020158992816
+"80904","Colorado Springs","CO","Old Colorado City Farmers Market","2407 W Colorado Ave","80904",38.84694851442676,-104.86115313645385
+"80904","Colorado Springs","CO","Bancroft Park","38 Bancroft Park","Dublin 24",38.84722245343165,-104.86101631258992
+"80904","Colorado Springs","CO","Thorndale Park","2350 W Uintah St.","80904",38.849734980791,-104.85645532608032
+"80904","Colorado Springs","CO","Blunt park","Vermijo ave.","80904",38.844620802505645,-104.86205389652062
+"80904","Colorado Springs","CO","Bott Park","801-899 S 26th St","80904",38.84239988931688,-104.86936278540979
+"80904","Colorado Springs","CO","Beidleman Environmental Center","740 W Caramillo St","80907",38.85809326171875,-104.84083557128906
+"80904","Colorado Springs","CO","Cucharras Park","1175 W Chucharras St.","not_available",38.835161408189364,-104.84495401382446
+"80905","Colorado Springs","CO","Meadows Park Community Center","1939 S El Paso Ave","80905",38.803004,-104.81071
+"80906","Colorado Springs","CO","North Cheyenne Cañon Park","2120 N Cheyenne Canyon Rd.","80906",38.790382378404935,-104.86029873628324
+"80906","Colorado Springs","CO","James Smith Park","not_available","80910",38.800089619133836,-104.77714861709943
+"80906","Colorado Springs","CO","El Pomar Youth Sports Complex","2212 Executive Cir","80906",38.79198262612769,-104.78461879727874
+"80906","Colorado Springs","CO","Cheyenne Meadows Park","1032 Samuel Pt","80906",38.774798,-104.807971
+"80907","Colorado Springs","CO","Goose Gossage Park","not_available","80907",38.88763723410142,-104.82856961028426
+"80907","Colorado Springs","CO","Nancy Lewis Park","N Logan Ave","80907",38.870632363785695,-104.79998194028411
+"80907","Colorado Springs","CO","Union Meadows Open Space","not_available","80918",38.89116881012922,-104.78280677558615
+"80907","Colorado Springs","CO","Palmer Park (Mesa Trailhead)","not_available","80917",38.88677788236328,-104.78335261615605
+"80907","Colorado Springs","CO","University Park Open Space","University Park Blvd","80918",38.90224459611333,-104.79102372199604
+"80907","Colorado Springs","CO","Danville Park","Mount View Ln","80907",38.88897852520083,-104.80491399765015
+"80908","Colorado Springs","CO","Barefoot Park","Honey Run Way","80921",39.03084478733571,-104.7827099070953
+"80908","Colorado Springs","CO","Fairfax","not_available","80920",38.95009778016388,-104.73657131195067
+"80908","Colorado Springs","CO","Pine Creek Park","3550 Cherry Plum Dr","80920",38.96937152197713,-104.75815641578089
+"80908","Colorado Springs","CO","John Stone Park","4017 Family Pl","80920",38.96290969848633,-104.7541732788086
+"80908","Colorado Springs","CO","Wild Rumpus Park","not_available","80924",38.979905,-104.753853
+"80908","Colorado Springs","CO","Wolf Ranch Park","Winding Passage Dr.","80924",38.95044866847847,-104.7204236692721
+"80909","Colorado Springs","CO","Palmer Park","3650 Maizeland Rd.","80909",38.86397009514702,-104.75032750569014
+"80910","Colorado Springs","CO","Prairie Grass Park","not_available","80916",38.82079771264469,-104.75320201407612
+"80910","Colorado Springs","CO","Giberson Park","Ferber Drive","80916",38.79160297984355,-104.7509972662787
+"80911","Colorado Springs","CO","Lucky Lindy Park","Lucky Lindy","not_available",38.77620225751955,-104.73177114453705
+"80914","Colorado Springs","CO","Captain David Lyon Memorial Park","not_available","80914",38.822322,-104.705804
+"80914","Colorado Springs","CO","Eagle Park","Vincent St","80914",38.82270900000736,-104.70611155921584
+"80914","Colorado Springs","CO","Patriot Park","Peterson Blvd","80916",38.829150912239626,-104.70149271794025
+"80915","Colorado Springs","CO","Heather Crest Park","Victor Place","80915",38.85929308834189,-104.72322463989258
+"80915","Colorado Springs","CO","shawnie park","not_available","80915",38.865081787109375,-104.69491577148438
+"80916","Colorado Springs","CO","Wildflower Park","980 Nolte Dr. W.","80916",38.81720774547678,-104.74036931991577
+"80916","Colorado Springs","CO","Deerfield Community Park","3330 Monica Dr W","80916",38.78465147040451,-104.7478753514522
+"80916","Colorado Springs","CO","Sagebrush Park","651 Crestline Dr","80916",38.82245107504585,-104.74456550679133
+"80916","Colorado Springs","CO","Bricker Park","Dover Drive","80916",38.79853759624344,-104.74161367115927
+"80916","Colorado Springs","CO","Meadowlark Park","Eldon Drive N.","80916",38.7937098156508,-104.73580256471074
+"80916","Colorado Springs","CO","Soaring Eagles Park","Tory Ridge Drive","80916",38.78610233710821,-104.73584403464542
+"80917","Colorado Springs","CO","Garden ranch park","Montebello","not_available",38.90505841099969,-104.78384384202653
+"80917","Colorado Springs","CO","Otero Park","4500 Iron Horse Trail","80917",38.8890926989544,-104.75350809370515
+"80917","Colorado Springs","CO","Grant Park","2820 Shadowglen Dr","80918",38.894949,-104.770392
+"80917","Colorado Springs","CO","Old Farm Park","Iron Horse Trail","80917",38.90395852987036,-104.72878217697144
+"80918","Colorado Springs","CO","Cottonwood Creek Park","7040 Rangewood Dr.","80918",38.92782349552203,-104.75642088819714
+"80918","Colorado Springs","CO","Ute Valley Park","not_available","80922",38.91966036006625,-104.82460828804147
+"80918","Colorado Springs","CO","Dublin Park","2330-2498 Roundtop Dr","80918",38.92391959410799,-104.78368999107464
+"80918","Colorado Springs","CO","Erindale Park","twin oaks Dr","80918",38.92377799817091,-104.79583328674114
+"80918","Colorado Springs","CO","Cottonwood Frolf Course","7001-7099 Montarbor Dr","80918",38.92879424295151,-104.76062964315724
+"80919","Colorado Springs","CO","Piñon Valley Park","5585 Mule Deer Dr","80919",38.91177,-104.85976
+"80919","Colorado Springs","CO","Pinecliff Park","Pinecliff Neighborhood","80919",38.90890179890338,-104.84446720221722
+"80919","Colorado Springs","CO","Wilson Ranch Park","2335 Allegheny Dr","80919",38.93055,-104.871574
+"80919","Colorado Springs","CO","Park","Centennial","80919",38.90847,-104.862094
+"80920","Colorado Springs","CO","Park @ USAA","1570 Auto Mall Loop","80920",38.95697889670574,-104.79639175291392
+"80922","Colorado Springs","CO","Landfill Park","Sternward Way","80922",38.907084,-104.689156
+"80922","Colorado Springs","CO","Banjo Boy Park","Sterward way","80922",38.907202,-104.689189
+"80922","Colorado Springs","CO","Jason Memorial Park","5200 Sterward Way","80923",38.907192,-104.689217
+"80922","Colorado Springs","CO","Putt Putt Park","not_available","80923",38.919613,-104.687266
+"80926","Colorado Springs","CO","Turkey Creek","Turkey Creek Rd.","80926",38.61747643554312,-104.88618819754548
+"81001","Pueblo","CO","Mitchell Park","1100-1198 N La Crosse Ave","81001",38.27770353986724,-104.58775717141086
+"81001","Pueblo","CO","Mineral Palace Playground","not_available","81003",38.28403,-104.6065
+"81001","Pueblo","CO","La Terraza Del 3er Piso","Edificio 104c /3er Piso","not_available",38.27485275268555,-104.48787689208984
+"81001","Pueblo","CO","Portland park","not_available","81001",38.2852783203125,-104.57804870605469
+"81001","Pueblo","CO","University Parl","4350-4354 Blueflax Dr","81001",38.31511714501406,-104.5944384491411
+"81001","Pueblo","CO","Lehigh Park","not_available","81005",38.318827543125344,-104.59398315679485
+"81001","Pueblo","CO","Mineral Palace Gardens","1500 Main St","81003",38.282626884568295,-104.60773944854736
+"81001","Pueblo","CO","Belmont Park","1501-1599 Bonforte Blvd","81001",38.29216581,-104.59309653
+"81001","Pueblo","CO","Bent's Old Fort","not_available","81006",38.27501108235678,-104.49692348819882
+"81003","Pueblo","CO","City Bark Dog Park","city park","not_available",38.26079441925542,-104.66065406799316
+"81003","Pueblo","CO","Langoni Field","1800 24th street","81003",38.292666832513135,-104.63351900787745
+"81003","Pueblo","CO","Pillars Park","not_available","81004",38.26654,-104.623179
+"81003","Pueblo","CO","Bruner Park","401 Veta Ave","81004",38.256075,-104.633426
+"81003","Pueblo","CO","Mineral Palace Park","1600 N Santa Fe Ave","81003",38.28213893647758,-104.60837105660049
+"81003","Pueblo","CO","Fairmount Park","1500-1550 W 29th St","81003",38.29817848333389,-104.63514710819494
+"81003","Pueblo","CO","Altitude Trampoline Park","not_available","81008",38.30343,-104.609515
+"81003","Pueblo","CO","Pueblo City Park Zoo","3411-3999 Nuckolls Ave","81005",38.26125044,-104.65561
+"81003","Pueblo","CO","Pueblo City Park","800 Goodnight Ave","81005",38.263335601875575,-104.65811883800708
+"81004","Pueblo","CO","Leidigh Park","Regency Blvd","81005",38.241812,-104.667979
+"81004","Pueblo","CO","Benedict Park","101-199 E Mesa Ave","81006",38.246350269330776,-104.60949801464933
+"81004","Pueblo","CO","Park","103 Starlite Dr","81005",38.227948,-104.672579
+"81005","Pueblo","CO","Northridge Park","2200","81008",38.313288842778135,-104.64013967814526
+"81005","Pueblo","CO","Mountain Park Environmental Center","9112 Pueblo Mountain Park Rd","81023",38.04963684082031,-104.99495697021484
+"81005","Pueblo","CO","Cattail Crossing","not_available","81007",38.32627048250332,-104.7437223907094
+"81007","Pueblo","CO","outlook drainage park","outlook","81008",38.3175,-104.6276
+"81020","Aguilar","CO","City Park","700 W 7th St","81089",37.618436556796794,-104.79038549705709
+"81020","Aguilar","CO","Pinon Park","200-298 W 1st St","81089",37.62774288333333,-104.78603563333333
+"81020","Aguilar","CO","Lucy's Place RV Park","226 W Grand Ave","81055",37.503789,-105.011951
+"81029","Campo","CO","Wells Memorial Park","not_available","81029",37.10258,-102.577275
+"81039","Fowler","CO","Fowler Park","Fowler Park","81039",38.12675861453744,-104.02357578277588
+"81047","Holly","CO","Holly Bluegrass Festival","not_available","81047",38.05327036763745,-102.1251507291541
+"81050","La Junta","CO","City Park","not_available","81050",37.97761043442801,-103.544106508521
+"81050","La Junta","CO","Rocky Ford Railroad Park","105 N Main St","81067",38.05312728881836,-103.72026062011719
+"81050","La Junta","CO","La Junta City Park (NW Corner)","10th and Park","81050",37.97840912881201,-103.54515169820239
+"81050","La Junta","CO","Rocky Ford City Park","not_available","81067",38.052994573699955,-103.72369292841454
+"81052","Lamar","CO","Willow Creek Park","Rotary Way,  Lamar, CO","81052",38.07277905455615,-102.61420687809414
+"81052","Lamar","CO","Lamar's Enchanted Forest","not_available","81052",38.089391,-102.617827
+"81052","Lamar","CO","Wiley Main Street Park","not_available","81092",38.154364,-102.719344
+"81055","La Veta","CO","Cuchara Recreation Hall","16464 St Highway 12","81055",37.379623,-105.099249
+"81073","Springfield","CO","Memorial Park","100-198 W 10th Ave","81073",37.404498680872166,-102.61767144458642
+"81073","Springfield","CO","Skate and Tennis Park","not_available","81073",37.40720748901367,-102.62548828125
+"81082","Trinidad","CO","Cimino Park","not_available","81082",37.17014354771354,-104.5084069334197
+"81082","Trinidad","CO","Kit Carson Park","Kit Carson Park","81082",37.17722720655054,-104.50706005096434
+"81101","Alamosa","CO","Cole Park","4th street","81101",37.47274704546383,-105.86363141903719
+"81122","Bayfield","CO","Bayfield Library Park","not_available","81122",37.233678,-107.594055
+"81130","Creede","CO","Last Chance Mine","504 Last Chance Mine rd","81130",37.883899,-106.936619
+"81131","Crestone","CO","Little Pearl Park","not_available","81131",37.994653,-105.699688
+"81144","Monte Vista","CO","Faith Hinkley Veterans Memorial Park","US Hwy 160","81144",37.58035659790039,-106.14972686767578
+"81144","Monte Vista","CO","Ski-Hi Park Arena","not_available","81144",37.576758090282766,-106.12437472089846
+"81147","Pagosa Springs","CO","Pagosa Springs River Walk","San Juan River","81147",37.2670133039761,-107.01024058204008
+"81147","Pagosa Springs","CO","Pagosa Park","hot springs blvd","81147",37.26773251108506,-107.00830893016186
+"81147","Pagosa Springs","CO","Pagosa Springs Skatepark","not_available","81147",37.256013,-107.011864
+"81147","Pagosa Springs","CO","Trasure Falls","San juan nation park","81147",37.26498180432209,-107.07827362259978
+"81147","Pagosa Springs","CO","Cloman Groomed Nordic Trails","Cloman Blvd","81147",37.292708,-107.057703
+"81201","Salida","CO","Riverside Park","not_available","81201",38.53709571735045,-105.9903147623483
+"81201","Salida","CO","Alpine Park","5th & E Street","not_available",38.53249805,-105.99352306666667
+"81210","Almont","CO","Colorado Adventure Rentals","not_available","81210",38.819622,-106.558101
+"81212","Canon City","CO","Centennial Park","Centennial Drive","81212",38.43582891807201,-105.24189388712071
+"81212","Canon City","CO","Hogbacks Open Space","not_available","81212",38.469211,-105.249383
+"81212","Canon City","CO","Col Leo Sidney Boston War Memorial Park","not_available","81240",38.43428039550781,-105.10417938232422
+"81212","Canon City","CO","Depot Park","Highway 50","not_available",38.44730728829755,-105.21848755983228
+"81212","Canon City","CO","Pioneer Park","215 W Main St","81226",38.39007568359375,-105.12025451660156
+"81212","Canon City","CO","Rudd Park","1215 College Ave","81212",38.4482812069253,-105.23292828908009
+"81220","Cimarron","CO","Gunnison Diversion Dam","not_available","81401",38.524017,-107.649394
+"81224","Crested Butte","CO","Crested Butte Town Park","not_available","81224",38.867908415665504,-106.98048914003107
+"81224","Crested Butte","CO","Totem Pole Park","Maroon Ave","81224",38.87082298632384,-106.98596591646515
+"81224","Crested Butte","CO","Crested Butte Adventure Park","600 Gothic Road","not_available",38.89984130859375,-106.96687316894531
+"81226","Florence","CO","Florence River Park","not_available","81226",38.391254,-105.073554
+"81230","Gunnison","CO","Jorgenson Park","701-799 E Tomichi Ave","81230",38.544896311416,-106.9203232595057
+"81230","Gunnison","CO","Bill's Park In Memory Of Bill Edner","14th At W & Georgia Ave N.","81230",38.54646158996827,-106.93214536908373
+"81230","Gunnison","CO","Charmar Park","Palisade ave","81231",38.54632119912336,-106.94032493963859
+"81230","Gunnison","CO","Meadow Park","not_available","81230",38.55459,-106.92276
+"81230","Gunnison","CO","Lake Fork Memorial Park","not_available","81235",38.024995,-107.314851
+"81252","Westcliffe","CO","Bluff & Summit Park","S Adams Blvd","81252",38.133548,-105.471919
+"81252","Westcliffe","CO","Silver Cliff Town Park","not_available","81252",38.1317,-105.4399
+"81301","Durango","CO","Schneider Park","not_available","81301",37.276529373619454,-107.88361336834193
+"81321","Cortez","CO","Centennial Park","Mildred ave","81321",37.35197794628788,-108.57284950382338
+"81321","Cortez","CO","Indian Camp Ranch","County Road K","81321",37.36058698321206,-108.64750491488492
+"81321","Cortez","CO","Ute Mountain Tribal Park","Mike Wash Road","81334",37.21064411993447,-108.78662109375
+"81321","Cortez","CO","Denny Park","not_available","81321",37.352894,-108.549275
+"81321","Cortez","CO","Dolores River Park","not_available","81323",37.469084367072114,-108.50900893745386
+"81321","Cortez","CO","Parque de Vida","400 N. Mildred Rd.","81321",37.35463728144101,-108.57084274291992
+"81324","Dove Creek","CO","Lowry Pueblo National Historic Landmark","County Road 7.25","81331",37.58502128333333,-108.91947464
+"81401","Montrose","CO","Baldridge Park","Uncompahgre Riverway Trail (Montrose Section)","81401",38.46465355763061,-107.87919906556084
+"81401","Montrose","CO","Demoret Park","Main Street","81401",38.478452,-107.877755
+"81403","Montrose","CO","Dennis Weaver Memorial Park","not_available","81432",38.16733553270849,-107.74677826881694
+"81413","Cedaredge","CO","Cedaredge Town Park","not_available","81413",38.900168814925486,-107.92810144901473
+"81415","Crawford","CO","Crawford","not_available","81415",38.70440331399559,-107.61003277853789
+"81415","Crawford","CO","Montgomery  Fair","Fair Grounds","not_available",38.797096252441406,-107.71742248535156
+"81416","Delta","CO","Confluence Park","not_available","81416",38.74788649830961,-108.0736699311386
+"81419","Hotchkiss","CO","Paonia Town Park","not_available","81428",38.87043529528134,-107.59246251577792
+"81419","Hotchkiss","CO","Poulus Park","Grand Ave","81428",38.867741,-107.597651
+"81422","Naturita","CO","Nucla Park","not_available","81422",38.267376,-108.554575
+"81422","Naturita","CO","Naturita Town Park","Naturita,CO,81422","81422",38.2214572,-108.5746591
+"81427","Ouray","CO","Ouray Ice Park Lower Bridge","not_available","81427",38.016440381866104,-107.67425478335316
+"81427","Ouray","CO","Ouray Rorary Park","Hwy 550","81427",38.04389165503801,-107.68041186661478
+"81432","Ridgway","CO","Elks Park","not_available","81435",37.93747340684369,-107.81294272558904
+"81433","Silverton","CO","Silverton Memorial Park","1800-1874 County Road 110","81433",37.817132279688536,-107.66057672184257
+"81433","Silverton","CO","Harmony Park","not_available","81433",37.811579,-107.664637
+"81501","Grand Junction","CO","Lincoln Park","1240 Gunnison Ave","81501",39.076032,-108.550904
+"81501","Grand Junction","CO","Sledding Hill","North Avenue","81501",39.076897,-108.571245
+"81501","Grand Junction","CO","Lincoln Park","Gunnison ave","81506",39.07550034137629,-108.55084721743533
+"81501","Grand Junction","CO","Eagle Rim Park","Cheyenne Dr","81401",39.05239771832353,-108.54547295158419
+"81501","Grand Junction","CO","Emerson Park","not_available","81501",39.06525802612305,-108.55618286132812
+"81501","Grand Junction","CO","Rocket Park","Orchard Ave","81501",39.084258455148735,-108.5347362576895
+"81501","Grand Junction","CO","Lincoln Park","1200 Gunnison Ave","81501",39.07555343358614,-108.55092838280441
+"81501","Grand Junction","CO","Get Air Trampoline Park","715 S 7th St","81501",39.06079,-108.56139
+"81501","Grand Junction","CO","Sherwood Park","Sherwood Dr","not_available",39.08085536211639,-108.56823441960587
+"81501","Grand Junction","CO","Columbine Park","2824 Mesa Ave","81501",39.08227219404084,-108.53068241267052
+"81504","Grand Junction","CO","Longs Family Park","not_available","81504",39.09176745972673,-108.47307036084166
+"81504","Grand Junction","CO","Matchett Park","2856 Patterson Rd","81506",39.09223937988281,-108.52361297607422
+"81504","Grand Junction","CO","Spring Valley Park","not_available","81506",39.093082427978516,-108.54241180419922
+"81504","Grand Junction","CO","Western Slope C.o.g.a. Park","3000-3066 N 12th St","81506",39.09514381666666,-108.5518556
+"81505","Grand Junction","CO","Canyonview Park","728 24 Rd","81505",39.11034984151735,-108.60554523963849
+"81507","Grand Junction","CO","Park","not_available","81503",39.05845249063624,-108.61226565422804
+"81507","Grand Junction","CO","Duck Pond Park","442 Ridges Blvd","81507",39.06684112548828,-108.60541534423828
+"81507","Grand Junction","CO","Pine Ridge Park","359 Ridges Blvd","81507",39.05802917480469,-108.6119384765625
+"81520","Clifton","CO","Town Center Plaza","West 3rd Street","81526",39.110359025430284,-108.35093618217186
+"81520","Clifton","CO","Palisade Memorial Park","not_available","81526",39.106728078143355,-108.35157933593493
+"81520","Clifton","CO","Palisade Veterans Building","120 w 8th street","81526",39.106910705566406,-108.35152435302734
+"81520","Clifton","CO","Riverbend Park","Riverbend Park","81526",39.10114683764527,-108.35846289676918
+"81521","Fruita","CO","western slope vietnam war memorial park","not_available","81521",39.153059524266666,-108.7366008860074
+"81521","Fruita","CO","City Of Fruita Open Space Park","969-977 Kingsview Rd","81521",39.14760446,-108.74658715
+"81521","Fruita","CO","Mustangsallyz","1324 15 Rd","81524",39.19669723510742,-108.77505493164062
+"81601","Glenwood Springs","CO","Sopris Park","601-699 Euclid Ave","81623",39.399520853542676,-107.21347995147191
+"81601","Glenwood Springs","CO","Two Rivers Park Plaza","not_available","81601",39.552828000000005,-107.33580800000001
+"81601","Glenwood Springs","CO","Miners Park","not_available","81623",39.399023,-107.222244
+"81601","Glenwood Springs","CO","Gregory Park","155 Center DR","not_available",39.564836,-107.36828899999999
+"81610","Dinosaur","CO","Dinosaur Park","not_available","81610",40.245777486403746,-109.01141784645694
+"81611","Aspen","CO","Wagner Park","not_available","81611",39.18841527644831,-106.82031797611742
+"81611","Aspen","CO","Paepcke Park","100-198 S Garmisch St","81611",39.19089820169926,-106.8226542312823
+"81611","Aspen","CO","Herron Park","103 Neale St.","not_available",39.18965450647285,-106.81386923166778
+"81611","Aspen","CO","Triangle Park","400 North 1st Street","81611",39.19521944600448,-106.82375755647064
+"81611","Aspen","CO","Snowmass Village Recreation Center","2835 Brush Creek Road","81615",39.22673137838921,-106.92352074730861
+"81611","Aspen","CO","Rio Grande Park","Rio Grande Pl","81611",39.19178192450066,-106.81781754357334
+"81611","Aspen","CO","Glory Hole Park","800 S Ute Ave","81611",39.18574300355,-106.81602577600997
+"81611","Aspen","CO","Windstar Conservancy","Snowmass Creek Rd","81654",39.28970557575702,-106.96522857943114
+"81611","Aspen","CO","Mr Bill Trail","250 Westward Ho","not_available",39.1861,-106.879
+"81611","Aspen","CO","PuggleVille","311 W Main St","81611",39.19172668457031,-106.82563018798828
+"81611","Aspen","CO","Aldrich Alley","02 Ridge trail","not_available",39.1828,-106.876
+"81615","Snowmass Village","CO","Wookie Woods Trail","250 Homestead Rd","not_available",39.1854,-106.881
+"81620","Avon","CO","The Village @ Beaver Creek","not_available","81620",39.60445354204908,-106.51633326938247
+"81620","Avon","CO","Eagle Vail Golf Course","431 Eagle Drive","81620",39.617784782214656,-106.48333242823294
+"81620","Avon","CO","Panda City","222 Beaver Creek Pl","not_available",39.63252246,-106.51901196
+"81621","Basalt","CO","Grace Shehi Bike Park","not_available","81621",39.356491,-107.04174
+"81621","Basalt","CO","Rolls Gordon Park","Two Rivers Red","81621",39.36049,-107.027135
+"81625","Craig","CO","Craig City Park","500 - 600 Block Washington","81625",40.516180837774904,-107.54209756851196
+"81625","Craig","CO","North Park","not_available","81625",40.527176,-107.547136
+"81625","Craig","CO","Breeze  Park","600 Block Breeze","81625",40.51735533509693,-107.54922151565552
+"81631","Eagle","CO","Freedom Park","Miller Ranch Road","81632",39.64289482039887,-106.58182066032481
+"81631","Eagle","CO","Eagle Park - Showdown","not_available","81631",39.65177764857904,-106.82957673127181
+"81637","Gypsum","CO","Colorado River","not_available","81637",39.645570782512586,-107.07210792032622
+"81641","Meeker","CO","Meeker Town Park","4th St","81641",40.03624132211918,-107.91040145682254
+"81647","New Castle","CO","VIX Ranch Park","N. Wildhorse","81647",39.58310622487258,-107.53274374768583
+"81647","New Castle","CO","Alder Park","not_available","81647",39.58268161282709,-107.53569065528208
+"81647","New Castle","CO","Joyce Park","not_available","81650",39.551251,-107.786367
+"81647","New Castle","CO","Centennial Park","300 E 5th St, Rifle, CO 81650","81650",39.53378677368164,-107.78067016601562
+"81647","New Castle","CO","Silt River Park","0025 Cnty Rd 311","81652",39.54027300580135,-107.64507293701172
+"81647","New Castle","CO","Rifle RC Park","28998 U.S. 6","81650",39.52963691666667,-107.77047603333334
+"81647","New Castle","CO","Silt Soccer park","not_available","81652",39.549293518066406,-107.64659118652344
+"81648","Rangely","CO","Elks Park","not_available","81648",40.0852307,-108.7971805

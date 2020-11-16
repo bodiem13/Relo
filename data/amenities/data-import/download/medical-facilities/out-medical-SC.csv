@@ -1,0 +1,531 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"29003","Bamberg","SC","Bamberg County Hospital","509 North St","29003",33.30778121948242,-81.02850341796875
+"29006","Batesburg","SC","ACEMS Station 10","Wire Rd","not_available",33.76377487182617,-81.54441833496094
+"29014","Blackstock","SC","Fairfield County EMS Mitford Station Medic 3","not_available","not_available",34.504601799886395,-80.93151189901087
+"29016","Blythewood","SC","Blythewood Urgent Care","738 University Village Dr","29016",34.21616744995117,-80.98650360107422
+"29020","Camden","SC","KershawHealth Urgent Care at Elgin","40 Pinnacle Pkwy","29045",34.14690360649138,-80.75313931909903
+"29020","Camden","SC","Walmart Care Clinic","2240 W Dekalb St","29020",34.24903,-80.64833
+"29020","Camden","SC","EMS 2","HWY 521 NORTH","not_available",34.32529830932617,-80.6026611328125
+"29020","Camden","SC","KershawHealth Medical Center","not_available","29020",34.2532443,-80.590875
+"29033","Cayce","SC","Prisma Health SeniorCare PACE - Lexington","700 Knox Abbott Dr","29033",33.98343317596789,-81.06058144572671
+"29036","Chapin","SC","Chapin Surgery Center","not_available","29036",34.166096,-81.339104
+"29036","Chapin","SC","Prisma Health SeniorCare PACE - White Rock","109 Hummingbird Ct.","29036",34.14252842231177,-81.27686190611712
+"29036","Chapin","SC","Physical Medicine Devices","203 Amicks Ferry Rd #400","29036",34.1604347229004,-81.3567123413086
+"29045","Elgin","SC","Walmart Care Clinic","10060 Two Notch Rd","29223",34.114683,-80.8887323
+"29061","Hopkins","SC","Dorn VA MICU","not_available","29209",33.975435563655125,-80.95992581137838
+"29061","Hopkins","SC","Emergency Room @ WJB Dorn Veterans Hospital","6439 Garners Ferry Rd, Columbia, SC 29209","29209",33.975746154785156,-80.95952606201172
+"29061","Hopkins","SC","Horrell Hill Richland County EMS","not_available","29061",33.95149484509062,-80.84182524926493
+"29063","Irmo","SC","Prisma Health Baptist Parkridge Hospital","400 Palmetto Health Pkwy","29212",34.087140197434586,-81.16036890820538
+"29063","Irmo","SC","Palmetto Health Baptist Breast Center","1501 Sumter St","29201",34.08750678526159,-81.16008205164415
+"29063","Irmo","SC","Palmetto Health-USC Spine Center","100 Palmetto Health Pkwy Ste 250","29212",34.08941458872466,-81.16178049273911
+"29063","Irmo","SC","Palmetto Health-USC Spine Center","300 Palmetto Health Pkwy Fl 2","29212",34.08817278400967,-81.1607614159584
+"29063","Irmo","SC","Pediatric After Hours Clinic","100 Palmetto Health Pkwy","29212",34.08918583461687,-81.16185358835564
+"29070","Leesville","SC","Doctors Care","815 Highway 378","29072",33.99271774291992,-81.30661010742188
+"29072","Lexington","SC","ivy road","not_available","29072",34.007736007717206,-81.24917017953848
+"29072","Lexington","SC","Veritas Health Group","247 Columbia Ave","29072",33.9876593,-81.2441678
+"29072","Lexington","SC","Lexington Medical Center (Urgent Care)","2720 Sunset Boulevard (Hwy. 378)","29072",33.98379421764239,-81.25104511100369
+"29072","Lexington","SC","Lexington Medical Center","811 W Main St","29072",33.98376553141645,-81.25122536262283
+"29072","Lexington","SC","Kaiser Permanente Out Patiant Surgery","4760 Sunset Blvd","not_available",34.01304244995117,-81.17269897460938
+"29072","Lexington","SC","Lexington Medical Center Lab","Sunset Blvd","29072",33.984198167289954,-81.25131593552798
+"29072","Lexington","SC","At Home Hospital Equipment","112 White Oak Ln","29073",34.010401,-81.142579
+"29075","Little Mountain","SC","NCEMS Medic 3","149 Seibert Rd","29127",34.13676071166992,-81.46923065185547
+"29102","Manning","SC","McLeod Health Clarendon & ER","10 E Hospital St","29102",33.6870332,-80.2111248
+"29102","Manning","SC","Clarendon Health System","10 Hospital St.","29102",33.68691983351836,-80.21083233156803
+"29108","Newberry","SC","NCMH Emergency Room","2669 Kinard St","29108",34.29051971435547,-81.6063232421875
+"29108","Newberry","SC","Newberry EMS Medic 2","not_available","29145",34.21874237060547,-81.71632385253906
+"29115","Orangeburg","SC","The Regional Medical Center (TRMC)","3000 Saint Matthews Rd","29118",33.5401756,-80.8306233
+"29115","Orangeburg","SC","TRMC Emergency Room","not_available","29115",33.5408027348772,-80.8301585917749
+"29115","Orangeburg","SC","PruittHealth - Orangeburg","755 Whitman St SE","29115",33.49222,-80.8538
+"29115","Orangeburg","SC","Trmc Education Building","3000","not_available",33.53911888333333,-80.82881866666666
+"29130","Ridgeway","SC","PruittHealth - Ridgeway","213 Tanglewood Court","29130",34.301841735839844,-80.96502685546875
+"29137","Salley","SC","Aiken Medic 4","not_available","29164",33.65216159799196,-81.3601902926664
+"29138","Saluda","SC","Rescue 1","not_available","29138",34.01304,-81.76447
+"29150","Sumter","SC","Tuomey Radiology","not_available","29150",33.922751,-80.338071
+"29150","Sumter","SC","Prisma Health Tuomey Hospital","129 N Washington St","29150",33.923167,-80.343036
+"29150","Sumter","SC","Seattle Grace Mercy Death","not_available","29154",33.884366805033274,-80.39763735916803
+"29150","Sumter","SC","Sumter East Health and Rehabilitation Center","880 Carolina Ave","29150",33.944519,-80.352035
+"29150","Sumter","SC","Palmetto Health-USC Infectious Disease","115 N Sumter St Ste 315","29150",33.923167,-80.343036
+"29150","Sumter","SC","Wateree AIDS Task Force","108 E Liberty St, Sumter, SC 29150","29150",33.91980743408203,-80.33966827392578
+"29150","Sumter","SC","Walmart Care Clinic","1283 Broad St","29150",33.960042,-80.389443
+"29161","Timmonsville","SC","Mcleod Urgent Care","not_available","29501",34.17235809524316,-79.839108704517
+"29169","West Columbia","SC","Lexington Medical Center (North Tower)","2720 Sunset Blvd","29169",34.006943978017816,-81.11423946766224
+"29169","West Columbia","SC","Lexington Medical Center Emergency Room","Hospital Dr","29169",34.00596170899763,-81.11312859999792
+"29169","West Columbia","SC","Lexington Medical Center Er","not_available","29169",34.00582801288164,-81.11342045373702
+"29169","West Columbia","SC","Lexington Medical Center","not_available","29210",34.00571212860105,-81.11385143817343
+"29169","West Columbia","SC","AMS Ambulance Service","9th street","29169",33.99541239458666,-81.06811613839783
+"29169","West Columbia","SC","Dr. Randy Beard","146 N Hospital Dr","29169",34.0082778,-81.11372890000001
+"29169","West Columbia","SC","Lexington Medical Center (Surgical Floor)","Room 799","29169",34.015585,-81.109141
+"29169","West Columbia","SC","Lexington Medical Center - Health Directions","not_available","29170",33.993309020996094,-81.12144470214844
+"29178","Whitmire","SC","UGD RSUD INDRASARI","Jl.Raya P.Reba-Belilas Pematang Reba Rengat Barat INHU","29351",34.42756440000001,-81.806039
+"29180","Winnsboro","SC","Providence Health Emergency","1810 US Hwy 321 Bypass South","29180",34.347115,-81.088975
+"29180","Winnsboro","SC","New EMS HQ","not_available","29180",34.40433464043665,-81.09877634550463
+"29180","Winnsboro","SC","Providence Health-Fairfield","1810 US Highway 321 S","29180",34.4051099,-81.0987816
+"29201","Columbia","SC","Prisma Health Richland Hospital","5 Richland Medical Park Dr","29203",34.02823830843878,-81.03260030818907
+"29201","Columbia","SC","Prisma Health Richland 14 Medical Park","14 Richland Medical Park Dr","29201",34.02907700803849,-81.03145544104753
+"29201","Columbia","SC","Prisma Health Heart Hospital","6 Richland Medical Park Dr","29203",34.02823836672796,-81.03262650685775
+"29201","Columbia","SC","Prisma Health Richland OR","not_available","29203",34.02822557607668,-81.03325480905455
+"29201","Columbia","SC","4th Floor: Adolescents","7 Medical Park","29203",34.027822278970646,-81.03206676233597
+"29201","Columbia","SC","Prisma Health Richland Emergency Department","5 Medical Park Drive","29203",34.02824198052352,-81.03262915659995
+"29201","Columbia","SC","Prisma Health Baptist Hospital","Taylor at Marion Street","29220",34.007099488907336,-81.03335380554199
+"29201","Columbia","SC","Prisma Health Children's Hospital–Midlands","7 Richland Medical Park Dr","29203",34.02783202801713,-81.03205912290281
+"29201","Columbia","SC","Providence Hospital","2435 Forest Dr","29204",34.0143363,-81.0134378
+"29201","Columbia","SC","PHB Oncology","not_available","29201",34.007016558069736,-81.03305968645793
+"29201","Columbia","SC","Palmetto Health Richland Rx","5 Medical Park Dr","29203",34.028241031514135,-81.03355250067922
+"29201","Columbia","SC","Palmetto Health Baptist Pre-op","Taylor At Marion","29201",34.006459,-81.033247
+"29201","Columbia","SC","Sleep Med @ Providence Hospital","1655 Bernardin Ave Ste 350-A","29204",34.0145263671875,-81.01434326171875
+"29201","Columbia","SC","Joyce Martin Hampton Breast Center","1 Medical Park Dr","not_available",34.02666091918945,-81.03422546386719
+"29201","Columbia","SC","5th Floor: Cancer & Blood Disorders","7 Medical Park Rd","29203",34.02785021281496,-81.03197571748505
+"29201","Columbia","SC","3rd Surgical PHB","Taylor St.","29201",34.00696561658129,-81.03305429361441
+"29201","Columbia","SC","Palmetto Health Out Patient","1465 Sumter St","29201",34.004842,-81.034219
+"29201","Columbia","SC","Palmetto Health Foundation","1600 Marion St","29201",34.00784616523722,-81.03267140078029
+"29201","Columbia","SC","Encompass Health Rehabilitation Hospital of Columbia","2935 Colonial Dr","29203",34.02762404762424,-81.02860897779459
+"29203","Columbia","SC","G. Werber Bryan Psychiatric Hospital","482-544 Faison Dr","29203",34.085116587853655,-80.98224272979449
+"29204","Columbia","SC","Providence Cath Lab","not_available","29204",34.010273301617694,-81.02085473627359
+"29204","Columbia","SC","AFC Urgent Care Columbia","3304 Forest Dr","29204",34.0176894,-80.9933014
+"29204","Columbia","SC","Richland Springs","11 Medical Park Dr.","29203",34.027067,-81.0298079252243
+"29205","Columbia","SC","Doctors Care","2601 Rosewood Dr","29205",33.987003326416016,-81.00711822509766
+"29205","Columbia","SC","Prisma Health SeniorCare PACE - Shandon","1100 Shirley St","29205",34.00299398192705,-80.99860525144322
+"29206","Columbia","SC","Urgent Care Clinic Fort Jackson","Marion","29206",34.015108259665226,-80.93569661164796
+"29206","Columbia","SC","M.A.C.H","not_available","29207",34.01371383666992,-80.94501495361328
+"29207","Columbia","SC","Providence Hospital NE","120 Gateway Corporate Blvd","29203",34.10424488341243,-80.9587025642395
+"29210","Columbia","SC","The Carolinas Center for Hospice and End of Life Care SC","1350 Browning Rd","29210",34.0398227,-81.1105235
+"29212","Columbia","SC","Lexington Medical Center Irmo","St Andrews Rd","29201",34.078210879036206,-81.17977477312887
+"29212","Columbia","SC","Lexington Medical Center Same Day Surgery","not_available","29063",34.077737,-81.180356
+"29212","Columbia","SC","Irmo Primary Care","1 Wellness Blvd #109","29063",34.0783272271763,-81.17795705795288
+"29223","Columbia","SC","Palmetto Health-USC Spine Center","101 Business Park Blvd Ste D","29203",34.109051,-80.950581
+"29223","Columbia","SC","Department Of Mental Health Forensic Evaluations","7901 Farrow Rd Bldg 6","29203",34.07614517211914,-80.97954559326172
+"29301","Spartanburg","SC","Spartanburg Medical Center","101 E Wood St","29303",34.9667602,-81.939538
+"29301","Spartanburg","SC","Spartanburg Regional Heart Center","not_available","29303",34.96647624045942,-81.93889924564641
+"29301","Spartanburg","SC","Immediate Care Center - Reidville Road","2995 Reidville Rd Ste 100","29301",34.9136534,-82.0092916
+"29301","Spartanburg","SC","maryblack urgent care","not_available","29301",34.91395568847656,-82.00951385498047
+"29301","Spartanburg","SC","SRMC Heart Center","E. Wood St","29303",34.9678334246872,-81.93436149130619
+"29301","Spartanburg","SC","Immediate Care Center - Westside","151 Peachwood Centre Dr","29301",34.93515,-81.99974
+"29301","Spartanburg","SC","SRHS Surgery","101 E Wood St, Spartanburg, SC 29303","29303",34.96723556518555,-81.9397201538086
+"29301","Spartanburg","SC","The Bandaid Station","not_available","29607",34.901639300419376,-81.99536709112368
+"29302","Spartanburg","SC","Work On 3rd.","not_available","29306",34.91803195151762,-81.92992775253245
+"29302","Spartanburg","SC","Prisma Health Spartanburg Pediatric Health Center","201 E Broad St","29306",34.949161529541016,-81.9283676147461
+"29302","Spartanburg","SC","Skylyn Medical Associates","333 S Pine St","29302",34.947837829589844,-81.91503143310547
+"29303","Spartanburg","SC","EmergencyMD","2555 Boiling Springs Rd","29316",35.03168637210618,-81.969768343586
+"29303","Spartanburg","SC","Mary Black Hospital North Wing Entrance","11 Doctors Park Drive","not_available",34.979095271823674,-81.89437344604798
+"29303","Spartanburg","SC","Immediate Care Center - Eastside","1200 E Main St Ste 12","29307",34.9627714,-81.9024946
+"29303","Spartanburg","SC","AFC Urgent Care - Boiling Springs","2746 Boiling Springs Rd","29316",35.03517150878906,-81.97088623046875
+"29303","Spartanburg","SC","MD360-Boiling Springs","2400 Boiling Springs Rd","29316",35.027175,-81.965069
+"29303","Spartanburg","SC","Mary Black Emergency Room","not_available","29307",34.978900407998616,-81.89625263348485
+"29307","Spartanburg","SC","SMC - Mary Black Campus","1700 Skylyn Dr","29307",34.9783003,-81.89517819999999
+"29316","Boiling Springs","SC","PrimaryMD Boiling Springs","2555 Boiling Springs Road Suite H","29316",35.031799,-81.96940099999999
+"29322","Campobello","SC","Seattle Grace","not_available","29322",35.11787801396511,-82.14988916248073
+"29322","Campobello","SC","Golden Age - Inman","82 N Main St","29349",35.05325533,-82.09510113
+"29322","Campobello","SC","Inman Healthcare","51 N Main St","29349",35.05020754,-82.09165093
+"29325","Clinton","SC","Laurens County Hospital","22725 U.S. 76","29325",34.48159235409021,-81.94067001342773
+"29325","Clinton","SC","Prisma Health Advanced Family Medicine","210 S Broad St","29325",34.470784743973965,-81.88117504141701
+"29325","Clinton","SC","Laurens County Healthcare Center","22725 Highway 76 E","29325",34.481689453125,-81.9405746459961
+"29325","Clinton","SC","Carolina Women's Center","102 Medical Park Ct","29325",34.48167076971602,-81.93782508384174
+"29330","Cowpens","SC","Ambu-Star Ambulance","154 Webber Rd","29341",35.0704108,-81.76354719999999
+"29334","Duncan","SC","Palmetto Medical Associates","500 Squires Pt Ste B","29334",34.89086151123047,-82.07456970214844
+"29334","Duncan","SC","AFC Urgent Care - Duncan","1667 E Main St","29334",34.90421118,-82.09734366
+"29334","Duncan","SC","Pro Prints Graphics Designs","221 Charlotte Hwy","29365",34.9567554804375,-82.12753683328627
+"29340","Gaffney","SC","UCMC","Medical Center Dr","29340",35.08938058457454,-81.63505869273267
+"29340","Gaffney","SC","Robbins Urgent Care","not_available","29340",34.907081604003906,-81.48860931396484
+"29340","Gaffney","SC","Medic 15","not_available","29372",34.90051475,-81.758742
+"29340","Gaffney","SC","Medic 5 EMS","719 Spartanburg Hwy","29353",34.84286117553711,-81.68859100341797
+"29340","Gaffney","SC","CMC - Immediate Care Center","840 W Floyd Baker Blvd","29341",35.08109,-81.65588
+"29340","Gaffney","SC","UCMC ED","N Limestone St","not_available",35.089469,-81.635085
+"29340","Gaffney","SC","Upstate Carolina Medical Center","1530 N Limestone St","29340",35.089837,-81.634587
+"29356","Landrum","SC","Crown Medical Services, Inc.","1900 Pleasant Hill Rd","29651",35.07635215944722,-82.27274894714354
+"29360","Laurens","SC","LCEMS Stn 5","not_available","29692",34.45280456542969,-82.19952392578125
+"29360","Laurens","SC","LCEMS HQ","not_available","29360",34.49901351668765,-81.98838119788104
+"29360","Laurens","SC","Laurens Family Medicine","106 Parkview Dr","29360",34.49320983886719,-82.03730010986328
+"29369","Moore","SC","work work work","4026 Duncan-Moore Hwy","29369",34.88470458984375,-82.06452178955078
+"29379","Union","SC","Wallace Thompson Hospital","322 W South St","29379",34.71224324899149,-81.6297386305688
+"29379","Union","SC","Heartland Health Care Center-Union","709 Rice Avenue Ext","29379",34.71800264,-81.64673833
+"29379","Union","SC","Lpw Country Urgent Care","440 N Duncan Byp","29379",34.722855,-81.639047
+"29379","Union","SC","Urgent Medical Care","128 Medical Sciences Dr","29379",34.71562957763672,-81.6429672241211
+"29388","Woodruff","SC","Woodruff Urgent Medical Care","not_available","29388",34.73957061767578,-82.03704833984375
+"29388","Woodruff","SC","Howard Young Medical Center","240 Maple St","54568",34.738315170334026,-82.03516334296637
+"29388","Woodruff","SC","LCEMS Squad 3","not_available","29645",34.675753,-82.065683
+"29401","Charleston","SC","Ralph H. Johnson VA Medical Center","109 Bee St","29401",32.78423727880354,-79.95439402116675
+"29401","Charleston","SC","MUSC Ashley River Tower","25 Courtenay Dr","29425",32.78343081103177,-79.95186786763418
+"29401","Charleston","SC","MUSC Hollings Cancer Center","86 Jonathan Lucas St","29425",32.78346545093246,-79.94774855704304
+"29401","Charleston","SC","MUSC Shawn Jenkins Children's Hospital","10 McClennan Banks Drive","29425",32.78284054586909,-79.95124104574677
+"29401","Charleston","SC","MUSC Children's Hospital","169 Ashley Ave","29425",32.78427997204175,-79.94645833969116
+"29401","Charleston","SC","MUSC Vascular Interventional Radiology","not_available","29425",32.784557,-79.946599
+"29401","Charleston","SC","Roper Hospital","316 Calhoun St","29401",32.78254813524194,-79.94944095611572
+"29401","Charleston","SC","musc er","not_available","29403",32.79151941238417,-79.94939475566729
+"29401","Charleston","SC","CT Clinic","144 Bee St","29401",32.785373,-79.954699
+"29401","Charleston","SC","MUSC 9East Neuroscience","not_available","29401",32.78047673667084,-79.93836257792195
+"29401","Charleston","SC","Lancer Alan Scott, MD","96 Jonathan Lucas St","29425",32.784401,-79.94715
+"29401","Charleston","SC","MUSC Radiation Oncology","165 Ashley Ave","29425",32.78335102005775,-79.94788672435284
+"29401","Charleston","SC","MRI Clinic","150 Bee St","29401",32.785019,-79.955262
+"29401","Charleston","SC","10 East MUSC","Ashley Ave","not_available",32.784618,-79.94701
+"29404","Charleston Afb","SC","Ofthalmology Ward,HKL","not_available","29418",32.88252258300781,-80.03567504882812
+"29404","Charleston Afb","SC","CPOD - 628 MDG","204 W Hill Blvd","29404",32.897532,-80.058075
+"29405","North Charleston","SC","Palmetto Lowcountry Behavioral Health","2777 Speissegger Dr","29405",32.84027141039475,-79.97453570229642
+"29405","North Charleston","SC","fast flow lab","not_available","29405",32.86429214477539,-79.99732971191406
+"29405","North Charleston","SC","Centre Pointe Emergency","5249 Emmett I Davis Jr Ave","29418",32.865751179359734,-80.01610802822438
+"29406","Charleston","SC","Concentra Urgent Care","7519 Rivers Ave","29406",32.9380394812238,-80.0405185669718
+"29406","Charleston","SC","Trident ER","not_available","29406",32.97571688294283,-80.07180780467516
+"29406","Charleston","SC","Childrens Hospital","1416 Gemstone Blvd","29410",32.93893814086914,-80.00337219238281
+"29406","Charleston","SC","Roper Hospital Diagnostics & ER - Northwoods","2233 Northwoods Blvd","29406",32.94211857139099,-80.04543745204782
+"29406","Charleston","SC","Healthfinders Trident Health System","2150 Northwoods Blvd","29406",32.9758743,-80.0728125
+"29406","Charleston","SC","Trident Emergency Department","9339 Medical Plaza Dr","29406",32.97623819281915,-80.07224775029367
+"29406","Charleston","SC","Trident Health System","2850 Tricom St","29406",32.97462324246312,-80.07094770669937
+"29406","Charleston","SC","Port City Plastic Surgery","2683 Lake Park Drive","29406",32.978549,-80.065438
+"29406","Charleston","SC","Gator Hospital","not_available","29420",32.9325105014256,-80.08637992456445
+"29406","Charleston","SC","Healthsouth Rehabilitation Hospital Of Charleston","9181 Medcom St","29406",32.975774,-80.070033
+"29407","Charleston","SC","Roper Mount Pleasant Hospital","Hwy 17 N, Mt Pleasant, SC 29466","29466",32.77987058551796,-79.97326298620736
+"29407","Charleston","SC","Helipad","8 Wescott St.","29403",32.786194863695826,-79.95145459697414
+"29407","Charleston","SC","Roper Medical Suite 460","Doughtry St","not_available",32.78446319773591,-79.95099018075983
+"29407","Charleston","SC","Ashley River Tower Chest Pain Center","Courtenay Drive","not_available",32.783244178526004,-79.95129614936666
+"29407","Charleston","SC","Private Therapy Services","445 Savannah Hwy","29407",32.78007660142342,-79.97192859649658
+"29407","Charleston","SC","MUSC-CSB","not_available","29407",32.78247594033442,-79.9669373662895
+"29407","Charleston","SC","ART 6 West","25 Courtenay Dr, Medical University of South Carolina, Charleston, SC 29401","29401",32.783852641164515,-79.9518097371196
+"29407","Charleston","SC","Roper ED","West Ashley inside Mark Clark","29407",32.78054276666667,-79.97044961666667
+"29412","Charleston","SC","Roper Hospital Ambulatory Surgery & Pain Management","325 Folly Rd","29412",32.76026153564453,-79.9755630493164
+"29412","Charleston","SC","Rumah Sakit Otorita Batam","Jalan Dr.Ciptomangunkusumo","29422",32.68,-79.9599999
+"29414","Charleston","SC","Bon Secours St. Francis Hospital","2095 Henry Tecklenburg Dr","29414",32.808662405464595,-80.04180473908917
+"29414","Charleston","SC","St Francis Centralized Telemetry","not_available","29414",32.808392,-80.042407
+"29414","Charleston","SC","Charleston Hematology Oncology Associates","2085 Henry Tecklenburg Drive, 2nd Floor","29414",32.809594,-80.041446
+"29414","Charleston","SC","Center For Abandoned Cats And Tomatoes","507 Stinson Dr","29407",32.786821,-80.02786800000001
+"29414","Charleston","SC","Bon Secours St Francis Hospital Emergency Room","2095 Henry Tecklenburg Dr","not_available",32.80508631857708,-80.0368869111801
+"29418","North Charleston","SC","Medcare Express","8720 Dorchester Rd","29420",32.92469860532398,-80.12369127796751
+"29418","North Charleston","SC","CareNow Urgent Care - North Charleston","8445 Dorchester Rd","29420",32.91516797521494,-80.11048867548044
+"29429","Awendaw","SC","Mount Pleasant Hospital","3500 N Highway 17","29466",32.87775555382162,-79.76838295714661
+"29431","Bonneau","SC","Trident Moncks Corner","not_available","29461",33.202311,-79.992861
+"29435","Cottageville","SC","Medic 9","199 Rehoboth Ed","29435",32.946166764402584,-80.49310731491423
+"29435","Cottageville","SC","Colleton Medical Center","511","29488",32.934880416666665,-80.51162215
+"29440","Georgetown","SC","Georgetown Memorial Hospital","606 Black River Rd","29440",33.37985355671168,-79.28440381542556
+"29440","Georgetown","SC","Mcleod Hospital","307 N Fraser St","29440",33.37464141845703,-79.28836059570312
+"29445","Goose Creek","SC","CareNow Urgent Care - Goose Creek","515 Saint James Ave","29445",33.03059005737305,-80.05961608886719
+"29445","Goose Creek","SC","Training Room First Aid","not_available","29445",33.03221,-80.057709
+"29445","Goose Creek","SC","Griswold Home Care","120 Springhall Drive","29445",33.00843501,-80.05430094
+"29445","Goose Creek","SC","Trident Medical Center Respiratory Department","U.S. 78, Charleston, SC","29406",32.975249647496575,-80.07231171665558
+"29456","Ladson","SC","Summerville Medical Center - ER","295 Midland Pkwy","29485",32.965467,-80.157559
+"29456","Ladson","SC","Premier Life In-Home Care","1710 Old Trolley Rd Ste C","29485",32.957340240478516,-80.16587829589844
+"29456","Ladson","SC","Palmetto Wellness Center","302A Midland Pkwy","29485",32.964355842959534,-80.15605847993554
+"29456","Ladson","SC","Summerville Medical Surgical Waiting Room","not_available","29485",32.970797227307266,-80.16437599123059
+"29456","Ladson","SC","xray at summerville medical center","not_available","29456",32.96530861798877,-80.1569687581049
+"29456","Ladson","SC","Department Of Veterans Affairs","Bldg 2418","29445",33.00779724747126,-80.10348579229417
+"29461","Moncks Corner","SC","Roper St. Francis - Berkeley Hospital","100 Callen Blvd.","29461",33.068725,-80.096494
+"29464","Mount Pleasant","SC","East Cooper Medical Center","2000 Hospital Dr","29464",32.82093767159763,-79.85062937374802
+"29464","Mount Pleasant","SC","Cynthia Blalock, MD","1405 Ben Sawyer Blvd","29464",32.7928068,-79.85558000000002
+"29464","Mount Pleasant","SC","Roper Hospital Wingo Way","not_available","29464",32.80278396606445,-79.89848327636719
+"29464","Mount Pleasant","SC","East Cooper Helipad","1400 Hospital Dr","29464",32.817156,-79.852554
+"29464","Mount Pleasant","SC","QC Kinetix (Mt Pleasant)","180 Wingo Way Suite 201","29464",32.802779,-79.898392
+"29464","Mount Pleasant","SC","Hollings Cancer Center Mt Pleasant","1180 Hospital Dr","29464",32.81477355957031,-79.8564453125
+"29464","Mount Pleasant","SC","Karen Hilbert, WHNP","851 Leonard Fulghum Dr Ste 200","29464",32.82056130004543,-79.85220551490784
+"29464","Mount Pleasant","SC","Kerry Solomon, MD","1101 Clarity Rd","29464",32.81190902,-79.85997216
+"29464","Mount Pleasant","SC","Roper St. Francis - ATI Physical Therapy - Mount Pleasant - IOP-PT & Balance","1909 N Highway 17","29464",32.8310432434082,-79.8271713256836
+"29464","Mount Pleasant","SC","Vibra Hospital of Charleston","1200 Hospital Drive","29464",32.8148878,-79.8557575
+"29464","Mount Pleasant","SC","Gut Harmony","900 Bowman Rd #101","29464",32.8152363,-79.85675719999999
+"29464","Mount Pleasant","SC","Waring Vision Institute","735 Johnnie Dodds Blvd. Suite 101","29464",32.80880829,-79.87456094
+"29464","Mount Pleasant","SC","Long Point Urgent Care","570 State Rd","29464-7930",32.839119,-79.864574
+"29464","Mount Pleasant","SC","Kindred Hospital Charleston","1200 Hospital Dr","29464",32.81475067138672,-79.85653686523438
+"29464","Mount Pleasant","SC","Colon Surgeons of Charleston","1439 Stuart Engals Blvd, Ste 100","29464",32.812712,-79.847887
+"29466","Mount Pleasant","SC","Mrs. Jessica Watson, MSPAS, PA-C","2114 Highway 41 Ste 105","29466",32.906473,-79.823702
+"29472","Ridgeville","SC","Trident Hospital","not_available","29483",33.037189909999995,-80.20005952
+"29488","Walterboro","SC","colleton medical center er","not_available","29488",32.92272591374299,-80.66871735852921
+"29488","Walterboro","SC","PruittHealth - Walterboro","401 Witsell St","29488",32.908805,-80.658805
+"29488","Walterboro","SC","Coastal Ambulance","126 N Memorial Ave","29488",32.902956,-80.662615
+"29492","Charleston","SC","Integrative Healthcare Of Charleston","1280 Hospital Dr STE 100","29464",32.9035697,-79.9197834
+"29501","Florence","SC","McLeod Regional Medical Center","555 E Cheves St","29506",34.1969976,-79.7593582
+"29501","Florence","SC","McLeod Urgent Care","964 Lochend Dr","29532",34.28262151818266,-79.85992210978901
+"29501","Florence","SC","Advanced Dental Center of Florence","2214 W Palmetto St.","29501",34.184581,-79.813543
+"29501","Florence","SC","The Womens Center Of Carolinas Hospital","Freedom Blvd","not_available",34.161202312603436,-79.75323045197091
+"29501","Florence","SC","Dr. Chaudhry's","not_available","29506",34.19728251820662,-79.75517613185515
+"29501","Florence","SC","New Generations Adult Day Center","2111 Jody Rd","29501",34.1978292,-79.806496
+"29501","Florence","SC","McLeod Vascular Associates","101 S Ravenel St","29506",34.19707283,-79.75928225
+"29501","Florence","SC","Palmetto Pee Dee Behavioral Health","601 Gregg Avenue","29501",34.195022,-79.776743
+"29501","Florence","SC","Encompass Health Rehabilitation Hospital of Florence","900 E Cheves St","29506",34.19534288130866,-79.75503700000002
+"29501","Florence","SC","Urgent Care","Hoffmeyer Rd","29501",34.190128326416016,-79.80490112304688
+"29501","Florence","SC","Carlolinas Hospital System 9th Floor","not_available","29505",34.16005042103177,-79.75138674755651
+"29501","Florence","SC","Walmart Care Clinic","230 N Beltline Dr","29501",34.193364738861,-79.823684427056
+"29501","Florence","SC","HealthSouth Rehabilitation Hospital","S Griffin St","29506",34.19642949,-79.75769424
+"29512","Bennettsville","SC","Embrace Hospice","1220 Bennettsville Sq","29512",34.66275799483795,-79.63313341140746
+"29520","Cheraw","SC","Chesterfield General Hospital Radiology","not_available","29520",34.700900011088834,-79.93882159671759
+"29520","Cheraw","SC","McLeod Health Cheraw","711 Chesterfield Hwy","29520",34.694610595703125,-79.91974639892578
+"29526","Conway","SC","Conway Medical Center","300 Singleton Ridge Rd","29526",33.78578181911295,-79.00217056274414
+"29526","Conway","SC","Materials","809 82nd Pkwy, Myrtle Beach, SC 29572","29572",33.75836944580078,-78.82023620605469
+"29526","Conway","SC","Meyers Podiatry","2376 Cypress Cir","29526",33.78532028198242,-79.00096130371094
+"29526","Conway","SC","Lighthouse Behavioral Health Hospital","152 Waccamaw Medical Park Drive","29526",33.78722237,-78.99763782
+"29526","Conway","SC","Lighthouse Care Center","Waccamaw Medical Park Dr.","29526",33.787379410911136,-78.99800086307746
+"29526","Conway","SC","Grand Strand Regional Labor & Delivery Ward","809 82nd Pkwy","29572",33.75836944580078,-78.82023620605469
+"29526","Conway","SC","Doctors Care","200 Middle Bay Dr.","not_available",33.76306360653536,-78.95646896372179
+"29526","Conway","SC","Beach Urgent Care","9627 Lake Arrowhead Rd","29572",33.77586485480484,-78.79170694223264
+"29526","Conway","SC","Darryl Valentine, PA-C","235 Singleton Ridge Rd Ste 103","29526",33.7899778,-78.9988971
+"29526","Conway","SC","virginia commmenwealth hospital staunton virginia","not_available","29527",33.841087341308594,-79.11719512939453
+"29536","Dillon","SC","McLeod Medical Center Dillon Campus","not_available","29536",34.42173763498657,-79.3658804787622
+"29536","Dillon","SC","Tri County Mental Health","1310 Commerce Dr.","29536",34.43949890136719,-79.36418151855469
+"29536","Dillon","SC","Dillon County EMS","East Main St.","29536",34.40886,-79.35634
+"29536","Dillon","SC","McLeod Dillon Hospital & ER","301 E Jackson St","29536",34.4214548,-79.3649891
+"29536","Dillon","SC","PruittHealth - Dillon","413 Lakeside Ct","29536",34.43150194,-79.35213325
+"29536","Dillon","SC","Med First Urgent Care & Family Practice of Dillon","506 Highway 301 N","29536",34.42026138305664,-79.36790466308594
+"29550","Hartsville","SC","CPRMC Emergency Department","not_available","29550",34.34940953780926,-80.10370187847758
+"29550","Hartsville","SC","Geek Squad Headquarters","not_available","29010",34.3495145331659,-80.1049693043684
+"29550","Hartsville","SC","Urgent Care","305 W Bobo Newsom Hwy","29550",34.33835983276367,-80.07902526855469
+"29550","Hartsville","SC","Carolina Pines Regional Medical Center","1304 W Bobo Newsom Hwy","29550",34.34945282892397,-80.10371087992192
+"29554","Hemingway","SC","Ambulance A-9","South Fire Station","29555",33.80648422241211,-79.55905151367188
+"29556","Kingstree","SC","Williamsburg Regional Hospital","500 Nelson Blvd","29556",33.660152435302734,-79.81884002685547
+"29560","Lake City","SC","Lake City Community Hospital","not_available","29560",33.880394332910946,-79.76031330439616
+"29566","Little River","SC","Seacoast Emergancy Room","not_available","29566",33.87595772995289,-78.61111471365638
+"29566","Little River","SC","McLeod Seacoast Hospital & ER","4000 Highway 9 E","29566",33.8665263,-78.6631648
+"29566","Little River","SC","Atlantic Dermatology","2237 Hwy 9 East","29568",33.8899594,-78.6894812
+"29566","Little River","SC","Tidelands Health Rehabilitation Hospital, an affiliate of Encompass Health","100 Water Grande Blvd","29566",33.8664366,-78.660151
+"29566","Little River","SC","Find Natural Relief","not_available","28467",33.81835825323114,-78.68895292282104
+"29566","Little River","SC","North Strand ER","806 Highway 17 S","29582",33.823348,-78.6875649
+"29568","Longs","SC","East Coast HOA Management","802 41st Ave S #101","29582",33.80097,-78.72942
+"29569","Loris","SC","Loris Community Hospital","3655 Mitchell St","29569",34.057485004267576,-78.89861285165098
+"29569","Loris","SC","McLeod Loris Hospital","3655 Mitchell At","29569",34.05742263793945,-78.89862060546875
+"29570","Mc Coll","SC","Scotland Memorial Hospital","500 Lauchwood Dr","28352",34.753147728205306,-79.46955078865251
+"29570","Mc Coll","SC","Scotland Memorial Specialty Clinics","not_available","28352",34.73761,-79.48461
+"29570","Mc Coll","SC","FastMed Urgent Care","907 McColl Rd","28352",34.76277244,-79.48223582
+"29571","Marion","SC","Marion County Medical Center","Hwy 76","29571",34.187079428728815,-79.32555507078294
+"29571","Marion","SC","Kindred at Home","1311 N Main St","29571",34.19429381,-79.39759146
+"29575","Myrtle Beach","SC","South Strand Internists and Urgent Care","1945 Glenns Bay Rd.","29575",33.618438720703125,-78.99342346191406
+"29576","Murrells Inlet","SC","Waccamaw Community Hospital","4070 Highway 17","29576",33.56042538338376,-79.04287375448175
+"29576","Murrells Inlet","SC","Beach Family & Urgent Care","9400 Highway 17 Byp","29576",33.601219177246094,-79.02046203613281
+"29576","Murrells Inlet","SC","Major Headache","not_available","29576",33.55390548706055,-79.0451889038086
+"29577","Myrtle Beach","SC","South Strand Medical Center","5050 Highway 17 Byp S","29588",33.66711038038698,-78.9715793471118
+"29577","Myrtle Beach","SC","Animal Emergency Hopital","not_available","29577",33.69064,-78.896816
+"29577","Myrtle Beach","SC","Dermatology and Skin Cancer Center of South Carolina","5046 Highway 17 Bypass S, Suite 103","29575",33.6676665,-78.9709013
+"29577","Myrtle Beach","SC","MB VA~Clinic","3381 Phillis Blvd","29577",33.671722412109375,-78.93632507324219
+"29577","Myrtle Beach","SC","Market Common Dentistry","1342 Farrow Pkwy","29577",33.6709098815918,-78.94563293457031
+"29585","Pawleys Island","SC","Dermatology and Skin Cancer Center of South Carolina","14490 Ocean Highway","29585",33.4878637,-79.0920775
+"29585","Pawleys Island","SC","South Strand Internists and Urgent Care","11405 Ocean Highway","29585",33.44903564453125,-79.12074279785156
+"29585","Pawleys Island","SC","Coastal Urgent Care and Family Medicine","201 Business Center Dr","29585",33.447012,-79.12073
+"29588","Myrtle Beach","SC","The Infirmary","not_available","29588",33.67521449293944,-79.00029660074675
+"29601","Greenville","SC","Room 616","not_available","29601",34.840267,-82.42141
+"29601","Greenville","SC","Bon Secours St Francis Health System","1 Saint Francis Dr","29601",34.83989896773423,-82.42140713664342
+"29601","Greenville","SC","St. Francis Andrews Building","200 Andrews St","29601",34.83841323852539,-82.42254638671875
+"29601","Greenville","SC","AFC Urgent Care","1800 Augusta St Ste B","29605",34.827181,-82.398258
+"29601","Greenville","SC","Room 712","St. Francis Downtown","29601",34.83943282656877,-82.42134331359779
+"29601","Greenville","SC","Batson Cancer Center","1 St Francis Dr, Greenville, SC 29601","29601",34.83714030460918,-82.42244412399631
+"29601","Greenville","SC","Roger C. Peace Rehab Center","100 Augusta St","29601",34.84369659423828,-82.4056625366211
+"29605","Greenville","SC","Prisma Health Greenville Memorial Hospital","701 Grove Rd","29605",34.81884162497652,-82.41271734237671
+"29605","Greenville","SC","Prisma Health Roger C. Peace Rehabilitation Hospital","701 Grove Rd #3","29605",34.818718490512545,-82.41006958775154
+"29605","Greenville","SC","New VA Outpatient Clinic","951 Grove Rd","29605",34.81500465614644,-82.41606427512603
+"29605","Greenville","SC","Donaldson Center Fire Station","not_available","29605",34.756752,-82.383923
+"29605","Greenville","SC","Prisma Health Center for Family Medicine","877 W Faris Rd Ste A","29605",34.81616249330488,-82.40813255331886
+"29605","Greenville","SC","Prisma Health Gynecology Specialists","890 W Faris Rd Ste 510","29605",34.817514548223166,-82.41052508376015
+"29605","Greenville","SC","Reedy Family Medicine","357 Woodruff Rd","29607",34.83464360068476,-82.33990817490849
+"29605","Greenville","SC","Prisma Health OB/GYN Center","1120 Grove Rd Ste B","29605",34.8110237121582,-82.42054748535156
+"29607","Greenville","SC","BioLife Plasma Services","1469 Woodruff Rd","29607",34.822108,-82.279776
+"29607","Greenville","SC","Patewood Medical Campus","200 Patewood Dr","29615",34.85455904242865,-82.32442499950064
+"29607","Greenville","SC","Patewood Memorial Hospital","175 Patewood Dr","29615",34.85196502413584,-82.32722316887092
+"29607","Greenville","SC","St. Francis Eastside","125 Commonwealth Dr","29615",34.851440962989294,-82.32365653025096
+"29607","Greenville","SC","MD360","1025 Verdae Blvd Ste C","29607",34.83382664428466,-82.31724906131991
+"29607","Greenville","SC","Angels Among Us Homecare","1757 Woodruff Rd Ste C","29607",34.820133209228516,-82.27127075195312
+"29607","Greenville","SC","St. Francis Eastside Outpatient Surgical Center","125 Patewood Drive","29615",34.851750365298024,-82.32450449583838
+"29607","Greenville","SC","AFC Urgent Care Woodruff Road","1467 Woodruff Rd Ste C","29607",34.821085,-82.27987900000001
+"29607","Greenville","SC","AFC Urgent Care Bon Secours – Pelham Road","2709 Pelham Rd Ste B","29615",34.8632653,-82.2780016
+"29607","Greenville","SC","Prisma Health Internal Medicine-Maxwell Pointe","3907 S Highway 14","29615",34.823463439941406,-82.2557373046875
+"29607","Greenville","SC","Psych Ward","not_available","29681",34.73929400536355,-82.2604489557332
+"29607","Greenville","SC","Jennings MedCare, LLC","1200 Woodruff Rd Ste G32","29607",34.817961,-82.289888
+"29607","Greenville","SC","MedRepair Rx, LLC","306 E Butler Rd","29662",34.785999,-82.292052
+"29607","Greenville","SC","Prisma Health Pediatrics & Internal Medicine-Wade Hampton","1809 Wade Hampton Blvd Ste 120","29609",34.87785720825195,-82.36326599121094
+"29607","Greenville","SC","Upstate Plastic Surgery","301 The Pkwy #A","29650",34.86529541015625,-82.25987243652344
+"29607","Greenville","SC","Pain and Hurtness","not_available","29615",34.85904009246843,-82.35322856054208
+"29607","Greenville","SC","Greenville Rejuvenation","503 Roper Creek Drive","29615",34.8495071,-82.3168176
+"29609","Greenville","SC","EmergencyMD","2498 North Pleasantburg Drive","29609",34.88982936,-82.38358802
+"29609","Greenville","SC","AFC Urgent Care Bon Secours – Wade Hampton","2310 Wade Hampton Blvd","29615",34.8894327,-82.3480924
+"29609","Greenville","SC","Prisma Health Children's Clinic-Travelers Rest","415 Duncan Chapel Rd","29617",34.912601470947266,-82.43062591552734
+"29609","Greenville","SC","AFC Urgent Care Bon Secours - Cherrydale","3213 N. Pleasantburg Dr.","29609",34.8891154,-82.4004122
+"29609","Greenville","SC","I Need A Doctor","911 Sick As Shit Dr.","29687",34.90292739868164,-82.34104919433594
+"29611","Greenville","SC","Prisma Health Center for Pediatric & Internal Medicine-West","5 W Main St","29611",34.852943420410156,-82.430419921875
+"29611","Greenville","SC","Powdersville Family & Internal Medicine","15 Roe Rd","29611",34.791236877441406,-82.49490356445312
+"29611","Greenville","SC","Outz Medical","Highway 153 100 Powers Blvd","29673",34.78388422223082,-82.47599601745605
+"29611","Greenville","SC","Render Care Service Solutions","121 Commons Way","29611",34.8536262512207,-82.45665740966797
+"29611","Greenville","SC","Equipped for Life","1009 Grove Rd, Greenville, SC 29605","29605",34.81220626831055,-82.41817474365234
+"29615","Greenville","SC","The Carolina Center for Behavioral Health","2700 East Phillips Road","29650",34.8650705,-82.2291509
+"29615","Greenville","SC","Prisma Health Hernia Center","905 Verdae Blvd Ste 202","29607",34.8306857197575,-82.31800746943917
+"29615","Greenville","SC","Riverside Family Medicine-Maxwell Pointe","3909 S Highway 14","29615",34.82340621948242,-82.2557373046875
+"29620","Abbeville","SC","Abbeville Area Medical Center","163-207 County Road S-1-139","29620",34.157591073061404,-82.38164427810607
+"29621","Anderson","SC","AnMed Health Women's and Children's Hospital","2000 E Greenville St","29621",34.54518660365552,-82.62735056221439
+"29621","Anderson","SC","AnMed Health Minor Care","600 N Fant St","29621",34.509584000000004,-82.64608299999999
+"29621","Anderson","SC","AnMed Health Medical Center Inpatient Pharmacy","800 N Fant St","29621",34.51133453149868,-82.64644318007605
+"29621","Anderson","SC","Anmed ER - Room 22","not_available","29621",34.510989,-82.646898
+"29621","Anderson","SC","AnMed Rehabilitation Hospital","1 Spring Back Way","29621",34.53771609208379,-82.62806117534637
+"29621","Anderson","SC","Anmed","North Fant Street","29621",34.521597502030744,-82.65170690170932
+"29621","Anderson","SC","MEDcare Urgent Care","801 N Fant St","29621",34.510672,-82.647772
+"29621","Anderson","SC","room 489","not_available","29624",34.500750103071624,-82.64507100804764
+"29627","Belton","SC","Patrick b. Harris psychiatric hospital","130 Highway 252","29621",34.477942,-82.567178
+"29630","Central","SC","Blue Ridge Women's Center-Patrick Square","101 Chapman Hill Rd","29631",34.6859245300293,-82.78583526611328
+"29630","Central","SC","Clemson Primary Care","101 Chapman Hill Rd Ste 201","29631",34.6859245300293,-82.78583526611328
+"29630","Central","SC","Kindred at Home","977 Tiger Blvd","29631",34.69322692,-82.84283127
+"29630","Central","SC","Clemson-Seneca Pediatrics","450 Old Greenville Hwy","29631",34.68762791432768,-82.81212329908158
+"29630","Central","SC","AnMed Health Clemson Care Connect","885 Tiger Blvd","29631",34.69329071044922,-82.8471450805664
+"29640","Easley","SC","Baptist Easley Hospital","200 Fleetwood Dr","29640",34.84005749588801,-82.60720549146099
+"29640","Easley","SC","Uppwr SC State Fair First Aid","not_available","29640",34.833686038841336,-82.50304681978145
+"29640","Easley","SC","Prisma Health Fleetwood Convenient Care","200 Fleetwood Dr Ste 100","29640",34.84106404875816,-82.60677695296181
+"29640","Easley","SC","Palmetto Health","John St","29640",34.84096425198325,-82.60663032531738
+"29640","Easley","SC","Clark St. C.T.H","not_available","29642",34.801839,-82.599016
+"29640","Easley","SC","MountainView OB/GYN","112 John St Ste 103","29640",34.842850095400756,-82.60634154092259
+"29640","Easley","SC","Prisma Health Pediatric Associates-Powdersville","207 Three Bridges Rd Ste A","29611",34.78873345037486,-82.4869725109238
+"29640","Easley","SC","Easley Family Medicine","106 John St","29640",34.84221757225065,-82.6053339245118
+"29640","Easley","SC","AFC Urgent Care Easley, SC","5208 Calhoun Memorial Hwy","29640",34.825441999999995,-82.559748
+"29640","Easley","SC","MountainView OB/GYN","1351 Crestview Rd","29642",34.805511474609375,-82.55069732666016
+"29640","Easley","SC","Prisma Health Pediatric Associates-Easley","800 N A St","29640",34.83828877520002,-82.60379880677647
+"29640","Easley","SC","Easley","109 Fleetwood Dr Ste B","29640",34.83976364135742,-82.60560607910156
+"29643","Fair Play","SC","UCSF Medical Center - Radiology 3rd floor","Parnassus, Oakway, SC 29693","29693",34.5350456237793,-83.06673431396484
+"29644","Fountain Inn","SC","Prisma Health Hillcrest Hospital","729 SE Main St","29681",34.72000591507205,-82.24835912273507
+"29644","Fountain Inn","SC","Prisma Health Pediatric Associates-Simpsonville","1409 W Georgia Rd","29680",34.7220572999318,-82.29489952336735
+"29644","Fountain Inn","SC","Hillcrest Hospital ER","South Main St","29681",34.72065691906007,-82.2476849607428
+"29644","Fountain Inn","SC","AFC Urgent Care Bon Secours – Simpsonville","3930 Grandview Drive, Suite B","29680",34.7149237,-82.2520911
+"29644","Fountain Inn","SC","Prisma Health Internal Medicine-Simpsonville","727 SE Main St Ste 300","29681",34.71993794217816,-82.24927604220282
+"29644","Fountain Inn","SC","Greenville OB/GYN Associates","1409 W Georgia Rd Ste D","29680",34.72211461897491,-82.29491829915787
+"29644","Fountain Inn","SC","Laurens Family Medicine","9100 Highway 14","29645",34.61821186576463,-82.12212234746403
+"29646","Greenwood","SC","Self Regional Healthcare","1325 Spring St","29646",34.17550543580317,-82.15721524693716
+"29646","Greenwood","SC","Magnolia Manor","1415 Parkway","29646",34.1722416038442,-82.15758710926498
+"29646","Greenwood","SC","Kinard Animal Hospital","1305 Hwy 72-221 E","29649",34.209157681298905,-82.14655259544756
+"29646","Greenwood","SC","headed to the er","not_available","29646",34.19194412231445,-82.19681549072266
+"29646","Greenwood","SC","Home Health Services of SRH","303 W Alexander Ave Ste A","29646",34.17351531982422,-82.15691375732422
+"29646","Greenwood","SC","Greenwood Regional Rehabilitation Hospital","1530 Parkway","29646",34.1669975316697,-82.15554507599832
+"29646","Greenwood","SC","Self Express Medical","102 Rockcreek Blvd","29649",34.217718,-82.168584
+"29646","Greenwood","SC","AFC Urgent Care - Greenwood","474 Bypass 72 Northwest","29649",34.20833778,-82.18629411
+"29650","Greer","SC","Greer Medical Campus","830 S Buncombe Rd","29650",34.92036294923967,-82.24496949346896
+"29650","Greer","SC","Emergency Room Greer Memorial Hospital","not_available","29650",34.919723214877905,-82.24415137665173
+"29650","Greer","SC","Greer Family Medicine","1107 W Poinsett St","29650",34.94185992866717,-82.24661707889027
+"29650","Greer","SC","MD360 Convenient Care","1305 S Suber Rd","29650",34.90247401202886,-82.25776165734715
+"29650","Greer","SC","Old Allen Benett Hospital","Wade Hampton","29650",34.946844,-82.23493
+"29650","Greer","SC","Prisma Health Children's Clinic-Greer","325 Medical Pkwy Ste 150","29650",34.91997997585515,-82.24320530935074
+"29650","Greer","SC","Greer OB/GYN","325 Medical Pkwy Ste 100","29650",34.91999463765421,-82.24316060564888
+"29650","Greer","SC","AFC Urgent Care Bon Secours – Greer","1494 W Wade Hampton Blvd Ste C","29650",34.937914,-82.27290699999999
+"29650","Greer","SC","Immediate Care Center - Pelham","3611 Pelham Rd","29615",34.8620041,-82.2687883
+"29650","Greer","SC","Prisma Health Pediatric Associates-Greer","106 Physicians Dr","29650",34.91866683959961,-82.2452163696289
+"29651","Greer","SC","MD360 Simpsonville","300 Scuffletown Rd","29681",34.80329107493955,-82.2284098990586
+"29651","Greer","SC","Village Hospital","250 Westmoreland Rd","29651",34.86300475252192,-82.21883770030435
+"29657","Liberty","SC","Pickens County EMS - Medic 3","147 Kay Holcombe Rd","29657",34.79234,-82.690512
+"29661","Marietta","SC","Prisma Health North Greenville Hospital Emergency Room","807 N Main St","29690",34.97564784536665,-82.4563872456747
+"29664","Mountain Rest","SC","Oconee EMS Station 2","314 S Church St","29691",34.762420654296875,-83.06987762451172
+"29669","Pelzer","SC","Pelzer Rescue Squad","125 Highway 20 N","29669",34.64544896195267,-82.46536301059554
+"29671","Pickens","SC","Medic 1","not_available","29671",34.8712272644043,-82.70101165771484
+"29672","Seneca","SC","Prisma Health Oconee Memorial Hospital","298 Memorial Dr","29672",34.69456599975691,-82.98720428293834
+"29672","Seneca","SC","Prisma Health Family Medicine-Walhalla","103 Whitetail Dr","29691",34.73004150390625,-83.0230712890625
+"29672","Seneca","SC","Lila Doyle Rehab & Nursing Facility","Lila Doyle Dr, Seneca, SC 29672","29672",34.69410314828952,-82.98353883422516
+"29672","Seneca","SC","Thorne Ambulance Service - Oconee Division","N First St","29678",34.69689268618645,-82.94070006957614
+"29672","Seneca","SC","Clemson-Seneca Pediatrics","109 Omni Dr Ste B","29672",34.69722366333008,-82.98411560058594
+"29672","Seneca","SC","Oconee EMS Headquarters","150 Memorial Dr","29672",34.694097538547815,-82.98934794308435
+"29672","Seneca","SC","Blue Ridge Women's Center","10110 Clemson Blvd","29678",34.698800181734875,-82.935464680304
+"29672","Seneca","SC","Seneca Health And Rehab","not_available","29678",34.6917825702821,-82.98648760115069
+"29672","Seneca","SC","Oconee Medical Center Rehabilation Services","101 Omni Dr","29672",34.697261810302734,-82.98428344726562
+"29672","Seneca","SC","Room 318 OMC","not_available","29672",34.694838,-82.987145
+"29672","Seneca","SC","Prisma Health Center for Family Medicine-Oconee","139 Lila Doyle Dr","29672",34.694091796875,-82.98491668701172
+"29672","Seneca","SC","Upstate Family Medicine","12016 N Radio Station Rd","29678",34.68434754774507,-82.98971593401802
+"29673","Piedmont","SC","Prisma Health MD360 Convenient Care","11402 Anderson Rd Ste A","29611",34.79021665221003,-82.48026698838657
+"29678","Seneca","SC","Seneca Health and Rehabilitation Center","140 Tokeena Rd","29678",34.65359573,-82.96369198
+"29678","Seneca","SC","Fork EMS","not_available","29689",34.56496946207027,-82.8903293611498
+"29681","Simpsonville","SC","Prisma Health Family & Internal Medicine-Five Forks","221 Batesville Rd","29681",34.811138702822966,-82.23323822032398
+"29681","Simpsonville","SC","Simpsonville Family Medicine","1336 Highway 14","29681",34.79052210040484,-82.25693643114937
+"29682","Six Mile","SC","Central Rescue Squad Station 2","633 Mount Olivet Rd","29682",34.817544,-82.834135
+"29693","Westminster","SC","Stephen County Hospital","163 Hospital Dr","30577",34.593250318437256,-83.34810166545158
+"29693","Westminster","SC","Women's Wellness Center","121 Big a Rd N","30577",34.5789070651948,-83.31614207599259
+"29693","Westminster","SC","Pruitt Health","633 Falls Rd","30577",34.587086,-83.34026
+"29693","Westminster","SC","Oconee EMS Station 3","100 Emergency Ln","29693",34.655693272495526,-83.09066568488043
+"29693","Westminster","SC","Blood Connection Blood Mobile","not_available","30577",34.57446254504637,-83.35266916653114
+"29693","Westminster","SC","Urgent Med of Toccoa","1238 Falls Rd","30577",34.5940659875819,-83.3454092852848
+"29707","Fort Mill","SC","CHS Urgent Care - Ballantyne","14214 Ballantyne Lake Rd Ste 100","28277",35.0513042458549,-80.84845862661257
+"29707","Fort Mill","SC","Nurse Next Door York County","2764 Pleasant Rd","29708",35.060211181640625,-80.96430969238281
+"29707","Fort Mill","SC","Novant Health-GoHealth Urgent Care","15235 John J Delaney Dr","28277",35.053419,-80.84895300000001
+"29707","Fort Mill","SC","Urgent Care","John J Delaney Dr, Charlotte, NC 28277","28277",35.04203228441905,-80.84751739954818
+"29707","Fort Mill","SC","EmergencyMD","2021 Bridgemill Dr","29707",34.9783973,-80.8565139
+"29707","Fort Mill","SC","Presbyterian Urgent Care","9886 Rea Rd","28277",35.033235,-80.806855
+"29707","Fort Mill","SC","Doctors Care","not_available","29707",34.95536,-80.851972
+"29707","Fort Mill","SC","Work Ems8","not_available","29720",34.908827,-80.810827
+"29707","Fort Mill","SC","CHS Children's Urgent Care - Blakeney","6025 Blakeney Park Dr","28277",35.03196847,-80.80693248
+"29707","Fort Mill","SC","Atrium Health Urgent Care","704 Gold Hill Rd","29715",35.06159919,-80.95394559
+"29708","Fort Mill","SC","Steel creek hospital","not_available","29708",35.006139079532005,-80.9713738000091
+"29708","Fort Mill","SC","Charlotte Foot Care Associates","13425 Hoover Creek Blvd, Suite 201","28273",35.1000749,-80.9902041
+"29708","Fort Mill","SC","Piedmont Urgent Care Center at Baxter Village","502 6th Baxter Xing","29708",35.02183774616643,-80.97701746041584
+"29708","Fort Mill","SC","Novant Health-GoHealth Urgent Care","13129 S Tryon St Ste 120","28278",35.100587495241534,-80.99193838671994
+"29710","Clover","SC","Piedmont Medical Center","not_available","29710",35.11430740356445,-81.22361755371094
+"29710","Clover","SC","David Holman, MD","207 Church St","29710",35.115318776721544,-81.22609734535217
+"29710","Clover","SC","Piedmont West Urgent Care Center","1190 Filbert Hwy Ste 110","29745",35.019220000000004,-81.250106
+"29715","Fort Mill","SC","Carolinas Medical Center-Pineville (CMC-Pineville)","10628 Park Rd","28210",35.0913097897337,-80.87205956759604
+"29715","Fort Mill","SC","South Charlotte General and Vascular Surgery","10512 Park Road","28210",35.09305317,-80.8709849
+"29715","Fort Mill","SC","Heart Failure & Transplant Clinic - Pineville","10650 Park Rd","28210",35.0920588,-80.8718799
+"29715","Fort Mill","SC","Carolina Dermatology","10650 Park Rd #310","28210",35.09193577380646,-80.87217450141907
+"29715","Fort Mill","SC","Carolinas Specialty Hospital","10648 Park Dr","28210",35.094212498668355,-80.87276231598851
+"29715","Fort Mill","SC","Carolinas Biofeedback Clinic","106 Oakley Ave Ste 300","28134",35.08454895019531,-80.88873291015625
+"29715","Fort Mill","SC","Urgent Care Monroe","Hwy 74","28110",35.085185,-80.8744552
+"29720","Lancaster","SC","MD First Primary & Urgent Care","1130 SC-9 Bypass","29720",34.73449490000001,-80.7935985
+"29720","Lancaster","SC","Med 55","not_available","28112",34.87478341391178,-80.58541433215005
+"29730","Rock Hill","SC","Piedmont Hospital","1234 Herlong Ave","not_available",34.96231585431337,-81.03697479334869
+"29730","Rock Hill","SC","Piedmont Medical Women's Center","not_available","29732",34.95694851159828,-81.05269036473217
+"29730","Rock Hill","SC","Broken to Better Urgent Care","735 Cherry Rd Ste 3121","29732",34.94503,-81.02713539999999
+"29730","Rock Hill","SC","UniHealth","261 S Herlong Ave","29732",34.95471954345703,-81.05477905273438
+"29730","Rock Hill","SC","Piedmont East Ugrent Care","not_available","29730",34.939474,-80.975465
+"29730","Rock Hill","SC","Catawaba Mental Health","166 Dotson St","29732",34.951265,-81.038882
+"29730","Rock Hill","SC","Encompass Health Rehabilitation Hospital of Rock Hill","1795 Dr Frank Gaston Blvd","29732",34.958509,-81.052403
+"29730","Rock Hill","SC","Atrium Health Urgent Care","1656 Riverchase Blvd","29732",34.98006062,-80.98929789
+"29801","Aiken","SC","Aiken Surgical Associates","410 University Pkwy","29801",33.57272,-81.76423
+"29801","Aiken","SC","university hospital","not_available","29803",33.55156190124075,-81.79071395820769
+"29801","Aiken","SC","Hospital","113 Hillman St","29851",33.53511428833008,-81.82001495361328
+"29801","Aiken","SC","Aurora Pavilion Behavioral Health","655 Medical Park Dr","29801",33.572571,-81.760726
+"29801","Aiken","SC","Aiken Medic 7","not_available","29801",33.5168079120095,-81.57464064101762
+"29801","Aiken","SC","Surgery Center of Aiken","4211 Trolley Line Rd","29801",33.576727,-81.759454
+"29801","Aiken","SC","Aiken Regional Medical Centers","302 University Pkwy","29801",33.57119141062788,-81.76213753856696
+"29801","Aiken","SC","Aiken Medic 6","not_available","29805",33.64751410622494,-81.67425083719132
+"29803","Aiken","SC","Aiken Medic 3","64 Desoto Dr","29803",33.394317626953125,-81.75812530517578
+"29803","Aiken","SC","Aiken Urgent Care","110 Sasanqua Dr","29829",33.53578186035156,-81.8372802734375
+"29810","Allendale","SC","Allendale County Hospital","not_available","29827",32.96548843383789,-81.2479019165039
+"29812","Barnwell","SC","PruittHealth - Barnwell","31 Wren St","29812",33.256431579589844,-81.36367797851562
+"29812","Barnwell","SC","Barnwell County Hospital","not_available","29812",33.25554656982422,-81.36128997802734
+"29824","Edgefield","SC","Edgefield County Hospital","100-292 Ridge Medical Plaza Rd","29824",33.778892517089844,-81.92974853515625
+"29829","Graniteville","SC","Aiken Medic 8","822 Bettis Academy Rd","29829",33.62001037597656,-81.8485336303711
+"29832","Johnston","SC","Roper Hospital CICU","316 Calhoun St","not_available",33.8323974609375,-81.80098724365234
+"29832","Johnston","SC","Edgefield EMS","not_available","29832",33.81913303649414,-81.80076726722342
+"29841","North Augusta","SC","Charlie Norwood VA Medical Center","950 15th St","30901",33.47300089920571,-81.98590448805398
+"29841","North Augusta","SC","Operating Room","VA Downtown","30912",33.473321,-81.987812
+"29841","North Augusta","SC","Downtown Augusta Medical District","Walton Way","not_available",33.47282303069947,-81.98292299811092
+"29841","North Augusta","SC","Augusta University Medical Center","1120 15th St","30912",33.4709763568507,-81.9900119304657
+"29841","North Augusta","SC","University Hospital","1350 Walton Way","30901",33.471204571931246,-81.98116064071655
+"29841","North Augusta","SC","Children's Hospital of Georgia","1446 Harper St","30912",33.47107898727006,-81.98744870750676
+"29841","North Augusta","SC","GHSU Labor and Delivery","not_available","30901",33.471618665140284,-81.98956863447096
+"29841","North Augusta","SC","Walton Rehabilitation Hospital","1355 Independence Dr","30901",33.474816,-81.980104
+"29841","North Augusta","SC","Alliance Hospice","802 E Martintown Rd","29841",33.484611,-81.950249
+"29841","North Augusta","SC","department of Veterans Affairs Emergency Room","not_available","30904",33.477000192821,-81.97097741992239
+"29841","North Augusta","SC","Aiken Medic 1","not_available","29860",33.5395967826786,-81.94192273512317
+"29841","North Augusta","SC","University Hospital POB 1","820 Saint Sebastian Way","30901",33.473122550105366,-81.9831573097997
+"29841","North Augusta","SC","Pulmonary MD","2030 Walton Way","30904",33.475429999999996,-82.006027
+"29860","North Augusta","SC","Thomas Healthcare Services Inc.","716 Fairview Ave","29841",33.548408,-81.943316
+"29902","Beaufort","SC","Beaufort Memorial Hospital","955 Ribaut Rd","29902",32.41749855155759,-80.68773612922618
+"29902","Beaufort","SC","Beaufort Memorial Hospital, Emergency Department","123 Ribaut Rd","29902",32.41758246568011,-80.68757707886081
+"29902","Beaufort","SC","OneBlood","1001 Boundary St","29902",32.43980201,-80.6731746
+"29902","Beaufort","SC","Beaufort Memorial Express Care And Occupational Health","976 Ribaut Ln","29902",32.416864,-80.688929
+"29902","Beaufort","SC","Branch Medical Clinic","100 Blvd de France","29905",32.35096268211342,-80.68730592727661
+"29902","Beaufort","SC","1st Bn Aid Station","20 Guantanemo St","29905",32.352304080934985,-80.68316459655762
+"29902","Beaufort","SC","Beaufort Memorial Ambulatory Surgery Center","1033 Ribaut Rd","29902",32.412914,-80.687064
+"29902","Beaufort","SC","surgical center of Beaufort","Ribaut Road","29902",32.413511,-80.687491
+"29902","Beaufort","SC","Beaufort Naval Hospital Orthopedics","not_available","29935",32.38977908380479,-80.68212440816136
+"29902","Beaufort","SC","Ems Room At Bmh","123 Ribaut Rd, Beaufort, SC 29902","29902",32.417781829833984,-80.6875
+"29902","Beaufort","SC","Doctors Care Urgent Care","272 Robert Smalls Pkwy Ste 320","29906",32.42728042602539,-80.72576904296875
+"29902","Beaufort","SC","BMH 2t Rehab","not_available","29902",32.410683,-80.686763
+"29902","Beaufort","SC","Emergency Medical Service","2727 Depot Rd, Beaufort, SC 29902","29902",32.429195404052734,-80.69181823730469
+"29902","Beaufort","SC","AFC Urgent Care Beaufort, SC","272 Robert Smalls Pkwy","29906",32.42645,-80.72675
+"29907","Beaufort","SC","Sea Island Animal Hospital","40 Professional Village Circle","29907",32.416088,-80.652054
+"29907","Beaufort","SC","Lowcountry Urgent Care","182C Sea Island Pkwy","29907",32.41227268293696,-80.64764622869781
+"29907","Beaufort","SC","Beaufort Memorial Hospital","not_available","29907",32.434116499599234,-80.63994028111179
+"29909","Okatie","SC","Tidewatch Emergency Department","675 Tidewatch Dr","29936",32.313314,-80.935317
+"29909","Okatie","SC","Kindred at Home","2 Westbury Pkwy","29910",32.2753757,-80.87163559999999
+"29909","Okatie","SC","Beaufort Memorial Outpatient Rehabilitation Services- Bluffton Medical Services","11 Arley Way","29910",32.27622985839844,-80.87203216552734
+"29909","Okatie","SC","Encompass Health Rehabilitation Hospital of Bluffton","107 Seagrass Station Road","29910",32.2858662,-80.941563
+"29909","Okatie","SC","BOC Radiology Dept","not_available","29909",32.2929,-80.940062
+"29909","Okatie","SC","RenewalMD Bluffton","17 Sherington Dr","29910",32.264024,-80.858078
+"29909","Okatie","SC","Global Urgent Care Bluffton","14 Oak Forest Road Suite B","29910",32.267059,-80.857158
+"29909","Okatie","SC","Monica V. Riley, DNP, ANP-BC","75 Baylor Dr #155","29910",32.278007790888566,-80.87698101997374
+"29910","Bluffton","SC","Family Urgent Care","not_available","29928",32.15591325526939,-80.76421393203324
+"29910","Bluffton","SC","Senior Helpers of Hilton Head","1541 Fording Island Road","29926",32.23688,-80.80725
+"29910","Bluffton","SC","Cloud 9 CBD & Vape","32 Palmetto Bay #14A","29928",32.1605258,-80.7649809
+"29911","Brunson","SC","Hampton Regional Medical Center","595 W Carolina Ave","29924",32.85287857055664,-81.09005737304688
+"29916","Early Branch","SC","Hampton County EMS Medic 3","not_available","29945",32.69952689660789,-80.85324157582835
+"29918","Estill","SC","PruittHealth - Estill","252 Liberty St S","29918",32.74941635131836,-81.2254638671875
+"29926","Hilton Head Island","SC","Hilton Head Hospital","25 Hospital Center Blvd","29926",32.2241514222828,-80.71462800430909
+"29926","Hilton Head Island","SC","Sungate Medical Group","220 Pembroke Dr Ste 100","29926",32.2113,-80.72083
+"29926","Hilton Head Island","SC","Monica V. Riley, DNP, ANP-BC","25 Hospital Center Blvd #300","29926",32.22354806286899,-80.71261525154114
+"29926","Hilton Head Island","SC","Heritage Medical Center","not_available","29926",32.21385909896485,-80.69965587042054
+"29927","Hardeeville","SC","Coastal Carolina Hospital","1000 Medical Center Dr","29927",32.31493579421217,-81.05420607270662
+"29927","Hardeeville","SC","Old Candler Hospital","516 Drayton St","31401",32.06918716430664,-81.09394073486328
+"29927","Hardeeville","SC","Southern Urgent Care","not_available","31410",32.042252117010456,-81.00613702065287
+"29927","Hardeeville","SC","Medical Records","not_available","31404",32.035037994384766,-81.08456420898438
+"29927","Hardeeville","SC","Kindred at Home","2280 E Victory Dr","31404",32.037596,-81.05720925
+"29927","Hardeeville","SC","Carlos Montenegro, MD","408 Jackson Ave E","29927",32.29621692445481,-81.089186668396
+"29927","Hardeeville","SC","Evans Memorial Hospital","not_available","31401",32.075279235839844,-81.0986099243164

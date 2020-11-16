@@ -1,0 +1,670 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"40004","Bardstown","KY","Anytime Fitness","131 Pkwy Dr","40004",37.79699157,-85.4244183
+"40004","Bardstown","KY","Fitness One","1065 Bloomfield Rd #A","40004",37.82751782019666,-85.42371148558723
+"40004","Bardstown","KY","Curves","not_available","not_available",37.81835539946726,-85.4297063526394
+"40004","Bardstown","KY","Planet Fitness","225 Kentucky Home Sq, Unit A","40004",37.825092,-85.464716
+"40010","Buckner","KY","Body Under Construction","not_available","40014",38.38190539715594,-85.44083400891955
+"40011","Campbellsburg","KY","Tumble Time, Inc","18 South Main Street","40050",38.43301010131836,-85.16976928710938
+"40014","Crestwood","KY","Burn Boot Camp - Crestwood Kentucky","6408 W. Hwy. 146. Suite 3","40014",38.3298322930268,-85.46430140733719
+"40014","Crestwood","KY","The Marble Method","12418 La Grange Rd Ste 140","40245",38.289747,-85.509367
+"40014","Crestwood","KY","Fitness Room-Hampton Inn","not_available","40241",38.30016098934421,-85.54978795244175
+"40014","Crestwood","KY","Snap Fitness","Highway 329 Bypass","40014",38.32878945,-85.46924343333333
+"40014","Crestwood","KY","Paddock Workout Room","not_available","40245",38.285852022938876,-85.50285120311104
+"40014","Crestwood","KY","Snap Fitness","1212 Market St","40031",38.39756628798696,-85.37191867797911
+"40014","Crestwood","KY","Zack Nusser Training","3745 Diann Marie Rd","40241",38.30087169999999,-85.5444371
+"40014","Crestwood","KY","Anytime Fitness","6400 Crestwood Sta","40014",38.338306985035594,-85.46914279460907
+"40023","Fisherville","KY","Krom's Strength and Conditioning","668 Dawson Hill Rd","40299",38.100772857666016,-85.48112487792969
+"40023","Fisherville","KY","Joe's Gym","Connor Station Rd.","40067",38.209391,-85.385284
+"40023","Fisherville","KY","Tropical Oasis","not_available","40023",38.1092742765976,-85.38188370660309
+"40026","Goshen","KY","Orangetheory Fitness","9031 U.S. 42","41091",38.4320255,-85.5244992
+"40031","La Grange","KY","Planet Fitness","406 S 1st St, Ste 2","40031",38.402923,-85.379112
+"40045","Milton","KY","Hall's Gym","not_available","47250",38.73697301831791,-85.3766460626352
+"40047","Mount Washington","KY","Anytime Fitness","737 N Mount Washington Bypass","40047",38.05756,-85.53829
+"40047","Mount Washington","KY","MaxFit Boot Camp","8206 Highway 44 E","40047",38.03583908081055,-85.58100128173828
+"40047","Mount Washington","KY","Anytime Fitness","737 North 31E bypass","40047",38.05959755262513,-85.54504394531249
+"40047","Mount Washington","KY","Maximum Fitness","9050 Highway 44 E","40047",38.038516998291016,-85.56617736816406
+"40059","Prospect","KY","YMCA at Norton Commons","11000 Brownsboro Rd","40059",38.32898844601365,-85.56239821373218
+"40059","Prospect","KY","Snap Fitness","6031 Timber Ridge Dr","40059",38.340222999999995,-85.621881
+"40059","Prospect","KY","Club Cube Fitness","13206 W Highway 42","40059",38.36478,-85.60132
+"40059","Prospect","KY","Custom Fitness","10619 Meeting St Unit 101","40059",38.32350571233942,-85.56560472977942
+"40059","Prospect","KY","Iron Tribe Fitness","10013 Brownsboro Rd","40241",38.3158073425293,-85.56192779541016
+"40059","Prospect","KY","Coach's Fitness Club","9207 US Highway 42 Ste F","40059",38.340789794921875,-85.61995697021484
+"40059","Prospect","KY","Nachale","9506 Norton Commons Blvd","40059",38.324676000000004,-85.56473299999999
+"40065","Shelbyville","KY","Fit 4 Less","16 Village Plz","40065",38.210899353027344,-85.2398681640625
+"40065","Shelbyville","KY","The Discovery Gym","not_available","40065",38.210298,-85.210649
+"40065","Shelbyville","KY","CUB Employee Fitness Center","1854 Midland Trail, Shelbyville, KY 40065","40065",38.21151351928711,-85.24993896484375
+"40065","Shelbyville","KY","Shelby Power and Fitness","320 Main St","40065",38.21058654785156,-85.21385955810547
+"40065","Shelbyville","KY","Planet Fitness","120 Midland Blvd","40065",38.213947,-85.254166
+"40065","Shelbyville","KY","Anytime Fitness","192 Frankfort Rd","40065",38.208646,-85.204583
+"40065","Shelbyville","KY","MCMFLC","Midland Trail","40065",38.21168800064585,-85.25418910028954
+"40065","Shelbyville","KY","Family Activity Center","717 Burks Branch Rd","40065",38.227229,-85.219777
+"40067","Simpsonville","KY","Just-In Fit","not_available","40067",38.222546,-85.358517
+"40069","Springfield","KY","Fuel Fitness","not_available","40069",37.693105,-85.238757
+"40071","Taylorsville","KY","Anytime Fitness","543 Taylorsville Rd","40071",38.03968,-85.34095
+"40108","Brandenburg","KY","MEADE CrossFit","104 Olin Road Suite C","40108",37.99274682844694,-86.15933418273924
+"40108","Brandenburg","KY","Moo Dung Gym","not_available","40108",38.012199,-86.193229
+"40108","Brandenburg","KY","Snap","Bypass Road","40108",37.98172420604263,-86.1627344490115
+"40111","Cloverport","KY","Cloverport Health & Wellness Center","101 4th St","40111",37.833499908447266,-86.6314697265625
+"40121","Fort Knox","KY","Otto Physical Fitness Center","6591 Abel St","40121",37.90836699519465,-85.92869039088356
+"40121","Fort Knox","KY","Smith Physical Fitness Center","not_available","40121",37.91857236856357,-85.94178966468236
+"40121","Fort Knox","KY","Gammon Total Fitness","850 Radio St","40121",37.898935496954024,-85.9416258889741
+"40160","Radcliff","KY","Planet Fitness","599 W Lincoln Trail Blvd, Ste B","40160",37.838621,-85.947881
+"40160","Radcliff","KY","Snap Fitness 24-7","147 E Lincoln Trail Blvd","40160",37.842608,-85.936759
+"40160","Radcliff","KY","Curves","402 W Lincoln Trail Blvd","40160",37.8373908996582,-85.94389343261719
+"40160","Radcliff","KY","Natcher Physical Fitness Center","2341 Garry Owen Ave","40121",37.82590322948811,-85.9513188738166
+"40165","Shepherdsville","KY","Bullitt County Family YMCA","PO Box 846","40165",37.98691583156941,-85.70674683417894
+"40165","Shepherdsville","KY","Awesome Elite Cheer","not_available","40165",37.977934,-85.682021
+"40165","Shepherdsville","KY","Snap Fitness","Dixie hwy","40272",38.067414,-85.881918
+"40165","Shepherdsville","KY","Planet Fitness","544 Conestoga Pkwy","40165",37.997202,-85.706506
+"40165","Shepherdsville","KY","Workout Anytime Hillview KY","135 Marketplace Dr, Ste A","40229",38.072155,-85.672582
+"40202","Louisville","KY","AC Marriott Gym","not_available","40202",38.25322,-85.738702
+"40202","Louisville","KY","Glassworks Fitness","815 W Market St","40202",38.25609240875881,-85.76452731948493
+"40202","Louisville","KY","360° Fitness Center At The Galt","140 N 4th St","40202",38.258027632828316,-85.75619189297218
+"40202","Louisville","KY","Zumba!","7th St","40202",38.255445258891086,-85.76212615555318
+"40202","Louisville","KY","Humana Walkstation","22nd Floor Humana Building","not_available",38.256212,-85.758338
+"40202","Louisville","KY","Personal best fitness","not_available","47129",38.27159603036126,-85.75147581269147
+"40202","Louisville","KY","CrossFit the Ville","721 W Main St","40202",38.25496292114258,-85.73892974853516
+"40202","Louisville","KY","Crescent Centre Gym","657 S 3rd St","40202",38.247286803027215,-85.75610060156447
+"40202","Louisville","KY","LMPD Fitness","633 W Jefferson St","40202",38.254744,-85.76156999999999
+"40202","Louisville","KY","Towers Gym","511 S 5th St","40202",38.2509880065918,-85.75889587402344
+"40202","Louisville","KY","COE Gym","not_available","40203",38.24879951205708,-85.76214689759956
+"40202","Louisville","KY","Brown Hotel Fitness Center","335 W Broadway","40202",38.246483000000005,-85.757954
+"40202","Louisville","KY","Uxecutive Fitness","455 S 4th St","40202",38.251388,-85.756945
+"40202","Louisville","KY","CrossFit","1348 River Rd","40206",38.244281428366314,-85.7464428159202
+"40202","Louisville","KY","Health Sciences Fitness Center","416 E.Chestnut St","40202",38.24752515139717,-85.74615371142725
+"40202","Louisville","KY","E Fitness On Main","714 W Main St","40202",38.256866455078125,-85.76242065429688
+"40202","Louisville","KY","Omni Fitness Center","400 S 2nd St","40202",38.25203323364258,-85.75487518310547
+"40202","Louisville","KY","Zumba! Hey","7yh St","40202",38.25542775796128,-85.76216120249948
+"40202","Louisville","KY","Mercantile Gym","309 E Market St","40202",38.254398345947266,-85.74793243408203
+"40203","Louisville","KY","Flex Appeal","946 Goss Ave","40217",38.22943,-85.739777
+"40203","Louisville","KY","BF Fitness Center","850 Dixie Hwy","40210",38.24467670423426,-85.7842241754474
+"40203","Louisville","KY","bareFIT","1207 Logan St.","not_available",38.23264,-85.739395
+"40203","Louisville","KY","CrossFit Jeffersonville","521 Michigan Ave","47130",38.273435,-85.745172
+"40203","Louisville","KY","CPL Gym","1251 S 4th St","40203",38.23310470581055,-85.76020050048828
+"40204","Louisville","KY","Get Fit 24/7","1015 Bardstown Rd","40204",38.240094,-85.72336999999999
+"40204","Louisville","KY","Jim Cain's Mid City Fitness","1250 Bardstown Rd.","40204",38.236114,-85.716811
+"40204","Louisville","KY","Louisville Strength And Endurance","1017 E Broadway","40204",38.244627,-85.73440699999999
+"40204","Louisville","KY","Jazzercise","1250 Baxter Ave","40204",38.23473266854716,-85.71747235855011
+"40204","Louisville","KY","CrossFit Louisville","2400 Frankfort Ave, Louisville, KY 40206","40206",38.253670134031566,-85.69976227365767
+"40204","Louisville","KY","Highland Fitness","1753 Bardstown Rd","40205",38.228916956140964,-85.70165388181464
+"40204","Louisville","KY","Clements Fitness","not_available","40204",38.225593,-85.724244
+"40204","Louisville","KY","Body & Soul Personal Training","1916 Bardstown Rd","40205",38.227242078695696,-85.6997462587836
+"40204","Louisville","KY","One Body Solutions","300 Distillery Cmns Ste 250","40206",38.25053339999999,-85.7225833
+"40204","Louisville","KY","Pure Barre","2294 Lexington Rd","40206",38.245233644578406,-85.70406618096831
+"40204","Louisville","KY","Still Spinnin'","1745 Bardsrown Road","not_available",38.229003000000006,-85.70143399999999
+"40204","Louisville","KY","St. Francis Parish Gymnasium","1960 Bardstown Rd","40205",38.225634,-85.697673
+"40204","Louisville","KY","Living Gym","not_available","40217",38.22485892700625,-85.72857055326295
+"40204","Louisville","KY","Voltage Strength and Performance","2132 Frankfort Avenue","40206",38.253068977775115,-85.7071689933109
+"40205","Louisville","KY","Jewish Community Center","3600 Dutchmans Ln","40205",38.225542860668206,-85.65036488132131
+"40205","Louisville","KY","Home gym","not_available","40205",38.210303,-85.692249
+"40205","Louisville","KY","Infrared Saunas of Louisville Kentucky","1951 Bishop Ln","40218",38.203607,-85.682286
+"40205","Louisville","KY","YMCA","1930 Bishop Ln","40218",38.20169448852539,-85.68342590332031
+"40205","Louisville","KY","Gardiner Point Gym","not_available","40213",38.20019850584305,-85.69272268969317
+"40206","Louisville","KY","Derby City Crossfir","not_available","40206",38.261985,-85.713281
+"40206","Louisville","KY","Heuser Clinic","2040 Metal Ln","40206",38.27026367559977,-85.71311195445283
+"40206","Louisville","KY","Waterside Fitness Center","1500 River Shore Dr","40206",38.264472999999995,-85.72670699999999
+"40206","Louisville","KY","6th Gear Performance","2005 Frankfort Ave","40206",38.25497817993164,-85.70986938476562
+"40206","Louisville","KY","Fleur de FIT","122A Mellwood Arts Center","not_available",38.262879,-85.714186
+"40206","Louisville","KY","ProFormance Fitness & Training","2041 River Rd.","40206",38.27030720947536,-85.7132035994422
+"40206","Louisville","KY","SBTS Health & Recreation Center","2825 Lexington Rd","40206",38.248664199083784,-85.68598293970898
+"40206","Louisville","KY","River Oak Gym","River Oak Apartments","40206",38.26768493652344,-85.70325469970703
+"40206","Louisville","KY","Bluegrass Barbell","2734 River Green Circle","not_available",38.27479934692383,-85.70464324951172
+"40206","Louisville","KY","Fitness on Frankfort","2726 Frankfort Ave","40206",38.254594894863615,-85.69261036496533
+"40207","Louisville","KY","Baptist Health/Milestone Wellness Center","750 Cypress Station Dr.","40207",38.241363643692715,-85.62665613043255
+"40207","Louisville","KY","Orangetheory Fitness","116 Sears Ave","40207",38.25338107493488,-85.6465877134738
+"40207","Louisville","KY","CYCLEBAR","4600 Shelbyville Road","40207",38.2505042,-85.6313251
+"40207","Louisville","KY","LA Fitness","4900 Shelbyville Rd","40207",38.24893317889946,-85.62711835574467
+"40207","Louisville","KY","B. You Fitness","3934 Chenoweth Square","40207",38.25444586962713,-85.65451814234197
+"40207","Louisville","KY","Mallgate Fitness Center","not_available","40207",38.24280548095703,-85.62548065185547
+"40207","Louisville","KY","Anytime Fitness","291 N. Hubbards Ln.","40207",38.2595,-85.63829
+"40207","Louisville","KY","HomeFit Personal Training Company","129 Saint Matthews Ave Ste D","40207",38.2540561,-85.6522306
+"40207","Louisville","KY","Derby City Cross Fit","139 Breckenridge Ln","40207",38.252036650193375,-85.65366992959439
+"40207","Louisville","KY","Fitness 19","2400 Lime Kiln Ln","40222",38.28666073306583,-85.62933187894286
+"40207","Louisville","KY","Camden Gym","2300 Glen Eagle Dr","40222",38.28617477416992,-85.62982177734375
+"40207","Louisville","KY","Urban Active","Shelbyville Rd","40207",38.25180520161377,-85.64356480318786
+"40207","Louisville","KY","CrossFit Louisville East","4014 Dutchmans Ln","not_available",38.23318099975586,-85.63330078125
+"40207","Louisville","KY","Yoga Integrated Science","211 Clover Ln","40207",38.256453,-85.650194
+"40207","Louisville","KY","Nachale","750 Cypress Station Dr","40207",38.241214,-85.626603
+"40207","Louisville","KY","CareFit Personal Training Studio","2425 Lime Kiln Ln Ste 102","40222",38.2863293,-85.62786899999999
+"40208","Louisville","KY","Station house","1500 S 5th St","40208",38.22620146106625,-85.76495859177608
+"40208","Louisville","KY","L.J. Butch Charmolli Gymnasium","110 cardinal blvd","40208",38.22116732468215,-85.75833594129097
+"40208","Louisville","KY","Hilton Garden Inn Gym","not_available","40209",38.20381844846584,-85.74908707699457
+"40208","Louisville","KY","Small Gym at Manual","120 W Lee St","40208",38.22163772583008,-85.75845336914062
+"40208","Louisville","KY","The Gym","SAC","40214",38.21762462260888,-85.7550557723915
+"40208","Louisville","KY","Humana Gymnasium","2301 Bradley Ave","40217",38.21421879975089,-85.74714823380583
+"40208","Louisville","KY","University of Louisville Crawford Gym","not_available","40208",38.215668851668475,-85.75762769527597
+"40209","Louisville","KY","Crowne Plaza Fitness Center","830 Phillips Lane","40209",38.19213104248047,-85.74076843261719
+"40209","Louisville","KY","Curves","3436 Preston Hwy","40213",38.195518493652344,-85.73079681396484
+"40209","Louisville","KY","Aspirations Gym","222 Eiler Ave","40214",38.165393,-85.756393
+"40209","Louisville","KY","Orrender Weight Loss Factory","1213 Wolfe Ave, Louisville, KY 40213","40213",38.19704055786133,-85.72997283935547
+"40209","Louisville","KY","BAE Systems Gym","163 Rochester Dr","40214",38.170854657275285,-85.76032777459237
+"40210","Louisville","KY","MSD CMF Gym","3050 Commerce Center Pl","40211",38.22077941894531,-85.81017303466797
+"40213","Louisville","KY","UAW Local 862","3000 Fern Valley Rd","40213",38.15703201570067,-85.7085191085329
+"40213","Louisville","KY","Bank Of America Gym","1231 Durrett Ln","40213",38.188996,-85.72382900000001
+"40213","Louisville","KY","Anytime Fitness","3622 Mall Rd","40218",38.19759,-85.67005
+"40213","Louisville","KY","Scheller's Fitness And Cycle","not_available","40219",38.13064782203212,-85.6820182588227
+"40213","Louisville","KY","Tanglewood Gym","500 Bermuda Ln","40213",38.160019,-85.716029
+"40213","Louisville","KY","The Cubby","Cliff Ave","40215",38.183627128601074,-85.77586948871613
+"40216","Louisville","KY","Saint Dennis Gym","not_available","40216",38.18706625,-85.83724515
+"40216","Louisville","KY","Dixie Manor YMCA","6801 Dixie Highway, Suite 113-L","40258",38.150723857094285,-85.83456344518201
+"40216","Louisville","KY","Encore Athletics","Terry Rd","40258",38.16522663108414,-85.85643809912938
+"40216","Louisville","KY","Crunch Fitness - Dixie","6801 Dixie Highway","40258",38.1513869,-85.8344999
+"40218","Louisville","KY","Fitness Factory","3099 Breckenridge Ln","40220",38.215637581708094,-85.62537266556352
+"40218","Louisville","KY","Studio 2 @ SEYMCA","5930 Six Mile Ln","40218",38.196058,-85.649581
+"40218","Louisville","KY","Dave's Gym","Home","40272",38.19268935982758,-85.61898862745494
+"40218","Louisville","KY","Fitness That Fits You","6032 Action Ave","40218",38.1940148,-85.6454624
+"40220","Louisville","KY","Blairwood Health & Fitness","9300 Blairwood Rd","40222",38.22609103832018,-85.5832354110773
+"40220","Louisville","KY","RP Fitness Center","Hurstbourne Park Blvd","40220",38.22369212626139,-85.58298423096568
+"40220","Louisville","KY","Crossfit: Regeneration","3250 Ruckriegel Prkwy","40299",38.19771529738788,-85.55793420147332
+"40220","Louisville","KY","Midamerica Sports Center","1906 Watterson Trl","40299",38.21749094243088,-85.5597907534501
+"40220","Louisville","KY","Strong Side CrossFit","2001 Production Dr","40299",38.21993637084961,-85.56172943115234
+"40220","Louisville","KY","Chestnut Ridge Apts. Fitness Center","9700-9798 Palmetto Cir","40299",38.201058,-85.576879
+"40220","Louisville","KY","St. Edward Gym","9600-9718 Sue Helen Dr","40299",38.19390434131922,-85.57960654028965
+"40220","Louisville","KY","LA Fitness","4620 Taylorsville Rd","40220",38.216746979454676,-85.5964895172727
+"40220","Louisville","KY","Plainview Gym","1000 Stone Spring Way","40223",38.231449127197266,-85.5753402709961
+"40220","Louisville","KY","Marriott Louisville East Fitness Center","not_available","40299",38.2182966804458,-85.57597080635625
+"40220","Louisville","KY","Zumba","10302 Bluegrass Pkwy","40299",38.22111892700195,-85.5632095336914
+"40220","Louisville","KY","IMpossible Fitness","10501 Bunsen Way","40299",38.21363067626953,-85.5592041015625
+"40220","Louisville","KY","Complete Performance Institute","10378 Bluegrass Pkwy","40299",38.22071075439453,-85.5633316040039
+"40220","Louisville","KY","TITLE Boxing Club","849 S Hurstbourne Pkwy","40222",38.2348097,-85.57584529999997
+"40220","Louisville","KY","Rocksport Climbing Gym","10901 Plantside Dr","40299",38.20903844663846,-85.55451508855353
+"40220","Louisville","KY","Trover Gym","9390 Bunsen Pkwy","40220",38.22238540649414,-85.5894775390625
+"40222","Louisville","KY","Shred415 Hurstbourne","9347 Leesgate Rd","40222",38.244885,-85.579861
+"40222","Louisville","KY","Louisville Athletic Club","9463 Westport Rd","40241",38.288073867229365,-85.57608570649107
+"40222","Louisville","KY","Pure Barre Louisville","1321 Herr Ln Ste 180","40222",38.2692851,-85.6138667
+"40222","Louisville","KY","Snap Fitness","1115 Herr Ln","40222",38.267233000000004,-85.611576
+"40222","Louisville","KY","Hilton Garden Inn Gym","9850 Park Plaza Ave","40241",38.310639,-85.576594
+"40222","Louisville","KY","Burn Bootcamp","230 N Hurstbourne Pkwy","40222",38.249711,-85.57989
+"40222","Louisville","KY","Planet Fitness","9244 Westport Rd","40242",38.28522872924805,-85.57930755615234
+"40222","Louisville","KY","Dirty Old Men Hangout","9436-9498 Mill Brook Rd","40223",38.267637,-85.578869
+"40223","Louisville","KY","Fitness Center Embassy Suites","not_available","40223",38.26477084989596,-85.57154423960725
+"40223","Louisville","KY","GymTyme Allstars","13000 Eastgate Park Way","40223",38.24863535985549,-85.51151986116174
+"40223","Louisville","KY","Owl Creek","Hobbs Station","40243",38.25922608973688,-85.55848348527097
+"40223","Louisville","KY","Tony Horton's Office","9625-B Ormsby Station Rd","not_available",38.26643426,-85.57334907
+"40223","Louisville","KY","CYCLEBAR - Middletown Station","12951 Shelbyville Road 101","40243",38.24416289175123,-85.51124932959101
+"40223","Louisville","KY","The Barre Code","12442 Shelbyville Rd","40243",38.244476,-85.523762
+"40223","Louisville","KY","Orangetheory Fitness","13317 Shelbyville Rd","40223",38.242766,-85.507724
+"40223","Louisville","KY","Mid America - East","2401 Stanley Gault Pkwy","40223",38.273658752441406,-85.51326751708984
+"40223","Louisville","KY","Anytime Fitness","10408 Shelbyville Rd","40223",38.24464,-85.56186
+"40223","Louisville","KY","Core Combat Sports","13124 Eastpoint Park Blvd","40223",38.2796965,-85.51454755
+"40223","Louisville","KY","Charter Gym","10300 Ormsby Park Pl","40223",38.26353073120117,-85.56639099121094
+"40223","Louisville","KY","Locker Soccer Academy","440 Commercial Dr","40223",38.24837875366211,-85.51616668701172
+"40223","Louisville","KY","Southeast Sports And Fitness Center","920 Bankenbaker Pkwy","40243",38.22745803811398,-85.54927971428582
+"40223","Louisville","KY","Powerhouse Gym","11706-11998 Wetherby Ave","40243",38.249101773376,-85.53528603381332
+"40223","Louisville","KY","Louisville Sports Medicine","Old Henry Rd","40223",38.26216932848883,-85.50848254067418
+"40228","Louisville","KY","Fighter’s Heaven","not_available","40291",38.159363,-85.605662
+"40228","Louisville","KY","Snap Fitness 24/7 Fern Creek / Highview","7517 Outer Loop","40228",38.139185,-85.62037600000001
+"40229","Louisville","KY","Anytime Fitness","5406 Antle Dr Ste 107","40229",38.08596,-85.66525
+"40229","Louisville","KY","Hester's Fitness","4300 E Blue Lick Rd","40229",38.08529816465357,-85.69940690677915
+"40241","Louisville","KY","Snap Fitness","9815 Brownsboro Rd","40241",38.31400910390229,-85.5670204898556
+"40241","Louisville","KY","Med Life Fit","10000 Brownsboro Rd Ste 7","40241",38.31410122308282,-85.5630998343239
+"40241","Louisville","KY","Orangetheory Fitness","4164 Summit Plaza Dr","40241",38.30693054199219,-85.57862091064453
+"40242","Louisville","KY","Woodbridge Gym","not_available","40242",38.2618529784213,-85.59314603708293
+"40243","Louisville","KY","Nature's Gym","not_available","40243",38.24936605167785,-85.5264186406461
+"40243","Louisville","KY","Fitness 19","109 Blankenbaker Pkwy","40243",38.243024415096976,-85.54468099514595
+"40243","Louisville","KY","Blue Grass Crossfit","13100 Middletown Industrial Blvd","40223",38.25188064575195,-85.50630950927734
+"40245","Louisville","KY","Anytime Fitness","2300 Terra Crossing Blvd","40245",38.27109,-85.49599599999999
+"40245","Louisville","KY","Norton Sports Performance and Wellness Center","12101 Sycamore Station Pl","40299",38.21942088465855,-85.5282616821681
+"40245","Louisville","KY","KGA","1920 Stanley Gault Pkwy","40223",38.267496,-85.511758
+"40245","Louisville","KY","All About Kids","2531 Blakenbaker Pkwy","40299",38.20775736924246,-85.53787173359656
+"40258","Louisville","KY","Horseshoe Hotel Exercise Room","not_available","47117",38.1798163565614,-85.90502849935321
+"40272","Louisville","KY","Snap Fitness Gym","dixie hwy","40272",38.108425218828614,-85.86541201329563
+"40272","Louisville","KY","vxc","10714 dixie highway","not_available",38.098230564891004,-85.86994523560692
+"40291","Louisville","KY","Workout Anytime Louisville","9300 Cedar Center Way","40291",38.14467304891483,-85.587894583069
+"40291","Louisville","KY","Langley Gym","7712 Hall Farm Dr","40291",38.13123321533203,-85.56391906738281
+"40291","Louisville","KY","Fern Creek Fit Body Boot Camp","6431 Bardstown Rd","40291",38.153314,-85.587242
+"40291","Louisville","KY","Workout Anytime","9350 Cedar Center Way","40291",38.1449,-85.588224
+"40299","Louisville","KY","Body Evolution","4620 Hendrik Dr","40299",38.184723,-85.60854300000001
+"40299","Louisville","KY","Anytime Fitness","12613 Taylorsville Rd","40299",38.18914,-85.51882
+"40313","Clearfield","KY","Every Bodies Fitness Center","400 E Wilkinson Blvd","40351",38.182085865131654,-83.43242883682251
+"40313","Clearfield","KY","Lakeside Gym","not_available","40351",38.15505207687632,-83.4629614697347
+"40324","Georgetown","KY","Elite Fitness","not_available","40324",38.187625885009766,-84.5644760131836
+"40324","Georgetown","KY","Keytown's Gym","not_available","40511",38.18354705795729,-84.56140714933015
+"40324","Georgetown","KY","The Office Gym","1000 Tempur Way","not_available",38.217215,-84.51983
+"40324","Georgetown","KY","Fitness Finally","126 E Main St","40324",38.209669,-84.559135
+"40324","Georgetown","KY","Georgetown MMA","751 Slone Dr #4","40324",38.197261810302734,-84.56288146972656
+"40324","Georgetown","KY","The Gym","Mary Lynn Dr","40324",38.18047921305483,-84.55782944136156
+"40324","Georgetown","KY","Fitness 209","209 Quail Run Dr","40324",38.213497161865234,-84.5632095336914
+"40330","Harrodsburg","KY","Fitness Edge","not_available","40330",37.74117632003589,-84.84224576153929
+"40330","Harrodsburg","KY","Image Fitness","1010 Colton Dr","40330",37.77854537963867,-84.84430694580078
+"40336","Irvine","KY","Everybody's Gym","932 Richmond Rd","40336",37.698280334472656,-83.98792266845703
+"40342","Lawrenceburg","KY","fitness firm","not_available","40342",38.03545,-84.90531027317047
+"40342","Lawrenceburg","KY","Workout Anytime Lawrenceburg, KY","755 W Broadway St","40342",38.020247,-84.906872
+"40351","Morehead","KY","Wellness Center - Morehead State University","University Blvd.","40351",38.19180049853966,-83.42695713043213
+"40351","Morehead","KY","Barkers Gym","445 Baseline Dr, Morehead, KY 40351","40351",38.21929168701172,-83.55406188964844
+"40351","Morehead","KY","Don Hardin's Gym Dandys","Flemingsburg Road","not_available",38.229866,-83.494946
+"40353","Mount Sterling","KY","Snap Fitness","not_available","40353",38.07307226658973,-83.94950675660915
+"40353","Mount Sterling","KY","Downtown Athletic Club","Main street","not_available",38.056484999999995,-83.940309
+"40356","Nicholasville","KY","Bridle Creek Fitness Center","not_available","40503",37.982245737029224,-84.52564372909927
+"40356","Nicholasville","KY","Fitness 19","3650 Boston Road","not_available",37.979917133715546,-84.54896704954152
+"40356","Nicholasville","KY","Snap Fitness","not_available","40515",37.96229161837604,-84.49832607022233
+"40356","Nicholasville","KY","Gym At Park Place","not_available","40502",37.99239919,-84.46110003
+"40356","Nicholasville","KY","Flourish","3440 Richmond Rd","40509",37.995959067340664,-84.44054091070393
+"40356","Nicholasville","KY","Shapes Fitness Center","3120 Pimlico Pkwy","40517",37.984722,-84.46136700000001
+"40356","Nicholasville","KY","University Athletics","3996 Mooncoin Way","40515",37.96995,-84.51548
+"40356","Nicholasville","KY","Sky Zone Lexington","3644 Boston Rd","40514",37.9801655,-84.5481886
+"40356","Nicholasville","KY","X Gym","not_available","40513",37.98995524538679,-84.59897621606075
+"40356","Nicholasville","KY","Xcel Sport Science & Fitness","3644 Boston Road Suite 120","40514",37.98037599530604,-84.54885483638424
+"40356","Nicholasville","KY","Lilly's Workout Room","Teton","40515",37.983664,-84.457136
+"40356","Nicholasville","KY","Wildcat Fitness","4750 Hartland Parkway #120","40515",37.96151541462102,-84.47984063013408
+"40356","Nicholasville","KY","CYCLEBAR","4049 Finn Way","40517",37.97823710796986,-84.52799886137694
+"40356","Nicholasville","KY","The Gym","not_available","40444",37.7602272,-84.63039527
+"40356","Nicholasville","KY","Snap Fitness","977 S Main St","40356",37.866633,-84.580078
+"40356","Nicholasville","KY","Curves of Nicholasville","not_available","40356",37.873089,-84.597843
+"40356","Nicholasville","KY","Fitness Center at The Raquet Club","3900 Crosby Dr","40515",37.96617126464844,-84.48760223388672
+"40356","Nicholasville","KY","Lexington Athletic Club","3882 Mall Rd","40503",37.98274342641259,-84.53180375416511
+"40356","Nicholasville","KY","HealthwoRx Fitness And Wellness Center","Lexington Green","not_available",37.9945220249973,-84.52623189606133
+"40356","Nicholasville","KY","Women's Fun and Fitness","618 Edgewood Dr","40356",37.871299743652344,-84.59586334228516
+"40356","Nicholasville","KY","Legacy Cheer and Dance","Ruccio Way","40503",37.99707361125936,-84.52991857904578
+"40361","Paris","KY","Snap Fitness","2232 Martin Luther King Jr Blvd","40361",38.20684814453125,-84.27307891845703
+"40361","Paris","KY","Gym At Wellington","508 East Main","40361",38.220723,-84.236113
+"40361","Paris","KY","YMCA","917 Main St","40361",38.20867522738509,-84.25326541624243
+"40361","Paris","KY","Xtreme Fitness","Main St.","40361",38.20942604481423,-84.25228357315063
+"40361","Paris","KY","Fitness Center","5751 Briar Hill Rd","40516",38.07276916503906,-84.31793212890625
+"40383","Versailles","KY","Snap Fitness","479 Lexington Rd","40383",38.05167921920465,-84.71603193376845
+"40383","Versailles","KY","Workout Anytime","480 Lexington Rd","40383",38.04998646938067,-84.71639004304946
+"40385","Waco","KY","Zumba At Home","Waco Heights","40385",37.7478730989258,-84.15167786506434
+"40391","Winchester","KY","Planet Fitness","939 Bypass Rd","40391",38.002273965453114,-84.2140513580706
+"40391","Winchester","KY","Every Ladies Health & Fitness","Bypass Rd.","40391",38.002904,-84.213101
+"40391","Winchester","KY","Transformation  Personal Training","100 Hud Rd","40391",38.01378631591797,-84.22575378417969
+"40391","Winchester","KY","BGS Gym","not_available","40516",38.04671644020954,-84.33082965058202
+"40403","Berea","KY","New Energy Fitness Of Berea","217 Pauline Dr","40403",37.598628997802734,-84.32331848144531
+"40422","Danville","KY","Every Day Fitness","5347 Alum Springs Rd","40422",37.594913482666016,-84.86917114257812
+"40422","Danville","KY","Club Fit 24/7 Of Danville","not_available","40422",37.62048600446604,-84.77440553111565
+"40422","Danville","KY","Workout Anytime Danville","2900 S. Danville Bypass","40422",37.61748504638672,-84.78160095214844
+"40456","Mount Vernon","KY","Rockcastle Hospital Fitness Center","not_available","40456",37.358221,-84.336458
+"40475","Richmond","KY","Anytime Fitness","469 Eastern Byp","40475",37.737778000000006,-84.309859
+"40475","Richmond","KY","Get Fit Athletic Club","108 Bayview Rd","40475",37.72669,-84.27037
+"40475","Richmond","KY","Fitness With Faith","116 S Keeneland Dr","40475",37.77533379399603,-84.32007683263858
+"40475","Richmond","KY","First Step Fitness","2187 Lexington Rd","40475",37.7772331237793,-84.3238525390625
+"40475","Richmond","KY","Racket Ball Court","Ymca","not_available",37.74347820919833,-84.28263249789143
+"40475","Richmond","KY","Curves Of richmond","not_available","40475",37.737988153560046,-84.26830300968297
+"40475","Richmond","KY","Rich City CrossFit","S. Keeneland dr","40475",37.765648983039135,-84.31895632302805
+"40475","Richmond","KY","Winnie's Workout Wing","Redwood Drive","40475",37.718573,-84.371106
+"40475","Richmond","KY","Poynter's Iron Pit","924 Commercial Dr","40475",37.735388695968545,-84.27044159787835
+"40475","Richmond","KY","YMCA","1100 E Main St","40475",37.743565991872885,-84.28234666168211
+"40475","Richmond","KY","Richmond School of Karate","968 Commercial Dr","40475",37.73767,-84.26835
+"40475","Richmond","KY","First Step Fitness","206 Wayne Dr","40475",37.734622955322266,-84.3135986328125
+"40475","Richmond","KY","Zumba With Ondy","Berea Road","40403",37.726602035773766,-84.27262741377035
+"40475","Richmond","KY","Richmond Athletic Club","528 Eastern Byp","40475",37.7354955201802,-84.30958207372309
+"40475","Richmond","KY","Best Western Fitness Center","2139 Lantern Ridge Dr","40475",37.73788070678711,-84.32737731933594
+"40484","Stanford","KY","Precision Fitness","109 Lily St","40484",37.535865783691406,-84.65423583984375
+"40502","Lexington","KY","Holiday Inn Gym","not_available","40504",38.03437,-84.513822
+"40502","Lexington","KY","Orangetheory Fitness","2369 Richmond Rd","40502",38.0157637,-84.4609512
+"40502","Lexington","KY","Maximus CrossFit","821 National Ave","40502",38.039602784117506,-84.47737866733527
+"40502","Lexington","KY","Lex Fitness","not_available","40517",38.00890598712694,-84.45495802460583
+"40502","Lexington","KY","The FIT Warehouse","130 Downs Ave","not_available",38.02945002918099,-84.45615111132831
+"40502","Lexington","KY","Daisy Hill","1606-1698 Liberty Rd","40505",38.036594666666666,-84.46283848333333
+"40502","Lexington","KY","Bernard M. Johnson Student Recreation Center","177 Johnson Ctr","40506",38.02774829798266,-84.50407159195626
+"40502","Lexington","KY","Personal Best Fitness Center","not_available","40505",38.040625821757494,-84.47993520592884
+"40502","Lexington","KY","Revolution Fitness","707 Downs Ave Ste 150","40505",38.02949142456055,-84.45714569091797
+"40502","Lexington","KY","Fitness Plus","831 National Ave","40502",38.03936004638672,-84.47708129882812
+"40503","Lexington","KY","Beaumont Centre YMCA","3250 Beaumont Centre Cir","40513",38.01684687882832,-84.56231001012166
+"40503","Lexington","KY","LA Fitness","1028 Wellington Way","40513",38.00526739169964,-84.57046789498199
+"40503","Lexington","KY","The Gym at Beaumont Farms","1101 Beaumont Centre Ln","40513",38.02338409423828,-84.56127166748047
+"40503","Lexington","KY","RI Fitness Center","Wall Street","40513",38.01791907693381,-84.55292836689965
+"40503","Lexington","KY","J&m Strength And Conditioning","2551 Regency Rd","40503",38.00182342529297,-84.52545166015625
+"40503","Lexington","KY","Big Blue Strength","242 Southland Dr","40503",38.013318,-84.521438
+"40503","Lexington","KY","TITLE Boxing Club Lexington","171 W Lowry Ln Ste 168","40503",38.00697672099061,-84.52057174682619
+"40503","Lexington","KY","Bikram Yoga Lexington","185 Pasadena Dr","40503",38.00446916230985,-84.52179093570656
+"40503","Lexington","KY","Orangetheory Fitness","4040 Finn Way","40517",37.97738,-84.527777
+"40503","Lexington","KY","Health Club at Hilton Lexington Suites","245 Lexington Green Cir","40503",37.99568176269531,-84.52498626708984
+"40503","Lexington","KY","Dr Leo Boisverto","110 Malabu Dr","40503",38.003117571600114,-84.51820721289599
+"40503","Lexington","KY","Edge Body Boot Camp","433 Southland Dr","40503",38.019081115722656,-84.52662658691406
+"40503","Lexington","KY","Workout Anytime","3630 Boston Rd","40514",37.97874355790949,-84.54983711242676
+"40504","Lexington","KY","524 Angliana Gym","524 Angliana Ave","40508",38.046987138238485,-84.52945951689793
+"40504","Lexington","KY","Glenn Ford's Fitness Center","1812 Oxford Cir","40504",38.04883433591047,-84.54060966911563
+"40505","Lexington","KY","Exalted Fitness","1532 N Limestone #2135","40505",38.06427,-84.471062
+"40505","Lexington","KY","Gym at Hamburg Farms","not_available","40509",38.028875923583705,-84.4254077823495
+"40505","Lexington","KY","Promatx","1591 Winchester Rd Ste 111","40505",38.043125241632815,-84.45001125647063
+"40507","Lexington","KY","High Street YMCA","239 E High St","40507",38.042527,-84.495316
+"40507","Lexington","KY","UK Body Shop","not_available","40508",38.04159607711007,-84.50367889472318
+"40507","Lexington","KY","Gym @ Gratz Park Inn","120 W Second St","40507",38.0485473061519,-84.4947874546051
+"40507","Lexington","KY","Blackburn Gym","Johnson Highway","40511",38.05080562378054,-84.48911621931182
+"40507","Lexington","KY","Calvary ROC","150 E High St","40507",38.043855,-84.498199
+"40507","Lexington","KY","Proof Fitness Downtown","230 W Main St Fl 7","40507",38.047297,-84.498744
+"40507","Lexington","KY","Park Plaza Clubhouse/Gym","120 E Main St Fl 8","40507",38.04536056518555,-84.49688720703125
+"40507","Lexington","KY","Urban Active","230 W Main St","40507",38.0475870408984,-84.49870555805893
+"40507","Lexington","KY","Hyatt Gym","401 W High St","40507",38.04827880859375,-84.50153350830078
+"40508","Lexington","KY","YMCA North Lexington","381 W Loudon Ave","40508",38.064176,-84.495746
+"40508","Lexington","KY","The Salvation Army Boys & Girls Club","736 W Main St","40508",38.053260803222656,-84.5058822631836
+"40508","Lexington","KY","CycleYOU","165 Midland Ave","40508",38.04197,-84.48781
+"40508","Lexington","KY","Herald-Leader Workout Room","100 Midland Ave","40508",38.041316986083984,-84.48771667480469
+"40508","Lexington","KY","Ultimate Ninja","120 Payne St","40508",38.0550837,-84.5057379
+"40509","Lexington","KY","LA Fitness","3001 Blake James Dr","40509",38.00865211620508,-84.43534114423527
+"40509","Lexington","KY","Raintree Clubhouse","175 N Locust Hill Dr","40509",38.0065803527832,-84.44481658935547
+"40509","Lexington","KY","The Little Gym","3101 Richmond Rd","40509",38.00272051923626,-84.44443550529708
+"40509","Lexington","KY","D. R Fitness","2428 Palumbo Dr","40509",38.019943098833636,-84.44859100049545
+"40509","Lexington","KY","Ashland Inc Fitness Center","3499 Blazer Pkwy, Lexington, KY 40509","40509",38.00146581761852,-84.43478279863731
+"40509","Lexington","KY","Premier Athletics","1850 Bryant Rd Ste 110","40509",38.015917,-84.415719
+"40509","Lexington","KY","iLoveKickboxing - Lexington, KY","2308 Sir Barton Way, Suite 190","40509",38.02385,-84.42153809999999
+"40509","Lexington","KY","Bluegrass Tennis Club","3029 Blake James Dr","40509",38.008636474609375,-84.43352508544922
+"40509","Lexington","KY","Crush 24/7","3101 Richmond Rd Ste 200","40509",38.0037507,-84.44443389999999
+"40509","Lexington","KY","Drfitnessystems","Richmond Rd","40509",38.005516359246904,-84.44776929882865
+"40509","Lexington","KY","Studio 23 Fitness","2925 Richmond Rd","40509",38.0041031,-84.4479928
+"40509","Lexington","KY","LiveWELL Training Club","2909 Richmond Rd","40509",38.005924,-84.447525
+"40510","Lexington","KY","BodyFit Warehouse","500 Horton Ct","40511",38.08586120605469,-84.539794921875
+"40511","Lexington","KY","Snap Fitness","129 Towne Center Dr","40511",38.06678141353365,-84.53047357746371
+"40513","Lexington","KY","Iron Will Fitness Studio","4383 Old Harrodsburg Rd Ste 155","40513",37.9967148,-84.58450479999999
+"40513","Lexington","KY","Snap Fitness","4391 Old Harrodsburg Rd","40513",37.996376,-84.58554000000001
+"40514","Lexington","KY","The Ballroom House","178 Bellerive Blvd","40356",37.983809831925015,-84.59006986627043
+"40515","Lexington","KY","The Enclave at Hartland Fitness Center","3901 Rapid Run Dr, Lexington, KY 40515","40515",37.96506118774414,-84.48521423339844
+"40515","Lexington","KY","Stone Falls Fitness Center","2020 Armstrong Mill Rd, Lexington, KY 40515","40515",37.969547271728516,-84.47359466552734
+"40517","Lexington","KY","gym","4057","40515",37.970345,-84.519042
+"40601","Frankfort","KY","Planet Fitness","101 Allen Way","40601",38.17863464355469,-84.81623077392578
+"40601","Frankfort","KY","YMCA","402 W Broadway St","40601",38.201132,-84.87869
+"40601","Frankfort","KY","YMCA","77 C Michael Davenport Blvd","40601",38.15996379278115,-84.91715205109877
+"40601","Frankfort","KY","Fit-Time For Women","102 Brighton Park Blvd","40601",38.19714501191884,-84.82897294857598
+"40601","Frankfort","KY","Capitol fitness","not_available","40601",38.196584,-84.895738
+"40601","Frankfort","KY","Frankfort Athletic Center","830-842 E Main St","40601",38.20490044874275,-84.84021485419244
+"40601","Frankfort","KY","ELITE Fitness Frankfort","193 Versailles Rd","40601",38.2027363,-84.83463739999999
+"40601","Frankfort","KY","FCHS: Gym","1100 E Main St","40601",38.211956,-84.82681099999999
+"40601","Frankfort","KY","Workout Anytime","809 Louisville Rd","40601",38.183842,-84.885936
+"40701","Corbin","KY","Baptist Family Fitness Center","440 W Cumberland Gap Pkwy","40701",36.97585678100586,-84.10273742675781
+"40701","Corbin","KY","Baptist Family Fitness","not_available","40701",36.96683363147922,-84.08494542717472
+"40701","Corbin","KY","Workout Anytime","1019 Cumberland Falls Hwy, Ste 105","40701",36.92870873864866,-84.10546213388443
+"40734","Gray","KY","Stivers Aquatic & Wellness Center","105 Center St","40906",36.86564786958015,-83.88809323310852
+"40741","London","KY","Celebration Bus","not_available","40744",37.052417,-84.147205
+"40741","London","KY","Powerhouse Gym","649 Meyers Baker Rd","40741",37.11574960727062,-84.09065225416096
+"40965","Middlesboro","KY","Sleep Inn workout room","not_available","40965",36.624488830566406,-83.70010375976562
+"41001","Alexandria","KY","Planet Fitness","7009 Alexandria Pike","41001",38.985565,-84.399027
+"41001","Alexandria","KY","Snap Fitness","7017 Alexandria Pike","41001",38.986005,-84.399151
+"41001","Alexandria","KY","Body Dynamics","8109 Alexandria Pike #1","41001",38.961187373962545,-84.39389469052166
+"41005","Burlington","KY","Orangetheory Fitness","not_available","41091",38.961427,-84.678921
+"41005","Burlington","KY","Planet Fitness","401 W Eads Pkwy, Unit 200","47025",39.09564,-84.865346
+"41005","Burlington","KY","The Crossings Of Oakbrook Main Office/Gym/Pool","6220 Crossings Dr","41005",39.01609113944689,-84.68834086498862
+"41005","Burlington","KY","Snap Fitness","1990 N Bend Rd","41048",39.08916501594389,-84.71141898801275
+"41005","Burlington","KY","OUG Gym","13B , Taman Overseas Union","41091",38.946377,-84.725833
+"41005","Burlington","KY","R.C. Durr YMCA","5874 Veterans Way","41005",39.02343146331589,-84.7076708979081
+"41005","Burlington","KY","Extreme Fitness And Tan","100-198 Indiana 56 Scenic","47040",38.948987125592325,-84.85416904150593
+"41005","Burlington","KY","Lbg community gym","Walnut street","47025",39.09492572938509,-84.85267240522762
+"41005","Burlington","KY","Sayler Park Recreation Center","6720 Home City Ave","45233",39.116729736328125,-84.6911392211914
+"41005","Burlington","KY","Brock's Gym","not_available","41042",38.98408047255893,-84.6866276193056
+"41005","Burlington","KY","Planet Fitness","not_available","47025",39.095467,-84.864783
+"41005","Burlington","KY","Anytime Fitness","I-275","41080",39.08670425415039,-84.79255676269531
+"41005","Burlington","KY","RC Durr YMCA Day Camp","Veteran's Way","41005",39.01992335,-84.69456565
+"41005","Burlington","KY","Shell's gym","not_available","41080",39.014608,-84.785328
+"41005","Burlington","KY","Colonel's Gym West","not_available","41048",39.10725733945168,-84.73921705117232
+"41007","California","KY","Home Gym","not_available","45157",38.955271,-84.274401
+"41008","Carrollton","KY","Wattsys House Of Iron","1209 Highland Ave","41008",38.682802,-85.167039
+"41011","Covington","KY","pure barre ft wright","3420 Valley Plaza Pkwy # H","41017",39.03725535596842,-84.53698359391785
+"41011","Covington","KY","Courtyard Fitness Center","not_available","41011",39.088151925645505,-84.51943609024362
+"41011","Covington","KY","Gym","not_available","45203",39.09181119201225,-84.51601053005831
+"41011","Covington","KY","Becca' Gym","518 Main St","41011",39.084936,-84.517249
+"41011","Covington","KY","RiverCenter Health Club","50 E Rivercenter Blvd, Covington, KY 41011","41011",39.08982849121094,-84.51090240478516
+"41011","Covington","KY","P 90X Destruction Zone","707 Francis Ln","41011",39.05660465,-84.51578091666667
+"41011","Covington","KY","YOLO Fitness","1516 Dixie Hwy","41011",39.067782,-84.52981700000001
+"41011","Covington","KY","Swing This Kettlebell Studio","3622 Decoursey Ave","41015",39.04204641073856,-84.51027521019115
+"41011","Covington","KY","CrossFit Covington","632 Russell St","41011",39.083568156961405,-84.51309566731567
+"41011","Covington","KY","Solid Body Personal Training","2465 Dixie Hwy","41017",39.037073,-84.55921699999999
+"41011","Covington","KY","Bootcamp","Russell Street","not_available",39.08093124,-84.51272068
+"41011","Covington","KY","Covington Turner Society Inc","447 Pike St","41011",39.07782326727682,-84.51716346596498
+"41011","Covington","KY","mikes gym","not_available","41015",39.048465728759766,-84.5042953491211
+"41015","Latonia","KY","Campus Recreation","Northern Ky University","41099",39.02936809268945,-84.46610634130374
+"41015","Latonia","KY","Granite Spring Gym","Silver Ledge","41076",39.0150824509918,-84.44417953491211
+"41015","Latonia","KY","Independence Body Shape","not_available","41051",38.955776033333336,-84.52071191666667
+"41015","Latonia","KY","Matt's Gym","not_available","41017",38.97679138183594,-84.52117156982422
+"41015","Latonia","KY","highland ridge fitness center","1400 Highland Ridge Blvd, Highland Heights, KY 41076","41076",39.039710998535156,-84.46212768554688
+"41015","Latonia","KY","Forest Ridge Gym","Martha Layne Collins Blvd","41076",39.02643321744967,-84.45805275953326
+"41015","Latonia","KY","GCC Gym","not_available","41076",39.043732978091725,-84.46201988064495
+"41015","Latonia","KY","Fidela-Gym #2","100 Crosby Pkwy","41015",39.0266,-84.52176700000001
+"41015","Latonia","KY","Brookstone Crossing Gym","6416 Ridgeline Dr","41076",39.004484404426044,-84.43917565156633
+"41017","Ft Mitchell","KY","Better Bodies","2230 Grandview Dr.","41017",39.050813,-84.570358
+"41017","Ft Mitchell","KY","Tri-State Running Company","148 Barnwood Dr","41017",39.0191388,-84.5755516
+"41017","Ft Mitchell","KY","LA Fitness","550 Clock Tower Way","41017",39.05138515259888,-84.57275390625
+"41017","Ft Mitchell","KY","Healthwarehouse.com Spa, Arcade and Fitness Center","7107 Industrial Rd","41042",38.97974663353983,-84.61785742335852
+"41017","Ft Mitchell","KY","whitaker training","not_available","45238",39.085013495433586,-84.59443035013581
+"41017","Ft Mitchell","KY","Griffin Sports Elite","not_available","41018",39.04078034919616,-84.588554455851
+"41017","Ft Mitchell","KY","Curves","Amsterdam rd.","41017",39.05307360031165,-84.5972325684083
+"41017","Ft Mitchell","KY","Catalyst Wellness Solustions","555 Centre View Blvd","41017",39.020893,-84.55906
+"41017","Ft Mitchell","KY","Crossfit The Tracks","32E Kenton Lands Rd.","not_available",39.02148068224727,-84.59133650273692
+"41017","Ft Mitchell","KY","Columbia sussex-GYM","740 Centre View Blvd","41017",39.023963,-84.55068100000001
+"41017","Ft Mitchell","KY","Ft Thomas Crossfit","947 Helen Ruth Dr","41017",39.01470184326172,-84.53350067138672
+"41017","Ft Mitchell","KY","CrossFit Y'all","6555 Nicholas St Ste 6B","41042",39.00617599487305,-84.61872100830078
+"41018","Erlanger","KY","Crunch - Florence","77 Spiral Drive","41042",39.01036181,-84.64249727
+"41018","Erlanger","KY","LA Fitness","430 Meijer Dr","41042",39.00992836233311,-84.63754010899203
+"41018","Erlanger","KY","Spirit Athletics","7513 Sussex Dr","41042",38.984078000000004,-84.632832
+"41018","Erlanger","KY","CrossFit Hustle","1325 Donaldson Hwy","41042",39.036794822611,-84.63423976374388
+"41018","Erlanger","KY","Ryan Smith fitness","71 Cavalier Blvd","41042",39.008060455322266,-84.63713073730469
+"41018","Erlanger","KY","The PR!DE Cheer Academy","25 Cavalier Blvd","41042",39.008346,-84.631854
+"41018","Erlanger","KY","Schuerman Fitness","245 Main St","41042",39.002035,-84.62583199999999
+"41018","Erlanger","KY","Balluff Fitness Center","8125 Holton Dr","41042",38.975162,-84.60694699999999
+"41018","Erlanger","KY","Son Of Siam","32 Kenton Lands Rd","41018",39.025065999999995,-84.591522
+"41018","Erlanger","KY","All American Athletic Training Center","7944 Tanners Gate Ln","41042",38.9942626953125,-84.64391326904297
+"41018","Erlanger","KY","Citi Wellness Center","4600 Houston Rd","41042",39.024845123291016,-84.62089538574219
+"41035","Dry Ridge","KY","Body Works Gym","Dry Ridge, KY","41035",38.676740505809036,-84.58500626524466
+"41035","Dry Ridge","KY","Body Works","90 S Main St","41035",38.67660140991211,-84.58467102050781
+"41039","Ewing","KY","DSM GYM","not_available","41041",38.384998182846864,-83.76389087781142
+"41042","Florence","KY","iLoveKickboxing - Florence, KY","8537 US 42","41042",38.97337,-84.65978
+"41042","Florence","KY","All Star Performance Training","8419 US Highway 42 Ste A","41042",38.977901458740234,-84.65435791015625
+"41042","Florence","KY","Fitworks","7541 Mall Rd","41042",39.002250845770156,-84.65392832531785
+"41042","Florence","KY","Crossfit Northern Kentucky","5785 Constitution Dr Ste B","41042",39.01594924926758,-84.66899871826172
+"41042","Florence","KY","Snap Fitness","8578 Almahurst Trail","41042",38.974098205566406,-84.64925384521484
+"41042","Florence","KY","Woodspring Fitness Center","550 Mount Zion Rd","41042",38.96053695678711,-84.63836669921875
+"41042","Florence","KY","Juggernaut Fitness","5775 Constitution Dr Ste F","41042",39.016133,-84.668422
+"41042","Florence","KY","Fitworks","Mall Road","41042",38.991921707231576,-84.64836964339788
+"41048","Hebron","KY","Western Tennis and Fitness Center","5490 Muddy Creek Rd","45238",39.134974,-84.62367200000001
+"41048","Hebron","KY","Bally Total Fitness","3694 Werk Rd","45248",39.14358502488245,-84.62562370260639
+"41051","Independence","KY","Dominach's Taekwondo Academy","2148 Declaration Dr","41051",38.92779662228075,-84.54634065430189
+"41051","Independence","KY","Snap Fitness","2168 Declaration Dr","41051",38.927671054054144,-84.5465088644038
+"41051","Independence","KY","Anytime Fitness","1920 Declaration Dr","41051",38.931621,-84.54813399999999
+"41056","Maysville","KY","Curves","not_available","41056",38.63787078857422,-83.78502655029297
+"41056","Maysville","KY","WWC Wrestling","not_available","45101",38.65377255,-83.7588257
+"41071","Newport","KY","Orangetheory Fitness","187 Pavilion Pkwy","41071",39.086653110153726,-84.47617358440024
+"41071","Newport","KY","Crunch Fitness - Newport","1751 Monmouth St","41071",39.0833097,-84.4800657
+"41071","Newport","KY","Gym","Aspen Pines Dr","41071",39.062250638216426,-84.48392133651683
+"41071","Newport","KY","NewCov CrossFit","15 West 6th Street","41071",39.0907243,-84.4957116
+"41071","Newport","KY","River city Barbell","18 E 6th St","41071",39.090834,-84.494056
+"41071","Newport","KY","The Fusion Studio","648 Monmouth St","41071",39.09023666381836,-84.49274444580078
+"41071","Newport","KY","Monmouth St Gym","721 Monmouth St","41071",39.089905,-84.49167
+"41071","Newport","KY","Locomotion","not_available","41071",39.09541161037155,-84.4958422399332
+"41071","Newport","KY","W&s Gym","not_available","45202",39.09970683417925,-84.50527682844319
+"41071","Newport","KY","Martin Paul Fitness","1 Levee Way","41071",39.08883504806725,-84.49396133422852
+"41071","Newport","KY","Factorback Fitness","not_available","41075",39.085832,-84.465497
+"41071","Newport","KY","Crossfit SOTO","640 Alexandria Pike Ste A","41075",39.065349,-84.455541
+"41073","Bellevue","KY","LA Fitness","119 Fairfield Ave Ste 200","41073",39.10363417133827,-84.48729328392467
+"41073","Bellevue","KY","My Gym","715 Fairfield Ave","41073",39.109119,-84.480291
+"41074","Dayton","KY","The Edgecliff Gym","not_available","45206",39.11996098307379,-84.48519192252527
+"41074","Dayton","KY","YMCA Dayton","647-699 2nd Ave","41074",39.115921,-84.473926
+"41075","Fort Thomas","KY","beneFIT Studio","3913 Eastern Ave","45226",39.10971170547179,-84.43368042346853
+"41075","Fort Thomas","KY","YMCA","1437 S Fort Thomas Ave","41075",39.060125354065036,-84.45236844964421
+"41076","Newport","KY","AMP","Sonny Dr","45244",39.065327,-84.388575
+"41080","Petersburg","KY","Anytime Fitness","102 Sycamore Ests Dr","47001",39.07832,-84.89137
+"41080","Petersburg","KY","Crossfit OTR","1 Shurlite Dr","47025",39.080467224121094,-84.88247680664062
+"41091","Union","KY","Woodsprings Gym","551 Mt Zion Rd","41042",38.95958564691947,-84.63679132698078
+"41094","Walton","KY","Wartman Brothers Gym","not_available","41094",38.868043,-84.612775
+"41094","Walton","KY","Snap Fitness 24/7","11085 Clay Dr","41094",38.9168815612793,-84.63516235351562
+"41101","Ashland","KY","Planet Fitness","711 Martin Luther King Jr Blvd Ste 160","41101",38.477152000000004,-82.649377
+"41101","Ashland","KY","Anytime Fitness","372 Diederich Blvd","41101",38.5019,-82.68188
+"41101","Ashland","KY","vitality center","Bellefonte Cir, Russell, KY 41101","41101",38.51570511354152,-82.68318956243711
+"41101","Ashland","KY","apPrep Ironton","1612 S 2nd St","45638",38.522090911865234,-82.67594909667969
+"41101","Ashland","KY","mussetter family fitness","not_available","41101",38.47532401726616,-82.64170006403887
+"41101","Ashland","KY","Treadmill Of Doom","not_available","41102",38.47608947753906,-82.67822265625
+"41101","Ashland","KY","American Health Centers","Winchester Ave","not_available",38.48028022368987,-82.6430841717472
+"41101","Ashland","KY","Ashland Area YMCA","3232 Old 13th St","41102",38.45806386440388,-82.66203209653024
+"41102","Ashland","KY","The Gym","7707 US Route 60","41102",38.422393798828125,-82.70209503173828
+"41129","Catlettsburg","KY","C-K Community Center","Poplar Street","25507",38.39951974479014,-82.57446475836448
+"41139","Flatwoods","KY","Health Flex Fitness","2135 Argillite Rd","41139",38.52002716064453,-82.72169494628906
+"41139","Flatwoods","KY","Fitness world","900 Cherokee Rd","41169",38.539414,-82.717347
+"41143","Grayson","KY","American Health Center","not_available","41143",38.34459686279297,-82.9387435913086
+"41144","Greenup","KY","Claire's Mini Gym","Waterfront Road","41144",38.57753,-82.834071
+"41175","South Shore","KY","Planet Fitness","4000 Rhodes Ave","45662",38.751195,-82.933471
+"41175","South Shore","KY","Anytime Fitness","4645 Gallia St","45662",38.75372,-82.91985
+"41175","South Shore","KY","Fitness Plus 24","614 Glover St","45662",38.735071999999995,-82.986277
+"41175","South Shore","KY","Portsmouth Spartan Kettlebell Club - PSKC","618 11th St","45662",38.739146000000005,-82.999751
+"41216","East Point","KY","Underground Fitness Zumba","Kentucky 321, KY","41222",37.75215530395508,-82.78275299072266
+"41224","Inez","KY","My personal Insanity gym","James Ln, Inez, KY 41224","41224",37.84517037482325,-82.52250088926426
+"41240","Paintsville","KY","Curves","433 S Mayo Trail","41240",37.82643127441406,-82.82293701171875
+"41267","Warfield","KY","My Personal TurboFire Gym","Off Road","41267",37.897972992693305,-82.43747936129259
+"41465","Salyersville","KY","Miss Fit Studio","not_available","41465",37.751244,-83.071664
+"41472","West Liberty","KY","Morgan County High School","not_available","41472",37.89602947709326,-83.28206402016555
+"41501","Pikeville","KY","CrossFit Mountain Movers","3887 Chloe Rd","41501",37.448509216308594,-82.47944641113281
+"41501","Pikeville","KY","Blue Goose","not_available","41501",37.476323,-82.524103
+"41501","Pikeville","KY","Pikeville YMCA","424 Bob Amos Dr","41501",37.468973999999996,-82.54356999999999
+"41503","South Williamson","KY","Gem Kids","not_available","25661",37.672392,-82.277266
+"41645","Langley","KY","Zumba With Amanda","Martin Community Center","41645",37.54604716666667,-82.77327963333333
+"41701","Hazard","KY","East Main Family Fitness","not_available","41701",37.24568854085159,-83.1909929298242
+"41701","Hazard","KY","Sherman Neace Athletic Center","93 Indian Bend, Hazard, KY","41701",37.286771,-83.207143
+"41701","Hazard","KY","Hazard Pavillion","Hazard","not_available",37.26506383827676,-83.19038304319533
+"41773","Vicco","KY","Old Carr Creek High School","not_available","41847",37.23164283692254,-82.96809555367814
+"41822","Hindman","KY","Knott Count Middle School Gym","not_available","41822",37.33438491821289,-82.97510528564453
+"41858","Whitesburg","KY","MCHC Wellness Center","not_available","41858",37.11748,-82.82345
+"42001","Paducah","KY","Planet Fitness","5101 Hinkleville Rd","42001",37.0825176103397,-88.68475033646709
+"42001","Paducah","KY","Paducah Recreation Center","1527 Martin Luther King Jr Drive","not_available",37.08502960205078,-88.61824798583984
+"42001","Paducah","KY","Fairfield Inn Gym","not_available","42001",37.08526550678944,-88.68300508932838
+"42001","Paducah","KY","Energy Fitness","2343 New Holt Rd","42001",37.063684479711355,-88.69525141594524
+"42001","Paducah","KY","Paducah Regional Sports Plex","Hwy 62","42001",37.08524635988836,-88.6826380680781
+"42001","Paducah","KY","Paducah Athletic Club","115 Lebanon Church Rd","42003",36.97996102720817,-88.67522525098155
+"42001","Paducah","KY","Snap Fitness","2524 Lone Oak Rd, Paducah, KY 42003","42003",37.042595218055006,-88.65781451549185
+"42001","Paducah","KY","Genesis Strength and Fitness","185 Lions Den Ln","42003",37.05580520629883,-88.62598419189453
+"42001","Paducah","KY","River2River Fitness","455 South 31st Steet","42001",37.066314697265625,-88.63441467285156
+"42001","Paducah","KY","Jetton Gym","1098 Bronson Ave","42001",37.079712425091884,-88.60381364822388
+"42001","Paducah","KY","Energy Sports & Fitness","3425 Oak St","42003",37.05706376982622,-88.63396068524436
+"42001","Paducah","KY","Crossfit Dig Deep","3551 Park Ave Ste A","42001",37.08491516113281,-88.66191864013672
+"42001","Paducah","KY","StayFit24","414 Lone Oak Rd Suite E","42001",37.065096000000004,-88.637621
+"42001","Paducah","KY","EXL-7 Fitness And Bootcamp","1115 Broadway","42001",37.082851096270645,-88.60818911289822
+"42001","Paducah","KY","The Plex","6525 US Highway 60 W","42001",37.07330840542064,-88.72943907816668
+"42001","Paducah","KY","Go Performance","6525 U.S. 60","not_available",37.073338399386266,-88.72943448399131
+"42001","Paducah","KY","LOHS Weight Room","John E Robinson Dr.","42001",37.066257,-88.638487
+"42001","Paducah","KY","Crossfit Dig Deep Gym","3660 James Sanders Blvd","42001",37.08476257324219,-88.69107055664062
+"42001","Paducah","KY","Planet Fitness","3430 James Sanders Blvd","42001",37.07830810546875,-88.68474578857422
+"42003","Paducah","KY","Snap Fitness 24/7","not_available","42003",37.052966,-88.56988
+"42003","Paducah","KY","Max Fitness","3204 Irvin Cobb Dr","42003",37.055489,-88.568454
+"42024","Barlow","KY","BMHS Workout Room","3561 Paducah Rd","42024",37.06698989868164,-88.98745727539062
+"42025","Benton","KY","Revolution Fitness","Oak Park Blvd","42029",37.00520937189321,-88.34396589783479
+"42025","Benton","KY","Mega Gym","not_available","42025",36.88441093015331,-88.35548588256844
+"42038","Eddyville","KY","Fusion Fitness And Tanning","not_available","42038",37.084556579589844,-88.08666229248047
+"42050","Hickman","KY","nonstop fitness","1308 S 7th St","42050",36.566734313964844,-89.17874145507812
+"42064","Marion","KY","Suncrest Round Pen","not_available","42445",37.17721276043001,-87.88453537610269
+"42066","Mayfield","KY","YMCA","1545 Cuba Rd","42066",36.719167393276635,-88.63317576835325
+"42066","Mayfield","KY","Snap Fitness","1678 KY-121","42066",36.719373971691674,-88.6243541874832
+"42066","Mayfield","KY","Countdown Fitness","Wyatt Dr, Mayfield, KY 42066","42066",36.722496032714844,-88.62957000732422
+"42071","Murray","KY","Center For Health & Wellness","716 Poplar St","42071",36.60907980042017,-88.30771153443115
+"42071","Murray","KY","Universal Athletics","Solar Drive","42071",36.621803283691406,-88.29925537109375
+"42071","Murray","KY","Campus Core Gym","Campus Suites Blvd","42071",36.630764,-88.325819
+"42071","Murray","KY","Downtown Dynabody 24-7","311 Solar Dr","42071",36.621803283691406,-88.29931640625
+"42071","Murray","KY","Student Wellness And Recreation Center","not_available","42071",36.62082775963522,-88.32067169248799
+"42071","Murray","KY","Family Fitness Center","808 Chestnut St","42071",36.61759148249887,-88.31029973786063
+"42071","Murray","KY","Fitness Center","The Chase at Murray","42071",36.62569327776043,-88.32623457470395
+"42086","West Paducah","KY","Thor's Gym","not_available","62960",37.154332,-88.731019
+"42101","Bowling Green","KY","Orangetheory Fitness","not_available","42104",36.961675,-86.463955
+"42101","Bowling Green","KY","Bowling Green Parks And Recreation","225 3rd Ave","42101",36.999881475624825,-86.4354918047414
+"42101","Bowling Green","KY","Anytime Fitness","164 Iron Skillet Ct","42101",36.928651,-86.413605
+"42101","Bowling Green","KY","Total Fitness Connection","542 Three Springs Rd","42104",36.93393185955848,-86.42098923020956
+"42101","Bowling Green","KY","Get Toned","2726 Scottsville Rd","42104",36.948001861572266,-86.4225082397461
+"42101","Bowling Green","KY","Bowling Green Athletic Club South","121 Flex Park Dr","42101",36.928287506103516,-86.49847412109375
+"42101","Bowling Green","KY","Total Cheer","not_available","42101",36.95472036172578,-86.48099360708844
+"42101","Bowling Green","KY","Preston Health & Activities Center","1906 College Heights Blvd","42101",36.98286256553767,-86.45877902319431
+"42101","Bowling Green","KY","Rock Steady Boxing Bowling Green","1249 U.S. 31 W Bypass","42101",36.9545102,-86.4206565
+"42101","Bowling Green","KY","Bowling Green Backyard Bootcamp","601 State St","42101",36.9954719543457,-86.43724822998047
+"42101","Bowling Green","KY","Kummer/Little Recreation Center","333 College St","42101",36.998756,-86.434926
+"42101","Bowling Green","KY","Sauna","Scottsville Rd","not_available",36.97121,-86.43345
+"42101","Bowling Green","KY","Preston Center","College Heights Blvd.","42101",37.06303,-86.390996
+"42101","Bowling Green","KY","Columns Fitness","1140 Kentucky St","42101",36.992875,-86.447089
+"42101","Bowling Green","KY","Bowling Green Athletic Club","1640 Scottsville Rd","42104",36.97118620398195,-86.43365320474595
+"42101","Bowling Green","KY","Workout Anytime","2945 Scottsville Rd, Ste F2","42104",36.943137,-86.423194
+"42127","Cave City","KY","Pace Park Outdoor Gym","Pace Patk","42749",37.194848,-85.910067
+"42134","Franklin","KY","Anytime Fitness","1425 Nashville Rd","42134",36.6973,-86.56959
+"42134","Franklin","KY","Franklin Simpson Fitness Center","518 North Main Street","42134",36.72860336303711,-86.57797241210938
+"42134","Franklin","KY","Total Fitness Connection","not_available","42134",36.70311366919639,-86.57439310701544
+"42134","Franklin","KY","Latin dance areobics at F-S gym","North Street","42134",36.6678175,-86.55644742
+"42134","Franklin","KY","Total Fitness","1020 S Main St","42134",36.70301055908203,-86.57479095458984
+"42141","Glasgow","KY","Workout Anytime","930 Happy Valley Rd","42141",37.01131737591671,-85.92455506324768
+"42141","Glasgow","KY","Extreme Health Club","135 Myrtle St","42141",37.00497059779399,-85.91957889363846
+"42141","Glasgow","KY","Barren County Family YMCA","1 Ymca Way","42141",37.00971984863281,-85.92852783203125
+"42164","Scottsville","KY","YMCA","309 W Cherry St","42164",36.75537872314453,-86.1948471069336
+"42164","Scottsville","KY","Where All Leaves Fall","not_available","42164",36.744419,-86.201033
+"42220","Elkton","KY","Orthopedics Plus Gym","not_available","42220",36.80995331092723,-87.15373109405878
+"42223","Fort Campbell","KY","Freedom Fighter Gym","Toccoa Rd","42223",36.65767706504551,-87.4850298322547
+"42223","Fort Campbell","KY","Fratt Gym","not_available","42223",36.66371394427317,-87.45745812241466
+"42223","Fort Campbell","KY","Planet Fitness","1600 Fort Campbell Blvd","37042",36.62632842396497,-87.42910031987888
+"42223","Fort Campbell","KY","Quick Fit","not_available","42262",36.666125,-87.439581
+"42223","Fort Campbell","KY","Lozada House Of Steel","Desert Storm Ave, Fort Campbell North, KY 42223","42223",36.64378447478689,-87.46692943829096
+"42223","Fort Campbell","KY","Lozada Gym","Bldg 6992","not_available",36.64375258272879,-87.46654271683907
+"42223","Fort Campbell","KY","RhythmZfitness","15858 Fort Campbell Blvd","42262",36.65237045288086,-87.43791198730469
+"42223","Fort Campbell","KY","gym","not_available","37042",36.62933598957489,-87.46350973319826
+"42223","Fort Campbell","KY","Strike brigade Gym","Indiana ave.","42223",36.6575701,-87.46350277
+"42223","Fort Campbell","KY","Lozada Physical Fitness Center","Desert Storm Ave","42223",36.66338749710691,-87.47409693910387
+"42240","Hopkinsville","KY","Atlas Athletic Club","104 Bradshaw Pike Ext","42240",36.841653,-87.457719
+"42240","Hopkinsville","KY","YMCA","not_available","42240",36.8295188061258,-87.51965441344467
+"42276","Russellville","KY","quick fit","1144 W 9th st","42276",36.83156967163086,-86.90522003173828
+"42301","Owensboro","KY","StayFit24","1212 J R Miller Blvd","42301",37.7648365,-87.1084185
+"42301","Owensboro","KY","Athenian YMCA","650 Chuck Gray Ct","42303",37.72905897027112,-87.12007270288935
+"42301","Owensboro","KY","MMM Gym","1736 Saint Marys Ave","42301",37.750164,-87.130633
+"42301","Owensboro","KY","KC Fitness Center","601 Innovative Way","42301",37.8207857180694,-87.30206703802571
+"42301","Owensboro","KY","Atlantis Health Club","4101 Carter Rd","42301",37.73033142089844,-87.15357971191406
+"42301","Owensboro","KY","Owensboro Family YMCA","900 Kentucky Pkwy","42301",37.74712,-87.11878
+"42301","Owensboro","KY","Stay Fit","1208 JR  Miller Blvd","42303",37.76499605809311,-87.10838017023734
+"42301","Owensboro","KY","Pure Barre","2680 Frederica St","42301",37.7504576,-87.1147962
+"42301","Owensboro","KY","Cheer Zone Allstars","3644 Edna Ct","42301",37.734734,-87.150062
+"42301","Owensboro","KY","Owensboro Health Healthpark","1006 Ford Ave.","42301",37.753262,-87.1219763
+"42303","Owensboro","KY","Owensboro Fitness","3126 Alvey Park Drive E","42303",37.751393,-87.064706
+"42303","Owensboro","KY","Home Gym","not_available","42303",37.742693,-87.092142
+"42303","Owensboro","KY","CrossFit Vox","1316 Alsop Ln","42303",37.771369,-87.080254
+"42303","Owensboro","KY","Edge Body Boot Camp","4617 Sutherland Rd","42303",37.722799,-87.107903
+"42303","Owensboro","KY","Planet Fitness","3621 State Route 54","42303",37.751969712661456,-87.05225885458876
+"42303","Owensboro","KY","Owensboro CrossFit","601 Triplett St","42303",37.770627,-87.103518
+"42320","Beaver Dam","KY","Family Wellness Center of Ohio County","301 W Frederica St","42347",37.44643020629883,-86.90177917480469
+"42327","Calhoun","KY","McLean County Fitness","not_available","42327",37.5364109509648,-87.25970732828287
+"42345","Greenville","KY","Hallway","402 Oakhurst Rd","42345",37.20815658569336,-87.22126770019531
+"42347","Hartford","KY","Workout","3724 Round Hill Rd, Hartford, KY 42347","42347",37.54558181762695,-86.8444595336914
+"42420","Henderson","KY","Methodist Hospital","1305 N Elm St","42420",37.8543586,-87.5818836
+"42420","Henderson","KY","Memorial High School","1500 Lincoln Ave","47714",37.97032001396948,-87.53644466400146
+"42420","Henderson","KY","The Women's Hospital","4199 Gateway Blvd","47630",37.97365233466618,-87.44728803634644
+"42420","Henderson","KY","Anytime Fitness","222 Red Bank Rd S Ste J-K","47712",37.97523471,-87.6352495
+"42420","Henderson","KY","Downtown YMCA","222 NW 6th Street","47708",37.97500419191218,-87.57051238687286
+"42420","Henderson","KY","Workout Room","Regency Club Apartments","47715",37.9721606395177,-87.45203470403068
+"42420","Henderson","KY","Stay Fit 24","not_available","42420",37.84321975708008,-87.58586120605469
+"42420","Henderson","KY","Tropicana Evansville Hotel Fitness Center","421 NW Riverside Dr","47708",37.9722785949707,-87.57891082763672
+"42420","Henderson","KY","Henderson YMCA","460 Klutey Park Plaza Dr","42420",37.83515437634485,-87.56788840201463
+"42420","Henderson","KY","Soul Empowerment Fitness. Center","625 Bellemeade Ave","47713",37.96815872192383,-87.55563354492188
+"42420","Henderson","KY","Woolen Workout Spot","not_available","47630",37.960561,-87.384204
+"42420","Henderson","KY","DoubleTree Fitness Center","601 Walnut St","47708",37.970924377441406,-87.5667953491211
+"42420","Henderson","KY","StayFit24","500 N Green St","42420",37.8434348,-87.5851113
+"42420","Henderson","KY","elite fitness","4944 Old SR 261","47630",37.96225415682362,-87.39676058292389
+"42420","Henderson","KY","Hilton Garden Inn Fitness Center","220 Eagle Crest Dr","47715",37.97462463378906,-87.45628356933594
+"42420","Henderson","KY","Planet Fitness","2068 US-41, Unit B","42420",37.86642,-87.572066
+"42420","Henderson","KY","Hargett House Gym","not_available","47712",37.96252633902955,-87.72474298011554
+"42420","Henderson","KY","The Tony Shark Center","2012 South Kentucky Ave","47714",37.94854,-87.54791
+"42420","Henderson","KY","Woah' Gym","not_available","47714",37.96479302254059,-87.51500585021815
+"42420","Henderson","KY","Boys & Girls Club","700 Bellemeade Ave","47713",37.96818542480469,-87.55482482910156
+"42420","Henderson","KY","Mankin Gym","5366 Epworth Rd","47630",37.95515823364258,-87.44073486328125
+"42420","Henderson","KY","Club Fitness Zone","222 Main St","47708",37.971074,-87.572712
+"42420","Henderson","KY","Steam Room","not_available","47708",37.97445,-87.570664
+"42420","Henderson","KY","Howell Baptist Gym","3111 Emerson","not_available",37.959760143865935,-87.61339015381684
+"42431","Madisonville","KY","Curves","119B N Main St","42431",37.33049831036202,-87.49897956848145
+"42431","Madisonville","KY","YMCA","not_available","42431",37.35429279526367,-87.49481453607443
+"42431","Madisonville","KY","Hilary Lowbridge Yoga, LLC","254 E Center St","42431",37.32749938964844,-87.49398040771484
+"42431","Madisonville","KY","StayFit24","13 East Arch St","42431",37.3301471,-87.4978567
+"42431","Madisonville","KY","Workout Anytime","25 S Main St","42431",37.32778229720163,-87.49903910819754
+"42437","Morganfield","KY","YMCA","238 N Brady St","42437",37.68456738558852,-87.91251095814728
+"42501","Somerset","KY","Planet Fitness","2835 S Hwy 27, Ste 80","42501",37.054465,-84.626624
+"42501","Somerset","KY","Get Fit Athletic Club","345 US-27","42501",37.08934399,-84.61753184
+"42501","Somerset","KY","CrossFit Ignis","27 Brians Way","42501",37.03098678588867,-84.62344360351562
+"42501","Somerset","KY","The Club Fit","not_available","42501",37.034321131727644,-84.6254363922734
+"42501","Somerset","KY","Club Fit 24hr Fitness","3680 U.S. 27","42501",37.042143942248636,-84.62483165557686
+"42501","Somerset","KY","Somerset Elite Training Center","202 Sallee St","42501",37.082582,-84.614738
+"42501","Somerset","KY","Gold's Gym","3680 S Highway 27 #B","42501",37.042161435288605,-84.62526082992554
+"42501","Somerset","KY","YMCA","105 E. Somerset Church Rd.","42503",37.10707092285156,-84.59993743896484
+"42501","Somerset","KY","Dixon Sports Training & Fitness","not_available","42503",37.104411,-84.623742
+"42501","Somerset","KY","Rocky Hollow","S. Central Str.","42501",37.0887347109581,-84.60126224231092
+"42602","Albany","KY","The Wellness Center","not_available","42602",36.71223196062618,-85.13462937713028
+"42633","Monticello","KY","Dishman Gym & Tanning","432 Greenbrier Loop","38549",36.80872701828914,-84.91101498534138
+"42633","Monticello","KY","Dishman Gym & Tanning","432 Greenbriar Loop","42633",36.80875778198242,-84.91106414794922
+"42633","Monticello","KY","Malcom and Peggy's Fitness Center","not_available","42633",36.83883285522461,-84.8397445678711
+"42635","Pine Knot","KY","USP McCreary Training Center","not_available","42635",36.69090195087239,-84.39065784408405
+"42701","Elizabethtown","KY","CrossFit Elizabethtown","120 Window Lame","42701",37.67678451538086,-85.8857650756836
+"42701","Elizabethtown","KY","curves","2626 Ring Rd, Elizabethtown, KY 42701","42701",37.7281494140625,-85.83895874023438
+"42701","Elizabethtown","KY","Vip Fitness","1201 N Dixie Ave","42701",37.71919631958008,-85.87744903564453
+"42701","Elizabethtown","KY","Evolution Fitness","226 Peterson Dr","42701",37.68195844880866,-85.89957575714273
+"42701","Elizabethtown","KY","Med Life Fit","1107 Crowne Pointe Drive, Suite 7","42701",37.71823950438356,-85.83727428095091
+"42701","Elizabethtown","KY","DPO Fitness","Westport Rd","42701",37.70555987993002,-85.8839683801461
+"42701","Elizabethtown","KY","Central Kentucky Athletics","not_available","42701",37.7296324459415,-85.8835987409477
+"42701","Elizabethtown","KY","Curves","2526 Ring Rd","42701",37.7281494140625,-85.83895874023438
+"42701","Elizabethtown","KY","Becca's Flip Town","4210 Leitchfield Rd","42724",37.666504142330545,-85.92544636054876
+"42701","Elizabethtown","KY","Snap Fitness","83 Shawnee Dr","42748",37.57894859912597,-85.73687443086851
+"42701","Elizabethtown","KY","Energy Sports & Fitness","1506 Ring Rd","42701",37.72854018204032,-85.88912304741548
+"42701","Elizabethtown","KY","Etown Athletic Club","305 Eagle Way","42701",37.732818603515625,-85.87733459472656
+"42712","Big Clifty","KY","Snap Fitness","1903 Elizabethtown Rd","42754",37.486268730997885,-86.26462638772941
+"42718","Campbellsville","KY","Xtreme Fitness","not_available","42718",37.34024150268446,-85.34537885287955
+"42718","Campbellsville","KY","Workout Anytime","102 Central Shopping Ctr","42718",37.34102487935123,-85.34497261047363
