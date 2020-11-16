@@ -28,7 +28,7 @@ Inside the app directory, we have the following structure:
 
 	Finally, the clustervis.py, flask_app.py, and vis_development_app.py files are used to run python code related to this project. 
 
-Please refer to Diagram_1 below for more information about the structure of the 'app' directory (note the images that are stored in the 'static' directory are not included in the diagram below). 
+Please refer to Diagram_1 below for more information about the structure of the 'app' directory. Note the images that are stored in the 'static' directory are not included in the diagram below. 
 
 Diagram_1
 ├── app/
