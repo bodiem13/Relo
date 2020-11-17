@@ -15,6 +15,9 @@ DESCRIPTION
 
 Welcome to Relo: Relocation made Easy! Relo incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
+Due to large file sizes, all data files were excluded from the Canvas submission. Please refer to the link below for the full repository, including all data files: 
+https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+
 APP DIRECTORY
 
 The 'app' directory is used to store all code associated with the visual application for Relo. 
@@ -59,7 +62,7 @@ The 'data' directory contains all scripts used for gathering the data. This incl
 
 The 'data' directory contains the following structure:
 	
-	The 'amenities' directory contains code related to the data capture from the Foursquare API. This data was used for finding amenities.
+	The 'amenities' directory contains code related to the data capture from the Foursquare API. 
 
 	The 'cluster_model_output' directory contains the code used for the clustering pipeline.
 
@@ -111,7 +114,9 @@ Please refer to Diagram_4 below for more information about the structure of the 
 Diagram_4
 ├── model/
 │   ├── Clustering_Model_Testing.ipynb
+│   ├── Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb
 │   ├── Clustering_Pipeline.ipynb
+│   ├── hierarchical_birch_results.obj
 │   ├── hierarchical_ward_results.obj
 │   ├── kmeans_results.obj
 │   ├── minibatch_kmeans_results.obj
@@ -155,3 +160,9 @@ DEMO VIDEO
 
 A demo video can be found at the following link:
 https://www.youtube.com/watch?v=fqh-CT0eUXo
+
+
+ADDITIONAL INFORMATION
+----------------
+
+For additional information regarding Relo, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
