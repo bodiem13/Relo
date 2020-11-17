@@ -15,7 +15,7 @@ DESCRIPTION
 
 Welcome to Relo: Relocation made Easy! Relo incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
-All of the directories described in this README file can be found in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. Please refer to the link below for the full repository, including all data files: 
+All of the directories described in this README file are located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. Please refer to the link below for the full repository, including all data files: 
 https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
 
 APP DIRECTORY
