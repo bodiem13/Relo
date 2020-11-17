@@ -64,7 +64,7 @@ The 'data' directory contains the following structure:
 	
 	The 'amenities' directory contains code related to the data capture from the Foursquare API. 
 
-	The 'cluster_model_output' directory contains the code used for the clustering pipeline.
+	The 'cluster_model_output' directory contains the output of the 'Clustering_Pipeline.ipynb'.
 
 	The 'etl_scripts' contains code related to ETL processes for the amenities and Census tracts data.
 
