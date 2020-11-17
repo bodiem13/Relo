@@ -105,12 +105,13 @@ Diagram_3
 
 MODEL DIRECTORY
 
-The 'model' directory contains code related to the clustering pipeline and the testing and generation of the clustering models.
+The 'model' directory contains code related to the clustering pipeline and the generation and testing of various clustering models.
 
-'Clustering_Model_Testing.ipynb' contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed data.
+The 'Clustering_Model_Testing.ipynb' file contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed dataset.
 
-the 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline.
+The 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline. Using our entired processed dataset, we performed in-depth evaluations on five alogirthms: KMeans, Mini-Batch KMeans, Spectral, Hierarchical Ward, and Hierarchical Birch.
 
+Finally, the 'Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb' file is identical to 'Clustering_Pipeline.ipynb', but it generates and evaluates five clustering models using each of the aforementioned algorithms and a parameter of 50 clusters for all.
 
 Please refer to Diagram_4 below for more information about the structure of the 'model' directory.    
 
