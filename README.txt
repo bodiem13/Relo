@@ -105,9 +105,12 @@ Diagram_3
 
 MODEL DIRECTORY
 
-The 'model' directory contains code relating to the clustering pipeline and the generation and testing of the clustering models.
+The 'model' directory contains code related to the clustering pipeline and the testing and generation of the clustering models.
 
-In this directory, the 'Clustering_Pipeline.ipynb' file contains the complete code for the clustering pipeline.
+'Clustering_Model_Testing.ipynb' contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed data.
+
+the 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline.
+
 
 Please refer to Diagram_4 below for more information about the structure of the 'model' directory.    
 
