@@ -51,7 +51,7 @@ Built and tested with Python version: 3.7.9
 #### Preparation
 1. Principal Component Analysis (PCA) was performed on the Census & Amenities data prepared for clustering, and transformed the data to have only 18 components, accounting for 95%  of the variability. After PCA, t-Distributed Stochastic Neighbor Embedding (t-SNE) decomposition was applied to the transformed data. t-SNE was chosen due to its being well suited for high-dimensional data, and it minimizes the divergence between two distributions. The result gave two-dimensional embeddings as features that not only allowed for better visualization of results, but also reduced time of fitting clustering algorithms.
 #### Model
-1. After testing multiple clustering algorithms, the best option was deemed to KMeans with 50 clusters. This was determined by looking at both algorithm and visualization performance.
+1. After testing multiple clustering algorithms, the best option was deemed to be the KMeans algorithm with 50 clusters. This was determined by looking at both algorithm and visualization performance.
 
 ### Visualization
 #### Application
