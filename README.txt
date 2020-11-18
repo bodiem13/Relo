@@ -66,7 +66,7 @@ The 'data' directory contains the following structure:
 
 	The 'cluster_model_output' directory contains the output data produced by 'Clustering_Pipeline.ipynb'.
 
-	The 'etl_scripts' contains code related to ETL processes for the amenities and Census tracts data.
+	The 'etl_scripts' contains code related to ETL processes for the amenities and Census tracts data, including data retrieval, data cleaning, and data processing.
 
 	The 'gaz' directory contains Census data.
 
