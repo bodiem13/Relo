@@ -62,7 +62,7 @@ The 'data' directory contains all scripts used for gathering the data. This incl
 
 The 'data' directory contains the following structure:
 	
-	The 'amenities' directory contains code related to the data capture from the Foursquare API. 
+	The 'amenities' directory contains code related to the data capture of the amenities data from the Foursquare API. 
 
 	The 'cluster_model_output' directory contains the output data produced by 'Clustering_Pipeline.ipynb'.
 
