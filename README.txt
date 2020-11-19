@@ -161,20 +161,21 @@ Please follow the following steps to run the code:
 3. Run 'docker run -it -p 5000:5000 relodemo' (note, you may need to run as root/with sudo on linux/mac)
 4. In your Powershell or Terminal window, once you see "Running on http://0.0.0.0:5000/", navigate to localhost:5000 in your browser (NOT 0.0.0.0:5000) and begin using the app!
 
+Note that the demo docker application has data limited to only a single cluster of neighborhoods to ensure that it will run on the grader's hardware.
+
+The full application currently consumes >16GB of memory, which is why the decision was made to limit that data.
+Although any address given to the app should work since the code locates the nearest neighborhood to the input address,
+here are some sample addresses to try that fall within neighborhoods that appear in the demo cluster:
+1) 300 Madison Ave, New York, NY
+2) Inman park, Atlanta, GA
+3) Chamberlain Park, Raleigh
+
 
 DEMO VIDEO
 ----------------
 
 A demo video can be found at the following link:
 https://www.youtube.com/watch?v=fqh-CT0eUXo
-
-Note that the demo docker application has data limited to only a single cluster of neighborhoods to ensure that it will run on the grader's hardware.
-The full application currently consumes >16GB of memory, which is why the decision to limit that data was made.
-Although any address given to the app should work since the code locates the nearest neighborhood to the input address,
-here are some sample addresses to try that fall within neighborhoods that appear in the demo cluster:
-1) 300 Madison Ave, New York, NY
-2) Inman park, Atlanta, GA
-3) Chamberlain Park, Raleigh
 
 
 ADDITIONAL INFORMATION
