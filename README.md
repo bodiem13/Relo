@@ -15,12 +15,15 @@ Contents of File:
 
 ### Instructions
 
-Built and tested with Python version: 3.7.9
+The following are instructions to run the FULL app with all prepared clusters. Note that this takes 16-20GB of RAM to run. The file README.txt describes how to run a Docker image that was prepared with pared down data (only ~3GB required). This methodology may also be used to run the app in the 00_DEMO_APP/app folder, which is the pared down data used for the Docker build.
 
-1. Install Anaconda Python Distribution
+The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead.
+
+
+1. Install Anaconda (3.8) Python Distribution
 2. Run `conda create -n project python=3.7.9`
 3. Run `conda activate project`
-4. Run `pip install -r requirements.txt`
+4. Run `pip install -r requirements.txt` - it is critical to use pip here as "conda install" will fail.
 5. From app folder, run `python flask_app.py`
 
 ### Data Collection
