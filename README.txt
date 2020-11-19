@@ -107,6 +107,8 @@ MODEL DIRECTORY
 
 The 'model' directory contains code related to the clustering pipeline and the generation and evaluation of various clustering models.
 
+The 'requirements.txt' file lists the versioned Python packages needed to run the clustering pipeline notebooks.
+
 First, the 'Clustering_Model_Testing.ipynb' file contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed dataset.
 
 Next, the 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline. Using our entired processed dataset, we performed in-depth evaluations on five alogirthms: KMeans, Mini-Batch KMeans, Spectral, Hierarchical Ward, and Hierarchical Birch.
@@ -124,6 +126,7 @@ Diagram_4
 │   ├── hierarchical_ward_results.obj
 │   ├── kmeans_results.obj
 │   ├── minibatch_kmeans_results.obj
+│   ├── requirements.txt
 └── └── spectral_clustering_results.obj
 
 
