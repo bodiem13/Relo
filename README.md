@@ -57,10 +57,10 @@ Built and tested with Python version: 3.7.9
 2. Visualization Data: Via a Python script, the pickle file with simply the cleaned Census data was read into a dataframe. It was then merged with the entire amenities dataset (post integration & summarization with Census Geography Data) on the GEOID field. The final dataframe was then written to a pickle file to be used in the final visualization.
 
 ### Analysis
-#### Preparation
+#### Dimensionality Reduction 
 1. Principal Component Analysis (PCA) was performed on the Census and amenities data that was prepared for clustering. The data was transformed to have only 18 components, which accounted for 95%  of the variability. After PCA, t-Distributed Stochastic Neighbor Embedding (t-SNE) decomposition was applied to the transformed data. t-SNE was chosen due to it being well suited for the visualization of high-dimensional data. t-SNE is a probabilistic technique that minimizes the divergence between two distributions. We used two-dimensional embeddings as features, which reduced the time to fit the different clustering models and allowed for better visualization of the clustering results.
 
-#### Model
+#### Model Evaluation and Construction
 1. Multiple clustering algorithms were first tested on a subset of the data. To quickly test density-based and grid-based approaches, we tried to generate clusters using the DBSCAN and OPTICS algorithms with default parameters. Both models simply returned the single structure in the visualization as one cluster. Thus, density-based and grid-based approaches were disregarded. 
 
 2. We were left to choose methods from partitioning and hierarchical approaches. We needed to select algorithms that were scalable based on the number of samples in our dataset, the number of clusters that could be produced, and the size of the generated clusters. In addition, the algorithms needed to perform well on flat geometry. After reviewing the literature, we decided to further evaluate the following algorithms: KMeans, Mini-Batch KMeans, and Spectral (Partitioning); Ward Agglomerative and BIRCH (Hierarchical).
