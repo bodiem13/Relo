@@ -7,27 +7,27 @@ This script downloads amenities data from the Foursquare Places API and saves th
   
 ## Pre requisites:
 
-- Client ID and Client Secret from a verified Foursquare Developer account (a 'verified' account will have a daily rate limit of 99,500 API calls).
+- Client ID and Client Secret from a verified Foursquare Developer account (a "verified" account will have a daily rate limit of 99,500 API calls).
 
 - Ensure the uszips.csv file exists in the same folder as this script
 
-- If running in 'merge' mode, ensure that there is no consolidated.csv in the 'downloads/<TYPE>' folder already
+- If running in "merge" mode, ensure that there is no consolidated.csv in the "downloads/<TYPE>" folder already
 
 ## Foursquare Developer Account 
 
 ### Initial setup
 
 - Go to https://developer.foursquare.com/
-- Click on 'Create Account' on the top right and fill out the form (name, contact details, etc.)
-- Once done, click 'Sign Up' at the bottom of the form. 
+- Click on "Create Account" on the top right and fill out the form (name, contact details, etc.)
+- Once done, click "Sign Up" at the bottom of the form. 
 - Look for the verification email sent to the email provided. 
-- Click the verification link in the email body where it is says 'Your account is almost set up. Please click ***here*** to verify your email.'
+- Click the verification link in the email body where it is says "Your account is almost set up. Please click ***here*** to verify your email."
 - In the login prompt, use the email and password provided in the initial sign up form and log in.
 - Now, you should be on the Foursquare Developer Console with the URL on the browser address bar that says https://foursquare.com/developers/apps
 - Click on ***Create New App*** in the My Apps section.
 - Provide an app name, some URL (http://localhost works) and verify the challenge response activity.
 - Click ***Next***.
-- Now, you should be on the 'App Settings' screen with the CLIENT ID and CLIENT SECRET listed. Copy these 2 IDs to be used in the appropriate area in the configuration section of the script.
+- Now, you should be on the "App Settings" screen with the CLIENT ID and CLIENT SECRET listed. Copy these 2 IDs to be used in the appropriate area in the configuration section of the script.
 - Now, you have a Foursquare Developer Sandbox Tier account that has a rate limit of 950 Regular API Calls per day and 50 Premium API Calls per day.
 
 ### Verification to increase rate limit
