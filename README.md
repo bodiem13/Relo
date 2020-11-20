@@ -17,7 +17,7 @@ Contents of File:
 
 The following are instructions to run the FULL app with all prepared clusters. Note that this takes 16-20 GB of RAM to run. The file `README.txt` describes how to run a Docker image that was prepared with pared down data (only ~3 GB required).
 
-The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead. You can see how the Docker image was prepared by looking at `build_submissions_and_demo.py`
+The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead. You can see how the Docker image was prepared by referring to `build_submissions_and_demo.py`
 
 
 1. Install Anaconda (3.8) Python Distribution
