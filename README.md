@@ -64,7 +64,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 * Amenities cleaned data and processed dataframes: `/data/amenities/openrefine-cleaning/` and `/data/amenities/dataframes/`
 * Census data cleaning code: `/data/etl_scripts/data_cleaning/`
-* Prepared Amenities and Census features data and data profiles: `/data/features/`
+* Prepared Census and Amenities features data and data profiles: `/data/features/`
 
 ### Data Integration
 #### Census Geography & Amenities
