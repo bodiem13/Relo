@@ -15,8 +15,9 @@ DESCRIPTION
 
 Welcome to RELO: Relocation made Easy! RELO incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
-Every directory described in this README file is located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. Please refer to the link below for the full repository, including all data files: 
-https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+Every directory described in this README file is located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. The full repository for RELO (team046repo.zip), including all data files, can be downloaded from the following location: https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+
+For additional information regarding RELO, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
 
 APP DIRECTORY
 
@@ -70,8 +71,6 @@ The 'data' directory contains the following structure:
 
 	The 'gaz' directory contains Census data.
 
-	The 'sample' directory contains a sample clustering output used for the development of the front end components.
-
 	The 'shape_data' contains code relating to the shapes of the Census tracts.
 
 Please refer to Diagram_2 below for more information about the structure of the 'data' directory. Note, the elements inside the directories are not displayed in the diagram. 
@@ -83,7 +82,6 @@ Diagram_2
 │   ├── etl_scripts/
 │   ├── features/
 │   ├── gaz/
-│   ├── sample/
 └── └── shape_data/
 
 
@@ -107,13 +105,13 @@ MODEL DIRECTORY
 
 The 'model' directory contains code related to the clustering pipeline and the generation and evaluation of various clustering models.
 
-The 'requirements.txt' file lists the versioned Python packages needed to run the clustering pipeline notebooks.
+The 'Clustering_Model_Testing.ipynb' file contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed dataset.
 
-First, the 'Clustering_Model_Testing.ipynb' file contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed dataset.
+The 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline. Using our entired processed dataset, we performed in-depth evaluations on five alogirthms: KMeans, Mini-Batch KMeans, Spectral, Hierarchical Ward, and Hierarchical Birch.
 
-Next, the 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline. Using our entired processed dataset, we performed in-depth evaluations on five alogirthms: KMeans, Mini-Batch KMeans, Spectral, Hierarchical Ward, and Hierarchical Birch.
+The 'Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb' file is practically identical to 'Clustering_Pipeline.ipynb', but it generated and evaluated five clustering models using each of the aforementioned algorithms and a parameter of 50 clusters for all.
 
-Finally, the 'Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb' file is practically identical to 'Clustering_Pipeline.ipynb', but it generated and evaluated five clustering models using each of the aforementioned algorithms and a parameter of 50 clusters for all.
+All of the ".obj" files are pickled files of the five models that we evaluted in the clustering pipeline.
 
 Please refer to Diagram_4 below for more information about the structure of the 'model' directory.    
 
@@ -126,7 +124,6 @@ Diagram_4
 │   ├── hierarchical_ward_results.obj
 │   ├── kmeans_results.obj
 │   ├── minibatch_kmeans_results.obj
-│   ├── requirements.txt
 └── └── spectral_clustering_results.obj
 
 
@@ -176,9 +173,3 @@ DEMO VIDEO
 
 A demo video can be found at the following link:
 https://www.youtube.com/watch?v=fqh-CT0eUXo
-
-
-ADDITIONAL INFORMATION
-----------------
-
-For additional information regarding RELO, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
