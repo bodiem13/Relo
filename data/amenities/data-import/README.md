@@ -2,7 +2,7 @@
 
 # RELO amenity data download tool
 
-This script downloads amenities data from the Foursquare Places API and saves the list by state. Once all states' data is downloaded, the same script can be used to merge all the CSVs to a single CSV file.
+This script downloads amenities data from the Foursquare Places API and saves the list by state. Once all states' data is downloaded, the same script can be used to merge all the CSVs into a single CSV file.
 
   
 ## Pre requisites:
