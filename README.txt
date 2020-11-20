@@ -21,6 +21,26 @@ Every directory described in this README file is located in the main CODE folder
 
 For additional information regarding RELO, including instructions on how to run the full non-demo application, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
 
+
+MAIN DIRECTORY
+
+The individual files in the 'main' directory of the CODE folder, except README.md, are used for setting up the environment and creating the Docker demo. All subfolders are described in the subsequent 'directory' sections.
+
+Diagram_0
+├── CODE/
+│   ├── app/
+│   ├── data/
+│   ├── docs/
+│   ├── model/
+│   ├── raw_data/
+│   ├── boot.sh
+│   ├── build_submission_and_demo.py
+│   ├── environment.yml
+│   ├── Dockerfile
+│   ├── README.md
+└── └── requirements.txt
+
+
 APP DIRECTORY
 
 The 'app' directory is used to store all code associated with the visual application for Relo. 
