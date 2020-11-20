@@ -70,8 +70,6 @@ The 'data' directory contains the following structure:
 
 	The 'gaz' directory contains Census data.
 
-	The 'sample' directory contains a sample clustering output used for the development of the front end components.
-
 	The 'shape_data' contains code relating to the shapes of the Census tracts.
 
 Please refer to Diagram_2 below for more information about the structure of the 'data' directory. Note, the elements inside the directories are not displayed in the diagram. 
@@ -83,7 +81,6 @@ Diagram_2
 │   ├── etl_scripts/
 │   ├── features/
 │   ├── gaz/
-│   ├── sample/
 └── └── shape_data/
 
 
