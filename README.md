@@ -36,7 +36,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 
 #### Amenities Data
-1. A Python script was used to make API calls to the Foursquare Places API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made to the 'venues' API endpoint with the category type parameter set to the amenity type in question (https://developer.foursquare.com/docs/api-reference/venues/search/). The returned data is then checked for completeness, and stored in a CSV file per state. Once all states' data is retrieved, the script performs a merge across all state level CSV files to consolidate all in to a single CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
+1. A Python script was used to make API calls to the Foursquare Places API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made to the "venues" API endpoint with the category type parameter set to the amenity type in question (https://developer.foursquare.com/docs/api-reference/venues/search/). The returned data is then checked for completeness, and stored in a CSV file per state. Once all states' data is retrieved, the script performs a merge across all state level CSV files to consolidate all in to a single CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
 
 #### Locations
 
@@ -46,7 +46,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 * Census tract shape data preparation code: `/data/etl_scripts/prepare_census_tract_geojson.ipynb`
 * Census tract raw shape data: `/raw_data/census_tract_geometries`
 * Census tract prepared shape data: `/data/shape_data/all_census_tract_shapes.json.gz`
-* Amenities scraping code: `/data/amenities/data-import/` NOTE: See README.md in this folder for additional info on the scraping process.
+* Amenities scraping code: `/data/amenities/data-import/` (NOTE: See the README.md in this folder for additional info on the scraping process.)
 * Amenities raw data: `/data/amenities/source-data`
 
 
