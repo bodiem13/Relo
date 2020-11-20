@@ -55,7 +55,7 @@ The 'data' directory contains all scripts used for gathering the data. This incl
 
 The 'data' directory contains the following structure:
 	
-	The 'amenities' directory contains the content related to amenity data capture. This includes the Foursquare location data capture script, raw data, OpenRefine data cleaning steps and intermediate processed data. 
+	The 'amenities' directory contains the content related to capture of amenities data. This includes the Foursquare location data capture script, raw data, OpenRefine data cleaning steps and intermediate processed data. 
 
 	The 'cluster_model_output' directory contains the output data produced by 'Clustering_Pipeline.ipynb'.
 
