@@ -50,7 +50,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 * Census tract shape data preparation code: `/data/etl_scripts/census_tract_geojson_prep/prepare_census_tract_geojson.ipynb`
 * Census tract raw shape data: `/raw_data/census_tract_geometries`
 * Census tract prepared shape data: `/data/shape_data/all_census_tract_shapes.json.gz`
-* Amenities scraping code: `/data/amenities/data-import/` (NOTE: See the README.md in this folder for additional info on the scraping process.)
+* Amenities scraping code: `/data/amenities/data-import/` (NOTE: See the README_AMENITIES.md in this folder for additional info on the scraping process.)
 * Amenities raw data: `/data/amenities/source-data`
 
 
