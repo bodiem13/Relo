@@ -102,7 +102,7 @@ for f in ('README.md', 'requirements.txt', 'Dockerfile', 'boot.sh', 'environment
     shutil.copy(f, CODE_DEST)
     
 # delete unnecessary files/folders
-for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data', 'Final_Visualization_Input_Data.zip', 'amenities_full.pkl.gz'):
+for item in ('.DS_Store', '__pycache__', '.vscode', '.ipynb_checkpoints', 'source-data', 'Final_Visualization_Input_Data.zip', 'amenities_full.pkl.gz', 'data-import'):
     os.system('find {} -name {} | xargs rm -rf'.format(DEST, item))
 
 
@@ -174,9 +174,9 @@ print('Done with demo app.')
 
 
 ################################################################################
-# Prepare canvas submission of just code + docs
+# Prepare full app zip
 ################################################################################
-
+os.chdir('../..')
 ################################################################################
 ################################################################################
 DEST = './00_REPO_GDRIVE_UPLOAD/team046repo/'
@@ -199,14 +199,14 @@ os.makedirs(DEST)
 
 # copy relevant folders
 for folder in ('app', 'data', 'docs', 'model', 'raw_data'):
-    shutil.copytree(folder, os.path.join(CODE_DEST, folder))
+    shutil.copytree(folder, os.path.join(DEST, folder))
 
 # copy relevant files
 for f in ('README.md', 'requirements.txt', 'Dockerfile', 'boot.sh', 'environment.yml', 'build_submission_and_demo.py'):
-    shutil.copy(f, CODE_DEST)
+    shutil.copy(f, DEST)
 
-os.system('zip -r {}.zip {}'.format(DEST, DEST))
+os.system('zip -r ./00_REPO_GDRIVE_UPLOAD/team046repo.zip {}'.format(DEST, DEST))
 
-
+print('DONE!')
 
 
