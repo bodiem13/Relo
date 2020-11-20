@@ -13,7 +13,7 @@ Contents of File:
 *Analysis
 *Visualization
 
-### Instructions
+## Instructions
 
 The following are instructions to run the FULL app with all prepared clusters. Note that this takes 16-20 GB of RAM to run. The file `README.txt` describes how to run a Docker image that was prepared with pared down data (only ~3 GB required).
 
@@ -25,6 +25,10 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 3. Run `conda activate project`
 4. Run `pip install -r requirements.txt`
 5. From app folder, run `python flask_app.py`
+
+---
+
+## Approaches
 
 ### Data Collection
 #### Census Data
