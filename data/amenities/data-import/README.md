@@ -27,7 +27,7 @@ This script downloads amenities data from the Foursquare Places API and saves th
 - Click on ***Create New App*** in the My Apps section.
 - Provide an app name, some URL (http://localhost works) and verify the challenge response activity.
 - Click ***Next***.
-- Now, you should be on the "App Settings" screen with the CLIENT ID and CLIENT SECRET listed. Copy these 2 IDs to be used in the appropriate area in the configuration section of the script.
+- Now, you should be on the "App Settings" screen with the CLIENT ID and CLIENT SECRET listed. Copy these 2 IDs, which are used in the appropriate area in the configuration section of the script.
 - Now, you have a Foursquare Developer Sandbox Tier account that has a rate limit of 950 Regular API Calls per day and 50 Premium API Calls per day.
 
 ### Verification to increase rate limit
