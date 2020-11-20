@@ -35,10 +35,6 @@ Please refer to Diagram_1 below for more information about the structure of the 
 
 Diagram_1
 ├── app/
-│   ├── .vscode/
-│   │       └── launch.json
-│   ├── __pycache__/
-│   │       └── flask_app.cpython-37.pyc
 │   ├── static/
 │   │   │   ├── stylesheets
 │   │   │   │ 	├── index_style.css
@@ -48,7 +44,6 @@ Diagram_1
 │   │       ├── about.html
 │   │       ├── index.html
 │   │       └── search_results.html
-│   ├── .DS_Store
 │   ├── clustervis.py
 │   ├── flask_app.py
 └── └── vis_development_app.py
