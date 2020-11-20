@@ -15,36 +15,55 @@ Contents of File:
 
 ### Instructions
 
-The following are instructions to run the FULL app with all prepared clusters. Note that this takes 16-20GB of RAM to run. The file README.txt describes how to run a Docker image that was prepared with pared down data (only ~3GB required). This methodology may also be used to run the app in the 00_DEMO_APP/app folder, which is the pared down data used for the Docker build.
+The following are instructions to run the FULL app with all prepared clusters. Note that this takes 16-20 GB of RAM to run. The file `README.txt` describes how to run a Docker image that was prepared with pared down data (only ~3 GB required).
 
-The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead.
+The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead. You can see how the Docker image was prepared by looking at `build_submissions_and_demo.py`
 
 
 1. Install Anaconda (3.8) Python Distribution
 2. Run `conda create -n project python=3.7.9`
 3. Run `conda activate project`
-4. Run `pip install -r requirements.txt` - it is critical to use pip here as "conda install" will fail.
+4. Run `pip install -r requirements.txt`
 5. From app folder, run `python flask_app.py`
 
 ### Data Collection
-#### Census Data (link)
+#### Census Data
 1. The Census data used was obtained from the 5-year American Community Survey Responses for 2018 via data.census.gov. The data was found using an interface to first view the data table needed, then column selection was customized. All "tract" geographies were selected for all states, and the resulting data table was downloaded into a zip folder from where the csv file was extracted. We identified eight tables that contained columns relevant to our project for clustering and visualization.
 
-2. Gazetteer Data: 2018 Census Gazetteer file holds geographical information necessary for performing data integration with the amenities data. This data maps the center of each Census tract to a latitude and longitude coordinate, and it also includes estimates for the land and water areas in each tract. This data was gathered via a direct download from the link below, and it was prepared into geoJSON format via Python. (https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2018_Gazetteer/2018_Gaz_tracts_national.zip)
+2. Gazetteer Data: 2018 Census Gazetteer file holds geographical information necessary for performing data integration with the amenities data. This data maps the "center" (not necessarily the geometric center) of each Census tract to a latitude and longitude coordinate, and it also includes estimates for the land and water areas in each tract. This data was gathered via a direct download from the following link, and it was prepared into geoJSON format via Python. (https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2018_Gazetteer/2018_Gaz_tracts_national.zip)
 
 3. All Census data was then read into Python dataframes and written to pickle files to be utilized for further data processing.
 
-#### Amenities Data (link)
+
+#### Amenities Data
 1. A Python data script was used to make an API call to the Foursquare API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made with the given parameters for the amenity in question. The returned data is then checked for completeness, and stored in a CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
 
+#### Locations
+
+* Raw census data: `/raw_data/census_tables`
+* Census data description: `/docs/Census Data Gathering and Prep.docx`
+* Census data preparation Code: `/data/etl_scripts/2018_5Yr_ACS/01_process_data.census.gov_downloads__v4.ipynb`
+* Census tract shape data preparation code: `/data/etl_scripts/prepare_census_tract_geojson.ipynb`
+* Census tract raw shape data: `/raw_data/census_tract_geometries`
+* Census tract prepared shape data: `/data/shape_data/all_census_tract_shapes.json.gz`
+* Amenities scraping code: `/data/amenities/data-import/` NOTE: See README.md in this folder for additional info on the scraping process.
+* Amenities raw data: `/data/amenities/source-data`
+
+
 ### Data Cleaning
-#### Census Data (link)
+#### Census Data
 1. Initial Steps: Each column was evaluated for relevance, based on the column name. An initial list was narrowed down to the columns that were deemed vital to keep. As necessary, ad-hoc histograms were created in Python to evaluate the data setup, completeness, range, etc.
 
 2. A Python script was created to read in the raw data, and a new dataframe was generated for the columns that did not need further alteration. Those columns that required transformation (i.e. to be transformed into a percentage of the total) were calculated and added to the aforementioned dataframe. Any calculation errors were corrected, and the initially cleaned data was written to a pickle file for later integration with the amenities data for visualization use. The data was then evaluated for nulls, and records with a high count of nulls were removed. The remaining data was then truncated to 3 standard deviations from the mean, and any remaning nulls were imputed with the mean of their respective column. Columns were evaluated for skewness, and a Box-Cox transformation was performed on highly skewed or non-normal columns. The data was then standardized using the StandardScaler from scikit-learn. Finally, a profile was created for the fully processed data, and the dataset was written to a pickle file for later integration with amenities data for clustering.
 
-#### Amenities Data (link)
+
+#### Amenities Data
 1. Initial Steps: A consolidated CSV file for a specific amenity was loaded into OpenRefine, and the latitude and longitude was truncated to be of equal length. The names of entities associated with the amenity were then grouped by similarity and converted to the appropriate one. Addresses were clustered and duplicates were removed. Finally, the entitiy names were evaluated in multiple ways to identify and remove any records that appeared to be different than the amenity in question.
+
+#### Locations
+
+* Amenities cleaned data and processed dataframes: `/data/amenities/openrefine-cleaning/` and `/data/amenities/dataframes/`
+
 
 ### Data Integration
 #### Census Geography & Amenities
@@ -54,10 +73,18 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 3. Post Integration & Summarization with Census Geography Data: A Python script loaded the pickle file containing the amenities data with the weighted count columns. The data was initially profiled for evaluation of completeness and skewness. All feature columns were found to be skewed or non-normal. So, for all feature columns, zeroes were replaced with the next lowest value, a Box-Cox transformation was performed on each, and the data was then standardized.
 
+
 #### Clustering and Visualization Datasets
 1. Clustering Data: Per discussion with the project team, the only amenities columns that were deemed necessary to retain for clustering were those related to the weighted count of locations within 25 miles of a Census tract center. Via a Python script, the pickle file with the cleaned, transformed, and standardized Census data was read into a dataframe. This data was then merged with the final dataframe containing the cleaned, transformed, and standardized amenities data subset on the GEOID field. The resulting dataframe was then saved to a pickle file to be used in our cluster model analysis.
 
 2. Visualization Data: Via a Python script, the pickle file with simply the cleaned Census data was read into a dataframe. It was then merged with the entire amenities dataset (post integration & summarization with Census Geography Data) on the GEOID field. The final dataframe was then written to a pickle file to be used in the final visualization.
+
+#### Locations
+
+* Code to process cleaned amenities data into features and for use with visualization: `/data/etl_scripts/amenities/amenities_prep_generalized.ipynb`
+* Amenities prepared as feature input for integration to clustering model: `/data/amenities/amenities_features.pkl`
+* Amenities data prepared for visualization: `/data/amenities/amenities_25mi_for_vis.pkl.gz` and `/data/amenities/amenities_full.pkl.gz`
+
 
 ### Analysis
 #### Dimensionality Reduction 
