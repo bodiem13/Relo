@@ -29,7 +29,7 @@ Inside the app directory, we have the following structure:
 
 	The 'templates' directory contains the files used for building the front end UI. 
 
-	Finally, the clustervis.py, flask_app.py, and vis_development_app.py files are used to run python code related to this project. 
+	Finally, the flask_app.py file is the main Python code for the application, which utilizes clustervis.py for data processing. 
 
 Please refer to Diagram_1 below for more information about the structure of the 'app' directory. Note, the images that are stored in the 'static' directory are not included in the diagram below. 
 
@@ -47,11 +47,8 @@ Diagram_1
 │   ├── templates/
 │   │       ├── about.html
 │   │       ├── index.html
-│   │       ├── result.html
-│   │       ├── test.html
-│   │       └── vis_development_index.html
+│   │       └── search_results.html
 │   ├── .DS_Store
-│   ├── .mapbox_token
 │   ├── clustervis.py
 │   ├── flask_app.py
 └── └── vis_development_app.py
