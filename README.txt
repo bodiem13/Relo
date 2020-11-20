@@ -26,6 +26,8 @@ MAIN DIRECTORY
 
 The individual files in the 'main' directory of the CODE folder, except README.md, are used for setting up the environment and creating the Docker demo. All subfolders are described in the subsequent 'directory' sections.
 
+Please refer to Diagram_0 below for more information about the structure of the 'main' directory of the CODE folder.
+
 Diagram_0
 ├── CODE/
 │   ├── app/
