@@ -47,7 +47,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 * Raw census data: `/raw_data/census_tables`
 * Census data description: `/docs/Census Data Gathering and Prep.docx`
 * Census data preparation code: `/data/etl_scripts/2018_5Yr_ACS/01_process_data.census.gov_downloads__v4.ipynb`
-* Census tract shape data preparation code: `/data/etl_scripts/prepare_census_tract_geojson.ipynb`
+* Census tract shape data preparation code: `/data/etl_scripts/census_tract_geojson_prep/prepare_census_tract_geojson.ipynb`
 * Census tract raw shape data: `/raw_data/census_tract_geometries`
 * Census tract prepared shape data: `/data/shape_data/all_census_tract_shapes.json.gz`
 * Amenities scraping code: `/data/amenities/data-import/` (NOTE: See the README.md in this folder for additional info on the scraping process.)
