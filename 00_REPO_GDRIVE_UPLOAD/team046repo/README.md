@@ -13,11 +13,11 @@ Contents of File:
 *Analysis
 *Visualization
 
-### Instructions
+## Instructions
 
 The following are instructions to run the FULL app with all prepared clusters. Note that this takes 16-20 GB of RAM to run. The file `README.txt` describes how to run a Docker image that was prepared with pared down data (only ~3 GB required).
 
-The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead. You can see how the Docker image was prepared by looking at `build_submissions_and_demo.py`
+The following process only works on MacOS and Linux (tested with Ubuntu 20.04) installations. Dependencies for some requirements are not easily installed on Windows. If you are using Windows, we strongly recommend using the Docker image instead. You can see how the Docker image was prepared by referring to `build_submissions_and_demo.py`
 
 
 1. Install Anaconda (3.8) Python Distribution
@@ -25,6 +25,10 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 3. Run `conda activate project`
 4. Run `pip install -r requirements.txt`
 5. From app folder, run `python flask_app.py`
+
+---
+
+## Approaches
 
 ### Data Collection
 #### Census Data
@@ -36,17 +40,17 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 
 #### Amenities Data
-1. A Python data script was used to make an API call to the Foursquare API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made with the given parameters for the amenity in question. The returned data is then checked for completeness, and stored in a CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
+1. A Python script was used to make API calls to the Foursquare Places API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made to the "venues" API endpoint with the category type parameter set to the amenity type in question (https://developer.foursquare.com/docs/api-reference/venues/search/). The returned data is then checked for completeness, and stored in a CSV file per state. Once all states' data is retrieved, the script performs a merge across all state level CSV files to consolidate all in to a single CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
 
 #### Locations
 
 * Raw census data: `/raw_data/census_tables`
 * Census data description: `/docs/Census Data Gathering and Prep.docx`
-* Census data preparation Code: `/data/etl_scripts/2018_5Yr_ACS/01_process_data.census.gov_downloads__v4.ipynb`
-* Census tract shape data preparation code: `/data/etl_scripts/prepare_census_tract_geojson.ipynb`
+* Census data preparation code: `/data/etl_scripts/2018_5Yr_ACS/01_process_data.census.gov_downloads__v4.ipynb`
+* Census tract shape data preparation code: `/data/etl_scripts/census_tract_geojson_prep/prepare_census_tract_geojson.ipynb`
 * Census tract raw shape data: `/raw_data/census_tract_geometries`
 * Census tract prepared shape data: `/data/shape_data/all_census_tract_shapes.json.gz`
-* Amenities scraping code: `/data/amenities/data-import/` NOTE: See README.md in this folder for additional info on the scraping process.
+* Amenities scraping code: `/data/amenities/data-import/` (NOTE: See the README_AMENITIES.md in this folder for additional info on the scraping process.)
 * Amenities raw data: `/data/amenities/source-data`
 
 
@@ -58,13 +62,15 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 
 #### Amenities Data
-1. Initial Steps: A consolidated CSV file for a specific amenity was loaded into OpenRefine, and the latitude and longitude was truncated to be of equal length. The names of entities associated with the amenity were then grouped by similarity and converted to the appropriate one. Addresses were clustered and duplicates were removed. Finally, the entitiy names were evaluated in multiple ways to identify and remove any records that appeared to be different than the amenity in question.
+1. Initial Steps: A consolidated CSV file for a specific amenity was loaded into OpenRefine, and the latitude and longitude was truncated to be of equal length. The names of entities associated with the amenity were then grouped by similarity and converted to the appropriate one. Addresses were clustered and duplicates were removed. Finally, the entitiy names were evaluated in multiple ways using text facets to identify and remove any records that appeared to be different than the amenity in question.
 
 #### Locations
 
-* Amenities cleaned data and processed dataframes: `/data/amenities/openrefine-cleaning/` and `/data/amenities/dataframes/`
-* Census data cleaning Code: `/data/etl_scripts/data_cleaning/`
-* Prepared Amenities and Census features data and data profiles: `/data/features/`
+* Cleaning steps performed in OpenRefine for Amenities data: `/data/amenities/openrefine-cleaning/`
+* Amenities processed dataframes: `/data/amenities/dataframes/`
+* Census data cleaning code: `/data/etl_scripts/data_cleaning/`
+* Prepared Census data features profile: `/data/features/Census_Data_Profile_v4_Prelim_Cleaned_v4.html`
+* Prepared Amenities data features profile: `/data/features/Amenities_Features_Profile*`
 
 ### Data Integration
 #### Census Geography & Amenities
@@ -83,9 +89,10 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 #### Locations
 
 * Code to process cleaned amenities data into features and for use with visualization: `/data/etl_scripts/amenities/amenities_prep_generalized.ipynb`
-* Amenities prepared as feature input for integration to clustering model: `/data/amenities/amenities_features.pkl`
+* Amenities data prepared as feature inputs for integration to clustering model: `/data/amenities/amenities_features.pkl`
 * Amenities data prepared for visualization: `/data/amenities/amenities_25mi_for_vis.pkl.gz` and `/data/amenities/amenities_full.pkl.gz`
-
+* Final Clustering Dataset: `/data/features/Final_Clustering_Input_Data.pkl`
+* Final Visualization Dataset: `/data/features/Final_Visualization_Input_Data.pkl`
 
 
 ### Analysis
@@ -105,9 +112,12 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 #### Locations
 
-* Clustering Model Pipelines and Testing: `/model/*.ipynb`
-* Clustering Model Outputs: `/model/*.obj`
+* Clustering Model Testing: `/model/Clustering_Model_Testing.ipynb`
+* Main Clustering Pipeline: `/model/Clustering_Pipeline.ipynb`
+* Clustering Pipeline (50 Clusters): `/model/Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb`
+* Clustering Model Outputs (50 Clusters): `/model/*.obj`
 * Final clustering and ranking output: `/data/cluster_model_output/clusters_and_ranks.pkl`
+
 
 ### Visualization
 #### Application

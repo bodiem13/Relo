@@ -2,7 +2,7 @@ import os
 import sys
 import shutil
 import pandas as pd
-import geopandas as gp
+
 
 """
 This script is used to build

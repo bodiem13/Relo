@@ -15,9 +15,33 @@ DESCRIPTION
 
 Welcome to RELO: Relocation made Easy! RELO incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
+Please note that the instructions found in this README file relate to running a demo of our application with a small (toy) dataset.
+
 Every directory described in this README file is located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. The full repository for RELO (team046repo.zip), including all data files, can be downloaded from the following location: https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
 
-For additional information regarding RELO, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
+For additional information regarding RELO, including instructions on how to run the full non-demo application, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
+
+
+MAIN DIRECTORY
+
+The individual files in the 'main' directory of the CODE folder, except README.md, are used for setting up the environment and creating the Docker demo. All subfolders are described in the subsequent 'directory' sections.
+
+Please refer to Diagram_0 below for more information about the structure of the 'main' directory of the CODE folder.
+
+Diagram_0
+├── CODE/
+│   ├── app/
+│   ├── data/
+│   ├── docs/
+│   ├── model/
+│   ├── raw_data/
+│   ├── boot.sh
+│   ├── build_submission_and_demo.py
+│   ├── environment.yml
+│   ├── Dockerfile
+│   ├── README.md
+└── └── requirements.txt
+
 
 APP DIRECTORY
 
@@ -55,7 +79,7 @@ The 'data' directory contains all scripts used for gathering the data. This incl
 
 The 'data' directory contains the following structure:
 	
-	The 'amenities' directory contains code related to the data capture of the amenities data from the Foursquare API. 
+	The 'amenities' directory contains the content related to capture of amenities data. This includes the Foursquare location data capture script, raw data, OpenRefine data cleaning steps and intermediate processed data. 
 
 	The 'cluster_model_output' directory contains the output data produced by 'Clustering_Pipeline.ipynb'.
 
@@ -163,5 +187,5 @@ here are some sample addresses to try that fall within neighborhoods that appear
 DEMO VIDEO
 ----------------
 
-A demo video can be found at the following link:
+A demo video that shows how to install and execute the tool can be found at the following link:
 https://www.youtube.com/watch?v=fqh-CT0eUXo
