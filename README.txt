@@ -163,5 +163,5 @@ here are some sample addresses to try that fall within neighborhoods that appear
 DEMO VIDEO
 ----------------
 
-A demo video can be found at the following link:
+A demo video that shows how to install and execute the tool can be found at the following link:
 https://www.youtube.com/watch?v=fqh-CT0eUXo
