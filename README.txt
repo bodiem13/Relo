@@ -15,8 +15,9 @@ DESCRIPTION
 
 Welcome to RELO: Relocation made Easy! RELO incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
 
-Every directory described in this README file is located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. Please refer to the link below for the full repository, including all data files: 
-https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+Every directory described in this README file is located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. The full repository for RELO (team046repo.zip), including all data files, can be downloaded from the following location: https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+
+For additional information regarding RELO, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
 
 APP DIRECTORY
 
@@ -172,9 +173,3 @@ DEMO VIDEO
 
 A demo video can be found at the following link:
 https://www.youtube.com/watch?v=fqh-CT0eUXo
-
-
-ADDITIONAL INFORMATION
-----------------
-
-For additional information regarding RELO, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
