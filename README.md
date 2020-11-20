@@ -83,7 +83,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 #### Locations
 
 * Code to process cleaned amenities data into features and for use with visualization: `/data/etl_scripts/amenities/amenities_prep_generalized.ipynb`
-* Amenities prepared as feature input for integration to clustering model: `/data/amenities/amenities_features.pkl`
+* Amenities data prepared as feature inputs for integration to clustering model: `/data/amenities/amenities_features.pkl`
 * Amenities data prepared for visualization: `/data/amenities/amenities_25mi_for_vis.pkl.gz` and `/data/amenities/amenities_full.pkl.gz`
 
 
