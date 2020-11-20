@@ -21,10 +21,11 @@ data tables that are used in the visualization.
 
 ################################################################################
 # OPTIONS
-mapboxt = open(".mapbox_token").read().rstrip()
+# mapboxt = open(".mapbox_token").read().rstrip() ### No longer using mapbox token - just using tokenless map api now.
+mapboxt = None
 ####
-DEV_MAP=True
-AMENITIES_DRAW_DISTANCE = 25 # 2, 5, 10, 25, or 50 miles. Stick with 25 for now...
+DEV_MAP=True # do not change to false unless reverting to using a mapbox token.
+AMENITIES_DRAW_DISTANCE = 25 # 2, 5, 10, 25, or 50 miles. Stick with 25 - do not change.
 ####
 
 ################################################################################
