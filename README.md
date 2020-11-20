@@ -63,7 +63,8 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 #### Locations
 
 * Amenities cleaned data and processed dataframes: `/data/amenities/openrefine-cleaning/` and `/data/amenities/dataframes/`
-
+* Census data cleaning Code: `/data/etl_scripts/data_cleaning/`
+* Prepared Amenities and Census features data and data profiles: `/data/features/`
 
 ### Data Integration
 #### Census Geography & Amenities
@@ -86,6 +87,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 * Amenities data prepared for visualization: `/data/amenities/amenities_25mi_for_vis.pkl.gz` and `/data/amenities/amenities_full.pkl.gz`
 
 
+
 ### Analysis
 #### Dimensionality Reduction 
 1. Principal Component Analysis (PCA) was performed on the Census and amenities data that was prepared for clustering. The data was transformed to have only 18 components, which accounted for 95%  of the variability. After PCA, t-Distributed Stochastic Neighbor Embedding (t-SNE) decomposition was applied to the transformed data. t-SNE was chosen due to it being well suited for the visualization of high-dimensional data. t-SNE is a probabilistic technique that minimizes the divergence between two distributions. We used two-dimensional embeddings as features, which reduced the time to fit the different clustering models and allowed for better visualization of the clustering results.
@@ -101,6 +103,17 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 5. After retrieving the clustering labels from our final model, we wanted to determine the variables that accounted for the greatest differences between the various clusters. We grouped the data points based on the generated clusters, and we retrieved the mean value for each feature. Then, we calculated the variance of means between clusters within each feature, and we selected the top 7 with the highest variance.
 
+#### Locations
+
+* Clustering Model Pipelines and Testing: `/model/*.ipynb`
+* Clustering Model Outputs: `/model/*.obj`
+* Final clustering and ranking output: `/data/cluster_model_output/clusters_and_ranks.pkl`
+
 ### Visualization
 #### Application
 1. Results are visualized in a web-application, which was created using Python Flask. Users first enter an address in an area they like. The tool then identifies the Census tract that has its center point closest to the inputted address. It then gathers the cluster grouping in which that Census tract resides. The visualization shows all of the Census tracts in the cluster on a map of the continental US. Furthermore, the returned Census tracts are ranked according to their Euclidean distance in the feature space from the identified tract. The top 3 ranked locales are displayed in the tool, and the user may select any one of them. Upon selection, the map zooms into the chosen tract, and the amenities within the area are shown. Likewise, feature comparisons are displayed that showcase how closely the tract of the inputted address matches the selected tract.
+
+#### Locations
+
+* Flask application: `/app/flask_app.py`
+* Module for visualizations used by flask_app: `/app/clustervis.py`
