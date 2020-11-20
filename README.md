@@ -69,7 +69,8 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 * Cleaning steps performed in OpenRefine for Amenities data: `/data/amenities/openrefine-cleaning/`
 * Amenities processed dataframes: `/data/amenities/dataframes/`
 * Census data cleaning code: `/data/etl_scripts/data_cleaning/`
-* Prepared Census and Amenities features data and data profiles: `/data/features/`
+* Prepared Census data features profile: `/data/features/Census_Data_Profile_v4_Prelim_Cleaned_v4.html`
+* Prepared Amenities data features profile: `/data/features/Amenities_Features_Profile*`
 
 ### Data Integration
 #### Census Geography & Amenities
@@ -90,7 +91,8 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 * Code to process cleaned amenities data into features and for use with visualization: `/data/etl_scripts/amenities/amenities_prep_generalized.ipynb`
 * Amenities data prepared as feature inputs for integration to clustering model: `/data/amenities/amenities_features.pkl`
 * Amenities data prepared for visualization: `/data/amenities/amenities_25mi_for_vis.pkl.gz` and `/data/amenities/amenities_full.pkl.gz`
-
+* Final Clustering Dataset: `/data/features/Final_Clustering_Input_Data.pkl`
+* Final Visualization Dataset: `/data/features/Final_Visualization_Input_Data.pkl`
 
 
 ### Analysis
@@ -110,9 +112,12 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 #### Locations
 
-* Clustering Model Pipelines and Testing: `/model/*.ipynb`
-* Clustering Model Outputs: `/model/*.obj`
+* Clustering Model Testing: `/model/Clustering_Model_Testing.ipynb`
+* Main Clustering Pipeline: `/model/Clustering_Pipeline.ipynb`
+* Clustering Pipeline (50 Clusters): `/model/Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb`
+* Clustering Model Outputs (50 Clusters): `/model/*.obj`
 * Final clustering and ranking output: `/data/cluster_model_output/clusters_and_ranks.pkl`
+
 
 ### Visualization
 #### Application
