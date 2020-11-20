@@ -36,7 +36,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 
 #### Amenities Data
-1. A Python data script was used to make an API call to the Foursquare API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made with the given parameters for the amenity in question. The returned data is then checked for completeness, and stored in a CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
+1. A Python data script was used to make a API calls to the Foursquare Places API. Prior to making the API calls, the code takes in a list of states (in the continental USA) and returns a list of zip codes. For each zip code, an API call is then made to the 'venues' API endpoint with the category type parameter set to the amenity type in question (https://developer.foursquare.com/docs/api-reference/venues/search/). The returned data is then checked for completeness, and stored in a CSV file per state. Once all states' data is retrieved, the script performs a merge across all state level CSV files to consolidate all in to a single CSV file. To obtain the necessary data, this process was executed on each of the following amenities: grocery stores, gyms, parks (local only, state and national excluded), harware stores, and medical facilities.
 
 #### Locations
 
@@ -58,7 +58,7 @@ The following process only works on MacOS and Linux (tested with Ubuntu 20.04) i
 
 
 #### Amenities Data
-1. Initial Steps: A consolidated CSV file for a specific amenity was loaded into OpenRefine, and the latitude and longitude was truncated to be of equal length. The names of entities associated with the amenity were then grouped by similarity and converted to the appropriate one. Addresses were clustered and duplicates were removed. Finally, the entitiy names were evaluated in multiple ways to identify and remove any records that appeared to be different than the amenity in question.
+1. Initial Steps: A consolidated CSV file for a specific amenity was loaded into OpenRefine, and the latitude and longitude was truncated to be of equal length. The names of entities associated with the amenity were then grouped by similarity and converted to the appropriate one. Addresses were clustered and duplicates were removed. Finally, the entitiy names were evaluated in multiple ways using text facets to identify and remove any records that appeared to be different than the amenity in question.
 
 #### Locations
 
