@@ -1,0 +1,589 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"06001","Avon","CT","ShopRite of Canton","110 Albany Turnpike","06019",41.82318381587047,-72.88429725001704
+"06001","Avon","CT","Walmart","255 W Main St","06001",41.81080123374654,-72.85368445411562
+"06001","Avon","CT","Big Y World Class Market","255 W Main St","06001-4352",41.810825360909426,-72.85159981060804
+"06001","Avon","CT","The Fresh Market","315 W Main St","06001",41.81406046978064,-72.85872167297798
+"06001","Avon","CT","Garden of Light Natural Foods","not_available","not_available",41.815512867782644,-72.8659394659347
+"06001","Avon","CT","Valley Indian Market","not_available","06019",41.822296,-72.875706
+"06001","Avon","CT","ALDI","101 Albany Turnpike","06019",41.8249054,-72.8846367
+"06002","Bloomfield","CT","Geissler's Supermarkets","40 Tunxis Ave","06002",41.83644840350056,-72.73762944416839
+"06002","Bloomfield","CT","Kane's Market","1240-1394 Hopmeadow St","06070",41.90160100991565,-72.78610060736362
+"06002","Bloomfield","CT","Fresh Farms Market","699 Park Ave","06002",41.8271484375,-72.73124694824219
+"06002","Bloomfield","CT","World Class Distribution","210 Phoenix Crossing","06002",41.86851119995117,-72.7088851928711
+"06002","Bloomfield","CT","SAV-MOR","1053-1071 Blue Hills Ave","06002",41.823823748824026,-72.69694923333525
+"06002","Bloomfield","CT","Carla's Supermarket","660 Blue Hills Ave","06112",41.805102000000005,-72.695111
+"06002","Bloomfield","CT","Village Market","200 Bloomfield Ave","06117",41.800500294043616,-72.7129490551857
+"06002","Bloomfield","CT","Big Y World Class Market","1313 Hopmeadow St","06070",41.902049476643775,-72.78686598226251
+"06010","Bristol","CT","ShopRite","1200 Farmington Ave","06010",41.696029821213365,-72.90290215295701
+"06010","Bristol","CT","Walmart","1400 Farmington Ave","06010",41.698056895470785,-72.8970640944402
+"06010","Bristol","CT","Price Chopper","121 Farmington Ave.,","06010",41.685677,-72.94039
+"06010","Bristol","CT","Discount Food Outlet","100 N Main St","06010",41.67230987548828,-72.94477844238281
+"06010","Bristol","CT","Sam's Food Store","140 Park St","06010",41.67260067071483,-72.95562711470853
+"06010","Bristol","CT","ShopRite of Bristol","1200 Farmington Avenue &,Route 6","06010",41.695804595947266,-72.90290069580078
+"06010","Bristol","CT","Jay's Market","king street","06010",41.675284999999995,-72.919928
+"06010","Bristol","CT","ShopRite of Bristol","1200 Farmington Ave. & Rt. 6","06010",41.6957942,-72.9026831
+"06010","Bristol","CT","Pricechopper","not_available","06790",41.7111237739142,-72.98232096865087
+"06010","Bristol","CT","Associated Marketplace","15 Memorial Blvd","06010",41.670767,-72.942401
+"06010","Bristol","CT","Aldi","110 Middle St","06010",41.666068,-72.922683
+"06010","Bristol","CT","Walmart Neighborhood Market","325 Oakland St","06010",41.687037433316036,-72.93776661806736
+"06010","Bristol","CT","Guadalupana Grocery","Divinity Street","06010",41.671597999999996,-72.949601
+"06018","Canaan","CT","New England Greens, LLC","99 Railroad St","06018",42.030366,-73.328586
+"06023","East Berlin","CT","Walmart Supercenter","161 Berlin Rd","06416",41.60592000693639,-72.71213715019876
+"06029","Ellington","CT","Big Y World Class Market","135 West Rd","06029-5725",41.88737324797234,-72.46054060682366
+"06029","Ellington","CT","Big Y World Class Market","33 Fieldstone Common","06084",41.8594047576623,-72.35811821818294
+"06029","Ellington","CT","Nature's Grocer","not_available","06066",41.86043867150823,-72.43101572183954
+"06029","Ellington","CT","Inter Produce","42 Windsor Ave","06066",41.867153,-72.469511
+"06029","Ellington","CT","Ibeez","Church St","06029",41.904251,-72.468767
+"06032","Farmington","CT","Highland Park Market","204 Main St","06032",41.71225204554424,-72.84000575682468
+"06032","Farmington","CT","Aldi","693 Farmington Ave","06053",41.696728972477025,-72.78992882589591
+"06032","Farmington","CT","Unionville Organic Market","37 Mill St","06085",41.75659942626953,-72.88822937011719
+"06033","Glastonbury","CT","Whole Foods Market","55 Welles Street","06033",41.71469775690951,-72.60759912726797
+"06033","Glastonbury","CT","ShopRite of East Hartford","31 Main Street","06118",41.728236402864596,-72.61872383665536
+"06033","Glastonbury","CT","Highland Park Market","1320 Manchester Rd","06033",41.71381203225079,-72.52556136519618
+"06033","Glastonbury","CT","Brookside Market","868 Main St","06073",41.66570558030923,-72.60295172533388
+"06033","Glastonbury","CT","Euro Grocery","not_available","06067",41.669376,-72.642119
+"06033","Glastonbury","CT","Sai Foods","2086-2140 Connecticut 99","06067",41.670319,-72.642689
+"06035","Granby","CT","Geissler's Supermarket","9-J Bank St.","06035",41.952694441671625,-72.78479828355209
+"06035","Granby","CT","Granby Village Health","10 Hartford Ave","06035",41.952792984492,-72.78737308898684
+"06037","Berlin","CT","Stew Leonard's","3475 Berlin Tpke","06111",41.65200764766504,-72.72941590856229
+"06037","Berlin","CT","Rogers Orchards","336 Long Bottom Rd","06489",41.63661134956317,-72.83857103644688
+"06037","Berlin","CT","Rogers Marketplace IGA","45 Chamberlain Hwy","06037",41.634447290348895,-72.78836504145988
+"06039","Lakeville","CT","LaBonnes Market","22 Academy St","06068",41.98222662629207,-73.42164084919459
+"06040","Manchester","CT","ShopRite of Manchester","214 Spencer St.","06040",41.766096321254814,-72.57000810169976
+"06040","Manchester","CT","Highland Park Market","317 Highland St","06040",41.766029252445676,-72.49085155461958
+"06040","Manchester","CT","Patel Foods","171 Spencer St","06040",41.767448748218996,-72.5675617399505
+"06040","Manchester","CT","Cream Time","106 Strawberry Ln","06040",41.74898,-72.54276
+"06040","Manchester","CT","ShopRite","214 Spencer St","06040",41.7659797668457,-72.57131958007812
+"06040","Manchester","CT","Ravi Food Mart","208 W Center St","06040",41.7704624,-72.5449301
+"06040","Manchester","CT","Sams Food Store","534 Middle Tpke E","06040",41.784566999999996,-72.498246
+"06040","Manchester","CT","Stop & Shop","318 West Middle Turnpike","06040",41.7790398,-72.5372851
+"06040","Manchester","CT","Save-A-Lot","425 Broad St","06040",41.7734605650853,-72.53212735949866
+"06040","Manchester","CT","Asian Grocery & Hall Food","244 Broad St","06040",41.780677795410156,-72.53605651855469
+"06040","Manchester","CT","Savealot","Broad St","06040",41.769417900058514,-72.53011580936887
+"06042","Manchester","CT","Trader Joe's","1510 Pleasant Valley Road","06042",41.80652404413531,-72.55729573178468
+"06042","Manchester","CT","Walmart Supercenter","420 Buckland Hills Dr","06042",41.80660184212589,-72.53838935712459
+"06042","Manchester","CT","Big Y World Class Market","234 Tolland Tpke","06042-1744",41.81022635802717,-72.51340264915319
+"06042","Manchester","CT","Sam's Food Stores","55 Oakland St","06042",41.7955307888154,-72.52109558411918
+"06042","Manchester","CT","Krauszer's Market and Deli","311 Green Rd","06042",41.791273,-72.507249
+"06043","Bolton","CT","On The Go","not_available","06043",41.796715999999996,-72.423908
+"06051","New Britain","CT","Polmart","123 Broad St","06053",41.6733846,-72.78807239999999
+"06051","New Britain","CT","Good Luck Market","258 Allen St","06053",41.68248,-72.777954
+"06051","New Britain","CT","Sam Food Store","168 Farmington Ave","06053",41.68267444427899,-72.78784737909533
+"06051","New Britain","CT","Price Rite","140 Columbus Blvd","06051",41.66721580239044,-72.77558665327511
+"06051","New Britain","CT","Compare Foods","73 Broad St","06053",41.673526,-72.786346
+"06051","New Britain","CT","America's Food Basket","250 Allen St","06053",41.6834552,-72.77907239999999
+"06051","New Britain","CT","Price Rite of New Britain","150 Columbus Blvd.","06051",41.6672779,-72.7751864
+"06051","New Britain","CT","Save-A-Lot","60 E Main St","06051",41.671363830566406,-72.77923583984375
+"06051","New Britain","CT","CTown Supermarkets","47 Main St","06051",41.66520095344313,-72.7807827762299
+"06057","New Hartford","CT","Foodtown of New Hartford","141 Main St","06057",41.864447405239375,-72.95809149742126
+"06062","Plainville","CT","Big Y World Class Market","275 New Britain Ave","06062",41.67692827342887,-72.83990866830322
+"06062","Plainville","CT","Gnazzo Food Center","73 East St","06062",41.66925341355793,-72.86145946017399
+"06063","Barkhamsted","CT","XtraMart","102 Colebrook River Rd","06098",41.946590131848865,-73.05047495772195
+"06066","Vernon Rockville","CT","Stop & Shop","10 Pitkin Rd","06066",41.8283767,-72.4945246
+"06066","Vernon Rockville","CT","Shoprite","35 Talcottville Rd","06066",41.82671,-72.49851
+"06066","Vernon Rockville","CT","ALDI","360 Talcottville Rd","06066",41.841779637209456,-72.48651355504995
+"06066","Vernon Rockville","CT","Shaws Supermarket","Broad Street","06040",41.84097838,-72.49988307999999
+"06066","Vernon Rockville","CT","Aldis","talcotville rd","06066",41.8432476157075,-72.45036020706688
+"06066","Vernon Rockville","CT","ShopRite of Tri City Plaza","35 TALCOTTVILLE RD","06066",41.8270275,-72.498523
+"06067","Rocky Hill","CT","Walmart","80 Town Line Rd","06067",41.67916087301454,-72.65705115559636
+"06067","Rocky Hill","CT","Big Y World Class Market","1030 Elm St # 1040","06067",41.65770928699379,-72.67581124762728
+"06067","Rocky Hill","CT","Aldi","1863 Silas Deane Hwy","06067",41.6745614,-72.6517026
+"06067","Rocky Hill","CT","Westside Marketplace","Route 3","06067",41.64645964524038,-72.6787943659311
+"06067","Rocky Hill","CT","Aldi","2640 Berlin Tpke","06111",41.6792383,-72.7111757
+"06067","Rocky Hill","CT","IGA","Cromwell avenue","not_available",41.646381570796514,-72.67878065386235
+"06067","Rocky Hill","CT","R1","not_available","06111",41.664068,-72.707094
+"06067","Rocky Hill","CT","Sam's Food Stores","2757 Main St","06067",41.65381,-72.641165
+"06069","Sharon","CT","Sharon Farm Market","North Main St","06069",41.884684663059765,-73.46966101661323
+"06069","Sharon","CT","XtraMart","17 Gay St","06069",41.884347,-73.4687986
+"06070","Simsbury","CT","Fitzgerald's Foods","710 Hopmeadow St","06070",41.87136093923171,-72.80261911101182
+"06071","Somers","CT","Geisslers Supermarket","42 South Road","06071",41.979530356611974,-72.44532574723758
+"06074","South Windsor","CT","Geissler's Supermarket","318 Broad St","06095",41.84926772165105,-72.64561424560458
+"06074","South Windsor","CT","Geissler's Supermarket","965 Sullivan Ave","06074",41.84525777553833,-72.56315684106495
+"06076","Stafford Springs","CT","Big Y World Class Market","87 West Stafford Road Rt 190","06076",41.96965230363927,-72.32840017639467
+"06076","Stafford Springs","CT","Stafford Food Coop","not_available","06076",41.96894454956055,-72.36656951904297
+"06076","Stafford Springs","CT","Mill Pond General Store","220 East St","06076",41.98486191709964,-72.2899470853477
+"06078","Suffield","CT","Highland Park Market","68 Bridge St","06078",41.98219304626612,-72.64944487762192
+"06082","Enfield","CT","ShopRite of Enfield","40 Hazard Avenue","06082",41.98812233308922,-72.57836511047458
+"06082","Enfield","CT","Armata's","901 Shaker Rd","01106",42.03357548046729,-72.55395305222571
+"06082","Enfield","CT","ALDI","25 Hazard Ave","06082",41.9912852,-72.5820372
+"06082","Enfield","CT","Big Y World Class Market","65 Palomba Dr","06082-3801",41.991062016025474,-72.56972461595365
+"06082","Enfield","CT","T-ville","98 Pearl St","06082",41.9949752734375,-72.59910041762508
+"06082","Enfield","CT","Coronna' s Supermarket","Pearl St","not_available",42.020833333333336,-72.58513888888888
+"06082","Enfield","CT","Scitico Market","not_available","06082",41.98664593119911,-72.5124317407608
+"06082","Enfield","CT","Caronna's Market","25 Pearl St","06082",41.998037,-72.60015016666667
+"06082","Enfield","CT","One Stop Convenience","397 Enfield St","06082",42.01409178739502,-72.59260703498737
+"06082","Enfield","CT","ShopRite of Enfield","40 Hazard Ave","06082",41.9880341,-72.58062199999999
+"06082","Enfield","CT","Enfield Produce","583 Enfield St","06082",42.008539,-72.59264300000001
+"06082","Enfield","CT","Enfield Market","138 Weymouth Rd","06082",41.948670163163555,-72.5761654950448
+"06082","Enfield","CT","American Convenience Store","947-973 Enfield St","06082",41.996392,-72.593776
+"06082","Enfield","CT","Karina's Mexican Grocery","77 Pearl St","06082",41.99555568840954,-72.59912263037434
+"06088","East Windsor","CT","Big Y World Class Market","67 Prospect Hill Rd","06088-3605",41.92214085604611,-72.60881794086652
+"06088","East Windsor","CT","Walmart Supercenter","44 Prospect Hill Road","06088",41.9193099930161,-72.60696214459364
+"06088","East Windsor","CT","Geissler's Supermarket","100 Bridge St","06088",41.9298003674014,-72.6166668033179
+"06095","Windsor","CT","Price Chopper","675 Poquonock Ave","06095",41.870942,-72.66128
+"06095","Windsor","CT","Price Rite of Windsor","590 Windsor Ave","06095",41.82121026597774,-72.65574709434226
+"06095","Windsor","CT","Stop Anf Shop","1095 Kennedy Rd","06095",41.893358,-72.652796
+"06095","Windsor","CT","Halal Food Market","not_available","06095",41.814334,-72.6568
+"06095","Windsor","CT","Geisslers","not_available","06074",41.82655223281786,-72.65123951903405
+"06095","Windsor","CT","All Crate Inc.","200 Lamberton Rd","06095",41.869128,-72.66363299999999
+"06095","Windsor","CT","Desi Zaiqa","384 Windsor Ave","06095",41.813839,-72.656738
+"06096","Windsor Locks","CT","Everyday farm market","Main st","not_available",41.928126669645145,-72.63288288023354
+"06098","Winsted","CT","Health Food Corner","390 Main St","06098",41.92115020751953,-73.07035827636719
+"06098","Winsted","CT","Barden Farm Market","244 Main St","06098",41.921601,-73.066563
+"06103","Hartford","CT","Al's Market & Deli","241 Asylum St","06103",41.76739779035613,-72.67758085681064
+"06105","Hartford","CT","El Mercado Marketplace","704 Park St","06106",41.758231704222744,-72.68884390620936
+"06105","Hartford","CT","Carlos Supermarket","198 Farmington Ave","06105",41.76850891113281,-72.69419860839844
+"06105","Hartford","CT","CTown Supermarkets","1744 Park St","06106",41.757111801494894,-72.70764015192941
+"06105","Hartford","CT","Green apple grocery","264 Farmington Ave","06105",41.76802,-72.69747
+"06105","Hartford","CT","Save-A-Lot","1250 Park St","06106",41.759192,-72.69861800000001
+"06105","Hartford","CT","Central Supermarket","550 Farmington Ave","06105",41.766675,-72.71058199999999
+"06105","Hartford","CT","Kien Oriental Market","1801 Park St","06106",41.756603000000005,-72.708585
+"06105","Hartford","CT","crossroad super market","1028-1068 Albany Ave","06112",41.78175504986547,-72.69506142472007
+"06105","Hartford","CT","Joldy grocery","60 Gillett St","06105",41.769727,-72.699405
+"06105","Hartford","CT","Bravo Supermarkets","1291 Albany Avenue","06112",41.78115890775457,-72.6978914523234
+"06105","Hartford","CT","Express Food Shop","not_available","06105",41.7686,-72.684703
+"06106","Hartford","CT","Walmart Supercenter","495 Flatbush Avenue","06106",41.74005673159346,-72.71337841395207
+"06106","Hartford","CT","5 Star Farmer's Market","not_available","06106",41.740547484248985,-72.71096639889424
+"06106","Hartford","CT","Bravo Supermarkets","685 Maple Ave","06114",41.741644723532005,-72.68388478020859
+"06106","Hartford","CT","Flatbush Market","Hillside Ave","not_available",41.744448999999996,-72.698585
+"06106","Hartford","CT","CTown Supermarkets","394 New Britain Ave","06106",41.74054433091885,-72.69590287876781
+"06106","Hartford","CT","Sardilli Produce & Dairy","212 Locust St","06114",41.74324035644531,-72.66459655761719
+"06106","Hartford","CT","Adolf's","35 New Britain Ave","06106",41.746355,-72.684431
+"06106","Hartford","CT","People's Market","158 Franklin Ave","06114",41.746978999999996,-72.676594
+"06106","Hartford","CT","M&M Produce","101 Reserve Rd","06114",41.746309000000004,-72.658051
+"06106","Hartford","CT","Padula Produce Wholesale","497-533 Franklin Ave","06114",41.73500852467228,-72.67516063775503
+"06106","Hartford","CT","Bosna Market","547 Franklin Ave","06114",41.7336901,-72.6751511
+"06106","Hartford","CT","CTown Supermarkets","165 Wethersfield Ave","06114",41.751259633872955,-72.67424404621124
+"06107","West Hartford","CT","Whole Foods Market","50 Raymond Rd","06107",41.761006046529864,-72.73910949364401
+"06108","East Hartford","CT","JE Mart","818 Silver Ln","06118",41.765616192334555,-72.6086052754399
+"06108","East Hartford","CT","ALDI Food Market","801 Silver Ln","06118",41.76370758026632,-72.60884003480896
+"06108","East Hartford","CT","ACCRA MARKET","168 Burnside Ave","06108",41.77518278360367,-72.63248272240162
+"06108","East Hartford","CT","Save-A-Lot","954 Main St","06108",41.77054783842499,-72.64249155299002
+"06108","East Hartford","CT","jet's market","not_available","06108",41.782623,-72.592466
+"06108","East Hartford","CT","A-Dong Oriental Market","not_available","06114",41.757059357275075,-72.59487774203556
+"06108","East Hartford","CT","Garden of Light Inc.","375 Park Ave","06108",41.7813738,-72.6188634
+"06109","Wethersfield","CT","Price Rite of Wethersfield","160 Silas Deane Highway","06109",41.72262845931088,-72.66728533621296
+"06110","West Hartford","CT","Trader Joe's","1489 New Britain Ave","06110",41.72368904654691,-72.75820185239594
+"06110","West Hartford","CT","Price Rite","983 New Britain Ave","06110",41.72928783067633,-72.71886823768585
+"06110","West Hartford","CT","Aldi","511 New Park Ave","06110",41.7389803,-72.7203245
+"06110","West Hartford","CT","Stop and Shop","176 Newington Rd","06110",41.725505682936216,-72.73101394666303
+"06110","West Hartford","CT","Apple Tree","480 New Park Ave","06110",41.74094730305474,-72.71738369748454
+"06110","West Hartford","CT","A Dong Supermarket","160 Shield St","06110",41.72845946639948,-72.72180121989345
+"06110","West Hartford","CT","Price Rite of W. Hartford","983 New Britain Ave.","06110",41.728722,-72.7191472
+"06111","Newington","CT","Price Chopper","2985 Berlin Tpke","06111",41.66887,-72.720972
+"06111","Newington","CT","Walmart","3164 Berlin Tpke","06111",41.66302565293692,-72.71870656428233
+"06111","Newington","CT","Local Market","175 Lowrey Pl","06111",41.69449234008789,-72.71783447265625
+"06111","Newington","CT","Asia Grocers","230 W Hill Rd","06111",41.716636,-72.737939
+"06112","Hartford","CT","B J","not_available","06107",41.790018643228606,-72.67860744853013
+"06117","West Hartford","CT","Big Y World Class Market","772 N Main St","06117-2407",41.78704081143048,-72.74681728561768
+"06117","West Hartford","CT","Hall's Market","331 Park Rd","06119",41.75589734188554,-72.72903836601587
+"06117","West Hartford","CT","Whole Foods Market","340 N. Main St.","06117",41.784728213655086,-72.74575623431848
+"06117","West Hartford","CT","Cosmos International Imported Foods","770 Farmington Ave","06119",41.76512145397638,-72.72561248064963
+"06117","West Hartford","CT","Young's Oriental Grocery & Gift","167 Park Rd","06119",41.75776290893555,-72.7221450805664
+"06117","West Hartford","CT","ShopRite","46 Kane St","06119",41.753265787387534,-72.71559634031853
+"06118","East Hartford","CT","CTown Supermarkets","442 Main St","06118",41.75338485475038,-72.64042407274246
+"06120","Hartford","CT","Save-A-Lot","1888 Main St","06120",41.780676883529644,-72.67535693979713
+"06120","Hartford","CT","Office","806 Windsor St","06120",41.7895056,-72.6682094
+"06226","Willimantic","CT","Walmart Supercenter","474 Boston Post Rd","06256",41.74058186192196,-72.17419964712988
+"06226","Willimantic","CT","Willimantic Food Co-op","91 Valley St","06226",41.713573930990314,-72.21108027870578
+"06226","Willimantic","CT","Big Y World Class Market","141B Storrs Rd","06250",41.7378114082374,-72.19972493538592
+"06226","Willimantic","CT","Aldi's","332 Boston Post Rd","06256",41.73864054986604,-72.17901170253754
+"06226","Willimantic","CT","Bob's Windham IGA","422 Windham Rd","06226",41.70459113576951,-72.20788872784922
+"06226","Willimantic","CT","ShopRite","60 Cantor Dr","06226",41.725162506103516,-72.23896789550781
+"06226","Willimantic","CT","Price Rite of Willimantic","60 Cantor Drive","06226",41.725162506103516,-72.23896789550781
+"06231","Amston","CT","Ted's Supermarket","127 Main St","06248",41.66175684292965,-72.35524912993071
+"06234","Brooklyn","CT","Walmart Supercenter","450 Providence Road","06234",41.79837483,-71.91330996
+"06238","Coventry","CT","Highland Park Market","1721 Boston Tpke","06238",41.797586267080696,-72.37434356207142
+"06239","Danielson","CT","Big Y World Class Market","70 Wauregan Rd","06239-3712",41.79267046442441,-71.88407531355824
+"06241","Dayville","CT","United Natural Foods, Inc (unfi)","260 Lake Rd","06241",41.86288825608652,-71.90841227649874
+"06241","Dayville","CT","Aldi","728 Hartford Pike","06241",41.8408986,-71.8744971
+"06241","Dayville","CT","Cumberland Farms","Route 12","06241",41.840257717119215,-71.87535224867199
+"06249","Lebanon","CT","S & S Worldwide, Inc.","75 Mill St","06415",41.5769888,-72.3263806
+"06249","Lebanon","CT","Noel's Market","15 Broadway St","06415",41.57585232373212,-72.33289674855148
+"06250","Mansfield Center","CT","Price Chopper","Storrs Rd","not_available",41.802174,-72.241476
+"06250","Mansfield Center","CT","Tedeschi Food Shops","1254 Storrs Rd","06269",41.804373264312744,-72.24348
+"06255","North Grosvenordale","CT","XtraMart","9 Woodstock Rd","06277",41.9828119,-71.89788349999999
+"06260","Putnam","CT","Walmart Supercenter","625 School St","06260",41.92332035661577,-71.88828343203498
+"06260","Putnam","CT","Price Chopper","251 Kennedy Dr","06260",41.919466,-71.906834
+"06278","Ashford","CT","KSK Market","not_available","06278",41.862179,-72.188247
+"06320","New London","CT","ShopRite","351 Interstate 95 Frontage Rd.","06320",41.37234385862226,-72.11759024761271
+"06320","New London","CT","ALDI","122 Boston Post Rd","06385",41.3412666,-72.1254192
+"06320","New London","CT","NSA Supermarket","332 S Frontage Rd","06320",41.36891758506251,-72.1195306865867
+"06320","New London","CT","ShopRite of New London","351 North Frontage Road","06320",41.3721043,-72.1186827
+"06320","New London","CT","Lee's Oriental Market","435 Williams St","not_available",41.366637,-72.102218
+"06320","New London","CT","Zambala Grocery Store","128 State St","06320",41.3544410929223,-72.09547708918494
+"06331","Canterbury","CT","Rising Moon Natural Foods","708 Norwich Rd","06374",41.67252,-71.914392
+"06331","Canterbury","CT","Aldi's in Lisbon, Ct","not_available","06374",41.67540740966797,-71.91764831542969
+"06331","Canterbury","CT","Better Val*U","School St","06374",41.675384521484375,-71.9164047241211
+"06333","East Lyme","CT","Tri Town Foods","15 Chesterfield Rd","06333",41.367337906916006,-72.20895679439167
+"06333","East Lyme","CT","Natural Food Store","21 Hope Street","06357",41.32441711425781,-72.19482421875
+"06339","Ledyard","CT","Starwood Village Market","733 Colonel Ledyard Hwy","06339",41.441331764548586,-72.01749258941213
+"06339","Ledyard","CT","Food Market","not_available","06339",41.47739562772144,-71.96286746807755
+"06340","Groton","CT","Walmart","150 Gold Star Hwy","06340",41.369494227233105,-72.06444189490014
+"06340","Groton","CT","Big Y World Class Market","995 Poquonnock Rd","06340-4257",41.34504936910661,-72.04873292420507
+"06340","Groton","CT","ALDI","688 Long Hill Rd","06340",41.350273188548506,-72.05505494519136
+"06340","Groton","CT","New London Commissary","Naval Base New London","not_available",41.39086855799757,-72.08627222569493
+"06340","Groton","CT","Noank Community Market","17 Pearl St, Groton, CT 06340","06340",41.32488911937905,-71.98808847345823
+"06340","Groton","CT","Dolphin Mini Mart","305 Gungywamp Rd","06340",41.381342901379625,-72.07076334505449
+"06340","Groton","CT","Raj Cash and Carry","764 Long Hill Rd","06340",41.34826596914666,-72.05317324762353
+"06340","Groton","CT","Aldi's","not_available","06340",41.348161,-72.036907
+"06351","Jewett City","CT","Walmart Supercenter","180 River Rd","06351",41.58366030223644,-71.98988612353669
+"06351","Jewett City","CT","ALDI","175 River Rd","06351",41.58550470909145,-71.99440598487854
+"06351","Jewett City","CT","Better Val U","99 River Rd","06351",41.59012994841107,-71.97776251066001
+"06355","Mystic","CT","Big Y World Class Market","79 Stonington Rd","06355-2931",41.34545459330432,-71.95024589607232
+"06355","Mystic","CT","McQuade's Marketplace","14 Clara Dr","06355",41.37070695778506,-71.95700239489014
+"06355","Mystic","CT","Old Mystic General Store","47 Main St","06372",41.39087217324888,-71.96034417752831
+"06355","Mystic","CT","My great store","not_available","06355",41.34547576988636,-71.95016314900553
+"06360","Norwich","CT","Walmart","220 Salem Tpke","06360",41.50533313676233,-72.12263959896896
+"06360","Norwich","CT","Big Y World Class Market","224 Salem Tpke","06360-6455",41.505639474702846,-72.1239167092591
+"06360","Norwich","CT","ShopRite of Norwich","634 West Main St.","06360",41.51371191360605,-72.10138219957635
+"06360","Norwich","CT","ShopRite of Norwich","634 West Main St","06360",41.5135936,-72.1012193
+"06360","Norwich","CT","Panda Market","not_available","06360",41.524975,-72.074936
+"06360","Norwich","CT","S & S","2020 norwich","06385",41.554998,-72.05102
+"06360","Norwich","CT","K M Trader","168 W Town St","06360",41.554683685302734,-72.10781860351562
+"06360","Norwich","CT","Lucky Chinese Market","East Main Street","not_available",41.521633930869484,-72.06040658596096
+"06360","Norwich","CT","Starrwood Food Market","1 Norwich Ave","06360",41.55166200413116,-72.05247498002122
+"06360","Norwich","CT","Raviraj Grocery","427 W Main St","06360",41.52032470703125,-72.09429931640625
+"06360","Norwich","CT","Crystal Market","16 Franklin St","06360",41.52500915527344,-72.07500457763672
+"06360","Norwich","CT","Price Rite","not_available","06382",41.50021186489032,-72.11248717893685
+"06370","Oakdale","CT","Country Marketplace","1226 Old Colchester Rd","06370",41.47565176812985,-72.19063093358771
+"06371","Old Lyme","CT","Walmart","665 Boston Post Rd","06475",41.29687484126433,-72.38138804578172
+"06371","Old Lyme","CT","Big Y World Class Market","22 Spencer Plain Rd","06475-4000",41.28805422255035,-72.41608056745429
+"06371","Old Lyme","CT","Big Y World Class Market","90 Halls Rd","06371-4406",41.32258666147743,-72.3371656916118
+"06371","Old Lyme","CT","The Essex","30 Main St","06426",41.35159,-72.41025
+"06371","Old Lyme","CT","Walt's Food Market","178 Main St","06475",41.29301590279645,-72.37615044280008
+"06371","Old Lyme","CT","Colonial Market","125 Westbrook Rd","06426",41.3399549275572,-72.41416906752379
+"06371","Old Lyme","CT","Food Works II Natural Food Market","940 Boston Post Rd","06475",41.296477408699026,-72.3772956025351
+"06371","Old Lyme","CT","Old Lyme Country Market","not_available","06371",41.322599,-72.339269
+"06374","Plainfield","CT","Big Y World Class Market","83 Lathrop Rd","06374-2000",41.66227097626467,-71.91359298179214
+"06379","Pawcatuck","CT","McQuade's Marketplace","106 Main St","02891",41.37494927414213,-71.83021719976092
+"06382","Uncasville","CT","Pearl Market Inc.","2310 Norwich New London Tpke","06382",41.487565999999994,-72.10049599999999
+"06382","Uncasville","CT","Stop & Shop","2020 Norwich New London Tpke","06382",41.47993850708008,-72.09945678710938
+"06385","Waterford","CT","Walmart Supercenter","155 Waterford Parkway No.","06385",41.37028535597692,-72.15444473251003
+"06401","Ansonia","CT","Target","20 W Main St","06401",41.34036780876091,-73.07905390177083
+"06401","Ansonia","CT","ShopRite of Derby","49 Pershing Drive","06418",41.330165054969974,-73.08609079849603
+"06401","Ansonia","CT","Big Y World Class Market","403 Main St","06401",41.33959117917544,-73.07701347521562
+"06401","Ansonia","CT","Aldi Food Market","72 Pershing Dr","06418",41.32913228295393,-73.08439382209019
+"06401","Ansonia","CT","Mabuhay Asian Store","360 Main St","06401",41.340869,-73.07825799999999
+"06405","Branford","CT","Walmart","120 Commercial Pkwy","06405",41.28090704567183,-72.83044814257657
+"06405","Branford","CT","Big Y World Class Market","1060 W Main St","06405-3441",41.27442541695451,-72.83173100276997
+"06405","Branford","CT","Four Seasons Market LLC","875 W Main St","06405",41.27572492395344,-72.83659819295576
+"06405","Branford","CT","Caron's Corner","not_available","06405",41.27992327660913,-72.80778904898182
+"06405","Branford","CT","Medlyn  Farms","710 Leetes Island Rd","06405",41.269457,-72.735652
+"06405","Branford","CT","T&J IGA Supermarket","875 N High St","06512",41.30424289717215,-72.8540199792076
+"06405","Branford","CT","Alltown","I-95 Westbound Exit 54/53","06405",41.286618,-72.83424
+"06410","Cheshire","CT","Big Y World Class Market","1021 S Main St","06410-3468",41.4763651049436,-72.90743575167483
+"06410","Cheshire","CT","Walsh's Market","1786 Meriden Rd","06716",41.556670483647515,-72.94965700400974
+"06410","Cheshire","CT","Tops","Orchard Ln","06489",41.563109578338334,-72.86135872408008
+"06410","Cheshire","CT","Everybody's","not_available","06410",41.46711263670656,-72.90698918567992
+"06410","Cheshire","CT","IGA","935 Meriden-Waterbury Turnpike","06479",41.563366298331005,-72.87456063663672
+"06412","Chester","CT","Adams Super Food Store IGA","193 Main St","06417",41.38444831388666,-72.43485613647496
+"06412","Chester","CT","The Local Beet","1 Main St","06412",41.379913,-72.44537
+"06413","Clinton","CT","ShopRite","266 E Main St","06413",41.27059452851277,-72.50188275413531
+"06413","Clinton","CT","Alltown","I-95 Westbound/Exists 61-62","06443",41.291772,-72.580248
+"06413","Clinton","CT","ShopRite of Clinton CT","266 East Main Street","06413",41.2703251,-72.5012198
+"06415","Colchester","CT","Westchester Market","493 Westchester Rd","06415",41.54691992184551,-72.4119553346248
+"06415","Colchester","CT","Grist Mill Market","25 Falls Rd","06469",41.50574537381892,-72.44706183178579
+"06416","Cromwell","CT","ShopRite","45 Shunpike Road","06416",41.6041365,-72.6784949
+"06416","Cromwell","CT","Asia Grocers","not_available","06416",41.617438,-72.653033
+"06416","Cromwell","CT","Price Rite","136 Berlin Rd","06416",41.60767903767979,-72.70864760485928
+"06416","Cromwell","CT","Fils Polish American Deli","34 Shunpike Rd","06416",41.600907,-72.674032
+"06416","Cromwell","CT","Price Rite of Cromwell","136 Berlin Road","06416",41.6068265,-72.7086077
+"06418","Derby","CT","Big Y World Class Market","656 New Haven Ave","06418-2528",41.3130121,-73.0520653
+"06419","Killingworth","CT","Robert's Food Center","514 Old Toll Rd","06443",41.35988429489915,-72.63559172371994
+"06422","Durham","CT","Lyman Orchards Apple Barrel Market","32 Reeds Gap Road","06455",41.497378487484816,-72.71485104143152
+"06422","Durham","CT","The Lyman Homestead","3 Lyman Rd.","06455",41.49746924501045,-72.71484518591943
+"06422","Durham","CT","The Durham Market","238 Main St","06422",41.478701355030886,-72.68126989003814
+"06422","Durham","CT","Quick Stop","not_available","06422",41.446456,-72.736115
+"06423","East Haddam","CT","Tylerville Country Market","95 Bridge Rd","06438",41.448605302428504,-72.47274062775128
+"06423","East Haddam","CT","River Valley Provisions","not_available","06438",41.448322,-72.472398
+"06424","East Hampton","CT","Big Y World Class Market","7 East Hampton Road, Rt. 66","06447",41.63058477587858,-72.45949051318689
+"06424","East Hampton","CT","Grist Mill Country Market","311 Saybrook Rd. (Rt. 154)","not_available",41.49650049100865,-72.55806438625302
+"06424","East Hampton","CT","Stop & Shop","11 E High St","06424",41.5840078,-72.5053794
+"06437","Guilford","CT","Bishop's Orchards Farm Market & Winery","1355 Boston Post Road","06437",41.28980827993274,-72.69499065837762
+"06437","Guilford","CT","Walmart","900 Boston Post Rd","06437",41.28766314971694,-72.67873833152298
+"06437","Guilford","CT","The Fresh Market","1919 Boston Post Rd, Ste 305","06437",41.29971375855722,-72.70630256543784
+"06437","Guilford","CT","FoodWorks","not_available","06437",41.28845661906367,-72.66261083099083
+"06437","Guilford","CT","Big Y World Class Market","830 Boston Post Rd","06437-2701",41.288413115308735,-72.67709280340637
+"06437","Guilford","CT","Guilford Food Center","77 Whitfield St","06437",41.281560320464884,-72.68239845752653
+"06437","Guilford","CT","Country Grocer","23 Water St #C","06437",41.281269007056125,-72.68277589058609
+"06443","Madison","CT","Stop shop","Sampson st","06443",41.277919856533295,-72.59655194422896
+"06450","Meriden","CT","Big Y World Class Market","533 S Broad St","06450-6661",41.507144473355,-72.80661290019918
+"06450","Meriden","CT","CTown Supermarkets","160 Colony St","06451",41.542285480331984,-72.80020728707314
+"06450","Meriden","CT","Aldi","1248 S Broad St","06492",41.5042629,-72.8083787
+"06450","Meriden","CT","Sam's Food Store","343 W Main St","06451",41.539938,-72.8141
+"06450","Meriden","CT","Save-A-Lot","311 W Main St","06451",41.54066597568716,-72.81292103914956
+"06457","Middletown","CT","Price Chopper","855 Washington Ave.","6457",41.553178,-72.68034
+"06457","Middletown","CT","Aldi","671 Washington St","06457",41.553529985569234,-72.67419576644892
+"06457","Middletown","CT","Tri Town Foods","316 Marlborough St","06480",41.56900535923477,-72.62738696791024
+"06457","Middletown","CT","It's Only Natural Market","575 Main St","06457",41.56399519231883,-72.65203154196745
+"06457","Middletown","CT","Indian Grocery Store","749 Saybrook Rd","06457",41.536794,-72.616973
+"06457","Middletown","CT","Amazing Grace Food Pantry","15 Stack St.","06457",41.56843520453668,-72.65528715608393
+"06457","Middletown","CT","Middletown Grocery Store","not_available","06457",41.557201,-72.649771
+"06457","Middletown","CT","Weshop","Cross St.","06457",41.55377887720022,-72.6587462425232
+"06460","Milford","CT","Whole Foods Market","1686 Boston Post Road","06460",41.248100994192804,-73.02544554032012
+"06460","Milford","CT","Walmart","1365 Boston Post Rd","06460",41.23818752366308,-73.03156060049746
+"06460","Milford","CT","Shop Rite","not_available","06460",41.231021660318596,-73.04935769081753
+"06460","Milford","CT","Trader Joe's","560 Boston Post Rd","06477",41.25159967708983,-73.01789458397309
+"06460","Milford","CT","Big Y World Class Market","150 Boston Post Rd","06460-3134",41.220259,-73.075867
+"06460","Milford","CT","Adam's Supermarket","1391 New Haven Ave","06460",41.22810358427092,-72.99683514474128
+"06460","Milford","CT","Alltown","I-95 Eastbound/Ex 40-41","06460",41.24663933301471,-73.01009098121668
+"06460","Milford","CT","Super Stop & Shop","1360 E Town Rd","06460",41.23713647067401,-73.03014099597931
+"06460","Milford","CT","Walmart","150 Barnum Avenue Cutoff","06614",41.20112381719914,-73.11871112458914
+"06460","Milford","CT","Aldi","238 Boston Post Rd","06460",41.2219167,-73.0746832
+"06460","Milford","CT","ShopRite of Milford, CT","935 Boston Post Road","06460",41.2310291,-73.0500595
+"06460","Milford","CT","ShopRite","250 Barnum Avenue Cutoff","06614",41.20024668657565,-73.11947047592055
+"06460","Milford","CT","Healthy Foods Plus","New Haven Ave.","not_available",41.223362795601595,-73.0671110455408
+"06460","Milford","CT","Alltown","I-95 Westbound/Ex 40-41","06460",41.24583729439063,-73.00930584890403
+"06460","Milford","CT","Asian Supermarket","532 Boston Post Rd","06460",41.229745761900496,-73.06642151522361
+"06460","Milford","CT","Lin Asian Food Market","732 Boston Post Rd, Milford, CT 06461","06461",41.22220734652248,-73.07431622947789
+"06460","Milford","CT","Beachside Supermarket","234 Melba St","06460",41.20935366638675,-73.01900350270392
+"06468","Monroe","CT","Big Y World Class Market","535 Monroe Tpke","06468-2382",41.318457925065125,-73.21619537822886
+"06470","Newtown","CT","Caraluzzi's Newtown Market","5 Queen St","06470",41.41334682568399,-73.30195713896329
+"06470","Newtown","CT","Big Y World Class Market","6 Queen St","06470-2146",41.411930375980205,-73.30448196942166
+"06470","Newtown","CT","Dodgingtown Market & Country Deli","57 Dodgingtown Rd","06470",41.37980315230594,-73.35716884186756
+"06471","North Branford","CT","Big Y World Class Market","1289 Foxon Rd. Rt 80","06471",41.325911935845205,-72.78064762783379
+"06472","Northford","CT","Grab n Go convenience store","855 forest ave","06472",41.39116277118727,-72.79200245464058
+"06473","North Haven","CT","Big Y World Class Market","345 Washington Ave","06473-1307",41.407766144858606,-72.84640777477995
+"06473","North Haven","CT","Thyme & Season","3040 Whitney Ave","06518",41.40576910121448,-72.89948421037421
+"06473","North Haven","CT","Royalty Wine Making Group,llc","311 Washington Avenue","06473",41.4038791,-72.84785929999998
+"06473","North Haven","CT","Connecticut Natural Food Market","575 Washington Ave","06473",41.419842687898715,-72.84043388861957
+"06473","North Haven","CT","Pro Med Nutrition","31 Bernhard Rd # 1","06473",41.334555,-72.8731015
+"06473","North Haven","CT","Expect","17 Universal Dr N","06473",41.357268866666665,-72.87030025
+"06477","Orange","CT","ShopRite of Orange, CT","259 Bull Hill Lane","06477",41.27429482005738,-72.98592742461572
+"06477","Orange","CT","Hong Kong Super Market","1055 Boston Post Rd","06516",41.28372530704504,-72.98091974609709
+"06477","Orange","CT","Everything food","not_available","06477",41.28335352883867,-73.0292558670044
+"06477","Orange","CT","Bharat Bazar Indian Supermarket","85 Boston Post Rd","06477",41.27743912799673,-72.98925437061467
+"06478","Oxford","CT","Market 32","300 Oxford Rd","06478",41.42312914399486,-73.10622784425465
+"06484","Shelton","CT","Walmart","465 Bridgeport Ave","06484",41.29124406642537,-73.1132146887869
+"06484","Shelton","CT","Big Y World Class Market","401 Bridgeport Ave","06484-5303",41.29448642047623,-73.11130795126405
+"06484","Shelton","CT","Adams Hometown Market","200 Leavenworth Rd","06484",41.33214452217896,-73.1378965145175
+"06484","Shelton","CT","ShopRite of Shelton","875 Bridgeport Avenue","06484",41.26499257362064,-73.13431986972623
+"06484","Shelton","CT","International Marketing Systems Ltd.","2 Corporate Dr Ste 136","06484",41.275390625,-73.12943267822266
+"06488","Southbury","CT","ShopRite","775 Main St S","06488",41.46313320569741,-73.23012505425811
+"06488","Southbury","CT","Southbury Food Center","not_available","06488",41.47691474,-73.2181372
+"06488","Southbury","CT","ShopRite of Southbury","775 Main Street South","06488",41.4622272,-73.2312585
+"06489","Southington","CT","Target","600 Executive Blvd","06489",41.611354688195036,-72.90141890131207
+"06489","Southington","CT","ShopRite of Southington","750 Queen Street","06489",41.636696976389885,-72.87476682587362
+"06489","Southington","CT","Walmart","235 Queen St","06489",41.623228967515,-72.8698347254398
+"06489","Southington","CT","Price Chopper","410 Queen St","06489",41.62761,-72.875221
+"06492","Wallingford","CT","Walmart Supercenter","844 N Colony Rd","06492",41.47706952490374,-72.81065773299443
+"06492","Wallingford","CT","ShopRite","846 N Colony Rd","06492",41.479117672176145,-72.80945174061208
+"06492","Wallingford","CT","East Center Market","816 E Center St","06492",41.44824570929019,-72.80369022189187
+"06492","Wallingford","CT","West Center Market","not_available","06492",41.45369659284216,-72.8411283809078
+"06492","Wallingford","CT","Food Land","246-366 U.S. 5","06492",41.45190659598204,-72.82657919019543
+"06492","Wallingford","CT","ShopRite of Wallingford","846 North Colony Road","06492",41.4789822,-72.8088962
+"06492","Wallingford","CT","Sunny's Convenience Plus","823 E Center St","06492",41.44786475,-72.80371423333334
+"06510","New Haven","CT","Elm City Market","777 Chapel St","06510",41.30529500596514,-72.92355021976903
+"06510","New Haven","CT","Hong Kong Grocery","71 Whitney Ave","06510",41.31251736132945,-72.92188479072466
+"06510","New Haven","CT","Olive & Grand Food Mart","135 Olive St","06511",41.30718994140625,-72.91912078857422
+"06510","New Haven","CT","Million Asian Market","not_available","06510",41.30336755284793,-72.92551244517765
+"06510","New Haven","CT","Jmart","not_available","06504",41.30463409423828,-72.93451690673828
+"06511","New Haven","CT","C-Town Supermarkets","325 Ferry Street","06513",41.30851300713383,-72.89472699165344
+"06511","New Haven","CT","Edge Of The Woods","379 Whalley Ave","06511",41.318000886923336,-72.94525877904779
+"06511","New Haven","CT","Ferraro's Supermarket","664 Grand Ave","06511",41.30835475322643,-72.91297035777086
+"06511","New Haven","CT","CTown Supermarkets","482 Greenwich Ave","06519",41.2909672295587,-72.93417155742645
+"06511","New Haven","CT","ActualFood World HQ","Greene Street","06511",41.305688,-72.917023
+"06511","New Haven","CT","Vinny's Food Store","265 Winchester Ave","06511",41.32121015282796,-72.92888988181375
+"06511","New Haven","CT","Han Mi Asian Foods","2-16 Mechanic St","06511",41.31615929620823,-72.90938872764244
+"06511","New Haven","CT","Lamberti's Italian Sausage","207 Food Terminal Plz","06511",41.2939585,-72.9216014
+"06511","New Haven","CT","kimbi market","not_available","06519",41.29181418527824,-72.9332386354574
+"06511","New Haven","CT","sam's food stores","forbes ave","06512",41.2934253912976,-72.89762664946241
+"06511","New Haven","CT","Upper State Street Farm Market","911 State St","06511",41.31452,-72.911163
+"06511","New Haven","CT","Romeo and Cesare's Gourmet Shoppe","773 Orange St","06511",41.32149125636105,-72.91212684747826
+"06511","New Haven","CT","ShopRite","1131 Campbell Ave","06516",41.28992561693324,-72.95726493193568
+"06511","New Haven","CT","Ziolos Polish Deli","835 Grand Ave","06511",41.307957,-72.916871
+"06511","New Haven","CT","Sunny Produce LLC","333 Food Terminal Plaza","06511",41.296265,-72.92411
+"06512","East Haven","CT","ShopRite of East Haven","745 Foxon Road","06513",41.322966807394764,-72.85496925826948
+"06512","East Haven","CT","Walmart Supercenter","315 Foxon Blvd","06513",41.32054029869425,-72.87701298206817
+"06512","East Haven","CT","Aldi","466 Foxon Blvd","06513",41.3214012,-72.8695822
+"06512","East Haven","CT","asian farmers market","913 Foxon Rd","06513",41.321346000000005,-72.86346999999999
+"06512","East Haven","CT","Big Lots","78 Frontage Rd","06512",41.285659376975275,-72.88108430274724
+"06512","East Haven","CT","A&P Super Foodmart","not_available","06513",41.32321721687991,-72.85506248474121
+"06512","East Haven","CT","Krauszer's Food Store","640 Foxon Rd","06513",41.32181310000001,-72.8512612
+"06512","East Haven","CT","T-Asian Market","20 Foxon Blvd","06513",41.321098,-72.862417
+"06514","Hamden","CT","ShopRite of Hamden","2100 Dixwell Avenue","06514",41.369513881295056,-72.9215399031286
+"06514","Hamden","CT","Super Stop & Shop","2335 Dixwell Ave","06514",41.372291971863866,-72.91417300701141
+"06514","Hamden","CT","Walmart","2300 Dixwell Ave","06514",41.37343223125175,-72.91846430734573
+"06514","Hamden","CT","Alltown Fresh","1941 Dixwell Ave","06514",41.363942,-72.92265
+"06514","Hamden","CT","Price Rite","1869 Dixwell Ave","06514",41.36275221444381,-72.92270292567159
+"06514","Hamden","CT","Whitneyville Food Center","1248 Whitney Ave","06517",41.34655,-72.91293
+"06514","Hamden","CT","Price Rite of Hamden","1869 Dixwell Ave.","06514",41.3633077,-72.9224878
+"06514","Hamden","CT","Save-A-Lot","1125 Dixwell Ave","06514",41.343666076660156,-72.9341049194336
+"06515","New Haven","CT","Westville Quality Market","243 Alden Ave","06515",41.322834,-72.963785
+"06515","New Haven","CT","Westville Kosher Market","1460 Whalley Ave","06525",41.33681926701324,-72.97782318771017
+"06516","West Haven","CT","Walmart","515 Saw Mill Rd","06516",41.270424821361885,-72.97746163512136
+"06516","West Haven","CT","Aldi","535 Saw Mill Rd","06516",41.2688463,-72.9785544
+"06516","West Haven","CT","African Tree Market * African & Caribbean Grocery","491 Campbell Ave","06516",41.271915435791016,-72.94927215576172
+"06516","West Haven","CT","Makkah Halal","not_available","06516",41.288529,-72.971936
+"06516","West Haven","CT","Indian & Asian Groceries","315 York St","06516",41.27446365356445,-72.96464538574219
+"06516","West Haven","CT","Durante's Pasta","78 Fenwick St","06516",41.29916685953569,-72.97406343835523
+"06516","West Haven","CT","Brito's Grocery","559 Campbell Ave","06516",41.273142,-72.950465
+"06516","West Haven","CT","Co-Op","1002 Campbell Ave","06516",41.285858154296875,-72.9585952758789
+"06516","West Haven","CT","Makkah Halal Market","702 Boston Post Rd #A","06516",41.2880308,-72.9717047
+"06524","Bethany","CT","Walmart Garden Center","1100 New Haven Rd","06770",41.470955,-73.028701
+"06604","Bridgeport","CT","Whole Foods Market","350 Grasmere Avenue","06824",41.158260011010896,-73.24027233918937
+"06604","Bridgeport","CT","Compare Supermarket","East Main St","06608",41.18849177813881,-73.1802923043751
+"06604","Bridgeport","CT","Save-A-Lot","540 Pequonnock St","06604",41.1829093309906,-73.20439922621274
+"06604","Bridgeport","CT","Price Rite of Bridgeport - Main Street","4425 Main Street","06606",41.2198283138264,-73.21679148064085
+"06604","Bridgeport","CT","Food Bazaar","Sylvan Ave","not_available",41.208224605037906,-73.19163238975358
+"06604","Bridgeport","CT","Compare Foods","1457 Fairfield Ave","06605",41.17221165655431,-73.21102282188528
+"06604","Bridgeport","CT","Price Rite","164 Boston Ave","06610",41.20085669328522,-73.18676266994348
+"06604","Bridgeport","CT","ShopRite of Stratford","250 Barnum Avenue","06614",41.1872997,-73.1842916
+"06604","Bridgeport","CT","Mi Rancho Deli & Grocery Store","2754 Fairfield Ave","06605",41.1583582,-73.22580409999999
+"06604","Bridgeport","CT","DR Asian Market","not_available","06605",41.175758,-73.213165
+"06604","Bridgeport","CT","Park Ave","not_available","06604",41.16704254166374,-73.1950965583208
+"06604","Bridgeport","CT","Oriental Supermarket","not_available","06606",41.16638130712667,-73.21065892595264
+"06604","Bridgeport","CT","City Supermarkets","Main St","06606",41.19372157,-73.19873302
+"06604","Bridgeport","CT","Indus Grocery","3295 Fairfield Ave","06605",41.15503587464218,-73.23390175534938
+"06604","Bridgeport","CT","Gala Foods","Fairfield Avenue","06605",41.172124,-73.210974
+"06604","Bridgeport","CT","Price Rite of Bridgeport - Boston Ave","164 Boston Ave.","06610",41.2002697,-73.1861207
+"06604","Bridgeport","CT","Gala Foods","1050 E Main St","06608",41.18901824951172,-73.18048858642578
+"06604","Bridgeport","CT","PriceRite","Main St","O6606",41.19682856103711,-73.20049122981725
+"06604","Bridgeport","CT","Hillview Superette","3751 Madison Ave","06606",41.22216138871248,-73.23091849161828
+"06604","Bridgeport","CT","Chợ Miền Nam","129 Wood Ave","06605",41.177306,-73.203562
+"06604","Bridgeport","CT","Oriental Supermarket","320 Coleman St","06604",41.181090999999995,-73.200941
+"06604","Bridgeport","CT","Pursat Supermarket","215 Maple Ave","06605",41.179988,-73.20587900000001
+"06607","Bridgeport","CT","Santa Marta's","not_available","06607",41.18076,-73.159217
+"06610","Bridgeport","CT","Foodworld IGA","345 huntington tnpk","not_available",41.21412411212328,-73.17566053279344
+"06611","Trumbull","CT","Big Y World Class Market","355 Hawley Ln","06614-1595",41.2319719793642,-73.1487306063691
+"06611","Trumbull","CT","Peapod Pick Up - Trumbull","100 Quality St","06611",41.255332946777344,-73.21688079833984
+"06614","Stratford","CT","Slavianka European Grocery Store","Barnum Avenue Cut-Off","not_available",41.19846725463867,-73.1279067993164
+"06614","Stratford","CT","Gino's Pizza Grill","1720 Barnum Ave","06614",41.1946539,-73.1431667
+"06614","Stratford","CT","CTown Supermarkets","360 Boston Ave","06614",41.1946124,-73.1537059
+"06615","Stratford","CT","Victory","1392 South Ave","06615",41.183303,-73.137247
+"06702","Waterbury","CT","Cherry Valley MarketPlace","155 Thomaston Ave","06702",41.558723,-73.052982
+"06702","Waterbury","CT","quality market","not_available","06702",41.553283708847935,-73.05018086265262
+"06702","Waterbury","CT","Save-A-Lot","205 Union St","06706",41.55321377332165,-73.03362651678597
+"06704","Waterbury","CT","Walmart","910 Wolcott St","06705",41.56346217559574,-73.00474736515787
+"06704","Waterbury","CT","ShopRite of Waterbury","943 Wolcott Street","06705",41.567164513465805,-73.00919706991426
+"06704","Waterbury","CT","Aldi's","62 Chase Ave","06704",41.579552,-73.0290461
+"06704","Waterbury","CT","Alltown Fresh","71 Homer St","06704",41.586123,-73.046929
+"06704","Waterbury","CT","Colonial Grocer","103 Colonial Ave","06704",41.585482,-73.056366
+"06704","Waterbury","CT","Compare Foods","north main","06708",41.553025197029136,-73.06093746537462
+"06704","Waterbury","CT","Save-A-Lot","1805 N Main St","06704",41.575987,-73.026967
+"06705","Waterbury","CT","Bismillah Grocery & Halal Meat","72 Store Ave","06705",41.55216126339676,-73.00989971202208
+"06705","Waterbury","CT","Aldis","464 Reidville Dr","06705",41.5380873,-72.9965806
+"06705","Waterbury","CT","Madani's Market, Inc","139 Scott Road","06705",41.5387,-72.993595
+"06705","Waterbury","CT","Balkan market","507 Frost Rd","06705",41.55302810668945,-73.00079345703125
+"06708","Waterbury","CT","Key Foods Market","286 Fairfield Ave","06708",41.53569194947419,-73.05945889440184
+"06708","Waterbury","CT","Nature's Goods Market","860 Straits Tpke","06762",41.53313978909526,-73.0851501017602
+"06712","Prospect","CT","LaBonne’s Market","75 Waterbury Rd","06712",41.5142493062666,-72.98569679260254
+"06716","Wolcott","CT","Pat's IGA","816 Wolcott Rd","06716",41.60541696636688,-72.98560594956959
+"06750","Bantam","CT","Bantam Market","not_available","06750",41.72435044626888,-73.23569852682056
+"06750","Bantam","CT","Big Value Market","Bantam Rd","not_available",41.724292655107675,-73.23572158813477
+"06751","Bethlehem","CT","Sunny Ridge Supermarket","82 Main St S","06751",41.635325,-73.20953399999999
+"06759","Litchfield","CT","Aldi","320 E Elm St","06790",41.80721726548368,-73.11593816445566
+"06759","Litchfield","CT","Stop & Shop - Litchfield","331 West St","06759",41.74431907061074,-73.20075989828545
+"06759","Litchfield","CT","Price Rite of Torrington","695 Main Street","06790",41.815191,-73.1242967
+"06759","Litchfield","CT","The Market","not_available","06759",41.74458908290641,-73.20088872913739
+"06762","Middlebury","CT","Dinova's Four Corners Store","600 Middlebury Rd","06762",41.53828043106496,-73.10834565470084
+"06770","Naugatuck","CT","Big Y World Class Market","85 Bridge Street Rt 68","06770",41.50045571406316,-73.05291434014066
+"06776","New Milford","CT","Walmart","164 Danbury Rd","06776",41.55170977696132,-73.41925145750088
+"06776","New Milford","CT","Big Y World Class Market","1 Kent Rd","06776-3405",41.57381177056969,-73.41957124113924
+"06776","New Milford","CT","Aldi","125 Danbury Rd","06776",41.55714298281247,-73.41614709065658
+"06776","New Milford","CT","Northville Market","302 Litchfield Rd","06776",41.631950273800854,-73.39283430139365
+"06784","Sherman","CT","Sherman IGA","15 Gaylordsville Rd","06784",41.58038774821636,-73.49808232987888
+"06786","Terryville","CT","Adam's IGA","311 Main St","06786",41.679369075732865,-73.01905683289536
+"06787","Thomaston","CT","Adam's Market","not_available","06787",41.67374645794954,-73.07400879693202
+"06790","Torrington","CT","Walmart","970 Torringford St","06790",41.81868333081868,-73.07850242145743
+"06790","Torrington","CT","Big Y World Class Market","504 Winsted Rd","06790-2963",41.82589139902344,-73.11028443974226
+"06790","Torrington","CT","Price Chopper","990 Torringford St","06790",41.81956,-73.078402
+"06790","Torrington","CT","The Good Life","1083 E Main St","06790",41.814701,-73.097656
+"06793","Washington","CT","Washington Depot Market","not_available","06794",41.64032613984539,-73.3197322550834
+"06793","Washington","CT","Washington Food Market Inc.","5 Bryan Plaza","06794",41.64026339999999,-73.31956439999999
+"06795","Watertown","CT","LaBonne's Market","639 Straits Tpke","06795",41.57487260098717,-73.09935697484826
+"06795","Watertown","CT","Adams Supermarket","152-302 Main St","06795",41.59410444124988,-73.10914003081653
+"06798","Woodbury","CT","LaBonne's Market","214-280 Main St S","06798",41.542943062635395,-73.20949277291167
+"06801","Bethel","CT","Caraluzzi's Bethel Food Market","98 Greenwood Ave","06801",41.37105161916531,-73.40988060551585
+"06801","Bethel","CT","Walmart","67 Newtown Rd","06810",41.408074902763175,-73.41367259122778
+"06801","Bethel","CT","Big Y World Class Market","83 Stony Hill Rd","06801-3059",41.41267276976593,-73.37897067021316
+"06801","Bethel","CT","Aldi Food Market","61 Newtown Rd","06810",41.404714192684295,-73.41901096981019
+"06801","Bethel","CT","Alltown","110 Newtown Rd","06810",41.41570281982422,-73.40874481201172
+"06801","Bethel","CT","Bethel Food Basket","Greenwood Ave","not_available",41.384078405232536,-73.40697376063034
+"06804","Brookfield","CT","ShopRite of Brookfield","143 Federal Rd.","06804",41.437313522654236,-73.40680680438523
+"06804","Brookfield","CT","ShopRite of Brookfield","143 Federal Road","06804",41.43756103515625,-73.40658569335938
+"06807","Cos Cob","CT","Balducci's","1050 E Putnam Ave","06878",41.04147045731861,-73.58676889451341
+"06807","Cos Cob","CT","ACME Markets","1261 E Putnam Ave","06878",41.0425910949707,-73.5771255493164
+"06810","Danbury","CT","ShopRite of Danbury","1 Padanaram Rd.","06811",41.41473235345102,-73.45682144165038
+"06810","Danbury","CT","Trader Joe's","113 Mill Plain Rd","06811",41.392794499802704,-73.5221490139584
+"06810","Danbury","CT","Whole Foods Market","5C Sugar Hollow Road","06810",41.37788907554919,-73.4755288031075
+"06810","Danbury","CT","Kk Asian Market","10 Hayestown Ave","06811",41.412031,-73.454887
+"06810","Danbury","CT","CTown Supermarkets","45 North St","06810",41.405118,-73.457636
+"06810","Danbury","CT","Asia Fresh Market","221 Main St","06810",41.394868,-73.45223100000001
+"06810","Danbury","CT","Atlantic Market","135 Main St","06810",41.392418,-73.449315
+"06810","Danbury","CT","H & K Filipino Variety Store","not_available","06810",41.3985710144043,-73.45661163330078
+"06810","Danbury","CT","Danbury Green","115 Mill Plain Road","06811",41.3925737,-73.5216839
+"06810","Danbury","CT","La Chicanita","301 Main St","06810",41.39646911621094,-73.45427703857422
+"06810","Danbury","CT","Ridgefield Organics","not_available","06877",41.37358025,-73.54202631666666
+"06810","Danbury","CT","Price Rite of Danbury","29 Main Street","06810",41.3885871,-73.4449665
+"06820","Darien","CT","Whole Foods Market","150 Ledge Road","06820",41.07314542206918,-73.4765304378662
+"06820","Darien","CT","Darinor Plaza","500 Connecticut Ave","06854",41.0994374,-73.444246
+"06820","Darien","CT","Walmart","680 Connecticut Ave","06854",41.0961379,-73.4495501
+"06820","Darien","CT","Trader Joe's","436 Boston Post Rd","06820",41.084598693014705,-73.4617268415406
+"06820","Darien","CT","Palmer's Darien","264 Heights Rd","06820",41.06984048850008,-73.49641994796687
+"06820","Darien","CT","Produce Market","Hope street","06907",41.093326,-73.517704
+"06820","Darien","CT","Alltown","I-95 South Exit 10-9 South","06820",41.067383905038824,-73.50452605232934
+"06820","Darien","CT","Alltown","I-95 Northbound/Ex 11-12","06820",41.080814690411145,-73.46147674476056
+"06820","Darien","CT","Post Road Plaza","430 Post Rd","06820",41.084528762587254,-73.46165744600512
+"06824","Fairfield","CT","Trader Joe's","2258 Black Rock Turnpike","06825",41.182843492623846,-73.25349261509771
+"06824","Fairfield","CT","ShopRite of Fairfield","1975 Black Rock Turnpike","06825",41.1799915,-73.2498449
+"06824","Fairfield","CT","The Pantry","1580 Post Rd","06824",41.14152642488615,-73.25936664489306
+"06824","Fairfield","CT","Neighborhood Grocery","not_available","06824",41.150093465157575,-73.25337548128688
+"06824","Fairfield","CT","Fountain of Youth","1789 Post Rd E","06880",41.138710021972656,-73.30213165283203
+"06824","Fairfield","CT","Fairfield Center","1499 Post Rd","06824",41.14071594429324,-73.25810730457306
+"06824","Fairfield","CT","Porricelli's","not_available","06880",41.184225,-73.331594
+"06824","Fairfield","CT","Alltown","I-95 Westbound/EX21-22","06824",41.1408363,-73.2612615
+"06830","Greenwich","CT","Whole Foods Market","90 E. Putnam Ave","06830",41.03319289895075,-73.6239446849178
+"06830","Greenwich","CT","ACME Markets","160 W Putnam Ave","06830",41.0266969,-73.6308695
+"06830","Greenwich","CT","IGA","North Street","not_available",41.089618361553235,-73.64001620256242
+"06830","Greenwich","CT","Alltown","Merritt Parkway North, Exit 27-28","06831",41.0262417,-73.6281964
+"06831","Greenwich","CT","Wegmans","106 Corporate Park Drive","10604",41.020328,-73.719007
+"06831","Greenwich","CT","DeCicco & Sons","17 Maple Ave","10504",41.12622755201637,-73.71283174375549
+"06831","Greenwich","CT","Cherry Blossom Farm","377 Main St","10504",41.125107,-73.714385
+"06831","Greenwich","CT","Bravo Supermarket","65 W Red Oak Ln","10604",41.01498031616211,-73.72250366210938
+"06840","New Canaan","CT","The Market At Pound Ridge Square","not_available","10576",41.190426,-73.549126
+"06840","New Canaan","CT","ACME Markets","288 Elm St","06840",41.1447593,-73.500272
+"06840","New Canaan","CT","Scott's Corner Market","55 Westchester Ave","10576",41.18973633086081,-73.54964974397868
+"06840","New Canaan","CT","Stewart's Wine & Spirits","227 Elm St","06840",41.1461,-73.4977
+"06850","Norwalk","CT","Walmart","650 Main Ave","06851",41.15896493820069,-73.41790129777534
+"06850","Norwalk","CT","ShopRite of Norwalk","360 Connecticut Ave.","06854",41.10190559007163,-73.44031606739071
+"06850","Norwalk","CT","Patel Brothers","330 Connecticut Ave","06854",41.10301936164952,-73.4368574807395
+"06850","Norwalk","CT","CTown Supermarkets","5/7 Washington Ave","10031",41.09945725131029,-73.42114265387784
+"06850","Norwalk","CT","City Super Market","717 West Ave","06850",41.11594537389349,-73.41462468761387
+"06850","Norwalk","CT","Produce Market","not_available","06851",41.130516560452,-73.42348552693743
+"06850","Norwalk","CT","ShopRite of Norwalk","Connecticut & Scribner Aves","06850",41.1024574,-73.4359224
+"06850","Norwalk","CT","Compare Foods","7 Washington St","06854",41.099510192871094,-73.4216537475586
+"06850","Norwalk","CT","Associated Supermarket Latino","23 West Ave","06854",41.10287094116211,-73.41910552978516
+"06851","Norwalk","CT","Whole Foods Market","399 Post Road West","06880",41.12836513411472,-73.3802633105212
+"06851","Norwalk","CT","Cranbury Market IGA","343 Newtown Ave","06851",41.146475182256786,-73.39477466660321
+"06851","Norwalk","CT","Pepperidge Farm Outlet","406 Westport Ave","06851",41.12596574145709,-73.3897405692169
+"06853","Norwalk","CT","Rowayton Market","157 Rowayton Ave","06853",41.06814105817023,-73.44366788864134
+"06854","Norwalk","CT","Lucerito's Family Grocery","36 Van Zant St","06855",41.101299,-73.407001
+"06870","Old Greenwich","CT","Maruichi Japanese Food & Deli","1980 W Main St","06902",41.047503346471935,-73.56263995170593
+"06870","Old Greenwich","CT","Two Brothers Supermarket","Stillwater Ave","06902",41.04778534813493,-73.55804113446737
+"06870","Old Greenwich","CT","Peapod Stamford","1237 West Main Ave","not_available",41.050700619607746,-73.5621303052705
+"06870","Old Greenwich","CT","Porricelli's Market","26 Arcadia Rd","06870",41.03249740600586,-73.56703186035156
+"06877","Ridgefield","CT","Bel Canto Fancy Foods Ltd","100 E Ridge Rd","06877",41.281924,-73.493163
+"06880","Westport","CT","Trader Joe's","400 Post Road E","06880",41.1400870746104,-73.35188324331239
+"06880","Westport","CT","The Fresh Market","605 Post Rd E","06880",41.138917366988416,-73.34462164805146
+"06880","Westport","CT","The Village Center","605-645 Post Rd E","06880",41.1387902,-73.3443873
+"06883","Weston","CT","Peter's Weston Market","190 Weston Rd","06883",41.201836889645186,-73.38194648294608
+"06896","Redding","CT","Caraluzzi's Georgetown Market","920 Danbury Rd","06897",41.25660531822289,-73.43466417338863
+"06897","Wilton","CT","Village Market","108 Old Ridgefield Rd","06897",41.19393804706811,-73.43130751787953
+"06901","Stamford","CT","Key Food","80 Prospect St","06901",41.05847930908203,-73.53661346435547
+"06901","Stamford","CT","La Marqueta","58 Prospect","not_available",41.05831,-73.536443
+"06902","Stamford","CT","Grade A Market","563 Newfield Ave","06905",41.07989081829056,-73.53299471332697
+"06902","Stamford","CT","Grade A Market of Hope Street","495 Hope Street","06906",41.07666952815903,-73.52193369776265
+"06902","Stamford","CT","ShopRite","200 Shippan Ave","06902",41.048293889856204,-73.52391209271696
+"06902","Stamford","CT","ShopRite of Shippan Ave- Stamford, CT","200 Shippan Ave.","06902",41.048296,-73.52346
+"06902","Stamford","CT","Sezam Market","Hope street","06906",41.071336800424035,-73.52440452524273
+"06902","Stamford","CT","The House Of Green Divinity.","950 High Ridge Rd","06905",41.103799,-73.54891500000001
+"06902","Stamford","CT","Grade A Markets- Newfield Ave.- Stamford, CT","563 Newfield Avenue","06905",41.079734802246094,-73.53385162353516
+"06902","Stamford","CT","grade a market","not_available","06820",41.08438768318089,-73.5195840627664
+"06902","Stamford","CT","European Deli","427 Elm St","06902",41.050080380413625,-73.527352809906
+"06902","Stamford","CT","ShopRite Grade A Market of Newfield Avenue","563 Newfield Ave.","06902",41.0803987,-73.5323995
+"06902","Stamford","CT","City Supermarket","808 E Main St","06902",41.05540084838867,-73.52760314941406
+"06903","Stamford","CT","Trader Joe's","1041 High Ridge Rd","06905",41.107104334614526,-73.5473891693032
+"06903","Stamford","CT","ACME Markets","1201 High Ridge Rd","06905",41.10983357298032,-73.5462999343872
+"06903","Stamford","CT","LaRocca's Country Market","105 Old Long Ridge Rd","06903",41.145013902130074,-73.58938573124873

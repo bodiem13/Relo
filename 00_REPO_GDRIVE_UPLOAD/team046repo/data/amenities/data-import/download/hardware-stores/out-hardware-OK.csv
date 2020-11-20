@@ -1,0 +1,821 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"73003","Edmond","OK","Lowe's","2401 North Kelly Avenue","73003",35.6793077,-97.4976933
+"73003","Edmond","OK","Westlake Ace Hardware 066","821 W Danforth Rd","73003",35.66826411108878,-97.49541232804968
+"73003","Edmond","OK","A Better Locksmith","603 Evergreen St","73003",35.644163,-97.49239
+"73003","Edmond","OK","Locke Supply","630 W 3rd St","73003",35.65244172225986,-97.49281424495037
+"73003","Edmond","OK","Sherwin-Williams Paint Store","1141 N Kelly Ave","73003",35.666149673846185,-97.49671001750973
+"73003","Edmond","OK","minuteKEY","2200 W Danforth Rd","73003",35.66605758666992,-97.51231384277344
+"73003","Edmond","OK","City Electric Supply Edmond","94 W 1st St","73003",35.65419705904746,-97.4840628518723
+"73004","Amber","OK","R&R Irrigation, LLC","205 W Main St","73004-5235",35.1601904,-97.8811257
+"73005","Anadarko","OK","Phil's Shop","not_available","73005",35.080946,-98.233034
+"73008","Bethany","OK","Westlake Ace Hardware 035","7120 NW 23rd St","73008",35.493357,-97.637319
+"73008","Bethany","OK","City Electric Supply Oklahoma City West","7700 N Rockwell Ave","73132",35.54944309369954,-97.63634204662708
+"73008","Bethany","OK","Locke Supply","not_available","not_available",35.51736489188562,-97.6421203215278
+"73008","Bethany","OK","Munger Paint & Wlc Inc.","5103 N Macarthur Blvd","73122",35.52253,-97.61977
+"73008","Bethany","OK","LIMBHOG","not_available","73075",35.52559038851162,-97.62807369232178
+"73008","Bethany","OK","Northwest Lock & Key","5957 NW 60th St","73122",35.532043,-97.621641
+"73009","Binger","OK","browns grocery","not_available","73009",35.304649353027344,-98.33415985107422
+"73010","Blanchard","OK","Friendly Newcastle Hardware","not_available","73065",35.26194736520691,-97.60050185263405
+"73010","Blanchard","OK","Ace Hardware & Garden Center","987 E Veterans Memorial Hwy","73010",35.144303,-97.645978
+"73013","Edmond","OK","Lowe's","2400 W Memorial Road","73134",35.6070038,-97.5565988
+"73013","Edmond","OK","The Home Depot","14201 N Pennsylvania Ave","73134",35.6146918,-97.5512988
+"73013","Edmond","OK","The Home Depot","1901 S Broadway","73013",35.6346297,-97.4849931
+"73013","Edmond","OK","Tractor Supply Co.","601 Comfort Dr","73013",35.616616,-97.49324
+"73013","Edmond","OK","Sears","14040 Joel McDonald","73134",35.6130900148094,-97.56272838280893
+"73013","Edmond","OK","Harbor Freight","not_available","73013",35.61667,-97.49017
+"73013","Edmond","OK","Norick's True Value","10920 N May Ave","73120",35.58139,-97.5672036842105
+"73013","Edmond","OK","Ewing Irrigation","13831 N. Lincoln Blvd.","73013",35.611317,-97.5053957
+"73013","Edmond","OK","Westlake Ace Hardware 042","32 E 15th St","73013",35.638252,-97.484138
+"73013","Edmond","OK","Britton Lumber & Supply","9233 N. Western Ave.","73114",35.58576901411942,-97.56715725437334
+"73013","Edmond","OK","Morrison Supply Showroom","501 NE 122nd St","73114",35.596491,-97.503483
+"73013","Edmond","OK","John Deere Landscapes","14601 N Lincoln Blvd","73013",35.6194915,-97.5051138
+"73013","Edmond","OK","0535 Hardware","not_available","73134",35.60811233520508,-97.55618286132812
+"73013","Edmond","OK","Spectrum Paint","2700 S Broadway","73013",35.627028,-97.48428299999999
+"73013","Edmond","OK","minuteKEY","2400 W Memorial Rd","73134",35.606694,-97.556318
+"73013","Edmond","OK","minuteKEY","1225 W I 35 Frontage Rd","73034",35.63996505737305,-97.42870330810547
+"73013","Edmond","OK","Sherwin-Williams Paint Store","14330 N Pennsylvania Ave","73134",35.616127,-97.548907
+"73013","Edmond","OK","Light Bulb Supply","629 W Hefner Rd","73114",35.580484000000006,-97.526207
+"73013","Edmond","OK","Spectrum Paint","160 NE 150th St","73013",35.62283706665039,-97.51060485839844
+"73015","Carnegie","OK","Wester Aggregates Crusher","not_available","73015",34.968949327762694,-98.62124010505181
+"73015","Carnegie","OK","Carnegie Lumber","712 E. Oklahoma St.","73015",35.104412,-98.5926
+"73018","Chickasha","OK","Brandt Ace Hardware","1617 S 4th St","73018",35.034007,-97.934766
+"73018","Chickasha","OK","Tractor Supply Co.","330 East Grand Ave","73018",35.02939987182617,-97.92723083496094
+"73018","Chickasha","OK","Chickasha Lumber","1620 S 4th St","73018",35.03361129760742,-97.9353256225586
+"73018","Chickasha","OK","Wb Supply","2803 S 4th St","73018",35.01937484741211,-97.93395233154297
+"73018","Chickasha","OK","Sherwin-Williams Paint Store","1124 S 4th St","73018",35.039351,-97.936982
+"73018","Chickasha","OK","minuteKEY","2001 S 1st St","73018",35.030918,-97.9310129
+"73018","Chickasha","OK","Sesco Electric Supply, Chickasha","not_available","73018",35.0491452347751,-97.93314635751642
+"73018","Chickasha","OK","Ross True Value Hardware","412 W Choctaw Ave","73018",35.05256221,-97.9376677
+"73020","Choctaw","OK","Petty's Community Hardware","17699 SE 29th St","73020",35.435438,-97.217308
+"73020","Choctaw","OK","Tractor Supply Company","16960 Northeast 23rd St","73020",35.49241638183594,-97.23076629638672
+"73020","Choctaw","OK","Sanders Fence Co","not_available","73020",35.492905,-97.314991
+"73020","Choctaw","OK","minuteKEY","14185 Mack Harrington Dr","73020",35.49552917480469,-97.27932739257812
+"73020","Choctaw","OK","Nicoma Park Lumber Co.","not_available","73066",35.49249179950167,-97.3297814261161
+"73026","Norman","OK","Husqvarna US","PO Box 817","73070",35.2220573425293,-97.36593627929688
+"73028","Crescent","OK","Crescent Farm & Ranch","not_available","73028",35.946115,-97.594568
+"73028","Crescent","OK","Stone's Hardware in Crescent","not_available","73044",35.93841,-97.59603
+"73030","Davis","OK","E&A Auto","207 E Main St","73030",34.504183877551,-97.1206802040816
+"73030","Davis","OK","Brians Welding","205 N A St","73030",34.504576164991825,-97.12319612503052
+"73034","Edmond","OK","Lowe's","1320 East 2nd Street","73034",35.6496696,-97.4619827
+"73034","Edmond","OK","Hardware Concepts","not_available","73034",35.648153,-97.442921
+"73034","Edmond","OK","RSG","3120 5th St","73034",35.65016555786133,-97.4345932006836
+"73034","Edmond","OK","Sunstate Equipment","5724 N I-35 Industrial Blvd.","73034",35.713900193189076,-97.41568955446427
+"73034","Edmond","OK","minuteKEY","1320 E 2nd St","73034",35.64995574951172,-97.46190643310547
+"73036","El Reno","OK","Ross True Value","100 S Choctaw Ave","73036",35.533006,-97.955525
+"73036","El Reno","OK","Coughlin Equipment","not_available","73036",35.50819324248947,-97.92543944926723
+"73036","El Reno","OK","minuteKEY","2400 S Country Club Rd","73036",35.5112154,-97.9759969
+"73036","El Reno","OK","Tractor Supply Co.","1504 Southwest 27th St","73036",35.508649,-97.970031
+"73040","Geary","OK","Deer Creek Hardware","115 W Main St","73048",35.54946,-98.58087025
+"73040","Geary","OK","Hinton True Value","2220 N Broadway","73047",35.52907,-98.35064
+"73044","Guthrie","OK","Tractor Supply Co.","722 Heather Rd","73044",35.8847087137989,-97.39546468023514
+"73044","Guthrie","OK","Sewing Machine-Vac Clinic","318 S Cedar St","73044",35.87577819824219,-97.41095733642578
+"73044","Guthrie","OK","Guthrie's Ace Hardware","512 S Division St","73044",35.873568,-97.424736
+"73044","Guthrie","OK","Hometown Rental & Feed Inc","2302 S Division St","73044",35.854906,-97.424181
+"73045","Harrah","OK","Harrah Supply","2390 Church Ave","73045",35.4928,-97.1675
+"73047","Hinton","OK","Hinton True Value Hardware","111 W Main St","73064",35.474555748736144,-98.35607191662757
+"73047","Hinton","OK","Plains Partners","not_available","73047",35.471901,-98.352042
+"73048","Hydro","OK","Tractor Supply Co.","1200 East Eagle Rd","73096",35.52150389235066,-98.69309005886076
+"73048","Hydro","OK","H&C Services","not_available","73096",35.520974,-98.702643
+"73048","Hydro","OK","Sherwin-Williams Paint Store","1799 E Main St","73096",35.53280247205051,-98.68396282196045
+"73048","Hydro","OK","Sears","310 N. Washington, #1247","73096",35.52825533222614,-98.69191558691455
+"73048","Hydro","OK","Western Equipment","4501 E Main Street","73096",35.5385461,-98.6546941
+"73048","Hydro","OK","Weatherford Ace Home Center","800 E Main","73096",35.526018,-98.698625
+"73048","Hydro","OK","Weatherford Eyecare Center","1545 N Washington St","73096",35.5428243,-98.6945722
+"73049","Jones","OK","Orlando's Equipment Repairs","not_available","73084",35.51846498184582,-97.3491883277893
+"73051","Lexington","OK","Pearson's Lumber & Home Center","116 NW 4th St","73051",35.01541801865322,-97.34173715114594
+"73051","Lexington","OK","Ace Hardware","2560 S Green Ave","73080",34.98747634887695,-97.36780548095703
+"73051","Lexington","OK","Hope True Value Hardware","614 S Green Ave","73080",35.00700955,-97.36659235
+"73051","Lexington","OK","Purcell Ace Hardware","2206 Hwy 74 South","73080",34.984265,-97.369916
+"73051","Lexington","OK","Tractor Supply Co.","1620 North Green Ave","73080",35.031452,-97.36511
+"73054","Luther","OK","Luther Mill","not_available","73054",35.66468,-97.19431
+"73055","Marlow","OK","Sherwin-Williams Paint Store","4021 N Highway 81","73533",34.5513253575891,-97.9671485498406
+"73055","Marlow","OK","Frontier Feed","not_available","73055",34.66056,-97.96883
+"73055","Marlow","OK","Sears","3001 North Highway 81","73533",34.5406257,-97.9680277
+"73055","Marlow","OK","Tractor Supply Co.","1520 West Plato Rd","73533",34.535823822021484,-97.96578979492188
+"73059","Minco","OK","Woodworths True Value","211 W Main","73059",35.3127,-97.94385
+"73061","Morrison","OK","Morrison Grain","not_available","73061",36.33629,-97.00502
+"73062","Mountain View","OK","T.H. Rogers Lumber","not_available","73062",35.09895,-98.74608
+"73063","Mulhall","OK","Rays Welding Shop","not_available","73063",36.06450296348938,-97.40778070983794
+"73064","Mustang","OK","Lowe's","1000 East State Highway 152","73064",35.3889326,-97.705682
+"73064","Mustang","OK","Cosby Ranch","1150 East Hwy 152","73064",35.39132633333333,-97.70048906666666
+"73064","Mustang","OK","Tractor Supply Co.","201 North Mustang Rd","73064",35.397604661684106,-97.74823667567156
+"73064","Mustang","OK","Link's Lawn Equipment","221 S Cedar Springs Ln","73064",35.3909537,-97.7001439
+"73065","Newcastle","OK","Rock Hollow Garden & Hardware","3009 Bypass Rd","73065",35.28682547307759,-97.60099411010742
+"73068","Noble","OK","Noble Hardware (Ace)","605 N Main St","73068",35.147708892822266,-97.39450073242188
+"73068","Noble","OK","minuteKEY","2551 Classen Blvd","73071",35.193485260009766,-97.42265319824219
+"73068","Noble","OK","Crossland's  Rent-All & Sales","2451 E Imhoff Rd","73071",35.189977,-97.404628
+"73069","Norman","OK","The Home Depot","850 Ed Noble Pkwy","73072",35.2082106,-97.4836927
+"73069","Norman","OK","Lowe's","2555 Hemphill Drive","73069",35.2246558,-97.4814457
+"73069","Norman","OK","minuteKEY","2555 Hemphill Dr","73069",35.22495,-97.481377
+"73069","Norman","OK","Arvine Pipe & Supply Co.","1708 Topeka St","73069",35.257104999999996,-97.468198
+"73069","Norman","OK","Sherwin-Williams Paint Store","454 24th Ave NW","73069",35.22397385180082,-97.47726917266846
+"73069","Norman","OK","Tims Games n junk","201 foreman circle","US",35.220266,-97.463311
+"73069","Norman","OK","Brandon's Plumbing","3624 S Service Rd","73160",35.302099,-97.488865
+"73069","Norman","OK","Locke Supply Co","1500 24th Ave SW","73072",35.1999,-97.47761
+"73069","Norman","OK","minuteKEY","333 N Interstate Dr","73069",35.2215076,-97.4817392
+"73069","Norman","OK","Diamond Zorn Rentals","not_available","73069",35.203987,-97.476689
+"73069","Norman","OK","Davis Pipe & Supply","3200 Broce Dr","73072",35.25285720825195,-97.48837280273438
+"73069","Norman","OK","Ace Hardware","1918 W Main St","73069",35.218116,-97.469517
+"73069","Norman","OK","Home Depot","2601-2699 W Main St","73069",35.218530893325806,-97.48231470699628
+"73069","Norman","OK","Sears","260 N Interstate Dr","73072",35.219910290263506,-97.48912482887543
+"73069","Norman","OK","City Electric Supply Norman","1900 Industrial Blvd Ste 100","73069",35.2418117,-97.4556529
+"73069","Norman","OK","Spectrum Paint Company","2443 W Main St","73069",35.219544,-97.479094
+"73071","Norman","OK","Harbor Freight Tools","151 12th Ave SE Ste 160","73071",35.217127,-97.422157
+"73071","Norman","OK","Sherwin-Williams Paint Store","155 12th Ave SE","73071",35.217127,-97.422157
+"73071","Norman","OK","Ace Hardware","1209 E Alameda Street","73071",35.218389,-97.423401
+"73072","Norman","OK","J and R Glass","not_available","73093",35.14602524685338,-97.48323168717911
+"73072","Norman","OK","Ferguson Plumbing Supply","3309 Broce Ct","73072",35.254417,-97.490093
+"73074","Paoli","OK","The Limbhog Company, LLC","15381 N County Road 3213","73075",34.77663412621739,-97.27816474939272
+"73075","Pauls Valley","OK","Sherwin-Williams Paint Store","502 S Chickasaw St","73075",34.73812120573622,-97.2165584564209
+"73075","Pauls Valley","OK","Pauls Valley Ace Hardware","1340 W Grant Ave","73075",34.7351,-97.23
+"73075","Pauls Valley","OK","Gordon White Lumber Company","401 S Willow St","73075",34.737794467081514,-97.2199072127215
+"73075","Pauls Valley","OK","Tractor Supply Co.","106 North Indian Meridian Rd","73075",34.740889,-97.247005
+"73077","Perry","OK","Kennedy True Value","715 Fir","73077",36.28979264,-97.2897428
+"73077","Perry","OK","Perry Farmers Coop","not_available","73077",36.28524,-97.29484
+"73078","Piedmont","OK","Tractor Supply Co.","13125 Colony Pointe Blvd","73078",35.6044,-97.74173
+"73084","Spencer","OK","minuteKEY","9011 NE 23rd St","73141",35.49523162841797,-97.3689956665039
+"73086","Sulphur","OK","Diacon Hardware","not_available","73086",34.507411,-96.971229
+"73086","Sulphur","OK","Gordon White Lumber Co.","1007 W Broadway Ave","73086",34.506143,-96.979863
+"73089","Tuttle","OK","Tuttle True Value Hardware","307 W Main","73089",35.291059999999995,-97.81662
+"73089","Tuttle","OK","Gordon White Lumber","not_available","73089",35.291323,-97.803012
+"73096","Weatherford","OK","county building supply","224 S Custer St","73096",35.52422332763672,-98.70703887939453
+"73098","Wynnewood","OK","Musgrove Lumber Company","206 N Dean a McGee Ave","73098",34.641544342041016,-97.1706771850586
+"73099","Yukon","OK","Lowe's","1605 South Garth Brooks Blvd","73099",35.48219929,-97.75822207
+"73099","Yukon","OK","Ace Hardware","405 Main Street","73099",35.508213,-97.749746
+"73099","Yukon","OK","H&E Equipment Services","10700 NW 4th St","73099",35.470088958740234,-97.70806884765625
+"73099","Yukon","OK","Yukon Door & Plywood Inc.","900 S 17th St","73099",35.494676,-97.769013
+"73099","Yukon","OK","minuteKEY","1605 Garth Brooks Blvd","73099",35.48231506347656,-97.75825500488281
+"73099","Yukon","OK","minuteKEY","1001 E Main St","73099",35.5085334777832,-97.72539520263672
+"73099","Yukon","OK","Parizek Farms LLC","12401 W Wilshire Blvd","73099",35.55188751220703,-97.75269317626953
+"73099","Yukon","OK","Owen Oil Tools","not_available","73127",35.48726272583008,-97.69712829589844
+"73099","Yukon","OK","Jameson's Discount Home Improvement Warehouse","12451 NW 10th St","73099",35.47977828979492,-97.75049591064453
+"73099","Yukon","OK","Locke Supply","9 S 4th St","73099",35.507374,-97.747887
+"73103","Oklahoma City","OK","Habitat Rentovation Station","1800 N Broadway Ave","73103",35.48734781198164,-97.51343934512111
+"73103","Oklahoma City","OK","Standard Roofing","19 NW 16th St","73103",35.486785999999995,-97.512475
+"73103","Oklahoma City","OK","Tech-Lock","1701 N Broadway Ave","73103",35.48633575439453,-97.5141372680664
+"73104","Oklahoma City","OK","Sears","1825 N Walnut Ave","73105",35.487082,-97.509788
+"73105","Oklahoma City","OK","Cherokee Building Materials","100 Northeast 31st Street","73105",35.501007,-97.50967
+"73105","Oklahoma City","OK","Contractors Supply","30 NE 30th","73105",35.500182,-97.51102
+"73105","Oklahoma City","OK","Plumbing Plus","130 NE 28th St","73105",35.498028000000005,-97.50825
+"73106","Oklahoma City","OK","Moorelane Sutton Supply","not_available","73108",35.46423151362086,-97.53703915757116
+"73106","Oklahoma City","OK","CDK Oklahoma City","19 N Klein Ave","73106",35.467156,-97.53290799999999
+"73106","Oklahoma City","OK","Winnsupply","520 N Virginia Ave","73106",35.47258758544922,-97.54496002197266
+"73106","Oklahoma City","OK","Sherwin-Williams Commercial Paint Store","300 S Western Ave","73109",35.462915,-97.52942900000001
+"73106","Oklahoma City","OK","Whitton Supply Co.","1419 W Reno Ave","73106",35.4645267,-97.5383394
+"73106","Oklahoma City","OK","L E Acker","not_available","73106",35.467915,-97.546339
+"73106","Oklahoma City","OK","brown machinery","1125 Exchange Ave, Oklahoma City, OK 73108","73108",35.46364212036133,-97.53143310546875
+"73106","Oklahoma City","OK","Allbright Steel and Wire","12 S Virginia Ave","73106",35.466307,-97.54524599999999
+"73106","Oklahoma City","OK","Senco","not_available","73102",35.46447862752484,-97.53087219781285
+"73107","Oklahoma City","OK","Ace Hardware","2121 NW 23rd St #A","73107",35.49401627235267,-97.54869491244182
+"73107","Oklahoma City","OK","Forest Building Materials","300 N May Ave","73107",35.467628999999995,-97.563936
+"73107","Oklahoma City","OK","Ferguson Fire & Fabrication","3950 Nw 3rd St","73107",35.467464447021484,-97.58942413330078
+"73107","Oklahoma City","OK","National Portable Buildings","not_available","73107",35.46873,-97.56517
+"73107","Oklahoma City","OK","A M Supply","4701 NW 10th St","73127",35.479335,-97.605912
+"73107","Oklahoma City","OK","Ferguson Plumbing Supply","3901 W Reno Ave","73107",35.4643896153846,-97.5883957692308
+"73107","Oklahoma City","OK","Duncan Glass & Mirror, Inc.","2916 NW 30th St","73112",35.500083000000004,-97.566426
+"73107","Oklahoma City","OK","Paragon Fence and Pipe Supply","2624 W Reno Ave","73107",35.463653,-97.560126
+"73107","Oklahoma City","OK","minuteKEY","2217 NW 23rd St","73107",35.49375534057617,-97.55087280273438
+"73107","Oklahoma City","OK","Smith Farm and Garden","3733 NW 10th St","73107",35.47905378994071,-97.58472994723871
+"73107","Oklahoma City","OK","Warren CAT Equipment Rentals","15 N Meridian Ave Building A","73107",35.46717325,-97.60185731
+"73107","Oklahoma City","OK","ProSource of Oklahoma City","3532 SW 2nd St Ste A","73108",35.4612331,-97.5812544
+"73108","Oklahoma City","OK","A & D Supply","801 S Agnew Ave","73108",35.456432,-97.556362
+"73108","Oklahoma City","OK","Jim Austin Sales","1919 Exchange Ave","73108",35.453161,-97.548637
+"73108","Oklahoma City","OK","All-Pro Fasteners, Inc.","1366 Metropolitan Ave","73108",35.453547,-97.591585
+"73108","Oklahoma City","OK","Habitat Renovation Station","2805 SW 29th St","73119",35.436807,-97.563008
+"73108","Oklahoma City","OK","Allbright Steel","1600 S May Ave","73108",35.44922293333333,-97.56531423333334
+"73108","Oklahoma City","OK","H.O.W. Rubber","1416 S Agnew Ave","73108",35.450958,-97.554221
+"73108","Oklahoma City","OK","Agnew Door","2909 S Agnew Ave","73108",35.435737,-97.554826
+"73108","Oklahoma City","OK","Delco Tools & Equipment","1114 S Agnew Ave","73108",35.454313,-97.554224
+"73109","Oklahoma City","OK","All State Fire/Atomic","2517 S Central Ave","73129",35.439690999999996,-97.507286
+"73109","Oklahoma City","OK","Ferguson Waterworks","1501 S Central Ave","73129",35.450959000000005,-97.507269
+"73109","Oklahoma City","OK","Freight Outlet","not_available","73129",35.435438,-97.508503
+"73109","Oklahoma City","OK","Westlake Ace Hardware 020","800 SW 44th St","73109",35.418926,-97.52899000000001
+"73109","Oklahoma City","OK","Morrison Supply","2015 Industrial Blvd","73069",35.4603204,-97.5269651
+"73109","Oklahoma City","OK","B&B Wholesale","712 S Broadway Ave","73109",35.458229064941406,-97.51428985595703
+"73110","Oklahoma City","OK","The Home Depot","1600 S Sooner Road","73110",35.44903123067621,-97.42153018712997
+"73110","Oklahoma City","OK","Lowe's","7151 SE 29th Street","73110",35.4370125,-97.4029568
+"73110","Oklahoma City","OK","Locke Supply","7425 SE 15th St","73110",35.45014190673828,-97.39295196533203
+"73110","Oklahoma City","OK","Sears","6909 E Reno","73110",35.465611,-97.407745
+"73110","Oklahoma City","OK","minuteKEY","7151 SE 29th St","73110",35.437401,-97.402811
+"73110","Oklahoma City","OK","Sherwin-Williams Paint Store","1431 N Key Blvd","73110",35.45093163992094,-97.39239328851183
+"73110","Oklahoma City","OK","Steve's Wholesale Tools","7010 SE 15th St","73110",35.449257,-97.403963
+"73110","Oklahoma City","OK","City Electric Supply Midwest City","2830 Global Pkwy","73110",35.436293331776106,-97.37264004662705
+"73110","Oklahoma City","OK","Ace Hardware","212 N Air Depot Blvd","73110",35.466478613600344,-97.40555640199989
+"73111","Oklahoma City","OK","Builder's Mart","not_available","73111",35.494166,-97.463053
+"73112","Oklahoma City","OK","Lowe's","3801 North May Avenue","73112",35.5099558,-97.5672559
+"73112","Oklahoma City","OK","The Home Depot","3040 NW 59th St","73112",35.5311471,-97.5690376
+"73112","Oklahoma City","OK","Mayfair Key & Lock","not_available","73112",35.510979913854584,-97.56128920357334
+"73112","Oklahoma City","OK","Locke's Supply Co.","3645 NW 39th St","73112",35.512828000000006,-97.581979
+"73112","Oklahoma City","OK","24 Hour Lockouts  Oklahoma City","5030 N May Ave","73112",35.521193,-97.564589
+"73112","Oklahoma City","OK","Spectrum Paint","5115 N Portland Ave","73112",35.523045,-97.584282
+"73112","Oklahoma City","OK","e supply depot","3911 N Tulsa Ave","73112",35.510509000000006,-97.593089
+"73112","Oklahoma City","OK","minuteKEY","3801 N May Ave","73112",35.509788,-97.567468
+"73114","Oklahoma City","OK","Westlake Ace Hardware 038","1509 W Britton Rd","73120",35.5658,-97.5407
+"73114","Oklahoma City","OK","Zorn Rentals","10121 N Western Ave","73114",35.573865000000005,-97.53184399999999
+"73114","Oklahoma City","OK","XPS Xpress - Oklahoma City","247 W Wilshire Blvd Ste C","73116",35.5514979,-97.51842099999999
+"73114","Oklahoma City","OK","Plumb Crazy Plumbing","308 W Britton Rd","73114",35.565249,-97.518511
+"73114","Oklahoma City","OK","Britton Feed and Seed","708 W Britton Rd","73114",35.565239,-97.525828
+"73115","Oklahoma City","OK","Harbor Freight Tools","4717 SE 15th St","73115",35.45027160644531,-97.42957305908203
+"73115","Oklahoma City","OK","minuteKEY","5401 Tinker Diagonal","73115",35.4484567,-97.4260585
+"73115","Oklahoma City","OK","Do It Best Home Pro Hardware","4329","not_available",35.4497195618836,-97.44124379118253
+"73116","Oklahoma City","OK","Sherwin-Williams Paint Store","7660 N Western Ave","73116",35.54978942871094,-97.53056335449219
+"73116","Oklahoma City","OK","Lakeside Safe And Lock","not_available","73116",35.55,-97.565873
+"73116","Oklahoma City","OK","Source Servall","7720 N Robinson Suite B1","73116",35.53897191217437,-97.5267999786397
+"73116","Oklahoma City","OK","Sherwin-Williams Paint Store","5638 NW Expressway","73132",35.54583671182376,-97.61198043823242
+"73118","Oklahoma City","OK","Sherwin-Williams Paint Store","3501 N Classen Blvd","73118",35.505660999999996,-97.534909
+"73118","Oklahoma City","OK","construction building specialists","not_available","73118",35.50841522216797,-97.5206527709961
+"73118","Oklahoma City","OK","M-D Building Products","4041 N Santa Fe Ave","73118",35.511525,-97.513245
+"73118","Oklahoma City","OK","Spectrum Paint","709 NW 36th St","73118",35.508126000000004,-97.52465
+"73119","Oklahoma City","OK","C & D Faucet","not_available","73119",35.420456,-97.554473
+"73119","Oklahoma City","OK","Southwest Saw And Tool Sharpening","3338 SW 36th St","73119",35.42828,-97.576385
+"73120","Oklahoma City","OK","Sherwin-Williams Paint Store","9303 N May Ave","73120",35.564136,-97.568578
+"73120","Oklahoma City","OK","Architectural Hardware Designs","9450 N May Ave","73120",35.5677678,-97.56716620000002
+"73120","Oklahoma City","OK","minuteKEY","9320 N Pennsylvania Pl","73120",35.56502914428711,-97.54753112792969
+"73120","Oklahoma City","OK","WOODCRAFT","9301 N May Ave","73120",35.564136,-97.568578
+"73122","Oklahoma City","OK","All Pro Lock & Key","4311 N Grove Ave","73122",35.515834999999996,-97.614825
+"73127","Oklahoma City","OK","The Home Depot","6800 W Reno Avenue","73127",35.4631689,-97.6319868
+"73127","Oklahoma City","OK","Harbor Freight Tools","5805 W Reno Ave","73127",35.465057388126596,-97.61762735980302
+"73127","Oklahoma City","OK","McCord Testing Equipment","1008 N Council Rd","73127",35.477923,-97.65395699999999
+"73127","Oklahoma City","OK","Direct Tools","not_available","73128",35.462515,-97.649393
+"73127","Oklahoma City","OK","Rental HQ, LLC","330 N MacArthur Blvd","73127",35.469157,-97.61744499999999
+"73127","Oklahoma City","OK","Sherwin-Williams Floorcovering Store","8100 SW 3rd St","73128",35.462114,-97.656468
+"73127","Oklahoma City","OK","minuteKEY","6100 W Reno Ave","73127",35.4633769,-97.6222933
+"73127","Oklahoma City","OK","Oklahoma Building Supply","900 N MacArthur Blvd","73127",35.475441,-97.618146
+"73127","Oklahoma City","OK","Lumber Liquidators Flooring","5835 W Reno Ave","73127",35.46536439550062,-97.61821826977143
+"73128","Oklahoma City","OK","Metro Tile","1412 S MacArthur Blvd","73128",35.451285999999996,-97.617731
+"73128","Oklahoma City","OK","Atlas Copco Rental","2500 S Ann Arbor Ave","73128",35.440038308577954,-97.61045426130289
+"73129","Oklahoma City","OK","The Home Depot","7400 S Shields Blvd","73149",35.3932796,-97.5054487
+"73129","Oklahoma City","OK","Allied Hardware","3701 S I 35 Service Rd","73129",35.428082,-97.486732
+"73129","Oklahoma City","OK","Spicer & Sandburg Inc","1525 SE 29th St","73129",35.435789,-97.484635
+"73129","Oklahoma City","OK","Sooner Rubber Products","1312 SE Grand Blvd","73129",35.42506731180253,-97.48923582561793
+"73129","Oklahoma City","OK","J & E Supply & Fastener Co., Inc. (J & E Supply & Fastener Co)","1903 SE 59th St","73129",35.406598,-97.478674
+"73130","Oklahoma City","OK","Park Central Pools","1501 S.E. 23rd St.","73130",35.47490642506981,-97.33577739047524
+"73132","Oklahoma City","OK","The Home Depot","7620 NW Expressway","73132",35.560711,-97.6478902
+"73132","Oklahoma City","OK","Westlake Ace Hardware 040","6951 NW Expressway St","73132",35.557056,-97.636623
+"73132","Oklahoma City","OK","All About Concrete","7907 Debar Cir","73132",35.552083,-97.660342
+"73132","Oklahoma City","OK","Dentcraft Tools","8118 Glade Ave","73132",35.553931,-97.644612
+"73135","Oklahoma City","OK","Fastenal","7001 S Sooner Rd","73135",35.39555285172563,-97.42367852046723
+"73135","Oklahoma City","OK","Lumber 2","not_available","73135",35.394201143792856,-97.42317872082039
+"73135","Oklahoma City","OK","minuteKEY","4900 S Sooner Rd","73135",35.415038,-97.42192299999999
+"73139","Oklahoma City","OK","Lowe's","100 SW 74th St","73139",35.38949643,-97.51389535
+"73139","Oklahoma City","OK","Sherwin-Williams Paint Store","6107 S Western Ave","73139",35.404841,-97.530609
+"73139","Oklahoma City","OK","Locke","I-240","73159",35.39003687170085,-97.54341296536028
+"73139","Oklahoma City","OK","minuteKEY","100 W I 240 Service Rd","73139",35.389103000000006,-97.514142
+"73142","Oklahoma City","OK","Shores","14117 N Rockwell Ave","73142",35.61564123,-97.6394581
+"73149","Oklahoma City","OK","Steve's Wholesale Tools","8100 S Santa Fe Ave","73139",35.385572,-97.511859
+"73149","Oklahoma City","OK","minuteKEY","100 E I 240 Service Rd","73149",35.38936233520508,-97.51100158691406
+"73149","Oklahoma City","OK","Locke Supply Warehouse","1300 SE 82nd St","73149",35.383165999999996,-97.488501
+"73149","Oklahoma City","OK","Spectrum Paint","9333 S Eastern Ave","73160",35.37345886230469,-97.47758483886719
+"73149","Oklahoma City","OK","Ewing Irrigation","8505 Gateway Ter","73149",35.38118642609794,-97.49867990612984
+"73149","Oklahoma City","OK","Fox Building Supply South","not_available","73149",35.377997,-97.502414
+"73159","Oklahoma City","OK","Sherwin-Williams Paint Store","2225 SW 104th St","73159",35.363662474567654,-97.55144321152338
+"73159","Oklahoma City","OK","Roca roofing","2844 SW 78th St","73159",35.387036,-97.56485699999999
+"73159","Oklahoma City","OK","Pro Power Equipment","7405 S May Ave","73159",35.392746,-97.566428
+"73160","Oklahoma City","OK","Lowe's","1501 South I-35 Service Road","73160",35.3252646,-97.4928313
+"73160","Oklahoma City","OK","The Home Depot","650 SW 19th St","73160",35.31767710724443,-97.49725699424744
+"73160","Oklahoma City","OK","Tractor Supply Co.","2030 South Telephone Rd","73160",35.31765,-97.493884
+"73160","Oklahoma City","OK","Wade's Appliance","117 S 4th St","73160",35.33446625027094,-97.48735947614863
+"73160","Oklahoma City","OK","Jim's Mower Service","1550 S Eastern Ave","73160",35.323471644317415,-97.47679473279615
+"73160","Oklahoma City","OK","Locke Supply","1005 N. Moore Ave","not_available",35.3471371,-97.496085
+"73160","Oklahoma City","OK","City Electric Supply Moore","501 NW 27th St","73160",35.36366626606707,-97.49774558479658
+"73170","Oklahoma City","OK","Ace Hardware","11801 S Western Ave","73170",35.34948539667366,-97.53097375992888
+"73170","Oklahoma City","OK","Budget Locksmith OKC","not_available","73170",35.354667,-97.528597
+"73179","Oklahoma City","OK","irby","5500 SW 29th St","73179",35.43369674682617,-97.61461639404297
+"73179","Oklahoma City","OK","Sherwin-Williams Product Finishes","4901 S Council Rd","73179",35.41679802684462,-97.65471339225769
+"73401","Ardmore","OK","Lowe's","2701 12th Avenue NW","73401",34.1892217,-97.16236
+"73401","Ardmore","OK","D & J Ace Hardware","16676 US Highway 70","73443",34.172902,-97.260969
+"73401","Ardmore","OK","minuteKEY","2701 12th Ave NW","73401",34.18888854980469,-97.16197204589844
+"73401","Ardmore","OK","Heating Service Edmond","515 Lake Murray Drive","73401",34.162901224977176,-97.1269941329956
+"73401","Ardmore","OK","ProSource of Ardmore","2702 Crossroads Dr","73401",34.17941,-97.16517
+"73401","Ardmore","OK","Callaway Electronics","800-822 K St NW","73401",34.18364031,-97.14042964
+"73401","Ardmore","OK","RSC","not_available","73401",34.201626,-97.170486
+"73401","Ardmore","OK","minuteKEY","1715 N Commerce St","73401",34.193335,-97.144819
+"73401","Ardmore","OK","Locke","M St NW","73401",34.18176233,-97.14390359
+"73401","Ardmore","OK","Lone Grove True Value","406 Case Circle","73401",34.17572131,-97.22330405
+"73401","Ardmore","OK","Tractor Supply Co.","2520 North Commerce St","73401",34.201557,-97.14141
+"73401","Ardmore","OK","County Millwork & Supply","2211 Refinery Rd","73401",34.19917678833008,-97.11792755126953
+"73401","Ardmore","OK","Sherwin-Williams Paint Store","2331 N Commerce St","73401",34.19838606730836,-97.14476108551025
+"73446","Madill","OK","County Building Center","not_available","73446",34.091537,-96.768859
+"73449","Mead","OK","Blast Hole Bit","5221 old highway 70 West","73449",33.999080657958984,-96.53064727783203
+"73491","Velma","OK","RC Pumps","897 Main St","73491",34.45127445198858,-97.66949644089931
+"73501","Lawton","OK","The Home Depot","4010 NW Oak Ave","73505",34.62121011445988,-98.44419479370117
+"73501","Lawton","OK","Atwoods","not_available","73505",34.62824704624539,-98.45879967198893
+"73501","Lawton","OK","Sanders Hardware","1200-1226 NW Cache Rd","73507",34.622854,-98.411212
+"73501","Lawton","OK","Tractor Supply Co.","7402 Northwest Sun Blvd","73505",34.629709427307745,-98.4829027116394
+"73501","Lawton","OK","Lowe's","4402 NW Cache Road","73505",34.6215533,-98.4473474
+"73501","Lawton","OK","Harbor Freight Tools","3801 NW Cache Rd Ste 44","73505",34.62396240234375,-98.44026947021484
+"73501","Lawton","OK","minuteKEY","3745 SW Lee Blvd","73505",34.59458923339844,-98.43939208984375
+"73501","Lawton","OK","Sherwin-Williams Paint Store","1409 NW Horton Blvd","73505",34.624445,-98.468369
+"73501","Lawton","OK","Ace Hardware","2 SW C Ave","73501",34.605314,-98.386951
+"73501","Lawton","OK","Sutherlands","1011 SE 1st St","73501",34.597192,-98.386332
+"73501","Lawton","OK","Sherwin-Williams Paint Store","10 SW 11th St","73501",34.607967376708984,-98.4044189453125
+"73501","Lawton","OK","Sutherlands","830 SE 1st St","73501",34.597694396972656,-98.38448333740234
+"73501","Lawton","OK","Spectrum Paint","1026 NW 38th St Suite A","73505",34.62167739868164,-98.4409408569336
+"73501","Lawton","OK","sesco electric supply","not_available","73501",34.59974150250838,-98.38203445964398
+"73501","Lawton","OK","Comanche Home Center","#2 South West C Avenue","73501",34.605314,-98.386951
+"73501","Lawton","OK","Cozart-Perry Industries Inc.","201 SE F Ave","73501",34.601467,-98.384401
+"73501","Lawton","OK","Brookstone","not_available","73507",34.621719855192325,-98.41193039856331
+"73501","Lawton","OK","Eastons Ace Hardware","6902 NW Cache Rd","73505",34.6233599,-98.476839
+"73507","Lawton","OK","Ace Hardware","7796 US Highway 277","73538",34.78655242919922,-98.29740905761719
+"73507","Lawton","OK","Elgin Coop","not_available","73538",34.77113,-98.30644
+"73521","Altus","OK","MOCO Electric","3154-3198 N Park Ln","73521",34.670946362648316,-99.31616398202829
+"73521","Altus","OK","Harbor Freight","not_available","73521",34.66562,-99.332045
+"73521","Altus","OK","Altus Ace Hardware","1520 N Main St","73521",34.653728,-99.333956
+"73521","Altus","OK","Crop Production Services","16828 US Highway 283","73521",34.575467,-99.332827
+"73521","Altus","OK","Fox Building Supply & Carpet","2401 E Broadway St","73521",34.6377,-99.3007
+"73521","Altus","OK","Sears","3003 E Broadway St","73521",34.638917,-99.293534
+"73521","Altus","OK","Western Equipment","3008 East Broadway","73521",34.6364860534668,-99.293212890625
+"73521","Altus","OK","Martin Building & Plumbing","300 Falcon Rd","73521",34.6503,-99.3293
+"73521","Altus","OK","Sherwin-Williams Paint Store","224 Falcon Rd","73521",34.65000544250457,-99.33152318000793
+"73529","Comanche","OK","Tractor Supply","not_available","73533",34.44819951834101,-98.00360531551102
+"73531","Devol","OK","Tractor Supply Co.","106 South Red River Expy","76354",34.092250030071014,-98.55939429614185
+"73533","Duncan","OK","Standridge Of Duncan","1920 W Bois D Arc Ave","73533",34.4915649,-97.9728928
+"73533","Duncan","OK","Ace Hardware","1713 N Highway 81","73533",34.5193239,-97.965525
+"73542","Frederick","OK","Prybar","not_available","73542",34.398011,-99.021098
+"73542","Frederick","OK","Frederick Ace Hardware","620 E Gladstone Ave","73542",34.3920499,-99.007551
+"73543","Geronimo","OK","Calfy Brothers Building Materials","600 E. Missouri","not_available",34.362504,-98.299678
+"73547","Granite","OK","Mangum Ace Home Center","200 E Lincoln St","73554",34.8721999,-99.504199
+"73601","Clinton","OK","T.H. Rogers Lumber Co.","401-447 Prairie Chief Ave","73601",35.51350951194763,-98.96608293056488
+"73601","Clinton","OK","Clinton Ace Home Center","1501 W Gary Blvd","73601",35.5152,-98.978999
+"73601","Clinton","OK","Unit Drilling R-314","not_available","73622",35.39308663636383,-99.02636486472004
+"73601","Clinton","OK","Western Equipment","404 Frisco Ave.","73601",35.514266,-98.965079
+"73601","Clinton","OK","Western Equipment","403 Frisco Ave.","73601",35.5144885,-98.96523833
+"73620","Arapaho","OK","Western Equipment","10036 US Hwy 183","73601",35.5612267,-98.9632857
+"73632","Cordell","OK","Cordell Ace Hardware","1415 N Glenn  English St","73632",35.3047329,-98.98755
+"73632","Cordell","OK","Cordell Ace Home Center","201 S College St","73632",35.2899,-98.990099
+"73632","Cordell","OK","Tractor Supply Co®","1301 East Main Street","73632",35.29211744062518,-98.97596150636673
+"73644","Elk City","OK","Elk City Ace Home Center","1210 S Main St","73644",35.3982999,-99.405299
+"73644","Elk City","OK","Tractor Supply Co.","3105 West 3rd St Ste 100, Ste 100","73644",35.412397901707656,-99.44293655952454
+"73644","Elk City","OK","Sherwin-Williams Paint Store","1222 W 3rd St","73644",35.41140307590148,-99.41937088966368
+"73644","Elk City","OK","Lonely Attic","not_available","73644",35.38178068004487,-99.39976606870735
+"73644","Elk City","OK","Currell's Do-It Center","PO Box 683","73648",35.38212239383519,-99.3993616104126
+"73644","Elk City","OK","Sears","2821 West 3rd Street","73644",35.412048,-99.43938
+"73644","Elk City","OK","Warren CAT Rental Power","1900 S Merritt Rd","73644",35.39426040649414,-99.4700698852539
+"73644","Elk City","OK","Troy Jones","1203 S Main St","73644",35.39803695678711,-99.40679931640625
+"73644","Elk City","OK","Janning Welding","834-1022 N Van Buren Ave","73644",35.41917174,-99.39917342
+"73645","Erick","OK","Currell's Do It Best","not_available","73645",35.21499681293969,-99.858076601375
+"73646","Fay","OK","Thomas Ace Home Center","205 W Braodway Avenue","73669",35.7438,-98.749399
+"73651","Hobart","OK","Western Equipment","1029 E. 11th Street","73651",35.015599,-99.0785198
+"73654","Leedey","OK","Leedey Lumber","315 South Main","73654",35.872325,-99.34739112854004
+"73661","Rocky","OK","Rocky Farmer's Coop","105 Main St","73661",35.15936767726103,-99.06025387631466
+"73662","Sayre","OK","Sayre Ace Home Center","110 N Broadway St","73662",35.2914,-99.6383
+"73701","Enid","OK","Evans Drug Company","1106 W Willow Rd","73703",36.42103576660156,-97.89225006103516
+"73701","Enid","OK","Irby","1208 W Poplar Ave","73703",36.41031749535799,-97.89397716522217
+"73701","Enid","OK","Sears","1729 North Van Buren","73703",36.4152888,-97.8891063
+"73701","Enid","OK","Sherwin-Williams Paint Store","1731 N Van Buren St","73703",36.41497802734375,-97.8894271850586
+"73701","Enid","OK","Locke Supply","not_available","73701",36.414864,-97.889795
+"73701","Enid","OK","Warren CAT Equipment Rentals","5702 N US-81","73701",36.45513459,-97.87457413
+"73703","Enid","OK","Lowe's","5201 W Garriott Rd","73703",36.389238,-97.9423825
+"73703","Enid","OK","Ace Hardware","2215 W Willow Rd","73703",36.4197089,-97.906419
+"73703","Enid","OK","minuteKEY","1018 N Cleveland St","73703",36.406429290771484,-97.90812683105469
+"73703","Enid","OK","minuteKEY","5201 W Owen K Garriott Rd","73703",36.38886260986328,-97.94219970703125
+"73703","Enid","OK","Harbor Freight","4010 W Owen K Garriott Rd","73703",36.392285,-97.926958
+"73717","Alva","OK","Western Equipment","3126 College Blvd","73717",36.797577,-98.666574
+"73717","Alva","OK","Starr Lumber","629 Flynn St","73717",36.80473709106445,-98.66809844970703
+"73724","Canton","OK","Wheeler Brothers","not_available","73724",36.0546,-98.59075
+"73728","Cherokee","OK","Cherokee Ace Hardware","1512 S Oklahoma Ave","73728",36.74337387084961,-98.35713195800781
+"73737","Fairview","OK","Th Rogers","not_available","73737",36.269844,-98.47866
+"73737","Fairview","OK","Boehs Building Supply","2002 N Main St","73737",36.29018204743689,-98.47923537539367
+"73737","Fairview","OK","Cj'S Country Store True Value Hardware","120 S Main St","73737",36.268348693847656,-98.48040008544922
+"73741","Helena","OK","Boehs Building Supply","308 N Main St","73741",36.54654,-98.27041
+"73744","Hitchcock","OK","Tractor Supply Co.","220 South Clarence Nash Blvd","73772",35.8431396484375,-98.41999053955078
+"73744","Hitchcock","OK","Clewells Family Hardware","206 W Main St","73772",35.844752,-98.414855
+"73744","Hitchcock","OK","Watonga Lumber & Hardware","not_available","73772",35.84521487221444,-98.41150208223004
+"73750","Kingfisher","OK","Wheeler Brothers","not_available","73750",35.85830997020936,-97.94134882259563
+"73750","Kingfisher","OK","Ace Hardware","123 E Miles Ave","73750",35.861843,-97.932331
+"73801","Woodward","OK","Tractor Supply Co.","1105 Northwest Hwy 270","73801",36.435424,-99.430368
+"73801","Woodward","OK","Ace hardware","not_available","73801",36.43334926943814,-99.44574645099607
+"73801","Woodward","OK","Comstock Oilfield Supply Inc","4710 Bb Dr","73801",36.4371185302734,-99.3977127075195
+"73801","Woodward","OK","Woodward Ace Hardware","2807 8th St","73801",36.4189,-99.3896
+"73801","Woodward","OK","Western Equipment","3999 Lakeview","73801",36.408535,-99.372439
+"73801","Woodward","OK","Sherwin-Williams Paint Store","2101 Oklahoma Ave","73801",36.433311462402344,-99.40629577636719
+"73801","Woodward","OK","Case Wireline Services, Inc.","105 48th St","73801",36.447717,-99.443695
+"73801","Woodward","OK","Woodward Ace Home Center","1118 Oklahoma Ave","73801",36.4337,-99.3936
+"73834","Buffalo","OK","Buffalo Auto Supply Inc","16 W Turner","73834",36.8353670833333,-99.6304485416667
+"73859","Vici","OK","Vici Coop","not_available","73859",36.133529474461206,-99.30212039228827
+"73932","Beaver","OK","Beaver Ace Home Center","301 Douglas St","73932",36.8149999,-100.5198
+"73932","Beaver","OK","Beaver Supply Llc","231 Douglas Ave","73932",36.81552505493164,-100.52059936523438
+"73939","Goodwell","OK","Elkhart True Value Lumber","850 W State Line Rd","67950",36.99445526061256,-101.90726602994646
+"73942","Guymon","OK","Lumber Mart","1401 N Main St","73942",36.6919922,-101.4810809
+"73942","Guymon","OK","Cojo Industrial Supply","not_available","73942",36.681787,-101.474012
+"73942","Guymon","OK","B & B True Value Hardware","509 Highway 54 W","73942",36.67539521,-101.4872306
+"73942","Guymon","OK","Tractor Supply Co.","2501 North Hwy 64","73942",36.70570755004883,-101.48795318603516
+"73942","Guymon","OK","Bearing & Allied Supply Co., Inc.","2155 N Highway 64","73942",36.699178,-101.483516
+"73942","Guymon","OK","HOOKER HARDWARE & AUTO","116 E Highway 54","73945",36.85853576660156,-101.21092224121094
+"73942","Guymon","OK","Hooker Hardware & Auto","116 E Hwy 54","73945",36.7039803206413,-101.46569244489
+"73942","Guymon","OK","Wirtz Lumber & Sply  Inc.","219 North Quinn Drawer A","73942",36.6801409,-101.48273
+"73949","Texhoma","OK","The General Store","515 N Poplar","79084",36.33456802368164,-102.07337188720703
+"74003","Bartlesville","OK","Reliable Electrical Products","not_available","74003",36.75649642944336,-96.01306915283203
+"74003","Bartlesville","OK","Habitat Warehouse Sale","Maple St","74003",36.74547467792145,-95.98522766160828
+"74003","Bartlesville","OK","Husqvarna","1400 Tuxedo Blvd","74006",36.755367279052734,-95.9611587524414
+"74006","Bartlesville","OK","Lowe's","2205 S E Adams Blvd","74006",36.7414209,-95.9518436
+"74006","Bartlesville","OK","Atwoods","not_available","74006",36.748289951421526,-95.93380378463142
+"74006","Bartlesville","OK","Mike's Locksmith Shop","3600 Dana Dr","74006",36.713362,-95.935839
+"74006","Bartlesville","OK","Peters True Value Hardware","1865 N Osage Ave","74029",36.81055101,-95.93544258
+"74006","Bartlesville","OK","minuteKEY","2205 SE Adams Blvd","74006",36.74104309082031,-95.95142364501953
+"74006","Bartlesville","OK","Tractor Supply Co.","3403 Southeast Washington Blvd","74006",36.698563753437426,-95.93576068141248
+"74006","Bartlesville","OK","Fastenal","4104 SE Nowata Rd","74006",36.727784,-95.9323
+"74006","Bartlesville","OK","minuteKEY","4000 SE Green Country Rd","74006",36.7406120300293,-95.93185424804688
+"74006","Bartlesville","OK","Sherwin-Williams Paint Store","619 SE Washington Blvd","74006",36.746088714187756,-95.93602895736694
+"74006","Bartlesville","OK","Spectrum Paint","205 Me Washington","74006",36.759068,-95.935837
+"74006","Bartlesville","OK","John's Plumbing","104 Elmhurst Ct","74006",36.7553425,-95.9266845
+"74008","Bixby","OK","Lowe's","11114 South Memorial Drive","74008",36.001464,-95.890043
+"74008","Bixby","OK","Sutherlands","15050 Memorial","74008",35.94528756190808,-95.88799375882836
+"74008","Bixby","OK","Sherwin-Williams Paint Store","11053 S Memorial Dr","74133",36.00404,-95.885814
+"74008","Bixby","OK","minuteKEY","10938 S Memorial Dr","74133",36.0043549,-95.88922
+"74008","Bixby","OK","Ewing Irrigation","11059 S Memorial Dr","74133",36.00379180908203,-95.88574981689453
+"74008","Bixby","OK","minuteKEY","11114 S Memorial Dr","74008",36.0014762878418,-95.89002990722656
+"74010","Bristow","OK","Tractor Supply Co.","700 North Main St","74010",35.84022175843599,-96.39335937301637
+"74010","Bristow","OK","TH Rogers","not_available","74010",35.82859703898786,-96.39086350778287
+"74010","Bristow","OK","Husqvarna","919 S Roland St","74010",35.823272705078125,-96.40418243408203
+"74011","Broken Arrow","OK","Harbor Freight Tools","3601 S Elm Pl","74011",36.016821564445294,-95.79650683274714
+"74011","Broken Arrow","OK","Harbour Freight","not_available","74011",36.01699,-95.79564
+"74011","Broken Arrow","OK","Sears","3804 S Elm Pl, Ste B","74011",36.0149201,-95.7991917
+"74012","Broken Arrow","OK","Lowe's","1900 East Hillside Drive","74012",36.0647661,-95.7674037
+"74012","Broken Arrow","OK","Ace Hardware","708 S Aspen Ave","74012",36.04584517020563,-95.81638690738434
+"74012","Broken Arrow","OK","Atwood Ranch & Home","2351 E Kenosha St","74012",36.06004773711775,-95.76304674749461
+"74012","Broken Arrow","OK","Andrew's Lighting","S. Garnett Rd.","not_available",36.07234036616569,-95.85096012692625
+"74012","Broken Arrow","OK","Sherwin-Williams Paint Store","1004 E Lansing St","74012",36.0638542175293,-95.77906036376953
+"74012","Broken Arrow","OK","Sherwin-Williams Paint Store","6301 S Garnett Rd","74012",36.072446989298705,-95.85043430328369
+"74012","Broken Arrow","OK","Locke Supply","1821 S Aspen Ave","74012",36.032813,-95.813799
+"74012","Broken Arrow","OK","Fast Construction LLC","not_available","74146",36.08980178833008,-95.84647369384766
+"74012","Broken Arrow","OK","BlackHawk Industrial","1501 SW Expressway Dr","74012",36.0725893,-95.8084497
+"74012","Broken Arrow","OK","Morrison Supply","2321 N Sweet Gum Ave","74012",36.07400102988049,-95.83567412229962
+"74012","Broken Arrow","OK","Retool","11617 E. 61st","74133",36.075828,-95.846812
+"74012","Broken Arrow","OK","Probuild","12213 E 61st St","74012",36.07590545754491,-95.8408620305223
+"74012","Broken Arrow","OK","Osborne Equipment Sales Inc","2446 W New Orleans St","74011",36.0722228,-95.841588
+"74012","Broken Arrow","OK","Sherwin-Williams Paint Store","3311 S Elm Pl","74012",36.018562,-95.79610100000001
+"74012","Broken Arrow","OK","Smith Farm and Garden","5606 S Garnett Rd","74146",36.0811992,-95.8514879
+"74012","Broken Arrow","OK","minuteKEY","1900 E Hillside Dr","74012",36.065191999999996,-95.767742
+"74012","Broken Arrow","OK","Ferguson Waterworks","1820 N Willow Ave","74012",36.06981567036989,-95.83884280832227
+"74012","Broken Arrow","OK","Continental Industrial Supply","744 W Elgin St","74012",36.055729,-95.800178
+"74012","Broken Arrow","OK","minuteKEY","2301 W Kenosha St","74012",36.05845260620117,-95.81717681884766
+"74014","Broken Arrow","OK","Tractor Supply Co.","4777 East Kenosha St","74014",36.060760498046875,-95.7328872680664
+"74014","Broken Arrow","OK","Atwoods","29657 Sarty Rd","74429",35.96244053089852,-95.65192174403396
+"74014","Broken Arrow","OK","Reddy Pipe And Supply Inc","17801 E 11th St","74108",36.149683,-95.777872
+"74014","Broken Arrow","OK","Ace Hardware","103 S Broadway/PO 309","74429",35.9507725265475,-95.6504960879088
+"74014","Broken Arrow","OK","Lambert Brown Scales","1101 E. Louisville St","74012",36.043332,-95.777231
+"74015","Catoosa","OK","Spectrum Paint","15247 E Skelly Dr","74116",36.163178,-95.80726800000001
+"74015","Catoosa","OK","Rimer Plumbing Inc.","not_available","74015",36.178914,-95.749191
+"74015","Catoosa","OK","Husqvarna","1401 N Highway 66","74015",36.174964904785156,-95.7505111694336
+"74015","Catoosa","OK","Husqvarna","24303 S Highway 66","74019",36.26069641113281,-95.65546417236328
+"74016","Chelsea","OK","Walker's Hardware & Lumber","305 W 5th St","74016",36.53706,-95.43158
+"74016","Chelsea","OK","Phillips MFA Feed","not_available","74016",36.472175536041085,-95.40055847922167
+"74017","Claremore","OK","Ace Hardware","810 N Lynn Riggs Blvd","74017",36.31931641505275,-95.61143415141667
+"74017","Claremore","OK","Atwoods","680 S Lynn Riggs Blvd","74017",36.30515726097289,-95.62073100236599
+"74017","Claremore","OK","Sherwin-Williams Paint Store","803 W Will Rogers Blvd","74017",36.313465290694396,-95.61933517456055
+"74017","Claremore","OK","minuteKEY","19801 Robson Rd","74015",36.3653505,-95.5747231
+"74017","Claremore","OK","Enterprise Sod Store","725 S Moretz Ave","74017",36.311963,-95.616658
+"74017","Claremore","OK","Diamond P Lawn & Garden","not_available","74017",36.295833587646484,-95.6322250366211
+"74017","Claremore","OK","minuteKEY","1500 S Lynn Riggs Blvd","74017",36.29401397705078,-95.6270980834961
+"74017","Claremore","OK","Aztec locksmith","1812 N Lynn Riggs Blvd","74017",36.329251,-95.606229
+"74017","Claremore","OK","Pixley Lumber Co.","715 W Will Rogers Blvd","74017",36.313278,-95.618334
+"74017","Claremore","OK","Spectrum Paint","1301 W Country Club Rd","74017",36.292937,-95.623785
+"74017","Claremore","OK","Precision Calibrations","221 East 2nd Street","74017",36.308273,-95.608969
+"74019","Claremore","OK","Lowe's","1746 South Lynn Riggs Boulevard","74019",36.2887649,-95.6313781
+"74019","Claremore","OK","TNG Power Equipment","2100 S Highway 66","74019",36.28490733,-95.63542167
+"74020","Cleveland","OK","Blackburn Ace Hardware","300 N Broadway St","74020",36.310901,-96.463927
+"74020","Cleveland","OK","Tractor Supply Co.","1000 North Broadway St","74020",36.31776809692383,-96.46437072753906
+"74021","Collinsville","OK","Tractor Supply Co.","13325 East 136th St North","74021",36.35123825073242,-95.82469940185547
+"74021","Collinsville","OK","Cornerstone Ace Hardware","11550 N 129th E","74055",36.322042,-95.830637
+"74021","Collinsville","OK","Husqvarna","14595 N Memorial Dr","74021",36.36537551879883,-95.88392639160156
+"74023","Cushing","OK","minuteKEY","3100 E Main St","74023",35.987457,-96.7211279
+"74023","Cushing","OK","Sherwin-Williams Paint Store","2300 E Main St","74023",35.986106872558594,-96.73358917236328
+"74023","Cushing","OK","Vassars True Value","1046 E Main St","74023",35.98508469,-96.75754143
+"74023","Cushing","OK","Vassar Plumbing & Hardware","not_available","74023",35.98548126220703,-96.75674438476562
+"74023","Cushing","OK","Cushing Lumber","900-998 Oklahoma 33","74023",35.98518133163452,-96.75953
+"74023","Cushing","OK","American Welding Supply","1502 E Main St","74023",35.98530960083008,-96.74727630615234
+"74023","Cushing","OK","Hammond Lumber Company","112 Main Street","04614",35.8985660583695,-96.87240716808446
+"74023","Cushing","OK","Fastenal","800 E North St","74023",35.98583984375,-96.76309967041016
+"74032","Glencoe","OK","Husqvarna US","213 S Rose Ave","74032",36.226234436035156,-96.9253921508789
+"74033","Glenpool","OK","Tractor Supply Co.","140 West 161st St","74033",35.92919146,-96.01125711
+"74033","Glenpool","OK","minuteKEY","12200 S Waco Ave","74033",35.9516398,-96.0136884
+"74035","Hominy","OK","ebci","not_available","74035",36.36027908325195,-96.40860748291016
+"74037","Jenks","OK","The Home Depot","8880 S Delaware Avenue","74137",36.03455931645184,-95.95162868499756
+"74037","Jenks","OK","minuteKEY","2019 E 81st St","74137",36.0478498,-95.9608039
+"74037","Jenks","OK","Locke Supply Electrical and Plumbing","8785 S Lewis Ave","74137",36.03639860811058,-95.95426797866821
+"74037","Jenks","OK","HYTORC CENTRAL","2807 W Main St","74037",36.025794,-96.006411
+"74037","Jenks","OK","Survive-a-Storm Shelters","8880 S Delaware Ave Ste B","74137",36.03431701660156,-95.95130920410156
+"74037","Jenks","OK","Sherwin-Williams Paint Store","9425 S Delaware Ave","74137",36.027846000000004,-95.948488
+"74037","Jenks","OK","Oklahoma Wall Foam","9060 S Elwood Ave","74132",36.03234100341797,-95.99388122558594
+"74038","Jennings","OK","Economy Supply","not_available","74052",36.086457979313884,-96.58422224573374
+"74044","Mannford","OK","Town & Country","not_available","74044",36.12636,-96.339519
+"74044","Mannford","OK","Husqvarna","104 Industrial Dr","74044",36.12627410888672,-96.33946228027344
+"74055","Owasso","OK","Lowe's","12001 E 96th Street North","74055",36.295058,-95.8411938
+"74055","Owasso","OK","The Home Depot","9450 N 129th East Ave","74055",36.2902973,-95.8317215
+"74055","Owasso","OK","Atwoods","11510 N Garnett Rd","74055",36.32088134435687,-95.84960044601121
+"74055","Owasso","OK","Spectrum Paint","7738 N Owasso Expy","74055",36.264825,-95.847767
+"74055","Owasso","OK","minuteKEY","12001 E 96th St N","74055",36.295127,-95.84128100000001
+"74055","Owasso","OK","Mill Creek Lumber","not_available","74055",36.26623002753101,-95.84550909153182
+"74055","Owasso","OK","Air Doctor Duct Cleaning","10344 E 56th St","74145",36.23504870682497,-95.86142063140869
+"74055","Owasso","OK","Locke Supply","8787 N Owasso Expy Ste A","74055",36.281479,-95.844923
+"74055","Owasso","OK","minuteKEY","12101 E 96th St N","74055",36.2951547,-95.8380934
+"74055","Owasso","OK","Sherwin-Williams Paint Store","11601 E 76th St N","74055",36.264327908192165,-95.84429740905762
+"74055","Owasso","OK","Husqvarna","11710 E 76th St N","74055",36.26350402832031,-95.84286499023438
+"74055","Owasso","OK","Husqvarna","6602-B NORTH OWASSO EXPRESSWAY","74055",36.26173782348633,-95.84867858886719
+"74059","Perkins","OK","Perkins Builders Supply","not_available","74059",35.984155,-97.016518
+"74063","Sand Springs","OK","Atwoods","not_available","74063",36.136339,-96.098679
+"74063","Sand Springs","OK","Tractor Supply Co.","3829 South Highway 97","74063",36.107099,-96.11535
+"74063","Sand Springs","OK","Sherwin-Williams Paint Store","204 Jefferson St","74063",36.138851,-96.105306
+"74063","Sand Springs","OK","Morrow-Gill Lumber Co.","200 E Morrow Rd","74063",36.133078000000005,-96.105878
+"74063","Sand Springs","OK","Smith Fibercast","25s Main","74063",36.09401954416794,-96.13051186950325
+"74063","Sand Springs","OK","minuteKEY","220 S. Hwy. 97","74063",36.1347487,-96.1203208
+"74066","Sapulpa","OK","Glass-2-Go","211 S Mounds St","74066",35.995702,-96.11658
+"74066","Sapulpa","OK","Locke Supply","not_available","74066",35.985803999999995,-96.11314399999999
+"74066","Sapulpa","OK","rush parts","not_available","74107",36.07655715942383,-96.04617309570312
+"74066","Sapulpa","OK","Ace Hardware","715 S Main St","74066",35.989594,-96.112987
+"74066","Sapulpa","OK","Sherwin-Williams Paint Store","325 E Taft Ave","74066",35.989002,-96.108646
+"74066","Sapulpa","OK","tulas gas& gear","not_available","74131",36.066039,-96.0649
+"74066","Sapulpa","OK","minuteKEY","1002 W Taft Ave","74066",35.98631286621094,-96.1343994140625
+"74070","Skiatook","OK","Tractor Supply Co.","810 West Rogers Blvd","74070",36.367559,-96.014072
+"74070","Skiatook","OK","Cornerstone Building Center","310 W Rogers Blvd","74070",36.36856,-96.003203
+"74070","Skiatook","OK","minuteKEY","700 W Rogers Blvd","74070",36.37061309814453,-96.01139068603516
+"74070","Skiatook","OK","Allred Hardware","106 N Lombard Ln","74070",36.369822,-96.013727
+"74070","Skiatook","OK","Benson Lumber Co.","1520 Lynn","74056",36.409597,-96.120278
+"74074","Stillwater","OK","Lowe's","1616 North Perkins Road","74075",36.1389082,-97.0530356
+"74074","Stillwater","OK","Atwoods","2211 N Perkins Rd","74075",36.1443139479402,-97.05079211503399
+"74074","Stillwater","OK","Stillwater Milling","not_available","74074",36.117164,-97.053702
+"74074","Stillwater","OK","Tractor Supply Co.","3624 South Perkins Rd","74074",36.081002,-97.052276
+"74074","Stillwater","OK","minuteKEY","111 N Perkins Rd","74075",36.124542236328125,-97.05024719238281
+"74074","Stillwater","OK","Sherwin-Williams Paint Store","1120 N Duck St","74075",36.133748,-97.06344200000001
+"74074","Stillwater","OK","Spectrum Paint","816 E 6th Ave","74074",36.11619286850086,-97.0477294921875
+"74074","Stillwater","OK","City Glass of Stillwater, Inc.","802 N Boomer Rd","74075",36.1307904,-97.0596334
+"74079","Stroud","OK","STROUD TRUE VALUE HARDWARE","224 W Main St","74079",35.74894332885742,-96.65623474121094
+"74104","Tulsa","OK","Locke Supply","724 S Utica Ave","74104",36.15056,-95.967646
+"74104","Tulsa","OK","Admiral Locksmith","not_available","74104",36.14761447813841,-95.94060720908341
+"74104","Tulsa","OK","Swinney","not_available","74110",36.158830035160825,-95.95838124822376
+"74105","Tulsa","OK","Ace Hardware","2235 E 61st St","74136",36.07571682686974,-95.95892812528709
+"74105","Tulsa","OK","Ace Hardware","3948 S Peoria Ave","74105",36.104861663600296,-95.9763043692702
+"74105","Tulsa","OK","Dead Bolt Anchor Company","1407 E 52nd Pl","74105",36.087689000000005,-95.97312
+"74105","Tulsa","OK","minuteKEY","4404 S Peoria Ave","74105",36.099308,-95.977111
+"74105","Tulsa","OK","Spectrum Paint","4520 S Peoria Ave","74105",36.097469329833984,-95.9758071899414
+"74105","Tulsa","OK","Best Electric & Hardware Company","3647 S Peoria Ave","74105",36.11008015085423,-95.97535680358575
+"74105","Tulsa","OK","Holder's","40th Street","74105",36.10551,-95.95579
+"74105","Tulsa","OK","Sherwin-Williams Paint Store","4142 S Peoria Ave","74105",36.10272,-95.976104
+"74106","Tulsa","OK","Threaded Fasteners","1119 N Iroquois Ave","74106",36.170341,-95.98246999999999
+"74107","Tulsa","OK","H&E Equipment Services","5644 West 55th Street","74107",36.0849198,-96.0460911
+"74107","Tulsa","OK","Red Devil Inc","1437 S Boulder Ave Ste 750","74119",36.14085499999999,-95.988214
+"74107","Tulsa","OK","Red Bird Mower Supply","5112-5198 S 37th W Ave","74107",36.08825325965881,-96.03422999382019
+"74107","Tulsa","OK","Building Solutions Lumber","5732 S 49th West Ave","74107",36.079634999999996,-96.052128
+"74107","Tulsa","OK","Husqvarna","2424 W Skelly Dr","74107",36.088287353515625,-96.01991271972656
+"74112","Tulsa","OK","Lowe's","1525 South Yale Avenue","74112",36.1396197,-95.9196011
+"74112","Tulsa","OK","Steve's Wholesale Tools","5342 E Admiral Pl","74115",36.160409,-95.916117
+"74112","Tulsa","OK","Locke","not_available","74112",36.153743,-95.885296
+"74112","Tulsa","OK","d. j. roofing supply","8920 E Admiral Pl","74115",36.160762646172756,-95.87661961128205
+"74112","Tulsa","OK","Ferguson Fire & Fabrication","7102 E 11th St","74112",36.147311,-95.89694399999999
+"74112","Tulsa","OK","Ladders of Tulsa","8510 E Admiral Pl","74115",36.1602334,-95.8816692
+"74112","Tulsa","OK","Graybar","6917 E 12th St","74112",36.146716,-95.899261
+"74112","Tulsa","OK","All Saw","4610 E 11th Street","74112",36.147560999999996,-95.925303
+"74112","Tulsa","OK","minuteKEY","1525 SOUTH YALE AVENUE","74112",36.13959884643555,-95.91948699951172
+"74112","Tulsa","OK","Sutherlands","9503 E 21st St","74129",36.13440016062678,-95.87145056937693
+"74112","Tulsa","OK","Hardware","not_available","74115",36.160162,-95.916957
+"74112","Tulsa","OK","Spectrum Paint","4621 E Admiral Blvd","74115",36.160032,-95.924164
+"74112","Tulsa","OK","Thermal Specialties Inc.","6314 E 15th St","74112",36.139590000000005,-95.90629100000001
+"74112","Tulsa","OK","Wolseley Industrial Group","231 S Memorial Dr","74112",36.157357,-95.884695
+"74112","Tulsa","OK","Heatwave Supply","1347 South Sheridan Road","74112",36.143009185791016,-95.90396118164062
+"74114","Tulsa","OK","Harbor Freight Tools","2160 S Sheridan Rd","74129",36.13108020463153,-95.90601018504006
+"74114","Tulsa","OK","Midtown Hardware","4311 E 31st St","74135",36.119258880615234,-95.927978515625
+"74114","Tulsa","OK","Sherwin-Williams Paint Store","3030 S Sheridan Rd","74129",36.11993,-95.90516
+"74116","Tulsa","OK","Grainger","not_available","74116",36.177735,-95.857952
+"74116","Tulsa","OK","Warren CAT Equipment Rentals","3601 N Garnett Rd","74116",36.20738823,-95.84747682
+"74116","Tulsa","OK","Continental Industries","1140 N 129th East Ave","74116",36.171334,-95.834154
+"74116","Tulsa","OK","Sherwin-Williams Floorcovering Store","1102 N Garnett Rd","74116",36.17036027901453,-95.85230112075806
+"74116","Tulsa","OK","Seal Co","1558 N 107th East Ave","74116",36.179041999999995,-95.858485
+"74116","Tulsa","OK","Husqvarna","1365 N 108th East Ave","74116",36.1750373840332,-95.85621643066406
+"74119","Tulsa","OK","The Home Depot","901 S Elgin Avenue","74120",36.149848296242894,-95.98237216472626
+"74119","Tulsa","OK","Accurate Machine & Maintenance Inc","1228 S Detroit Ave","74120",36.144690999999995,-95.982869
+"74119","Tulsa","OK","Survive-a-Storm Shelters","901 S Elgin Ave Ste B","74120",36.14957046508789,-95.98216247558594
+"74120","Tulsa","OK","T.F.G.","321 S Frankfort Ave","74120",36.15506362915039,-95.98446655273438
+"74120","Tulsa","OK","Fastenal","1211 S Peoria Ave","74120",36.145637,-95.975375
+"74129","Tulsa","OK","Netherlands","21st","74129",36.132176,-95.8730915
+"74129","Tulsa","OK","Tulsa Lock & Key Inc","10314 E 21st St","74129",36.133381,-95.861575
+"74132","Tulsa","OK","Lowe's","7225 South Olympia West","74132",36.0590498,-96.0016031
+"74132","Tulsa","OK","minuteKEY","7225 S Olympia Ave W","74132",36.058927,-96.0014689
+"74133","Tulsa","OK","Lowe's","10156 E 71st St","74133",36.0588047,-95.8626521
+"74133","Tulsa","OK","The Home Depot","9808 East 71st","74133",36.0598932,-95.8664641
+"74133","Tulsa","OK","Ace Hardware","8929 S Memorial Dr Ste 370","74133",36.03409887199491,-95.88537768178067
+"74133","Tulsa","OK","B & G Travis Locksmith","not_available","74145",36.076392792723325,-95.90434765863296
+"74133","Tulsa","OK","minuteKEY","6625 S Memorial Dr","74133",36.0667004,-95.8828175
+"74133","Tulsa","OK","Spectrum Paint","10807 S Memorial Dr, Tulsa, OK 74133","74133",36.00759339967197,-95.88627502980226
+"74133","Tulsa","OK","minuteKEY","6606 E 81st St","74133",36.04509,-95.902883
+"74133","Tulsa","OK","spectrum","not_available","74133",36.00986862182617,-95.88644409179688
+"74133","Tulsa","OK","Ewing Irrigation","5907 S 107th East Ave","74146",36.076451827461355,-95.85729047657424
+"74133","Tulsa","OK","ProSource of Tulsa","9811 East 59th Street","74146",36.077787,-95.86677
+"74133","Tulsa","OK","Disk Doctors","7633 E 63rd Pl","74133",36.072559999999996,-95.88866
+"74134","Tulsa","OK","Cherokee Building Materials Inc","12222 E 60th St","74146",36.079988,-95.840952
+"74134","Tulsa","OK","HD Supply White Cap","5935 S 129th E Ave","74134",36.07745153,-95.83233728
+"74134","Tulsa","OK","Husqvarna","5829 S Garnett Rd","74146",36.07805252075195,-95.85032653808594
+"74145","Tulsa","OK","The Home Depot","4041 S Sheridan","74145",36.1057496,-95.9028066
+"74145","Tulsa","OK","Sherwin-Williams Commercial Paint Store","3699 S 73rd East Ave","74145",36.11077880859375,-95.89431762695312
+"74145","Tulsa","OK","Windor","6547 East 46th","not_available",36.098113,-95.900763
+"74145","Tulsa","OK","O'Reily","7694 E 46th St","74145",36.097396999999994,-95.88765699999999
+"74145","Tulsa","OK","24 Hour Lockouts Tulsa","5103 S Sheridan Rd Ste 350","74145",36.08930969238281,-95.9039077758789
+"74145","Tulsa","OK","Smith Farm & Garden","8804 E 41st St","74145",36.103636,-95.877987
+"74145","Tulsa","OK","All-Pro Fasteners, Inc.","3701 S 73rd East Ave","74145",36.110721588134766,-95.8943099975586
+"74145","Tulsa","OK","Lumber Liquidators, Inc.","9322 Broken Arrow Expy Ste E","74145",36.10159456729889,-95.87124426
+"74145","Tulsa","OK","Valley Wide Hydro","9300 Broken Arrow Expy Ste B","74145",36.1016001,-95.8718947
+"74145","Tulsa","OK","SPECIALTY PRODS & INSUL","7201 E 38th St","74145",36.109708000000005,-95.896085
+"74145","Tulsa","OK","ABC Supply","7333 E 38th St","74145",36.108638,-95.893551
+"74145","Tulsa","OK","Ferguson Plumbing Supply","6525 E 42nd St","74145",36.103531,-95.900672
+"74146","Tulsa","OK","Metro Appliances & More","5313 S Mingo Rd","74146",36.08766,-95.86723
+"74146","Tulsa","OK","Hilti","E. 31st St.","not_available",36.118879602662446,-95.8583801008534
+"74146","Tulsa","OK","M. W. Bevins, Co.","9903 E 54th St","74146",36.086778,-95.866371
+"74146","Tulsa","OK","Sears","10405 E. 55Th Place","74146",36.08506774902344,-95.8606185913086
+"74146","Tulsa","OK","M & M Lumber Company","4711 S Mingo Rd","74146",36.095141999999996,-95.868016
+"74146","Tulsa","OK","minuteKEY","3116 S Garnett Rd","74146",36.11833190917969,-95.85313415527344
+"74146","Tulsa","OK","irby","10302 E 58th St","74146",36.07976567318268,-95.86277246475218
+"74301","Vinita","OK","Ace Hardware","601 E Illinois Ave","74301",36.63639831542969,-95.1485595703125
+"74301","Vinita","OK","Walker's Hardware & Lumber","1466 N 3rd St","74350",36.480069,-95.056993
+"74301","Vinita","OK","Lakewood Ace Hardware","1659 North Third Street","74350",36.4727999,-95.049199
+"74301","Vinita","OK","Sherwin-Williams Paint Store","148 N 7th St","74301",36.63553237915039,-95.14335632324219
+"74301","Vinita","OK","Langley Home Center","not_available","74350",36.47984086504103,-95.05685228842901
+"74301","Vinita","OK","Husqvarna","323 W Dwain Willis Ave","74301",36.62636947631836,-95.1654281616211
+"74301","Vinita","OK","Husqvarna","1466 N 3RD STREET","74350",36.48006820678711,-95.05699157714844
+"74330","Adair","OK","Hamill Metals","2976 W 410 Rd","74330",36.42386833,-95.30963483
+"74330","Adair","OK","Eagle Feed","not_available","74330",36.43890183830479,-95.2712828019818
+"74331","Afton","OK","Hughes Lumber","not_available","74343",36.741096,-94.855781
+"74339","Commerce","OK","Truevalue Rental","515 N Main St","74358",36.91875457763672,-94.87784576416016
+"74344","Grove","OK","Lowe's","2131 South Main Street","74344",36.5743103,-94.7665557
+"74344","Grove","OK","Grand True Value Rental Of Grove","64047 E 290 Rd","74344",36.596885681152344,-94.73504638671875
+"74344","Grove","OK","Delaware County Solid Waste","64200 E 288 Rd","74344",36.60111999511719,-94.7270736694336
+"74344","Grove","OK","Sisco True Value Hardware","1116 S Main St","74344",36.58378982543945,-94.76972198486328
+"74344","Grove","OK","Tractor Supply Co.","2121 Us Hwy 59","74344",36.60277837644613,-94.78946966668703
+"74344","Grove","OK","Husqvarna","28390 US HWY 59","74344",36.645973205566406,-94.8137435913086
+"74346","Jay","OK","Lindly's Hardware","911 S Main St","74346",36.41970245,-94.80291388
+"74352","Locust Grove","OK","minuteKEY","800 E Main St","74352",36.1992073059082,-95.1574478149414
+"74354","Miami","OK","Ace Hardware","1621 N Main St","74354",36.89377,-94.877547
+"74354","Miami","OK","Tractor Supply Co.","2630 North Main St","74354",36.907782,-94.876723
+"74354","Miami","OK","Miami Industrial Supply","7251 State Hwy 69A","74354",36.9103718,-94.842952
+"74354","Miami","OK","Harbor Freight","2035 N Main St","74354",36.898735,-94.87925
+"74354","Miami","OK","Sherwin-Williams Paint Store","1901 N Main St","74354",36.89654541015625,-94.87783813476562
+"74354","Miami","OK","minuteKEY","2415 N. Miami St.","74354",36.8922738,-94.8798123
+"74361","Pryor","OK","Tractor Supply Co.","935 South Mill St","74361",36.291405,-95.323076
+"74361","Pryor","OK","minuteKEY","4901 S Mill St","74361",36.2623037,-95.3299619
+"74361","Pryor","OK","Sherwin-Williams Paint Store","17 N Adair St","74361",36.30849415402483,-95.31646013259888
+"74361","Pryor","OK","Erwin Glass","15 SW 2nd St","74361",36.304710388183594,-95.32066345214844
+"74361","Pryor","OK","P&K","4385 W 520","74361",36.2628288269043,-95.33531951904297
+"74361","Pryor","OK","S And J Plumbing","not_available","74361",36.30765151977539,-95.33352661132812
+"74401","Muskogee","OK","Wheeler Metals","3100 W 40th St N","74401",35.79903524608753,-95.40150954560241
+"74401","Muskogee","OK","Harbor Freight","not_available","74403",35.77232,-95.34336
+"74401","Muskogee","OK","Leggett Supply","1701 S Cherokee St","74403",35.72977828979492,-95.37642669677734
+"74401","Muskogee","OK","Sherwin-Williams Paint Store","1821 N York St","74403",35.76528368697967,-95.34096479415894
+"74401","Muskogee","OK","Old Leggett Store","not_available","74401",35.748306075602976,-95.36803733208616
+"74401","Muskogee","OK","Sears","2234 E Shawnee Byp","74403",35.77264825977,-95.3445965051651
+"74401","Muskogee","OK","Tractor Supply Co.","1140 West Shawnee St","74401",35.770524,-95.378014
+"74401","Muskogee","OK","irby","1910 Roosevelt St","74401",35.768821716308594,-95.3603515625
+"74401","Muskogee","OK","American Industrial Supply","2100 Old Shawnee Rd","74403",35.76980972290039,-95.34632873535156
+"74401","Muskogee","OK","Husqvarna","2000 N York St","74403",35.76729965209961,-95.33980560302734
+"74403","Muskogee","OK","Lowe's","2901 Old Shawnee Rd","74403",35.76808003,-95.33029882
+"74403","Muskogee","OK","Kla-Mart","2625 Old Shawnee Rd","74403",35.7695198059082,-95.33390808105469
+"74403","Muskogee","OK","Keith True Value","911 S Lee","74434",35.78712844848633,-95.24476623535156
+"74403","Muskogee","OK","Fastenal","4001 Tull Ave","74403",35.73374938964844,-95.31040954589844
+"74403","Muskogee","OK","Grissoms John Deere","540 N 43d St East","74403",35.747025978989875,-95.30950765143318
+"74403","Muskogee","OK","minuteKEY","2901 OLD SHAWNEE","74403",35.7678088,-95.3304897
+"74403","Muskogee","OK","Y-Bar Sales & Rental","not_available","74434",35.77903747558594,-95.25194549560547
+"74403","Muskogee","OK","Keith Hardware & Supply Inc.","911 S Lee St","74434",35.78713,-95.24476
+"74426","Checotah","OK","Checotah True Value Hardware","602 Enterprise Ave","74426",35.47190363,-95.53093837
+"74426","Checotah","OK","Lake Area Fence","not_available","74426",35.461551666259766,-95.53950500488281
+"74426","Checotah","OK","Husqvarna","2238 N. BROADWAY","74426",35.49787902832031,-95.52261352539062
+"74426","Checotah","OK","Mikes Plumbing And Hardware","not_available","74432",35.362585,-95.561732
+"74427","Cookson","OK","Liberty Propane & Hardware","not_available","74427",35.70768335862505,-94.91631377958514
+"74427","Cookson","OK","Husqvarna","HIGHWAY 82","74350",35.65853500366211,-94.9515151977539
+"74432","Eufaula","OK","Eufaula True Value Hardware","625 S Main","74432",35.27925359,-95.58286936
+"74432","Eufaula","OK","Sears","617 S. Main St.","74432",35.27953770080222,-95.58246687054628
+"74432","Eufaula","OK","Husqvarna","1478 JM BAILEY HWY","74432",35.28837966918945,-95.60820770263672
+"74435","Gore","OK","S&S TRUE VALUE","512 N MAIN ST","74435",35.53239822387695,-95.11389923095703
+"74437","Henryetta","OK","Branson Shavings","not_available","74445",35.56381,-95.85531
+"74445","Morris","OK","Leggett Farm & Home","212 S Hughes Ave","74445",35.6085205078125,-95.86035919189453
+"74447","Okmulgee","OK","Tractor Supply Co.","2760 North Wood Dr","74447",35.64590835571289,-95.96221923828125
+"74447","Okmulgee","OK","Sears","Woods dr","not_available",35.6473193,-95.9628924
+"74447","Okmulgee","OK","minuteKEY","1800 S Wood Dr","74447",35.6057888,-95.964337
+"74447","Okmulgee","OK","Sherwin-Williams Paint Store","1603 S Wood Dr","74447",35.60759735107422,-95.96051025390625
+"74451","Park Hill","OK","Husqvarna","26372 HIGHWAY 82","74451",35.7938232421875,-94.95062255859375
+"74454","Porter","OK","Day's Discount Lumber","not_available","74454",35.82845947404675,-95.4026856170377
+"74454","Porter","OK","Ace Hardware","1600 SW 15th St","74467",35.94496536254883,-95.39791870117188
+"74462","Stigler","OK","Ace Hardware","1509 E Main St","74462",35.25155881306148,-95.11456335678139
+"74464","Tahlequah","OK","Lowe's","161 Meadow Creek Dr","74464",35.8918724,-94.9795989
+"74464","Tahlequah","OK","Lock Supply","1791 N Grand Ave","74464",35.93550491333008,-94.9680404663086
+"74464","Tahlequah","OK","Tractor Supply Co.","401 Daisy Dr","74464",35.888732,-94.979922
+"74464","Tahlequah","OK","Tahlequah Lumber","not_available","74464",35.894837075597465,-94.97200282771091
+"74464","Tahlequah","OK","Superior Gage Service","13931 N 503 Rd.","74464",35.97519320000001,-94.9883254
+"74464","Tahlequah","OK","Sherwin-Williams Paint Store","1710 S Park Hill Rd","74464",35.89408958264368,-94.97230719058336
+"74464","Tahlequah","OK","Husqvarna","14166 Highway 82","74464",35.97140884399414,-94.96387481689453
+"74467","Wagoner","OK","White's DIY","not_available","74467",35.957192,-95.371649
+"74467","Wagoner","OK","Husqvarna","2014 WEST HIGHWAY 51","74467",35.95929718017578,-95.40657043457031
+"74501","Mcalester","OK","Lowe's","530 South George Nigh Expressway","74501",34.9158321,-95.7432
+"74501","Mcalester","OK","Sears","500 Village Blvd.","74501",34.9075262,-95.7440323
+"74501","Mcalester","OK","Bemac Supply","Under Carl Albert Parkway","74502",34.930001296970055,-95.7581953283107
+"74501","Mcalester","OK","A1 Mini Storage","836 E Carl Albert Pkwy","74501",34.930273,-95.758003
+"74501","Mcalester","OK","McAlester Paint & Supply","501 E Wyandotte Ave","74501",34.92771883184028,-95.76427124020267
+"74501","Mcalester","OK","Hartshorne True Value","1108 Pennsylvania Ave","74547",34.84442673,-95.55429143
+"74501","Mcalester","OK","Sherwin-Williams Paint Store","202 S 3rd St","74501",34.92821661201621,-95.76501131057739
+"74501","Mcalester","OK","Tractor Supply Co.","410 South George Nigh Expy Ste B","74501",34.920783,-95.742826
+"74501","Mcalester","OK","Lowes","Hiway 69","74501",34.92084713630035,-95.76314450019026
+"74501","Mcalester","OK","minuteKEY","432 S George Nigh Expy","74501",34.919227600097656,-95.74048614501953
+"74501","Mcalester","OK","Adam True Value Hardware & Ag Supply","1112 S George Nigh Expressway","74501",34.89637756347656,-95.75923156738281
+"74501","Mcalester","OK","Locke Supply Plumbing,Electrical&Hv/Ac","not_available","74501",34.89518558901879,-95.7524183847082
+"74501","Mcalester","OK","Husqvarna","1327 S George Nigh Expy","74501",34.89532470703125,-95.7713394165039
+"74523","Antlers","OK","Antlers Roof Truss & Building Supply","1010 N E 5th","74523",34.23144,-95.62672
+"74523","Antlers","OK","ANTLERS ROOF TRUSS & BUILDING SUP","1010 NE 5th St","74523",34.23590850830078,-95.60769653320312
+"74525","Atoka","OK","Tractor Supply Co.","2171 South Mississippi Ave","74525",34.363637,-96.143504
+"74561","Quinton","OK","Quinton True Value Hardware","1020 Main","74561",35.1232751,-95.36782469
+"74571","Talihina","OK","Holland's Thick & Thin Lumber & Ranch Supply","not_available","74571",34.7431,-95.04286
+"74578","Wilburton","OK","Tractor Supply Co.","920 Hwy 2 North","74578",34.920548,-95.32270799999999
+"74578","Wilburton","OK","SOUTHEAST TRUE VALUE HARDWARE","612 Highway 2 N","74578",34.903221130371094,-95.3230972290039
+"74601","Ponca City","OK","Lowe's","3500 North 14th Street","74601",36.7471307,-97.0684857
+"74601","Ponca City","OK","Royal Supply Company","64606 US Highway 60","74604",36.68055150874438,-97.0449939361763
+"74601","Ponca City","OK","Sherwin-Williams Paint Store","2615 N 14th St","74601",36.73667016771145,-97.06665515899657
+"74601","Ponca City","OK","Quality Water Service","115 E Highland Ave","74601",36.7102,-97.08288
+"74601","Ponca City","OK","Sears","412 East Hartford","74601",36.723479,-97.079351
+"74601","Ponca City","OK","Locke Supply","not_available","74601",36.73851138439966,-97.07034070829029
+"74601","Ponca City","OK","Brandts Ace Hardware","3203 N 14th St","74601",36.7403309,-97.067311
+"74601","Ponca City","OK","Briggs Hardware And Supply","120 S Main","74647",36.88162955,-97.05362886
+"74601","Ponca City","OK","Frontier Siding and Window","1723 N 3rd St, Ponca City, OK 74601","74601",36.723899841308594,-97.08067321777344
+"74601","Ponca City","OK","Houser Hardware & Supply","120 S Main St","74647",36.881582,-97.05318100000001
+"74601","Ponca City","OK","minuteKEY","1101 E Prospect Ave","74601",36.74056625366211,-97.07196044921875
+"74601","Ponca City","OK","Tractor Supply Co.","3008 North 14th St","74601",36.739501,-97.068205
+"74631","Blackwell","OK","BLACKWELL TRUE VALUE HARDWARE","114 E Oklahoma Ave","74631",36.80544662475586,-97.28219604492188
+"74647","Newkirk","OK","Two Rivers Coop Newkirk","not_available","74647",36.883913,-97.052561
+"74701","Durant","OK","Lowe's","720 University Place","74701",34.0032175,-96.4091259
+"74701","Durant","OK","Durant Power Equipment","824 N 1st Ave","74701",33.99827882,-96.37347502
+"74701","Durant","OK","Premier Paint & Supply","not_available","74701",34.000147,-96.401794
+"74701","Durant","OK","Sherwin-Williams Paint Store","2102 W Main St","74701",33.99776840209961,-96.4013671875
+"74701","Durant","OK","minuteKEY","720 University Pl","74701",34.0037956237793,-96.4094009399414
+"74701","Durant","OK","Tractor Supply Co.","2100 Evergreen St","74701",33.99941,-96.400726
+"74701","Durant","OK","Lowe's Durant ,Ok.","730 UNIVERSITY PLACE","74701",34.003031060416944,-96.4082687061446
+"74701","Durant","OK","Durant True Value Lumber","115 S 3rd Ave","74701",33.99071121,-96.37911224
+"74701","Durant","OK","Spencer Locksmith Service","518 N 4th Ave","74701",33.995827,-96.378317
+"74701","Durant","OK","minuteKEY","3712 W Main St","74701",34.0003373,-96.4132767
+"74728","Broken Bow","OK","Bailey Lumber Co","5847 E US Highway 70","74728",34.04132843017578,-94.6450424194336
+"74728","Broken Bow","OK","Sears","Rural Route 2 Box 976-2","74728",33.963815,-94.753818
+"74728","Broken Bow","OK","Lambert Lumber","not_available","74728",34.02911376953125,-94.74857330322266
+"74728","Broken Bow","OK","B & N Ace Hardware","204 N Broadway St","74728",34.028756,-94.737983
+"74728","Broken Bow","OK","Husqvarna","5500 NE Lincoln Rd","74745",33.936222076416016,-94.76053619384766
+"74743","Hugo","OK","TH Rogers Lumber","100 S A St","74743",34.009788513183594,-95.51425170898438
+"74743","Hugo","OK","Orscheln","not_available","74743",34.009034,-95.49232
+"74743","Hugo","OK","Donaldson Ace Hardware","119 N Broadway St","74743",34.010223388671875,-95.5130615234375
+"74745","Idabel","OK","Tractor Supply Co.","901 Southeast Washington St","74745",33.896538,-94.817259
+"74745","Idabel","OK","Home Depot","not_available","96910",33.89989901375135,-94.82432785475828
+"74801","Shawnee","OK","White's Ace Building Ctr","603 E Independence St","74804",35.3472,-96.911699
+"74801","Shawnee","OK","Sherwin-Williams Paint Store","1700 N Harrison St","74804",35.35080094249112,-96.91299676895142
+"74801","Shawnee","OK","Ball Pipe And Supply","not_available","74873",35.32887091010605,-97.10651708276056
+"74801","Shawnee","OK","Bradford Industrial Supply Corp","not_available","74801",35.3271369934082,-96.92674255371094
+"74801","Shawnee","OK","Duval Equipment Mower Shop","14000 Highway 177","74804",35.36102551162428,-96.97093589814756
+"74801","Shawnee","OK","Hertz","14155-14255 Oklahoma 3W","74804",35.3599448916778,-96.96733695554666
+"74804","Shawnee","OK","Lowe's","4817 North Kickapoo Ave","74804",35.3814849,-96.9273895
+"74804","Shawnee","OK","Tractor Supply Co.","4850 Shawnee Mission Dr","74804",35.382433,-96.923911
+"74804","Shawnee","OK","Sears","4901 N Kickapoo Ave","74804",35.38700499999999,-96.9259405
+"74804","Shawnee","OK","Grissoms John Deere","not_available","74804",35.36891530316112,-96.9820239691112
+"74804","Shawnee","OK","S-1 Equipment","37605 45th St","74804",35.37633,-96.99087
+"74804","Shawnee","OK","Sears","4901 North Kickapoo St, Suite #3001","74804",35.3777081,-96.9298003
+"74804","Shawnee","OK","minuteKEY","196 Shawnee Mall Dr","74804",35.3864096,-96.9217658
+"74804","Shawnee","OK","Lowes","185 W Interstate Pkwy","74804",35.38277053833008,-96.92643737792969
+"74820","Ada","OK","The Home Depot","515 J A Richardson Blvd","74820",34.7881355,-96.6715621
+"74820","Ada","OK","Halls True Value Hardware","100 Main & Broadway","74871",34.65266,-96.52608
+"74820","Ada","OK","minuteKEY","1419 N Country Club Rd","74820",34.7891343,-96.6556343
+"74820","Ada","OK","JB's Ace Home Center","1407 N Country Club Rd","74820",34.7890999,-96.652699
+"74820","Ada","OK","Tractor Supply Co.","1320 North Hills Center","74820",34.791541,-96.662975
+"74820","Ada","OK","Locke Supply","819 N Broadway Ave","74820",34.782806396484375,-96.67973327636719
+"74820","Ada","OK","Mead Lumber","351 J A Richardson Loop","74820",34.7891077922538,-96.67515424056049
+"74820","Ada","OK","Fastenal","420 S Mississippi Ave","74820",34.770729064941406,-96.66976928710938
+"74820","Ada","OK","Sherwin-Williams Paint Store","836 Arlington Ctr","74820",34.78347888316557,-96.64973258972168
+"74834","Chandler","OK","Lincoln County True Value Hardware","308 W 15th St","74834",35.69536,-96.88327
+"74834","Chandler","OK","Husqvarna US","108 E 1st St","74834",35.710426330566406,-96.8804931640625
+"74834","Chandler","OK","Chandler Hardware","822 Manvel Ave","74834",35.70203125476837,-96.88201189041138
+"74834","Chandler","OK","Atwoods","1700 E 1st St","74834",35.71062985652583,-96.86166105788297
+"74848","Holdenville","OK","TH Rogers Lumber Company","not_available","74884",35.131171,-96.494894
+"74848","Holdenville","OK","Lantz Hardware","115 W Main St","74848",35.083349,-96.401811
+"74848","Holdenville","OK","Spudgers.com","7182 US Highway 14","53562",35.06346335917659,-96.33260227739811
+"74855","Meeker","OK","Sunbelt","not_available","74855",35.518859,-96.895535
+"74859","Okemah","OK","Benson True Value Hardware","102 S Woody Guthrie St","74859",35.43103449,-96.2996351
+"74859","Okemah","OK","Parks Brothers Ace Hardware","100 W Broadway St","74859",35.431834,-96.301592
+"74859","Okemah","OK","Ace Hardware","100-122 W Broadway St","74859",35.431481,-96.335203
+"74860","Paden","OK","Thad White Building Supply","not_available","74860",35.50447863919464,-96.57302382970286
+"74864","Prague","OK","Parks Brothers Hardware","1005 W Main St","74864",35.486086,-96.687776
+"74864","Prague","OK","Grissoms","223 N Jim Thorpe Blvd","74864",35.47921371459961,-96.68694305419922
+"74868","Seminole","OK","White's Ace Building Center","1600 N Milt Phillips Ave","74868",35.23902130126953,-96.67143249511719
+"74868","Seminole","OK","Tractor Supply Co.","1129 East Wrangler Blvd","74868",35.24609522770922,-96.65824203258751
+"74868","Seminole","OK","Sherwin-Williams Paint Store","323 N Main St","74868",35.226182456887635,-96.66908740997313
+"74873","Tecumseh","OK","Quality Hardware","123 N Broadway St","74873",35.25856018066406,-96.93644714355469
+"74881","Wellston","OK","Worlds Best Sites","980094 S Shadowwood Dr","74881",35.5921630859375,-97.06391906738281
+"74932","Cameron","OK","Spider Webb Tractor Sales","not_available","74953",35.10526490423855,-94.61668263951213
+"74932","Cameron","OK","Sherwin-Williams Paint Store","3100 N Broadway St","74953",35.09098434448242,-94.62996673583984
+"74932","Cameron","OK","Smart Mart","not_available","74932",35.12357,-94.57532
+"74932","Cameron","OK","minuteKEY","3108 N Broadway St","74953",35.094631,-94.62888000000001
+"74932","Cameron","OK","Husqvarna","3010 N Broadway St","74953",35.089637756347656,-94.63030242919922
+"74937","Heavener","OK","Heavener Farm & Poultry Supply","500 Main St","74937",34.888790130615234,-94.60238647460938
+"74940","Howe","OK","Rons Discount Lumber","not_available","74940",34.97184615737543,-94.63770892031086
+"74948","Muldrow","OK","Cantwell Hardware","not_available","74948",35.402301780635284,-94.59521196538977
+"74953","Poteau","OK","Poteau True Value Hardware","101 Clayton Ave","74953",35.05369239,-94.62196213
+"74953","Poteau","OK","Warren CAT Equipment Rentals","1606 S Broadway St","74953",35.0433065,-94.63724181
+"74955","Sallisaw","OK","Tractor Supply Co.","2000 East Cherokee Ave Ste S","74955",35.456050872802734,-94.76726531982422
+"74955","Sallisaw","OK","SALLISAW HARDWARE","110 E Cherokee Ave","74955",35.46040725708008,-94.78971862792969
+"74955","Sallisaw","OK","Sallisaw True Value Hardware","808 E Cherokee","74955",35.4605091836735,-94.7901559183673
+"74955","Sallisaw","OK","Husqvarna","2510 S Kerr Blvd","74955",35.42851257324219,-94.8048095703125
+"74960","Stilwell","OK","Husqvarna","209 N 2nd St","74960",35.81684494018555,-94.62777709960938
+"74962","Vian","OK","Husqvarna US","PO Box 700","74962",35.53860855102539,-94.96385192871094
+"74962","Vian","OK","Ace Hardware","317 S Thornton St","74962",35.49949,-94.969172
+"74962","Vian","OK","Husqvarna","317 S THORNTON","74962",35.49994659423828,-94.9695053100586
+"74964","Watts","OK","minuteKEY","935 S. HOLLY ST","72761",36.1751823425293,-94.55791473388672
+"74964","Watts","OK","Husqvarna","1980 Highway 412 W","72761",36.17595672607422,-94.5612564086914
+"74965","Westville","OK","Red Barn","not_available","74965",35.991698939384584,-94.58338882405236

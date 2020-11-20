@@ -1,0 +1,956 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"50001","Ackworth","IA","Woodland Mounds County Park","3 Miles East Of","50001",41.36613845825195,-93.51099395751953
+"50001","Ackworth","IA","Pickard Park","Hwy 92 East","50125",41.328703,-93.408543
+"50002","Adair","IA","Jesse James Historical Park","1156 Anita-Adair Rd","50020",41.48347124018154,-94.67565839625259
+"50002","Adair","IA","Keystone Park","not_available","50020",41.496897426556124,-94.71005922217783
+"50003","Adel","IA","Trindle Park","not_available","not_available",41.525059325466664,-93.96010067301282
+"50003","Adel","IA","Evans Park","S 12th St & Cassidy Curve","50003",41.60952249378811,-94.02425765991211
+"50003","Adel","IA","Johnson Park","Division Ave","50261",41.523691,-93.96326265
+"50003","Adel","IA","Adel Island Park","not_available","50003",41.62203652060515,-94.01322885845781
+"50003","Adel","IA","Kinnick-Feller Riverside Park","500 N 10th Street","50003",41.62267325640014,-94.01966521920679
+"50003","Adel","IA","Memorial Park","506 9th St","50063",41.68381118774414,-93.9542465209961
+"50003","Adel","IA","Little Bridge Park","not_available","50069",41.527781809376386,-94.00951497813473
+"50003","Adel","IA","Adel City Park","441 N 9th St","50003",41.62168502807617,-94.01909637451172
+"50005","Albion","IA","Albion City Park","Main St.","not_available",42.11010223873707,-92.98996179922581
+"50008","Allerton","IA","Roadside Park","not_available","50147",40.58972815292664,-93.52410662355355
+"50009","Altoona","IA","Adventureland Park","305 34th Ave NW","50009",41.65458009527639,-93.49984019994736
+"50009","Altoona","IA","Iron Wood Park","25th St SE","50009",41.62942175133074,-93.46865420522182
+"50009","Altoona","IA","Oak Hill Park","2115 Copper Wynd Dr","not_available",41.61301991212752,-93.50965976715088
+"50009","Altoona","IA","Greenway Park","892-898 9th St NW","50009",41.65937998592879,-93.47779027423351
+"50009","Altoona","IA","Haines park","not_available","50009",41.64570039816483,-93.46012740725475
+"50009","Altoona","IA","Dare Mar Park","E Oakwood Dr, Pleasant Hill, IA 50327","50327",41.6002579,-93.5031129
+"50009","Altoona","IA","Pond","103 10th Ave NW","50009",41.65145,-93.474586
+"50009","Altoona","IA","Brook run park","Some where on douglas","50317",41.62916240417259,-93.51651324621771
+"50010","Ames","IA","Ada Hayden Heritage Park","5205 Grand Ave.","50010",42.07233382062112,-93.62493417396972
+"50010","Ames","IA","River Valley Park","E 13th Street","50010",42.035390009775924,-93.60251712110777
+"50010","Ames","IA","Carr Park","not_available","50010",42.03909668342389,-93.6040205117336
+"50010","Ames","IA","Gateway Hills Park","1358-1406 Gateway Hills Dr","50014",42.00893614645294,-93.64851946240486
+"50010","Ames","IA","Inis Grove Park","2700 Duff Ave","50010",42.04740149813131,-93.6134375079665
+"50010","Ames","IA","Brookside Park","1325 6th Street","50010",42.028994236137976,-93.6302035327873
+"50010","Ames","IA","Moore Memorial Park","3050 Northridge Parkway","not_available",42.04401397705078,-93.65219116210938
+"50010","Ames","IA","Bandshell Park","125 E 5th St","50010",42.026376,-93.609631
+"50010","Ames","IA","Parkview Park","2501 Pierce Ave","50010",42.04722595214844,-93.63307189941406
+"50010","Ames","IA","O'Neil Park","1009-1091 S 4th St","50010",42.020013826699916,-93.62457300807951
+"50010","Ames","IA","Lagomarcino Courtyard","Lagomarcino Hall","50014",42.029692,-93.64534
+"50010","Ames","IA","Park","not_available","50014",42.00652756068451,-93.62254459029468
+"50010","Ames","IA","Ames on the Half Shell","125 East 5th","50010",42.02645405478196,-93.6096535691304
+"50010","Ames","IA","Christofferson Park","Oakwood Road","50014",41.99704,-93.6441
+"50010","Ames","IA","South River Valley Park","725 E 13th St","50010",42.03459167480469,-93.60034942626953
+"50010","Ames","IA","Wakefield Woods","2480 E. 190th St","50010",42.07746887207031,-93.58016204833984
+"50010","Ames","IA","Duff Park","1323 Duff Ave","not_available",42.03543600234375,-93.61114244709569
+"50010","Ames","IA","Wakefield Woods","County Road E23","50010",42.063723137397425,-93.59283023265975
+"50014","Ames","IA","Emma Mccarthy Lee Park","3400 Ross Rd","50014",42.032237419316345,-93.66375729022363
+"50014","Ames","IA","Flower Park / The Shrine / Doll's House / Sun Park","2161 195th St","50036",42.07133865356445,-93.74545288085938
+"50014","Ames","IA","Christopher Gartner Park","400 Abraham Dr","50014",42.018592834472656,-93.67648315429688
+"50014","Ames","IA","Hutchinson Park","Ontario st","50014",42.036993879819136,-93.68328304945722
+"50014","Ames","IA","Moore Park","1101 Beach Ave","50014",42.01177978515625,-93.64044189453125
+"50014","Ames","IA","Stoners Point","not_available","50156",42.02273349649502,-93.73225552482074
+"50021","Ankeny","IA","Crestbruck Park","NE Crestmoor Pl","50021",41.73993478868047,-93.59469922640191
+"50021","Ankeny","IA","Sunrise Park","506 SE Peterson Dr","50021",41.72746715346834,-93.59379933183841
+"50021","Ankeny","IA","Briarwood Park","NE Oak St","50021",41.752673447877356,-93.59606887711317
+"50021","Ankeny","IA","Summerbrook Park","1000-1040 SE 9th St","50021",41.72264308236659,-93.58167171478271
+"50021","Ankeny","IA","Hillside Park","SE 20th St","50021",41.71014678059712,-93.55967459159916
+"50021","Ankeny","IA","Springwood Park","SE Peachtree Dr","50021",41.69933033319964,-93.59271302819252
+"50021","Ankeny","IA","Ankeny Disc Golf Course","not_available","50021",41.73449221957171,-93.57085253124761
+"50021","Ankeny","IA","Michael Park","NE 7th St","50021",41.73726017148355,-93.58797512975212
+"50021","Ankeny","IA","Woodland Reserve Greenway","NE 36th Street","50023",41.7655022047435,-93.59053373336792
+"50021","Ankeny","IA","Memorial Park","not_available","50073",41.7912262371822,-93.52253156931332
+"50021","Ankeny","IA","Heritage Park","300 NE Frisk Dr","50021",41.73384783952497,-93.57101068080974
+"50021","Ankeny","IA","Lleyton's Playground","3927 NE Gardenia Ln","50021",41.763605,-93.581693
+"50021","Ankeny","IA","Renaissance Park","NE 36th Street","50021",41.759652188037165,-93.57967615127563
+"50021","Ankeny","IA","Otter Creek Park","NE 36th St","50021",41.76133225643485,-93.57850359323511
+"50022","Atlantic","IA","Dip Hill","not_available","50022",41.396902,-95.025285
+"50023","Ankeny","IA","Sawgrass Park","3707 SW Beechwood St","50023",41.69408163735669,-93.63031238920846
+"50023","Ankeny","IA","Dean Park","SW 19th Street","50021",41.71276465856204,-93.62772441920143
+"50023","Ankeny","IA","Prairie Ridge Sports Complex","1510 NW Ash Drive","50023",41.74389210286572,-93.61536026000977
+"50023","Ankeny","IA","Glenbrooke Park","2803 SW Glenbrooke Drive","50021",41.70171631747912,-93.64442118353774
+"50023","Ankeny","IA","Hawkeye Park","NW Lakeshore Dr.","50023",41.73404508868566,-93.60737800598145
+"50023","Ankeny","IA","Margo Franklin Park","2-96 NW 66th Ave","50313",41.680256643072155,-93.62398921116424
+"50023","Ankeny","IA","Vintage Park","SW Vintage Parkway","50023",41.71397011747478,-93.62223744392394
+"50023","Ankeny","IA","Precedence park","SW Vintage Parkway","50021",41.71199729146326,-93.62576536011397
+"50023","Ankeny","IA","Ankeny Dog Park","SW Ankeny Road","50021",41.69671435399441,-93.61341093259445
+"50023","Ankeny","IA","Somersby Park","SW Springwood Dr","50021",41.69545907390552,-93.61222743988037
+"50023","Ankeny","IA","Sunset Park","1320 SW 3rd St","50021",41.72934772245677,-93.61765693420477
+"50023","Ankeny","IA","White Birch Park","SW 35th Street","50023",41.70133897032884,-93.62379312515259
+"50023","Ankeny","IA","Boulder Brook Park","333 NW Boulder Point Place","50023",41.73696732767651,-93.6429762840271
+"50023","Ankeny","IA","Ashland Meadows Park","NW Park Meadows Drive","50021",41.750760101704905,-93.61407279968262
+"50023","Ankeny","IA","Tennis Courts","Ash","not_available",41.73318,-93.60728
+"50023","Ankeny","IA","Wagner Park","410 W 1st St","50023",41.733436584472656,-93.60617065429688
+"50023","Ankeny","IA","Watercrest Park","NW 8th Street","50023",41.73726354722063,-93.65786790847778
+"50023","Ankeny","IA","Northcreek Park","NW 13th Street","50023",41.74217839070253,-93.63847729169103
+"50023","Ankeny","IA","Georgetown Park","NW Georgetown Blvd","50021",41.75340232950315,-93.60941627424722
+"50023","Ankeny","IA","Haubert Park","914 SW 3rd Street","50021",41.730478175714964,-93.61146301031113
+"50023","Ankeny","IA","Horizon Park","NW State Street","50023",41.74048184447507,-93.61920118331909
+"50023","Ankeny","IA","Westwinds Park","SW Irvinedale Dr","50023",41.70753497571096,-93.64282997316931
+"50023","Ankeny","IA","Parks & Recreation Maintenance Building","210 NW Ash Drive","50023",41.742458961699896,-93.61608388278889
+"50023","Ankeny","IA","Diamond Hills Greenbelt","NW Polk City Dr","50023",41.72182628795505,-93.65134477615355
+"50023","Ankeny","IA","Greentree Park","1914 NW Hickory Ln","50023",41.742315999999995,-93.62593000000001
+"50023","Ankeny","IA","Village Park","NW 4th St","50023",41.73677623764287,-93.62012431371069
+"50025","Audubon","IA","Nathaniel Hamlin Park","not_available","50025",41.69546890258789,-94.92442321777344
+"50026","Bagley","IA","Cooper Iowa","not_available","50129",41.921072199682236,-94.34522634956144
+"50028","Baxter","IA","Clear creek","not_available","50168",41.807987213134766,-93.23213958740234
+"50035","Bondurant","IA","Skunk River & Us 65 Public Area","not_available","50161",41.743104,-93.393098
+"50036","Boone","IA","Miles Lee Park","not_available","50036",42.061792,-93.908153
+"50036","Boone","IA","Dickcissel Park","1701-1799 219th Ln","50036",42.0385862754103,-93.81605056665722
+"50036","Boone","IA","McHose Park","Francis Mason Dr","50036",42.039286921423056,-93.88694727960852
+"50036","Boone","IA","Senholz Memorial Park","222 Mamie Eisenhower Avenue","50036",42.05922317504883,-93.89061737060547
+"50036","Boone","IA","Gutterridge Shelter","901-999 Southridge Dr","50036",42.04812169075012,-93.88783514499664
+"50036","Boone","IA","Long Memorial Park","388 Bature Road","not_available",42.0604785,-93.88145618
+"50036","Boone","IA","Heritage Park","821 Story Street","50036",42.06470489501953,-93.88037109375
+"50042","Brayton","IA","Plow in the Oak Park","not_available","50076",41.57355563231497,-94.89665157570504
+"50044","Bussey","IA","Four wheel park","not_available","50116",41.18672505762959,-92.9213237220469
+"50046","Cambridge","IA","Center Grove Orchard","32835 610th Ave","50046",41.88073076495742,-93.48455277159961
+"50046","Cambridge","IA","Centennial Park","not_available","50046",41.90507974245848,-93.6021907330356
+"50046","Cambridge","IA","Railroad Park","not_available","50124",41.89104380112951,-93.6066713363933
+"50046","Cambridge","IA","Nord-Kalsem Park","204 West 5th Street","not_available",41.895713806152344,-93.60859680175781
+"50046","Cambridge","IA","Askew Bridge/Cambridge Pond","57887 290th St.","50046",41.939048767089844,-93.54383087158203
+"50047","Carlisle","IA","Carlisle North Municipal Park","45 Park St","50047",41.505072999999996,-93.484833
+"50047","Carlisle","IA","Yellow Banks Park","6801 SE 32nd Ave","50327",41.54907849076155,-93.47217581986855
+"50047","Carlisle","IA","Evergreen Park","2000 Evergreen Ave","50320",41.55389880122019,-93.57675895123653
+"50047","Carlisle","IA","Big parkk (:","not_available","50118",41.452067521290736,-93.37255252006922
+"50047","Carlisle","IA","Volunteer Park","1490 S 5th St","50047",41.48534625267931,-93.493607766881
+"50049","Chariton","IA","northwest park","not_available","50068",40.90972137451172,-93.43305969238281
+"50049","Chariton","IA","northwest park","not_available","50049",41.02328431626232,-93.31037633079787
+"50051","Clemons","IA","French Grove County Wildlife Area","1298 County Highway E29","50247",42.078078489282596,-93.18285942077637
+"50054","Colfax","IA","Colfax Woman's Club Park","not_available","50054",41.67667751,-93.24465744
+"50054","Colfax","IA","shady park","not_available","50028",41.69131944869983,-93.18175851689148
+"50056","Colo","IA","Hickory Grove Park","67464 250th St","50056",41.991264535625646,-93.3585057131358
+"50060","Corydon","IA","Walden park","not_available","50060",40.75265460090774,-93.31104986623741
+"50061","Cumming","IA","Dale Maffitt Reservoir","not_available","50061",41.515918860221795,-93.78860487288183
+"50063","Dallas Center","IA","Waterford Disc Golf Course","not_available","50111",41.657173,-93.83438
+"50063","Dallas Center","IA","Waterford Park","156th Street","50323",41.65319452789484,-93.83440017700195
+"50063","Dallas Center","IA","Bent Creek Park","NW 156th Street","50323",41.65353121524304,-93.8343358039856
+"50063","Dallas Center","IA","Minburn Skate Rink","not_available","50167",41.75541687011719,-94.03022003173828
+"50063","Dallas Center","IA","Fox Creek Pickleball Courts","not_available","50263",41.623163,-93.861637
+"50063","Dallas Center","IA","Walnut Trace Park","148th Street","50323",41.64503332961244,-93.82487297058105
+"50063","Dallas Center","IA","Walnut Creek Hills Park","not_available","50323",41.640174600829226,-93.84242534637451
+"50065","Davis City","IA","the park","not_available","50140",40.622493743896484,-93.9322738647461
+"50065","Davis City","IA","North Park (George Foreman Park)","Lamoni,IA,50140","50140",40.628846617713585,-93.93370541995075
+"50066","Dawson","IA","Raccoon River Valley Trail","not_available","50066",41.842395,-94.221362
+"50070","Dexter","IA","Dexter Centennial Park","not_available","50070",41.3828554,-94.2538452
+"50070","Dexter","IA","Redfield Town Fair","not_available","50250",41.49290202368219,-94.29032702754772
+"50072","Earlham","IA","Goeldner Woods County Park","not_available","50072",41.45149070609676,-94.07352558356098
+"50075","Ellsworth","IA","Ellsworth City Park","1800 Dewitt St.","not_available",42.316140942493035,-93.57894845835334
+"50076","Exira","IA","Exira City Park","100 E Washington St","50076",41.591392517089844,-94.87617492675781
+"50106","Gilman","IA","Norma Weaver Memorial Park","not_available","50112",41.81731821998255,-92.77439561735807
+"50109","Granger","IA","Jester Park","11407 NW Jester Park Dr","50109",41.7890089304908,-93.78800868988037
+"50109","Granger","IA","Jester Park Nature Center","12130 NW 128th St","50109",41.783836364746094,-93.78885650634766
+"50111","Grimes","IA","Grimes Sports Complex","S James St","50111",41.68192192087138,-93.79712794010608
+"50111","Grimes","IA","Days Run Park","124th Street","50323",41.63715975985199,-93.78901720046997
+"50111","Grimes","IA","Sports Complex","10398 Aurora Ave","50322",41.63930130004883,-93.75940704345703
+"50111","Grimes","IA","Beaverbrooke Park","N. James Street","50111",41.69487593181652,-93.79455647442495
+"50111","Grimes","IA","North Pointe Park","NW 78th Ave","50111",41.701884680716375,-93.77075207321948
+"50111","Grimes","IA","Glenstone Park","Glenstone","50111",41.663509410382275,-93.77474862488508
+"50111","Grimes","IA","Clavert Meadows Park","144th Street","50323",41.644247619427404,-93.81871461868286
+"50111","Grimes","IA","Shawver Park","Shawver Dr","50111",41.682437896728516,-93.78203582763672
+"50111","Grimes","IA","Lions Park","N Park","50111",41.693048270705646,-93.78572611572834
+"50111","Grimes","IA","Waterworks Park","1'st & James St.","50111",41.68945045006041,-93.79579782485962
+"50111","Grimes","IA","Point Vista Park","not_available","50131",41.67825723836109,-93.77169698530395
+"50115","Guthrie Center","IA","Mitchell City Park","not_available","50115",41.673796570066116,-94.49938587947861
+"50118","Hartford","IA","Grant Nature Area","not_available","50252",41.4361393518288,-93.33719213949792
+"50125","Indianola","IA","McVay-Summerset Trail","503 N 5th St","50125",41.36455154418945,-93.55538940429688
+"50125","Indianola","IA","Memorial Park","not_available","50125",41.36618656666667,-93.572125
+"50125","Indianola","IA","Pickard Park","1188-1198 150th Ave","50125",41.35648235757361,-93.52749389913058
+"50125","Indianola","IA","Mats Park","801 N Jefferson Way","50125",41.3687105,-93.55938931
+"50125","Indianola","IA","Buxton Park","701 N C St","50125",41.3691826059129,-93.5652878568453
+"50125","Indianola","IA","Easton Park","1100 East Euclid Avenue","50125",41.36555862426758,-93.54715728759766
+"50125","Indianola","IA","Hickory Hills County Park","23900 Highway 69","50210",41.1787701445404,-93.61071708094609
+"50125","Indianola","IA","Moats Park","Iowa Ave","50125",41.36870707136143,-93.55930692704688
+"50125","Indianola","IA","Annett Nature Center","15565","50125",41.183335571856546,-93.4893435621656
+"50125","Indianola","IA","Berry Woods","115th Avenue","50125",41.41476264847464,-93.5864030077166
+"50125","Indianola","IA","Simpson Sand Volleyball Courts","907 N E St","5012",41.369178771972656,-93.56839752197266
+"50126","Iowa Falls","IA","Foster Park","not_available","50126",42.52400494536095,-93.2795216071746
+"50129","Jefferson","IA","Kelso Park","604 S Walnut St","50129",42.01047134399414,-94.38296508789062
+"50129","Jefferson","IA","Squirrel Hollow Park","277th St","50129",41.95131962274233,-94.28843072902995
+"50129","Jefferson","IA","Boy Scout Park","S Elm St","50129",41.98846673,-94.37401798
+"50130","Jewell","IA","Jewel City Park","300 Main Sy","not_available",42.30249410550895,-93.64003619630736
+"50131","Johnston","IA","Terra Park","6300 Pioneer Pkwy","50131",41.663046508410936,-93.70749132262571
+"50131","Johnston","IA","Sandpiper Shelter, Saylorville","not_available","50226",41.75380664033393,-93.70994440143839
+"50131","Johnston","IA","Ray Schleihs park","NW 55th Ave, Johnston, IA 50131","50131",41.660298920570625,-93.69191828434329
+"50133","Kellerton","IA","Kellerton City Park","not_available","50133",40.71592019449386,-94.04855142124487
+"50135","Kellogg","IA","Deppe Ponds","not_available","50135",41.760780334472656,-92.87744140625
+"50138","Knoxville","IA","Marion County Park","not_available","50138",41.318485260009766,-93.09706115722656
+"50138","Knoxville","IA","Knoxville Recreation Center","800 S Park Ln Dr, Knoxville, IA 50138","50138",41.312670173153904,-93.11511859311659
+"50139","Lacona","IA","Milo City Park","Walnut street","50166",41.28977934421524,-93.43989383471336
+"50139","Lacona","IA","Centennial Park","not_available","50166",41.28380584716797,-93.44440460205078
+"50144","Leon","IA","Masonic park","not_available","50144",40.74717697927914,-93.74213781418648
+"50153","Lynnville","IA","Sully City Park","not_available","50251",41.578692,-92.846717
+"50156","Madrid","IA","Edgewood Park","340th St","50156",41.86909614042633,-93.82277522517636
+"50156","Madrid","IA","Ann Dever Memorial Regional Park","San Casa","50276",41.906954,-93.899029
+"50158","Marshalltown","IA","Grimes Farm and Conservation Center","233rd St","50158",42.04027699166058,-92.94874467448733
+"50158","Marshalltown","IA","Anson Park","301 E Anson ST","50158",42.03713267127619,-92.90646124049559
+"50158","Marshalltown","IA","Riverview Park","402 Woodland St","50158",42.06435658091062,-92.90471101073143
+"50158","Marshalltown","IA","West End Park","not_available","50158",42.05200805814791,-92.93662989995133
+"50158","Marshalltown","IA","Three Bridges County Park","3 Bridges Rd.","50158",42.0287665896346,-92.80597686767578
+"50158","Marshalltown","IA","Tankersly Park","N. 14th St.","not_available",42.05136,-92.936013
+"50158","Marshalltown","IA","Izaak walton","Govenor road","not_available",41.97646695482989,-92.89407450835944
+"50158","Marshalltown","IA","Nicholson - Ford Nature Area","Marion Street","not_available",42.056721602292754,-92.88080902499661
+"50158","Marshalltown","IA","Mega-10 Park","802 S 6th Ave","50158",42.03919982910156,-92.90279388427734
+"50161","Maxwell","IA","Maxwell City Park","Baldwin Street","50161",41.88794978459986,-93.40129852294922
+"50161","Maxwell","IA","Robison Wildlife Acres","29490 632nd Ave","50201",41.92822403006862,-93.43878507614136
+"50170","Monroe","IA","Red Rock Park","Iowa 163 Business, Fairview, IA 50170","50170",41.52242595150117,-93.10586975000818
+"50170","Monroe","IA","Monroe Town Square","Hwy 14","50170",41.52189143597116,-93.10284920360552
+"50170","Monroe","IA","Red Rock Park","not_available","50214",41.4483748150902,-93.10082745224469
+"50170","Monroe","IA","Tools Point Park","100-106 Lincoln St","50170",41.525610956328535,-93.09930018043131
+"50171","Montezuma","IA","Montezuma City Park","not_available","50171",41.58411943809695,-92.53137289535486
+"50201","Nevada","IA","Harrington Park","Lincoln Hwy","50201",42.02340901651803,-93.43961287095237
+"50201","Nevada","IA","Larson Marsh Story County","not_available","50201",42.03470078088368,-93.51099914448211
+"50208","Newton","IA","Woodland park","not_available","50208",41.7165064574843,-93.05033073506459
+"50208","Newton","IA","Agnes Patterson","2800 N 4th Ave E","50208",41.70307159423828,-93.01720428466797
+"50208","Newton","IA","Aurora Park","1st Ave E","50208",41.69613883473643,-93.02469356889736
+"50208","Newton","IA","Maytag Park & Pool","W 3rd St S","50208",41.68925204186924,-93.05521614935198
+"50211","Norwalk","IA","Windflower Park","North Ave","50211",41.479471816228006,-93.66135722275133
+"50211","Norwalk","IA","Warrior Park","not_available","50211",41.472518,-93.695719
+"50211","Norwalk","IA","Billy Phillips City Park","2730 Lexington Dr","50211",41.494388,-93.682877
+"50211","Norwalk","IA","Scotch Ridge Center","not_available","50047",41.5074895376265,-93.62556745740561
+"50211","Norwalk","IA","Elizabeth Holland Park","1401 Colonial Parkway","50211",41.49523,-93.671074
+"50212","Ogden","IA","Lpp","not_available","50212",42.03188752756684,-94.02829648055837
+"50213","Osceola","IA","Rest Area Northbound","I-35","50213",41.01362948623857,-93.79475893573529
+"50213","Osceola","IA","Q Pond  Park","not_available","50213",41.039324517337484,-93.77188553659215
+"50217","Paton","IA","Churdan City Park","not_available","50050",42.15179619,-94.37408208847046
+"50219","Pella","IA","Caldwell Pond","not_available","50219",41.39925831938905,-92.90651486972172
+"50219","Pella","IA","West Market Park","1008 Liberty","50219",41.40657105664176,-92.92214269025962
+"50220","Perry","IA","School Park","Dewey Street","50220",41.8445320717513,-94.09619981594172
+"50220","Perry","IA","Pattee Park","not_available","50220",41.835404,-94.109857
+"50229","Prole","IA","Y Park","not_available","50229",41.35448243164496,-93.80414800659129
+"50236","Roland","IA","Erickson Park","202 N Park","50236",42.16899,-93.49396
+"50240","Saint Charles","IA","St. Charles Old Settlers Park","not_available","50240",41.28924281898686,-93.80844790202129
+"50244","Slater","IA","South Side Park","942 Trail Dr","50244",41.87314224243164,-93.68411254882812
+"50244","Slater","IA","Log Cabin","3rd Ave and Benton St","50244",41.8803605,-93.67951778333334
+"50244","Slater","IA","Nelson Park","4th","50244",41.8803819034612,-93.68040138355492
+"50244","Slater","IA","Sivers Park","not_available","50244",41.88108843270552,-93.67837071838483
+"50247","State Center","IA","baseball field","not_available","50247",42.01519715977934,-93.16913890768093
+"50248","Story City","IA","Story City Park","1100 Broad St","50248",42.18735160008994,-93.58971967083954
+"50248","Story City","IA","Doolittle prairie","not_available","50248",42.14622892507586,-93.56726464472806
+"50256","Tracy","IA","Cedar Bluff State Preserve","1169-1271 County Highway G62","52577",41.24885943,-92.82688704
+"50258","Union","IA","Long Memorial Park","29001 State Highway 215","50258",42.27847950112456,-93.07501228286414
+"50261","Van Meter","IA","Badger Creek State Recreation Area","Badger Creek Rd","50261",41.4779811967727,-93.91438604141997
+"50263","Waukee","IA","Brookview Park","400 81st St","50266",41.572209,-93.81665500000001
+"50263","Waukee","IA","Centennial Park","Park Rd","50263",41.601169741806586,-93.86858005772862
+"50263","Waukee","IA","Whisper Point Park","not_available","50266",41.567135,-93.83244
+"50263","Waukee","IA","Lions Park","not_available","50325",41.610046,-93.83751
+"50263","Waukee","IA","Waukee  Practice Field","905 Warrior Ln","50263",41.60508,-93.87048100000001
+"50263","Waukee","IA","Windfield Park","105 Windfield Pkwy","50263",41.612410241578225,-93.87335768704968
+"50265","West Des Moines","IA","Raccoon River Park","2500 Grand Ave","50265",41.55470905317038,-93.72933037933649
+"50265","West Des Moines","IA","Fairmeadows Park","543 22nd St","50265",41.57910428019726,-93.73163081856954
+"50265","West Des Moines","IA","Windsor Heights Community & Events Center","6900 School St.","50324",41.5949445,-93.712204
+"50265","West Des Moines","IA","Legion Park","Vine and 4th","50265",41.57804361589532,-93.70544965875666
+"50265","West Des Moines","IA","Holiday Park","150 14th St","50265",41.5724992031195,-93.72393608093262
+"50265","West Des Moines","IA","Scenic Valley Park","24th Ct","not_available",41.55218234,-93.743338
+"50265","West Des Moines","IA","Raccoon River Nature Lodge","not_available","50265",41.55409016033258,-93.73152218119563
+"50265","West Des Moines","IA","Jordan Park","2251 Fuller Rd","50265",41.56071437324652,-93.73429331058608
+"50265","West Des Moines","IA","Frisbie Park","6100 muskogee av","50265",41.57593813442193,-93.69979533333505
+"50265","West Des Moines","IA","Biddle Shelter","Grand Ave","50265",41.55481,-93.730629
+"50265","West Des Moines","IA","Railroad Park","5th St. and Railroad Ave.","50265",41.56971,-93.708326
+"50265","West Des Moines","IA","50th St Rain Gauge WDM","1100 50th St","50266",41.59022839373292,-93.7723164055008
+"50265","West Des Moines","IA","Rex Mathis Park","Grand & 13th","not_available",41.579546016485395,-93.72176885604858
+"50265","West Des Moines","IA","Iron Kids Triathlon","4200 Mills Civic Pkwy","50265",41.56301498413086,-93.76052856445312
+"50265","West Des Moines","IA","Carriage Park","4500-4898 Pleasant St","50266",41.59146564098064,-93.7672980436302
+"50266","West Des Moines","IA","Willow Springs Park","5685 Wistful Vista Drive","50266",41.569842580274035,-93.78632590055575
+"50266","West Des Moines","IA","Meadow View Park","672-684 Prairie View Dr","50266",41.57835423800797,-93.78126835968916
+"50266","West Des Moines","IA","Peony Park","1100 63rd St.","50266",41.586800822452616,-93.79520181076445
+"50273","Winterset","IA","Middle River County Park","2249 Clark Tower Rd","50273",41.31663496754138,-94.00418141415935
+"50273","Winterset","IA","George Washington Carver Memorial Park","E Court Ave","50273",41.33418492171292,-94.01252095739191
+"50273","Winterset","IA","Middle River Ford","Pammel State Park","50273",41.29538129221871,-94.07485485076904
+"50273","Winterset","IA","Whistlestop Park","W North St","50273",41.33755179517725,-94.01844868082725
+"50273","Winterset","IA","Lower City Park","not_available","50273",41.317341,-94.003949
+"50273","Winterset","IA","Winterset City Park","Winterset City Park","50273",41.331162510869056,-94.00382752419365
+"50273","Winterset","IA","Monumental Park","N 2nd St","50273",41.33452531768644,-94.0121470698842
+"50276","Woodward","IA","Woodward High Trestle Trail Trailhead","110 Railroad St","50276",41.85876748231255,-93.92134327918988
+"50278","Zearing","IA","zearing city park","not_available","50278",42.16106226600853,-93.29256786724658
+"50309","Des Moines","IA","Meredith Trail","Thomas Beck Road","not_available",41.57217814547513,-93.62325668334961
+"50309","Des Moines","IA","Western Gateway Park","not_available","50309",41.58517167882703,-93.63507986068726
+"50309","Des Moines","IA","Wellmark Courtyard & Recreation Grounds","1331 Grand Ave","50309",41.58646774291992,-93.63416290283203
+"50309","Des Moines","IA","People's Park","West of Iowa State Capitol","50309",41.58967346067715,-93.6075496673584
+"50309","Des Moines","IA","Columbus Park","SE 1st & Indianola Rd.","50315",41.57252044373812,-93.61433280796807
+"50309","Des Moines","IA","Des Moines Park and Recreation","600 E Court Ave","50309",41.5886637,-93.608218
+"50309","Des Moines","IA","Des Moines Building Pocket Park","405 6th Ave","50309",41.58712387084961,-93.62478637695312
+"50309","Des Moines","IA","Lynn Cutler Park","Younker Rehabilitation Center","50309",41.589615,-93.633446
+"50309","Des Moines","IA","Hansen Triangle Park","2-88 E Grand Ave","50309",41.589219082809855,-93.61880954714145
+"50309","Des Moines","IA","Whitmer Park","518 Lyon St.","50310",41.59303,-93.611511
+"50309","Des Moines","IA","Sam Cohen Park","1000 Scott Ave.","not_available",41.58300292768085,-93.60018163919449
+"50309","Des Moines","IA","Stewart Square","1401 E. Grand Avenue","50316",41.59212132500362,-93.5974271485617
+"50309","Des Moines","IA","Pete Crivaro Park","1012 SE 14th St","50309",41.57874563097769,-93.5985808246252
+"50310","Des Moines","IA","Woodlawn Park","not_available","50310",41.63843697550609,-93.65548156344865
+"50310","Des Moines","IA","Prospect Park","1225 Prospect Rd","50310",41.61789852547839,-93.63774487062685
+"50310","Des Moines","IA","Some Ghetto Park","hull ave","50310",41.634868032588706,-93.68772731484538
+"50310","Des Moines","IA","Witmer Park","1610 34th St","50311",41.60793226520854,-93.66932608625656
+"50311","Des Moines","IA","Park And Recreation Department","3226 University Ave","50311",41.599968,-93.661571
+"50311","Des Moines","IA","Waveland Tennis Courts","4822 Observatory Rd.","50311",41.59507617353429,-93.68304632348543
+"50312","Des Moines","IA","Water Works Park","410 Fleur Dr.","50315",41.5651144735862,-93.66994857788086
+"50312","Des Moines","IA","Greenwood Park","45th to 48th St","50312",41.57955564713927,-93.68144989013672
+"50312","Des Moines","IA","Arie den Boer Arboretum","not_available","50321",41.57395290328876,-93.64628219640063
+"50312","Des Moines","IA","Chamberlain Park","2150 Woodland Ave","50312",41.587822499713226,-93.64696438425999
+"50312","Des Moines","IA","Ashworth Park","230 45th Street","50312",41.580197071943125,-93.68045091299327
+"50312","Des Moines","IA","Bench on Walnut Creek","Des Moines Trails","50312",41.569440620585894,-93.6803784383693
+"50313","Des Moines","IA","Union Park","725 Thompson Ave","50316",41.61379018293842,-93.60929757112993
+"50313","Des Moines","IA","Kiwanis Nature","710 Corning Avenue","50313",41.621368408203125,-93.62625122070312
+"50313","Des Moines","IA","Birdland Park Soccer Fields","Holcomb","50313",41.61547,-93.62219
+"50313","Des Moines","IA","The Loop","Da Park","50316",41.61163042051287,-93.60738846784812
+"50313","Des Moines","IA","Belle M. Turner Park","720 Jerlynn","50313",41.63331634359142,-93.60844192778812
+"50313","Des Moines","IA","Heritage Carousel at Union Park","Guthrie Avenue","50313",41.6134531353978,-93.61049945314542
+"50313","Des Moines","IA","Union Park East Shelter","not_available","50316",41.613515,-93.608412
+"50314","Des Moines","IA","Bates park","330 Clark Street","50314",41.6059084325081,-93.62353899952575
+"50314","Des Moines","IA","Pocket Park 2","2830 E. 35th St.","50316",41.607863,-93.634073
+"50314","Des Moines","IA","Edna Griffin Park","1400 E. 13th St.","50314",41.608238,-93.63402307033539
+"50315","Des Moines","IA","Blank Park Zoo","7401 SW 9th St","50315",41.51930011260966,-93.62399092382728
+"50315","Des Moines","IA","Gray's Lake Park","2101 Fleur Dr","50321",41.56986648333023,-93.6393928527832
+"50315","Des Moines","IA","Yoga In The Park","Grey's Lake Park","not_available",41.569769747839196,-93.63226776983267
+"50315","Des Moines","IA","Sayers Park","SW 13th & Watrous","50315",41.54695288267699,-93.63338652591987
+"50315","Des Moines","IA","Blank Park","not_available","50315",41.520709305282736,-93.62412773863281
+"50315","Des Moines","IA","Jordan Park","SE 7th & Wall","50315",41.53153061532473,-93.60460407679682
+"50315","Des Moines","IA","The Great Outdoors","not_available","50320",41.55413274948854,-93.59905553748702
+"50315","Des Moines","IA","Frank Talarico Park","Hillside Ave.","50315",41.57082535579086,-93.60950035579162
+"50315","Des Moines","IA","Shelter #2","County Park","50315",41.518233548291,-93.61396182536973
+"50315","Des Moines","IA","Fort Des Moines Park","7200 SE 5th St","not_available",41.523762636336635,-93.61328200148213
+"50316","Des Moines","IA","Martin Luther King Park","1650 Garfield Ave","50316",41.60374069213867,-93.59246826171875
+"50316","Des Moines","IA","Des Moines Heritage Carousel","thompson ave","50316",41.60420242,-93.6069454
+"50316","Des Moines","IA","Redhead Park","1700 Dean Ave.","not_available",41.59290379451027,-93.58734726378485
+"50316","Des Moines","IA","Crowley Park","1750 E. Garfield","50316",41.60288327744469,-93.58884525620903
+"50317","Des Moines","IA","Grandview Park","33rd St","50317",41.6160416870131,-93.55445215696716
+"50317","Des Moines","IA","Fairmont Park in Des Moines","2520 Hull Ave","50317",41.62214369211118,-93.57296782424493
+"50317","Des Moines","IA","Doans park","not_available","50327",41.584602203653915,-93.51569868073446
+"50317","Des Moines","IA","Iowa State Fair Campgrounds","not_available","50317",41.59541859437006,-93.54373455047607
+"50317","Des Moines","IA","Sheridan Park","E 40th & Hull","50317",41.62300518513189,-93.54078845991751
+"50317","Des Moines","IA","East Town Park","2600 Easton","not_available",41.60890902,-93.56668
+"50317","Des Moines","IA","Pioneer Park","E Pioneer Rd","50320",41.56364581721158,-93.59001633147082
+"50317","Des Moines","IA","Easttown Park","2591 Hubbell","50317",41.61514603262044,-93.56678034916726
+"50317","Des Moines","IA","Sargent Park","3530 E Douglas Ave","50317",41.62987824493027,-93.54878072615823
+"50317","Des Moines","IA","Laurel Hill Park","3407 Dean Avenue","50317",41.589866638183594,-93.54823303222656
+"50317","Des Moines","IA","Valley High Manor","1022 Winegarden Road","50317",41.612499,-93.549446
+"50317","Des Moines","IA","Sheridan Park Walk","40, Home Depot Shopping Center, Des Moines, IA 50315","50315",41.625099182128906,-93.53694152832031
+"50320","Des Moines","IA","Ewing Park South Lot","1611-1725 E McKinley Ave","50320",41.540763543189804,-93.58303151591188
+"50321","Des Moines","IA","Harmon Park","2900 SW 26th Street","50321",41.55569769783399,-93.66043507116028
+"50322","Urbandale","IA","Walker Johnston Park","Douglas Ave","50322",41.62785011036021,-93.74173117927826
+"50322","Urbandale","IA","Charles Gabus Memorial Tree Park And Gardens","Des Moines Trails","50322",41.62537872151868,-93.73910953252432
+"50322","Urbandale","IA","Greenbelt Park","Des Moines Trails","50325",41.60974710433324,-93.76305341720581
+"50322","Urbandale","IA","South Karen Acres Park","77th & Roseland Avenue","50322",41.619926923322346,-93.72455135207115
+"50322","Urbandale","IA","Townsend Park","Townsend and Park Hill Ct.","50322",41.64057174913977,-93.72429853225991
+"50322","Urbandale","IA","Wort's Bench","not_available","50322",41.625928,-93.726712
+"50322","Urbandale","IA","Franklin Field","53rd Street and Franklin Avenue","50310",41.6231712680166,-93.73656918266784
+"50322","Urbandale","IA","Urbandale Carnival","7123-7199 Prairie Ave","50322",41.63516889475742,-93.7165410470861
+"50322","Urbandale","IA","Lions Park","Aurora Ave.","50322",41.63539001572777,-93.71655096004744
+"50322","Urbandale","IA","Oakwood Open Space Park","Oakwood Drive","50322",41.64663679005671,-93.70460271835327
+"50322","Urbandale","IA","Lakeview Park","8100 Valdez Cir","50322",41.636100082156865,-93.72400555259222
+"50325","Clive","IA","Karp Park","1500 NW 109th Street","50325",41.605159759521484,-93.76976013183594
+"50325","Clive","IA","Campbell Park","12385 Woodlands Pkwy.","50325",41.609680557191055,-93.78717043734756
+"50325","Clive","IA","Rio Valley Park","1743 Rio Valley Drive","50325",41.605940042993225,-93.76334069410376
+"50325","Clive","IA","Swanson Memorial Park","Swanson Blvd","not_available",41.60647,-93.737337
+"50327","Pleasant Hill","IA","Solum Soccer Field","475 Boulder Ridge Ct","50327",41.5941276550293,-93.4925765991211
+"50401","Mason City","IA","Martin Marietta","not_available","50428",43.19519203149269,-93.30065780060382
+"50401","Mason City","IA","East Park Mason City Ia","not_available","50401",43.15382408076767,-93.18371990028311
+"50401","Mason City","IA","Central Park","10 1st St NW","50401",43.152926,-93.201466
+"50421","Belmond","IA","Pikes Timber Park","not_available","50421",42.783103942871094,-93.6470718383789
+"50424","Buffalo Center","IA","Florence Park","not_available","50424",43.37759780883789,-93.85201263427734
+"50428","Clear Lake","IA","Clear Lake City Park","200-298 Main Ave","50428",43.13571845349116,-93.3832059539656
+"50435","Floyd","IA","Floyd Gospel Sing","not_available","50435",43.124561,-92.739842
+"50435","Floyd","IA","Westwood Park","not_available","50616",43.083072,-92.687984
+"50436","Forest City","IA","Merrick Park","not_available","50436",43.25414104459384,-93.63560705384823
+"50436","Forest City","IA","Ambroson Recreation Park","not_available","50453",43.32183473434569,-93.63659677255616
+"50438","Garner","IA","Central Park","600-698 State St","50438",43.099625997318434,-93.60237865318174
+"50448","Kensett","IA","White Woods County Park","U.S. 69, Twin Lakes, MN","56089",43.39014051600833,-93.34941236797017
+"50448","Kensett","IA","Manly Skate Park","not_available","50456",43.287208557128906,-93.20158386230469
+"50469","Rockwell","IA","Linn Grove Park","not_available","50469",42.97877434397416,-93.19348876746706
+"50475","Sheffield","IA","Galvin Memorial Park","801 S Lincoln St","50475",42.88595199584961,-93.22134399414062
+"50477","Swaledale","IA","Ingebretson Park","112 Walnut St","50479",42.941612243652344,-93.37867736816406
+"50501","Fort Dodge","IA","John F. Kennedy Park","1415 Nelson Ave","50501",42.584678649902344,-94.17830657958984
+"50501","Fort Dodge","IA","Oleson Park","Oleson Park Ave","not_available",42.49003269500725,-94.17275680323404
+"50501","Fort Dodge","IA","college getaway","not_available","50501",42.58504104614258,-94.1901626586914
+"50501","Fort Dodge","IA","Knudson Park","4th Stree NE","50516",42.614928766666665,-94.14312301666666
+"50501","Fort Dodge","IA","Izaak Walton Park","552-598 N 2nd St","50501",42.513081825511414,-94.1901714945861
+"50501","Fort Dodge","IA","Gypsum City ATV Park","2390 Mill Road","50501",42.47966003417969,-94.1452865600586
+"50501","Fort Dodge","IA","Hawley Lions Park","1026-1032 N 3rd St","50501",42.511969029871565,-94.19806480407715
+"50501","Fort Dodge","IA","Loomis Park","1100-1466 Loomis Park Dr","50501",42.52147592425045,-94.19477870061004
+"50501","Fort Dodge","IA","Woodman Hollow State Preserve","not_available","50569",42.421489,-94.10284
+"50511","Algona","IA","South Park","106 W Overmeyer Dr","50511",43.06277847290039,-94.238037109375
+"50511","Algona","IA","Herman Wise Masonic Memorial Park","Maple St","50511",43.081062,-94.21446
+"50511","Algona","IA","Maple Park","W McGregor St","50511",43.067238,-94.24325
+"50511","Algona","IA","Call City Park","300 E North St","50511",43.070976,-94.23772
+"50511","Algona","IA","Boldridge Rose Garden Park","E North St","50511",43.071045,-94.234566
+"50511","Algona","IA","Central Park","State Street","50511",43.068054,-94.22728
+"50511","Algona","IA","Triangle Park","21400 Railroad Ave","55374",43.0201530456543,-94.05484771728516
+"50517","Bancroft","IA","Bancroft Food Center","112 Ramsey Street","50517",43.29269790649414,-94.21724700927734
+"50520","Bradgate","IA","JB Wilcox Sheltet","not_available","50520",42.803035,-94.420577
+"50525","Clarion","IA","Clarion Gazebo Park","not_available","50525",42.73225813998763,-93.73472963545117
+"50529","Dakota City","IA","Dakota City River Park","E Fork Des Moines River","50529",42.723413343333895,-94.19345302450597
+"50530","Dayton","IA","Oak Park","24 West Skillet Avenue","50530",42.26175308227539,-94.06880187988281
+"50532","Duncombe","IA","Brushy Creek State Recreation Area","not_available","50532",42.39332495961546,-93.99039644597006
+"50536","Emmetsburg","IA","Duhigg Park","not_available","50536",43.15494630411291,-94.65544608512316
+"50548","Humboldt","IA","Lake Nokomis Park","Hwy 169","50548",42.72819473022772,-94.22844886779785
+"50548","Humboldt","IA","George Beebe Park","not_available","50548",42.72163009643555,-94.2238540649414
+"50548","Humboldt","IA","Bicknell Park","N 9th St","50548",42.72138500238416,-94.22158241271973
+"50548","Humboldt","IA","John Brown Park","5th St","50548",42.718263627309774,-94.21510219573975
+"50554","Laurens","IA","Sportsman Park","S East St","50554",42.84440804079243,-94.84121013529494
+"50558","Livermore","IA","Humbolt County Freedom Rock","not_available","50558",42.869059,-94.185108
+"50565","Marathon","IA","Marathon Park","not_available","50565",42.864881,-95.003731
+"50581","Rolfe","IA","Sunset Ridge Pond","not_available","50581",42.814112,-94.540701
+"50585","Sioux Rapids","IA","Sioux Rapids City Park","not_available","50585",42.894812,-95.145681
+"50588","Storm Lake","IA","Chautauqua Park","not_available","50588",42.635786027038094,-95.19623432209272
+"50588","Storm Lake","IA","Heritage Tree Museum","400 West Lakeshore Drive","50588",42.640023,-95.204861
+"50588","Storm Lake","IA","Parque de Villa Alta","Villas Alta","51002",42.66828155517578,-95.2698974609375
+"50595","Webster City","IA","nokomis","Des Moines St","50595",42.47730255126953,-93.82330322265625
+"50595","Webster City","IA","Kendall Young Park","not_available","50595",42.482002423254016,-93.80338339800932
+"50607","Aurora","IA","Aurora city park","not_available","50607",42.683996815915386,-91.80508606858945
+"50611","Bristow","IA","Dumont City Park","Main St","50625",42.75183355720723,-92.97224623990331
+"50613","Cedar Falls","IA","El Dorado Park","not_available","50613",42.49679122693065,-92.45202951065271
+"50613","Cedar Falls","IA","Greenhill Park","Algonquin","50613",42.495348,-92.459714
+"50613","Cedar Falls","IA","Byrnes Park","Fletcher Ave","50701",42.48354092898934,-92.36829711739455
+"50613","Cedar Falls","IA","Pfeiffer Springs Park","Grand Blvd.","50613",42.524539730124545,-92.43574931965593
+"50613","Cedar Falls","IA","Bontrager Park","not_available","50702",42.46453603628683,-92.345010691534
+"50613","Cedar Falls","IA","Seerley Park","Seerley Blvd.","50613",42.516373417365216,-92.45166516480565
+"50613","Cedar Falls","IA","Thunder woman park","not_available","50647",42.62613,-92.50916
+"50613","Cedar Falls","IA","Dike City Park","not_available","50624",42.46889928455147,-92.62971745345725
+"50613","Cedar Falls","IA","Hartman Reserve","657 Reserve Dr","50613",42.518365576692815,-92.40802885007406
+"50613","Cedar Falls","IA","Paw Park","3200 S. Main St.","50613",42.50811252385647,-92.44468301936081
+"50613","Cedar Falls","IA","Rotary Reserve","5932 North Union Road","50613",42.599891662597656,-92.50914001464844
+"50613","Cedar Falls","IA","Island Park","Center St.","50613",42.543299458745906,-92.45242542921177
+"50613","Cedar Falls","IA","Liberty Park","W 9th St.","50702",42.47768379323285,-92.34189287118473
+"50613","Cedar Falls","IA","Run Like A Mother Fun Run","762-1298 Center St","50613",42.5434954,-92.45288215
+"50613","Cedar Falls","IA","Cedar Bend Park","not_available","50703",42.518631008598504,-92.36614769671121
+"50613","Cedar Falls","IA","Sturgis Falls - Gateway Park","Lincoln St.","50613",42.53840551288576,-92.43983495786469
+"50613","Cedar Falls","IA","Sullivan park","not_available","50701",42.461631774902344,-92.3598861694336
+"50613","Cedar Falls","IA","Cedar Valley Nature Trail","Sergeant Rd.","50643",42.446698,-92.4418873
+"50613","Cedar Falls","IA","Hope Martin Park","Fletcher Ave","not_available",42.4929413139227,-92.36729468440294
+"50613","Cedar Falls","IA","Policeman's Park","Cedar Falls, IA","50613",42.54123610219852,-92.43464142804628
+"50613","Cedar Falls","IA","Cedar Valley Soccer Complex","off W. Ridgeway Ave.","50701",42.46745831692703,-92.42183387573067
+"50616","Charles City","IA","Central Park","305 N Main St","50616",43.068721731686,-92.67854078514267
+"50619","Clarksville","IA","Volunteer Park","Superior street","50619",42.78528834,-92.66657764
+"50621","Conrad","IA","Conrad Aquatic Center","not_available","50621",42.231502341437185,-92.87589267212563
+"50622","Denver","IA","Denver Soccer Fields","not_available","50622",42.668258243918764,-92.32165430186082
+"50626","Dunkerton","IA","Charma Park","not_available","50626",42.6137120199573,-92.13974231020228
+"50628","Elma","IA","Elma City Park","Elma,IA,50628","50628",43.24407493266666,-92.43697747845795
+"50629","Fairbank","IA","River Birch Bottoms","not_available","50629",42.565731,-92.05199
+"50634","Gilbertville","IA","Veteran's Park","Gilbertville,IA,50634","50634",42.41401369030715,-92.21203022801477
+"50636","Greene","IA","Perrin Park","N 2nd St","50636",42.89701665992951,-92.80224740753239
+"50638","Grundy Center","IA","C. E. Shearn Memorial Park","not_available","50669",42.34364261532406,-92.67408696035906
+"50641","Hazleton","IA","Hazleton Veteran's Park","not_available","50641",42.619300842285156,-91.90557861328125
+"50643","Hudson","IA","Lichty Park","Grace Drive","50701",42.42822825908661,-92.36207664012909
+"50644","Independence","IA","Third Ward Park","not_available","50644",42.4515341,-91.9078655
+"50644","Independence","IA","Veterans Memorial Park","Park St.","52326",42.39379776055666,-91.76709294319153
+"50644","Independence","IA","Buchanan County Fairgrounds","200-298 12th St NE","50644",42.47988190812044,-91.89328512125209
+"50645","Ionia","IA","Cedar River Wildlife Area","not_available","50666",42.897216796875,-92.54357147216797
+"50648","Jesup","IA","Liberty Park","not_available","50648",42.44937139710926,-92.0738569586474
+"50651","La Porte City","IA","McFarlane Park","13619 King Rd","50651",42.31813430786133,-92.13894653320312
+"50655","Maynard","IA","Maynard Park","not_available","50655",42.779037,-91.878879
+"50659","New Hampton","IA","New Hampton City Park","not_available","50659",43.05850379868029,-92.29924824661462
+"50666","Plainfield","IA","Sportsmams Park","101-205 Division St","50666",42.84418063,-92.52790464
+"50666","Plainfield","IA","Gallagher Park","414 1st St","50666",42.847984313964844,-92.53572845458984
+"50669","Reinbeck","IA","Elmwood Park","College St","50669",42.32302936761978,-92.60700593741343
+"50669","Reinbeck","IA","Reinbeck Pool","1013 3rd St","50669",42.323093137175825,-92.60742256271386
+"50674","Sumner","IA","Sumner City Park","Columbia ave","50674",42.84444287514509,-92.08960791488363
+"50674","Sumner","IA","Frederika Veterans Memorial","200-298 3rd St","50631",42.881457,-92.306608
+"50675","Traer","IA","Taylor Park","not_available","50675",42.18776581785312,-92.46555060981039
+"50677","Waverly","IA","Waverly Softball Diamonds","900 4th St SW","50677",42.71910902147605,-92.47592591749356
+"50677","Waverly","IA","Kohlman Park","1 4th Ave NW","50677",42.72891186,-92.471617
+"50677","Waverly","IA","Cigar Time","419 5th St NW","50677",42.7292130132003,-92.47723906294364
+"50677","Waverly","IA","Elmwood Park","V Ave","50677",42.72766205944407,-92.47159775822419
+"50682","Winthrop","IA","Winthrop City Park","200-398 1st St S","50682",42.471959181118855,-91.73260285438964
+"50701","Waterloo","IA","Highland Square Park","125 Highland Blvd","50703",42.49918746948242,-92.3128433227539
+"50701","Waterloo","IA","Deerwood Park","Deerwood Rd","50707",42.460994098567575,-92.30271312330972
+"50701","Waterloo","IA","Mayors Park","McCoy Rd.","50707",42.46738225257142,-92.26102703053908
+"50701","Waterloo","IA","Gardner Park","701-799 Ayers Ave","50707",42.46889002,-92.29058015
+"50701","Waterloo","IA","Lou Henry Hoover Park","W Park Ave","50701",42.498611951520516,-92.33666843760331
+"50701","Waterloo","IA","Lincoln Park","401 E 4th St","50703",42.49240553826593,-92.30806976484132
+"50702","Waterloo","IA","C.T. Park","Bell St.","50702",42.45186212749573,-92.2894538221695
+"50702","Waterloo","IA","Miller Park","Mitchell Ave.","50702",42.47743048651013,-92.35371351242065
+"50703","Waterloo","IA","Hoing-Rice Park","1132 Josephine St","50703",42.521256240247425,-92.3609313034389
+"50703","Waterloo","IA","Eagle Island Park","740 Magnolia Pkwy","50701",42.501564025878906,-92.37297821044922
+"50801","Creston","IA","Mckinley park","not_available","50801",41.057796478271484,-94.3687515258789
+"50801","Creston","IA","Taylor Park","W Adams St","50801",41.053416737056565,-94.38318740790903
+"50833","Bedford","IA","Bibbins Park","not_available","50833",40.673951194931675,-94.71604989270156
+"50841","Corning","IA","Lake Icaria Park","not_available","50841",41.04483262977048,-94.74461812788893
+"50845","Diagonal","IA","Diagonal Park","not_available","50845",40.81088646090716,-94.33921147331483
+"50846","Fontanelle","IA","Fontanelle City Park","Highway 92","50846",41.289845,-94.56184
+"51001","Akron","IA","Akron City Park","Hwys. 12 and 403","51001",42.832011507043184,-96.55613422393799
+"51003","Alton","IA","seymour smith park","not_available","51003",42.96235275268555,-96.03301239013672
+"51003","Alton","IA","Veterans Memorial Park","Veterans Memorial Park","51041",43.00769614807948,-96.05864084846847
+"51003","Alton","IA","Veterans Memorial Park","not_available","51041",43.00238751430218,-96.0701196491713
+"51003","Alton","IA","jaycee park","jaycee park","51041",43.006600678793596,-96.0582530888129
+"51003","Alton","IA","Windmill Square","Windmill Square","51041",43.007565763194435,-96.05880975723267
+"51003","Alton","IA","windmill information booth","Windmill square","51041",43.007553466666664,-96.058652
+"51006","Battle Creek","IA","Battle Creek School Playground","449-499 Maple St","51006",42.32084673145568,-95.59657113603252
+"51012","Cherokee","IA","Spring Lake Park","not_available","51012",42.748151158795444,-95.55182520718719
+"51016","Correctionville","IA","Park","not_available","51016",42.479017,-95.780434
+"51016","Correctionville","IA","Copeland Park, Disc Golf","4173 South Hwy 31","51016",42.47171705252025,-95.79479455947876
+"51024","Hinton","IA","Hillview Recreation Area","25601 C60","51024",42.628868103027344,-96.324951171875
+"51025","Holstein","IA","Holstein city park","not_available","51025",42.48667245632621,-95.54060946027839
+"51026","Hornick","IA","Fowler Forest Reserve","not_available","51056",42.23254207218068,-95.94500378504759
+"51028","Kingsley","IA","Midway Park","not_available","51028",42.53948469709822,-96.02655819418642
+"51028","Kingsley","IA","Moville Main Street Park","not_available","51039",42.489102346387995,-96.07004725358114
+"51031","Le Mars","IA","Walnut Park","11th St. SW","51031",42.78006282560075,-96.16778254508972
+"51031","Le Mars","IA","Westmar Memorial Park","10th St. SE","51031",42.781027457016876,-96.16360902786255
+"51031","Le Mars","IA","Bolser Park","2nd St. SE","51031",42.790621603378106,-96.15744962111785
+"51031","Le Mars","IA","Cleveland Park","2nd St SE","51031",42.79058777055429,-96.15510899103106
+"51031","Le Mars","IA","O'Toole Park","Central Ave NE","51031",42.79861560344625,-96.16653335127646
+"51031","Le Mars","IA","Le Mars Municipal Park","440 Park Ln","51031",42.80022509808354,-96.14956847366503
+"51031","Le Mars","IA","Foster Park","Central Ave","51031",42.785329256618844,-96.16647120033863
+"51031","Le Mars","IA","Paulin Park","12th St. SE","51031",42.77898399552085,-96.15573406219482
+"51031","Le Mars","IA","Veteran Memorial Park","3rd Ave. SE","51031",42.78092115143441,-96.16262197494507
+"51031","Le Mars","IA","Schafer Park","15th St SE","51031",42.77407783770096,-96.16060495376587
+"51031","Le Mars","IA","West Floyd Park","1024 3rd St SW","51031",42.79030042739871,-96.18248788171545
+"51031","Le Mars","IA","The Pit","not_available","51031",42.80114190250756,-96.15568378353828
+"51040","Onawa","IA","Liberty Park","13th","51040",42.030038884937504,-96.10076619047261
+"51040","Onawa","IA","Trolley Park","not_available","68020",42.006967,-96.249536
+"51040","Onawa","IA","Whiting City Park","not_available","51063",42.12514516689746,-96.1531153829391
+"51047","Peterson","IA","BV county park","377 440th Street","51047",42.88636016845703,-95.32416534423828
+"51050","Remsen","IA","Beck Park","1st St.","51050",42.8123835976768,-95.9710492090101
+"51052","Salix","IA","Snyder's Bend","2924 Snyder Bend Rd","51052",42.284042,-96.33703
+"51054","Sergeant Bluff","IA","Sgt Bluff Park","605-699 Coniston Cir","51054",42.396270177947414,-96.3490026802857
+"51055","Sloan","IA","Sloan City Park","403 Evans St","51055",42.232669830322266,-96.22831726074219
+"51101","Sioux City","IA","Puffers Patio Paradise","not_available","51106",42.49053747757197,-96.40202453040898
+"51101","Sioux City","IA","Chris Larsen Park","Larsen Park Dr","51103",42.48916060712214,-96.40965176320609
+"51101","Sioux City","IA","Scenic Park Playground","not_available","51103",42.48427741515855,-96.40748880016696
+"51101","Sioux City","IA","Midcity Park","1000-1048 9th St","51105",42.49946881666666,-96.39764101666667
+"51103","Sioux City","IA","Riverside Park","Riverside Blvd.","51109",42.49883953475779,-96.47239962106296
+"51103","Sioux City","IA","Leif Erikson Park","1100 31st St.","51104",42.522248,-96.3972267
+"51103","Sioux City","IA","crescent park","not_available","51104",42.5199025,-96.417755
+"51103","Sioux City","IA","Dale Street Park","not_available","51105",42.50713445152354,-96.39606168792137
+"51103","Sioux City","IA","Covington Park","not_available","68776",42.4860202759336,-96.41874118076032
+"51103","Sioux City","IA","Grandview Park","Grandview Blvd.","51104",42.51667530967101,-96.40918380816275
+"51103","Sioux City","IA","sioux city skate park","Skate Park","51103",42.49967654049778,-96.41394151340437
+"51103","Sioux City","IA","Headington Park","2922-3014 Isabella St","51103",42.52132517198437,-96.42440453112143
+"51103","Sioux City","IA","Pavilion Park!","401-613 Larsen Park Rd","51103",42.48968833373948,-96.41517909572943
+"51105","Sioux City","IA","Bacconcreek","7393-7395 Correctionville Rd","51106",42.4984096,-96.33533863333334
+"51105","Sioux City","IA","Bacon Creek Dog Park","5015 Correctionville Rd","51106",42.49498517100138,-96.33706687350336
+"51105","Sioux City","IA","Bacon Creek Park","5015 Correctionville Rd.","51106",42.491402659144136,-96.33861455622743
+"51106","Sioux City","IA","Chautauqua Park","Harbor Dr.","51111",42.441741629763605,-96.37787513780376
+"51106","Sioux City","IA","Sertoma Park","Singing Hills Blvd","51106",42.4411175649123,-96.35219218059336
+"51106","Sioux City","IA","Cecilia Park","901-999 Morningside Ave","51106",42.48214675018411,-96.36659890329794
+"51106","Sioux City","IA","Latham Park","South Lemon St.","51106",42.47120218333333,-96.343736
+"51109","Sioux City","IA","Veteran's Memorial Park","Main St","57049",42.52694219524669,-96.48382723331451
+"51109","Sioux City","IA","Centennial Park","not_available","57049",42.52732,-96.483372
+"51109","Sioux City","IA","Goldie and Beck Park","1620 Goldie","not_available",42.517836945489975,-96.48740530014038
+"51201","Sheldon","IA","Boyden Century Park","not_available","51234",43.190512,-95.997099
+"51201","Sheldon","IA","Hills Park","not_available","51201",43.192757,-95.852612
+"51237","George","IA","Siebring Park","E Calumet, George, IA 51237","51237",43.34341516538555,-95.99700252843826
+"51237","George","IA","Locker Park","not_available","51237",43.343437131529505,-95.99701802318798
+"51245","Primghar","IA","Obrien County Fair","not_available","51245",43.0760498046875,-95.62641143798828
+"51246","Rock Rapids","IA","Island Park","Park St","51246",43.43543045459384,-96.16803017196524
+"51246","Rock Rapids","IA","Kiwanis Park","501 1st Ave","51246",43.43210220336914,-96.17121887207031
+"51246","Rock Rapids","IA","Campbell Park","800 S. Tama St.","51246",43.423946,-96.165853
+"51247","Rock Valley","IA","Park West","1001 13th St","51247",43.203338384628296,-96.30470395088196
+"51247","Rock Valley","IA","Bicentennial Park","1201 18th Ave","51247",43.202191,-96.291573
+"51247","Rock Valley","IA","City Park","1030 13th Ave","51247",43.20032658554496,-96.30161571065489
+"51250","Sioux Center","IA","Open Space Park","7th St NE","51250",43.08606576011665,-96.16341590881348
+"51250","Sioux Center","IA","Regency Park","not_available","51250",43.056921,-96.173919
+"51301","Spencer","IA","Fairview Tennis Courts","E 16th Street","51301",43.153633784733934,-95.13649463653564
+"51301","Spencer","IA","Pederson Park","1106 E 9th St","51301",43.146915435791016,-95.12943267822266
+"51301","Spencer","IA","Nate & Kathie Skelton Memorial Bench","not_available","51301",43.154531,-95.155084
+"51301","Spencer","IA","Stoley's Park","West 18th Street","51301",43.15184652396983,-95.16241833785715
+"51331","Arnolds Park","IA","Abbie Gardner Cabin Historical Site","74 Monument Dr","51331",43.36571850959767,-95.14074325561523
+"51334","Estherville","IA","Riverside Park","not_available","51334",43.39948905689465,-94.84678469708182
+"51347","Lake Park","IA","Lake Park City Park","not_available","51347",43.44738335292801,-95.32764400853134
+"51351","Milford","IA","Calkins Park","not_available","51351",43.321485,-95.148035
+"51355","Okoboji","IA","Kenue Park","not_available","51355",43.39945194807351,-95.14075592482425
+"51355","Okoboji","IA","Peace and Calm as X","Here","666666",43.39959942724556,-95.13809896704387
+"51360","Spirit Lake","IA","Kiwanis Park","2200-2298 Keokuk Ave","51360",43.418546,-95.106995
+"51360","Spirit Lake","IA","Memorial Park","301-399 Lake St","51360",43.42407323275901,-95.09557916345251
+"51360","Spirit Lake","IA","The Spillway","25004 State Highway 327","51360",43.44619157700415,-95.09585380888196
+"51360","Spirit Lake","IA","Brown Park","County Road 75","not_available",43.52740202130527,-95.10785304866171
+"51360","Spirit Lake","IA","Gilbert Park","603 Hill Ave.","not_available",43.434511512964534,-95.1024914795288
+"51401","Carroll","IA","Southside park","not_available","51401",42.06003152849081,-94.87071966254142
+"51401","Carroll","IA","Northwest Park","W 18th St","51401",42.077489203190446,-94.8764705657959
+"51401","Carroll","IA","Veterans Memorial Park","2201 Ashwood Drive","51401",42.08363662129299,-94.85715866088867
+"51433","Auburn","IA","Grant Park","not_available","51433",42.26761156672824,-94.883283829164
+"51442","Denison","IA","Schram Park","not_available","51454",41.886528064391555,-95.22942781448363
+"51442","Denison","IA","Construction On 59 Blows!","not_available","51442",41.914362530317874,-95.34421783556255
+"51443","Glidden","IA","Hobbs Pitts","not_available","51443",42.16816461022513,-94.71431222773353
+"51449","Lake City","IA","Sherman Park","not_available","38869",42.27069789,-94.745217
+"51449","Lake City","IA","Rainbow Bend Park & Bridge","not_available","51449",42.22964544853006,-94.75504159927368
+"51450","Lake View","IA","Stone Pier at Black Hawk Lake","not_available","51450",42.306674,-95.04579
+"51455","Manning","IA","Heritage Park","12196 311th St","51455",41.905566904667346,-95.04478454589844
+"51465","Vail","IA","Vail Park","not_available","51465",42.06196,-95.199798
+"51501","Council Bluffs","IA","Lauritzen Gardens - Omaha's Botanical Center","100 Bancroft St","68108",41.234471876299374,-95.91631265582897
+"51501","Council Bluffs","IA","Bayliss Park","100 Pearl St","51501",41.259028773783356,-95.85191333613724
+"51501","Council Bluffs","IA","Tom Hanafan River's Edge Park","not_available","51501",41.26282909769537,-95.91869102357487
+"51501","Council Bluffs","IA","Fairmont Park","not_available","51503",41.25477209465845,-95.83915820783099
+"51501","Council Bluffs","IA","Kenefick Park","not_available","68108",41.232452,-95.91808
+"51501","Council Bluffs","IA","Big Lake Park","Big Lake Rd","51501",41.28831989758508,-95.86290467369955
+"51501","Council Bluffs","IA","Cochran Park","21st Street And 2nd Ave","51501",41.26004570792549,-95.8757536377061
+"51501","Council Bluffs","IA","Victory '95 50th Anniversary WW II Memorial","602 Douglas St","68102",41.2589225769043,-95.92415618896484
+"51501","Council Bluffs","IA","Graham Park","2-98 Park Ln","51503",41.26189266096542,-95.83039510591146
+"51501","Council Bluffs","IA","Broadway skatepark","BroadwayPark 1300 West Broadway","51501",41.2623611198334,-95.86449196221045
+"51501","Council Bluffs","IA","Heartland of America Park","608 Conagra Dr","68102",41.25826710586881,-95.92558798641899
+"51501","Council Bluffs","IA","Judge Bus @ Bayliss Park","Pearl Street","51502",41.25928345,-95.85196065
+"51501","Council Bluffs","IA","mabrey park","Willow St","51510",41.28886795043945,-95.90921020507812
+"51501","Council Bluffs","IA","Roberts Park","1000 North 25th Street","51501",41.27120429521031,-95.88195490199976
+"51501","Council Bluffs","IA","Progressive Park/Myers Landing","6865 Gifford Rd","51501",41.186968,-95.895402
+"51501","Council Bluffs","IA","CB skate park","1400 Avenue A","51501",41.263005,-95.86484
+"51501","Council Bluffs","IA","Kiwanis Park","not_available","68110",41.28555,-95.90764
+"51503","Council Bluffs","IA","Haworth Park","2502 Payne Dr","68005",41.13477496987227,-95.88111877441406
+"51503","Council Bluffs","IA","Lab's Higher Ground Stat Park","320 College Rd","51503",41.273837,-95.818859
+"51503","Council Bluffs","IA","Kramer Park","not_available","68005",41.13720927079913,-95.88325915612198
+"51510","Carter Lake","IA","wavecrest park","not_available","51510",41.29926300048828,-95.92340087890625
+"51521","Avoca","IA","Greece Ridge Park Rotary Club","241 Elmwood Road","not_available",41.52629852294922,-95.47984313964844
+"51521","Avoca","IA","Eddington Memorial Park","not_available","51521",41.47766767090638,-95.32640307885121
+"51525","Carson","IA","Carson Park","not_available","51525",41.238859235369084,-95.42476439825923
+"51526","Crescent","IA","Miller Park","6315 N 30th ST","not_available",41.316287394456474,-95.9537914440147
+"51526","Crescent","IA","Power Landing","not_available","68112",41.33005821696239,-95.95140312850349
+"51526","Crescent","IA","Levi Carter Lake Park","4405 Carter Lakeshore Dr","68110",41.302072,-95.927159
+"51526","Crescent","IA","Steve Hogan Golf Course","6315 N 30th St","68111",41.315692,-95.95404
+"51526","Crescent","IA","N.P. Dodge Park","11005 J.J. Pershing Drive","68112",41.361047321898866,-95.949023938724
+"51526","Crescent","IA","Neale Woods Nature Center","41.39065 -95.95330","not_available",41.390895747126336,-95.95394611358643
+"51526","Crescent","IA","Hummel Park Nature Center","not_available","51526",41.36470032351301,-95.89994372835541
+"51529","Dunlap","IA","Dunlap City Park","800-898 Montague Street","51529",41.856169186915025,-95.59886455535889
+"51532","Elliott","IA","Elliott, IA","not_available","51532",41.14952198539033,-95.16637497580112
+"51534","Glenwood","IA","Hiley Park","not_available","51534",41.056082,-95.750142
+"51534","Glenwood","IA","Pony Creek Park","not_available","51561",41.07185745239258,-95.78679656982422
+"51535","Griswold","IA","Griswold City Park","not_available","51535",41.23788,-95.1413
+"51537","Harlan","IA","North Park","6th St.","51537",41.66310580959485,-95.31787560310369
+"51537","Harlan","IA","Potters Park","Grand Ave","51537",41.65059768146498,-95.32605072098146
+"51537","Harlan","IA","Jaycee Park","2212 9th St","51537",41.64678955078125,-95.32083892822266
+"51542","Honey Creek","IA","Fort Atkinson State Historic Site","not_available","51542",41.48527997890569,-95.9003407908401
+"51542","Honey Creek","IA","I 680 WB Rest Area","not_available","51555",41.49299468657546,-95.84030131650353
+"51546","Logan","IA","Woodbine City Park","not_available","51579",41.73911377669104,-95.71112160583678
+"51546","Logan","IA","Missouri Valley City Park","644-898 W Huron St","51555",41.556555568013295,-95.90610622651762
+"51546","Logan","IA","Milliman Park","Logan,IA,51546","51546",41.648173017653015,-95.79171058422142
+"51551","Malvern","IA","Boehner Park","not_available","51551",41.005361,-95.591984
+"51555","Missouri Valley","IA","DeSoto National Wildlife Refuge","1434 316th Ln","51555",41.5408910163613,-96.03125039770478
+"51555","Missouri Valley","IA","Blair Optimist River Park","not_available","68008",41.552142178169035,-96.09716022296944
+"51557","Mondamin","IA","Loess Hills State Forest","not_available","51564",41.742859,-95.958955
+"51559","Neola","IA","Neola Ball Field","28728-29498 Shortstop Ave","51559",41.44696841322164,-95.62219806971389
+"51560","Oakland","IA","Chautauqua Park","not_available","51560",41.30659058309842,-95.40021589462279
+"51566","Red Oak","IA","Chataqua Park","not_available","51566",41.015993520945585,-95.21605241899681
+"51601","Shenandoah","IA","Sportsman Park","not_available","51601",40.771771036636856,-95.37056700682581
+"51640","Hamburg","IA","Hamburg City Park","not_available","51640",40.606299670652774,-95.65505111856397
+"51648","Percival","IA","Steinhart Park","S Steinhart Park Road","not_available",40.67589152741653,-95.87527941936364
+"51648","Percival","IA","Whispering Bench","not_available","68410",40.680071,-95.875429
+"51652","Sidney","IA","Fremont County War Memorial","506 Filmore St","51652",40.74814987182617,-95.64669799804688
+"51654","Thurman","IA","Green Hollow","not_available","51654",40.875142,-95.754641
+"52001","Dubuque","IA","Bee Branch","not_available","52001",42.51512,-90.66798
+"52001","Dubuque","IA","Eagle Point Park","2601 Shiras Avenue","52001",42.53916873854672,-90.64956665039062
+"52001","Dubuque","IA","A.Y. McDonald Park","Volunteer Dr","52001",42.52713118968348,-90.64329769039126
+"52001","Dubuque","IA","Flora Park","2605 Pennsylvania Ave","52001",42.50230691680641,-90.70790665086082
+"52001","Dubuque","IA","Miller Riverview Park","1851 Admiral Sheehy Dr.","52001",42.52123789584544,-90.64073797325844
+"52001","Dubuque","IA","Flat Iron Park","43 S. Main Street","52001",42.4936736414301,-90.66292975788545
+"52001","Dubuque","IA","Cleveland Park","625 Cleveland Ave.","52003",42.49037551879883,-90.66729736328125
+"52001","Dubuque","IA","Dubuque Dog Park","N Grandview","52001",42.51395941241669,-90.69304671844947
+"52001","Dubuque","IA","Fountain Park","2728 Asbury Rd","52001",42.509219,-90.708521
+"52001","Dubuque","IA","Jackson Park Neighborhood Music In The Park","1500-1598 Main St","52001",42.507211527453435,-90.66996919508425
+"52001","Dubuque","IA","Cottingham & Butler Plaza","Main St.","52001",42.500845,-90.66735
+"52001","Dubuque","IA","Teddy Bear Park","2220 High Cloud Dr","52002",42.508595,-90.745345
+"52001","Dubuque","IA","Asbury Park","5289-5401 Asbury Rd","52002",42.51089638441191,-90.75720703358017
+"52001","Dubuque","IA","Gay Park","Putnum","not_available",42.52065373238997,-90.6820234868629
+"52001","Dubuque","IA","Pinard Park","Pinard St.","52001",42.524835,-90.675199
+"52001","Dubuque","IA","Orange Park","1800 Washington St","52001",42.511480445294,-90.66662897022992
+"52001","Dubuque","IA","Gramercy Park","not_available","61025",42.49473231569617,-90.64402906815778
+"52001","Dubuque","IA","Falk Park","Falk Park","52001",42.49814223243745,-90.71578730765704
+"52002","Dubuque","IA","Cloie Creek Park","not_available","52002",42.519584,-90.764101
+"52002","Dubuque","IA","Durango Town Square","Iowa 3 & US 52","52039",42.561110963969554,-90.76189833349808
+"52002","Dubuque","IA","Althaus Wetland Nature Preserve","5567-5599 Wintergreen Dr","52002",42.51475632190704,-90.76059401035309
+"52003","Dubuque","IA","Julien Dubuque Monument","Julien Dubuque Drive","52003",42.46884986641895,-90.6465203275087
+"52003","Dubuque","IA","Mines of Spain EB Lyons Interpretive Center","8991 Bellevue Hts","52003",42.45856857299805,-90.66494750976562
+"52003","Dubuque","IA","Murphy Park","1700 S Grandview Ave","52001",42.48080141204557,-90.66517535304527
+"52003","Dubuque","IA","Reflections In The Park","Murphy Park","52003",42.47966551762953,-90.66523093054468
+"52003","Dubuque","IA","Grandview Rockdale Park","S. Grandview & Rockdale Rd.","52003",42.47738998385617,-90.6625030923663
+"52003","Dubuque","IA","Swiss Valley Park","13768 Swiss Valley Rd.","52003",42.428571267722226,-90.74143035901237
+"52003","Dubuque","IA","Bennett Pavillion","not_available","52003",42.482605,-90.664515
+"52031","Bellevue","IA","Grant Park","not_available","61036",42.413445086645226,-90.42676091194153
+"52031","Bellevue","IA","Galena Depot Park","99 Bouthillier St.","61036",42.41103864362553,-90.4294506733366
+"52031","Bellevue","IA","Galena Grant Park","625 Park Ave","61036",42.41318130493164,-90.42656707763672
+"52031","Bellevue","IA","Ulysses S. Grant Statue","Grant Park","not_available",42.4110560429231,-90.42476856964205
+"52031","Bellevue","IA","The Park","not_available","52054",42.29518508911133,-90.62042236328125
+"52031","Bellevue","IA","Chesnut Mountain Alpine Slides","not_available","52031",42.31867163617979,-90.39408394447275
+"52032","Bernard","IA","Fillmore Recreation Area","21655 U.S. 151","52033",42.32254049560174,-90.91104984283447
+"52038","Dundee","IA","Fountain Springs","not_available","52038",42.63312,-91.56401
+"52039","Durango","IA","Graf Park","not_available","52039",42.491887,-90.871871
+"52040","Dyersville","IA","Oak Garden Community Center","not_available","52040",42.479906985046135,-91.11185309220049
+"52041","Earlville","IA","Plum Creek Park","not_available","52041",42.477115631103516,-91.25849151611328
+"52041","Earlville","IA","Earlville","Prospect St","52041",42.4832887038386,-91.27242559784032
+"52043","Elkader","IA","Elkader City Park","not_available","52043",42.849346441699254,-91.39677457369386
+"52045","Epworth","IA","Farley Park","604 7th Ave NE","52046",42.44740295410156,-90.9988784790039
+"52045","Epworth","IA","tower park","not_available","52045",42.442481994628906,-90.92436218261719
+"52052","Guttenberg","IA","Glen Haven Recreation Area","Rock School Rd","53810",42.826989901079315,-91.07612786284186
+"52053","Holy Cross","IA","Turkey River Landing","Oak Rd.","not_available",42.717601497258826,-91.01037740707397
+"52053","Holy Cross","IA","Holy Cross Park","not_available","52053",42.6046884693362,-90.99501004570476
+"52057","Manchester","IA","Denton Park","not_available","52057",42.484199,-91.467741
+"52057","Manchester","IA","Baum Park","304-310 Stiles St","52057",42.48643,-91.44485
+"52057","Manchester","IA","Central Park","East Howard","not_available",42.48667526245117,-91.45327758789062
+"52060","Maquoketa","IA","First Ward Park","Quarry & Eliza Street","52060",42.07160530662551,-90.66248456778287
+"52060","Maquoketa","IA","Little Bear Park","400 W Quarry St","52060",42.071434020996094,-90.66966247558594
+"52064","Miles","IA","Miles City Park","not_available","52064",42.04579544067383,-90.31451416015625
+"52069","Preston","IA","Andrew School Park","not_available","52060",42.05470782688433,-90.40337700335161
+"52070","Sabula","IA","south sabula lake park","not_available","52070",42.06301134994801,-90.17303176272628
+"52070","Sabula","IA","Driscoll's Island","Sycamore St.","not_available",42.070035058119764,-90.18281936645508
+"52073","Sherrill","IA","Mississippi River","Park Ln","53820",42.6456680113426,-90.70573956643463
+"52101","Decorah","IA","Ice Cave","not_available","52101",43.31115980111119,-91.7806690471717
+"52101","Decorah","IA","Dunning's Spring","Ice Cave Rd","52101",43.311477960702476,-91.79108390005051
+"52101","Decorah","IA","Wold Park","800 Decorah Ave","52101",43.30549048145446,-91.77568674087524
+"52101","Decorah","IA","Phelps Park","Park St.","52101",43.30037000933427,-91.79662991810781
+"52101","Decorah","IA","Moe Park","1280 Old Stage Rd, Waukon, IA 52172","52172",43.2868676384505,-91.74951577073647
+"52132","Calmar","IA","Fort Atkinson Historic Site","not_available","52144",43.14468038122142,-91.9370500312777
+"52132","Calmar","IA","The Inwood","not_available","52132",43.15972900390625,-91.87773895263672
+"52136","Cresco","IA","Evans Park","S Elm St","52136",43.37171172348001,-92.11384140285455
+"52136","Cresco","IA","Vernon Springs Park","not_available","52136",43.34770151972474,-92.13817910715836
+"52151","Lansing","IA","Lansing Sports Complex","S Front St, Lansing, IA 52151","52151",43.361866936928045,-91.21452835411802
+"52157","Mc Gregor","IA","Lawler Park","not_available","53821",43.05267223556598,-91.15977675820483
+"52157","Mc Gregor","IA","Triangle Park","not_available","52157",43.024869,-91.174899
+"52172","Waukon","IA","Waukon City Park","not_available","52172",43.26765322631009,-91.47994897466424
+"52175","West Union","IA","City Park West Union","not_available","52175",42.965104,-91.809576
+"52201","Ainsworth","IA","Conservation Education Center","2943 Highway 92","52201",41.29039001464844,-91.57597351074219
+"52203","Amana","IA","Middle Park","27th Ave","52203",41.799162825580275,-91.90325281424627
+"52205","Anamosa","IA","olin park","not_available","52320",41.99277553935996,-91.13290103743309
+"52205","Anamosa","IA","Fountain Park","not_available","52205",42.109533,-91.27749
+"52205","Anamosa","IA","Cox park","not_available","52336",42.060394287109375,-91.44292449951172
+"52205","Anamosa","IA","Panther Park","321 W South St","52310",42.232147216796875,-91.1926040649414
+"52205","Anamosa","IA","Grant Wood Memorial Park","17000-17534 Iowa 64","52205",42.08547444388075,-91.21432651594193
+"52205","Anamosa","IA","Y Park","811 S Cedar St","52310",42.23109436035156,-91.18904113769531
+"52206","Atkins","IA","atkins park pavillion","not_available","52206",41.993068853759404,-91.84433787949422
+"52208","Belle Plaine","IA","disc'n","not_available","52208",41.89068497488254,-92.27819517789439
+"52211","Brooklyn","IA","Old City Park","not_available","52211",41.695682671568655,-92.36328517238566
+"52213","Center Point","IA","Pleasant Creek State Recreation Area","4530 McClintock Rd","52324",42.125416590260706,-91.81770909056578
+"52213","Center Point","IA","urbana disk golf course","not_available","52213",42.25671782376226,-91.90148326500564
+"52214","Central City","IA","Tuma Soccer Complex","C Ave Extension and County Home Rd","52302",42.097084631796484,-91.64679488547479
+"52214","Central City","IA","Flying Squirrel Pavilion","not_available","52214",42.22127,-91.54391
+"52214","Central City","IA","Pinicon Ridge Park","Horsehoe Falls Rd","52214",42.21644486023241,-91.54268059902512
+"52218","Coggon","IA","Savage Memorial Park","not_available","52218",42.281643,-91.523772
+"52227","Ely","IA","Cheyenne City Park","1650 Cedar Bend Ln SW","52227",41.95857770290504,-91.58049983403166
+"52227","Ely","IA","JJ. Harold Ennis Preserve","not_available","52314",41.89919662475586,-91.48191833496094
+"52227","Ely","IA","Playground","not_available","52227",41.87113,-91.578897
+"52227","Ely","IA","Cedar Rapids BMX","1600 Cedar Bend Lane SW","not_available",41.956958954862905,-91.58091926282084
+"52228","Fairfax","IA","Hawks Ridge Park","W Prairie Dr, Fairfax, IA 52228","52228",41.93168102100122,-91.75983592073429
+"52228","Fairfax","IA","Jacolyn Coner","Jacolyn","52404",41.960309,-91.730582
+"52233","Hiawatha","IA","Guthridge Park","N. 10th Avenue and Lyndhurst Drive","not_available",42.040603290057085,-91.68147641251652
+"52233","Hiawatha","IA","Hiawatha Hog Wild Days","125 N 10th Ave","52233",42.040121,-91.682586
+"52233","Hiawatha","IA","Gutheridge Park","not_available","52233",42.04222863485062,-91.69760511106716
+"52233","Hiawatha","IA","Nixon Park","200 Nixon Drive","52402",42.04331718279733,-91.6679584980011
+"52233","Hiawatha","IA","Hiawatha Park","900 Emmons St","52233",42.041178,-91.68118199999999
+"52233","Hiawatha","IA","Robins City Park","700 S Troy Rd","52328",42.065154,-91.667076
+"52233","Hiawatha","IA","Clark Memorial Park","Hiawatha,IA,52233","52233",42.0495264784506,-91.69779026040904
+"52240","Iowa City","IA","North Market Square Park","North Market Square","not_available",41.66683697248254,-91.52724981307983
+"52240","Iowa City","IA","Reno Street Park","Reno Street","not_available",41.66699726604939,-91.51902079582214
+"52240","Iowa City","IA","North Ridge Park","2250 Holiday Rd","52241",41.69559982113941,-91.59604166715424
+"52240","Iowa City","IA","Kicker's Field","4400 Soccer Park Rd","52240",41.60777539866811,-91.50913624882975
+"52240","Iowa City","IA","Centennial Park","not_available","52317",41.737354,-91.624995
+"52240","Iowa City","IA","Lower City Park","not_available","52245",41.67223590686949,-91.5434374700634
+"52240","Iowa City","IA","duck creek park","not_available","52246",41.6478271484375,-91.58367156982422
+"52240","Iowa City","IA","Weatherby Park","Taylor Dr","52240",41.63436930263637,-91.51851654052734
+"52240","Iowa City","IA","Willow Creek Park","W Benton St","52246",41.648276907090036,-91.56963342621893
+"52240","Iowa City","IA","College Green Park","South Dodge Street","52240",41.65758086460155,-91.5272383942113
+"52240","Iowa City","IA","St. Morrison Park","1513 7th Street","52241",41.68055793765246,-91.58395425657311
+"52240","Iowa City","IA","City Park","101 City Park RD","not_available",41.67375068016549,-91.53601597979593
+"52240","Iowa City","IA","Creekside Park","1800 F Street","52240",41.65136416372669,-91.5090039013847
+"52240","Iowa City","IA","North Hickory Park","800 Conklin","not_available",41.67041142424256,-91.51074886322021
+"52240","Iowa City","IA","Crandic Park","Rocky Shore Dr","not_available",41.667092893750855,-91.55759341664249
+"52240","Iowa City","IA","Riverfront Crossings Park","not_available","52240",41.649302,-91.534824
+"52240","Iowa City","IA","Gilbert Street Baseball Park","3700 South Gilbert Street","not_available",41.63207118235587,-91.52983474971509
+"52240","Iowa City","IA","South Hickory Park","1439 Bloomington","not_available",41.66592892779707,-91.51330067561949
+"52240","Iowa City","IA","Tower Court Park","1124 Tower Court","not_available",41.65313720703125,-91.55677795410156
+"52240","Iowa City","IA","12th and 7th","not_available","52241",41.67860863793755,-91.58053576089812
+"52240","Iowa City","IA","Fair Meadows Park","2413 Miami Dr","52240",41.634293,-91.504457
+"52241","Coralville","IA","Altmaier Family Park","3444 Deer Creek Rd","52241",41.686993,-91.617455
+"52242","Iowa City","IA","Hubbard Park","100 W Iowa Ave","52242",41.66213818732915,-91.53807343452954
+"52242","Iowa City","IA","Villa Park","westgate","52246",41.65291658943825,-91.56646691765691
+"52242","Iowa City","IA","Bon Jovi @ Hubbard Park","Rock The Vote","52242",41.662775,-91.539513
+"52242","Iowa City","IA","Gone running!","Iowa City Park","52240",41.657395,-91.536284
+"52242","Iowa City","IA","Gibson Square","Madison","52242",41.65840727490307,-91.53808525945243
+"52242","Iowa City","IA","Brookland Park","Greenwood Dr","52246",41.65352511284602,-91.54657862750015
+"52245","Iowa City","IA","Scott Park","400 S. Scott Blvd","52245",41.6545582093962,-91.47996826516925
+"52245","Iowa City","IA","Court Hill Park","2829 Friendship St","52245",41.65445220555341,-91.49277081044502
+"52245","Iowa City","IA","Happy Hollow Park","North Governor St","not_available",41.670651851093695,-91.52366638183594
+"52245","Iowa City","IA","Chauncy Swan Park","401 E. Washington","52240",41.659980641488644,-91.52973071215081
+"52246","Iowa City","IA","Ryerson Woods Park","Riverside Drive","not_available",41.61761954841669,-91.54611027769923
+"52247","Kalona","IA","Kalona City Park","D Ave","52247",41.48408394050287,-91.69820308685303
+"52248","Keota","IA","Greiner Pond","not_available","52353",41.2502,-91.7768
+"52248","Keota","IA","Wellman Community Park","241 13th ST","52356",41.47396005745191,-91.8310405121268
+"52249","Keystone","IA","Allers Park","4th Street","52249",42.00202,-92.19805
+"52249","Keystone","IA","Cameron Park","not_available","52249",41.99861,-92.19814
+"52251","Ladora","IA","Lake Iowa Park","not_available","52251",41.633558036872024,-92.17492396215081
+"52254","Lost Nation","IA","Gilroy Rustic Park","not_available","52254",41.967808247992515,-90.81130756877886
+"52301","Marengo","IA","Gateway Park","Court Avenue","52301",41.80546970821484,-92.06873416900635
+"52302","Marion","IA","Tomahawk Park","not_available","52402",41.99759632078635,-91.64682807841315
+"52302","Marion","IA","Noelridge Park","Council St NE","52402",42.026100684505195,-91.65649779132224
+"52302","Marion","IA","Sac & Fox Trail","Cottage Grove Parkway SE","52404",41.98340233394124,-91.59944313203734
+"52302","Marion","IA","Butterfield Park","3500 29th Ave","52302",42.051023,-91.57364399999999
+"52302","Marion","IA","Greene Square Park","400 4th Ave SE","52402",41.97838364190889,-91.6634277372238
+"52302","Marion","IA","Squaw Creek Park","4305 Squaw Ln","52302",42.0141225308655,-91.5667698321561
+"52302","Marion","IA","Redmond Park","1518-1546 3rd Ave SE","52403",41.986457073457416,-91.65129661399857
+"52302","Marion","IA","Lininger Park","Geode and Alburnett","52302",42.04135220415819,-91.60609108386295
+"52302","Marion","IA","Huntington Ridge Park","C Ave NE","not_available",42.05413272176149,-91.63933660402769
+"52302","Marion","IA","Willow Park","900-998 2nd St","52302",42.03641626742981,-91.6088957038941
+"52302","Marion","IA","Marion square park","not_available","52302",42.03328297046456,-91.59962541949189
+"52302","Marion","IA","Bever Park","2700 Bever Ave SE","52403",41.9858133216528,-91.62606376177202
+"52302","Marion","IA","Mahoneys To Mahoneys Bike Ride","not_available","52328",42.076123,-91.648864
+"52302","Marion","IA","Time Check Park","432-438 J Ave NW","52405",41.982184833648844,-91.68478899910835
+"52306","Mechanicsville","IA","Mechanicsville Garden Club","100-180 W Kohlhase St","52306",41.90681073333333,-91.25504716666667
+"52310","Monticello","IA","Jacobs Park","100 Arminda Ave","52310",42.241299016666666,-91.19790108333333
+"52310","Monticello","IA","Riverside Gardens","441 E 3rd St","52310",42.241119384765625,-91.18406677246094
+"52310","Monticello","IA","Monticello City Park","766 N Maple St","52310",42.24646534957835,-91.18940463819573
+"52310","Monticello","IA","Monticello Fair Grounds","700 N Maple St","not_available",42.24651261930038,-91.1887901081194
+"52314","Mount Vernon","IA","Memorial Park","400 1st St SW","52314",41.923884,-91.420487
+"52314","Mount Vernon","IA","Nature Park","699 3rd St .SE","52314",41.918261633866464,-91.41352415084839
+"52314","Mount Vernon","IA","Willard's Park","Scobey Rd, Mt Vernon, IA 52314","52314",41.931373596191406,-91.42826080322266
+"52315","Newhall","IA","newhall park pavillion","not_available","52315",41.99491088641655,-91.97046227395296
+"52317","North Liberty","IA","Liberty Center","650 E Cherry St","52317",41.752139,-91.623061
+"52317","North Liberty","IA","Lake McBride Main Lodge","not_available","52333",41.79942463735161,-91.56604094775311
+"52317","North Liberty","IA","University Of Iowa McBride Wildlife Area","Lake McBride Rd NE","52333",41.78662999217207,-91.53754841946184
+"52322","Oxford","IA","F.W. Kent County Park","2048 Highway 6 NW","52322",41.72330652509808,-91.72880203503983
+"52322","Oxford","IA","Tractor By A Tree","Oxford, IA","52322",41.69290162018387,-91.7498627466947
+"52322","Oxford","IA","Creekside Park","not_available","52322",41.721233672743026,-91.78916968603492
+"52323","Oxford Junction","IA","Wapsie Park","3397 County Road X-64","52323",41.984147966634765,-90.95282237981591
+"52324","Palo","IA","Zeller Memorial Park","1010 1st Street","52324",42.06888198852539,-91.79508972167969
+"52324","Palo","IA","Morgan Creek","not_available","52405",41.987960025090494,-91.75993100486367
+"52327","Riverside","IA","Railroad park","not_available","52327",41.480189656801386,-91.57638847693691
+"52333","Solon","IA","Turkey Creek","2860 Prairie du Chien Rd NE","52240",41.725434,-91.520568
+"52335","South English","IA","Roadside Park","Broadway St","52335",41.45331064958065,-92.09003900110872
+"52335","South English","IA","South English Park","190-198 Main St","52335",41.45330138707658,-92.08492371243146
+"52337","Stanwood","IA","Red Oak Grove Park","not_available","52772",41.834114,-91.16172
+"52337","Stanwood","IA","Stanwood City Park","Stanwood,IA,52337","52337",41.8925159,-91.1493242
+"52337","Stanwood","IA","Eastmont Community Park","East Wenatchee,WA,98802","98802",41.8925159,-91.1493242
+"52338","Swisher","IA","Swisher City Park","not_available","52338",41.850323,-91.69239
+"52339","Tama","IA","otter creek lake and park","not_available","52342",41.985477447509766,-92.57378387451172
+"52339","Tama","IA","Sand Volleyball Hiliday Lake","not_available","52339",41.96555709838867,-92.5220947265625
+"52347","Victor","IA","Old Victor Park","not_available","52347",41.72537175461495,-92.29609158890364
+"52349","Vinton","IA","Kiwanis Park","1101 W 15th St","52349",42.1584090114993,-92.03581809997559
+"52349","Vinton","IA","Benton county park","not_available","33062",42.148301,-91.969819
+"52353","Washington","IA","Sunset Park","Madison Street","not_available",41.298057409811264,-91.70425415039062
+"52353","Washington","IA","Washington Community Center","2225 250th St","52353",41.29513414577965,-91.71044400193935
+"52358","West Branch","IA","Tallgrass Prairie","not_available","52358",41.667718,-91.351303
+"52358","West Branch","IA","Beranek Park","235 S 2nd St","52358",41.668941497802734,-91.342529296875
+"52401","Cedar Rapids","IA","Sokol Park","16th Ave SW","52402",41.96548071288897,-91.65940054948236
+"52401","Cedar Rapids","IA","Riverside Park","not_available","52404",41.97481155395508,-91.67160034179688
+"52401","Cedar Rapids","IA","New Bo Park","not_available","52401",41.9717832377618,-91.66136581701434
+"52401","Cedar Rapids","IA","Memorial Plaza","51 2nd Ave","52401",41.97598678296721,-91.67065143585205
+"52401","Cedar Rapids","IA","Viola Gibson Park","12th Ave SE","not_available",41.97352212436904,-91.65167212486267
+"52401","Cedar Rapids","IA","Riverfront Park","839 1st Street NW","52405",41.978484945203974,-91.66894497563037
+"52401","Cedar Rapids","IA","Edward Hidder Park","14th Ave SE","52403",41.97230131204191,-91.65091100406033
+"52401","Cedar Rapids","IA","Wellington Park","not_available","52403",41.982412,-91.654634
+"52402","Cedar Rapids","IA","The Dancing Lawn","Ellis Park Hilltop Lookout","not_available",41.99943436224098,-91.69958957332973
+"52402","Cedar Rapids","IA","Shaver Park","724-750 J Ave NE","52402",42.00275415089497,-91.67542613743502
+"52402","Cedar Rapids","IA","Huston Park","1403-1419 Washington Ave SE","52403",41.985278,-91.635917
+"52402","Cedar Rapids","IA","Huntington Ridge Park","C Ave. NE","52402",42.022905449999996,-91.63722225000001
+"52403","Cedar Rapids","IA","Jones Memorial Park","201 Wilson Ave SW","52404",41.955322862231846,-91.653095613277
+"52403","Cedar Rapids","IA","Arrowhead Park","29th St. SE","52403",41.97208737218377,-91.62337650763958
+"52403","Cedar Rapids","IA","Noelridge Pool","1248 Park Pl NE","52402",42.02172774125552,-91.65579110351857
+"52404","Cedar Rapids","IA","Cherry Hill Park","341 Stoney Point Rd NW","52405",41.97132930126089,-91.75944607797031
+"52404","Cedar Rapids","IA","Jacolyn Park","4801-4899 Gordon Ave NW","52405",41.9713075692594,-91.73386670033474
+"52404","Cedar Rapids","IA","Lincoln Way Park","195 Oklahoma Ave SW","52404",41.917640999999996,-91.666218
+"52404","Cedar Rapids","IA","Cleveland Park","1600 8th Ave SW","52404",41.9707604438684,-91.69237378162556
+"52404","Cedar Rapids","IA","Apache Park","2601-2899 D Ave NW","52405",41.9771309194816,-91.70817412904314
+"52405","Cedar Rapids","IA","Seminole Valley Park","Seminole Valley  Road","52411",42.00314299115219,-91.7299422460005
+"52405","Cedar Rapids","IA","Ellis Park","Ellis Park Rd.","52405",41.997467678957065,-91.71007737369278
+"52405","Cedar Rapids","IA","Moose Drive Park","913 Moose Drive","52405",41.987585144950444,-91.7338583458894
+"52405","Cedar Rapids","IA","Ellis Park","1198 Ellis Ln NW","52405",41.99678372579883,-91.68615112458006
+"52405","Cedar Rapids","IA","The River","J Ave NE","not_available",42.003056666666666,-91.68554085
+"52411","Cedar Rapids","IA","Pierce Park","4300 Wenig Rd NE","52102",42.02331523595569,-91.67914867401123
+"52501","Ottumwa","IA","Ballingall Park","not_available","52501",41.018774,-92.414447
+"52501","Ottumwa","IA","Wildwood Park","1848-1898 W Finley Ave","52501",41.00102737679028,-92.44918092884294
+"52501","Ottumwa","IA","Central Park","Between Third & Fourth Sts.","52501",41.01910487974034,-92.4113501727049
+"52501","Ottumwa","IA","Chief Wapello Memorial Park","not_available","52530",40.99179031421863,-92.29294477341965
+"52501","Ottumwa","IA","Skate Park","Market Street","52501",41.0068521,-92.4134488
+"52501","Ottumwa","IA","Ottumwa park","Highway 34 and Ferry street","52501",41.01636,-92.42716
+"52501","Ottumwa","IA","Rock Bluff Park","Rock Bluff Rd","52501",41.048893,-92.480858
+"52501","Ottumwa","IA","Foster Park","East End","52501",41.00643,-92.38365
+"52501","Ottumwa","IA","Union Park","1900 W 2nd St","52501",41.037513732910156,-92.43831634521484
+"52501","Ottumwa","IA","Greater Ottumwa Park","Teal Dr","52501",41.01106452996031,-92.42681362967566
+"52531","Albia","IA","lions park","not_available","52553",41.11173371132102,-92.70583092608837
+"52531","Albia","IA","Albia City Park","not_available","52531",41.03663980362084,-92.80391115666843
+"52534","Beacon","IA","Beacon Park","not_available","52534",41.27759996229173,-92.68153935045892
+"52537","Bloomfield","IA","Pulaski park","not_available","52537",40.74406814575195,-92.40959167480469
+"52537","Bloomfield","IA","Bloomfield City Park","E locust st","52537",40.75283871892378,-92.40551233291626
+"52544","Centerville","IA","Morgan E. Cline Park","501-599 W Lane St","52544",40.73005364759259,-92.87875764048253
+"52544","Centerville","IA","Lower City Reservoir","cottage street","52544",40.71878617467262,-92.88459777832031
+"52556","Fairfield","IA","Fairfield IA Town Square","not_available","52556",41.007226602251976,-91.96338806364724
+"52556","Fairfield","IA","Jefferson County Park","Jefferson County Park Dr","52556",40.988444557474395,-91.98665934805251
+"52556","Fairfield","IA","Howard Park","400 e grimes ave","52556",41.010238083333334,-91.96241438333334
+"52556","Fairfield","IA","Whitham Woods","Hwy 1","52556",41.006651,-92.008803
+"52565","Keosauqua","IA","Austin County Park","Van Buren Township,IA,52565","52565",40.7745207,-91.9667483
+"52569","Melrose","IA","Tolendol Park","not_available","52569",40.97500259663371,-93.04673178807512
+"52571","Moravia","IA","Island View Campground","19357 Island View Place","52574",40.836818956738895,-92.91498904624244
+"52571","Moravia","IA","Prairie Ridge Park","200th Avenue","52571",40.870365164543955,-92.89172172546387
+"52577","Oskaloosa","IA","Oskaloosa City Park","not_available","52577",41.289597666666666,-92.65833016666667
+"52577","Oskaloosa","IA","Edmundson Park","1600 Edmundson DR","52577",41.28346582229202,-92.6554417823957
+"52577","Oskaloosa","IA","Freedom Rock","IA Hyw 92","52577",41.296047,-92.6126
+"52586","Rose Hill","IA","Rosehill City Park","301-305 County Highway V13","52586",41.320952616666666,-92.46387266666666
+"52601","Burlington","IA","Crapo Park","not_available","52601",40.777087759710426,-91.1025221565401
+"52601","Burlington","IA","Perkins Park","1734-1798 Dill St","52601",40.798132265583725,-91.1180249277669
+"52601","Burlington","IA","Skatepark","Place Of Business","52601",40.780858,-91.104083
+"52601","Burlington","IA","Summer Street Park","1100-1198 Summer St","52601",40.795536983333335,-91.11517375
+"52601","Burlington","IA","Mosquito Park","306 Franklin St","52601",40.8171275775017,-91.1004390177062
+"52601","Burlington","IA","Pat Klein Park","Longmeadow","not_available",40.819866,-91.155421
+"52601","Burlington","IA","Cottonwood Park","Columbus Drive","52601",40.812808990478516,-91.13664245605469
+"52601","Burlington","IA","Dankwark Park","731 Shoquoquon Dr","52601",40.77984619140625,-91.10637664794922
+"52619","Argyle","IA","Shimik Forest","Farmington HWY 2","not_available",40.55391293446499,-91.56496184288538
+"52623","Danville","IA","Jimtown Stage","not_available","52623",40.886678161817095,-91.34258581704871
+"52623","Danville","IA","New London Park","W main street","52645",40.92245827595762,-91.40395028240327
+"52625","Donnellson","IA","West Point Square","5th st & Ave F","52656",40.717610055276744,-91.45240149953275
+"52625","Donnellson","IA","South park","not_available","52656",40.71787781085412,-91.44981950351506
+"52626","Farmington","IA","Shimek State Forest","Lick Creek Unit","52626",40.63358802710004,-91.68113947304145
+"52626","Farmington","IA","Battle of Athens State Historic Site","not_available","52626",40.58492974296663,-91.69629959324513
+"52627","Fort Madison","IA","Central Park","not_available","52627",40.632758612298005,-91.31464228617864
+"52627","Fort Madison","IA","Fort Madison Farmer's Market","900 & Ave E","52627",40.63315416901457,-91.31357431411742
+"52632","Keokuk","IA","Victory Park","not_available","52632",40.391590940674874,-91.37924115324134
+"52632","Keokuk","IA","Gateway Park","S 1st St.","52632",40.39248605493878,-91.37844478018131
+"52632","Keokuk","IA","Chatfield Park","Iowa Rd, Keokuk, IA 52632","52632",40.43832567223928,-91.45661705033696
+"52632","Keokuk","IA","Bluff Park","Park st","52632",40.388168062320055,-91.40316009521484
+"52632","Keokuk","IA","Tolmie Park","3000 Plank Road","52632",40.41917850445256,-91.40402572336443
+"52632","Keokuk","IA","City Of Christmas","N 17th St.","52632",40.410666941688675,-91.38286978791452
+"52632","Keokuk","IA","Estes Park","500 Main St.","52632",40.39578380095264,-91.38365507125854
+"52632","Keokuk","IA","Triangle Park","Park Place","52632",40.39963045147096,-91.37653790298033
+"52632","Keokuk","IA","Kilbourne Park","1900 Timea St","52632",40.404575149042905,-91.39886856079102
+"52632","Keokuk","IA","Rees Park","s 7th st","52632",40.38957360678859,-91.40839576721191
+"52641","Mount Pleasant","IA","Sheaffer Park","S Walnut","52641",40.96211699811792,-91.54446423053741
+"52641","Mount Pleasant","IA","The Square","100-198 S Jefferson St","52641",40.9660896598461,-91.55414862575039
+"52641","Mount Pleasant","IA","East Lake Park","not_available","52641",40.94845892699249,-91.52057639515547
+"52641","Mount Pleasant","IA","Saunders Park","Saunders Park Drive","52641",40.96165519347528,-91.56171083450317
+"52641","Mount Pleasant","IA","Oakland Mills Park - North Shore","2591 Nature Center Dr","52641",40.931819915771484,-91.61569213867188
+"52653","Wapello","IA","Hogback Hollow","13543 105th St","52653",41.21290969848633,-91.1894760131836
+"52722","Bettendorf","IA","Crow Creek Park","Crow Creek Park","52722",41.56982889061434,-90.47658805537178
+"52722","Bettendorf","IA","Middle Park","not_available","52722",41.54500534713481,-90.50124328496058
+"52722","Bettendorf","IA","Park Bench","2217 Lincoln Rd","52722",41.5355604976293,-90.50158494343083
+"52722","Bettendorf","IA","Duck Creek Park","E. Locust","52803",41.53840374257128,-90.52249402682997
+"52722","Bettendorf","IA","Rocket Park","Brown Street","52722",41.52902861611971,-90.51567654612512
+"52722","Bettendorf","IA","Empire Park","not_available","61244",41.543711,-90.419349
+"52722","Bettendorf","IA","Meier Park","6th St","52722",41.52734283911194,-90.52429676055908
+"52722","Bettendorf","IA","Centennial Garden","1990-2056 23rd St","52722",41.54493535,-90.49880228333333
+"52722","Bettendorf","IA","Devils Glen Park","1101 Devils Glen Road","52722",41.53472137451172,-90.47968292236328
+"52722","Bettendorf","IA","Friendship Park","White Post Road","52722",41.57657403518168,-90.45067672911014
+"52722","Bettendorf","IA","The Quarter","Great River Trail","61244",41.530098839413704,-90.43811656279745
+"52722","Bettendorf","IA","Hampton Park","Hampton, IL","not_available",41.55800435,-90.41378064
+"52726","Blue Grass","IA","Montpelier Park","not_available","52761",41.45891328490749,-90.8090299934858
+"52729","Calamus","IA","Wapsi Valley Environmental Center","31555 52nd Ave","52745",41.773212,-90.792037
+"52730","Camanche","IA","Follets Park","2912 Hwy. 67","52730",41.75014919674259,-90.35479214742034
+"52730","Camanche","IA","Follett Park","not_available","52730",41.75152,-90.35047
+"52730","Camanche","IA","Platt Park","900-1398 9th Ave","52730",41.7927831802261,-90.26330853975213
+"52732","Clinton","IA","Chancy Park","not_available","52732",41.824267158671695,-90.21138084428867
+"52732","Clinton","IA","The Albany Park","201-213 N Park Ave","61230",41.78734532454739,-90.22439061742
+"52732","Clinton","IA","Heritage Canyon","515 N 4th St","61252",41.877952575683594,-90.1642074584961
+"52732","Clinton","IA","Max Lynn Tennis Courts","944 Lincoln Blvd.","52732",41.83518981933594,-90.21224975585938
+"52742","De Witt","IA","Westbrook Park","not_available","52742",41.825476,-90.580597
+"52747","Durant","IA","Bobby's Funland Park","not_available","52747",41.60233673333334,-90.90172913333333
+"52747","Durant","IA","Lioness Park","State Hwy. 927","52747",41.59854099324264,-90.89985902764295
+"52747","Durant","IA","Dutton Park","1100-1198 County Hwy. Y26","52747",41.5995164730753,-90.90339108229615
+"52748","Eldridge","IA","Scott County Park","18850 270th St,  52748","52748",41.71239236092484,-90.52940368652344
+"52748","Eldridge","IA","Elmgreen Park","not_available","52748",41.654258,-90.59298
+"52753","Le Claire","IA","Scout Park","not_available","52753",41.608604,-90.346169
+"52760","Moscow","IA","Scott County Park","not_available","52778",41.64041848777731,-91.06042561919185
+"52761","Muscatine","IA","Riverside Park","Mississippi Dr.","not_available",41.42181244233056,-91.04129791259766
+"52761","Muscatine","IA","Shady Creek Park","4566 Iowa 22","52761",41.445485196549086,-90.87593692696554
+"52768","Princeton","IA","Old school park","4th and Washington","not_available",41.67418121914466,-90.34323186583539
+"52769","Stockton","IA","jc park concessions","not_available","52769",41.629883035053936,-90.85919872196379
+"52773","Walcott","IA","Victory Park","308 E Memorial Rd","52773",41.58207738544136,-90.77475166424435
+"52773","Walcott","IA","Prairie View Park and Heritage Trail","not_available","52773",41.59200553798265,-90.77462627494782
+"52801","Davenport","IA","Rotary Park Gazebo","not_available","52801",41.521896,-90.56524
+"52802","Davenport","IA","Centennial Park","Biederbecke Dr.","52802",41.51807950752676,-90.58964268100613
+"52802","Davenport","IA","Lafayette Park","not_available","52802",41.524049,-90.583696
+"52802","Davenport","IA","West Lake Children's Forest","not_available","52804",41.515498686137754,-90.67623215761914
+"52802","Davenport","IA","City park","4th Street","61201",41.49563730522769,-90.59214827862745
+"52802","Davenport","IA","Sunset Park","Sunset Lane","not_available",41.492145312242506,-90.60235720836053
+"52802","Davenport","IA","ferjervary park","not_available","61201",41.482669830322266,-90.59832763671875
+"52802","Davenport","IA","Monroe Park","1611 W 3rd St.","52802",41.5220896785187,-90.59965610504149
+"52802","Davenport","IA","Credit Island Park","2200 W River Dr","52802",41.493920968431745,-90.61587810516357
+"52803","Davenport","IA","Vander Veer Park","223 W Central Park Ave.","52803",41.544742536004094,-90.57501904561602
+"52803","Davenport","IA","Vander Veer Fountain","2401-2599 N Gaines St","52804",41.542421415100584,-90.57559791166945
+"52803","Davenport","IA","Prospect Park","not_available","52803",41.5290006711172,-90.5518559033052
+"52803","Davenport","IA","Junge Park","35th and Harrison Street","52803",41.553303694271946,-90.57918743740709
+"52803","Davenport","IA","Side Eastern","1400-1552 E 29th St","52803",41.549670696258545,-90.5537098646164
+"52803","Davenport","IA","Junge Park","3400 Harrison","not_available",41.5542766158526,-90.58110079186
+"52803","Davenport","IA","Tyler Park","? Grand","not_available",41.549635911073366,-90.56455135345459
+"52803","Davenport","IA","Monroe Park","1611 W 3rd St","52802",41.544815772282064,-90.5516757880293
+"52804","Davenport","IA","Slattery Park","4629 Northwest Blvd","not_available",41.568664306928206,-90.59128011237462
+"52804","Davenport","IA","Northwest Park","Duck Creek Trail Pkwy","52806",41.55342639760558,-90.60350865076
+"52804","Davenport","IA","Westlake Park","West Locust Street","52806",41.520049446350306,-90.68172231711858
+"52804","Davenport","IA","Ridgeview Park","70th St. & Division","52806",41.59195732345884,-90.60271327335158
+"52804","Davenport","IA","Fejervary Park","1800 W. 12th S.","52804",41.530829021761484,-90.60468787313161
+"52804","Davenport","IA","Blue Park","not_available","52806",41.55440957005622,-90.60806850335327
+"52807","Davenport","IA","Crow Creek Wildlife Area","Mt Joy Quarry","not_available",41.61406833732989,-90.55805883148425

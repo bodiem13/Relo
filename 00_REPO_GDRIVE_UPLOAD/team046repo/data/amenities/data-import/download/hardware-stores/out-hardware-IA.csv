@@ -1,0 +1,766 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"50002","Adair","IA","Jacobsen Inc. of Adair","1010 Broad St","50002",41.499369267537816,-94.6468734741211
+"50003","Adel","IA","Tractor Supply Co.","4001 Ash St","50069",41.539595,-94.008177
+"50003","Adel","IA","Mikes Adel Power Equipment","27836 Fairground Rd","50003",41.63198,-94.02148
+"50003","Adel","IA","Mulch Mart","600 hwy 6","not_available",41.615738,-93.889876
+"50003","Adel","IA","Waukee Hardware & Rent-it Center","380 6th St.","50263",41.61158547085864,-93.88565779191327
+"50003","Adel","IA","Baldon Hardware","409 S 6th St","50003",41.61405552671648,-94.01492563785324
+"50008","Allerton","IA","Allerton Lumber Company","220 N Central Ave","50008",40.708344375529215,-93.36516380310059
+"50008","Allerton","IA","Sin Ho Hup Enterprise","40&40A , Jalan Tun Dr.Awang","11900",40.741087,-93.499092
+"50009","Altoona","IA","Menards","370 36th Ave SW","50009",41.64774596941774,-93.5093240052089
+"50009","Altoona","IA","Lowe's","3610 8th Street SW","50009",41.6415919,-93.5067335
+"50009","Altoona","IA","Direct Tools","771 Bass Pro Dr #210","50009",41.656953,-93.51238199999999
+"50009","Altoona","IA","Altoona Ace Hardware","340 8th St SE","50009",41.643449,-93.460948
+"50009","Altoona","IA","Duerson Corporation","601 1st Ave N","50009",41.656353,-93.464014
+"50009","Altoona","IA","Ackelson Sheetmetal","1st Street SE","50009",41.650888902449395,-93.46318978458207
+"50009","Altoona","IA","Altoona Hardware","not_available","50009",41.64375393281621,-93.4609903769322
+"50009","Altoona","IA","Sherwin-Williams Paint Store","3770 8th St SW","50009",41.64301,-93.507655
+"50009","Altoona","IA","Cox Design & Metal Fabrication","701 1st Ave N","50009",41.656909000000006,-93.46376500000001
+"50010","Ames","IA","O'Donnell Ace Hardware","615 24th St","50010",42.045737,-93.619185
+"50010","Ames","IA","Lowe's","120 Airport Rd","50010",41.9993445,-93.6116568
+"50010","Ames","IA","Theisen's","1315 S Dayton Ave","50010",42.01135320890103,-93.58782277761524
+"50010","Ames","IA","Stihl","not_available","50010",42.02276,-93.60804
+"50010","Ames","IA","minuteKEY","3015 Grand Ave","50010",42.05206298828125,-93.6220703125
+"50010","Ames","IA","Hokel","not_available","not_available",42.01449203491211,-93.61474609375
+"50010","Ames","IA","Sherwin-Williams Paint Store","1624 S Duff Ave","50010",42.007402,-93.609139
+"50010","Ames","IA","ISU Central Stores","Room 192, General Services Building","50014",42.02804183959961,-93.64102172851562
+"50010","Ames","IA","Ames Winnelson","1021 Airport Rd","50010",42.00174,-93.62524
+"50010","Ames","IA","Central Iowa Lawn Care/DBA Central Iowa Trailer Sales","2725 E Lincoln Way","50010",42.0239509,-93.57640599999999
+"50010","Ames","IA","memorial union mechanical department","2229 Lincoln Way","50014",42.02443389475886,-93.64624259966668
+"50020","Anita","IA","Anita Supply","209 Truman","50020",41.443913,-94.763377
+"50021","Ankeny","IA","Menards","2505 SE Delaware Ave","50021",41.70489570242818,-93.57941671410933
+"50021","Ankeny","IA","The Home Depot","2335 SE Delaware Ave","50021",41.70766286371338,-93.57820898294449
+"50021","Ankeny","IA","Tractor Supply Co.","405 Southeast Oralabor Rd","50021",41.70238956039382,-93.59443899639875
+"50021","Ankeny","IA","Allied Building Products","6485 NE 14th St","50313",41.677837,-93.599099
+"50021","Ankeny","IA","Sherwin-Williams Floorcovering Store","5201 NE 14th St","50313",41.655443,-93.59983299999999
+"50021","Ankeny","IA","Plumb Supply Co.","1622 NE 51st Ave","50313",41.6537322503204,-93.59624651883668
+"50021","Ankeny","IA","Fastenal","617 S Ankeny Blvd","50023",41.724415,-93.599602
+"50021","Ankeny","IA","A-1 Ankeny Rental","1617 S Ankeny Blvd","50023",41.713673,-93.5996241
+"50021","Ankeny","IA","Color Store","1863 NE 54th Ave","50313",41.657912,-93.588996
+"50021","Ankeny","IA","Moss Bros Inc.","not_available","50021",41.71349758068918,-93.59996541635026
+"50021","Ankeny","IA","minuteKEY","1002 SE National Dr","50021",41.7051081,-93.5849952
+"50021","Ankeny","IA","Sherwin-Williams Paint Store","817 E 1st St","50021",41.731367999999996,-93.586292
+"50021","Ankeny","IA","Bomgaars","5049 NE 14th St","50313",41.652162757726074,-93.5983505210029
+"50021","Ankeny","IA","charleston","not_available","50313",41.66468048095703,-93.59561157226562
+"50022","Atlantic","IA","Akin Building Center","110 E 3rd St","50022",41.40834377236683,-95.0106863631212
+"50022","Atlantic","IA","ROBINSON TRUE VALUE HDW","325 CHESTNUT ST","50022",41.407737731933594,-95.0129623413086
+"50022","Atlantic","IA","Cappels Ace Hardware","110-116 Chestnut St","50022",41.4098029,-95.012755
+"50022","Atlantic","IA","Cappel's ACE Hardware","110 Chestnut St","50022",41.409847259521484,-95.01238250732422
+"50022","Atlantic","IA","Hallett Materials - Exira Pit","3101 Highway 71","50076",41.562381744384766,-94.90715026855469
+"50022","Atlantic","IA","Husqvarna","1309 SW 7th St","50022",41.397193908691406,-95.03330993652344
+"50022","Atlantic","IA","Husqvarna","2800 E 7th St","50022",41.40420913696289,-94.97494506835938
+"50023","Ankeny","IA","Ankeny Hardware","700 N. Ankeny Blvd.","50023",41.737114,-93.60112
+"50023","Ankeny","IA","Ace Hardware of Ankeny","3020 SW Oralabor Road","50023",41.703257,-93.638676
+"50023","Ankeny","IA","Ed Wares Appliances","405 SW 3rd St","50023",41.729359,-93.604989
+"50025","Audubon","IA","Williams Welding Inc","2182 220th St","50117",41.68779754638672,-94.86100006103516
+"50036","Boone","IA","Bomgaar’s #85","1815 S Story St","50036",42.035972595214844,-93.88162994384766
+"50036","Boone","IA","Boone Hardware","1018 8th St.","50036",42.06378149044117,-93.87756396010079
+"50036","Boone","IA","Dick's Fire Extinguisher","not_available","50036",42.06001,-93.894066
+"50036","Boone","IA","Boone Ace Hardware","1735 S East Marshall.","50036",42.0353,-93.8747
+"50036","Boone","IA","Viking Paste-Press","1018 8th St","50036",42.06349182128906,-93.87744903564453
+"50036","Boone","IA","Builders FirstSource","924 10th St","50036",42.06503328201926,-93.88009428977966
+"50046","Cambridge","IA","Kempker's True Value And Rental, Inc.","502 E 1st St","50124",41.892345,-93.5995
+"50046","Cambridge","IA","The Shop!","not_available","50046",41.8959533467309,-93.5289901013035
+"50047","Carlisle","IA","Carlisle True Value","190 N First St","50047",41.49953845,-93.48700485
+"50047","Carlisle","IA","Sampson Hardware","190 N 1st St","50047",41.4995267346939,-93.4866316326531
+"50047","Carlisle","IA","Circle B Home Center","1700 N Jefferson Way","50125",41.37688064575195,-93.55697631835938
+"50048","Casey","IA","Adair Lumber Yard","not_available","50048",41.492759,-94.556352
+"50049","Chariton","IA","Lockridge, Inc.","not_available","50049",41.00872642929389,-93.31915855407715
+"50049","Chariton","IA","Cedar Hill Manufacturing","street","50049",41.02242357813523,-93.30407381057738
+"50049","Chariton","IA","Chariton True Value","1018 Braden Ave","50049",41.0154144,-93.30926035
+"50058","Coon Rapids","IA","Mohr Lumber","500 Main St, Coon Rapids, IA 50058","50058",41.870925348848765,-94.6777431376567
+"50058","Coon Rapids","IA","Hardware Hank","not_available","50058",41.87113952636719,-94.67847442626953
+"50060","Corydon","IA","Gambles","not_available","50060",40.758275965115104,-93.31815942400587
+"50065","Davis City","IA","Lamoni heating cooling and plumbing","not_available","50140",40.61943766544447,-93.93249090244225
+"50065","Davis City","IA","Southern iowa building center","not_available","50065",40.6272,-93.87498
+"50072","Earlham","IA","earlham building center earlham ia","S. Chestnut St.","50072",41.490508,-94.122771
+"50072","Earlham","IA","Hardware Hank","not_available","50072",41.4905484208517,-94.12255563617752
+"50111","Grimes","IA","The Home Depot","10850 Plum Dr","50322",41.6490953,-93.7653695
+"50111","Grimes","IA","Menards","not_available","50111",41.68963,-93.771456
+"50111","Grimes","IA","Kempker's True Value And Rental, Inc.","204 1st St","50111",41.68800901653112,-93.7957613036108
+"50111","Grimes","IA","SLD-USA","4663 121st St, Urbandale, IA 50323","50323",41.64616012573242,-93.77924346923828
+"50111","Grimes","IA","Sherwin-Williams Paint Store","2570 E 1st St","50111",41.68794169660191,-93.76555860042572
+"50111","Grimes","IA","Strauss Safe & Lock Co","4663 121st St","50323",41.64616012573242,-93.77924346923828
+"50111","Grimes","IA","ProSource of Des Moines","12056 Meredith Dr","50323",41.642496,-93.77868199999999
+"50111","Grimes","IA","Beisser Lumber","5300 Beisser Dr","50111",41.656817,-93.782424
+"50111","Grimes","IA","Foundation Building Materials","4401 112th Street","50322",41.6410939,-93.7686679
+"50112","Grinnell","IA","Theisen's","208 West St S","50112",41.729861,-92.72651
+"50112","Grinnell","IA","Paul's Ace Hardware","820 West St","50112",41.7421459,-92.727356
+"50112","Grinnell","IA","Pauls True Value","not_available","50112",41.742226,-92.72672
+"50115","Guthrie Center","IA","Orscheln","not_available","50115",41.67867900413423,-94.48832312843867
+"50123","Humeston","IA","Sin Ho Hup Enterprise","40&40A, Jalan Tun Dr.Awang","11900",40.776171,-93.494747
+"50125","Indianola","IA","McCoy True Value Hardware","216 N Howard St","50125",41.36219577682887,-93.56031566576935
+"50125","Indianola","IA","Peek Sales & Service","7380 Highway 92","50125",41.3627698,-93.6668653
+"50126","Iowa Falls","IA","Builders FirstSource","220 S Oak St","50126",42.519371032714844,-93.26280975341797
+"50126","Iowa Falls","IA","Campbell Supply Co.","710 S Oak St","50126",42.5065913,-93.26187245
+"50129","Jefferson","IA","Bomgaars Farm & Home","205 W McKinley St","50129",42.02120379,-94.37704315
+"50129","Jefferson","IA","Tri-County Lumber","1801 N Elm St","50129",42.03175223620794,-94.37734896084481
+"50129","Jefferson","IA","Ace Hardware","123 N Chestnut St","50129",42.0157,-94.3733
+"50131","Johnston","IA","Baler-wire.com","5105 NW Beaver Dr Ste B","50131",41.65352249145508,-93.68070220947266
+"50131","Johnston","IA","Hawkeye Pallet","not_available","50131",41.676914848553935,-93.73652951517803
+"50131","Johnston","IA","Johnston Ace Hardware","5800 Merle Hay Rd","50131",41.6662,-93.6979
+"50131","Johnston","IA","Legacy Stone","5500 NW Johnston Dr Ste G","50131",41.657447814941406,-93.69270324707031
+"50138","Knoxville","IA","McCorkle Hardware","not_available","50138",41.21784078084053,-93.14112176654739
+"50138","Knoxville","IA","Coast Hardware","202 N 3rd St","50138",41.32020568847656,-93.09691619873047
+"50138","Knoxville","IA","KNOXVILLE TRUE VALUE HARDWARE","102 E Marion St","50138",41.319580078125,-93.09854125976562
+"50139","Lacona","IA","Williams Machine Shop","not_available","50139",41.189962981327476,-93.39367455141866
+"50143","Leighton","IA","Leighton Lumber","not_available","50143",41.33806968010903,-92.78702342074925
+"50144","Leon","IA","Gilbert True Value","19563 Us Highway 69","50144",40.76039420000001,-93.74859769999999
+"50144","Leon","IA","hardware Hank","not_available","50144",40.739805,-93.749619
+"50144","Leon","IA","Leon Plumbing Works","300 W 1st St","50144",40.73982238769531,-93.7495346069336
+"50156","Madrid","IA","Builders FirstSource","24411 Hwy 13 N","52043",41.8797704672721,-93.7469494342804
+"50158","Marshalltown","IA","Menards","504 Iowa Ave W","50158",42.00530810210996,-92.92098999023438
+"50158","Marshalltown","IA","How-Gan","1300 E Anson St","50158",42.03871154785156,-92.8924560546875
+"50158","Marshalltown","IA","Thompson True Value Hardware","106 S Center St","50158",42.046939849853516,-92.91320037841797
+"50158","Marshalltown","IA","Sherwin-Williams Paint Store","105 Nicholas Dr","50158",42.01601456220564,-92.91433075642212
+"50158","Marshalltown","IA","minuteKEY","2802 S Center St","50158",42.012062072753906,-92.90898132324219
+"50158","Marshalltown","IA","marquardt concrete products","not_available","50158",42.04225158691406,-92.90406036376953
+"50158","Marshalltown","IA","Plumb Supply","801-B Iowa Ave West","not_available",42.025142669677734,-92.94723510742188
+"50158","Marshalltown","IA","Sears","507 Iowa Avenue West","50158",42.007796,-92.921728
+"50161","Maxwell","IA","Ness Farm Supply","not_available","50161",41.886171000000004,-93.40001
+"50170","Monroe","IA","WP Barber Lumber","not_available","50170",41.52082604761136,-93.10185055555796
+"50170","Monroe","IA","ROBERTS TRUE VALUE HDW","203 S Madison St # 160","50228",41.59776306152344,-93.23866271972656
+"50201","Nevada","IA","Nevada lumber company","639 N Ave","50201",42.02488327026367,-93.4511489868164
+"50201","Nevada","IA","Nevada Hardware & Rental","123 Lincoln Hwy","50201",42.023045,-93.45825
+"50201","Nevada","IA","Hardware HankHank","2nd Street","50201",42.0157505605059,-93.45378134224856
+"50201","Nevada","IA","Hardware Hank","2nd St","50201",42.02277252456839,-93.4582634439146
+"50206","New Providence","IA","New Providence Hardware Co.","not_available","50206",42.285190530449555,-93.17273717241805
+"50207","New Sharon","IA","McGriff's Of New Sharon","Hwy 63","50207",41.465284482760325,-92.65106774289913
+"50208","Newton","IA","Theisen's","3362 Highway 6 E","50208",41.699917,-93.01202
+"50208","Newton","IA","Husqvarna US","2617 1st Ave E","50208",41.69818115234375,-93.02076721191406
+"50208","Newton","IA","McKlveen Lumber","330 E 17th St S","50208",41.69654097015905,-93.03280796407425
+"50211","Norwalk","IA","Cappel's Ace Hardware","1120 Sunset Dr","50211",41.479334,-93.676968
+"50211","Norwalk","IA","Norwalk Hardware","730 Main St","50211",41.47513747,-93.67914642
+"50213","Osceola","IA","Highway Lumber","820 Warren Ave","50213",41.025688,-93.789874
+"50213","Osceola","IA","Gilbert True Value Home Center Osceola","1012 Jeffrey Dr","50213",41.03406,-93.76572
+"50219","Pella","IA","Kooyman Lumber","not_available","50219",41.396918,-92.90791
+"50219","Pella","IA","STRAVERS TRUE VALUE HARDWARE","818 Main St","50219",41.40732192993164,-92.91596221923828
+"50219","Pella","IA","Lampert Lumber - Pella","221 South St","50219",41.3969912,-92.9077428
+"50220","Perry","IA","Stokely Lumber Co.","not_available","50220",41.838005170161956,-94.07522755585907
+"50220","Perry","IA","Perry Paint & Glass Co","1216 2nd St","50220",41.84013,-94.10478
+"50220","Perry","IA","Harland Ace Hardware","628 1st Ave","50220",41.833499,-94.106076
+"50230","Radcliffe","IA","ร้านคนทำสวน","147/3 บ้านแหวน อ.หางดง","50230",42.312098,-93.424607
+"50240","Saint Charles","IA","Fickes Home Center","114 S Lumber St","50240",41.287750244140625,-93.8077392578125
+"50248","Story City","IA","Story City Building Products","220 W Broad St","50248",42.186578000000004,-93.60534399999999
+"50248","Story City","IA","STORY CITY TRUE VALUE","614-616 Broad St","50248",42.18690490722656,-93.5951919555664
+"50250","Stuart","IA","Stuart True Value Hardware & Lumber","112 N Division St","50250",41.50418119,-94.318423
+"50258","Union","IA","Hardware","Center & Union","50258",42.24251,-93.06349
+"50263","Waukee","IA","Sherwin-Williams Paint Store","140 Hickman Rd","50263",41.614410102788604,-93.87680260414893
+"50263","Waukee","IA","Almost Anything","not_available","50323",41.631962,-93.81335
+"50263","Waukee","IA","Gilcrest Jewett Lumber Company","1100 SE Alices Rd","50263",41.602881,-93.85471
+"50263","Waukee","IA","Water Concepts Gallery","920 SE Frontier Ave","50263",41.60415267944336,-93.85555267333984
+"50263","Waukee","IA","Fastenal Co.","780 SE Alices Rd","50263",41.60564441915826,-93.85335029751646
+"50265","West Des Moines","IA","Lowe's","1700 50th Street","50266",41.5973028,-93.7733641
+"50265","West Des Moines","IA","The Home Depot","3700 University Ave","50266",41.5979814,-93.7564014
+"50265","West Des Moines","IA","True Value Hardware","100 Grand Ave","50265",41.58240965749505,-93.70415446161341
+"50265","West Des Moines","IA","Cappel's Ace Hardware","5003 EP True Pkwy Ste 175","50265",41.57284,-93.77235
+"50265","West Des Moines","IA","Sherwin-Williams Paint Store","830 Grand Ave","50265",41.5822465560789,-93.7139743566513
+"50265","West Des Moines","IA","Diamond Vogel Paint","105 SW 63rd St","50312",41.577938,-93.702688
+"50265","West Des Moines","IA","Tony Lisac Construction","601 S 19th St","50265",41.559095,-93.73343299999999
+"50265","West Des Moines","IA","PPG Paint","not_available","50265",41.58831,-93.713609
+"50265","West Des Moines","IA","lowes","not_available","50317",41.59701785180624,-93.73223073474357
+"50265","West Des Moines","IA","Iowa Lumber and Construction","104 1st St","50265",41.569666999999995,-93.703852
+"50265","West Des Moines","IA","Kleusner Welding","512 Elm St","50265",41.57235,-93.709856
+"50265","West Des Moines","IA","Glidden Professional","1220 8th St","50265",41.588356,-93.71409
+"50265","West Des Moines","IA","Clive Power Equipment","7600 University Ave","50325",41.599875,-93.721558
+"50266","West Des Moines","IA","Lowe's","450 S Jordan Creek Pkwy","50266",41.5624072,-93.808213
+"50266","West Des Moines","IA","Vacuums","not_available","50266",41.585049,-93.789318
+"50273","Winterset","IA","Breeding True Value Hardware","1317 N John Wayne Dr","50273",41.34614944458008,-94.01242065429688
+"50309","Des Moines","IA","Stitzell Electric Supply Co., Inc.","107 12th St","50309",41.582785,-93.63100899999999
+"50309","Des Moines","IA","Lumbermans Wholesale","1350 Tuttle St","50309",41.577718,-93.633803
+"50309","Des Moines","IA","United Refridgeration Inc.","927 8th St","50309",41.594305,-93.627703
+"50309","Des Moines","IA","Sherwin-Williams Commercial Paint Store","515 16th St","50309",41.585675,-93.637951
+"50310","Des Moines","IA","Miller's Hardware","1300 MLK Pkwy.","50314",41.60242713736067,-93.64424424247692
+"50310","Des Moines","IA","Northern Tool And Equipment","Merle Hay Road","50310",41.64094522972334,-93.6956647592325
+"50310","Des Moines","IA","O'Donnell Ace Hardware","2727 Beaver Ave","50310",41.619751,-93.67297
+"50310","Des Moines","IA","Beaver Ave Storm Drain","2816 Beaver Ave","50310",41.62104034423828,-93.67401885986328
+"50310","Des Moines","IA","Windsor Vacuum","5739 University Ave","50311",41.6006513,-93.6974078
+"50310","Des Moines","IA","United Machine & Tool","2725 Martin Luther King Jr Pkwy","50310",41.619741,-93.647403
+"50310","Des Moines","IA","Sherwin-Williams Paint Store","5408 Douglas Ave","50310",41.629073,-93.692962
+"50310","Des Moines","IA","O'Donnell Ace Hardware","5715 Hickman Rd","50310",41.6146889,-93.696421
+"50311","Des Moines","IA","O'Donnell Ace Hardware","4808 University Ave","50311",41.6002,-93.6829
+"50311","Des Moines","IA","Ballard Glass","1139 24th St","50311",41.599238,-93.64926899999999
+"50312","Des Moines","IA","G. A. Larson Co. - Des Moines","2510 Bell Ave","50321",41.562121000000005,-93.65202099999999
+"50312","Des Moines","IA","Mid-State Distributing Company","2600 Bell Ave","50321",41.562181,-93.65256
+"50312","Des Moines","IA","Stetson Building Products","2205 Bell Ave","50321",41.563613000000004,-93.648402
+"50313","Des Moines","IA","Park Fair Ace Hardware","100 E Euclid Ste 11","50313",41.6292419,-93.618566
+"50313","Des Moines","IA","Airgas","not_available","50316",41.617114,-93.58813599999999
+"50313","Des Moines","IA","Sherwin-Williams Automotive Finishes","1800 El Sheridan Ave","50316",41.61821,-93.587226
+"50313","Des Moines","IA","Iowa Landscape Supply","4041 E 16th St","50313",41.634512324439754,-93.59529257230247
+"50313","Des Moines","IA","Wayne Dennis Supply","319 New York Ave","50313",41.620602000000005,-93.62201800000001
+"50313","Des Moines","IA","Mc Donald Supply","2170 NE Broadway Ave","50313",41.64478,-93.582061
+"50313","Des Moines","IA","Infinite Season","1501 NE Broadway Ave","50313",41.6434992,-93.59691219999999
+"50313","Des Moines","IA","Highland Hardware","6th Ave","50313",41.62824901103891,-93.62481543421289
+"50313","Des Moines","IA","Walcro Floor Supply","1823 Jefferson Ave","not_available",41.610609000000004,-93.61675100000001
+"50313","Des Moines","IA","Iowa Fastener","2302 SE Creekview Dr, Suite 2","50021-8952",41.634754,-93.59506800000001
+"50313","Des Moines","IA","Gannon Wholesale Supply","4825 NW 6th Dr","50313",41.64796,-93.62696
+"50314","Des Moines","IA","dickman supply & insulation","1822E.18th ST.","50316",41.596797035939325,-93.6113402930431
+"50314","Des Moines","IA","WALCRO Flooring Supply","Ohio street","50314",41.60580985232568,-93.61717709883963
+"50314","Des Moines","IA","Praxair Inc","1700 2nd Ave","50314",41.608894,-93.62043100000001
+"50314","Des Moines","IA","HD Supply White Cap","1631 2nd Ave","50314",41.60889607,-93.61887006
+"50315","Des Moines","IA","The Home Depot","4900 SE 14th St","50320",41.53882762188317,-93.60001802444458
+"50315","Des Moines","IA","Menards","6000 SE 14th St","50320",41.53104956117678,-93.59962831742884
+"50315","Des Moines","IA","Harbor Freight Tools","1010 E Army Post Rd","50315",41.52751436798413,-93.60244323277358
+"50315","Des Moines","IA","paint pump pros","3410 SW 9th St","50315",41.553613,-93.626242
+"50315","Des Moines","IA","Iowa lock","not_available","50315",41.526568656742725,-93.62885274314819
+"50315","Des Moines","IA","Sherwin-Williams Paint Store","1040 E Army Post Rd","50315",41.527601000000004,-93.602407
+"50317","Des Moines","IA","Porter Hardware","4209 Hubbell Ave","50317",41.63581923762454,-93.53126225133983
+"50317","Des Moines","IA","Fairground Hardware","2951 E Walnut St","50317",41.593311,-93.558565
+"50317","Des Moines","IA","All Parts Rickets","1414 Maury St","50317",41.581506,-93.595917
+"50322","Urbandale","IA","Sherwin-Williams Paint Store","1985 NW 94th St","50325",41.611152000000004,-93.746617
+"50322","Urbandale","IA","Ferguson Bath, Kitchen & Lighting Gallery","2134 Nw 108th St","50325",41.612142999999996,-93.76642
+"50322","Urbandale","IA","Woodsmith Store","10320 Hickman Rd","50325",41.614753,-93.759906
+"50322","Urbandale","IA","Bruce Engine","1829 NW 86th St","50325",41.608639000000004,-93.73578499999999
+"50322","Urbandale","IA","Reams Irrigation","10052 Justin Dr Ste J","50322",41.61988067626953,-93.75688934326172
+"50322","Urbandale","IA","Strata-tech Inc","3601 104th St","50322",41.628046999999995,-93.760147
+"50322","Urbandale","IA","Builders FirstSource Design Showroom","3950 NW Urbandale Dr","50322",41.632152000000005,-93.75788299999999
+"50322","Urbandale","IA","Rand's Hardware","not_available","03245",41.618012,-93.726723
+"50322","Urbandale","IA","Great American Outdoor","10100 Dennis Dr","50322",41.627217,-93.756606
+"50322","Urbandale","IA","bath fitters","not_available","50322",41.625484,-93.767874
+"50324","Windsor Heights","IA","A to Z Rental Centers","1220 73rd St","50324",41.600978000000005,-93.718522
+"50325","Clive","IA","Menards","12000 Hickman Rd","50325",41.61347291665716,-93.78372714717295
+"50325","Clive","IA","mernards","not_available","50325",41.61317801711157,-93.78044550829406
+"50401","Mason City","IA","Menards","540 Village Green Dr SW","50401",43.1473,-93.2502
+"50401","Mason City","IA","The Basic Birder Wild Bird Supply","707 1st St SW","50401",43.150655,-93.21170599999999
+"50401","Mason City","IA","Home Lumber","716 S Jefferson Ave","50401",43.14411594842417,-93.20620790670472
+"50401","Mason City","IA","Builders FirstSource","516 2nd NW","50401",43.153999114758975,-93.2094998255132
+"50401","Mason City","IA","Tractor Supply Co.","1905 4th St","50401",43.147257,-93.230385
+"50401","Mason City","IA","Kramer Hardware","440 S Illinois Ave","50401",43.147445522305794,-93.17162303149067
+"50401","Mason City","IA","Sears","507 4th Street SW","50401",43.1479629139549,-93.20952594280243
+"50401","Mason City","IA","Sherwin-Williams Paint Store","116 5th St SW","50401",43.147747653146304,-93.20311546325682
+"50401","Mason City","IA","minuteKEY","4151 4th St SW","50401",43.1455529,-93.2620442
+"50401","Mason City","IA","Harbor Freight","not_available","50401",43.149167,-93.231084
+"50401","Mason City","IA","Diamond Vogel Paints","1025 S Federal Ave","50401",43.14085020195883,-93.20107668558335
+"50421","Belmond","IA","True Value Farm & Home Center","416 River Ave N","50421",42.849701,-93.6161065
+"50423","Britt","IA","Britt Lumber","not_available","50423",43.09839,-93.80033
+"50424","Buffalo Center","IA","Runtime Data","102 N Main St","50424",43.38233209197832,-93.94631021730761
+"50428","Clear Lake","IA","Kramer Hardware","580 US Highway 18 E","50428",43.142659,-93.397205
+"50428","Clear Lake","IA","Woodford Lumber","N. 4th St","50428",43.138802965628116,-93.38279730019096
+"50435","Floyd","IA","FarmChem Corp - Main Office","616 Madison","50434",43.12849044799805,-92.73795318603516
+"50436","Forest City","IA","Hansen's Hardware","not_available","50436",43.25900546855195,-93.6386900916998
+"50436","Forest City","IA","Bomgaars","305 Highway 69 N","50436",43.26494598388672,-93.6306381225586
+"50438","Garner","IA","Husqvarna US","PO Box 126","50438",43.11431884765625,-93.55374145507812
+"50438","Garner","IA","Doug's Small Engine Sales & Service","400 W US Highway 18","50438",43.1058978,-93.6082192
+"50438","Garner","IA","Smith's Best Hardware","376 State St","50438",43.10219077433453,-93.60243799653186
+"50438","Garner","IA","Ace Hardware","150 W US Highway 18","50438",43.10616683959961,-93.60260009765625
+"50441","Hampton","IA","Hampton Hardware","not_available","50441",42.74163021496345,-93.21285084461323
+"50441","Hampton","IA","Hampton Hardware","416 Central Ave W","50441",42.74173,-93.2125273015873
+"50450","Lake Mills","IA","Singelstad's Hardware","not_available","50450",43.420212757263116,-93.53342465353897
+"50459","Northwood","IA","Kelly Hardware","96 10th St N","50459",43.44475555419922,-93.21870422363281
+"50459","Northwood","IA","Northwood True Value","96 Tenth St N","50459",43.444704,-93.218751
+"50461","Osage","IA","Demaris Harware","309 W 4th St","50472",43.378780364990234,-92.92190551757812
+"50461","Osage","IA","Hardware Hank","not_available","50461",43.28370713699348,-92.79587024548455
+"50466","Riceville","IA","Riceville True Value","112 Woodland Ave","50466",43.36369735,-92.55419122
+"50469","Rockwell","IA","ROCKWELL AREA MARKET","202 4th St N","50469",42.98631286621094,-93.18785095214844
+"50501","Fort Dodge","IA","Menards","3319 5th Ave S","50501",42.499735719071474,-94.14499554979241
+"50501","Fort Dodge","IA","Rosalez Lock And Key","not_available","50501",42.503048,-94.175222
+"50501","Fort Dodge","IA","Sears","217 S. 25th Street, Suite A02","50501",42.5032534,-94.1606652
+"50501","Fort Dodge","IA","minuteKEY","3036 1st Ave S","50501",42.50653839111328,-94.1539077758789
+"50501","Fort Dodge","IA","Sherwin-Williams Paint Store","2606 1st Ave S","50501",42.505760192871094,-94.16140747070312
+"50501","Fort Dodge","IA","Husqvarna US","621 1st Ave N","50501",42.50564193725586,-94.18923950195312
+"50501","Fort Dodge","IA","Shoppers Supply Inc.","3112 5th Ave S","50501",42.50247573852539,-94.15152740478516
+"50501","Fort Dodge","IA","Rojohn Home Improvement","429 1st Ave S","50501",42.5033236,-94.192046
+"50501","Fort Dodge","IA","Ferguson","2025 First Ave N","50501",42.501346323618314,-94.17012659647457
+"50511","Algona","IA","Builders FirstSource","219 S Phillips St","50511",43.067291259765625,-94.22653198242188
+"50533","Eagle Grove","IA","Eagle Building","not_available","50533",42.663971,-93.899845
+"50536","Emmetsburg","IA","Midwest True Value","204 E Patterson St","51342",43.23449122,-94.74945673
+"50536","Emmetsburg","IA","WENTZELS TRUE VALUE FARM&HOME HDW.","1301 Main St","50536",43.1128044128418,-94.66842651367188
+"50536","Emmetsburg","IA","Hardware Hank","not_available","50536",43.107171,-94.67945
+"50542","Goldfield","IA","Boone Valley Implement Inc.","301 McCurry St.","50577",42.82991521060467,-93.97605702280998
+"50543","Gowrie","IA","Engquist Lumber","not_available","50544",42.262328170859156,-94.17574719835402
+"50548","Humboldt","IA","Bomgaars","503 13tg St N","50548",42.72651012346359,-94.22648981817342
+"50563","Manson","IA","swanson hardware","not_available","50563",42.52949523925781,-94.53431701660156
+"50574","Pocahontas","IA","True Value Farm & Home Store","224 Front Ave","50574",42.73293515,-94.66227353
+"50574","Pocahontas","IA","Seiler Appliance Service","317 N Main St","50574",42.735932978366996,-94.66921285901869
+"50579","Rockwell City","IA","Swanson Hardware","620 High St","50579",42.4027899195397,-94.63469651715658
+"50583","Sac City","IA","BOMGAARS","not_available","50583",42.42155075073242,-94.96513366699219
+"50583","Sac City","IA","Boyington'S Hardware","516 W Main St","50583",42.422401428222656,-94.99049377441406
+"50588","Storm Lake","IA","Builders FirstSource","206 Salebarn Rd","50588",42.6612472823863,-95.19946217536926
+"50588","Storm Lake","IA","Storm Lake Ace Hardware","1405 Lake Ave","50588",42.567002,-95.200512
+"50595","Webster City","IA","Lampert Lumber - Webster City","2010 W 2nd St","50595",42.4711088,-93.85358389999999
+"50595","Webster City","IA","Webster City True Value","541 Second St","50595",42.46971893310547,-93.81891632080078
+"50598","Whittemore","IA","Schmitt Hardware","401 Broad St","50598",43.063369735115884,-94.42227602005005
+"50601","Ackley","IA","Ackley Super Foods","526 Main St","50601",42.55401669,-93.0558545
+"50604","Aplington","IA","Harken Lumber","not_available","50604",42.584182,-92.882471
+"50613","Cedar Falls","IA","Menards","1125 Brandilynn Blvd","50613",42.486533957172966,-92.4325234312736
+"50613","Cedar Falls","IA","Lowe's","400 East Tower Park Drive","50701",42.455306,-92.3496114
+"50613","Cedar Falls","IA","Sherwin-Williams Paint Store","5212 University Ave","50613",42.50980598669434,-92.42001235485077
+"50613","Cedar Falls","IA","Ferguson","920 S Hackett Rd","50701",42.499700990598555,-92.39684676570697
+"50613","Cedar Falls","IA","Polk's Lock Service, Inc.","1504 College St","50613",42.524760313483526,-92.45551000908911
+"50613","Cedar Falls","IA","Ben Franklin","2206 Kimball Ave","50702",42.47060012817383,-92.35760498046875
+"50613","Cedar Falls","IA","O'Donnell Ace Hardware","703 E 18th St","50613",42.5214849,-92.437387
+"50613","Cedar Falls","IA","Plumb Supply","3124-3740 W Airline Hwy","50703",42.542765981394524,-92.40318872831946
+"50613","Cedar Falls","IA","Johnstone Supply","not_available","50701",42.492130279541016,-92.3390121459961
+"50613","Cedar Falls","IA","Barnes Building Materials","not_available","50613",42.518263,-92.44465
+"50613","Cedar Falls","IA","Altorfer CAT - Cedar Falls, IA","5420 Nordic Dr","50613",42.4899288,-92.4512594
+"50613","Cedar Falls","IA","Husqvarna US","2607 Center St","50613",42.55973434448242,-92.45417022705078
+"50613","Cedar Falls","IA","Brent Mabon Plumbing Excellence L.L.C.","4407 Cherrywood Dr","50613",42.53105,-92.49928
+"50613","Cedar Falls","IA","Fastenal","1122 Nordic Dr","50613",42.47341514562454,-92.44706150537014
+"50613","Cedar Falls","IA","Higby Co.","3315 W 1st St","50613",42.543124507295836,-92.48618276639596
+"50613","Cedar Falls","IA","Tractor Supply Co.","4040 University Ave","50701",42.506006,-92.405773
+"50613","Cedar Falls","IA","Builders FirstSource","2015 W Ridgeway Ave","50701",42.468048095703125,-92.3974609375
+"50613","Cedar Falls","IA","Wayne Dennis Supply Co.","721 Ansborough Ave","50701",42.502363,-92.376829
+"50616","Charles City","IA","Theisen's","803 Kelly St","50616",43.067638,-92.67618
+"50616","Charles City","IA","Sherwin-Williams Paint Store","210 N Main St","50616",43.06763371800126,-92.67817497253418
+"50616","Charles City","IA","Schueth Ace Hardware","300 Gilbert St","50616",43.0625,-92.6755
+"50619","Clarksville","IA","Doug's Heating & Cooling","420 W Weare St","50619",42.78311794,-92.67172268
+"50619","Clarksville","IA","Clarksville Lumber","208 N Main St","50619",42.785583403652886,-92.66751858549259
+"50621","Conrad","IA","Woosley Const. Shop","Iowa 14, Conrad, IA 50621","50621",42.23509962,-92.89856886
+"50622","Denver","IA","Doc's Knife Works","127 E Main St","50622",42.672901,-92.336182
+"50627","Eldora","IA","Creasion Store","1514 Edgington Ave","50627",42.360875,-93.10289799999998
+"50627","Eldora","IA","Kosanke Hardware","1366 Washington St","50627",42.35997772216797,-93.09988403320312
+"50630","Fredericksburg","IA","Hardware Hub","107 W Main St","50630",42.96544,-92.19943
+"50630","Fredericksburg","IA","New Horizons Flowerpots/ Xout LLC","200 Falcon Dr","50630",42.963199615478516,-92.18406677246094
+"50635","Gladbrook","IA","Iowa Builders Supply","not_available","50635",42.18735669629468,-92.71254062927704
+"50636","Greene","IA","Maxson Frudden Lumber","301-399 E Traer St","50636",42.898232,-92.795889
+"50636","Greene","IA","Landers Hardware","308 E Traer St","50636",42.89699935913086,-92.79943084716797
+"50636","Greene","IA","Ross plumbing & Heating","not_available","50636",42.894774407828,-92.80396467004037
+"50644","Independence","IA","Norby's Farm Fleet","not_available","50644",42.454685,-91.88875300000001
+"50644","Independence","IA","Vern's True Value","901 3rd Ave. S.E.","50644",42.460309,-91.891982
+"50648","Jesup","IA","B & B Farm Store","1134 220th St., Box 546","50648",42.467707,-92.053338
+"50648","Jesup","IA","Christopherson Hydraulics, LLC.","1350 12th St","50648",42.4684902,-92.0552766
+"50648","Jesup","IA","Primrose Heating & Air Conditioning","725 5th St","50648",42.475894927978516,-92.06473541259766
+"50651","La Porte City","IA","Urb's Do it Best Hardware","not_available","50651",42.314976318321676,-92.19147854203223
+"50659","New Hampton","IA","Schueth Ace Hardware","6 W Main St","50659",43.059274,-92.315477
+"50659","New Hampton","IA","Theisen's","413 W Milwaukee St","50659",43.067238,-92.322085
+"50659","New Hampton","IA","Five Star Cooperative True Value","1949 N Linn Ave","50659",43.07592010498047,-92.31879425048828
+"50659","New Hampton","IA","Builders FirstSource Truss, Floor & Wall Systems","714 W Milwaukee","50659",43.066862166790095,-92.32441775500774
+"50659","New Hampton","IA","Husqvarna US","102 N Walnut Ave","50659",43.060367584228516,-92.31694030761719
+"50662","Oelwein","IA","Oelwein Hardware","20 N Frederick Ave","50662",42.678735,-91.913458
+"50662","Oelwein","IA","Lumber Ridge Home Source","829 1st Ave Se","50662",42.6677271428571,-91.9121714285714
+"50662","Oelwein","IA","BEST-WAY TRUE VALUE BUILDING CENTER","829 1st Ave SE","50662",42.667724609375,-91.91207122802734
+"50666","Plainfield","IA","Weitzenkamp Home Improvement","413 Jefferson St","50666",42.8423331,-92.534644
+"50667","Raymond","IA","Foundation Building Materials","198 Plaza Drive","50707",42.46587245,-92.24310008
+"50669","Reinbeck","IA","Moeller & Walter","101 Blackhawk St","50669",42.32597351074219,-92.6006088256836
+"50674","Sumner","IA","YUNGTUM TRUE VALUE","112 W 1st St","50674",42.84773254394531,-92.09856414794922
+"50677","Waverly","IA","Fastenal Company","700 Technology Pl","50677",42.70188774279921,-92.48763234032693
+"50677","Waverly","IA","Miller True Value","1201 4th St Sw","50677",42.713570626682774,-92.47406691694033
+"50677","Waverly","IA","Norby's Farm Fleet","1901 4th St SW","50677",42.70591167160869,-92.4744596897338
+"50701","Waterloo","IA","Menards","1051 E San Marnan Dr","50702",42.459674118951426,-92.33592928478002
+"50701","Waterloo","IA","The Home Depot","1050 Southtown Drive","50702",42.45398784375474,-92.33497023582458
+"50701","Waterloo","IA","Denny Staebell Home Improvement","6031 Laporte Rd","50702",42.427594,-92.2816
+"50701","Waterloo","IA","minuteKEY","1334 Flammang Dr","50702",42.458824157714844,-92.33052825927734
+"50701","Waterloo","IA","Black Hawk Rental","324 W 15th St","50702",42.48598739901028,-92.32946862735916
+"50701","Waterloo","IA","Harbor Freight Tools","2039 Crossroads Blvd","50702",42.465925,-92.320298
+"50701","Waterloo","IA","The Shack Of Boredom","not_available","50702",42.454591,-92.335698
+"50701","Waterloo","IA","Spellers True Value","1027 E 4th St","50703",42.50634002685547,-92.33309936523438
+"50701","Waterloo","IA","Sherwin-Williams Paint Store","1411 E San Marnan Dr","50702",42.46376616396469,-92.32726837374892
+"50801","Creston","IA","Bomgaar’s","408 S Sumner Ave","50801",41.05269241333008,-94.37295532226562
+"50801","Creston","IA","Tractor Supply Co.","612 New York Ave","50801",41.04942033,-94.37658459
+"50801","Creston","IA","Husqvarna US","1703 180th St","50801",41.04924774169922,-94.33583068847656
+"50801","Creston","IA","Creston Farm & Home","408 S Sumner Avenue","50801",41.05269241333008,-94.37295532226562
+"50801","Creston","IA","Creston True Value Hardware","801 W Townline","50801",41.07157759,-94.37264052
+"50801","Creston","IA","Service Techs, Inc.","1401 US Hwy 34W","50801",41.0360123,-94.394741
+"50833","Bedford","IA","TLT Tool Company","1817 285th St","50833",40.641029357910156,-94.78314208984375
+"50833","Bedford","IA","Bedford Building Supply","Main Street","50833",40.667274475097656,-94.72000122070312
+"50841","Corning","IA","Vogel & Thomas Hardware","702 Davis Ave","50841",40.9890291836735,-94.7344195918367
+"50846","Fontanelle","IA","Fontanelle Farmers Lumberyard","2-68 Washington St","50846",41.28947557,-94.56801099
+"50849","Greenfield","IA","Greenfield True Value","506 Se 6th","50849",41.3005363,-94.45368563
+"50854","Mount Ayr","IA","nick taylor construction","not_available","50854",40.712676931823346,-94.2392356866698
+"51003","Alton","IA","Husqvarna US","1106 8th St SE","51041",42.996822357177734,-96.04292297363281
+"51003","Alton","IA","Kopetsky's Ace Hardware","510 8th St SE","51041",42.997503,-96.052445
+"51012","Cherokee","IA","Modern Heating & Cooling","109 Sioux St","51012",42.74898910522461,-95.54685974121094
+"51023","Hawarden","IA","Bongaars","not_available","51023",42.9828567106035,-96.48828115077688
+"51026","Hornick","IA","Nutrien Ag Solutions","810 Highway K45","51063",42.128170013427734,-96.15037536621094
+"51028","Kingsley","IA","Clark's Hardware","not_available","51028",42.58699233676317,-95.9681684865335
+"51030","Lawton","IA","Anderson Heating And Cooling","1779 110th St","51108",42.550232,-96.25609
+"51031","Le Mars","IA","Fastenal","345 5th Ave NW","51031",42.797210693359375,-96.17410278320312
+"51031","Le Mars","IA","Hardware Hank","23 1st Ave SW","51031",42.79246503150981,-96.16799414492107
+"51031","Le Mars","IA","Tool Depot","2121 Lincoln Ave SW","51031",42.76668167114258,-96.19572448730469
+"51031","Le Mars","IA","Bomgaars","1001 Hawkeye Ave SW","51031",42.78176571923868,-96.1828204978459
+"51031","Le Mars","IA","Sherwin-Williams Paint Store","33 Plymouth St NW","51031",42.7932986191026,-96.167653799057
+"51031","Le Mars","IA","Iml","not_available","51031",42.7637902127005,-96.19396356705451
+"51035","Marcus","IA","Marcus Lumber","not_available","51035",42.82583999633789,-95.80616760253906
+"51040","Onawa","IA","Bomgaars","2120 Iowa Ave","51040",42.02757047844192,-96.11470056637589
+"51040","Onawa","IA","Global Glass & Glazing LLC","802 10th Street","51040",42.0292395,-96.0977421
+"51040","Onawa","IA","Berry Lumber","10 Th St","51040",42.029938148774484,-96.09731542523429
+"51040","Onawa","IA","Bomgaars","Iowa","51523",42.03624087616366,-96.13507228481744
+"51046","Paullina","IA","Paullina Hardware","104 E Broadway St","51046",42.97917,-95.68624
+"51050","Remsen","IA","Remsen Lumber Yard","23 S Washington St","51050",42.81609344482422,-95.97293090820312
+"51050","Remsen","IA","Remsen hardware","not_available","51050",42.81513986037662,-95.97327953977737
+"51054","Sergeant Bluff","IA","Campbell Supply Company","2650 Bridgeport Dr","51111",42.41974833552695,-96.36777319988545
+"51054","Sergeant Bluff","IA","Solid Fabrications Inc","2515 Murray St","51111",42.428279876708984,-96.37806701660156
+"51055","Sloan","IA","Lakeport Heating & Cooling","not_available","51055",42.24435043334961,-96.286865234375
+"51101","Sioux City","IA","The Home Depot","415 Cunningham Dr","51106",42.48682637994,-96.3879886893119
+"51101","Sioux City","IA","Siouxland Lock And Key","not_available","51103",42.4994332726362,-96.41058248414552
+"51101","Sioux City","IA","Sioux City Iron","310 S Floyd Blvd","not_available",42.48781967163086,-96.39274597167969
+"51101","Sioux City","IA","Sioux Sales Company","714 Jackson St","51105",42.49822235107422,-96.40159606933594
+"51101","Sioux City","IA","Carroll Distributing And Construction Supply","1717 3rd St","51101",42.49346118072607,-96.38822299714212
+"51101","Sioux City","IA","Rogers Electric","701 Jackson St","51105",42.49776840209961,-96.4024429321289
+"51101","Sioux City","IA","Overhead Door Of Sioux City","2500 Dace Ave, Sioux City, IA 51106","51106",42.488254,-96.377282
+"51101","Sioux City","IA","Briggs","not_available","51105",42.50163877414419,-96.37948619405097
+"51101","Sioux City","IA","Stan Houston Equipment Company","412 Lewis Blvd","51101",42.494924,-96.377732
+"51101","Sioux City","IA","WJ Company Inc.","1901 4th St","51101",42.494282868833814,-96.38586759567261
+"51101","Sioux City","IA","Pro Builders","not_available","51101",42.494019,-96.380675
+"51101","Sioux City","IA","Tool Depot","1150 Dace Ave","51106",42.4884241577458,-96.3907855383573
+"51101","Sioux City","IA","Builders FirstSource","2210 E 4th St","51101",42.49406452891974,-96.40082895755768
+"51101","Sioux City","IA","Linweld","not_available","51106",42.487890079069516,-96.38007865740292
+"51101","Sioux City","IA","All-Pro Fasteners, Inc.","1318 11th St Ste A","51105",42.50190846413327,-96.39277696609497
+"51103","Sioux City","IA","Sioux City Paint & Decorating","1625 Hamilton Blvd","51103",42.5081497195398,-96.41698871372067
+"51103","Sioux City","IA","Sherwin-Williams Paint Store","1000 W 8th St","51103",42.504785999999996,-96.41955
+"51103","Sioux City","IA","Wilmes Hardware Store","1432-1498 38th St","51104",42.53423242328147,-96.39167439554988
+"51103","Sioux City","IA","Tractor Supply Company","1121 Zenith Dr","51103",42.492917999999996,-96.42160799999999
+"51103","Sioux City","IA","Farrells Heating And Cooling","405 W 6th St","51103",42.499752044677734,-96.41313171386719
+"51105","Sioux City","IA","Grainger Industrial Supply","2500 Old Highway 75, Sergeant Bluff, IA 51054","51054",42.4877028955078,-96.36923330731477
+"51105","Sioux City","IA","Handy  Man","3460 Gordon Dr","51105",42.48630092172286,-96.36271245035945
+"51106","Sioux City","IA","Lowe's","5758 Sunnybrook Drive","51106",42.4505025,-96.3311543
+"51106","Sioux City","IA","Menards","5900 Gordon Dr","51106",42.474602468247966,-96.33223302670974
+"51106","Sioux City","IA","Inside Lawn And Garden/seasonal @ Lowes","5758","51106",42.45007105265432,-96.33119849199261
+"51106","Sioux City","IA","Sherwin-Williams Paint Store","5725 Sunnybrook Dr","51106",42.452016,-96.333238
+"51106","Sioux City","IA","Harbor Freight Tools","4271 Sergeant Rd","51106",42.45027382143854,-96.35331218056832
+"51106","Sioux City","IA","Bomgaars","Gordon Dr.","51106",42.47694125048623,-96.3286293610036
+"51106","Sioux City","IA","minuteKEY","5758 Sunnybrook Dr","51106",42.45058822631836,-96.33063507080078
+"51109","Sioux City","IA","R-Guarantee Insulation Inc","1150 S Derby Ln","57049",42.513712,-96.494274
+"51201","Sheldon","IA","Bomgaars","600-628 2nd Ave","51201",43.184629719429914,-95.85498947123925
+"51201","Sheldon","IA","Downtown Hardware","816 3rd Ave, Sheldon, IA 51201","51201",43.181506177105916,-95.85459270794375
+"51232","Ashton","IA","Corbett Plumbing & Trustworthy Hardware","538 5th St","51232",43.313525,-95.79288167
+"51237","George","IA","Lichtenberg Hardware","not_available","51237",43.3433970097138,-95.99711099176919
+"51239","Hull","IA","hardware Hank","not_available","51239",43.18854904174805,-96.16716766357422
+"51240","Inwood","IA","Todd's True Value","312 S Main St","51240",43.30716755,-96.43191857
+"51241","Larchwood","IA","LARCHWOOD LUMBER & TRUE VALUE HARDWARE","100 Broadway St","51241",43.45186233520508,-96.43439483642578
+"51245","Primghar","IA","Shea True Value Hardware","115 S Green Ave","51245",43.08635,-95.6284
+"51246","Rock Rapids","IA","Rock Rapids Ace Hdw","209 1st Ave","51246",43.4318,-96.167199
+"51247","Rock Valley","IA","M & H True Value Hardware","1126 Main St","51247",43.20183005,-96.29475937
+"51248","Sanborn","IA","Sanborn Hardware","610 Profit St","51248",43.18514633178711,-95.6395034790039
+"51249","Sibley","IA","Sibley Hardware","931 2nd Ave","51249",43.398969,-95.751993
+"51250","Sioux Center","IA","How-To Store","317 3rd St NW","51250",43.078633,-96.181057
+"51250","Sioux Center","IA","YMKER Insulation","2722 390th St","51250",43.08487319946289,-96.25001525878906
+"51250","Sioux Center","IA","Bomgaars","815 N Main Ave","51250",43.08589,-96.17678199999999
+"51301","Spencer","IA","Menards","1301 12th Ave SW","51301",43.12473991357158,-95.16360837604878
+"51301","Spencer","IA","Sears","915 13th Street SW","51301",43.1254441,-95.1589279
+"51301","Spencer","IA","Menards","not_available","51301",43.13929849255141,-95.15980109952768
+"51301","Spencer","IA","Bomgaars","900 11th St SW","51301",43.12590031015467,-95.15736967414762
+"51301","Spencer","IA","Sherwin-Williams Paint Store","704 Grand Ave","51301",43.144041,-95.144525
+"51334","Estherville","IA","Stalls True Value Farm & Home","1731 Central Ave","51334",43.4027,-94.819763
+"51334","Estherville","IA","Ace Hardware","409 Central Ave","51334",43.402563,-94.838902
+"51347","Lake Park","IA","Jaycox Implement","403 S Market St","51347",43.450680017760796,-95.32290954232786
+"51351","Milford","IA","Bomgaars","not_available","51360",43.38081812190702,-95.13181845489518
+"51351","Milford","IA","True Value","916 Okoboji Ave","51351",43.33654268,-95.14993917
+"51355","Okoboji","IA","Ace Hardware","3401 Bergquist Ave","51360",43.410127,-95.126744
+"51360","Spirit Lake","IA","Bomgaars Building Center","S Junction U.S. 71 & 9","51360",43.419041451831184,-95.12586311229889
+"51360","Spirit Lake","IA","Benjamin Moore of Okoboji","1612 Jackson Ave","51360",43.423655,-95.105249
+"51401","Carroll","IA","Carroll Ace Hardware","853 Plaza Dr","51401",42.065292,-94.855339
+"51401","Carroll","IA","Drees Plumbing & Heating HVAC","609 N Carroll St","51401",42.0665032653061,-94.8700508163265
+"51401","Carroll","IA","Van Meter Inc.","18692 Highway 71","51401",42.08231481740405,-94.87814426422119
+"51401","Carroll","IA","All Pro Door Company","1011 E US Highway 30","51401",42.0642472,-94.8548223
+"51401","Carroll","IA","Fastenal","not_available","51401",42.067481994628906,-94.8558349609375
+"51401","Carroll","IA","Tiefenthalers True Value Home Center","110 E Main","51436",42.18155204,-94.97597061
+"51401","Carroll","IA","True Value Hardware And Home Store","221 W 6th","51401",42.065672,-94.86961099999999
+"51401","Carroll","IA","Sherwin-Williams Paint Store","1425 Plaza Dr","51401",42.065120697021484,-94.84465789794922
+"51401","Carroll","IA","Iowa Small Engine Center","306 N Carroll St","51401",42.0637718,-94.87103549999999
+"51401","Carroll","IA","Sears","1108 Heires Avenue","51401",42.0767735,-94.8794267
+"51401","Carroll","IA","Drees Plumbing & Heating HVAC","609 North Carroll Street","51401-2332",42.06721604530842,-94.87109451989024
+"51442","Denison","IA","Bomgaars","404 Arrowhead Dr","51442",42.02206039428711,-95.37278747558594
+"51442","Denison","IA","Rasmussen Lumber Company","S 15th","51442",42.012251,-95.351706
+"51442","Denison","IA","JB Construction","413","51454",41.89402,-95.232139
+"51442","Denison","IA","Husqvarna","405 Avenue C","51442",42.0229606628418,-95.36663818359375
+"51443","Glidden","IA","Alvin's Shop","not_available","51443",42.05584685544226,-94.7289780309603
+"51445","Ida Grove","IA","Malcom's Paint & Hardware","512 2nd St, Ida Grove, IA 51445","51445",42.34523913787688,-95.47258195851012
+"51449","Lake City","IA","Hardware Hanks","not_available","51449",42.267364501953125,-94.73323059082031
+"51449","Lake City","IA","Lake City Hardware & Gifts","109 E Main St","51449",42.2671012878418,-94.73326110839844
+"51450","Lake View","IA","Hallett Materials Boyer Pit","1208. South center","51466",42.258480974199486,-95.09155118393895
+"51501","Council Bluffs","IA","The Home Depot","3101 Manawa Centre Dr","51501",41.2305233,-95.845403
+"51501","Council Bluffs","IA","Menards","3200 Manawa Centre Dr","51501",41.227382036946175,-95.84840457051426
+"51501","Council Bluffs","IA","Harbor Freight","not_available","51501",41.229767,-95.84459
+"51501","Council Bluffs","IA","Sherwin-Williams Paint Store","3525 Metro Dr","51501",41.224415,-95.837896
+"51501","Council Bluffs","IA","Westlake Ace Hardware 041","721 W Broadway","51501",41.2612979,-95.853989
+"51501","Council Bluffs","IA","Airgas","3018 Nebraska Ave","51501",41.246002000000004,-95.893425
+"51501","Council Bluffs","IA","Hanusa Hardware & Rental","1274 E Pierce St","51503",41.271301,-95.828498
+"51501","Council Bluffs","IA","minuteKEY","1800 N 16th St","51501",41.27952575683594,-95.86906433105469
+"51501","Council Bluffs","IA","Carter lake hardware","not_available","51510",41.284218127277,-95.91813909425262
+"51501","Council Bluffs","IA","Tractor Supply Co.","329 Veterans Memorial Hwy","51501",41.218472,-95.849923
+"51501","Council Bluffs","IA","Able Locksmiths","24 S 7th St","51501",41.26072,-95.854124
+"51501","Council Bluffs","IA","PEOPLES TRUE VALUE HDW","2917 W Broadway","51501",41.26108169555664,-95.89173889160156
+"51503","Council Bluffs","IA","Bomgaars","2703 E Kanesville Blvd","51503",41.278132,-95.810197
+"51503","Council Bluffs","IA","True Value Hardware","1851 Madison Ave","51503",41.240699768066406,-95.82003021240234
+"51521","Avoca","IA","Menards","9 East St","51570",41.49470901489258,-95.44615936279297
+"51521","Avoca","IA","Avoca Building Materials Center","not_available","51521",41.489620208740234,-95.33927154541016
+"51521","Avoca","IA","Husqvarna","331 W High St","51521",41.47634506225586,-95.34060668945312
+"51526","Crescent","IA","G.M.S Werks","4225 Florence Blvd","68110",41.298001,-95.941765
+"51529","Dunlap","IA","Oppold Lumber","not_available","51529",41.8539924621582,-95.60392761230469
+"51534","Glenwood","IA","Pitzer  John Sales","59364 Hilman Rd","51534",41.026512,-95.762774
+"51536","Hancock","IA","Applegate Electric, LLC","22087 390th St","51560",41.333277,-95.44136400000001
+"51537","Harlan","IA","Chamberlain Lumber","not_available","51537",41.6368408203125,-95.3266372680664
+"51537","Harlan","IA","Do It Best Hardware","1810 Chatburn Plz","51537",41.646674481170095,-95.33470198580818
+"51537","Harlan","IA","Baxter Lumber & Hardware","3105 12th St.","51537",41.637063539200525,-95.32641649246216
+"51537","Harlan","IA","Bomgaars","2002 Chatburn Ave","51537",41.64673653787424,-95.33661892258564
+"51546","Logan","IA","Jensen Ace Hardware Inc.","509 E Erie St","51555",41.556282,-95.888778
+"51546","Logan","IA","Logan Do It Best Hardware","219 E 7th St","51546",41.64322876666667,-95.78838376666667
+"51559","Neola","IA","Zimmerman Sales & Service","202 S 2nd St","51559",41.448440999999995,-95.615041
+"51566","Red Oak","IA","Watkins True Value Hardware","1601 N Broadway St","51566",41.01884841918945,-95.23323059082031
+"51566","Red Oak","IA","Mark Jackson's Hardware Hank","E. Reed St.","51566",41.010266,-95.228791
+"51566","Red Oak","IA","Watkins Hardware","106 W Market St","51566",41.005123138427734,-95.23236846923828
+"51566","Red Oak","IA","Orscheln Farm & Home","2400 North 4th Street","51566-1368",41.027096,-95.227891
+"51566","Red Oak","IA","Prescription Tillage Technology LLC.","103 S Broadway St","51566",41.0050116,-95.2331115
+"51601","Shenandoah","IA","Orscheln Farm & Home","not_available","51601",40.767377663539705,-95.37718556903573
+"51631","Braddyville","IA","Van's Distributing Company","403 Mulberry St","51631",40.578183,-95.027102
+"51632","Clarinda","IA","Easters True Value","209 E Main St","51632",40.73792266845703,-95.03562927246094
+"51632","Clarinda","IA","Sears","1000 South 8th Street","51632",40.728373,-95.0270036
+"51648","Percival","IA","Westlake Ace Hardware 102","1107 Grundman Blvd","68410",40.658394,-95.861288
+"51648","Percival","IA","Tractor Supply Co.","1556 South 11th St Ste A","68410",40.662021,-95.860493
+"51648","Percival","IA","Nebraska City Do it Best Hardware","723 Central Ave","68410",40.676328000000005,-95.854061
+"51648","Percival","IA","Husqvarna","1315 Central Ave","68410",40.67644119262695,-95.86212158203125
+"52001","Dubuque","IA","Theisen's","2900 Dodge St","52003",42.49116627486864,-90.70678153846237
+"52001","Dubuque","IA","Sherwin-Williams Paint Store","1690 John F Kennedy Rd","52002",42.50016035483708,-90.72081685066223
+"52001","Dubuque","IA","Fastenal","2040 Kerper Blvd","52001",42.515585,-90.654507
+"52001","Dubuque","IA","Sears","2535 NW Arterial","52002",42.51900100708008,-90.74433898925781
+"52001","Dubuque","IA","McGovern Hardware","2220 University Ave","52001",42.499305,-90.695099
+"52001","Dubuque","IA","Steve's Ace Hardware","200 S Locust St","52003",42.490349,-90.665315
+"52001","Dubuque","IA","Diamond Vogel Paint","1585 Central Ave","52001",42.50766,-90.668786
+"52001","Dubuque","IA","Steve's Ace Home Garden","3350 John F Kennedy Rd","52002",42.5278429,-90.72781
+"52001","Dubuque","IA","Voggenthaler E J Company","400 E 7th St","52001",42.501533,-90.659766
+"52001","Dubuque","IA","Central True Value","2013 Central Avenue","52001",42.51128125,-90.67029982
+"52001","Dubuque","IA","Sherwin-Williams Paint Store","2070 Holliday Dr","52002",42.5105,-90.742107
+"52001","Dubuque","IA","Sherwin-Williams Paint Store","1000 Iowa St","52001",42.503022,-90.666736
+"52001","Dubuque","IA","Create It","1750 Radford Rd","52002",42.50127067,-90.74955767
+"52002","Dubuque","IA","Lowe's","4100 Dodge Street","52003",42.4881123,-90.7326842
+"52002","Dubuque","IA","Menards","5300 Dodge St","52003",42.482981602322326,-90.75289705224856
+"52003","Dubuque","IA","Harbor Freight","2600 Dodge St","52003",42.489582,-90.699844
+"52003","Dubuque","IA","Crescent Electric Supply Company","215 S Main St","52003",42.489217559207674,-90.66159576832581
+"52003","Dubuque","IA","Fastenal","not_available","52003",42.47819,-90.707115
+"52003","Dubuque","IA","ABC Supply","250 S Main St","52003",42.489559,-90.660727
+"52031","Bellevue","IA","Galena. Lumber Company","233 N Commerce St","61036",42.41646957397461,-90.42561340332031
+"52031","Bellevue","IA","Lampe True Value","220 S Riverview Dr","52031",42.25747593,-90.42295218
+"52031","Bellevue","IA","Gasser True Value","11359 W Industrial Park Ave","61036",42.4119,-90.4041
+"52033","Cascade","IA","Gasser's True Value","128 Industtrail Park Rdl","52033",42.3089507686303,-90.9956772420372
+"52040","Dyersville","IA","Ace Homeworks","615 16th Ave SE","52040",42.469987,-91.115635
+"52043","Elkader","IA","Norby's Farm Fleet","not_available","52043",42.86379596754196,-91.39659543222677
+"52043","Elkader","IA","Elkader Hardware","201 N Main St","52043",42.85526,-91.40515
+"52052","Guttenberg","IA","Builders FirstSource","10581 Rt 52 N","52001",42.60365740400136,-91.07422471046448
+"52052","Guttenberg","IA","Kuempel True Value Hardware","430 S River Park Dr","52052",42.78167,-91.095651
+"52053","Holy Cross","IA","Great River Hardware Hank","202 E Amelia","53806",42.7135884,-90.9896002
+"52060","Maquoketa","IA","Gasser True Value","111 Westgate Dr","52060",42.0833,-90.668099
+"52060","Maquoketa","IA","Maquoketa Do It Best Lumber","501 N Main St","52060",42.07403300973659,-90.6652307510376
+"52070","Sabula","IA","TRUE VALUE HOME AND BUILDING CENTER","115 Main St","61074",42.09193801879883,-90.15567779541016
+"52073","Sherrill","IA","Husqvarna US","4887 Lynn Hollow Ln","53820",42.68206024169922,-90.81864929199219
+"52076","Strawberry Point","IA","Meyer True Value","115 W Mission St","52076",42.6836958873756,-91.5355463166379
+"52101","Decorah","IA","Decorah Ace Hardware","200 E Main St","52101",43.3033,-91.784499
+"52101","Decorah","IA","Sherwin-Williams Paint Store","902 Short St","52101",43.29260230064392,-91.79633438587189
+"52101","Decorah","IA","usgaard and smith","not_available","52101",43.30540264569991,-91.79852372540391
+"52132","Calmar","IA","Huber Store","101 Main St","52144",43.14321909,-91.93294508
+"52133","Castalia","IA","Bean's Tire","not_available","52161",43.14306640625,-91.75556945800781
+"52136","Cresco","IA","Ruppert's Ace Hardware","120 2nd Ave SE","52136",43.372768,-92.116365
+"52136","Cresco","IA","Spahn & Rose","not_available","52136",43.371055655098395,-92.11417687329991
+"52141","Elgin","IA","Strahm Hardware","249 Center St","52141",42.957089939084206,-91.63059532642365
+"52151","Lansing","IA","Lansing Hardware & Service","238 Main St","52151",43.361915588378906,-91.21644592285156
+"52161","Ossian","IA","Beckmans Ace Hardware","Main St","52161",43.1451759,-91.762455
+"52172","Waukon","IA","Builders FirstSource","219 Hwy 9 SW","52172",43.24048216547276,-91.47795081138611
+"52205","Anamosa","IA","Theisen's","232 E 1st St","52310",42.237905,-91.187131
+"52208","Belle Plaine","IA","BELLE PLAINE TRUE VALUE","827 12th St","52208",41.89605712890625,-92.27519989013672
+"52209","Blairstown","IA","Rabe Hardware","317 Locust Street NW","52209",41.909262,-92.084903
+"52211","Brooklyn","IA","True Value","118 Front St","52211",41.72836164,-92.44626148
+"52216","Clarence","IA","Olsen Hardware & Appliance","502 Main St","52255",41.857826232910156,-90.92735290527344
+"52216","Clarence","IA","Lowden Plumbing & Heating","616 Main St.","52255",41.858001708984375,-90.92964935302734
+"52222","Deep River","IA","Performance Pony Company","2199 510th Ave","52222",41.55354690551758,-92.35640716552734
+"52228","Fairfax","IA","Menards","2800 Wiley Blvd SW","52404",41.95059840486966,-91.72487720457237
+"52228","Fairfax","IA","Harbor Freight Tools","3750 Williams Blvd SW #500","52404",41.95513392021849,-91.72365636641767
+"52228","Fairfax","IA","minuteKEY","3601 29th Ave SW","52404",41.947383880615234,-91.71833038330078
+"52228","Fairfax","IA","Suburban Lumber Company","Wiley st.","not_available",41.95251013,-91.7264383
+"52233","Hiawatha","IA","Diamond vogel paint center","725 N Center Point Rd","52233",42.044783148051465,-91.67889011319677
+"52233","Hiawatha","IA","Fastenal","737 N Center Point Rd","52233",42.045016,-91.679248
+"52233","Hiawatha","IA","HYTORC of Northern IL & IA","1485 Hawkeye Dr","52233",42.05328369140625,-91.67704772949219
+"52233","Hiawatha","IA","Iowa Outdoor Equipment","101 Fisher St","52233",42.05072666446922,-91.68648719787598
+"52240","Iowa City","IA","Lowe's","2701 2nd Street","52241",41.6908367,-91.6111297
+"52240","Iowa City","IA","Menards","2605 Naples Ave SW","52240",41.63303535661993,-91.57245236954357
+"52240","Iowa City","IA","Theisens","100-120 Westcor Dr","52241",41.69566604549139,-91.62520116814851
+"52240","Iowa City","IA","Harbor Freight Tools","Hwy 1","52246",41.648174,-91.543304
+"52240","Iowa City","IA","Ace Hardware","1558 Mall Dr","52240",41.6436744325282,-91.50598107195499
+"52240","Iowa City","IA","Lenoch & Cilek Ace Hardware","600 N Dodge St","52245",41.6679999,-91.5253
+"52240","Iowa City","IA","North Liberty True Value","55 S Dubuque St","52317",41.74425669140702,-91.59256586542631
+"52240","Iowa City","IA","Sherwin-Williams Paint Store","1385 Jordan St","52317",41.728253,-91.60708699999999
+"52240","Iowa City","IA","Paul's of Iowa City","424 Highway 1 W","52246",41.648072,-91.543577
+"52240","Iowa City","IA","Dwell Home Furnishings & Interior Design","250 12th Ave","52241",41.675634,-91.58244
+"52240","Iowa City","IA","Midtown Glass","Stevens Drive","52240",41.642532,-91.533215
+"52240","Iowa City","IA","Studio H2O","2020 S Riverside Dr","52246",41.634884,-91.537994
+"52240","Iowa City","IA","Butler's Quality Plumbing","950 238th St NE Ste A6","52317",41.760771,-91.614336
+"52240","Iowa City","IA","A-1 Propane","4181 Naples Ave SW","52240",41.629615783691406,-91.5721206665039
+"52240","Iowa City","IA","Fastenal","507 Highland Ave","52240",41.645228,-91.528365
+"52240","Iowa City","IA","White cap","Gilbert St.","52244",41.6358253,-91.56402591
+"52240","Iowa City","IA","Art Van PureSleep","2300 Jones Boulevard","52241",41.69805,-91.62478
+"52240","Iowa City","IA","Wagehoft Home & Land, Inc.","1603 21st Avenue Pl","52241",41.686316,-91.592137
+"52240","Iowa City","IA","Sears","1676 Sycamore Street","52240",41.639957427978516,-91.50935363769531
+"52240","Iowa City","IA","Iowa Valley Habitat ReStore","2401 Scott Blvd SE","52240",41.63496,-91.483673
+"52240","Iowa City","IA","Open Shop Night","not_available","52240",41.640112,-91.483467
+"52241","Coralville","IA","Ace Hardware","1701 2nd St","52241",41.677471000000004,-91.585901
+"52246","Iowa City","IA","Tamarack Materials","560 Ruppert Road","52246",41.64521577,-91.54769224
+"52246","Iowa City","IA","HD Supply White Cap","2003 S Gilbert St","52240",41.64025984,-91.53417216
+"52247","Kalona","IA","FARMERS SUPPLY SALES INC","1409 E Ave","52247",41.48760619999999,-91.6923485
+"52247","Kalona","IA","Appliance Barn","Hwy 1","52247",41.46379603019366,-91.71517407608923
+"52247","Kalona","IA","Yotty's Ace Discount","501 B Avenue","52247",41.483319,-91.706169
+"52248","Keota","IA","Wellman Hardware","265 8th Ave","52356",41.46485563325681,-91.83802127838135
+"52248","Keota","IA","Malley Hardware","not_available","52248",41.36731754663341,-91.94844565721108
+"52251","Ladora","IA","Affordable American Containers","1243 170th St","52347",41.76124207,-92.25116665
+"52301","Marengo","IA","Swift True Value","284 Western Ave","52301",41.79169845581055,-92.07422637939453
+"52301","Marengo","IA","Brown Hardware","1035 Court Ave","52301",41.79900360107422,-92.07056427001953
+"52302","Marion","IA","Lowe's","5300 Blairs Forest Blvd NE","52402",42.0326169,-91.6845349
+"52302","Marion","IA","The Home Depot","4501 1st Ave SE","52402",42.0218662,-91.6250136
+"52302","Marion","IA","Menards","200 Menard Ln","52302",42.018472709321415,-91.60873736279646
+"52302","Marion","IA","TrueValue Hardware","3501 Mount Vernon Rd SE","52403",41.9766793567815,-91.61741542295326
+"52302","Marion","IA","Sherwin-Williams Paint Store","140 Collins Rd NE","52402",42.028313,-91.626643
+"52302","Marion","IA","O'Donnell Ace Hardware","3825 Center Point Rd NE","52402",42.0178599,-91.66468
+"52302","Marion","IA","minuteKEY","2645 Blairs Ferry Rd NE","52402",42.03230667114258,-91.68199920654297
+"52302","Marion","IA","Acme Tools","1943 Blairs Ferry Rd NE","52402",42.033722999999995,-91.66574200000001
+"52302","Marion","IA","A-1 Vacuum","not_available","52401",41.98072052001953,-91.66210174560547
+"52302","Marion","IA","A1 Precision Sharpening","1111 weing rd ne","52402",41.980188,-91.623001
+"52302","Marion","IA","TS Tool Maintenance","948 11th St NE Ste E","52402",41.99739599999999,-91.6659619
+"52302","Marion","IA","Husqvarna US","4394 MT. VERNON RD. B.E.","52403",41.98484802246094,-91.6241455078125
+"52302","Marion","IA","Quinn Equipment Inc.","400 35th St","52302",42.030854999999995,-91.57489100000001
+"52302","Marion","IA","Power Of Nature Implements","not_available","52403",42.01292609105661,-91.63299357293442
+"52302","Marion","IA","True Value","1100 Blairs Ferry Rd NE #110","52402",42.03621,-91.652849
+"52302","Marion","IA","Hardwood Technologies, Inc.","655 49th St","52302",42.03123,-91.557489
+"52302","Marion","IA","Marion Ace Hardware","999 44th St Suite 2000","52302",42.034551,-91.578277
+"52306","Mechanicsville","IA","Koch's Service & Supply","105 W Cedar St","52306",41.90339497482866,-91.2570333480835
+"52310","Monticello","IA","Kremer Electric","not_available","52310",42.25077860865648,-91.17069601585821
+"52310","Monticello","IA","McNeill Hardware","201 E 1st St","52310",42.23842239379883,-91.18817138671875
+"52314","Mount Vernon","IA","Mount Vernon Ace Hardware","222 1st Ave S","52314",41.921208,-91.417969
+"52314","Mount Vernon","IA","Green Valley Ag & Turf","787 Wilcox Rd","52314",41.914337158203125,-91.4615707397461
+"52317","North Liberty","IA","Logan Contractors Supply Inc","2805 Stoner Ct","52317",41.7478196,-91.6457483
+"52339","Tama","IA","Chyma's Machine & Welding","not_available","52342",41.985366960970545,-92.58156495770396
+"52339","Tama","IA","Hardons","114 W 4th St","52339",41.97161357550966,-92.58350172123332
+"52339","Tama","IA","Tama Toledo Ace Inc","419 State St","52339",41.962662,-92.576767
+"52349","Vinton","IA","Theisens","1405 Highway 218 S","52349",42.158260345458984,-92.03926849365234
+"52349","Vinton","IA","Rabe Hardware","112 West 4th Street","52349",42.16734900000001,-92.02506
+"52349","Vinton","IA","McDowell's Do It Best","not_available","52349",42.16741180419922,-92.02174377441406
+"52352","Walker","IA","Builders FirstSource","4369 Spencer Grove","52352",42.285008396380746,-91.78844332695007
+"52353","Washington","IA","Ace-N-More","1901 E Washington St","52353",41.2971689,-91.666982
+"52353","Washington","IA","True Value","1010 W Madison St","52353",41.29678,-91.705012
+"52353","Washington","IA","Orscheln","530 Highway 1 S","52353",41.29413186237305,-91.70657157897949
+"52361","Williamsburg","IA","Ace Hardware","205 W Welsh","52361",41.660708,-92.008877
+"52401","Cedar Rapids","IA","The Sled Shed","225 3rd Ave SW","52404",41.9737042,-91.6739528
+"52402","Cedar Rapids","IA","Atlas Copco Tools & Assembly Systems Service Center","2065 Elms Rd.","48473",42.030471037955735,-91.68193615972996
+"52403","Cedar Rapids","IA","Foundation Building Materials","55 43rd Avenue Southwest","52404",41.93529734,-91.66075796
+"52404","Cedar Rapids","IA","Tractor Supply Co.","6622 Sixth St Southwest","52404",41.913984,-91.677319
+"52404","Cedar Rapids","IA","Do It Best Hardware","340 Edgewood Rd NW","52405",41.9754366990141,-91.71653392262671
+"52404","Cedar Rapids","IA","L & P Painting","900 3rd Ave SW","52404",41.971154999999996,-91.68270600000001
+"52404","Cedar Rapids","IA","Sherwin-Williams Paint Store","415 Edgewood Rd NW","52405",41.977709000000004,-91.714978
+"52404","Cedar Rapids","IA","pool & spa warehouse","not_available","52402",41.93409184075428,-91.675098734864
+"52404","Cedar Rapids","IA","HD Supply White Cap","830 33rd Ave SW","52404",41.944406,-91.68350799999999
+"52404","Cedar Rapids","IA","Gustave A Larson Co (CDR)","801-899 B Ave NW","52405",41.97464702068642,-91.68426258890811
+"52404","Cedar Rapids","IA","Emerson Hardware & Locksmith","415 3rd St SE","52401",41.972586,-91.676473
+"52404","Cedar Rapids","IA","Linweld","714 1st Ave NW","52405",41.973997999999995,-91.681578
+"52404","Cedar Rapids","IA","Sherwin-Williams Commercial Paint Store","3501 J St SW","52404",41.94378,-91.666552
+"52404","Cedar Rapids","IA","Ferguson Plumbing Supply","4625 6th St Sw","52404",41.933199,-91.675075
+"52404","Cedar Rapids","IA","Sj Smith","not_available","52404",41.951504,-91.685875
+"52411","Cedar Rapids","IA","Heartland Mobile Billboards","4210 Morelle Rd NE","52411",42.022804,-91.71074899999999
+"52501","Ottumwa","IA","Menards","1898 Venture Dr","52501",41.01374296363625,-92.45363920927048
+"52501","Ottumwa","IA","Orscheln","223 N Madison Ave","52501",41.003758000000005,-92.414181
+"52501","Ottumwa","IA","Carroll Construction Supply","205 S Iowa Ave","52501",41.00867462158203,-92.39643096923828
+"52501","Ottumwa","IA","Tractor Supply Co.","2850 North Court Rd","52501",41.063493,-92.408957
+"52501","Ottumwa","IA","beltone Ottumwa","not_available","52501",41.02361297607422,-92.41500091552734
+"52501","Ottumwa","IA","O'Hara True Value Hardware","500 W Main St","52501",41.021488,-92.418052
+"52501","Ottumwa","IA","Sherwin-Williams Paint Store","1231 Theatre Dr","52501",41.01882922039589,-92.43668305233713
+"52501","Ottumwa","IA","Jim's Appliance","2612 Marilyn Rd","52501",41.055977,-92.412172
+"52501","Ottumwa","IA","plumb supply","420 Gateway Dr","52501",41.019805,-92.418566
+"52531","Albia","IA","ALBIA TRUE VALUE HARDWARE","4 WASHINGTON AVENUE","52531",41.02586364746094,-92.80809783935547
+"52531","Albia","IA","Albia True Value Hardware","123 14th Ave W","52531",41.01496887207031,-92.81010437011719
+"52531","Albia","IA","O'HARA TRUE VALUE HARDWARE","4 WASHINGTON AVE","52531",41.026065826416016,-92.80802154541016
+"52537","Bloomfield","IA","Bloomfield True Value","211 Weaver Rd","52537",40.756729486367,-92.4122828852247
+"52537","Bloomfield","IA","true value","not_available","52537",40.73907558392229,-92.41296140973824
+"52540","Brighton","IA","Miller's General Contracting, Inc.","109 W Washington St","52540",41.17523,-91.8217
+"52544","Centerville","IA","Husqvarna US","701 E Van Buren St","52544",40.73503112792969,-92.86763000488281
+"52544","Centerville","IA","Fogle True Value & Hardware","1101 N 18th St","52544",40.745758056640625,-92.86495208740234
+"52544","Centerville","IA","Orschelin","23680 Highway 5","52544",40.701168567675424,-92.86694806689752
+"52544","Centerville","IA","Garage Door Repair Centerville","North Main Street","84014",40.73828290651089,-92.8736114501953
+"52556","Fairfield","IA","Tractor Supply Co.","2068 Brookville Rd","52556",41.009169,-92.002525
+"52556","Fairfield","IA","Sears","1301 W. Burlington Ave.","52556",41.00710921682326,-91.97857707738876
+"52556","Fairfield","IA","Fairfield True Value","2100 W Burlington Ave","52556",41.00593081,-91.98532609
+"52556","Fairfield","IA","Orschelns","not_available","52556",41.007279483333335,-91.98578915
+"52556","Fairfield","IA","Fairfield Lumber","Broadway","not_available",41.00485907038122,-91.96411406159014
+"52577","Oskaloosa","IA","Oskaloosa Quality Rental Inc.","124 N 2nd St","52577",41.29604188794805,-92.64265541557907
+"52577","Oskaloosa","IA","Sherwin-Williams Paint Store","117 High Ave W","52577",41.29551832500352,-92.6457953453064
+"52577","Oskaloosa","IA","Sears","211 Highway 432","52577",41.2975802,-92.6675941
+"52577","Oskaloosa","IA","Malcom Lumber And Hardware","1701 A Ave W","52577",41.2969614,-92.6630634
+"52577","Oskaloosa","IA","Oskaloosa True Value Hardware","202 First Ave E","52577",41.29426413,-92.64391111
+"52583","Promise City","IA","Lockridge, Inc.","208 W Main St","52583",40.74565505981445,-93.15298461914062
+"52591","Sigourney","IA","LOCAL MERCHANDISE TRUE VALUE STORE","105 E Marion St","52591",41.332672119140625,-92.20481872558594
+"52601","Burlington","IA","Menards","922 W Agency Rd","52655",40.81398421454752,-91.16406160484196
+"52601","Burlington","IA","Lowe's","3435 Agency","52601",40.8123734,-91.1490504
+"52601","Burlington","IA","Kempker's True Value And Rental, Inc.","608 S 9th St","52601",40.80149638,-91.10964775
+"52601","Burlington","IA","George's Lawnmower","not_available","52655",40.81302261352539,-91.15349578857422
+"52601","Burlington","IA","Van Meter Inc.","2515 Mount Pleasant St","52601",40.82431566038686,-91.13270759582518
+"52601","Burlington","IA","Standard of Beaverdale","11194 Twin Ponds Dr","52655",40.826528,-91.207347
+"52601","Burlington","IA","Industrial Motors Inc.","1711 Mt. Pleasant Street","52601",40.819957,-91.123344
+"52601","Burlington","IA","Diamond Vogel Paints","3200 Division St","52601",40.80803367176248,-91.13708473067254
+"52601","Burlington","IA","Mcdonald supply","not_available","52601",40.810490725141584,-91.13801241502973
+"52601","Burlington","IA","Praxair Distribution","2710 W Mount Pleasant St","52655",40.82724813,-91.18887828
+"52601","Burlington","IA","Lowe's","1903 Racine Ave","52601",40.82917022705078,-91.1474380493164
+"52601","Burlington","IA","Sherwin-Williams Paint Store","910 Wellshire","52601",40.79942920737253,-91.1422723531723
+"52601","Burlington","IA","Trinity Logistics","2825 Mount Pleasant St","52601",40.823917388916016,-91.14476776123047
+"52601","Burlington","IA","West Burlington Hydraulic & Supplies","1109 Derek Lincoln Dr.","52655",40.81227453546937,-91.15432888269424
+"52601","Burlington","IA","Sherman William Paint","900 Wellshire","52601",40.79995346069336,-91.1422119140625
+"52601","Burlington","IA","Sears","2750 Mount Pleasant Street, Unit 100","52601",40.8277847,-91.1397752
+"52601","Burlington","IA","Valley Tree Farm","18954 Irish Ridge Rd, Sperry, IA 52650","52650",40.952152252197266,-91.09906768798828
+"52601","Burlington","IA","Mead Computer Service","1716 Barret St","52601",40.79153060913086,-91.11663818359375
+"52625","Donnellson","IA","Mount Hamill Elevator & Lumber","1654 143rd St.","not_available",40.75090026855469,-91.61112976074219
+"52625","Donnellson","IA","Nichtings","1342 Pilot Grove Rd, West Point, IA 52656","52656",40.76356887817383,-91.53482818603516
+"52627","Fort Madison","IA","Kempker's True Value And Rental, Inc.","1904 Ave H","52627",40.630013597865805,-91.33259523630035
+"52627","Fort Madison","IA","Huffman's Farm and Home","6001 Avenue O","52627",40.625064849853516,-91.39302825927734
+"52627","Fort Madison","IA","Sears","704 Avenue G","52627",40.6307372,-91.3100386
+"52627","Fort Madison","IA","Husqvarna US","1904 Avenue H","52627",40.62989044189453,-91.33238983154297
+"52632","Keokuk","IA","Sherwin-Williams Paint Store","3533 Main St","52632",40.42360824126677,-91.40998363494873
+"52632","Keokuk","IA","Tri State Window and Pool","1106 Main St","52632",40.400535583496094,-91.38877868652344
+"52632","Keokuk","IA","Sears","3533 Main St, Suite 3","52632",40.42331,-91.409702
+"52632","Keokuk","IA","Ace Hardware","2122 Main St","52632",40.4084999,-91.396699
+"52632","Keokuk","IA","Fastenal","Main St","52632",40.42306,-91.409808
+"52637","Mediapolis","IA","KLINES TRUE VALUE","530 Main St","52637",41.00791549682617,-91.16203308105469
+"52641","Mount Pleasant","IA","True Value","103 N Jefferson St","52641",40.97939813,-91.6075892
+"52641","Mount Pleasant","IA","Kempker's True Value And Rental, Inc.","1405 E Washington","52641",40.96677918,-91.55407765
+"52641","Mount Pleasant","IA","KEMPKER'S TRUE VALUE","1405 E Washington St","52641",40.963592529296875,-91.53309631347656
+"52641","Mount Pleasant","IA","Orscheln's","1127-1217 E Mapleleaf Dr","52641",40.974643623633334,-91.53621935598382
+"52641","Mount Pleasant","IA","Taft-Wiley Plumbing, Heating & Air Conditioning","201 E Monroe St","52641",40.966516132964244,-91.55156135559082
+"52653","Wapello","IA","Blacks Appliance","not_available","52653",41.18177364127944,-91.18515002369288
+"52722","Bettendorf","IA","Altorfer CAT - Bettendorf, IA","5909 State St","52722",41.5482295,-90.4499788
+"52722","Bettendorf","IA","Lowe's","3955 Elmore Avenue","52807",41.5615816,-90.5243038
+"52722","Bettendorf","IA","The Home Depot","920 Middle Rd","52722",41.541955466362396,-90.52020370960236
+"52722","Bettendorf","IA","K & K True Value Hardware","1818 Grant St","52722",41.526624643251786,-90.50682868510725
+"52722","Bettendorf","IA","Wallace's Garden Center","2605 Devils Glen Rd","52722",41.549068377676335,-90.48311118423548
+"52722","Bettendorf","IA","Sherwin-Williams Paint Store","3871 Elmore Ave","52807",41.557902,-90.526472
+"52722","Bettendorf","IA","Quinn Hardware","321 State Ave","61256",41.55258560180664,-90.41154479980469
+"52722","Bettendorf","IA","Sherwin-Williams Commercial Paint Store","3548 State St","52722",41.528607,-90.484127
+"52722","Bettendorf","IA","Avenue Rental","Grant St","52722",41.525379,-90.514476
+"52722","Bettendorf","IA","Northern Tool + Equipment","4341 Elmore Avenue","52807",41.5644657,-90.5255357
+"52722","Bettendorf","IA","A & S Tool & Manufacturing Co","4415 State St","52722",41.533367999999996,-90.473007
+"52722","Bettendorf","IA","Builders First Choice","1107 14th Ave","61244",41.518211364746094,-90.4369888305664
+"52722","Bettendorf","IA","Distinctive Kitchen & Bath","1101 State St","52722",41.524547632437574,-90.51734983921051
+"52722","Bettendorf","IA","minuteKEY","5811 Elmore Ave","52807",41.5808439,-90.5243529
+"52722","Bettendorf","IA","Sherwin-Williams Product Finishes","3501 5th Ave","61244",41.52694714482786,-90.40712245014787
+"52722","Bettendorf","IA","Swanson Construction Home Base","not_available","52722",41.588575,-90.496519
+"52722","Bettendorf","IA","Logan Contractors Supply Inc.","4114 State St","52722",41.532306,-90.476674
+"52722","Bettendorf","IA","Atlas Energy","Morton St.","not_available",41.52303591,-90.4097219
+"52722","Bettendorf","IA","Foundation Building Materials","5252 State Street","52722",41.54572633,-90.45623412
+"52726","Blue Grass","IA","Dick-N-Sons Lumber","235 N Oak Ln","52726",41.5115707,-90.7743035
+"52732","Clinton","IA","The Home Depot","1850 Lincoln Way","52732",41.8179688,-90.22931
+"52732","Clinton","IA","O'Donnell Ace Hardware","411 7th Ave S","52732",41.838819,-90.193826
+"52732","Clinton","IA","Parker Cassidy Supply","1940 Lincoln Way","52732",41.8160299,-90.229817
+"52732","Clinton","IA","Sherwin-Williams Paint Store","2010 Lincoln Way","52732",41.81658203,-90.23321270942688
+"52732","Clinton","IA","gateway supply","not_available","52732",41.86695861816406,-90.18726348876953
+"52738","Columbus Junction","IA","Columbus Lumber Co.","not_available","52738",41.27973556518555,-91.35514831542969
+"52738","Columbus Junction","IA","Economart Foods Columbus Junction","113 E Walnut St","52738",41.279701232910156,-91.3583984375
+"52742","De Witt","IA","True Value","714 6th Ave","52742",41.822982,-90.538414
+"52742","De Witt","IA","KUNAU IMPLEMENT CO.","2114 270th Ave","52742",41.871517181396484,-90.56793975830078
+"52748","Eldridge","IA","Ace Hardware","650 E Le Claire Rd","52748",41.655239,-90.57520600000001
+"52761","Muscatine","IA","Menards","3408 N Highway 61","52761",41.4586803346902,-91.01617585973523
+"52761","Muscatine","IA","O'Donnell Ace Hardware","1420 PARK AVE","52761",41.441143,-91.03156800000001
+"52761","Muscatine","IA","Sherwin-Williams Paint Store","120 E 2nd St","52761",41.421434999999995,-91.044977
+"52761","Muscatine","IA","Muscatine Lawn & Power","not_available","52761",41.39373536629735,-91.07073407652534
+"52772","Tipton","IA","Theisen's","110 E 3rd St","52772",41.768163,-91.12814399999999
+"52776","West Liberty","IA","Fred's Feed & Supply","110 W 3rd St","52776",41.5699165,-91.26396781666666
+"52776","West Liberty","IA","Renovation's +","317 N Spencer St","52776",41.570709,-91.262198
+"52802","Davenport","IA","Altorfer Cat Heavy Rental Store","4712 Buckeye St","52802",41.50243038638934,-90.64251937632963
+"52802","Davenport","IA","White Cap Construction Supply","724 W 2nd St","52802",41.521518,-90.583929
+"52802","Davenport","IA","Stetson","not_available","61201",41.508714,-90.584583
+"52802","Davenport","IA","Hayman's Westside Ace Hardware","1716 W 4th St","52802",41.523721,-90.602034
+"52802","Davenport","IA","Epic Stone","110 N Division St","52802",41.520718,-90.602463
+"52804","Davenport","IA","Home Hardware","1716 W 37th St","52806",41.557575,-90.601268
+"52804","Davenport","IA","Suburban Construction, Inc.","616 W 35th St","52806",41.555886691334415,-90.58119322676504
+"52804","Davenport","IA","Dealers LP Equipment","8645 Northwest Blvd","52806",41.608598,-90.63020300000001
+"52806","Davenport","IA","Menards","6600 N Brady St","52806",41.58790953305058,-90.57282854262758
+"52806","Davenport","IA","Harbor Freight Tools","1010 E Kimberly Rd Ste 4","52807",41.55846936806153,-90.56024063217355
+"52806","Davenport","IA","Elite Electric","6110 N Brady St","52806",41.582173,-90.572089
+"52806","Davenport","IA","Builders FirstSource","6727 N Brady St","52806",41.589886,-90.568864
+"52806","Davenport","IA","Grainger","not_available","52807",41.57460544779296,-90.56144013426001
+"52806","Davenport","IA","HD Supply White Cap","937 E 53rd St","52807",41.57283646,-90.56266647
+"52806","Davenport","IA","Sherwin-Williams Paint Store","111 E 50th St","52806",41.570506,-90.57082700000001
+"52806","Davenport","IA","Water Concepts Gallery","4601 Grand Ave","52807",41.568641662597656,-90.56361389160156
+"52807","Davenport","IA","Diamond Vogel Paint Center","3728 Eastern Ave","52807",41.558858,-90.551417
+"52807","Davenport","IA","ProSource of Davenport","5346 Belle Ave","52807",41.57653,-90.54288

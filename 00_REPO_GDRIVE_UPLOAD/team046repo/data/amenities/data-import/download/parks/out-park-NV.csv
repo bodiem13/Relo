@@ -1,0 +1,394 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"89001","Alamo","NV","Childrens Park","not_available","89001",37.358773,-115.163976
+"89002","Henderson","NV","O'Callaghan Park","613 Skyline Rd.","89002",36.01064007927387,-114.98019410574436
+"89002","Henderson","NV","Mission Hills Park","not_available","not_available",35.99627714214237,-114.96194468782357
+"89002","Henderson","NV","Shindig Park","not_available","89015",35.996362718301455,-114.93195557108558
+"89002","Henderson","NV","O'Calahan Park","not_available","89002",36.010625,-115.00638888888889
+"89002","Henderson","NV","Hidden Falls Park","281 E Horizon Dr.","89002",36.00659033863664,-114.99472920369729
+"89004","Blue Diamond","NV","Blue Diamond Park","28 Cottonwood Dr","89004",36.048139,-115.40803
+"89005","Boulder City","NV","Cinnamon Ridge Park","825 Burkholder Blvd.","89015",36.04081247899356,-114.95756036915027
+"89005","Boulder City","NV","Weston Hills Park","McCormick","89011",36.0750955033499,-114.97770469927838
+"89005","Boulder City","NV","Bicentennial Park","999 Colorado Street","89005",35.97967219537534,-114.83474525526627
+"89005","Boulder City","NV","Las vegas wash","not_available","89011",36.08695757171038,-114.98084295573713
+"89005","Boulder City","NV","Veterans Memorial Park","1650 Buchanan Blvd","89005",35.95306570957569,-114.84787820489177
+"89005","Boulder City","NV","Lake Mead Lake Las Vegas Entrance","Lakeshore/Lake Mead Parkway","not_available",36.07958351265803,-114.94970949441486
+"89005","Boulder City","NV","Terrazza Park","1992 Galleria Drive","not_available",36.101269878740624,-114.93736724951881
+"89005","Boulder City","NV","Bootleg Canyon Trails","not_available","89005",35.99883426451246,-114.86725217240881
+"89005","Boulder City","NV","Del Prado Park","Utah st","89005",35.975840838004814,-114.82820346458169
+"89005","Boulder City","NV","Central Park","1301 5th Street","89005",35.97350846926729,-114.83544182650915
+"89005","Boulder City","NV","Casablanca Foyer Patio","The Westin Lake Las Vegas Resort & Spa","not_available",36.1139030456543,-114.92252349853516
+"89005","Boulder City","NV","Boulder City BMX","1799 Commons Way","89005",35.95177280366743,-114.84734058380127
+"89005","Boulder City","NV","Multi Use Building In The Park","1128 6th Street","not_available",35.97222137451172,-114.83546447753906
+"89005","Boulder City","NV","Heritage Park","350 S Racetrack Rd","89015",36.03156061501761,-114.95424270629884
+"89007","Bunkerville","NV","Mesquite Regional Park","not_available","89027",36.78554439502972,-114.1334235798819
+"89007","Bunkerville","NV","Pedal Bike Track","not_available","89040",36.528643,-114.437938
+"89008","Caliente","NV","Kershaw Ryan Park","Hwy 55","89008",37.58815841813214,-114.5256358276675
+"89011","Henderson","NV","Wetlands Park","7050 Wetlands Park Ln","89122",36.101093191519034,-115.02481119951155
+"89011","Henderson","NV","Henderson Bird Viewing Preserve","350 E. Galleria","89015",36.0749048174364,-115.0021872373392
+"89011","Henderson","NV","Trail Canyon Park","not_available","89074",36.04602543279686,-115.03692896223696
+"89011","Henderson","NV","Sunridge park","not_available","89122",36.08257774303568,-115.04003942538901
+"89011","Henderson","NV","Playground at Copper Creek","Prospectors Creek Ave","89122",36.08112809509872,-115.0140203030347
+"89011","Henderson","NV","Russell Road Recreation Complex","5901 E Russell Rd","89122",36.082817685345695,-115.04239687050983
+"89011","Henderson","NV","Old Sam Boyd Park Archery Range","E Russell Rd","89122",36.087668123903455,-115.00520288889491
+"89011","Henderson","NV","Wash Park & Playground","Theme Rd","89122",36.117482311424666,-115.03311072128773
+"89011","Henderson","NV","Tuscany Park","1550 E. Galleria Dr.","not_available",36.08461380004883,-114.95926666259766
+"89012","Henderson","NV","Sunridge Park","1010","89122",35.99384527175453,-115.09122751540463
+"89012","Henderson","NV","Acacia Park","50 Casa Del Fuego St","89012",36.03083936084644,-115.01655094124018
+"89012","Henderson","NV","Discovery Park","not_available","89012",36.01690636786059,-115.07347070611814
+"89012","Henderson","NV","Paseo Verde Park","1851 Paseo Verde Pkwy.","89012",36.02352348207278,-115.06480044594437
+"89012","Henderson","NV","Reunion Trails Park","44 Chapata Dr","89012",36.02719825873132,-115.04242583164748
+"89012","Henderson","NV","Wingbrook Avenue Park","2221-2241 Wingbrook Ave","89012",36.01993141124052,-115.08388398148084
+"89012","Henderson","NV","Friendship Park","Mountain Ridge and Ironwood Hills","89012",36.01563961911648,-115.06974084275271
+"89012","Henderson","NV","Dos Escuelas Park","1 Golden View Dr.","89074",36.023957810833174,-115.07911503089525
+"89012","Henderson","NV","Amador Vista Park","1562 Amador Ln","89012",36.01569894904342,-115.05278643350339
+"89014","Henderson","NV","Legacy West Park","136-148 N Pecos Rd","89074",36.03814095256556,-115.09975808462374
+"89014","Henderson","NV","Green Valley Park","370 N Pecos Rd","89074",36.052355676187524,-115.09399653538694
+"89014","Henderson","NV","Stephanie Lynn Craig Park","1725 Galleria Dr","89014",36.08460279410262,-115.05945454004292
+"89014","Henderson","NV","Cornerstone Park","1600 Wigwam Pkwy","89074",36.03646143674129,-115.05487309318593
+"89014","Henderson","NV","Hillpointe Park","near 1851 Hillpointe Dr","89074",36.039223445635066,-115.06308605873373
+"89014","Henderson","NV","Red Sunset Park","Arroyo Grande","not_available",36.044352,-115.05365073680878
+"89014","Henderson","NV","Whitney Ranch Recreation Area","1661 Galleria Dr","89014",36.07554569742165,-115.05906068871275
+"89014","Henderson","NV","Fox Ridge Park","420 N Valle Verde Dr","89014",36.05833575214971,-115.06873886911418
+"89014","Henderson","NV","Silver Springs Park","1950 Silver Springs Pkwy","89074",36.050124532323125,-115.07844425001535
+"89015","Henderson","NV","Morrell Park","153-223 N Major Ave","89015",36.034708535548525,-114.96875791935615
+"89019","Jean","NV","Doggy Park","not_available","89019",35.781467,-115.331403
+"89020","Amargosa Valley","NV","Amargosa Valley Park","776 East Farm Road","89020",36.568748474121094,-116.45976257324219
+"89021","Logandale","NV","Grant M Bowler Park","3280 n moapa valley blvd","89021",36.60507699949431,-114.48322520384332
+"89027","Mesquite","NV","Marilyn Redd Park","251","89027",36.8219108581543,-114.0630874633789
+"89027","Mesquite","NV","Vetertans Memorial Park","501 Hillside Dr","89027",36.812835693359375,-114.06024932861328
+"89027","Mesquite","NV","Veterans Memorial Park","501 Hillside Drive","89027",36.812835693359375,-114.06024932861328
+"89027","Mesquite","NV","Splash Pad & Playground","Yucca St.","89027",36.805665,-114.067114
+"89029","Laughlin","NV","Arroyo Vista Park","2170 Lariat Dr","86442",35.04738376767477,-114.57296240501819
+"89029","Laughlin","NV","Big Bend of Colorado","4220 Needles Hwy","89029",35.114176794556506,-114.63877180166354
+"89029","Laughlin","NV","Colorado River Heritage Greenway Park And Trails","not_available","89046",35.1718313066832,-114.57085480261351
+"89029","Laughlin","NV","Mountain View Park","51975 Arie Ave.","89029",35.14946745264183,-114.62399012235548
+"89029","Laughlin","NV","Silver Creek RV Park","1515 Goldrush Dr","86442-8308",35.11165,-114.57268
+"89029","Laughlin","NV","Bullhead Community Park","1251 Highway 95","86429",35.13939043351309,-114.57095340154625
+"89030","North Las Vegas","NV","Craig Ranch Regional Park","628 W Craig Rd","89032",36.24191957538869,-115.14822006225585
+"89030","North Las Vegas","NV","Cheyenne Sports Complex","3500 E. Cheyenne Ave.","89030",36.2190667060288,-115.09953222722379
+"89030","North Las Vegas","NV","The Garden Plaza","Craig ranch park","89031",36.245865,-115.15055
+"89030","North Las Vegas","NV","Joe Kneip Park","2800 Judson Ave","89030",36.198559,-115.11208899999998
+"89030","North Las Vegas","NV","Petitti Park","2500 Donna St.","89081",36.204734802246094,-115.12850189208984
+"89030","North Las Vegas","NV","Craig ranch Park","not_available","89032",36.239433289998,-115.15291705122512
+"89030","North Las Vegas","NV","CSN Sports","not_available","89030",36.22119964125256,-115.10272317233212
+"89030","North Las Vegas","NV","Boris Terrace Park","2600-2618 N Salt Lake St","89030",36.205414724243404,-115.11996917534671
+"89030","North Las Vegas","NV","Lubertha Johnson Park","not_available","89106",36.199277,-115.15638
+"89030","North Las Vegas","NV","Hartke Park","McDaniel","89030",36.19024145800801,-115.12430610831206
+"89030","North Las Vegas","NV","Park","901-1299 Putnam Avenue","89030",36.204914,-115.12848
+"89030","North Las Vegas","NV","Tam Park","4600-4748 N Donna St","89081",36.244829336006255,-115.1298130875307
+"89031","North Las Vegas","NV","Eldorado Park","not_available","89031",36.26989964792857,-115.16437942424261
+"89031","North Las Vegas","NV","Stella Sera Neighborhood Park","Riding Crop Avenue","89081",36.26680586766421,-115.1327199933826
+"89031","North Las Vegas","NV","Small Park!","Tierra De Palmas Dr","89031",36.24745022433718,-115.17195485376223
+"89031","North Las Vegas","NV","Sierra Ranch Park","Tropical","89031",36.268878004507556,-115.13942241668701
+"89031","North Las Vegas","NV","Shi Shi's Park","Hammer","89031",36.258435204659826,-115.18424081187943
+"89031","North Las Vegas","NV","Monte Vista Park","4911 Scott Robinson Blvd","89031",36.249427000000004,-115.165756
+"89032","North Las Vegas","NV","Sunset park","Sunset","89107",36.19902558420405,-115.18848462564655
+"89032","North Las Vegas","NV","Dr. William U. Pearson Playground","1625 W Carey Ave","89032",36.20166015625,-115.1631088256836
+"89040","Overton","NV","valley view park","Colorado River","not_available",36.14623532583033,-114.41749744000381
+"89044","Henderson","NV","Harmony Park","Cadence St","89052",35.97571094213243,-115.0888539662423
+"89044","Henderson","NV","Capriola Park","not_available","89044",35.948537494874046,-115.12165392283325
+"89044","Henderson","NV","Potenza  Park","2355 Via Firenze","89044",35.945097,-115.124202
+"89044","Henderson","NV","Miley's Park","not_available","89124",35.927892,-115.090695
+"89044","Henderson","NV","Solista Park","1890 Via Firenze","89124",35.955659867253715,-115.12531370144688
+"89044","Henderson","NV","Sonata Park","1550 Seven Hills Dr","not_available",35.97553355372959,-115.12072159917986
+"89044","Henderson","NV","Rossini Park","not_available","89052",35.97368,-115.12883
+"89048","Pahrump","NV","Burson Ranch Park","not_available","89061",36.13919104387498,-115.94005814332303
+"89048","Pahrump","NV","Ian Duetch Memorial Park","1600 Honeysuckle At","not_available",36.197151936913826,-115.98570704775916
+"89048","Pahrump","NV","Petrack Park","not_available","89060",36.22046437820271,-115.99619142212626
+"89052","Henderson","NV","Anthem Hills Park","2256 Reunion Dr","89052",35.982874,-115.088838
+"89052","Henderson","NV","Avellino Park","not_available","89123",35.99015137712471,-115.14638934934246
+"89052","Henderson","NV","Cactus Wren Park","2900 Ivanpah Dr","89074",36.012676099737995,-115.10835792254086
+"89052","Henderson","NV","Silverado Park","Silverado Ranch","89123",36.01372570243959,-115.14011710742355
+"89052","Henderson","NV","Lamplight Village Park","not_available","89183",36.005147231800386,-115.13145184445587
+"89074","Henderson","NV","Siena Heights Trailhead","2570 Siena Heights Dr","89052",36.013137,-115.104396
+"89074","Henderson","NV","Rue De Parc","1 Rue De Parc","89074",36.025687637535135,-115.09398791658882
+"89081","North Las Vegas","NV","Tropical Breeze Park","1505 E Tropical Pkwy","89081",36.266293947692084,-115.1250473265564
+"89084","North Las Vegas","NV","Deer Springs Park","not_available","89084",36.27996413952481,-115.18668405130131
+"89084","North Las Vegas","NV","Seastrand Park","6330 Camino Eldorado Pkwy","89031",36.27694646228318,-115.16171233289234
+"89084","North Las Vegas","NV","Aliante Nature Discovery Park","2627 Nature Park Dr","89084",36.288498390248655,-115.17144646744767
+"89084","North Las Vegas","NV","Dinosaur Park Tennis Courts","Dear Springs","89084",36.28923611111111,-115.17812500000001
+"89101","Las Vegas","NV","Mayfair Place Park","415 S. 15th Street","89101",36.160286,-115.131257
+"89101","Las Vegas","NV","Freedom Park","850 N Mojave Rd","89101",36.17977975978583,-115.10371345926382
+"89101","Las Vegas","NV","Remembrance Park","not_available","89101",36.159711,-115.150898
+"89101","Las Vegas","NV","Symphony Park","361 Symphony Park Ave","not_available",36.168800354003906,-115.15161895751953
+"89101","Las Vegas","NV","Symphony Park","W Bonneville Avenue and S Grand Central Parkway","89106",36.16950141806412,-115.15170688491196
+"89101","Las Vegas","NV","City of Las Vegas Rafael Rivera Community Center","2900 Stewart Ave","89101",36.165659000000005,-115.10786200000001
+"89102","Las Vegas","NV","Baskin Park","2700 W Oakey Blvd","89102",36.15112003937494,-115.18039064521442
+"89102","Las Vegas","NV","Cashman Park","3101-3299 Cameron St","89102",36.132952928043544,-115.20501932441327
+"89102","Las Vegas","NV","Stupak Park","300 W Boston Ave","89102",36.147735595703125,-115.16053771972656
+"89102","Las Vegas","NV","Mary Dutton Park","not_available","89104",36.13958770396691,-115.16003319972694
+"89102","Las Vegas","NV","Kiddie Park","Sirius Ave","89102",36.13340759277344,-115.20088958740234
+"89102","Las Vegas","NV","bob baskin park","not_available","89102",36.1507487995422,-115.17976535058101
+"89103","Las Vegas","NV","Laurelwood Park","not_available","89103",36.11013539879686,-115.23773300650332
+"89103","Las Vegas","NV","Charlie Frias Park","5250 W Tropicana Ave","89103",36.101354876697485,-115.21017176714098
+"89103","Las Vegas","NV","Ryan's Scooter Shop","4205 W Tompkins Ave","89103",36.10405731201172,-115.1963882446289
+"89104","Las Vegas","NV","Jaycee Park","1134","89109",36.146526885499675,-115.1167490595364
+"89104","Las Vegas","NV","Baker Park","1086 E Saint Louis Ave","89104",36.147151841595566,-115.14066462993861
+"89104","Las Vegas","NV","Justice Myron E Leavitt Park","Eastern Ave","89104",36.147457252086255,-115.11706755941366
+"89104","Las Vegas","NV","Cubscouts","colorado st","89104",36.156004,-115.152405
+"89104","Las Vegas","NV","Turnberry Towers Tennis Courts","322 Karen Ave","89109",36.14098358154297,-115.1523208618164
+"89104","Las Vegas","NV","Huntridge Circle Park","Maryland Parkway","89104",36.15627178503487,-115.1370455596495
+"89106","Las Vegas","NV","Lorenzi Park","3343 W Washington Ave","89107",36.179249275482285,-115.18402080361426
+"89106","Las Vegas","NV","Springs Preserve","333 S Valley View Blvd","89107",36.170862139931856,-115.1903546646956
+"89106","Las Vegas","NV","Cody's Tball","3100 Holly Ave","not_available",36.192074,-115.183367
+"89107","Las Vegas","NV","Charleston Heights Family Park","not_available","89107",36.171898,-115.236314
+"89108","Las Vegas","NV","Children's Memorial Park","not_available","89108",36.22450841096531,-115.23750145819531
+"89108","Las Vegas","NV","charleston heights park","2295 Maverick","89108",36.200640889238365,-115.22841305170942
+"89108","Las Vegas","NV","Coleman park","6336 carmen","89108",36.18483855315299,-115.22962871372394
+"89109","Las Vegas","NV","University Crest Community Park","Heidi St","89119",36.103729996481015,-115.13323236658928
+"89109","Las Vegas","NV","Desert Breeze Baseball Fields","Spring Valley Road","not_available",36.12550144081691,-115.13465405563802
+"89109","Las Vegas","NV","Uniform Center Black Tar Park","not_available","89109",36.12380212938913,-115.17834663391113
+"89109","Las Vegas","NV","Winter Wonderland Amusement Park","3528 S Maryland Pkwy","89169",36.12490102975739,-115.13505360597202
+"89109","Las Vegas","NV","The Park","not_available","89119",36.118755152849005,-115.1545788510964
+"89110","Las Vegas","NV","Cesar E. Chavez Park","1450 Radwick Dr","89110",36.18400192260742,-115.01919555664062
+"89110","Las Vegas","NV","Winterwood park","2272 S.Winterwood Blve","89142",36.14801393395051,-115.05785834898008
+"89110","Las Vegas","NV","Mike Morgan Family Park","3951 E. Bonanza Rd","89110",36.172664642333984,-115.09073638916016
+"89110","Las Vegas","NV","Hollywood Park","not_available","89121",36.15257198689284,-115.02386701488827
+"89110","Las Vegas","NV","Stewart Place Park","4700 Chantilly Ave","89110",36.16326,-115.07009
+"89110","Las Vegas","NV","High Intensity Training","not_available","89086",36.1728372920689,-115.09365320205688
+"89110","Las Vegas","NV","Lewis Family Park","not_available","89142",36.15242528041677,-115.03258939966167
+"89110","Las Vegas","NV","Douglas A. Selby Park and Trailhead","Sandhill","89110",36.184079802115406,-115.08770055485492
+"89113","Las Vegas","NV","Independence II Park","not_available","89148",36.05426944872337,-115.29325910087125
+"89113","Las Vegas","NV","Igt Courtyard","6355 S Buffalo Dr","89113",36.07257080078125,-115.26209259033203
+"89113","Las Vegas","NV","Nevada Trails Park","7075 W Mardon Ave","89113",36.053606076214884,-115.24649698373233
+"89113","Las Vegas","NV","Mountain's Edge Adventure Park","Buffalo","not_available",36.02279105177441,-115.24383424256969
+"89113","Las Vegas","NV","James Regional Sports Complex","8400 W Robindale Rd.","89113",36.048581,-115.273768
+"89113","Las Vegas","NV","The Boondocks","not_available","89113",36.027846,-115.273889
+"89115","Las Vegas","NV","Nellis Meadows Park","not_available","89115",36.21996948939908,-115.0653796287886
+"89115","Las Vegas","NV","Point Desire Park","4500 E. Point Deaire Ave","89031",36.27483553237846,-115.07379504005472
+"89115","Las Vegas","NV","MLK Skatepark","not_available","89156",36.20234712,-115.05732695
+"89115","Las Vegas","NV","Shadow Rock Park","Carey & Los Feliz","not_available",36.20795039075366,-115.01604697774664
+"89115","Las Vegas","NV","Freedom Park.","78-90 Kinley Dr","89115",36.228125874851784,-115.05745052689548
+"89117","Las Vegas","NV","Desert Breeze Park","8300 W Desert Inn Rd","89147",36.12605529974185,-115.27610778808594
+"89117","Las Vegas","NV","Rainbow Family Park","2000-2096 Belcastro St","89117",36.14981726886289,-115.24800200128749
+"89117","Las Vegas","NV","All American Park","1551 S Buffalo Dr","89117",36.15535946721024,-115.26403081188863
+"89117","Las Vegas","NV","Buffalo Park","not_available","89117",36.155303,-115.265527
+"89117","Las Vegas","NV","Waka - Field 2","8300 Desert Inn Rd","89147",36.12647898971023,-115.27559462806826
+"89117","Las Vegas","NV","Old Spanish Trails Park","8150 Tara Ave","89117",36.138878999999996,-115.269232
+"89118","Las Vegas","NV","Western Trails Neighborhood Park","7355 S Rogers St","89139",36.0563478252933,-115.2024488608286
+"89118","Las Vegas","NV","The Playground","3525 W Russell Rd","89118",36.084965999999994,-115.187183
+"89119","Las Vegas","NV","Clark County Siegfried & Roy Park","5501 S. Maryland Prkwy","89119",36.09004914989238,-115.13921121620986
+"89119","Las Vegas","NV","Paradise Vista Park","5582 Stirrup St","89119",36.08910858793773,-115.12273101388783
+"89119","Las Vegas","NV","Sunset park Biking Path","E Maule Ave","89120",36.06345312,-115.11784605
+"89119","Las Vegas","NV","1R/19L viewing area","Las Vegas Blvd","89119",36.07334554195404,-115.17300367355347
+"89119","Las Vegas","NV","Las Vegas Pup Run","not_available","89120",36.063513,-115.117234
+"89119","Las Vegas","NV","Lunch place","Somewhere","89119",36.08359046337291,-115.12091848762904
+"89119","Las Vegas","NV","McCarran Marketplace Park","5732-5772 Burnham Ave","89119",36.08543304223919,-115.12364016859307
+"89120","Las Vegas","NV","Sunset Park","2601 E Sunset Rd","89120",36.06845784638911,-115.1150894165039
+"89121","Las Vegas","NV","Paradise Park","4775 McLeod Dr","89121",36.101545,-115.11198
+"89121","Las Vegas","NV","Winchester Park & Community Center","3130 McLeod Dr","89121",36.13432890774494,-115.10753612115934
+"89121","Las Vegas","NV","Road Runner RV Park","4711 Boulder Hwy","89121",36.11918,-115.07135
+"89121","Las Vegas","NV","Greenbriar Townhouse Way Park","Greenbriar Townhouse Way","89121",36.1342359309317,-115.0928941653395
+"89122","Las Vegas","NV","Horsemans park","5800 E Flamingo Rd","89122",36.11164129789738,-115.04992668071759
+"89123","Las Vegas","NV","Duck Creek Park","8500 Pollock Dr","89123",36.03242821162744,-115.14452106634306
+"89123","Las Vegas","NV","Desert Bloom Park","8405 S Maryland Pkwy","89123",36.03563589143876,-115.13818050448013
+"89123","Las Vegas","NV","Hidden Palms Park","8855 Hidden Palms Pkwy","89123",36.02945295188481,-115.15117417867295
+"89124","Las Vegas","NV","Exploration Peak Park","9700 S Buffalo Dr","89178",36.013968,-115.260366
+"89124","Las Vegas","NV","Crossings Park","10259-10299 Banburry Cross Dr","89144",36.185221500510565,-115.32164051953501
+"89124","Las Vegas","NV","Silverado Ranch Park","9855 Gilespie St","89183",36.011583,-115.165464
+"89124","Las Vegas","NV","The Gardens Park","10401 Garden Park Dr","89135",36.12635464622247,-115.32158264819252
+"89124","Las Vegas","NV","Huckleberry Park","10325 Farm Rd","89166",36.29859630620841,-115.32107916705029
+"89124","Las Vegas","NV","The Mesa Park","5401 Mesa Park Dr","not_available",36.08834835704678,-115.32593454255047
+"89124","Las Vegas","NV","Mountain's Edge Regional Park","8101 W Mountain's Edge Pkwy","89178",36.00449137990549,-115.2683132375867
+"89128","Las Vegas","NV","Pueblo Park","not_available","89128",36.195242733916224,-115.26536127377219
+"89128","Las Vegas","NV","Bruce Trent Park","8851 Vegas Dr","89128",36.18813839138767,-115.28642957534937
+"89128","Las Vegas","NV","Bill Briare Family Park","751 N Tenaya Way","89128",36.17923925801012,-115.2505127739078
+"89128","Las Vegas","NV","Las Vegas Sports Park","1600 N. Rampart Blvd","not_available",36.18643435027964,-115.28515046942367
+"89128","Las Vegas","NV","Doc Romeo Park","7400 Peak Dr","89128",36.21429150088258,-115.25638297733431
+"89128","Las Vegas","NV","Pioneer Park","at Braswell Dr","89128",36.18600351219831,-115.25414355524076
+"89129","Las Vegas","NV","W. Wayne Bunker Family Park","7351 W Alexander Rd","89129",36.23265868076514,-115.25479185546769
+"89129","Las Vegas","NV","Barkin' Basin Dog Park","7341 W Alexander Rd","89129",36.231190719661264,-115.25343736952777
+"89129","Las Vegas","NV","Mountain Crest Park","4701 N Durango Dr","89129",36.24642849839726,-115.28114527087465
+"89129","Las Vegas","NV","Trigono Hills Park","not_available","89129",36.22997,-115.331987
+"89129","Las Vegas","NV","Garehime Heights Park","3190 N. Campbell Rd.","not_available",36.23242311658709,-115.29543771874188
+"89129","Las Vegas","NV","Buckskin Basin Park","Gowan Rd and Tenaya Way","89129",36.22377190485314,-115.25451064109802
+"89129","Las Vegas","NV","Lone Mountain Equestrian Park and Trail","4445 N Jensen St","89129",36.23837361363481,-115.3103727626306
+"89129","Las Vegas","NV","Majestic Park","3997 N Hualapai Way","89129",36.22689464089463,-115.31249671155675
+"89129","Las Vegas","NV","Cliff Shadows Equestrian Park","3355 Cliff Shadows Pkwy","89129",36.22060775756836,-115.33275604248047
+"89129","Las Vegas","NV","Lone Mountain Regional Park","9825 W Lone Mountain Rd","89129",36.24746741371222,-115.31511256301452
+"89129","Las Vegas","NV","Police Memorial Park","3250 metro academy way","89129",36.222096680704,-115.3107373652643
+"89129","Las Vegas","NV","Lone Mountain Discovery Park","4445 N Jensen","89129",36.242473372247176,-115.30945301055908
+"89129","Las Vegas","NV","Durango Hills Park","3501 N Durango Dr","89129",36.224609375,-115.27912139892578
+"89129","Las Vegas","NV","Lose A Pound With Your Hound","7351 W. Alexander Rd","89129",36.23257827758789,-115.2578353881836
+"89129","Las Vegas","NV","Stoneridge Park","10620","89129",36.24668283343773,-115.33081298863294
+"89130","Las Vegas","NV","Endless Meadows grassy area","not_available","89130",36.27291561287974,-115.25799701922858
+"89130","Las Vegas","NV","Pocket Park","not_available","89149",36.26851,-115.265089
+"89131","Las Vegas","NV","Lamplight Village Park","not_available","89131",36.298963628074254,-115.26634526483309
+"89131","Las Vegas","NV","Centennial Hills Park","7101 N Buffalo Dr","89131",36.28731442769983,-115.26145421964557
+"89131","Las Vegas","NV","The Grove at Silk Purse Ranch","8080 Al Carrington Dr.","not_available",36.30840995043495,-115.27355076801877
+"89131","Las Vegas","NV","Floyd Lamb Park at Tule Springs","9200 Tule Springs Rd","89131",36.32073574842227,-115.2683132375867
+"89131","Las Vegas","NV","Enclave II Park","8187 Al Carrison St","89131",36.308747,-115.274583
+"89131","Las Vegas","NV","Glenwood Park","Decatur","89131",36.306902711576804,-115.23962011881603
+"89131","Las Vegas","NV","Boot Camp Las Vegas Centennial Location","6601 Deer Springs","89131",36.284264302998906,-115.26386212844943
+"89131","Las Vegas","NV","Mccool Regional Park","Horse St","89131",36.31876396812851,-115.21662102131125
+"89131","Las Vegas","NV","Montecito Baseball Park","6800-7198 Oso Blanca Rd","89149",36.289391370091735,-115.27976196046146
+"89131","Las Vegas","NV","Teton Trails Lacrosse Park","7850 Bradley Rd","89131",36.303346999999995,-115.21386799999999
+"89131","Las Vegas","NV","Centenial Hillsa Skate Park","7198 Oso Blanca Rd","89149",36.290996074676514,-115.28087139129639
+"89131","Las Vegas","NV","Floyd Lamb Park","durango","not_available",36.31342540100333,-115.27978163938943
+"89134","Las Vegas","NV","Arbors Tennis and Play Park","610 Sageberry Dr","89144",36.18013066380008,-115.33455712856886
+"89134","Las Vegas","NV","The Trails Park","not_available","89134",36.19225784908733,-115.31319670774687
+"89134","Las Vegas","NV","The Hills Park And Playground","9030-9210 Hillpointe Rd","89134",36.19975728024841,-115.29222295836877
+"89134","Las Vegas","NV","Arbors Park","600-602 Laurelglen Dr","89144",36.17869852445862,-115.33226346704753
+"89134","Las Vegas","NV","Hills Park Tennis Courts","hillpointe rd","89134",36.207360783333336,-115.29987
+"89135","Las Vegas","NV","Paseos Village Park","12122 Desert Moon Road","89135",36.16446666091093,-115.35437561127807
+"89135","Las Vegas","NV","Willows Park","2775 Desert Marigold Ln","89135",36.13908192391859,-115.32069721528552
+"89135","Las Vegas","NV","Spotted Leaf Park","2955 Spotted Leaf Ln","89135",36.136462684729594,-115.33379904521935
+"89135","Las Vegas","NV","Cottonwood Canyon Park","Pavillion Center to Hualapai Way","89144",36.16340906022749,-115.32456879514937
+"89135","Las Vegas","NV","Community Park","10588 Marketwalk Pl","89135",36.15134128154497,-115.32225974221338
+"89135","Las Vegas","NV","Sagemont Park","not_available","89135",36.154114,-115.34002
+"89135","Las Vegas","NV","Oak Leaf Park","not_available","89178",36.073638,-115.317688
+"89135","Las Vegas","NV","Village Green Park","1901 Sandstone Bluffs Dr","89135",36.15532742085849,-115.31943468021613
+"89138","Las Vegas","NV","South Tower Park","1022 Park Vista","89135",36.16829656756064,-115.34744101021244
+"89138","Las Vegas","NV","Vistas Community Park","11311 Alta Dr","89124",36.16886325763758,-115.34483537026527
+"89138","Las Vegas","NV","Fox Hill Park","not_available","89138",36.179817,-115.361041
+"89139","Las Vegas","NV","Cougar Creek Park","not_available","89139",36.033358,-115.23779
+"89141","Las Vegas","NV","Olympia Sports Park","Starr Hills Avenue","89141",35.98414,-115.20604
+"89141","Las Vegas","NV","Goett Family Park","10950 Southern Highlands Pkwy.","80141",35.9912516551539,-115.20062101404842
+"89141","Las Vegas","NV","Jimmy Pettyjohn Jr Park","11322 Southern Highlands Pkwy","89141",35.985043752093624,-115.18462190640598
+"89141","Las Vegas","NV","Jaynes Family Splash Pad","10950 Southern Highlands Pkwy","89141",35.990368,-115.20296100000002
+"89141","Las Vegas","NV","Inzalaco Family Park","5801 Shinnecock Hills Ave.","89141",35.990126926723626,-115.22438673161729
+"89141","Las Vegas","NV","Boot Camp Las Vegas","10717 Valencia Hills St.","89141",35.995079040527344,-115.19833374023438
+"89141","Las Vegas","NV","Fire Station Dog Park","3826 W Starr Ave","89141",35.984407,-115.189376
+"89141","Las Vegas","NV","Park At Highland Hills","not_available","89141",36.00123611349847,-115.21759869358107
+"89141","Las Vegas","NV","Southern Highlands Park","Shinnecock Hills Ave","89141",35.991156,-115.221195
+"89141","Las Vegas","NV","Somerset Hills Park","10717 Valencia Hills St","89141",35.995162220561,-115.19777681598231
+"89141","Las Vegas","NV","Stonewater Park","Valley View","89141",35.98504291970456,-115.18463053373713
+"89143","Las Vegas","NV","Skye Canyon Park","10119 W Skye Canyon Park Dr","89166",36.313965695423796,-115.31455119854566
+"89143","Las Vegas","NV","Spring Mountain Ranch Park","8450 N Fort Apache Rd.","89143",36.31369744904179,-115.28897725550738
+"89143","Las Vegas","NV","Centennial Point Community Park","Marshall Canyon","89149",36.30861987731034,-115.30442331235659
+"89143","Las Vegas","NV","Gilcrease Brothers Park","10045 Gilcrease Ave","89149",36.30258786101625,-115.31380464007964
+"89143","Las Vegas","NV","Sleeping Pines Park","not_available","89143",36.30343623754169,-115.28797388076781
+"89144","Las Vegas","NV","Red Spring Park","Calico Basin Rd","89161",36.17656892631796,-115.32349108144786
+"89145","Las Vegas","NV","Ansan sister city park","Ducharme","not_available",36.16974617631538,-115.26536706196403
+"89145","Las Vegas","NV","RRSAR Training Center","330 Villa Monterey Dr","89145",36.168968200683594,-115.26338195800781
+"89146","Las Vegas","NV","Rainbow Park","not_available","89146",36.14861085844491,-115.24007742345812
+"89146","Las Vegas","NV","Davis Park","6698 Tara Ave","89146",36.13867855437504,-115.23738568397698
+"89147","Las Vegas","NV","Paul Meyer Park","4525 New Forest Dr","89147",36.106990184251174,-115.25321162129788
+"89147","Las Vegas","NV","Prosperity Park","7101 Parasol Ln","89147",36.117770765526416,-115.2488760658392
+"89147","Las Vegas","NV","Ravenwood Park","not_available","89147",36.11096179641206,-115.24756207383068
+"89147","Las Vegas","NV","Spring Valley Community Park","7400 W Flamingo Rd","89147",36.115900511613496,-115.25770340143059
+"89148","Las Vegas","NV","Wet'n'Wild Las Vegas","7055 S Fort Apache Rd","89148",36.059954350481725,-115.300655653354
+"89148","Las Vegas","NV","Mountain Ridge Park","2000 Frontage Rd","not_available",36.095832,-115.300688
+"89149","Las Vegas","NV","The Promenade At Providence","7195 Eagan Crest Rd","89166",36.29194894601188,-115.32164051953501
+"89149","Las Vegas","NV","Knickerbocker Park","10695 W Dorrell Ln","89166",36.2873718348544,-115.32750282969567
+"89149","Las Vegas","NV","Cimarron rose community center","5591 N Cimarron Rd","89149",36.262394,-115.27037800000001
+"89166","Las Vegas","NV","Park @ Windimere","Hunts Corner St","89149",36.290027626423914,-115.33135117541245
+"89178","Las Vegas","NV","chaco canyon neighborhood park","Sundad Street","89179",35.98825589341939,-115.25030582177331
+"89178","Las Vegas","NV","Nathaniel Jones Park","Mountains Edge Parkway","89178",36.006730967687076,-115.28414917465894
+"89178","Las Vegas","NV","Arlington Park","Blowing RainSt","89113",36.01791017001201,-115.28383853396703
+"89178","Las Vegas","NV","Twilight Zone Park","8835","89178",36.016247,-115.28452
+"89183","Las Vegas","NV","Puccinni Park","1899 Seven Hills Dr","not_available",35.986016270433794,-115.11995365833823
+"89183","Las Vegas","NV","Allegro Park","1023 Seven Hills Drive","not_available",35.98945917983312,-115.12197241787423
+"89183","Las Vegas","NV","LVRJ Hawkers","1124 Autumn Bay Ct","89052",35.986812,-115.153125
+"89183","Las Vegas","NV","Vivaldi Park","1249 Seven Hills Drive","not_available",35.98236725685389,-115.12765004857847
+"89301","Ely","NV","Ely City Park","not_available","89301",39.246961,-114.895861
+"89301","Ely","NV","WPC Park","749-799 Clark St","89301",39.24822658526269,-114.88878075678127
+"89406","Fallon","NV","Grimes Point Archaeological Area","not_available","89406",39.401271,-118.647255
+"89406","Fallon","NV","Autumn Winds","2995 N Fork Rd","89408",39.583675384521484,-119.17479705810547
+"89406","Fallon","NV","fernley golf course","not_available","89408",39.58914852813683,-119.15020861583693
+"89406","Fallon","NV","Pioneer park","525 N Maine St","89406",39.48138427734375,-118.77721405029297
+"89406","Fallon","NV","Drumm Park","Drumm Rd","89406",39.445187,-118.752914
+"89406","Fallon","NV","Oats Park","151 E Park St","89406",39.47285421008343,-118.76989898456115
+"89410","Gardnerville","NV","Lampe Park","Waterloo Lane","89410",38.93373504369577,-119.7432854223979
+"89410","Gardnerville","NV","Bently Park","not_available","89423",38.96521966340464,-119.72180488130594
+"89410","Gardnerville","NV","Oat Hill","not_available","89444",38.734467,-119.52216
+"89410","Gardnerville","NV","Stodick Park","Stodick","89410",38.940544,-119.73145
+"89410","Gardnerville","NV","Mitch Park Pond","1379–1461 Topaz Ln","89460",38.90772216238726,-119.73492661455245
+"89411","Genoa","NV","Brautovich Park","not_available","89449",38.99545435621703,-119.89660128977519
+"89412","Gerlach","NV","Drommedarissenpark","K","not_available",40.777,-119.21756
+"89413","Glenbrook","NV","Logan Shoals Vista Point","1401-1459 U.S. 50","89413",39.05781717745215,-119.9430555829755
+"89415","Hawthorne","NV","Lions Park","Armory Road","89415",38.525525787502154,-118.63039602651726
+"89415","Hawthorne","NV","Hawthorne Veterans Memorial Park","not_available","89415",38.53264961971122,-118.62521131234983
+"89419","Lovelock","NV","Rye Patch State Recreation","2601-2609 Nevada 401","89419",40.467548638494605,-118.29936934481184
+"89419","Lovelock","NV","Courthouse Park","Western Ave","89419",40.18046200275421,-118.47686290740967
+"89423","Minden","NV","Stodick Park Gardnerville, NV","Toler Rd","not_available",38.95566898274979,-119.76722232747484
+"89429","Silver Springs","NV","Fort Churchill State Historic Park","California Emigrant Trail","89429",39.29551685810887,-119.27032470703125
+"89429","Silver Springs","NV","penny park","Donner Trail","89429",39.41414260864258,-119.22162628173828
+"89431","Sparks","NV","Sparks Marina Park","300 Howard Drive","89434",39.53532704347466,-119.73190857043166
+"89431","Sparks","NV","Pah Rah Park","Merlot Court","not_available",39.56440204876546,-119.70921365006444
+"89431","Sparks","NV","Willow Creek Park","1216-1224 Pullman Dr","89434",39.5459334874767,-119.72278389500144
+"89431","Sparks","NV","Rock Park","not_available","89431",39.52052399989562,-119.76405020249456
+"89431","Sparks","NV","Vista View Park","2201 N. D'Andrea Parkway","89434",39.55811427656215,-119.70223877590057
+"89431","Sparks","NV","Canyon Hill Park","4480 Los Altos Pkwy","not_available",39.566973,-119.694316
+"89431","Sparks","NV","Les Hicks, Jr. Park","not_available","89436",39.565644259098555,-119.72743267171214
+"89431","Sparks","NV","Rock Park","Rock Blvd","89502",39.52290324965703,-119.77546612223789
+"89431","Sparks","NV","Ardmore Park","1100 12th St","89431",39.544125,-119.757488
+"89431","Sparks","NV","Sparks Marina East Parking Lot","Harbor Cove Dr","not_available",39.537629677581435,-119.734225311627
+"89431","Sparks","NV","Glendale Park","3993 Coney Island Dr.","not_available",39.518943892479385,-119.7479509808644
+"89431","Sparks","NV","Rivers Edge RV Park","1405 S Rock Blvd","89431",39.521685999999995,-119.76633700000001
+"89431","Sparks","NV","Pah-Rah Park","Shadow ln.","89434",39.56408427505655,-119.71064478580249
+"89431","Sparks","NV","Tegila's Paradise Park","Teglia's Paradise Park","89431",39.54383805814468,-119.78027760416303
+"89431","Sparks","NV","Melody Lane Park","not_available","89512",39.560871035295946,-119.78079210061598
+"89431","Sparks","NV","Deer Park","1701-1799 F St","89431",39.53930670379664,-119.7680026252357
+"89431","Sparks","NV","Village Green Park","900-910 Lepori Way","89431",39.56098828446472,-119.75349289642467
+"89433","Sun Valley","NV","Sun Valley Park","5600-5698 Slope Dr","89433",39.597749759077374,-119.78199070036189
+"89434","Sparks","NV","Hidden Valley Park","4740 Parkway Dr","89502",39.4864940787907,-119.7140104427919
+"89434","Sparks","NV","102 Ranch","not_available","89434",39.564967,-119.49106
+"89434","Sparks","NV","Sage Canyon Park","Vista Heights Drive","89436",39.584626,-119.694431
+"89434","Sparks","NV","Eagle Park","1300 Disc Dr","89436",39.577091217041016,-119.7231674194336
+"89434","Sparks","NV","Hidden Valley Regional Park","4740 Parkway Dr.","89502",39.485633850097656,-119.70930480957031
+"89436","Sparks","NV","Gator Swamp","not_available","89441",39.654114,-119.71296
+"89436","Sparks","NV","Desert Winds County Park","105 Ember Dr","89436",39.64318037169982,-119.72670755301304
+"89436","Sparks","NV","Nana & Sensei's","Washoe Belle","89436",39.624214,-119.693817
+"89436","Sparks","NV","Jacinto Park","Jacinto Avenue","89436",39.62593619525909,-119.68451436396413
+"89436","Sparks","NV","Fiscus Backyard","not_available","89433",39.65062657196902,-119.72545872874504
+"89439","Verdi","NV","Crystal Peak Park","587 3rd St","89439",39.51409825408871,-119.99589832310947
+"89439","Verdi","NV","Verdi School Park","not_available","89523",39.52973133987831,-119.98941421508789
+"89441","Sparks","NV","Lazy 5 regional park","7100 Pyramid Way #A","89436",39.62059242542368,-119.7218557869553
+"89445","Winnemucca","NV","Riverview Park","not_available","89445",40.976673,-117.7386
+"89447","Yerington","NV","Pool Park","not_available","89447",38.98978,-119.162039
+"89447","Yerington","NV","Mt View Park","Mt View","not_available",38.98573331284169,-119.16788578033447
+"89451","Incline Village","NV","Aspen Grove","960 Lakeshore Blvd","not_available",39.240662,-119.945125
+"89501","Reno","NV","Wingfield Park","S Arlington Ave","89501",39.52400506816012,-119.81628210555265
+"89501","Reno","NV","Bicentennial Park","10 Ralston Street","89503",39.524227142333984,-119.81880950927734
+"89501","Reno","NV","Barbara Bennett Park","not_available","89501",39.52352967373802,-119.81616340610186
+"89501","Reno","NV","Newlands Park","700 California Ave","89509",39.519666,-119.821877
+"89501","Reno","NV","Truckee River White Water Park","400 W 1st St","89503",39.524415,-119.81715088
+"89501","Reno","NV","Whitaker Park","550 University Terrace","89503",39.53269478478213,-119.82398604767161
+"89501","Reno","NV","Compression! Art and Fire","10 North Virginia Street","89501",39.52460212125979,-119.81207669159639
+"89501","Reno","NV","Stewart Park","400 Stewart St","89502",39.52186,-119.804372
+"89501","Reno","NV","Evans Park","200 E 9th St","not_available",39.5367431640625,-119.8123779296875
+"89502","Reno","NV","Miguel Ribera Park","3925 Neil Rd","89502",39.488712,-119.782122
+"89502","Reno","NV","A Park Bench","2300-2598 Lakeside Dr","89509",39.498100339974926,-119.80792202435234
+"89502","Reno","NV","Horizon Park","not_available","89521",39.443532377886854,-119.73729065820766
+"89502","Reno","NV","Mira Loma Park","McCarran Blvd.","89502",39.4825327800929,-119.74270069197996
+"89502","Reno","NV","The Huffaker Park Hill","not_available","89511",39.453764495460895,-119.76816229223729
+"89502","Reno","NV","Cyan City Park","Veterans Parkway","89521",39.444785,-119.728512
+"89502","Reno","NV","Wilkinson Park","not_available","89502",39.51839649789062,-119.79377261237302
+"89502","Reno","NV","Jamaica Park","4450 S. McCarran Ble.","89502",39.47783774598523,-119.77768813161188
+"89502","Reno","NV","Manzanita Park","754 Manzanita ln","89501",39.48291240197776,-119.80381687952992
+"89502","Reno","NV","Silver Sage RV Park","2760 S Virginia St","89502",39.498144,-119.79868400000001
+"89502","Reno","NV","Audrey Harris Park","6600 Lakeside Dr.","89511",39.46473693847656,-119.80548858642578
+"89502","Reno","NV","Liston Park","Reno,NV,89502","89502",39.50937742250533,-119.79385741138422
+"89502","Reno","NV","George Hamilton Memorial Children's Park","not_available","89509",39.490991,-119.799074
+"89502","Reno","NV","Whittaker Park","Washington","89502",39.51033024747594,-119.79992888608619
+"89503","Reno","NV","Rancho San Rafael Park","N McCarran Blvd","89503",39.54758669035596,-119.82906103134155
+"89503","Reno","NV","Idlewild Park","1850 Idlewild Dr","89509",39.52068601974404,-119.83298379983624
+"89503","Reno","NV","Plumas Park (aka Dog Park)","Walker","89509",39.51465979,-119.81438105
+"89503","Reno","NV","Ivan Sack Park","3005 Idlewild","89501",39.515152,-119.846177
+"89503","Reno","NV","Lundsford Park","700 Riverside Drive","89503",39.51921278530242,-119.83006934004518
+"89503","Reno","NV","Seminary Park","not_available","89503",39.5384,-119.819
+"89503","Reno","NV","Haunted Robb Canyon","1455 rainbow ridge road","not_available",39.53137781,-119.87162948
+"89506","Reno","NV","Golden Valley Park","not_available","89506",39.61753338207264,-119.82227346954745
+"89506","Reno","NV","Silver Lake Park","Reno,NV,89506","89506",39.65952589515095,-119.92061899716384
+"89508","Reno","NV","Village Park ~ Cold Springs","18705 Village Center Dr","89508",39.68816345800019,-119.96237403369997
+"89508","Reno","NV","Cold Springs Park","3355 White Lake Pkwy.","89508",39.67600631713867,-119.97748565673828
+"89509","Reno","NV","Crissie Caughlin Park","3415 Idlewild Drive","89509",39.511192321777344,-119.85542297363281
+"89509","Reno","NV","Betsy Caughlin Donnelly Park","3636-3664 Mayberry Dr","89509",39.50722032845652,-119.85821620524892
+"89511","Reno","NV","Bowers Mansion Regional Park","4005 Old US 395 North","not_available",39.286,-119.840372
+"89511","Reno","NV","Phillip and Annie Callahan Park","15960 Callahan Ranch Road","not_available",39.36152912151888,-119.81802867143232
+"89523","Reno","NV","Sherwood Forest","London","89523",39.521747976743505,-119.89973648327617
+"89701","Carson City","NV","Mills Park","Hwy 50","not_available",39.1688122975408,-119.75643341540069
+"89701","Carson City","NV","Carson River Park","not_available","89701",39.1415673594622,-119.70606849419927
+"89701","Carson City","NV","Sonoma Park","1003 Sonoma Street","not_available",39.13973035048126,-119.75739240646362
+"89701","Carson City","NV","Harmony Park","not_available","89703",39.163754,-119.770196
+"89701","Carson City","NV","Pony Express Model Air Park","Flint Drive","89701",39.181780881233905,-119.74652588133955
+"89701","Carson City","NV","Blackwell's Pond Park","2317 Northridge Drive","89706",39.1638665368286,-119.76730585098265
+"89701","Carson City","NV","Carson City Rendezvous","700 Mills Park Ln","89701",39.168109,-119.7569
+"89704","Washoe Valley","NV","Washoe Lake Rest Area","not_available","89704",39.246853,-119.811049
+"89801","Elko","NV","green belt park","not_available","89801",40.833343944950734,-115.76013431119478
+"89801","Elko","NV","Carlin park","not_available","89822",40.71673860936852,-116.12392087697488
+"89801","Elko","NV","Mountain View Park","3300-3398 Argent Ave","89801",40.843648853592725,-115.78461476079129
+"89820","Battle Mountain","NV","Lion’s Park","not_available","89820",40.642476,-116.932751
+"89835","Wells","NV","City Park","824 Clover Ave","89835",41.105743408203125,-114.97010040283203
+"89883","West Wendover","NV","Scobie Park","Wendover Blvd","89883",40.736380641236536,-114.0570330619812

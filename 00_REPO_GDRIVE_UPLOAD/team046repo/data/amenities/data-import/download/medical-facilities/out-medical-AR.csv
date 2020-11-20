@@ -1,0 +1,296 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"71601","Pine Bluff","AR","Jefferson Regional Medical Center","1600 W 40th Ave","71603",34.18809869318326,-92.01780395172106
+"71601","Pine Bluff","AR","Jefferson Regional Med Center Emergency Rm","not_available","not_available",34.18958071049288,-92.01880342616059
+"71601","Pine Bluff","AR","Jefferson Regional Medical Center Surgery Waiting Room","not_available","71603",34.18908369348936,-92.01799523695777
+"71601","Pine Bluff","AR","Arkansas Urology","1609 W 40th Ave Suite 301","71603",34.1896632,-92.0189015
+"71601","Pine Bluff","AR","MedExpress Urgent Care","5510 S. Olive Street","71603",34.1742848,-92.0073679
+"71601","Pine Bluff","AR","JRMC Urgent Care Center","4201 S Mulberry St","71603",34.186648,-92.014832
+"71635","Crossett","AR","Hospital","hospital","71635",33.13830015711586,-91.93908174522937
+"71652","Kingsland","AR","st. johns place nursing & rehab","Hwy 79/167 Bypass","71742",33.82432878915518,-92.43040402006993
+"71652","Kingsland","AR","Millcreek Of Arkansas","Industrial dr","71742",33.832706451416016,-92.38966369628906
+"71652","Kingsland","AR","Dallas County Medical Center","not_available","71742",33.81078,-92.425377
+"71653","Lake Village","AR","Allegiance Specialty Hospital of Greenville","300 S Washington Ave Fl 3","38701",33.403621,-91.051043
+"71653","Lake Village","AR","Work","chicot memorial hospital","not_available",33.306256,-91.290406
+"71653","Lake Village","AR","Chicot Memorial Medical Center","not_available","71653",33.306304931640625,-91.29024505615234
+"71655","Monticello","AR","Drew Memorial Hospital","778 Scogin Dr","71655",33.610580686095005,-91.81583404541016
+"71671","Warren","AR","Bradley County Medical Center","not_available","71671",33.61054611206055,-92.05880737304688
+"71701","Camden","AR","Kindred at Home","222 W Washington St","71701",33.58548944,-92.83218537
+"71701","Camden","AR","Ouachita County Medical Center","Hospital Drive","71701",33.57487106323242,-92.8342514038086
+"71730","El Dorado","AR","Medical Center of South Arkansas - Emergency Room","700 W Grove St","71730",33.22003936767578,-92.6709976196289
+"71730","El Dorado","AR","Warner Brown Hospital","not_available","71730",33.21504971449024,-92.6687797971185
+"71730","El Dorado","AR","Arkansas Urology","619 N. Newton Ave.","71730",33.2173627,-92.6721051
+"71753","Magnolia","AR","ccas","S Pine, Magnolia, AR 71753","71753",33.259136337761575,-93.24003057151012
+"71753","Magnolia","AR","ccas","N Pine, Magnolia, AR 71753","71753",33.26502092778873,-93.23811601070125
+"71801","Hope","AR","Wadley Regional Medical Center at Hope","2001 South Main Street","71801",33.6482068,-93.5848996
+"71801","Hope","AR","Kindred at Home","209 S Main St","71801",33.667621999999994,-93.591486
+"71801","Hope","AR","Family Medicine Specialist","302 Bill Clinton Dr Ste A","71801",33.6470537463701,-93.58445975950718
+"71851","Mineral Springs","AR","Howard Memorial Hospital","130 Medical Cir","71852",33.949728,-93.880424
+"71851","Mineral Springs","AR","Nashville Medical Center","6 Southpark Shopping Ctr","71852",33.927543,-93.849769
+"71852","Nashville","AR","Pike County Health Unit","15 Caddo Dr","71958",34.06423568725586,-93.69365692138672
+"71854","Texarkana","AR","Riverview Behavioral Health Hospital","701 Arkansas Blvd","71854",33.460802,-94.035442
+"71854","Texarkana","AR","texarkana veterans cboc","not_available","71854",33.470368204761066,-94.03223113657161
+"71854","Texarkana","AR","Kindred at Home","210 N State Line Ave","71854",33.42182845,-94.04278969
+"71901","Hot Springs National Park","AR","St. Vincent's Outpatient Bldg.","1 Mercy Ln","71913",34.46819328269219,-93.06725819531569
+"71901","Hot Springs National Park","AR","Npmc","1816-1898 Malvern Ave","71901",34.486466,-93.03473795
+"71901","Hot Springs National Park","AR","Levi Hospital","not_available","71901",34.509944,-93.05749499999999
+"71901","Hot Springs National Park","AR","Chi St Vincent South","not_available","71913",34.463491,-93.075422
+"71901","Hot Springs National Park","AR","Senior Helpers","4836 Park Avenue","71901",34.58049940000001,-92.97835660000001
+"71901","Hot Springs National Park","AR","Millennium Medical And Rehabilitation PC","1075 Central Park Ave Ste 107","10583",34.52978810700413,-93.04284811019897
+"71901","Hot Springs National Park","AR","Canyon Springs Nursing Home","park avenue","71913",34.53627722218851,-93.03085758176532
+"71901","Hot Springs National Park","AR","CHI St. Vincent Hot Springs Rehabilitation Hospital, a partner of Encompass Health","1636 Higdon Ferry Rd","71913",34.4637419,-93.0746585
+"71901","Hot Springs National Park","AR","CHI St. Vincent Convenient Care - Hot Springs","100 McGowan Ct","71913",34.46945202098287,-93.0667951185344
+"71901","Hot Springs National Park","AR","The Breast Center at NPMC","1900 Malvern Ave Ste 101","71901",34.4869376,-93.0355968
+"71901","Hot Springs National Park","AR","St. Joseph's Mercy Hospital","3604 Central Ave","71913",34.468502044677734,-93.06066131591797
+"71901","Hot Springs National Park","AR","MedExpress Urgent Care","3426 Central Avenue","71913",34.4714229,-93.0601828
+"71901","Hot Springs National Park","AR","Cedars-Sinai Medical Center","8700 Beverly Blvd","90048",34.477848052978516,-93.0409927368164
+"71913","Hot Springs National Park","AR","st joes hospital","higedon ferry","71913",34.47263146666667,-93.19728538333334
+"71923","Arkadelphia","AR","Baptist Health Medical Center - Arkadelphia","not_available","71923",34.12257225907499,-93.08888407948932
+"71923","Arkadelphia","AR","Ascent Children's Health Services Of Arkadelphia","2410 Pine St","71923",34.1234476,-93.0792848
+"71953","Mena","AR","Mena Womens Center","not_available","71953",34.588767070537905,-94.22072865533404
+"71953","Mena","AR","Senior Behavioral Health Department","311 Morrow Street","71953",34.588965,-94.221333
+"72002","Alexander","AR","Saline Memorial Hospital","1 Medical Park Dr","72015",34.573542441861484,-92.5852848469121
+"72002","Alexander","AR","Pinnacle Pointe Hospital","11501 Financial Centre Pkwy","72211",34.745810999999996,-92.40189000000001
+"72002","Alexander","AR","MedExpress Urgent Care","1501 Military Road","72015",34.5780776,-92.575104
+"72002","Alexander","AR","Baptist Health Center","not_available","72015",34.57087010823308,-92.58879918199032
+"72002","Alexander","AR","Finance Expert","18 Colonel Glenn Plaza Dr","72210",34.70844650268555,-92.40460205078125
+"72002","Alexander","AR","Saline Memorial Hospital Short Stay","1 Medical Dr.","72015",34.573594,-92.585469
+"72002","Alexander","AR","Southwest Hospital","not_available","72103",34.65733253277202,-92.40342988491147
+"72002","Alexander","AR","Inspiration Day Treatment, Inc.","11700 Kanis Rd Ste 2","72211",34.744009999999996,-92.40398499999999
+"72002","Alexander","AR","Rivendell Behavioral Health Services of Arkansas","100 Rivendell Dr","72019",34.613375,-92.532761
+"72002","Alexander","AR","Centerview Surgery Center","1310 Center View Dr.","72211",34.7418968,-92.4013253
+"72002","Alexander","AR","Arkansas Urology","5 Medical Park Dr., Ste. GL3","72015",34.5742003,-92.5852473
+"72002","Alexander","AR","Heart Rhythm Associates","11220 Executive Center Drive Suite 200","72211",34.7383144,-92.4022933
+"72002","Alexander","AR","Saline Memorial Hospice","23157 Interstate 30 S","72022",34.61856460571289,-92.49624633789062
+"72002","Alexander","AR","Bryant Health Urgent Care","not_available","72022",34.625106,-92.499637
+"72002","Alexander","AR","Baptist Home Health","not_available","72206",34.71211136232601,-92.40686891602924
+"72002","Alexander","AR","Saline Memorial Hospital ER","McNeil Street","not_available",34.572471,-92.586323
+"72002","Alexander","AR","Ascent Children's Health Services Of Benton","3214 Winchester Dr","72015",34.59308060781286,-92.55595610306955
+"72003","Almyra","AR","De Witt Nursing Home","not_available","72042",34.274324456863106,-91.35024680495593
+"72003","Almyra","AR","De Witt Hospital","1641 S Whitehead Dr","72042",34.27954864501953,-91.33870697021484
+"72007","Austin","AR","Baptist Health Therapy Center Cabot","205 Westport Dr","72023",34.98029878987979,-92.04352484308674
+"72007","Austin","AR","work","not_available","72023",34.9280983858501,-91.95701221121995
+"72007","Austin","AR","MedExpress Urgent Care","1850 West Main Street","72023",34.9822561,-92.0373303
+"72012","Beebe","AR","Northstar EMS","808 McAfee Med Cir","not_available",35.080946999999995,-91.89248
+"72023","Cabot","AR","Medical Center","1454-1588 Braden St","72076",34.87286899876469,-92.09071916782293
+"72023","Cabot","AR","North Metro Medical Center","1400 Braden St","72076",34.87293822342215,-92.12558915607659
+"72023","Cabot","AR","BHNLR","not_available","72076",34.89506425,-92.08961961
+"72023","Cabot","AR","Ashcraft Orthodontics Jacksonville","2650 John Harden Dr Ste L","72076",34.8922055,-92.1018069
+"72031","Clinton","AR","Ozark Medical","2500 Highway 65 S","72031",35.559574127197266,-92.45211791992188
+"72031","Clinton","AR","Arkansas Urology","2526 Hwy. 65 South","72031",35.5589375,-92.4506542
+"72032","Conway","AR","Baptist Health Medical Center","1555 Exchange Ave","72032",35.05643844604492,-92.41927337646484
+"72032","Conway","AR","Conway Regional Medical Center","2302 College Ave","72034",35.085690082192244,-92.45705599808905
+"72032","Conway","AR","MEMS","not_available","72032",35.093283,-92.43925
+"72032","Conway","AR","Surgical Associates","College Ave","72034",35.085878,-92.45715
+"72032","Conway","AR","conway healthcare","not_available","72034",35.069708103024865,-92.4654202088095
+"72032","Conway","AR","Sherwood Urgent Care Clinic","222 E Dave Ward Dr","72032",35.06690267649167,-92.42633107173282
+"72032","Conway","AR","MedExpress Urgent Care","805 Oak Street","72032",35.0915752,-92.4346535
+"72032","Conway","AR","Arkansas Urology","1375 Superior Drive","72032",35.0600126,-92.422856
+"72041","De Valls Bluff","AR","Southern Paramedic Service Hazen Base","not_available","72064",34.779884,-91.580034
+"72044","Edgemont","AR","Van Buren County Memorial Medical Center","not_available","72067",35.5856255,-92.1346214
+"72076","Jacksonville","AR","ASH Urgent Care","7339 N Hills Blvd Ste 100","72116",34.818214460774904,-92.23385175539204
+"72076","Jacksonville","AR","St. Vincent Hospital","101-279 John Harden Dr","72076",34.833333321712544,-92.23243751078
+"72086","Lonoke","AR","Sherwood Urgent Care","305 W Front St","72086",34.78367233276367,-91.90275573730469
+"72104","Malvern","AR","BHMC Malvern Campus","1001 Schneider Dr","72104",34.359134674072266,-92.78569793701172
+"72104","Malvern","AR","HSC Malvern Hospital","not_available","72104",34.35922086238861,-92.78569400310516
+"72106","Mayflower","AR","Personalized Medical Solutions LLC","57 Waterside Cv","72113",34.853673,-92.418816
+"72106","Mayflower","AR","MEMS Maumelle Station","not_available","72113",34.851323124486925,-92.39893011207859
+"72106","Mayflower","AR","Sherwood Urgent Care","Maumelle Blvd","72113",34.851606,-92.403817
+"72110","Morrilton","AR","St Anthonys Rehab","not_available","72110",35.17032767789511,-92.71763909182332
+"72110","Morrilton","AR","St. Anthony's Medical Center","4 Hospital Dr","72110",35.16824722290039,-92.72132873535156
+"72113","Maumelle","AR","Arkansas Surgical Hospital","5201 Northshore Dr","72118",34.800106048583984,-92.34822082519531
+"72113","Maumelle","AR","Nirvana Med Spa â€"" Little Rock, AR","14524 Cantrell Rd Ste 130","72223",34.8025327,-92.4353099
+"72114","North Little Rock","AR","Baptist Health Medical Center","3333 Springhill Dr","72117",34.784084737164825,-92.22228035679504
+"72114","North Little Rock","AR","North Little Rock VA (Fort Roots)","2200 Fort Roots Dr","72114",34.777727160678396,-92.29698178267564
+"72114","North Little Rock","AR","Arkansas Anti-Aging","400 W. Capitol Avenue, Suite 1321","72201",34.7452807,-92.2751284
+"72114","North Little Rock","AR","Senior Helpers","1015 West 2nd Street","72201",34.74843628,-92.28194775
+"72114","North Little Rock","AR","ACH Cart System","not_available","72201",34.74624052339105,-92.29016382435285
+"72114","North Little Rock","AR","Baptist Health Labor And Delivery","not_available","72117",34.78326529923174,-92.22517764956115
+"72116","North Little Rock","AR","Central Arkansas Urgent Care","5013 John F Kennedy Blvd","72116",34.801558,-92.255205
+"72116","North Little Rock","AR","MedExpress Urgent Care","5505 John F Kennedy Blvd","72116",34.805749,-92.252505
+"72116","North Little Rock","AR","Heart Clinic Arkansas","4000 Richards Rd","72117",34.790027,-92.212249
+"72117","North Little Rock","AR","CHI St. Vincent North - Emergency Room","2215 Wildwood Ave","72120",34.81306627670779,-92.2084175083537
+"72117","North Little Rock","AR","North River Surgey","not_available","72120",34.812915,-92.208517
+"72117","North Little Rock","AR","St. Vincent Rehabilitation","2201 Wildwood Ave","72120",34.8135753,-92.2087615
+"72118","North Little Rock","AR","ReGynerate by Moore Surgical Arts & Gynecology","8201 Cantrell Road #300","72227",34.776279,-92.36581059999999
+"72126","Perryville","AR","Chambers Memorial Hospital","PO Box 369","72833",34.939063,-93.145647
+"72131","Quitman","AR","Quitman EMS- Station","not_available","72131",35.38423,-92.216418
+"72131","Quitman","AR","Sherwood Urgent Care Clinic","Heber Springs Rd","not_available",35.38270259946458,-92.22039283261817
+"72135","Roland","AR","Arkansas Children's Hospital West Little Rock Clinic","not_available","72223",34.8028344,-92.450472
+"72143","Searcy","AR","Sherwood Urgent Care","Shepherd","72143",35.240313,-91.72199
+"72143","Searcy","AR","White County Medical Center","not_available","72143",35.25201888957846,-91.69755288960066
+"72143","Searcy","AR","White County Urgent Care","2902 E Race Ave","72143",35.2510986328125,-91.70081329345703
+"72157","Springfield","AR","Pokécenter. :]","not_available","21061",35.267942,-92.565875
+"72160","Stuttgart","AR","BHMC-Stuttgart Hospital","1703 N Buerkle St","72160",34.516990661621094,-91.55847930908203
+"72166","Tichnor","AR","Pacific Urgent Care","23653 El Toro Rd #B","92630",33.978935,-91.206928
+"72201","Little Rock","AR","Arkansas Children's Hospital","1 Childrens Way","72202",34.74312887310982,-92.29169011116028
+"72201","Little Rock","AR","ACH Sturgis Building","3 Childrens Way","72202",34.742684999999994,-92.292808
+"72201","Little Rock","AR","ACH Adolescent Clinic","not_available","72202",34.7392,-92.290327
+"72201","Little Rock","AR","ACH 4th Floor","4th Floor","not_available",34.74329308526575,-92.29203060182805
+"72202","Little Rock","AR","CHI St. Vincent Imaging - Infirmary","2 Saint Vincent Cir","72205",34.749804,-92.3395969
+"72202","Little Rock","AR","John L McClellan Veterans Hospital","4300 W 7th St","72205",34.74622503106754,-92.320536787008
+"72202","Little Rock","AR","UAMS Winthrop P. Rockefeller Cancer Institute","4018 W Capitol Ave","72205",34.74820676103965,-92.31888771057129
+"72202","Little Rock","AR","Hillcrest Animal Hospital","2900 Kavanaugh Blvd.","72205",34.758228,-92.325394
+"72202","Little Rock","AR","UAMS NICU","4301 W Markham St","72205",34.74817986067732,-92.32078769720327
+"72202","Little Rock","AR","SVI Parking Deck","not_available","72205",34.75025398840045,-92.33686108213818
+"72204","Little Rock","AR","Baptist Health Medical Center","9601 Interstate 630","72205",34.74450385459449,-92.38173569781775
+"72204","Little Rock","AR","Baptist Health BHRI","9601 Interstate 630 Exit 7","72205",34.744468688964844,-92.38182830810547
+"72204","Little Rock","AR","Arkansas Heart Hospital","1701 S Shackleford Rd","72211",34.739543676330946,-92.39328140047076
+"72204","Little Rock","AR","Baptist Emergency Room","9601 Baptist Health Dr","72205",34.7445770920309,-92.38075300227268
+"72204","Little Rock","AR","Hickingbotham Building At Baptist","9600-9694 Kanis Rd","72205",34.74348712879225,-92.38027651599043
+"72204","Little Rock","AR","UAMS 9F","not_available","72204",34.743723,-92.321749
+"72204","Little Rock","AR","OrthoArkansas","800 Fair Park Blvd, Little Rock, AR","72204",34.74468994140625,-92.3363265991211
+"72204","Little Rock","AR","Infectious Disease Resource Center PLLC","9680-9754 Lile Dr","72205",34.74603025,-92.38147673
+"72204","Little Rock","AR","SEAN DAVIDSON","3305 Malloy St","72204",34.72323,-92.37481
+"72210","Little Rock","AR","St. Vincent West","Chenal","72211",34.7634728000627,-92.45914213063745
+"72210","Little Rock","AR","Mary Sain, MD","16221 Saint Vincent Way","72223",34.76357060140278,-92.45927600801934
+"72210","Little Rock","AR","MedExpress Urgent Care","12300 Chenal Parkway","72211",34.75068828889441,-92.41036981344223
+"72211","Little Rock","AR","Urgent Care 360","300 Shackleford Rd","72211",34.751069,-92.394829
+"72211","Little Rock","AR","FirstLight HomeCare Little Rock, AR","10825 Financial Centre Pkwy","72211",34.747344,-92.396035
+"72301","West Memphis","AR","Crittenden Regional Hospital","200 W Tyler Ave","72301",35.142916853667195,-90.18920879986578
+"72301","West Memphis","AR","Crittenden Emergency","not_available","72301",35.149602,-90.181906
+"72301","West Memphis","AR","Bennett Rudorfer, MD","310 W Tyler Ave","72301",35.143821716308594,-90.19170379638672
+"72301","West Memphis","AR","Ascent Children's Health Services Of West Memphis","413 West Tyler Cove","72301",35.144410887467004,-90.19614726305008
+"72315","Blytheville","AR","Fresinius","not_available","72315",35.935474,-89.882712
+"72315","Blytheville","AR","Ascent Children's Health Services Of Blytheville","1510 Byrum Rd","72315",35.909005,-89.917117
+"72326","Colt","AR","Forrest City Medical Center Emergency Department","1601 New Castle Rd","72335",35.03986358642578,-90.77674865722656
+"72327","Crawfordsville","AR","Coast To Coast","not_available","72364",35.193209,-90.212685
+"72342","Helena","AR","Helena Regional Medical Center Emergency Department","1801 Martin Luther King Jr Dr","72342",34.51001739501953,-90.62740325927734
+"72370","Osceola","AR","SMC Medical Center","398-518 Grandview","72370",35.70019398185124,-89.97595244729409
+"72396","Wynne","AR","CrossRidge Community Hospital","601-699 E Arkansas Ave","72396",35.21992492675781,-90.78678894042969
+"72401","Jonesboro","AR","NEA Baptist Memorial Hospital","4800 E Johnson Ave","72401",35.86667816727863,-90.63629472944284
+"72401","Jonesboro","AR","St Bernards Hospital","225 E Jackson Ave","72401",35.835933661697766,-90.70190458832751
+"72401","Jonesboro","AR","Encompass Health Rehabilitation Hospital of Jonesboro","1201 Fleming Ave","72401",35.8325682,-90.6929482
+"72401","Jonesboro","AR","Ascent Children's Health Services Of Jonesboro","806 Glendale St","72401",35.83353212251673,-90.6720922095775
+"72401","Jonesboro","AR","NEA Clinic Urgent Care","Apache Dr","not_available",35.809135,-90.668442
+"72401","Jonesboro","AR","Arkansas Continued Care Hospital","not_available","72401",35.808354,-90.666238
+"72401","Jonesboro","AR","HealthSouth rehab","Osler drive","72401",35.83297741257697,-90.69289027034404
+"72401","Jonesboro","AR","Nea Urgent care","Parker rd","72404",35.80727,-90.69858
+"72401","Jonesboro","AR","Baptist Hospital","4804 E Johnson Rd","not_available",35.866878419732515,-90.63723424931229
+"72401","Jonesboro","AR","Surgical Hospital of Jonesboro","909 Enterprise Dr","72401",35.81020802461794,-90.69179187360932
+"72401","Jonesboro","AR","St. Bernards Urgent Care- Redwolf Blvd.","333 Red Wolf Blvd","72405",35.84708,-90.66609100000001
+"72401","Jonesboro","AR","Foot Care of Northeast Arkansas","801 OSLER DR #D","72401",35.83447,-90.69359
+"72416","Bono","AR","Dacus RTC","211 Church St","72416",35.90810775756836,-90.80481719970703
+"72433","Hoxie","AR","lawrence hall nursing center","not_available","72476",36.07292259710323,-90.96733583789205
+"72450","Paragould","AR","Arkansas Methodist Medical Center","900 W Kingshighway","72450",36.0517578125,-90.49862670898438
+"72450","Paragould","AR","Ascent Children's Health Services Of Paragould","1910 Rector Rd","72450",36.08137402612913,-90.47564758919634
+"72450","Paragould","AR","Kindred at Home","200 N 2nd St","72450",36.0574326,-90.48769275
+"72450","Paragould","AR","Piggott Community Hospital","not_available","72454",36.259212,-90.293656
+"72455","Pocahontas","AR","St. Bernards Five Rivers Medical Center","2801 Medical Center Dr","72455",36.28997039794922,-90.99689483642578
+"72455","Pocahontas","AR","Five Rivers Medical center","not_available","72455",36.29179000854492,-90.99616241455078
+"72472","Trumann","AR","Ascent Children's Health Services Of Trumann","1005 Balcom Ln","72472",35.6881096,-90.5357255999999
+"72472","Trumann","AR","Trumann ambulance service","408 Jaden Cv","72472",35.67778015136719,-90.54569244384766
+"72501","Batesville","AR","White River Medical Center","not_available","72501",35.768004901015175,-91.63430192466775
+"72501","Batesville","AR","WRMC 2nd Floor","1215 Rodney St.","72501",35.76769777364722,-91.63521210575759
+"72501","Batesville","AR","Ascent Children's Health Services Of Batesville","2040 Fitzhugh St","72501",35.76826311313143,-91.63081794977188
+"72501","Batesville","AR","BabyVue Ultrasound","3250 Harrison St","72501",35.7685621,-91.62662419999998
+"72513","Ash Flat","AR","Medical Complex Emergency  Department","not_available","72529",36.2595085382908,-91.5599973629145
+"72530","Drasco","AR","Arkansas Urology","1800 Bypass Road","72543",35.5045823,-91.9980288
+"72530","Drasco","AR","Baptist Medical Center-Heber Springs","not_available","72543",35.50430679321289,-91.9984130859375
+"72560","Mountain View","AR","Stone County Medical Center","2106 E Main St","72560",35.85667419433594,-92.08282470703125
+"72560","Mountain View","AR","WRNC Surgery - Dr Aiken's","not_available","72560",35.856712341308594,-92.08318328857422
+"72576","Salem","AR","Fulton County Hospital","not_available","72576",36.38294243728521,-91.81017387017256
+"72601","Harrison","AR","North Arkansas Regional Medical Center","701-799 N Willow St","72601",36.2362761019482,-93.10836661643258
+"72601","Harrison","AR","Arkansas Urology","715 W Sherman Ave","72601",36.241451,-93.114502
+"72601","Harrison","AR","Apple Ridge Health And Rehabilitation","not_available","72601",36.24834441666667,-93.11906196666666
+"72601","Harrison","AR","NARMC HomeCare","Spring St.","not_available",36.237316,-93.109919
+"72616","Berryville","AR","St. Johns - Mercy Hospital of Berryville","214 Carter St","72616",36.35908083070165,-93.55180785853463
+"72631","Eureka Springs","AR","Mercy Convenient Care - Eureka Springs","121 E Van Buren Ste D","72632",36.39343404358698,-93.73777596853444
+"72631","Eureka Springs","AR","Eureka Springs Hospital","24 Norris St","72632",36.400172,-93.744189
+"72653","Mountain Home","AR","Baxter County Regional Medical Center","624 Hospital Dr","72653",36.3429502,-92.3944185
+"72653","Mountain Home","AR","Ascent Children's Health Services Of Mountain Home","18 Co Rd 458","72653",36.363746716573964,-92.38414451479912
+"72653","Mountain Home","AR","Baxter Regional Pediatric Clinic","highway 5","72653",36.33966960717952,-92.37763333060859
+"72653","Mountain Home","AR","MedExpress Urgent Care","305 Highway 62 East","72653",36.3423766,-92.3829978
+"72653","Mountain Home","AR","Hiram Shaddox Geriatric Center","620 Hospital Dr, Mountain Home, AR 72653","72653",36.3404655456543,-92.39569854736328
+"72687","Yellville","AR","Marion County Health Unit","not_available","72687",36.24327316666667,-92.70178556666667
+"72701","Fayetteville","AR","Nw Urgent Care- Wedington","3399 Black Forest Dr","72704",36.07709884643555,-94.20904541015625
+"72701","Fayetteville","AR","Kara's Urgent Care","not_available","72703",36.0778859786084,-94.17585721613803
+"72701","Fayetteville","AR","Arkansas Urology","2630 E Citizens Dr Ste 3","72703",36.087791,-94.124229
+"72701","Fayetteville","AR","Northwest Health Emergency Department Fayetteville","1255 S Shiloh Dr","72701",36.0513377,-94.1947412
+"72703","Fayetteville","AR","Health South Rehab Hospital","153 E Monte Painter Dr","72703",36.109053,-94.154754
+"72703","Fayetteville","AR","Washington Regional Medical Center","3215 N Northhills Blvd","72703",36.10922862191113,-94.15991842746735
+"72703","Fayetteville","AR","Washington Regional - ER","Northhills","72704",36.1087669783403,-94.15869101054956
+"72703","Fayetteville","AR","Springwoods Behavioral Health","1955 Truckers Drive","72704",36.108438,-94.18696399999999
+"72703","Fayetteville","AR","MedExpress Urgent Care","2890 North College Avenue","72703",36.103798,-94.147132
+"72703","Fayetteville","AR","Vista Health","4253 N Crossover Rd","72703",36.12779998779297,-94.11959838867188
+"72703","Fayetteville","AR","Mercy-GoHealth Urgent Care","3391 N College Ave Ste 1","72703",36.1128777,-94.1462992
+"72703","Fayetteville","AR","Springwoods","1699 Truckers Dr","72704",36.10843899087377,-94.18651002919538
+"72703","Fayetteville","AR","Urgent Care","3017 N Bob Younkin Dr Ste 102","72703",36.10644,-94.158312
+"72703","Fayetteville","AR","Willard Walker Hospice House","Longview Street","not_available",36.110711,-94.151921
+"72703","Fayetteville","AR","North Hills Medical Park","3344 N Futrall Dr","72703",36.112083435058594,-94.15608978271484
+"72704","Fayetteville","AR","MedExpress Urgent Care","1160 South 40th Street","72762",36.1755104,-94.1751346
+"72712","Bentonville","AR","Mercy Hospital","2710 S Rife Medical Ln","72758",36.309017492206856,-94.18314694922049
+"72712","Bentonville","AR","Northwest ICU","not_available","72712",36.33982597616584,-94.19132700996245
+"72712","Bentonville","AR","Deep Roots NWA","103 SW Winsted Ln #25","72713",36.3591675936835,-94.22391057014465
+"72712","Bentonville","AR","Northwest Health ER","not_available","72756",36.33694584930177,-94.17953794392123
+"72712","Bentonville","AR","Mercy Hospital","4, AR","72758",36.280430196660795,-94.1624867433532
+"72712","Bentonville","AR","Northwest Health Urgent Care - Sugar Creek","1102 NW Lowes Ave Ste 2","72712",36.420509338378906,-94.22374725341797
+"72712","Bentonville","AR","Northwest Health Urgent Care - Pinnacle","2000 S 42nd St Ste 100","72758",36.3155403137207,-94.17744445800781
+"72712","Bentonville","AR","Northwest Health Urgent Care - Pinnacle","2000 S 42nd St","72758",36.3155403137207,-94.17744445800781
+"72712","Bentonville","AR","Mercy ER Bella Vista","not_available","72714",36.438109,-94.234436
+"72712","Bentonville","AR","Mercy Convenient Care - Highway 102","3101 SE 14th St","72712",36.358032567012856,-94.17519904838929
+"72712","Bentonville","AR","Mercy-GoHealth Urgent Care","2012 S Promenade Blvd","72758",36.3102136,-94.1800956
+"72714","Bella Vista","AR","Northwest Health Urgent Care - Sugar Creek","1102 NW Lowes Ave","72712",36.420509338378906,-94.22374725341797
+"72714","Bella Vista","AR","Mercy Emergency Department - Bella Vista","1 Mercy Way","72714",36.437524,-94.232534
+"72715","Bella Vista","AR","A Dark Hole","Ok","72714",36.444015,-94.277721
+"72719","Centerton","AR","Northwest Health Hospital","not_available","72764",36.36724373248289,-94.2914778072281
+"72736","Gravette","AR","Ozarks Community Hospital","1101 Jackson St SW","72736",36.408681,-94.460575
+"72736","Gravette","AR","Gravette E.R.","not_available","72736",36.4191677,-94.4479352
+"72745","Lowell","AR","Ozark Urgent Care","114 Harrison Ave","72745",36.252986907958984,-94.13533020019531
+"72756","Rogers","AR","Northwest Arkansas DNA Testing","601 W Walnut St Ste 17","72756",36.33374,-94.12286499999999
+"72756","Rogers","AR","Mercy Recovery Ward","not_available","72758",36.3088307884592,-94.18286382329521
+"72758","Rogers","AR","Ozark Urgent Care","1501 SE Walton Blvd","72712",36.334734,-94.189391
+"72758","Rogers","AR","4Th Floor Waiting Room","Rife Drive","72758",36.308759,-94.183263
+"72758","Rogers","AR","All About Smiles","3207 W Arapaho Dr","72758",36.31406011211196,-94.17061662500753
+"72761","Siloam Springs","AR","Northwest Health Urgent Care - Siloam Springs","3721 E US 412 Hwy","72761",36.17815481086304,-94.52354908033158
+"72761","Siloam Springs","AR","Northwest Health Urgent Care - Siloam Springs","3721 U.S. 412","72761",36.1814461,-94.50617609999999
+"72761","Siloam Springs","AR","Siloam Springs Regional Hospital - Emergency Room","603 N Progress Ave","72761",36.1898192,-94.5075045
+"72762","Springdale","AR","Northwest Health Urgent Care - Springdale","4077 Elm Springs Rd","72762",36.19264221191406,-94.1751708984375
+"72762","Springdale","AR","Mercy-GoHealth Urgent Care","4962 Elm Springs Road, Suite 5","72762",36.194007873535156,-94.18473052978516
+"72762","Springdale","AR","Cassady Children's Center","986 Elmwood St Ste C","72762",36.19376754760742,-94.17314147949219
+"72762","Springdale","AR","Urgent Care","3561 Johnson Mill Blvd Ste 102","72704",36.136638,-94.177383
+"72762","Springdale","AR","Washington Regional Center For Health","813 Founder's Park","not_available",36.179115,-94.205051
+"72762","Springdale","AR","DrMet Biomedical and Laser Services","3101 American St Ste C","72764",36.15747008280575,-94.14532162698364
+"72762","Springdale","AR","Mercy Emergency Department - Springdale","4600 Mercy Ln","72762",36.189532540218636,-94.18274995904449
+"72762","Springdale","AR","Arkansas Children's Northwest","2601 Gene George Blvd","72762",36.1621821,-94.1903392
+"72764","Springdale","AR","Northwest Physicians - Surgical Services","601 W Maple Ave","72764",36.18099594116211,-94.13587188720703
+"72764","Springdale","AR","Northwest Medical Center - Emergency Room","609 W Maple Ave","72764",36.18056869506836,-94.136474609375
+"72764","Springdale","AR","Northwest Health Urgent Care - Eastside","2158 Butterfield Coach Rd","72764",36.165199279785156,-94.09490966796875
+"72764","Springdale","AR","Northwest Health Physicians' Specialty Hospital - Emergency Room","3873 N Parkview Dr","72703",36.1215204,-94.13418449999999
+"72801","Russellville","AR","Kindred at Home","1509 E Main St","72801",35.2786151,-93.1141123
+"72801","Russellville","AR","MedExpress Urgent Care","511 West Main Street","72801",35.2789424,-93.1380133
+"72801","Russellville","AR","Arkansas Hospice River Valley Home","not_available","72801",35.28493085976903,-93.16794281330591
+"72801","Russellville","AR","St. Mary's Regional Medical Center","1808 W Main St","72801",35.28353113618836,-93.15012681208066
+"72801","Russellville","AR","Arkansas Urology","2504 W Main St.","72801",35.2854094,-93.1576146
+"72824","Belleville","AR","CMH Radiology Dept.","PO Box 639","72833",35.054733900410824,-93.38769890677595
+"72824","Belleville","AR","John Ed Chambers Memorial Hospital","not_available","72833",35.0546684261881,-93.38800600167889
+"72830","Clarksville","AR","Johnson Regional Medical Center","1100 E Poplar St","72830",35.46188735961914,-93.44514465332031
+"72830","Clarksville","AR","ReGynerate by Moore Surgical Arts & Gynecology","501 West Main","72830",35.4710729,-93.46564389999999
+"72843","Hector","AR","RS oen solo baru","Solo","not_available",35.58721999999999,-92.96333
+"72846","Lamar","AR","Pro Med Medical Care Center","3801 S Lamar Blvd","78704",35.505188295488246,-93.27258735895157
+"72855","Paris","AR","Mercy Hospital Paris","500 E Academy St","72855",35.28926297067641,-93.72496743573106
+"72901","Fort Smith","AR","Sparks Hospital","not_available","72901",35.37474349284274,-94.41918601429123
+"72901","Fort Smith","AR","Sparks Behavioral Health","1500 Dodson Ave Ste 155","72901",35.371534000000004,-94.41725
+"72901","Fort Smith","AR","Encompass Health Rehabilitation Hospital of Fort Smith","1401 S J St","72901",35.37393886912533,-94.41870868206024
+"72901","Fort Smith","AR","Mercy Convenient Care - Zero Street","1400 S Zero St","72901",35.32774311767599,-94.41882390141541
+"72901","Fort Smith","AR","Pro Med","1700-1798 S Zero St","72908",35.32754671944473,-94.41880420550616
+"72903","Fort Smith","AR","St Edward Mercy Medical Center","not_available","72903",35.35548685762639,-94.35254143539261
+"72903","Fort Smith","AR","Mercy orthopedic clinic","3501 W.E. 9th st.","72903",35.34743490325249,-94.3439821826011
+"72903","Fort Smith","AR","Kindred at Home","2120 S Waldron Rd","72903",35.36152528,-94.37382135
+"72903","Fort Smith","AR","MedExpress Urgent Care","4600 Rogers Avenue","72903",35.3678002,-94.3813397
+"72903","Fort Smith","AR","Mercy Convenient Care - 79th Street","3505 S 79th St","72903",35.3476143925952,-94.34479947729812
+"72903","Fort Smith","AR","Instituto de Doenças Tropicais Dr. Natan Portella","Rua Governador Artur de Vasconcelos, 151","64001450",35.33315658569336,-94.31156158447266
+"72903","Fort Smith","AR","Mercys Hospital","rogers","72903",35.34735486933429,-94.34397716585772
+"72903","Fort Smith","AR","Fort Smith Animal Emergency Clinic","4301 Regions Park Dr Ste 3","72916",35.32684222470356,-94.3866616623004
+"72903","Fort Smith","AR","river valley urgent care","3500 WE Knight Drive","72903",35.34764025838562,-94.34466948091453
+"72903","Fort Smith","AR","Mercy Heart and Vascular - Fort Smith","7001 Rogers Ave","72903",35.35571660641689,-94.3538105109073
+"72903","Fort Smith","AR","Ihab Herraka MD (Herraka Ihab MD)","3416 Old Greenwood Rd","72903",35.350443,-94.393241
+"72903","Fort Smith","AR","Valley Behavioral Health System","10301 Mayo Dr","72923",35.3412791879199,-94.31311305630516
+"72903","Fort Smith","AR","Michelle Davis, NP","6801 Rogers Ave Ste 4 Fl","72903",35.3568072,-94.35777619999999
+"72903","Fort Smith","AR","Mercy Convenient Care - Tower West","6801 Rogers Ave Fl 1","72903",35.35711016504548,-94.35747532636992
+"72904","Fort Smith","AR","Rester Home for the Mentally Insane and Yoga Studio","not_available","72904",35.39214324951172,-94.39441680908203
+"72927","Booneville","AR","Mercy Emergency Department - Booneville","880 W Main St","72927",35.140327,-93.935416
+"72949","Ozark","AR","Mercy Hospital Ozark","801 W. River","72949",35.4856627,-93.8336318
+"72949","Ozark","AR","Ozark Er","not_available","72949",35.480661,-93.824142
+"72956","Van Buren","AR","Mr. Nutrition","1514 Fayetteville Rd. Ste. E","72956",35.45734914405845,-94.35409426689148
+"72956","Van Buren","AR","Van Buren Health And Rehab","not_available","72956",35.454359000000004,-94.325294
+"72958","Waldron","AR","Mercy Hospital Waldron","1341 W 6th St","72958",34.894524919526674,-94.10594510512965

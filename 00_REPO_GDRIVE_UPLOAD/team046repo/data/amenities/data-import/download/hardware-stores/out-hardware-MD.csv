@@ -1,0 +1,932 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"20601","Waldorf","MD","The Home Depot","12050 Jefferson Farm Pl","20601",38.6470489,-76.8926463
+"20601","Waldorf","MD","Lowe's","2525 Crain Hwy","20601",38.6429901,-76.896425
+"20601","Waldorf","MD","Lowe's","300 Rosewick Road","20646",38.557964,-76.981713
+"20601","Waldorf","MD","Harbor Freight Tools Waldorf","Crain Highway","20603",38.621226,-76.914814
+"20601","Waldorf","MD","Tractor Supply Co.","10795 Wawa Ln","20695",38.594254,-76.937678
+"20601","Waldorf","MD","Flooring America","4390 Demarr Rd","20695",38.587589594934606,-76.94488096782072
+"20601","Waldorf","MD","McConnell Pool & Fuel","4560 Crain Hwy","20695",38.58726,-76.94481
+"20601","Waldorf","MD","Ferguson Plumbing Supply","10720 Demarr Rd","20695",38.590562,-76.93865
+"20601","Waldorf","MD","Lyon, Conklin & Co., Inc. Heating & Cooling Division","10720-b DeMarr Rd","20695-3125",38.589948,-76.93864
+"20601","Waldorf","MD","Duron Paints & Wallcoverings","12370 Waldorf Business Sq","20601",38.650172,-76.880953
+"20601","Waldorf","MD","ABC Supply Co. Inc.","22 Industrial Park Dr Ste C","20602",38.616718,-76.906074
+"20601","Waldorf","MD","Lowes","Billingsley Rd","20602",38.57957794991544,-76.91170070826821
+"20601","Waldorf","MD","McCormick Paint","2794 Crain Hwy","20601",38.63403196109993,-76.90196890694637
+"20601","Waldorf","MD","minuteKEY","300 Rosewick Rd","20646",38.55803680419922,-76.98233795166016
+"20601","Waldorf","MD","Clinton Fences","not_available","not_available",38.63595,-76.89584
+"20601","Waldorf","MD","Marjam Supply","12105 Acton Ln","20601",38.634371,-76.894852
+"20601","Waldorf","MD","Capital Electric","4382 Crain Hwy","20695",38.59246063232422,-76.93997192382812
+"20601","Waldorf","MD","Elite Key & Door Services","11865 Federal Sq Ste 204","20602",38.61851119995117,-76.89878845214844
+"20601","Waldorf","MD","Tool Solutions","2896 Old Washington Rd","20601",38.6308,-76.9019
+"20601","Waldorf","MD","fastenal","3472 Rockefeller Ct","20602",38.61657972688324,-76.90903284171989
+"20601","Waldorf","MD","minuteKEY","40 Drury Dr","20646",38.5505326,-76.9828145
+"20601","Waldorf","MD","Southern Maryland Hydraulics, Inc.","18 Irongate Dr Ste G","20602",38.612469,-76.907116
+"20601","Waldorf","MD","Sherwin-Williams Paint Store","2252 Crain Hwy","20601",38.648866,-76.8847
+"20601","Waldorf","MD","American Hardware","2875 U.S. 301","20601",38.6326188,-76.904842
+"20601","Waldorf","MD","ADJ Sheet Metal","4501-4587 Graphics Dr","20695",38.587838,-76.932973
+"20601","Waldorf","MD","Monarch Paint & Design Centers","12370 Waldorf Business Square","20601",38.650554,-76.88126
+"20602","Waldorf","MD","Sears","11170 Mall Circle","20603",38.61642,-76.927076
+"20602","Waldorf","MD","Sears","11145 Mall Cir","20603",38.61597206639858,-76.93061108926702
+"20607","Accokeek","MD","Bryans Rd Bldg/Su Co Inc","3060 Livingston Rd","20616",38.627118,-77.072998
+"20613","Brandywine","MD","United Electrical Supply","12045 Trade Zone Ct","20601",38.637434000000006,-76.892886
+"20619","California","MD","Lowe's","45075 Worth Avenue","20619",38.2999005,-76.5169551
+"20619","California","MD","Tractor Supply Co.","23788 Mervell Dean Rd","20636",38.321345,-76.543625
+"20619","California","MD","minuteKEY","45075 Worth Ave","20619",38.300012,-76.516758
+"20619","California","MD","Thomas Somerville","23721 Three Notch Rd","20636",38.319506,-76.54400799999999
+"20619","California","MD","McKays","46075 Signature Lane","20653",38.25283363642595,-76.48197077241505
+"20619","California","MD","Royal Glass","21500 Great Mills Rd","20653",38.257433,-76.47254000000001
+"20620","Callaway","MD","Dyson Building Center","not_available","20620",38.23814010620117,-76.50474548339844
+"20622","Charlotte Hall","MD","Charlotte Hall Ace Hardware","30314 Triangle Dr","20622",38.49852752685547,-76.77283477783203
+"20622","Charlotte Hall","MD","Southern States","29815 Three Notch Rd","20622",38.487762,-76.776275
+"20622","Charlotte Hall","MD","Mechanicsville Building Supply","28155 Three Notch Rd","20659",38.441563,-76.737359
+"20622","Charlotte Hall","MD","Noland company","29020 Three Notch Rd","20659",38.465999603271484,-76.76891326904297
+"20622","Charlotte Hall","MD","84 Lumber","7402-7424 New Market Turner Rd","20659",38.471866607666016,-76.77293395996094
+"20622","Charlotte Hall","MD","Corbin Home Improvement, LLC","37445 Asher Rd","20659",38.403684000000005,-76.781867
+"20634","Great Mills","MD","Sherwin-Williams Paint Store","21795 N Shangri La Dr","20653",38.26566770472001,-76.45521998405457
+"20639","Huntingtown","MD","Tractor Supply Co.","3150 North Solomons Island Rd","20639",38.60119544,-76.61481746
+"20639","Huntingtown","MD","Benjamin Moore/Dunkirk Paints","not_available","20639",38.667275,-76.600762
+"20639","Huntingtown","MD","L.J. Elter & Son Power Equipment Centers","2470 Emmanuel Ct","20639",38.592852,-76.563121
+"20639","Huntingtown","MD","Benjamin Moore/Dunkirk Paints","not_available","20678",38.55727005004883,-76.59947967529297
+"20640","Indian Head","MD","Foundation Building Materials","14962 Farm Creek Drive","22191",38.62785842,-77.25556675
+"20646","La Plata","MD","La Plata Hardware","6655 Crain Hwy","20646",38.529021,-76.984457
+"20646","La Plata","MD","LA PLATA MILL & SUPPLY CO INC","213 Kent Ave","20646",38.532940999999994,-76.975369
+"20646","La Plata","MD","la plata mill & Supply","not_available","20646",38.53296661376953,-76.97549438476562
+"20650","Leonardtown","MD","Northeastern supply","26731 Radio Station Way","20650",38.31993865966797,-76.66973114013672
+"20650","Leonardtown","MD","Southern Maryland Paints","23976 Point Lookout Rd","20650",38.271809000000005,-76.60876
+"20650","Leonardtown","MD","Leonardtown Ace Hardware","40845 Merchants Ln","20650",38.2753999,-76.6327
+"20657","Lusby","MD","Sneade's Ace Home Center","11861 Hg Trueman Rd","20657",38.3827709,-76.43052
+"20657","Lusby","MD","Solomon's True Value Hardware And Rental","20 Creston Lane","20688",38.34472671841551,-76.46364887950983
+"20657","Lusby","MD","HX21 hgr 111 Supply Bldg","not_available","20670",38.33252124127412,-76.42348202432404
+"20657","Lusby","MD","Dunkirk supply","Nursery Rd","not_available",38.42555618286133,-76.46066284179688
+"20659","Mechanicsville","MD","Jay's Sweat Shop","35717 Army Navy Dr","20659",38.377928000000004,-76.842036
+"20664","Newburg","MD","A G Hungerford & Son Inc.","12165 Rock Point Rd","20664",38.378071000000006,-76.954422
+"20676","Port Republic","MD","Husqvarna US","PO Box 810","20678",38.525760650634766,-76.591796875
+"20676","Port Republic","MD","Sears","255 Solomons Island Road","20678",38.5345373799872,-76.5859347581863
+"20678","Prince Frederick","MD","Lusby Motor Company Inc.","155 Main St","20678",38.538845,-76.583647
+"20678","Prince Frederick","MD","Northeastern supply","5270 Cutter Ct","20678",38.508108,-76.64014499999999
+"20678","Prince Frederick","MD","Lusby Hardware","155 Main Street","not_available",38.539148,-76.583399
+"20680","Ridge","MD","Ridge Hardware","13210 Point Lookout Rd","20680",38.107659999999996,-76.36595600000001
+"20701","Annapolis Junction","MD","The Main Source","not_available","20701",39.12588022453958,-76.80001751205168
+"20701","Annapolis Junction","MD","Baker Distribution","not_available","20763",39.133634,-76.810251
+"20701","Annapolis Junction","MD","Vimco","8870 Greenwood Pl","20763",39.126403,-76.813348
+"20705","Beltsville","MD","The Home Depot","4700 Cherry Hill Rd","20740",39.0175435,-76.9308745
+"20705","Beltsville","MD","The Home Depot","2300 Broadbirch Dr","20904",39.0584412,-76.9608555
+"20705","Beltsville","MD","Re Michaels","not_available","20705",39.027314139710256,-76.90897092851726
+"20705","Beltsville","MD","milwaukee tool","11712 Baltimore Ave Ste B","20705",39.04732894897461,-76.90147399902344
+"20705","Beltsville","MD","Ferguson Plumbing Supply","11730 Baltimore Ave","20705",39.04745,-76.90035
+"20705","Beltsville","MD","Keyworks","not_available","20904",39.082688,-76.945186
+"20705","Beltsville","MD","Capital Electric","10417B Baltimore Ave","20705",39.026556153365746,-76.91801369190216
+"20705","Beltsville","MD","Sherwin-Williams Floorcovering Store","6401 Virginia Manor Rd 1","20705",39.025368,-76.912476
+"20705","Beltsville","MD","Sears","10250 Baltimore Ave","20740",39.022518157958984,-76.9250259399414
+"20705","Beltsville","MD","HD Supply Kenseal","10120 Bacon Dr","20705",39.030026,-76.91276500000001
+"20705","Beltsville","MD","Ventresca & Sons","5101 Sunnyside Ave, College Park, MD 20740","20740",39.02507019042969,-76.91716766357422
+"20705","Beltsville","MD","Fastenal Co.","11318 Old Baltimore Pike","20705",39.039895,-76.90108000000001
+"20705","Beltsville","MD","Maryland Glass Company","5006 Cook Rd #C","20705",39.035857,-76.9046282
+"20705","Beltsville","MD","Water Works","6798 Mid Cities Ave","20705",39.0543212890625,-76.88803100585938
+"20705","Beltsville","MD","Tribles Inc.","5592-5724 Sunnyside Ave","20705",39.024136999999996,-76.90870100000001
+"20705","Beltsville","MD","Capitol Building Supply Inc","12340 Conway Road","20705",39.0589397,-76.8871518
+"20705","Beltsville","MD","City Electric Supply Beltsville","5700 Sunnyside Avenue, Suites D&E","20705",39.024136999999996,-76.90870100000001
+"20705","Beltsville","MD","Beltsville Construction Supply","11525 Edmonston Rd","20705",39.044081,-76.896612
+"20706","Lanham","MD","The Home Depot","10301 M L King Jr. Hwy","20706",38.9539273,-76.8269059
+"20706","Lanham","MD","Lowe's","7710 Riverdale Road","20784",38.9597522,-76.8741566
+"20706","Lanham","MD","Daycon","4207 Forbes Blvd","20706",38.949368,-76.826893
+"20706","Lanham","MD","Rew materials","8183 Ardwick Ardmore","20785",38.942848205566406,-76.87503051757812
+"20706","Lanham","MD","Harry Eklof","3401 Pennsy Dr","20785",38.935313,-76.88109399999999
+"20706","Lanham","MD","Grainger","4748 Forbes Blvd","20706",38.954741,-76.837249
+"20706","Lanham","MD","Applied Industrial Technologies","4611 Assembly Dr, Lanham, MD 20706","20706",38.953302,-76.830614
+"20706","Lanham","MD","minuteKEY","7710 Riverdale Rd","20784",38.95953369140625,-76.87641143798828
+"20706","Lanham","MD","Northeastern Supply","not_available","20785",38.93229141925244,-76.8884872044976
+"20706","Lanham","MD","Sherwin-Williams Commercial Paint Store","7432 Annapolis Rd","20784",38.94903811611346,-76.88801050186157
+"20707","Laurel","MD","The Home Depot","210 Fort Meade Rd","20707",39.0938682,-76.8402075
+"20707","Laurel","MD","Lowe's","14300 Baltimore Avenue","20707",39.0870556,-76.8625892
+"20707","Laurel","MD","Sherwin-Williams Paint Store","14271 Baltimore Ave","20707",39.08599327,-76.86043337
+"20707","Laurel","MD","Harbor Freight Tools","338 Domer Ave","20707",39.09574755352828,-76.85509223299715
+"20707","Laurel","MD","Sherwin-Williams Paint Store","111B Bowie Rd","20707",39.096092999999996,-76.847562
+"20707","Laurel","MD","Laurel's Lock Shop","910 Montgomery St","20707",39.107017,-76.859338
+"20707","Laurel","MD","Pat's Lawnmower Service","4200 Sandy Spring Rd","20866",39.110986,-76.924201
+"20710","Bladensburg","MD","Capitol Building Supply Inc","4501 46th Street","20710",38.943346999999996,-76.939238
+"20710","Bladensburg","MD","Ladders & Things","4626 Annapolis Rd","20710",38.939453,-76.93831800000001
+"20710","Bladensburg","MD","Rheem Tstat","not_available","20781",38.947377,-76.941755
+"20711","Lothian","MD","Tractor Supply Co.","5431 Southern Maryland Blvd","20711",38.81086992552134,-76.69917360284822
+"20711","Lothian","MD","Jeff rocks shop","not_available","20711",38.817138363367704,-76.69242342749078
+"20712","Mount Rainier","MD","Castle wholesalers","3450 Bladensburg Rd","20722",38.932976000000004,-76.955904
+"20715","Bowie","MD","Fastenal","not_available","21113",39.023481270866874,-76.70240840036182
+"20715","Bowie","MD","Duron Paints & Wallcoverings","6812 Laurel Bowie Rd","20715",38.983760833740234,-76.7571029663086
+"20715","Bowie","MD","all seasons rental center","not_available","20715",38.97935,-76.73259
+"20715","Bowie","MD","Netsys-America, LLC","8520 Chestnut Ave","20715",39.006496000000006,-76.778889
+"20716","Bowie","MD","Lowe's","16301 Heritage Blvd","20716",38.9448167,-76.7212212
+"20716","Bowie","MD","The Home Depot","4121 Crain Hwy","20716",38.945924,-76.7150675
+"20721","Bowie","MD","Lowe's","10440 Campus Way South","20774",38.893846,-76.82482
+"20721","Bowie","MD","Sherwin-Williams Paint Store","12108 Central Ave","20721",38.89944839477539,-76.79672241210938
+"20721","Bowie","MD","minuteKEY","10440 Campus Way S","20774",38.894161224365234,-76.82459259033203
+"20721","Bowie","MD","Millenium Bulk Trash","12138 Central Ave Ste 812","20721",38.9194,-76.7871
+"20721","Bowie","MD","Local Locksmith Services","64 Watkins Park Dr","20774",38.899276,-76.789873
+"20722","Brentwood","MD","Lowe's","2438 Market Street NE","20018",38.9199729,-76.9549921
+"20722","Brentwood","MD","Roofcenter","not_available","20722",38.944613,-76.948515
+"20722","Brentwood","MD","Ferguson Plumbing Supply","3194 Bladensburg Rd Ne","20018",38.930592,-76.959185
+"20723","Laurel","MD","The Home Depot","9051 Snowden River Pkwy","21046",39.1790187,-76.8207471
+"20723","Laurel","MD","The Roof Center","7099-7111 Oakland Mills Rd","21046",39.175670000000004,-76.828238
+"20723","Laurel","MD","Probuid Jessup","not_available","20723",39.133366,-76.824833
+"20723","Laurel","MD","Capital Electric","9570 Berger Rd","21046",39.173091888427734,-76.84432220458984
+"20723","Laurel","MD","Duron Paints and Wallcoverings","9691 Gerwig Ln Ste G-H","21046",39.17523193359375,-76.84654235839844
+"20723","Laurel","MD","Aireco Supply","8860 Gorman Road","20723",39.13297,-76.818699
+"20723","Laurel","MD","Morin Distribution","9305 Gerwig Lane, Suire V-Y","21046",39.168758392333984,-76.8392562866211
+"20724","Laurel","MD","minuteKEY","3549 Russett Grn","20724",39.098639,-76.802537
+"20733","Churchton","MD","Chesapeake Hardware","5570-C Shady Side Rd","20733",38.815875,-76.538354
+"20735","Clinton","MD","The Home Depot","6003 Oxon Hill Road","20745",38.8064584,-76.9753735
+"20735","Clinton","MD","Lowe's","8755 Branch Avenue","20735",38.7705399,-76.8891768
+"20735","Clinton","MD","Clinton Hardware","9005 Woodyard Rd","20735",38.76693,-76.894046
+"20735","Clinton","MD","Massey Painting and Home Improvements","6711 Sand Cherry Way","20735",38.740989685058594,-76.89230346679688
+"20735","Clinton","MD","minuteKEY","8745 Branch Ave","20735",38.74894714355469,-76.87831115722656
+"20735","Clinton","MD","Sherwin-Williams Paint Store","8847 Branch Ave","20735",38.767621000000005,-76.89012199999999
+"20735","Clinton","MD","minuteKEY","8755 Branch Ave","20735",38.77220153808594,-76.88764953613281
+"20736","Owings","MD","Sneade's Ace Home Center","1750 Prosper Ln","20736",38.7049359,-76.573042
+"20736","Owings","MD","Sherwin-Williams Paint Store","10740 Town Center Blvd","20754",38.72320320284929,-76.6572117805481
+"20736","Owings","MD","Dunkirk Supply","1038 E Chesapeake Beach Road","20736",38.705711364746094,-76.5879898071289
+"20736","Owings","MD","Dunkirk Hardware & Home Center","10745 Town Center Blvd","20754",38.72324600188145,-76.65572116238778
+"20736","Owings","MD","Dunkirk Supply","not_available","20736",38.704605,-76.642823
+"20737","Riverdale","MD","Locksmithinhyattsville","5601 Baltimore Ave","20781",38.956268310546875,-76.93965148925781
+"20740","College Park","MD","Sherwin-Williams Paint Store","9104 Baltimore Ave","20740",39.003972999999995,-76.930995
+"20740","College Park","MD","Mccormick Paints","not_available","20740",39.012440999999995,-76.927835
+"20740","College Park","MD","Sherwin-Williams Paint Store","9501 Baltimore Ave","20740",39.008872985839844,-76.92877960205078
+"20740","College Park","MD","Hardware","not_available","20770",38.99825833523917,-76.90922420960351
+"20740","College Park","MD","Beltway Plaza Hardware","6214 Greenbelt Road","20770",38.99726867675781,-76.90664672851562
+"20743","Capitol Heights","MD","The Home Depot","150 Hampton Park Blvd","20743",38.8881027,-76.8514552
+"20743","Capitol Heights","MD","Baker Distributing","not_available","20743",38.87360654295955,-76.85404728809245
+"20743","Capitol Heights","MD","Ferguson HVAC Supply","8601 Ritchie Dr Ste D","20743",38.873525,-76.856027
+"20743","Capitol Heights","MD","Sita Tile Distributors","not_available","20774",38.89212904313201,-76.85758349421117
+"20743","Capitol Heights","MD","Tribbles Appliance Parts","not_available","22031",38.87685286031376,-76.88116875224705
+"20743","Capitol Heights","MD","Brooks Lock & Security","8849 Walker Mill Rd","20743",38.87105,-76.85447099999999
+"20743","Capitol Heights","MD","City Electric Supply Capitol Heights","8704 Edgeworth Dr","20743",38.8813153,-76.8549991
+"20743","Capitol Heights","MD","HD Supply White Cap","9230 Alaking Ct","20743",38.873061,-76.847573
+"20743","Capitol Heights","MD","Eldersburg Building Supply","8738 Edgeworth Dr, Capitol Heights, MD 20743","20743",38.88112853709364,-76.85501581319436
+"20743","Capitol Heights","MD","All City Groups","708 Ritchie Rd","20743",38.87973303,-76.85818555
+"20744","Fort Washington","MD","Sherwin-Williams Paint Store","5420 Saint Barnabas Rd","20745",38.814510345458984,-76.96376037597656
+"20744","Fort Washington","MD","Ford Lumber Company","11616 Livingston Rd","20744",38.729896999999994,-76.991522
+"20746","Suitland","MD","Thos.Somerville.Co","3900","20747",38.835688,-76.872529
+"20746","Suitland","MD","H&E Equipment Services","8101 Parston Dr","20747",38.844396,-76.868219
+"20746","Suitland","MD","Ferguson Plumbing Supply","4430 Beech Rd","20748",38.82604217529297,-76.94171142578125
+"20746","Suitland","MD","Keymate","not_available","20747",38.847319,-76.882802
+"20746","Suitland","MD","Aireco Supply, Inc.","4817 Beech Pl","20748",38.823164,-76.938828
+"20746","Suitland","MD","Sherwin-Williams Paint Store","7000 Marlboro Pike","20747",38.850236312055536,-76.8858003616333
+"20746","Suitland","MD","Capitol Building Supply Inc","7811 Penn Western Ct","20772",38.83232791,-76.86985452
+"20746","Suitland","MD","R. E. Michel Company","3905 Penn Belt Pl","20747",38.83578872680664,-76.87364959716797
+"20746","Suitland","MD","Rexel","2918 Forestville Dr","not_available",38.8481159287942,-76.87138949627119
+"20746","Suitland","MD","ATS, Inc.","7620 Penn Belt Dr","20747",38.836847999999996,-76.87453599999999
+"20747","District Heights","MD","Capital Electric","8511 Pepco Pl","20772",38.837459564208984,-76.8564453125
+"20747","District Heights","MD","Colony Tools","8051 Penn Randall Pl","20772",38.835371,-76.86694
+"20747","District Heights","MD","Brook Furniture Rental, Mid-Atlantic/MD","8210 Penn Randall Pl","20772",38.837248,-76.865037
+"20747","District Heights","MD","Ferguson Waterworks","8520 Pennsylvania Avenue Service Rd","20772",38.83476638793945,-76.857177734375
+"20747","District Heights","MD","Alban CAT Rental - Waldorf","12270 Chesterbrooke Ct","20601",38.8402327,-76.8628354
+"20747","District Heights","MD","Ferguson Waterworks","not_available","20772",38.834298,-76.857367
+"20751","Deale","MD","Do It Best","not_available","20751",38.78168267252542,-76.55379313967354
+"20751","Deale","MD","Wheeler's Hardware","5950 Deale Churchton Rd","20751",38.782854,-76.55309
+"20751","Deale","MD","Deale Hardware & Rental Center","668 Deale Rd","20751",38.781698999999996,-76.553834
+"20755","Fort George G Meade","MD","Dan Parks Home Improvements","2657 - G Annapolis Rd. #181, #181","21076",39.13110380000001,-76.7422418
+"20763","Savage","MD","Simpson Strong-Tie","8215 Wellmoor Ct Ste A","20794",39.14728927612305,-76.80535888671875
+"20763","Savage","MD","Allmark Door Company","8265 Patuxent Range Rd","20794",39.145768,-76.79557199999999
+"20763","Savage","MD","ProSource of Columbia","8220 Stayton Dr Ste D","20794",39.144926,-76.804151
+"20772","Upper Marlboro","MD","The Home Depot","15410 Chrysler Drive","20772",38.8188699,-76.7386979
+"20772","Upper Marlboro","MD","Husqvarna US","10190 Old Indian Head Rd","20772",38.74919891357422,-76.81053161621094
+"20772","Upper Marlboro","MD","Husqvarna US","3100 Crain Hwy","20774",38.84977722167969,-76.72391510009766
+"20772","Upper Marlboro","MD","GATEWAY TRACTOR & EQUIPMENT CO. INC","3030 Crain Hwy","20774",38.8448486328125,-76.72683715820312
+"20772","Upper Marlboro","MD","84 Lumber #0913 - Upper Marlboro, MD","15321 Marlboro Pike","20772",38.823287,-76.738919
+"20774","Upper Marlboro","MD","Kohler Equipment Inc","15867 Commerce Ct","20774",38.884046000000005,-76.731277
+"20774","Upper Marlboro","MD","John Deere Landscapes","673B Commerce Dr","20774",38.879259999999995,-76.732161
+"20781","Hyattsville","MD","Peoples Supply","3200 Kenilworth Ave","20781",38.928290000000004,-76.93034399999999
+"20781","Hyattsville","MD","HD Supply White Cap","2509 51st Ave","20781",38.92110669,-76.92762808
+"20781","Hyattsville","MD","Potomac Truck Center (Volvo)","3371 Kenilworth Ave","2071",38.930782318115234,-76.9314956665039
+"20781","Hyattsville","MD","Fastners Inc.","4817 Lydell Rd","20781",38.92517,-76.924092
+"20781","Hyattsville","MD","Distribution International","2504 51st Ave","20781",38.921082,-76.928815
+"20782","Hyattsville","MD","The Home Depot","3301 E West Highway","20782",38.966446,-76.9649324
+"20785","Hyattsville","MD","Sears","Landover Rd 202","not_available",38.9262806,-76.9080215
+"20794","Jessup","MD","Northeastern Supply","8390 Washington Blvd","20794",39.15277862548828,-76.80216979980469
+"20794","Jessup","MD","RE Michel","8332 Bristol Ct","20794",39.15031433105469,-76.79995727539062
+"20794","Jessup","MD","Wayne-Dalton Genie Sales Center","8306 Patuxent Range Rd","20794",39.149371,-76.799909
+"20794","Jessup","MD","Sunbelt Rentals Climate Control","8264 Preston Court","20794",39.15264552,-76.79482953
+"20812","Glen Echo","MD","Christophers Glen Echo Hardware","7301 MacArthur Blvd","20816",38.96919902355941,-77.13889461376043
+"20812","Glen Echo","MD","Christophers Glen Echo Hardware","7301 McArthur Blvd","20816",38.96912,-77.14004
+"20814","Bethesda","MD","Strosniders Hardware","6930 Arlington Rd","20814",38.979275,-77.099295
+"20814","Bethesda","MD","Sherwin-Williams Paint Store","4809 Auburn Ave","20814",38.990711,-77.099463
+"20814","Bethesda","MD","Leahys Plumbing and heating","4916 Cordell Ave","20814",38.98915244682287,-77.10024833679199
+"20814","Bethesda","MD","Dean's Custom Floors","4302 Howard Ave","20895",39.031046999999994,-77.08400300000001
+"20814","Bethesda","MD","Amicus Green Building Center","4080 Howard Ave Ste A","20895",39.030162,-77.0801539
+"20814","Bethesda","MD","Bethesda Chevy Chase Electrician","4938 Hampden Ln","20814",38.98250198364258,-77.0978012084961
+"20814","Bethesda","MD","Market Hardware","7200 Wisconsin Ave","20814",38.981722,-77.094021
+"20815","Chevy Chase","MD","Ferguson Plumbing Supply","2600 Pittman Dr","20910",39.000622,-77.05513499999999
+"20815","Chevy Chase","MD","The Somerville Bath & Kitchen Store","8530 Connecticut Ave","20815",38.9953167,-77.07757462
+"20815","Chevy Chase","MD","The Roof Center","5244 River Rd","20816",38.965184,-77.105151
+"20815","Chevy Chase","MD","Aireco Supply","8915 Brookville Rd","20910",39.002054,-77.052943
+"20815","Chevy Chase","MD","Monarch Paint and Wallcovering Co","5608 Connecticut Avenue, NW","20015",38.96513,-77.07624
+"20815","Chevy Chase","MD","Sherwin-Williams Paint Store","8301 Grubb Rd","20910",38.992595,-77.049008
+"20815","Chevy Chase","MD","TW Perry","9015 Brookville Rd","20910",39.003671999999995,-77.051103
+"20815","Chevy Chase","MD","MONARCH PT STORES OF DC, LLC","5608 CONNECTICUT AVE NW","20015-2604",38.965158,-77.07621
+"20816","Bethesda","MD","Creighton's Home Improvements","4509 Western Avenue NW","20016",38.94921799999999,-77.09998000000002
+"20817","Bethesda","MD","The Home Depot","7111 Westlake Terrace","20817",39.0269585,-77.1448053
+"20817","Bethesda","MD","Tri State Stone Co.","8200 Seven Locks Rd","20817",38.988295,-77.163084
+"20817","Bethesda","MD","Truck Rental Center at the Home Depot","7111 Westlake Ter","20817",39.02727127075195,-77.14469909667969
+"20817","Bethesda","MD","locksmith potomac","10125 Sorrel Ave","20854",39.023206,-77.20063499999999
+"20832","Olney","MD","Sherwin-Williams Paint Store","18320 Village Center Dr","20832",39.15476963930529,-77.06453740596771
+"20832","Olney","MD","Harder","not_available","20832",39.153202056884766,-77.06444549560547
+"20837","Poolesville","MD","Poolesville Hardware","20020 Fisher Ave","20837",39.146772999999996,-77.417061
+"20837","Poolesville","MD","Tractor Supply Co.","19610 Fisher Ave","20837",39.14293275574879,-77.41058827249145
+"20841","Boyds","MD","The Home Depot","21010 Frederick Rd","20876",39.201094565990246,-77.24774032831198
+"20841","Boyds","MD","Duron Paints & Wallcoverings","13220 Wisteria Dr Ste N3","20874",39.180527000000005,-77.276336
+"20841","Boyds","MD","GK Paint And Design","13083 Wisteria Dr","20874",39.178787,-77.271288
+"20841","Boyds","MD","Sherwin-Williams Paint Store","13220 Wisteria Dr","20874",39.18053073,-77.27628976
+"20842","Dickerson","MD","Thrane Axe & Saw Co.","21707 Big Woods Rd","20842",39.213374,-77.413329
+"20850","Rockville","MD","The Home Depot","15740 Shady Grove Road","20877",39.1153304,-77.1872765
+"20850","Rockville","MD","Roberts Oxygen Co","15830 Redland Rd","20855",39.11693133116478,-77.16561151137503
+"20850","Rockville","MD","Capital Electric","15886 Gaither Dr","20877",39.116241455078125,-77.19194793701172
+"20850","Rockville","MD","Duron Paints & Wallcoverings","1400 Chapman Ave","20852",39.063207,-77.123139
+"20850","Rockville","MD","Sherwin-Williams","15930 Shady Grove Rd","20877",39.118228,-77.183718
+"20850","Rockville","MD","Atlantic Bath & Brass","389 E Gude Dr","20850",39.105607,-77.14886
+"20850","Rockville","MD","Lyon Conklin & co","not_available","20855",39.10177,-77.140863
+"20850","Rockville","MD","Rollin' Supply","668 Lofstrand Ln","20850",39.095231,-77.13765500000001
+"20850","Rockville","MD","Trible's Inc.","850 E Gude Dr Ste F","20850",39.100993,-77.13889785
+"20850","Rockville","MD","Ideal Tile","1610 Rockville Pike","20852",39.06230926513672,-77.12391662597656
+"20850","Rockville","MD","Pro Wood Finishes","14622 Southlawn Ln","20850",39.095309,-77.141336
+"20850","Rockville","MD","Liberty Lock & Security","1205 Taft St, Rockville, MD 20850","20850",39.093391,-77.133648
+"20850","Rockville","MD","Qlineshop","407 N Stonestreet Ave","20850",39.089436,-77.148173
+"20850","Rockville","MD","Hardware Estoe","not_available","20850",39.08363261666667,-77.1496026
+"20850","Rockville","MD","United Refrigeration","269 Derwood Cir, Rockville, MD 20850","20850",39.106010999999995,-77.15393
+"20850","Rockville","MD","Hardware","not_available","20851",39.08442560169942,-77.14660924519401
+"20850","Rockville","MD","United Electric Supply","104 Derwood Cir","20850",39.105403,-77.151942
+"20850","Rockville","MD","Batteries Plus","844 Rockville Pike Unit A","20852",39.07565031001042,-77.1366940609928
+"20850","Rockville","MD","Ferguson Bath, Kitchen & Lighting Gallery","800 E Gude Dr Ste A","20850",39.101631,-77.140435
+"20851","Rockville","MD","Locksmith Aspen Hill","2517 Baltimore Rd","20853",39.09312438964844,-77.1108627319336
+"20851","Rockville","MD","The McCormick Paint Works Company","2355 Lewis Ave","20851",39.064101,-77.12198000000001
+"20852","Rockville","MD","Aireco","12198 Nebel St","20852",39.0513916015625,-77.1110610961914
+"20852","Rockville","MD","noland suppy","not_available","20852",39.04689407348633,-77.10164642333984
+"20852","Rockville","MD","Mosaic Tile Company","11724 Parklawn Dr","20852",39.048834,-77.10247700000001
+"20852","Rockville","MD","City Electric Supply Rockville","11794 Parklawn Dr","20852",39.048259612123374,-77.10278168320656
+"20852","Rockville","MD","Sherwin-Williams Paint Store","5272 Randolph Rd","20852",39.0532112121582,-77.10564422607422
+"20852","Rockville","MD","OMG Locksmith","218 Congressional Ln","20852",39.060409,-77.129832
+"20852","Rockville","MD","Woodworkers Club","4950 Wyaconda Rd","20852",39.04450988769531,-77.09899139404297
+"20853","Rockville","MD","The Home Depot","14000 Georgia Ave","20906",39.0831454,-77.0809224
+"20853","Rockville","MD","White's Hardware Of Olney Inc","15508 Georgia Ave","20853",39.110184999999994,-77.076588
+"20853","Rockville","MD","Tactical Office","not_available","20906",39.074228033333334,-77.0785833
+"20854","Potomac","MD","Strosnider's Hardware Potomac","not_available","20854",39.016632,-77.208725
+"20854","Potomac","MD","Ace Hardware","10110 River Rd","20854",39.016605,-77.209016
+"20854","Potomac","MD","Falls Hardware","not_available","22066",38.996243,-77.2897
+"20855","Derwood","MD","TW Perry","8101 Snouffer School Rd","20879",39.163472,-77.165851
+"20855","Derwood","MD","Ferguson Plumbing Supply","19320 Woodfield Rd","20879",39.173328999999995,-77.153021
+"20855","Derwood","MD","Dominion Electric Supply Company","16608 Oakmont Ave","20877",39.129227,-77.176106
+"20855","Derwood","MD","Duron Paint and Wallcoverings","not_available","20879",39.171986578857855,-77.1581749820028
+"20855","Derwood","MD","Roof Center","19201-19299 Chennault Way","20879",39.17238,-77.157527
+"20855","Derwood","MD","Exotic Lumber","19324 Woodfield Rd","20879",39.173328999999995,-77.153021
+"20855","Derwood","MD","Potomac Valley Brick","18849 Woodfield Rd","20879",39.165516,-77.155585
+"20855","Derwood","MD","Fastenal","16820 Oakmont Ave","20877",39.131665999999996,-77.176025
+"20855","Derwood","MD","Sears Parts & Repair","16401 Shady Grove Rd","20877",39.124752,-77.173389
+"20855","Derwood","MD","2Sand.com","8536 Dakota Dr","20877",39.126919,-77.176142
+"20855","Derwood","MD","City Electric Supply Gaithersburg","18620 Woodfield Rd Ste A Ste A","20879",39.1621898,-77.1593071
+"20855","Derwood","MD","American Bath Kitchen Architectural","751 E Gude Dr, Rockville, MD 20850","20850",39.102718353271484,-77.14290618896484
+"20855","Derwood","MD","Capitol Building Supply Inc","7870 Beechcraft Avenue","20879",39.16239,-77.16206
+"20855","Derwood","MD","Sherwin-Williams Commercial Paint Store","7600 Rickenbacker Dr","20879",39.17238,-77.157527
+"20855","Derwood","MD","Sun Brite Supply of Maryland","16620 Oakmont Ave","20877",39.129227,-77.176106
+"20860","Sandy Spring","MD","Christophers Hardware","500 Olney Sandy Spring Rd","20860",39.148751601336684,-77.02279516317051
+"20860","Sandy Spring","MD","RELS","16300 Layhill Rd","20906",39.12453832337908,-77.02980519205919
+"20861","Ashton","MD","Ashton Hardware","25 Olney-Sandy Spring Road","not_available",39.14944839477539,-77.01270294189453
+"20866","Burtonsville","MD","Zimmerman's Ace Hardware","3801 Sandy Spring Rd","20866",39.1111209,-76.931096
+"20868","Spencerville","MD","southern states spencerville","not_available","20905",39.117867689833595,-76.98328926809273
+"20871","Clarksburg","MD","Southern States","23000 Davis Mill Rd","20876",39.23987742138048,-77.23500039651539
+"20872","Damascus","MD","Hyatt Building Supply","26200 Ridge Rd","20872",39.287188849607546,-77.20833814253052
+"20872","Damascus","MD","AMSCO","27505 Ridge Rd","20872",39.307593,-77.197425
+"20872","Damascus","MD","Sherwin-Williams Paint Store","26021 Ridge Rd","20872",39.284586,-77.207702
+"20872","Damascus","MD","Thomas Vending Services","not_available","20872",39.2767330969354,-77.2135877609253
+"20874","Germantown","MD","Lowe's","40 Market Street","20878",39.1249898,-77.2352921
+"20874","Germantown","MD","minuteKEY","40 Market St","20878",39.124967,-77.235287
+"20874","Germantown","MD","minuteKEY","20910 Frederick Rd","20876",39.199378967285156,-77.245361328125
+"20874","Germantown","MD","N & S Rentals Inc","19600 Frederick Rd","20876",39.177407,-77.238394
+"20877","Gaithersburg","MD","Harbor Freight Tools","9649 Lost Knife Rd","20877",39.153850082445935,-77.19790872101673
+"20877","Gaithersburg","MD","Sears","701 Russell Ave","20877",39.15252923,-77.20333424
+"20877","Gaithersburg","MD","Aireco Supply, Inc.","220 Girard St Ste G","20877",39.141998291015625,-77.18356323242188
+"20877","Gaithersburg","MD","Mccormick Paint","not_available","20877",39.142464000000004,-77.195402
+"20877","Gaithersburg","MD","Solid State Systems","9 Meem Ave","20877",39.141073,-77.203027
+"20877","Gaithersburg","MD","Sherwin-Williams Paint Store","260 N Frederick Ave","20877",39.143684,-77.203556
+"20877","Gaithersburg","MD","The Cleaners' Solution, Inc","205 Perry Pkwy Ste 4","20877",39.140945,-77.209082
+"20877","Gaithersburg","MD","Duron Paints & Wallcoverings","301 N Frederick Ave","20877",39.145369,-77.202596
+"20877","Gaithersburg","MD","Gaithersburg Rental Center","219 E Diamond Ave","20877",39.141965,-77.19393000000001
+"20877","Gaithersburg","MD","Gaithersburg Equipment Co","700 E Diamond Ave","20877",39.139846,-77.18087
+"20877","Gaithersburg","MD","GAC Cooling & Heating","227 E Deer Park Dr","20877",39.1380729675293,-77.18114471435547
+"20877","Gaithersburg","MD","Standard Supplies","14 Chestnut St","20877",39.142844000000004,-77.203737
+"20877","Gaithersburg","MD","Gaithersburg Glass","671 E Diamond Ave","20877",39.13895,-77.180798
+"20878","Gaithersburg","MD","Iron Men Movers","371 W Side Dr","20878",39.125602,-77.206877
+"20895","Kensington","MD","Strosniders Hardware","10504 Connecticut Ave","20895",39.028248,-77.0774
+"20895","Kensington","MD","L.J. Elter & Son Power Equipment Centers","10521 Summit Ave","20895",39.028914,-77.078263
+"20895","Kensington","MD","Duron Paints & Wallcoverings","11194 Veirs Mill Rd","20902",39.03977623529865,-77.05544289499191
+"20895","Kensington","MD","Abernethy Sticks","3837 Plyers Mill Rd","20895",39.030272,-77.07674
+"20895","Kensington","MD","Sears","11060 Veirs Mills Road","20902",39.0346988,-77.0532889
+"20895","Kensington","MD","Pats Plumbing Heating & Cooling","3822 Lawrence Ave","20895",39.03444,-77.07738
+"20895","Kensington","MD","Mizell Lumber & Hardware","10500 Saint Paul St","20895",39.02777862548828,-77.07280731201172
+"20901","Silver Spring","MD","Ace Hardware","815 Wayne Ave","20910",38.996610505064154,-77.02489006562674
+"20901","Silver Spring","MD","Doors & Hardware LLC","not_available","20901",39.018783579855565,-77.00617790222168
+"20902","Silver Spring","MD","Locksmith Silver Spring MD","11423 Georgia Ave","20902",39.042118072509766,-77.05136108398438
+"20902","Silver Spring","MD","Benjamin Moore Paints","University","not_available",39.040988565730274,-77.04856364665835
+"20904","Silver Spring","MD","Sherwin-Williams Paint Store","17 Randolph Rd","20904",39.076289,-77.002445
+"20910","Silver Spring","MD","Sherwin-Williams Paint Store","8230 Georgia Ave","20910",38.9926,-77.0273
+"20910","Silver Spring","MD","United Garage Door Services LLC","8429 Georgia Ave #1","20910",38.993687020034,-77.0266616375778
+"20910","Silver Spring","MD","Silver Spring Locksmith","817 Silver Spring Ave","20910",38.99199676513672,-77.02345275878906
+"20910","Silver Spring","MD","Duron Paints & Wallcoverings","8121 Piney Branch Rd","20910",38.992591,-77.009215
+"20910","Silver Spring","MD","Benjamin Moore","not_available","20910",38.99414389876109,-77.02662821211536
+"20912","Takoma Park","MD","Old Takoma Ace Hardware","7001 Carroll Ave","20912",38.97466,-77.011669
+"20912","Takoma Park","MD","Thomas Somerville","6350 Chillum Pl. NE","20011",38.966338,-77.011453
+"21001","Aberdeen","MD","The Home Depot","979 Beards Hill Road","21001",39.523737846342804,-76.18021577596664
+"21001","Aberdeen","MD","Tractor Supply Co.","1040 Beards Hill Rd","21001",39.520405278262956,-76.18484554420091
+"21001","Aberdeen","MD","tristate electrical supply","not_available","21078",39.52686309814453,-76.13610076904297
+"21001","Aberdeen","MD","Sherwin-Williams Paint Store","1113 Beards Hill Rd","21001",39.521947,-76.18679
+"21001","Aberdeen","MD","Hodges True Value Hardware & Home Center","1517 S Philadelphia Blvd","21001",39.481823,-76.211836
+"21001","Aberdeen","MD","J&R Sheds & Equipment","not_available","21028",39.55535888671875,-76.24301147460938
+"21001","Aberdeen","MD","United Electric","not_available","21001",39.49835444627635,-76.17587477855527
+"21001","Aberdeen","MD","Capital Electric","1846 Pulaski Hwy","21078",39.52854919433594,-76.12702178955078
+"21001","Aberdeen","MD","Northeastern Supply","504 Advantage Ave","21001",39.476110999999996,-76.191742
+"21001","Aberdeen","MD","John H Myers","20 S Philadelphia Blvd","21001",39.508554,-76.164875
+"21001","Aberdeen","MD","Nuts & Boltz","Chapel Rd","not_available",39.561872355404795,-76.14706500400595
+"21001","Aberdeen","MD","Sherwin-Williams Floorcovering Store","1007 Old Philadelphia Rd","21001",39.487565229989144,-76.18578672409058
+"21001","Aberdeen","MD","minuteKEY","645 S Philadelphia Blvd","21001",39.495548,-76.176761
+"21009","Abingdon","MD","Lowe's","414 Constant Friendship Boulevard","21009",39.4573279,-76.319003
+"21009","Abingdon","MD","Thos. Somerville Co.","1300 Continental Dr","21009",39.446579,-76.292846
+"21009","Abingdon","MD","minuteKEY","401 Constant Friendship Blvd","21009",39.462136,-76.31479
+"21009","Abingdon","MD","minuteKEY","414 Constant Friendship Blvd","21009",39.45750427246094,-76.31936645507812
+"21009","Abingdon","MD","Northeastern Supply","2100 Laurel Bush Rd","21015",39.49059320097866,-76.30991292332867
+"21009","Abingdon","MD","K & A1 Home Improvement Inc","3104 Deer Creek Dr","21009",39.4692608,-76.297417
+"21009","Abingdon","MD","Aireco Edgewood","2204 Lakeside Blvd, Edgewood, MD 21040","21040",39.44838522337386,-76.31775544002089
+"21009","Abingdon","MD","abingdon lock smith","not_available","21040",39.45254898071289,-76.31075286865234
+"21009","Abingdon","MD","Sherwin-Williams Paint Store","3460 Emmorton Rd","21009",39.466548919677734,-76.31144714355469
+"21012","Arnold","MD","Rommel's Ace Home Center","574 Ritchie Hwy","21146",39.0758,-76.544484
+"21012","Arnold","MD","B & L Electric","1197 Baltimore Annapolis Blvd","21012",39.04339599609375,-76.52098083496094
+"21012","Arnold","MD","Philtec Inc","1021 Saint Margarets Dr","21409",39.0450609,-76.441329
+"21013","Baldwin","MD","Courtland Hearth & Hardware","2729 Fallston Road","21047",39.5442129,-76.472136
+"21013","Baldwin","MD","Courtland Hardware Inc.","2729 Fallston Rd","21047",39.54262797,-76.47074017
+"21014","Bel Air","MD","The Home Depot","655 Marketplace Dr","21014",39.52087642761681,-76.35044753551483
+"21014","Bel Air","MD","Courtland Hearth & Hardware","6 N Bond St","21014",39.5360289,-76.351123
+"21014","Bel Air","MD","Sherwin-Williams Paint Store","305 Baltimore Pike","21014",39.530846000000004,-76.349524
+"21014","Bel Air","MD","Fastenal","Newport Dr, Forest Hill, MD 21050","21050",39.5783491,-76.38348118333333
+"21014","Bel Air","MD","Duron Paints","305 S Atwood Rd","21014",39.52948,-76.34964
+"21014","Bel Air","MD","Hickory International","1630-1642 Conowingo Rd","21014",39.572435999999996,-76.35512
+"21014","Bel Air","MD","Sears","658 Baltimore Pike","21014",39.52499897,-76.35849482
+"21014","Bel Air","MD","Arrow Electric","not_available","21014",39.52779568431384,-76.36215421569102
+"21014","Bel Air","MD","84 Lumber","1704 Harford Rd","21047",39.507581,-76.384162
+"21015","Bel Air","MD","Produce and Garden Center","not_available","21015",39.6002235670648,-76.316133204064
+"21029","Clarksville","MD","Kendall Hardware Inc","12260 Clarksville Pike","21029",39.211272,-76.940245
+"21029","Clarksville","MD","Zepp Plumbing & Heating","5820 Clarksville Square Dr","21029",39.21271,-76.93798
+"21029","Clarksville","MD","Sherwin-Williams Paint Store","12345 Wake Forest Rd","21029",39.20457341666667,-76.9425347
+"21030","Cockeysville","MD","The Home Depot","125 Industry Lane","21030",39.4648287,-76.6412909
+"21030","Cockeysville","MD","Lowe's","19 Texas Station Court","21093",39.4596046,-76.6376836
+"21030","Cockeysville","MD","Sherwin-Williams Paint Store","11343 York Rd","21030",39.49468576387599,-76.6485321521759
+"21030","Cockeysville","MD","Suburban Ace Hardware","10912 York Rd Ste 100","21030",39.480806,-76.643893
+"21030","Cockeysville","MD","Tribble,  Inc","2233 Greenspring","21093",39.448931767206055,-76.63704919989058
+"21030","Cockeysville","MD","minuteKEY","19 Texas Station Ct","21093",39.459556579589844,-76.6375961303711
+"21030","Cockeysville","MD","Bill Hergenroeder Woodworking","10768 York Rd","21030",39.48133850097656,-76.64424896240234
+"21030","Cockeysville","MD","Clearview Window & Door Company","10815 Beaver Dam Rd","21030",39.47980632984953,-76.65348887443542
+"21030","Cockeysville","MD","Cockeysville John Deere Landscapes","10822 Williamson LN.","not_available",39.482531,-76.64981999999999
+"21030","Cockeysville","MD","United Electric Supply","not_available","21093",39.450813,-76.63686
+"21030","Cockeysville","MD","minuteKEY","1 Frankel Way","21030",39.4706396,-76.6427904
+"21030","Cockeysville","MD","Fastenal Industrial Construction Suppies","9490 Deereco Rd","21093",39.45130920410156,-76.63712310791016
+"21030","Cockeysville","MD","Ferguson Plumbing Supply","10931 McCormick Rd","21030",39.48201104717,-76.6569901903945
+"21030","Cockeysville","MD","Roberts Oxygen","10626 York Rd","21030",39.478276,-76.6441
+"21030","Cockeysville","MD","Finch Service Inc","11212 York Rd","21030",39.49215522440847,-76.6491705459564
+"21032","Crownsville","MD","The Home Depot","145 Defense Highway","21401",38.9839778,-76.554517
+"21032","Crownsville","MD","B&G Electric LLC","1123 Oak View Drive","21032",39.07129669189453,-76.60077667236328
+"21032","Crownsville","MD","ROI Parts Depot","733 Generals Hwy","21108",39.072722,-76.62905400000001
+"21032","Crownsville","MD","Sears","1040 Annapolis Mall","21401",38.9871492,-76.5463192
+"21034","Darlington","MD","Clarks Hardware","1607 Whiteford Rd","21034",39.652115,-76.266725
+"21037","Edgewater","MD","The Home Depot","55 Forest Plaza","21401",38.9774869,-76.5421088
+"21037","Edgewater","MD","Ace Hardware Home & Leisure","89 Central Ave W","21037",38.9271249,-76.576751
+"21037","Edgewater","MD","K & B True Value","912 Forest Dr","21403",38.95079684626093,-76.49340364511394
+"21037","Edgewater","MD","Blades Plumbing Service","70 Silopanna Rd","21403",38.967349,-76.508016
+"21037","Edgewater","MD","Sherwin-Williams Commercial Paint Store","1931 Lincoln Dr","21401",38.97438049316406,-76.52381134033203
+"21037","Edgewater","MD","TW Perry","208 West St","21401",38.977106,-76.501235
+"21037","Edgewater","MD","Capital Lighting & Supply","1816 George Ave","21401",38.975854999999996,-76.521502
+"21037","Edgewater","MD","Rexel","601 Chinquapin Round Rd","21401",38.97360018096197,-76.52437682231621
+"21040","Edgewood","MD","Harbor Freight Tools","1901C Pulaski Hwy","21040",39.434682475803854,-76.31545014630811
+"21040","Edgewood","MD","The Home Depot","2703 Pulaski Highway","21040",39.4390427,-76.2920739
+"21040","Edgewood","MD","Roberts Oxygen","2014 Pulaski Hgwy","21040",39.436346,-76.310134
+"21042","Ellicott City","MD","The Home Depot","9190 Baltimore Natl Pike","21042",39.2789516,-76.8288293
+"21042","Ellicott City","MD","Clarks ACE Hardware","10325 US Route 40","21042",39.2805,-76.8692
+"21042","Ellicott City","MD","Sherwin-Williams Paint Store","10020 Baltimore National Pike St","21042",39.28083572761353,-76.85544848442078
+"21042","Ellicott City","MD","Sherwin-Williams Paint Store","9235 Baltimore National Pike","21042",39.276733,-76.82991899999999
+"21042","Ellicott City","MD","Home Depot Garden Center","not_available","21042",39.277718,-76.830527
+"21042","Ellicott City","MD","Sunshine Pool and Spa Supply","9455 Baltimore National Pike","21042",39.27717175497902,-76.83751362142864
+"21042","Ellicott City","MD","minuteKEY","3200 North Ridge Rd","21043",39.282005310058594,-76.8205795288086
+"21042","Ellicott City","MD","John S Wilson Lumber Company","12950 Livestock Rd","21784",39.311227,-76.9578
+"21042","Ellicott City","MD","A Touch of Brass","9052 Chevrolet Dr","21042",39.27569,-76.82497
+"21042","Ellicott City","MD","Southern States Services Store","9064 Frederick Rd","21042",39.271958000000005,-76.82572900000001
+"21043","Ellicott City","MD","Samuel J. Yates & Son Grocery","8429 Main St","21043",39.268707,-76.80175799999999
+"21043","Ellicott City","MD","Sherwin-Williams Paint Store","6425 Baltimore National Pike","21228",39.284189000000005,-76.75908100000001
+"21043","Ellicott City","MD","ABC Equipment Rental","800 Geipe Rd","21228",39.282605,-76.75659
+"21044","Columbia","MD","Locksmith Columbia","5865 Robert Oliver Pl","21045",39.210479736328125,-76.84684753417969
+"21045","Columbia","MD","B/A Products, Co.","not_available","21045",39.188677226477225,-76.8243234003878
+"21045","Columbia","MD","ABC Rental Center","6695 Dobbin Rd","21045",39.185849,-76.825154
+"21045","Columbia","MD","Sherwin-Williams Paint Store","6490 Dobbin Rd","21045",39.192644,-76.820418
+"21046","Columbia","MD","Lowe's","8281 Gateway Overlook Drive","21075",39.1831499,-76.792588
+"21046","Columbia","MD","minuteKEY","8281 Gateway Overlook","21075",39.183399,-76.792141
+"21047","Fallston","MD","Tractor Supply Co.","222 Mountain Road","21047",39.49230860257221,-76.39632462506557
+"21047","Fallston","MD","Harvest Fare Ace","2315 Bel Air Rd","21047",39.4922609,-76.391604
+"21047","Fallston","MD","Schumacher And Seiler","not_available","21047",39.494695,-76.390187
+"21047","Fallston","MD","Lehnhoff's Design & Supply","2708 Bel Air Rd","21047",39.4858906,-76.4003638
+"21048","Finksburg","MD","Core And Main","not_available","21048",39.542238,-76.927864
+"21050","Forest Hill","MD","Kefauver True Value Lumber","1333 W Jarrettsville Rd","21050",39.5901,-76.432549
+"21053","Freeland","MD","Maryland Chimney","2401 Beckleysville Rd","21053",39.676224,-76.729197
+"21054","Gambrills","MD","Sherwin-Williams Paint Store","1153 State Route 3 N","21054",39.02029037475586,-76.69343566894531
+"21054","Gambrills","MD","Odenton Hardware Inc","8380 Piney Orchard Pkwy","21113",39.084837,-76.70016
+"21054","Gambrills","MD","Mid Atlantic Deck and Fence Company","800 Rt. 3 South","21054",39.04630698404567,-76.6669866562011
+"21054","Gambrills","MD","Gambrills General Store","not_available","21054",39.06695125987422,-76.66847168997745
+"21057","Glen Arm","MD","Glen Arm Lumber True Value","12126 Long Green Pike","21057",39.455689,-76.494244
+"21060","Glen Burnie","MD","The Home Depot","66 Mountain Rd","21060",39.1367345897061,-76.59271001815796
+"21060","Glen Burnie","MD","Lowe's","6650 Ritchie Hwy Route 2","21061",39.1952867,-76.6155752
+"21060","Glen Burnie","MD","The Home Depot","601 New Ordnance Rd","21060",39.1992563,-76.5986838
+"21060","Glen Burnie","MD","Sears","7900 Ritchie Hwy","21061",39.13764461,-76.60549131
+"21060","Glen Burnie","MD","Habitat For Humanity ReStore","8101 Ft. Smallwood Road","21122",39.16750932898914,-76.53010142130834
+"21060","Glen Burnie","MD","Maisel Bros","not_available","21061",39.17818588029407,-76.62026692979106
+"21060","Glen Burnie","MD","Ferguson Plumbing Supply","703 E Ordnance Rd #604","21226",39.2010383605957,-76.59712982177734
+"21060","Glen Burnie","MD","Sherwin-Williams Paint Store","7566 Ritchie Hwy","21061",39.15933078327867,-76.62099873924049
+"21060","Glen Burnie","MD","84 Lumber","7947 Fort Smallwood Rd","21226",39.171054999999996,-76.53361
+"21060","Glen Burnie","MD","Harbor Freight Tools","6320 Ritchie Hwy Ste 3","21061",39.20321715683998,-76.61527977232248
+"21060","Glen Burnie","MD","Thos. Somerville Co.","99 Langley Rd N","21060",39.179233,-76.606854
+"21060","Glen Burnie","MD","minuteKEY","6650 RITCHIE HWY ROUTE 2","21061",39.1953942,-76.6134661
+"21060","Glen Burnie","MD","All About Doors","120 North Langley Road","21060",39.180634398596595,-76.60651691373903
+"21061","Glen Burnie","MD","Lowe's","415 George Clauss Boulevard","21144",39.1485724,-76.6476729
+"21061","Glen Burnie","MD","Costello's Ace","7936 Crain Hwy S","21061",39.13399124145508,-76.6366195678711
+"21061","Glen Burnie","MD","Bruce's Supply CO.","551 1st Ave","21090",39.199645,-76.65454
+"21061","Glen Burnie","MD","Tractor Supply Co.","7994 Crain Hwy South","21061",39.132606,-76.641218
+"21061","Glen Burnie","MD","Sherwin-Williams Paint Store","7950 Crain Hwy S","21061",39.133391,-76.639532
+"21061","Glen Burnie","MD","Capital Electric","175 Penrod Ct","21061",39.176425,-76.626865
+"21061","Glen Burnie","MD","Finishmasters","7405 Baltimore Annapolis Blvd","21061",39.169389,-76.629003
+"21061","Glen Burnie","MD","minuteKEY","415 George Clauss Blvd","21144",39.148967,-76.647495
+"21074","Hampstead","MD","Carroll County True Value","4001 Houck Ave","21074",39.60862364,-76.85284788
+"21075","Elkridge","MD","Brass Sales Co.","6315B Howard Ln","21075",39.19883728027344,-76.73833465576172
+"21075","Elkridge","MD","Milby Company","6201 S Hanover Rd","21075",39.199003971007166,-76.73372635399008
+"21075","Elkridge","MD","Sherwin-Williams Paint Store","6785 Business Pkwy","21075",39.18318,-76.76610699999999
+"21075","Elkridge","MD","S.C.P. (baltimore)","not_available","21076",39.18231964111328,-76.7293472290039
+"21075","Elkridge","MD","Sherwin-Williams Commercial Paint Store","6650 Santa Barbara Rd","21075",39.189412,-76.749494
+"21075","Elkridge","MD","Dimitri's Home Improvement","929 Stormont Cir","21227",39.239307000000004,-76.708119
+"21075","Elkridge","MD","O'Donnell Metal Deck","6724 Binder Lane","21075",39.18574699,-76.75838792
+"21075","Elkridge","MD","Carrier/ totaline","7010 Dorsey Rd","21076",39.173423,-76.725712
+"21076","Hanover","MD","Old Dominion Supply","not_available","21144",39.151829,-76.682804
+"21076","Hanover","MD","minuteKEY","7081 Arundel Mills Cir","21076",39.15577697753906,-76.73248291015625
+"21076","Hanover","MD","84 Lumber","Telegraph Rd","21077",39.15837418011361,-76.69457158824672
+"21084","Jarrettsville","MD","F N Smith Hardware","3803 Norrisville Rd","21084",39.602851,-76.483742
+"21084","Jarrettsville","MD","Husqvarna US","1747B Jarrettsville Rd","21084",39.612178802490234,-76.47224426269531
+"21085","Joppa","MD","84 Lumber","12400 Pulaski Hwy","21085",39.419174,-76.377725
+"21087","Kingsville","MD","Sherwin Williams","Belair rd","21236",39.445937,-76.43928
+"21090","Linthicum Heights","MD","Rexel","521 Progress Dr","21090",39.21760559082031,-76.67044830322266
+"21093","Lutherville Timonium","MD","Baltimore Turf Equipment","8821 Orchard Tree Ln, Towson, MD 21286","21286",39.398846999999996,-76.568445
+"21093","Lutherville Timonium","MD","Ace Hardware","800 Kenilworth Dr, Kenilworth Mall Shopping Center, Towson, MD 21204","21204",39.41168212890625,-76.61888885498047
+"21093","Lutherville Timonium","MD","Bond Lumber Co.","Seminary Ave.","21204",39.42685800603387,-76.64643502437194
+"21093","Lutherville Timonium","MD","CapitalTristate","14 W Aylesbury Rd","21093",39.434410095214844,-76.62589263916016
+"21093","Lutherville Timonium","MD","Sears","1910 York Road","21093",39.4342726394062,-76.62438154220581
+"21093","Lutherville Timonium","MD","Rexel","15 W Aylesbury Rd","21093",39.43509292602539,-76.62743377685547
+"21093","Lutherville Timonium","MD","McCormick Paint","73 W Timonium Rd","21093",39.43831831270458,-76.6311714260689
+"21093","Lutherville Timonium","MD","Grainger","2032 Greenspring Dr","21093",39.43684005737305,-76.63101959228516
+"21093","Lutherville Timonium","MD","McArdle & Walsh","2015 Greenspring Dr","21093",39.43658314542998,-76.62996988996312
+"21093","Lutherville Timonium","MD","Sherwin-Williams Paint Store","2159 York Rd","21093",39.44432131513954,-76.62660241127014
+"21093","Lutherville Timonium","MD","Northeastern Supply","1957","not_available",39.4370334163406,-76.62943398992357
+"21093","Lutherville Timonium","MD","Sherwin-Williams Paint Store","1934 York Rd","21093",39.43560696666667,-76.62467122077942
+"21093","Lutherville Timonium","MD","Duron Paints & Wallcoverings","1524 E Joppa Rd Spc D","21286",39.39729688216576,-76.5694384601246
+"21108","Millersville","MD","Granite Outlet","not_available","21108",39.100068,-76.627793
+"21111","Monkton","MD","Gerner Energy","16951 York Rd","21111",39.590284000000004,-76.663014
+"21113","Odenton","MD","Sears","1781 Crossroads Dr","21113",39.09005838444341,-76.68992001297406
+"21113","Odenton","MD","Fastenal","1360 Blair Dr","21113",39.090292,-76.702113
+"21117","Owings Mills","MD","Lowe's","not_available","21117",39.407081,-76.791464
+"21117","Owings Mills","MD","The Home Depot","9818 Reisterstown Rd","21117",39.4081088,-76.7677207
+"21117","Owings Mills","MD","Reisterstown Lumber Company","rt30 hanover pike","21136",39.48270181982817,-76.82836171684617
+"21117","Owings Mills","MD","Lowe's","10280 Mill Run Cir","21117",39.4074221,-76.7915598
+"21117","Owings Mills","MD","Duron Paints & Wallcoverings","100 Westminster Pike","21136",39.471667,-76.832235
+"21117","Owings Mills","MD","Robinson Repair","10234 Liberty Rd","21133",39.388661,-76.835624
+"21117","Owings Mills","MD","Tractor Supply Co.","9910 Liberty Rd","21133",39.382582992120355,-76.82369514995838
+"21117","Owings Mills","MD","ADP Garage Door Repair","271 Owings Gate Ct","21117",39.4159160054408,-76.7878944724398
+"21117","Owings Mills","MD","minuteKEY","9750 Reistertown Rd A","21117",39.4061025,-76.7670115
+"21117","Owings Mills","MD","Sherwin-Williams Paint Store","11821 Reisterstown Rd","21136",39.446312,-76.812529
+"21122","Pasadena","MD","Ace Hardware & Hearth","4167 Mountain Rd","21122",39.1204729,-76.515533
+"21122","Pasadena","MD","Homestead Gardens","522 Ritchie Hwy","21146",39.078722725134945,-76.54754352717735
+"21122","Pasadena","MD","Clement Hardware","500 Ritchie Hwy","21146",39.080191,-76.549239
+"21122","Pasadena","MD","Affordable Services","not_available","21146",39.081177594521755,-76.55913680791855
+"21122","Pasadena","MD","Tapp Water Systems","4600 Mountain Rd","21122",39.10723,-76.484937
+"21122","Pasadena","MD","Sherwin-Williams Paint Store","476F Ritchie Hwy","21146",39.082096099853516,-76.5516586303711
+"21122","Pasadena","MD","Sherwin-Williams Paint Store","530 Ritchie Hwy","21146",39.07809960830824,-76.5472172476324
+"21122","Pasadena","MD","J. G. Redman Plumbing & Water Solutions, LLC","165 Meadow Rd","21122",39.163334000000006,-76.515128
+"21132","Pylesville","MD","Penn-Mar Door & Hardware","2326 Whiteford Rd","21160",39.706986,-76.34488499999999
+"21132","Pylesville","MD","Delta Lumber","2501 Whiteford Rd","21160",39.713095,-76.35005600000001
+"21133","Randallstown","MD","The Home Depot","8729 Liberty Road","21133",39.3612646,-76.7871792
+"21133","Randallstown","MD","Deer Park Building Supplies","9314 Liberty Rd","21133",39.37281799316406,-76.8065185546875
+"21133","Randallstown","MD","minuteKEY","8730 Liberty Rd.","21133",39.36592483520508,-76.78175354003906
+"21133","Randallstown","MD","84 Lumber (Randallstown)","9115 Liberty Rd","21133",39.369353000000004,-76.80135
+"21136","Reisterstown","MD","Husqvarna US","14923 Hanover Pike","21155",39.535152435302734,-76.8365249633789
+"21157","Westminster","MD","Lowe's","777 Market Street","21157",39.565698,-76.9701225
+"21157","Westminster","MD","The Home Depot","835 Market Street","21157",39.5637695,-76.9674867
+"21157","Westminster","MD","Sherwin-Williams Paint Store","250 Englar Rd","21157",39.5837,-76.9912
+"21157","Westminster","MD","Tractor Supply Co.","1151 Baltimore Blvd","21157",39.552018,-76.954785
+"21157","Westminster","MD","Green's Ace Home Center","1706 Old Liberty Rd W","21157",39.4472,-77.054299
+"21157","Westminster","MD","minuteKEY","280 Woodward Rd","21157",39.585475,-76.984065
+"21157","Westminster","MD","Finch Services","1127 Littlestown Pike","21157",39.604279,-76.997743
+"21157","Westminster","MD","Sherwin-Williams Paint Store","901 Baltimore Blvd","21157",39.557834,-76.964383
+"21157","Westminster","MD","CapitalTristate","1101 Business Parkway South","21157",39.60390853881836,-76.99946594238281
+"21157","Westminster","MD","Clayland Marble & Tile","not_available","21157",39.56745,-76.987475
+"21157","Westminster","MD","Kowalski Brothers","63 S Colonial Ave","21157",39.562676,-76.985158
+"21157","Westminster","MD","Capital Electric","1101A Business Pkwy S","21157",39.603902692544956,-76.99948310852051
+"21157","Westminster","MD","John Deere Landscapes","701-711 Corporate Center Ct","21157",39.60469484042499,-76.99793602972224
+"21157","Westminster","MD","BT Plumbing Supply","486 Lucabaugh Mill Rd","21157",39.587615,-76.971288
+"21157","Westminster","MD","C and O Distributors","514 Lucabaugh Mill Rd","21157",39.58889872378761,-76.97086851310985
+"21157","Westminster","MD","Accent Supply","1284-1286 Washington Rd","21157",39.538924,-76.99453368333333
+"21157","Westminster","MD","Ferguson HVAC Supply","698 Corporate Center Ct Ste H","21157",39.59366989135742,-76.99694061279297
+"21157","Westminster","MD","minuteKEY","777 Market St","21157",39.565098,-76.97014
+"21157","Westminster","MD","Northeastern Supply","110 Airport Dr, Westminster, MD 21157","21157",39.607857,-76.998725
+"21162","White Marsh","MD","Lowe's","5300 Campbell Blvd","21236",39.3693058,-76.4490606
+"21162","White Marsh","MD","Courtland Hearth & Hardware, Inc.","11433 Pulaski Hwy","21162",39.396319,-76.405582
+"21162","White Marsh","MD","Ferguson Waterworks","701 Pulaski Hwy","21085",39.399995000000004,-76.402928
+"21162","White Marsh","MD","Hodge's Window & Glass","11333 Pulaski Hwy","21162",39.393614,-76.408787
+"21163","Woodstock","MD","Edrich Lumber","Old court rd","21244",39.34654148524377,-76.81911338396444
+"21201","Baltimore","MD","CPE Room","not_available","21201",39.290902,-76.61598
+"21201","Baltimore","MD","United Refrigeration","1010 Russell St","21230",39.279178619384766,-76.62448120117188
+"21201","Baltimore","MD","Belle Hardware","240 McMechen St","21217",39.30773162841797,-76.62812042236328
+"21201","Baltimore","MD","Fastenal","1008 Russell St","21230",39.27949142456055,-76.62531280517578
+"21201","Baltimore","MD","McCormick Paint","418 W Franklin St","21201",39.29500251052537,-76.62184653176794
+"21201","Baltimore","MD","Capital Electric","600 W Hamburg St","21230",39.28063201904297,-76.62450408935547
+"21202","Baltimore","MD","Sherwin-Williams Commercial Paint Store","11 S Central Ave","21202",39.290524,-76.599035
+"21202","Baltimore","MD","My Baltimore locksmith","400 E Pratt St","21202",39.28658232851132,-76.6091251373291
+"21202","Baltimore","MD","KOHLER Signature Store by Thos. Somerville","300 Albemarle St","21202",39.28589183,-76.60237528
+"21202","Baltimore","MD","R. E. Michel Co.","1030 Greenmount Ave","21202",39.301883000000004,-76.60768399999999
+"21202","Baltimore","MD","Peoples Electric","351 N Gay St","21202",39.294273960295364,-76.60599321119463
+"21202","Baltimore","MD","Crown Lumber & Supply","1226 N Central Ave","21202",39.30466842651367,-76.6007308959961
+"21202","Baltimore","MD","E.B. Flourescent Co. Inc.","1107 E Baltimore St","21202",39.2909049987793,-76.60126495361328
+"21205","Baltimore","MD","Total Plastics Incorporated","5424 Pulaski Highway","not_available",39.30064071666666,-76.55239773333334
+"21205","Baltimore","MD","National Lumber Co. & True Value","4901 Pulaski Hwy","21224",39.298173,-76.555464
+"21205","Baltimore","MD","Ferguson Plumbing Supply","4001 E Monument St","21205",39.29921854476933,-76.56452081206822
+"21205","Baltimore","MD","Wink's Building Materials","718 Debelius Ave","21205",39.301656,-76.54439
+"21205","Baltimore","MD","Allied building products","not_available","21237",39.299568,-76.53256800000001
+"21205","Baltimore","MD","Steel Industry Services","5921 Moravia Park Dr Ste A2","21206",39.314902000000004,-76.54517299999999
+"21206","Baltimore","MD","Northeastern Supply","8323 Pulaski Hwy","21237",39.324108905535766,-76.49925194668987
+"21206","Baltimore","MD","White Cap Construction Supply","1200 66th St","21237",39.310315707411554,-76.52500349197044
+"21206","Baltimore","MD","Shepherd Electric Supply","7401 Pulaski Hwy","21237",39.31124696319436,-76.5269597904837
+"21206","Baltimore","MD","A&A Bolt & Screw Co.","1110 Batavia Farm Rd","21237",39.32060492359465,-76.50553014807453
+"21206","Baltimore","MD","Aa Replacement Parts","4251 Harford Rd","21214",39.3382323,-76.5736863
+"21206","Baltimore","MD","Belair Road Supply","7750 Pulaski Hwy","21237",39.31697,-76.51797
+"21206","Baltimore","MD","Lehmans Hardware","Belair road","not_available",39.345823091217255,-76.54052247530718
+"21207","Gwynn Oak","MD","The Home Depot","6620 Reisterstown Rd","21215",39.3553468,-76.7070934
+"21207","Gwynn Oak","MD","L&L Supply Corporation","not_available","21215",39.343907,-76.688819
+"21207","Gwynn Oak","MD","Allied Building Products","6600 Whitestone Rd","21207",39.31709,-76.74165
+"21207","Gwynn Oak","MD","Vessel Electric","6506 Park Heights Ave","21215",39.36057,-76.6977
+"21207","Gwynn Oak","MD","Hilltop Hardware","5503 Reisterstown Rd","21215",39.348034999999996,-76.690337
+"21208","Pikesville","MD","Duron Paints & Wallcoverings","1323 Bedford Ave","21208",39.375935999999996,-76.72532700000001
+"21208","Pikesville","MD","Sherwin-Williams Paint Store","919 Reisterstown Rd","21208",39.37280354364357,-76.72113955020905
+"21209","Baltimore","MD","Sherwin-Williams Commercial Paint Store","4625 Falls Rd","21209",39.345635016303795,-76.63996480776314
+"21209","Baltimore","MD","Lee Dopkin","2100 W Cold Spring Ln","21209",39.345345,-76.650717
+"21210","Baltimore","MD","Falkenhan's Hardware","3401 Chestnut Ave","21211",39.328706982582595,-76.62895431350681
+"21210","Baltimore","MD","Schneider Paint & Hardware","700 Wyndhurst Ave","21210",39.353362748425326,-76.63150424392474
+"21210","Baltimore","MD","Sirkis Hardware","Falls Rd, Baltimore, MD","21210",39.33486007919881,-76.63612411720545
+"21210","Baltimore","MD","Baltimore Lock And Hardware","3950 Falls Rd","21211",39.336394601111095,-76.63684049279892
+"21210","Baltimore","MD","KE Hardware","3907 Falls Rd","21211",39.335538,-76.636104
+"21210","Baltimore","MD","Da Warehouse","4501 N Charles St","21210",39.345411,-76.625552
+"21211","Baltimore","MD","Northeastern Supply","Pennsylvania Avenue","21217",39.313314144035814,-76.63382830369373
+"21212","Baltimore","MD","Sherwin-Williams Paint Store","5833 York Rd","21212",39.36175745068874,-76.60945504903793
+"21212","Baltimore","MD","Ayd Hardware","6719 York Rd","21212",39.37772677705687,-76.60853959347372
+"21212","Baltimore","MD","Duron Paints","5834 York Rd","21212",39.36172618,-76.60966157913208
+"21215","Baltimore","MD","east coast plumbers","2904 Garrison Blvd","21216",39.32062,-76.677769
+"21216","Baltimore","MD","Carey Hardware","2102 W North Ave","21217",39.309849561104436,-76.65155079539545
+"21216","Baltimore","MD","Walbrook Mill & Lumber Company","2636 W North Ave","21216",39.310204999999996,-76.660487
+"21217","Baltimore","MD","Hardware Plus","2202 Pennsylvania Ave","21217",39.307519,-76.639788
+"21217","Baltimore","MD","Hardware Plus","2211 Pennsylvania Ave","21217",39.307937,-76.639323
+"21217","Baltimore","MD","Green's Hardware","1901 W Lafayette Ave","21217",39.297202442378754,-76.64749539848924
+"21218","Baltimore","MD","Waverly Ace Hardware","601 E Homestead St","21218",39.3269999,-76.608099
+"21218","Baltimore","MD","appliance parts city","2907 Greenmount Ave","21218",39.324052,-76.60907399999999
+"21219","Sparrows Point","MD","H&E Equipment Services","2111 Grays Rd","21222",39.2525998,-76.4684284
+"21219","Sparrows Point","MD","Midway Lumber Co Inc","4400 N Point Blvd","21219",39.2563797,-76.4613239
+"21219","Sparrows Point","MD","Lee Lumberjack","4512 North Point Blvd","21219",39.25243,-76.459767
+"21220","Middle River","MD","The Home Depot","9955 Pulaski Hwy","21220",39.3589958,-76.4429986
+"21220","Middle River","MD","Sears","8200 Perry Hall Blvd","21236",39.373742,-76.466015
+"21220","Middle River","MD","Tribles, Inc.","9600 Pulaski Hwy","21220",39.353414,-76.451604
+"21220","Middle River","MD","Intercoastal Marine","2925 Eastern Blvd","21220",39.334626,-76.412186
+"21220","Middle River","MD","Sears","8200 Perry Hall Bl","21236",39.37367,-76.466491
+"21220","Middle River","MD","HD Supply White Cap","1006 Middle River Rd","21220",39.350409,-76.452325
+"21220","Middle River","MD","Ferguson HVAC Supply","9611 Pulaski Park Dr Ste 313-316","21220",39.35443764258887,-76.44951034238052
+"21220","Middle River","MD","Colliflower Inc","9320 Pulaski Hwy","21220",39.35086503864311,-76.45731781654999
+"21220","Middle River","MD","Dominion Electric Supply","not_available","21221",39.34066,-76.46936
+"21220","Middle River","MD","Fastenal","10000-10174 Victory Hwy","21220",39.3626832,-76.44433264
+"21220","Middle River","MD","Oreck","7676 Honeygo Blvd","21236",39.373579,-76.472029
+"21220","Middle River","MD","GTS-Welco","not_available","21220",39.360806,-76.453381
+"21220","Middle River","MD","R&R Home Inspection","3805A Clarks Point Rd","21220",39.321269,-76.38603499999999
+"21220","Middle River","MD","minuteKEY","112 Carroll Island Rd","21220",39.33692932128906,-76.4004898071289
+"21220","Middle River","MD","Hodges True Value Hardware","850 Middle River Rd","21220",39.3476448059082,-76.4510498046875
+"21220","Middle River","MD","Bunting Door And Hardware","10015 Pulaski Hwy","21220",39.361286,-76.444172
+"21220","Middle River","MD","Carroll Island True Value Hardware","124 Carroll Island Rd","21220",39.332271575927734,-76.40026092529297
+"21220","Middle River","MD","Sewer Repair Baltimore","502 Almond Ave","21221",39.32163619995117,-76.47146606445312
+"21221","Essex","MD","The Home Depot","6415 Petrie Way","21237",39.3352134,-76.4891336
+"21221","Essex","MD","Sure Comfort Supply Center","7022 Golden Ring Rd","21237",39.332653,-76.49058199999999
+"21221","Essex","MD","Aeirco","7209 Golden Ring Rd","21221",39.330238,-76.480737
+"21221","Essex","MD","Grainger","8820 Citation Rd","21221",39.336936,-76.477716
+"21222","Dundalk","MD","The Home Depot","6315 Eastern Ave","21224",39.2863539,-76.5382843
+"21222","Dundalk","MD","Sherwin-Williams Paint Store","7400 Eastern Ave","21224",39.2909593,-76.5227923
+"21222","Dundalk","MD","Poplar Place Hardware","1707 Poplar Pl","21222",39.27026553046014,-76.50250358393781
+"21222","Dundalk","MD","Snyder Electric","7401Pulaski Hwy","not_available",39.28771200941801,-76.537005
+"21222","Dundalk","MD","Sherwin-Williams Paint Store","1179 Merritt Blvd","21222",39.28174,-76.504216
+"21222","Dundalk","MD","Fastenal","1811 Portal St Ste A","21224",39.271731,-76.533805
+"21223","Baltimore","MD","Southern Sales Services","2015 Washington Blvd","21230",39.272419,-76.644276
+"21223","Baltimore","MD","Zeskind Hardware","222 S Payson St","21223",39.284279999999995,-76.648674
+"21223","Baltimore","MD","Tension Seal","3037 Frederick Ave","21223",39.279962,-76.667689
+"21223","Baltimore","MD","Capitol Building Supply Inc","1303 W Hamburg St","21230",39.277615000000004,-76.632362
+"21223","Baltimore","MD","The Roof Center","1321 Western Ave","21230",39.271471999999996,-76.64269200000001
+"21223","Baltimore","MD","Castle Wholesalers Of Maryland","1006 Wilso Dr","21223",39.27312088012695,-76.66725158691406
+"21224","Baltimore","MD","Canton Ace Hardware","1022 Binney St","21224",39.2806459,-76.578048
+"21224","Baltimore","MD","Norman Machine Tool","1311 Ponca St","21224",39.27865982055664,-76.55403137207031
+"21224","Baltimore","MD","Kureks Hardware","3242 Odonnell St","21224",39.28053301156193,-76.5695964839476
+"21224","Baltimore","MD","Capitol Building Supply Inc","6813 Quad Avenue","21237",39.30068565,-76.52697155
+"21224","Baltimore","MD","Verns Lock And Key","not_available","21224",39.287903,-76.545103
+"21224","Baltimore","MD","Monumental supply co.","1025 S Haven St","21224",39.281273,-76.561566
+"21225","Brooklyn","MD","Airpark Appliance","1500 W Patapsco Ave","21230",39.249721,-76.64045
+"21225","Brooklyn","MD","Acme Ladder & Equipment","3730 S Hanover St","21225",39.236923,-76.610342
+"21225","Brooklyn","MD","Beever Outdoor Power","6005 Olson Rd","21225",39.209529,-76.621291
+"21227","Halethorpe","MD","The Home Depot","3750 Commerce Dr","21227",39.2479874,-76.673904
+"21227","Halethorpe","MD","Sherwin-Williams Paint Store","1306 Linden Ave","21227",39.251102678992794,-76.6938668151217
+"21227","Halethorpe","MD","Grainger","2100 Haines St","21230",39.272161,-76.628817
+"21227","Halethorpe","MD","Ferguson HVAC Supply","4501 Hollins Ferry Rd Ste 140","21227",39.23388671875,-76.67034912109375
+"21227","Halethorpe","MD","City Electric Supply Baltimore South","1650 Sulphur Spring Rd","21227",39.24674254902487,-76.68140262365347
+"21227","Halethorpe","MD","Handjobs","not_available","21227",39.245698,-76.65859
+"21227","Halethorpe","MD","Security Equipment Company","3828 Washington Boulevard","21227",39.244817,-76.675969
+"21227","Halethorpe","MD","HD Supply Kenseal","2960 Washington Blvd","21230",39.260791,-76.659849
+"21227","Halethorpe","MD","Lansdowne Paint & Hardware","1949 Lansdowne Rd","21227",39.252074,-76.666213
+"21227","Halethorpe","MD","Alside","3721 Commerce Dr","21227",39.252527,-76.671655
+"21227","Halethorpe","MD","Helwigs Lawnmower Repair","3604 Washington Blvd","21227",39.249796,-76.670598
+"21227","Halethorpe","MD","Unlimited Stone","4803 Benson Ave","21227",39.25594473733101,-76.68719003819206
+"21227","Halethorpe","MD","Dewalt Factory Service","1646 Sulfur Springs Rd","not_available",39.24650192260742,-76.68130493164062
+"21227","Halethorpe","MD","Universal Marble And Granite Company","1954 Halethorpe Farms Rd","21227",39.231975,-76.685541
+"21227","Halethorpe","MD","Ferguson Plumbing Supply","4501 Hollins Ferry Rd Ste 120","21227",39.23340682609293,-76.67085845710294
+"21228","Catonsville","MD","Lowe's","5900 Baltimore National Pike","21228",39.2884416,-76.7379105
+"21228","Catonsville","MD","The Home Depot","6000 Baltimore Natl Pike","21228",39.28678162412917,-76.74524188041693
+"21228","Catonsville","MD","Harbor Freight","not_available","21228",39.28418,-76.75178
+"21228","Catonsville","MD","minuteKEY","6205 Baltimore National Pike","21228",39.282127380371094,-76.75155639648438
+"21230","Baltimore","MD","Federal Hill Ace Hdw","1214 Light St","21230",39.275691,-76.612272
+"21230","Baltimore","MD","Sherwin-Williams Paint Store","909 E Fort Ave","21230",39.27051641,-76.60182282
+"21230","Baltimore","MD","Hi's Variety","1727-1729 Fleet St","21231",39.28487795999914,-76.59211398977293
+"21230","Baltimore","MD","Scriba Welding","1228 S Paca St","21230",39.277836,-76.628233
+"21230","Baltimore","MD","Southern Saw Services","1918 Eastern Ave","21231",39.28598028622151,-76.58937871456146
+"21230","Baltimore","MD","Rew Materials","2001 Race St","21230",39.266655,-76.615989
+"21230","Baltimore","MD","Kwik Key","not_available","21231",39.28555561602424,-76.59133983468723
+"21231","Baltimore","MD","Elec Pros - Baltimore Electricians","242 S Washington St","21231",39.288094,-76.589203
+"21234","Parkville","MD","The Home Depot","1971 E Joppa Rd","21234",39.3955897,-76.5439307
+"21234","Parkville","MD","Lowe's","1400 Taylor Avenue","21234",39.3837075,-76.5681977
+"21234","Parkville","MD","The Home Depot","2501 Cleanleigh Drive","21234",39.37236025878518,-76.5621801969678
+"21234","Parkville","MD","Rommel Ace Home Center","4231 Ebenezer Rd","21236",39.398383,-76.479346
+"21234","Parkville","MD","Sears","8200 Belair Road","21236",39.3801442,-76.5039812
+"21234","Parkville","MD","Binder Kitchen And Bath","not_available","21234",39.39157260227244,-76.54397715673818
+"21234","Parkville","MD","Sherwin-Williams Paint Store","8655 Belair Rd","21236",39.39078903198242,-76.48950958251953
+"21234","Parkville","MD","Sherwin-Williams Paint Store","7927 Belair Rd","21236",39.373737,-76.508672
+"21234","Parkville","MD","Sherwin-Williams Paint Store","1524 E Joppa Rd","21286",39.397186,-76.570015
+"21234","Parkville","MD","minuteKEY","4201 Wholesale Club Dr","21236",39.379947662353516,-76.49896240234375
+"21234","Parkville","MD","Strohmer's Paint Store","1741 taylor ave","not_available",39.38149,-76.559168
+"21234","Parkville","MD","minuteKEY","1400 Taylor Ave","21234",39.384065,-76.56809799999999
+"21234","Parkville","MD","ClearView Window & Door Company","3316 Putty Hill Ave","21234",39.38033719,-76.52442621
+"21234","Parkville","MD","Harbor Freight Tools","8884 Waltham Woods Rd","21234",39.40108509673323,-76.54311080447495
+"21234","Parkville","MD","TW Perry","4321 Fitch Ave","21236",39.36969,-76.50623
+"21234","Parkville","MD","Sherwin-Williams Paint Store","8824 Waltham Woods Rd","21234",39.399679,-76.54271700000001
+"21234","Parkville","MD","minuteKEY","8118 Perry Hills Ct","21236",39.378395080566406,-76.50839233398438
+"21234","Parkville","MD","Perry Hall Lawn Equipment","3403 E Joppa Rd","21234",39.394856,-76.509434
+"21244","Windsor Mill","MD","A & W Helping Hands LLC","2505 Lord Baltimore Dr Ste A # 55","21244",39.323371,-76.749136
+"21244","Windsor Mill","MD","Trible's, Inc.","2601 N Rolling Rd Ste 108","21244",39.32776641845703,-76.75672149658203
+"21244","Windsor Mill","MD","Mid South Building Supply","2801 Lord Baltimore Dr","21244",39.331443786621094,-76.75183868408203
+"21244","Windsor Mill","MD","Sears","6901 Security Square Blvd","21244",39.309437837616564,-76.74913001086679
+"21244","Windsor Mill","MD","Sears","6901 Security Blvd","21244",39.3092933951543,-76.74919760240306
+"21401","Annapolis","MD","Sherwin-Williams Paint Store","1966A West St","21401",38.981571,-76.527857
+"21401","Annapolis","MD","Benjamin Moore Paints","Red Apple Plaza","21619",38.97810611047983,-76.52439940505926
+"21401","Annapolis","MD","Bowen's Farm Supply","2550 Riva Rd","21401",38.979082276086174,-76.55017026684222
+"21401","Annapolis","MD","Ferguson HVAC Lyon Conklin","11 Hudson St Ste 140","21401",38.98414611816406,-76.53270721435547
+"21401","Annapolis","MD","Ferguson Plumbing Supply","11 Hudson St","21401",38.984134999999995,-76.532691
+"21401","Annapolis","MD","Maryland Paint & Decorating","209 Chinquapin Round Rd Ste 100","21401",38.97765,-76.523937
+"21409","Annapolis","MD","Cape Ace Hardware","1320 Cape St Claire Rd","21409",39.039233,-76.439031
+"21502","Cumberland","MD","Lowe's","1211 National Highway","21502",39.640644,-78.8338165
+"21502","Cumberland","MD","Tractor Supply Co.","12101 Winchester Rd Southwest Ste 2b","21502",39.631431,-78.839047
+"21502","Cumberland","MD","True Value Hardware Of Cumberland","239 N Mechanic St","21502",39.65520342,-78.76600906
+"21502","Cumberland","MD","Harbor Freight Tools","1236 National Hwy","21502",39.6362480003,-78.836155
+"21502","Cumberland","MD","Naylors Hardware","1350 W Industrial Blvd","21502",39.629114,-78.742538
+"21502","Cumberland","MD","Sears","1262 Vocke Rd","21502",39.62667672,-78.83612138
+"21502","Cumberland","MD","American Woodmark","not_available","21502",39.55513290836973,-78.86365711031945
+"21502","Cumberland","MD","Capital Electric","86 Wineow St","21502",39.64726638793945,-78.76004791259766
+"21502","Cumberland","MD","Sears","2 Vocke Rd, Ste 100","21502",39.626487618498814,-78.8360493725861
+"21502","Cumberland","MD","City Electric Supply Cumberland","1600 Ford Ave","21502",39.6256,-78.77185
+"21502","Cumberland","MD","minuteKEY","12500 Country Club Mall Rd","21502",39.6315787,-78.8349988
+"21502","Cumberland","MD","minuteKEY","1211 National Hwy","21502",39.64075469970703,-78.83379364013672
+"21502","Cumberland","MD","Bruck's Custom Cabinetry","926 National Hwy, Cumberland, MD 21502","21502",39.64531326293945,-78.82047271728516
+"21502","Cumberland","MD","84 Lumber","National Hwy SW","21502",39.640087672967134,-78.86056665089211
+"21502","Cumberland","MD","Hajoca","711 N Centre St","21502",39.661842764132544,-78.77372021219335
+"21502","Cumberland","MD","Sherwin-Williams Paint Store","717 Park St","21502",39.646667293418055,-78.75799834728241
+"21502","Cumberland","MD","lowes","not_available","21532",39.64362909076308,-78.89278776441493
+"21520","Accident","MD","Deep Creek Outfitters","not_available","21541",39.55528790117186,-79.35121175195438
+"21520","Accident","MD","G&W Lumber Inc.","404 S Main St","21520",39.622946999999996,-79.323677
+"21521","Barton","MD","Ternent's","2 Jackson St","21539",39.565025329589844,-78.97992706298828
+"21521","Barton","MD","Allegany Hardwood","92 Jackson St","21539",39.55985898946948,-78.97748794842818
+"21523","Bloomington","MD","Wolseley Industrial Group","17 Hamill Ave","21523",39.477025,-79.071134
+"21532","Frostburg","MD","Hardestys True Value","3235 Chestnut","21536",39.69633865356445,-79.10028076171875
+"21532","Frostburg","MD","Sherwin-Williams Paint Store","10601 New Georges Creek Rd SW","21532",39.64942932128906,-78.91129302978516
+"21550","Oakland","MD","Lowe's","7000 Lowes Drive","21550",39.4417203,-79.3812026
+"21550","Oakland","MD","Ace Hardware","32 S 3rd St","21550",39.409054,-79.405825
+"21550","Oakland","MD","Manor Home Center","1375 Maryland Hwy","21550",39.3969487,-79.37113177
+"21550","Oakland","MD","Keylock, LLC","12423 Garrett Hwy","21550",39.418418884277344,-79.40140533447266
+"21550","Oakland","MD","Sherwin-Williams Paint Store","12811 Garrett Hwy","21550",39.42269938986347,-79.39671511047064
+"21550","Oakland","MD","Tractor Supply Co.","13631 Garrett Hwy","21550",39.431415,-79.386802
+"21550","Oakland","MD","Colonial Lumber","207 West Ashby-Ellis Road","21550",39.388694763183594,-79.46334075927734
+"21550","Oakland","MD","Sticks & Stones","50 Glotfelty Dr","21550",39.483978271484375,-79.35205841064453
+"21550","Oakland","MD","84 Lumber","73 Francis Sanders Dr W","21550",39.407975,-79.3554
+"21550","Oakland","MD","Garrett Industrial Supply","104 Commerce Dr","21550",39.401501658114775,-79.36066069143106
+"21550","Oakland","MD","Greater Maryland Tool and Manufacturing Corp.","5 Resource Ave","21550",39.403946,-79.355901
+"21550","Oakland","MD","Builders Way Lighting And Plumbing","not_available","21550",39.446348,-79.374815
+"21550","Oakland","MD","Underwood Rentals","14597 Garrett Hwy","21550",39.44356155395508,-79.37820434570312
+"21555","Oldtown","MD","Taylor's Appliance","6140 Magnolia","not_available",39.539676666259766,-78.40669250488281
+"21601","Easton","MD","Lowe's","501 Glebe Road","21601",38.7856368,-76.0776789
+"21601","Easton","MD","Tractor Supply Co.","29328 Cecil Dr","21601",38.790240627074596,-76.05811517214742
+"21601","Easton","MD","Grand Rental Station","9093 Centreville Rd","21601",38.798365999999994,-76.06344
+"21601","Easton","MD","Builders Surplus","9329 Ocean Gtwy","21601",38.805539,-76.05942900000001
+"21601","Easton","MD","Builders Firstsource","8431 Ocean Gtwy","21601",38.780576,-76.059564
+"21601","Easton","MD","Annapolis Paint","455-499 E Dover St","21601",38.77424955368042,-76.06923937797546
+"21601","Easton","MD","ProBuild","8401 Ocean Gateway, Easton, MD 21601","21601",38.77977752685547,-76.0593490600586
+"21601","Easton","MD","Johnson Lumber","not_available","21601",38.865697248143,-76.06874568945325
+"21601","Easton","MD","The Roof Center","Dover Rd.","not_available",38.773446,-76.06800600000001
+"21601","Easton","MD","The Lumberyard","1206 S Talbot St","21663",38.771014,-76.21004
+"21601","Easton","MD","Matt's shop","not_available","21655",38.711814880371094,-75.90196228027344
+"21601","Easton","MD","Paul T. Ewing, Inc.","9353 Ocean Gtwy","21601",38.806283,-76.05910899999999
+"21601","Easton","MD","Eastern Shore Brick","8885 Mistletoe Dr","21601",38.79289,-76.079422
+"21601","Easton","MD","Nagel's Hardware","3695 main street","21655",38.70965935029836,-75.91082682823084
+"21601","Easton","MD","Sherwin-Williams Paint Store","210 Marlboro Ave","21601",38.779724,-76.082892
+"21613","Cambridge","MD","E.S. Hubbard & Son Inc.","403 Sunburst Hwy","21613",38.56363296508789,-76.06690979003906
+"21613","Cambridge","MD","Rommel's Ace Home Center","802 Woods Rd","21613",38.563609,-76.057862
+"21613","Cambridge","MD","Sherwin-Williams Paint Store","700 Cambridge Plz","21613",38.561317443847656,-76.06459045410156
+"21613","Cambridge","MD","84 Lumber","804 Woods Rd","21613",38.557871,-76.060624
+"21613","Cambridge","MD","Beckwith Equipment","3447 Ocean Gtwy","21631",38.553626,-75.98281
+"21617","Centreville","MD","Friel Lumber Company","100 Friels Pl","21658",38.985619,-76.154054
+"21617","Centreville","MD","Price & Gannon","2448 Centreville Rd","21617",39.030250549316406,-76.07740783691406
+"21617","Centreville","MD","Shore Lumber and Millwork","not_available","21617",39.01408550354539,-76.0820975183652
+"21619","Chester","MD","Kent Island True Value","26 Kent Town Market","21619",38.974071,-76.27716600000001
+"21619","Chester","MD","Ace Hardware","300 Thompson Crk Shop Ctr","21666",38.975901262065825,-76.31308341790363
+"21619","Chester","MD","L.J. Elter & Son Power Equipment Centers","121 Wood Duck Ct Ste 101","21619",38.972194,-76.268763
+"21619","Chester","MD","Sherwin-Williams Paint Store","63 Kent Town Market","21619",38.97433090209961,-76.27765655517578
+"21619","Chester","MD","Maryland Paint & Decorating","382 Thompson Creek Mall","21666",38.975503,-76.312424
+"21619","Chester","MD","Rommel's Ace Home Center","364 Thompson Creek Mall","21666",38.975629999999995,-76.313115
+"21620","Chestertown","MD","JBK Hardware","18 Washington Square Shopping Center","21620",39.23011,-76.070071
+"21620","Chestertown","MD","Chestertown Lumber","805washington ave","not_available",39.226984,-76.071589
+"21620","Chestertown","MD","Capital Electric","305 N College Ave","21620",39.214683532714844,-76.06951141357422
+"21620","Chestertown","MD","Sherwin-Williams Paint Store","5 Washington Sq","21620",39.229144970599876,-76.07154607772827
+"21620","Chestertown","MD","Village Hardware & Garden Center","5811 Chesapeake Villa Rd","21661",39.1388,-76.235975
+"21620","Chestertown","MD","Sears","19 Washington Square Mall","21620",39.2304143,-76.0698748
+"21620","Chestertown","MD","Tractor Supply Co.","711 Washington Ave Ste 1b","21620",39.224274,-76.06799
+"21629","Denton","MD","minuteKEY","610 Legion Rd","21629",38.874759674072266,-75.8214340209961
+"21629","Denton","MD","Choptank Supply Incorporated","802 Crystal Ave","21629",38.88662338256836,-75.82329559326172
+"21629","Denton","MD","Rebuilding Together Caroline","River Landing Road & Bridge Street","21629",38.87986368832365,-75.8204127351648
+"21631","East New Market","MD","Future Builders Supply Inc.","512 S Main St","21643",38.62419891357422,-75.86148071289062
+"21632","Federalsburg","MD","Marshy Hope Hardware","Railroad Ave","21632",38.68971132160906,-75.78943469086416
+"21643","Hurlock","MD","Ebvfd B Fast","not_available","21659",38.58356178333333,-75.78857928333333
+"21660","Ridgely","MD","Hutchison Supply","7 E 6th Street","21660",38.94288841438932,-75.8796501159668
+"21701","Frederick","MD","Lowe's","7850 Wormans Mill Road","21701",39.4480186,-77.3997283
+"21701","Frederick","MD","Tractor Supply Co.","7631 Devilbiss Bridge Rd","21701",39.50586605334457,-77.4018481363005
+"21701","Frederick","MD","Sherwin-Williams Paint Store","1305 W 7th St","21702",39.431422,-77.419038
+"21701","Frederick","MD","Duron","5807 Buckeystown Pike","21704",39.394028999999996,-77.408411
+"21701","Frederick","MD","Exotic Lumber Inc.","not_available","21701",39.4157,-77.404175
+"21701","Frederick","MD","minuteKEY","7850 Wormans Mill Rd","21701",39.447947,-77.39963399999999
+"21701","Frederick","MD","Sunset Supply","11339 Liberty Rd","21701",39.474376,-77.269436
+"21701","Frederick","MD","Happy Containers","225 Bucheimer Rd Ste 102","21701",39.4100227355957,-77.38450622558594
+"21701","Frederick","MD","Ferguson Plumbing Supply","295 Interstate Ct","21704",39.402406,-77.388438
+"21701","Frederick","MD","Roof Center","5752 Industry Ln","21704",39.394317,-77.41861999999999
+"21701","Frederick","MD","Frederick Glass","301 E 4th St","21701",39.418984,-77.403514
+"21701","Frederick","MD","Capital Electric","270 Interstate Cir","21704",39.403145,-77.386499
+"21701","Frederick","MD","Shepherd Electric Supply","5748 Industry Ln","21704",39.394017,-77.417001
+"21701","Frederick","MD","Aireco Supply","5915 Urbana Pike Spc B","21704",39.39789962768555,-77.40773010253906
+"21701","Frederick","MD","Capitol Building Supply Inc","8006 Reichs Ford Road","21704",39.3968069,-77.3870797
+"21701","Frederick","MD","Edgeworks Knife & Supply Co.","200 N Market St","21701",39.41669317670456,-77.41060695780838
+"21701","Frederick","MD","Rexel Electrical","not_available","21704",39.399948060796575,-77.38797944546904
+"21701","Frederick","MD","City Electric Supply Frederick","1530 Tilco Dr Unit B","21704",39.3982147,-77.3830573
+"21701","Frederick","MD","T R Saylor & Co","17 Main St","21793",39.48374938964844,-77.34983825683594
+"21702","Frederick","MD","The Home Depot","51 N McCain Dr","21702",39.4206658,-77.4555387
+"21703","Frederick","MD","The Home Depot","5517 Urbana Pike","21704",39.38411117413823,-77.39863336086273
+"21703","Frederick","MD","Lowe's","5611 Buckeystown Pike","21704",39.3880545,-77.4073295
+"21703","Frederick","MD","Sears","5500 Buckeystown Pike","21703",39.38383256,-77.40766849
+"21703","Frederick","MD","C & H Hardware","5431 Mountville Rd","21710",39.313846000000005,-77.47842800000001
+"21703","Frederick","MD","D.W. Ogg Equipment Company","5149 Cap Stine Road","21703",39.374908447265625,-77.47415161132812
+"21703","Frederick","MD","Solutions In Aqua Services","4750 Winchester Blvd Unit 9","21703",39.339521,-77.503685
+"21703","Frederick","MD","ProBuild Lumber and Gypsum Yard","7203 McKinney Cir","21704",39.36162567138672,-77.41522979736328
+"21703","Frederick","MD","Tractor Supply Co.","5450 Mount Zion Rd","21703",39.380722999999996,-77.478309
+"21703","Frederick","MD","Fastenal","4635 Wedgewood Blvd","21703",39.36735153198242,-77.42884063720703
+"21711","Big Pool","MD","Clear Spring Hardware Store","not_available","21722",39.660234178563655,-77.98292937106469
+"21713","Boonsboro","MD","Mid-Atlantic Tractor","18025 Keedysville Rd","21713",39.503639221191406,-77.74362182617188
+"21713","Boonsboro","MD","S & H Machine Shop LLC","6701 Sharpsburg Pike","21782",39.497368,-77.748435
+"21716","Brunswick","MD","Ace Hardware","40 Souder Rd","21716",39.32573699951172,-77.624267578125
+"21716","Brunswick","MD","84 Lumber Sign","not_available","21716",39.31256070129329,-77.63083327072438
+"21716","Brunswick","MD","BRUNSWICK TRUE VALUE HDWE","302 W Potomac St","21716",39.31346893310547,-77.6308822631836
+"21722","Clear Spring","MD","City Electric Supply Hagerstown","10210 Governor Lane Blvd Unit 2001","21795",39.59562934101767,-77.80721694231033
+"21722","Clear Spring","MD","Carter lumber","10120 Governor Lane Blvd","21795",39.592502,-77.808453
+"21722","Clear Spring","MD","AquaFlow Pump & Supply Co","16051 Business Pkwy","21740",39.636735,-77.813745
+"21727","Emmitsburg","MD","Husqvarna US","427 E Main St","21727",39.70375442504883,-77.32080841064453
+"21740","Hagerstown","MD","The Home Depot","17810 Garland Groh Blvd","21740",39.656815355787764,-77.75139480829239
+"21740","Hagerstown","MD","Lowe's","1500 Wesel Blvd","21740",39.6337923,-77.7600836
+"21740","Hagerstown","MD","Lowe's","12809 Shank Farm Way","21742",39.6638413,-77.6984769
+"21740","Hagerstown","MD","Harbor Freight","1455 Wesel Blvd","not_available",39.634281158447266,-77.75538635253906
+"21740","Hagerstown","MD","Persian Rug - Azad's Oriental Rug Emporium","36 Jonathan St","21740",39.64377975463867,-77.72187805175781
+"21740","Hagerstown","MD","Sherwin-Williams Paint Store","18706 North Village","21742",39.68663137991416,-77.71928071975707
+"21740","Hagerstown","MD","Western Maryland Outdoor Power","1845 Dual Hwy","21740",39.611193,-77.690249
+"21740","Hagerstown","MD","Channel Home Improvement","560 northern ave","21742",39.612706,-77.688366
+"21740","Hagerstown","MD","Mays Hardware","1583 Potomac Ave","21742",39.664955139160156,-77.70144653320312
+"21740","Hagerstown","MD","Ace Hardware","12032 Mapleville Rd","21783",39.64704895019531,-77.58576965332031
+"21740","Hagerstown","MD","H & H Well Drilling","Sharpsburg Pike","21740",39.5935930110966,-77.7457194202866
+"21740","Hagerstown","MD","Cavetown Ace Home Center","12035 Mapleville Rd","21783",39.6465859,-77.584727
+"21740","Hagerstown","MD","Capital Electric","12111 Insurance Way","21740",39.6482048034668,-77.75970458984375
+"21740","Hagerstown","MD","Tractor Supply Company - Hagerstown Distribution Center","11935 Hopewell Rd","21740",39.64044628197154,-77.7652932575109
+"21740","Hagerstown","MD","Ferguson Plumbing Supply","955 Sweeney Dr","21740",39.63206448762556,-77.74399823240606
+"21740","Hagerstown","MD","Direct Tools Factory Outlet","495 Premium Outlets Blvd Ste 855","21740",39.60964674826629,-77.73372643274094
+"21740","Hagerstown","MD","Tractor Supply Co.","1701 Massey Blvd","21740",39.62929281430417,-77.76284312144664
+"21740","Hagerstown","MD","Rocky top building products","1201 Maryland Ave","21740",39.62451934814453,-77.73492431640625
+"21740","Hagerstown","MD","Walking into Lowes","not_available","21742",39.663892,-77.698954
+"21740","Hagerstown","MD","Roberts Oxygen","not_available","21740",39.62541580200195,-77.72716522216797
+"21740","Hagerstown","MD","Applied Indust. Tech.","931A Sweeney Dr","21740",39.631215000000005,-77.741671
+"21740","Hagerstown","MD","Sherwin-Williams Paint Store","118 Railway Ln","21740",39.63002736115922,-77.76550590991974
+"21740","Hagerstown","MD","Startzmans Hardware Store","115 memorial blvd","21740",39.626595,-77.72711
+"21740","Hagerstown","MD","Capitol Building Supply Inc","1225 Maryland Avenue","21740",39.61988868,-77.73743094
+"21742","Hagerstown","MD","Master Supply","87 W Lee St","21740",39.6374648809433,-77.7258574962616
+"21742","Hagerstown","MD","Mike's Lockout Service","street","21740",39.63172128106024,-77.73805618286133
+"21742","Hagerstown","MD","Foltz Manufacturing & Supply Co.","63 E Washington St","21740",39.640884,-77.7180779
+"21742","Hagerstown","MD","Hardware Discounters","934 Sweeney Dr Ste 7","21740",39.6320915222168,-77.74117279052734
+"21750","Hancock","MD","Hunter's Hardware","115 Independence","25411",39.628323980509755,-78.22593347728892
+"21750","Hancock","MD","Mr. Hardware","47","21750",39.69816414189918,-78.17516634450861
+"21755","Jefferson","MD","Husqvarna US","3908 Jefferson Pike","21755",39.362430572509766,-77.5313949584961
+"21755","Jefferson","MD","H. C. Summers","4002 Jefferson Pike","21755",39.362526,-77.530311
+"21755","Jefferson","MD","Ace Hardware","40B Souder Ed","21716",39.29687574063338,-77.63959869868226
+"21771","Mount Airy","MD","Tractor Supply Co.","301 Century Dr","21771",39.36774098633569,-77.14213965443572
+"21771","Mount Airy","MD","Mt Airy Ace Hardware","1312 S Main St Ste 7","21771",39.3707509,-77.161427
+"21771","Mount Airy","MD","The Plumbery","15 N Main St","21771",39.377502,-77.153655
+"21771","Mount Airy","MD","Husqvarna US","4125 Franklinville Rd","21776",39.46096420288086,-77.096923828125
+"21771","Mount Airy","MD","84 Lumber","4484 Quad County Ct","21771",39.356593,-77.170197
+"21771","Mount Airy","MD","Southern States","1312 S Main St","21771",39.366912,-77.166508
+"21776","New Windsor","MD","Snavely Forest","1251 New Windsor Rd.","21158",39.53955841064453,-77.10530090332031
+"21780","Sabillasville","MD","Ace Hardware","215 N Church St","21788",39.627392,-77.41118
+"21780","Sabillasville","MD","Hobb's Hardware","not_available","21788",39.62375,-77.41115
+"21784","Sykesville","MD","The Home Depot","1326 Londontown Blvd","21784",39.4090645,-76.9466796
+"21784","Sykesville","MD","Sherwin-Williams Paint Store","1716 Liberty Rd","21784",39.400195000000004,-76.934051
+"21784","Sykesville","MD","Eldersberg Sales & Service Repair","2025 Liberty Rd","21784",39.396347,-76.923549
+"21784","Sykesville","MD","Wayne's Hauling & Landscape Supplies","405 Rams Horn Ct","21784",39.420445,-76.98034299999999
+"21784","Sykesville","MD","Battery Warehouse","1374-1418 Progress Way","21784",39.41344266927297,-76.94491472877193
+"21784","Sykesville","MD","Finch Service Inc","9 Venture Way","21784",39.42546463012695,-76.99777221679688
+"21784","Sykesville","MD","Eldersburg Building Supply","5941 Bartholow Rd","21784",39.409434999999995,-76.951435
+"21784","Sykesville","MD","Metro Bobcat","33 W Old Liberty Rd","21784",39.4235896,-76.9982819
+"21801","Salisbury","MD","Lowe's","2606 N Salisbury Blvd","21801",38.4112908,-75.5694044
+"21801","Salisbury","MD","Rommel's Ace Home Center","121 W College Ave","21804",38.3485009,-75.601594
+"21801","Salisbury","MD","R.E. Michel","247 Leonard Ln","21801",38.401378,-75.57835
+"21801","Salisbury","MD","Ferguson Waterworks","28596 Naylor Mill Rd","21801",38.4009895324707,-75.62187957763672
+"21801","Salisbury","MD","Capital Electric","1774 Westwood Dr","21801",38.398515,-75.626174
+"21801","Salisbury","MD","Mid atlantic fasteners","not_available","21801",38.40631103515625,-75.56752014160156
+"21801","Salisbury","MD","Aquarius Suppy","38373 Sussex Hwy","19940",38.3453094474804,-75.60140305842486
+"21801","Salisbury","MD","Ferguson Plumbing Supply","28600 Naylor Mill Rd Ste A","21801",38.4000244140625,-75.62242126464844
+"21801","Salisbury","MD","Harbor Freight Tools","2423 N Salisbury Blvd #A","21801",38.404841,-75.56737199999999
+"21801","Salisbury","MD","Brian & Brittingham Inc.","not_available","21875",38.453979239095176,-75.57425522567578
+"21801","Salisbury","MD","Shinn's Paint Store","345 Snow Hill Rd","21804",38.361209869384766,-75.5901107788086
+"21801","Salisbury","MD","Duron Paints & Wallcoverings","705 Snow Hill Rd","21804",38.354515,-75.585516
+"21801","Salisbury","MD","Sherwin-Williams Floorcovering Store","1770 Westwood Dr","21801",38.398283,-75.62669
+"21801","Salisbury","MD","meadows hydraulic","not_available","21826",38.31593322753906,-75.62262725830078
+"21801","Salisbury","MD","minuteKEY","409 N Fruitland Blvd","21801",38.328399658203125,-75.61041259765625
+"21801","Salisbury","MD","minuteKEY","2300 N Salisbury Blvd","21801",38.3988567,-75.5662773
+"21801","Salisbury","MD","United Refrigeration","Eastern Shore Dr","21804",38.35441970825195,-75.59747314453125
+"21801","Salisbury","MD","minuteKEY","2702 N Salisbury Blvd","21801",38.4173242,-75.5692448
+"21804","Salisbury","MD","The Home Depot","115 E North Pointe Dr","21804",38.41700177344726,-75.56240058220283
+"21804","Salisbury","MD","R.D. Grier","not_available","21804",38.37412406391298,-75.5102709887556
+"21804","Salisbury","MD","Sherwin-Williams Paint Store","1211 Mount Hermon Rd","21804",38.368206,-75.571422
+"21811","Berlin","MD","The Home Depot","11408 Ocean Gateway","21811",38.3413056,-75.1641039
+"21811","Berlin","MD","The Adkins Co Of Ocean Pines","11048 Cathell Rd","21811",38.37865447998047,-75.17109680175781
+"21811","Berlin","MD","Tractor Supply Co.","10452 Old Ocean City Blvd Unit 2","21811",38.339724,-75.198135
+"21811","Berlin","MD","minuteKEY","11416 Ocean Gtwy","21811",38.339348,-75.162674
+"21811","Berlin","MD","Capital Electric","11070 Cathell Rd","21811",38.37757890513133,-75.16950845718384
+"21811","Berlin","MD","Truck Rental Center at the Home Depot","11408 Ocean Gtwy","21811",38.341322999999996,-75.164221
+"21811","Berlin","MD","Elliot's Hardware","not_available","21842",38.336321,-75.113373
+"21811","Berlin","MD","The Adkins Company","Harrison Ave","21811",38.32617,-75.22261
+"21811","Berlin","MD","Nolans Lawn Equipment","11726 Grays Corner Road","not_available",38.338526505304216,-75.14841284594615
+"21817","Crisfield","MD","Bayside Home Center","4040 Crisfield Hwy","21817",37.99372,-75.8406
+"21837","Mardela Springs","MD","The Hardware Store","25442 Ocean Gtwy","21837",38.45943832397461,-75.72966003417969
+"21842","Ocean City","MD","Rommel's Ace Home Center","6807 Coastal Hwy","21842",38.3876139,-75.065627
+"21842","Ocean City","MD","Harrison Group Supply","5401 Coastal Hwy","21842",38.37902069091797,-75.06986236572266
+"21842","Ocean City","MD","Tribles","104 127th St","21842",38.433262,-75.055838
+"21842","Ocean City","MD","Montego Bay True Value","12827 Coastal Hwy","21842",38.43429998909641,-75.05563423453862
+"21842","Ocean City","MD","Glidden","8th St","21842",38.339210034213814,-75.08283598108673
+"21842","Ocean City","MD","Sherwin-Williams Paint Store","11901 Coastal Hwy","21842",38.42466821,-75.05684067
+"21851","Pocomoke City","MD","Lowe's","275 Newtown Boulevard","21851",38.0782563,-75.5598323
+"21851","Pocomoke City","MD","Tractor Supply Co.","1701 Market St Unit 109","21851",38.062507000000004,-75.547223
+"21851","Pocomoke City","MD","Harris Ace Hardware","201 Hearne Ave","21851",38.077358000000004,-75.56229499999999
+"21851","Pocomoke City","MD","Shore Distributors","1524 Market St","21851",38.06266111666667,-75.55089185
+"21851","Pocomoke City","MD","Lusby's True Value","122 Market St","21851",38.07567551,-75.56891401
+"21853","Princess Anne","MD","Harris Ace Hardware","11718 Somerset Ave","21853",38.2038,-75.6937
+"21863","Snow Hill","MD","B & N Sales","314 Timmons St","21863",38.134756219848946,-75.36325893057891
+"21875","Delmar","MD","Atlantic Irrigation","not_available","19940",38.462137,-75.557227
+"21875","Delmar","MD","Tractor Supply Co.","112 East North Point Dr","21804",38.414842,-75.562373
+"21901","North East","MD","Lowe's","425 Mauldin Avenue","21901",39.6048733,-75.9484205
+"21901","North East","MD","Builders Surplus Center","557 Mechanics Valley Rd","21901",39.613704999999996,-75.933088
+"21901","North East","MD","minuteKEY","75 North East Plz","21901",39.609962463378906,-75.95079803466797
+"21901","North East","MD","Benjamin Lumber","19 Rolling Mill Ln","21901",39.605374,-75.94127900000001
+"21901","North East","MD","Bay Area Inc.","94 Stoney Battery Rd","21919",39.457308000000005,-75.908589
+"21901","North East","MD","Sherwin-Williams Paint Store","504 N East Plz","21901",39.611373,-75.948338
+"21904","Port Deposit","MD","Alexander Plumbing Services Inc.","53 Crocus Ct","21918",39.641416,-76.119504
+"21911","Rising Sun","MD","Creeger's Home Center","not_available","21911",39.701039,-76.064331
+"21911","Rising Sun","MD","Rock Springs Hardware","239 Joseph Biggs Memorial Hwy","21911",39.693469,-76.058693
+"21911","Rising Sun","MD","Duvall's Lawn and Garden","653 Telegraph Rd","21911",39.70227,-76.03483899999999
+"21911","Rising Sun","MD","Bay Ace Hardware","23 W Main St","21911",39.69826,-76.063817
+"21911","Rising Sun","MD","Rock Springs Surplus","1292 Rock Springs Rd","21911",39.714192,-76.159075
+"21912","Warwick","MD","Mackie's Home Center, Inc.","171 W Main St","21913",39.404703000000005,-75.871842
+"21912","Warwick","MD","Liberty Electric Inc","1680 Glebe Rd","21919",39.459633000000004,-75.87458199999999
+"21921","Elkton","MD","The Home Depot","1000 Suburban Drive","19711",39.6689934,-75.7798442
+"21921","Elkton","MD","Tractor Supply Co.","1111 East Pulaski Hwy","21921",39.60434649864733,-75.79506625526757
+"21921","Elkton","MD","American Home & Hardware","202 W Main St","21921",39.606035,-75.833496
+"21921","Elkton","MD","Northeastern Supply Inc","300 W Main St","21921",39.605882,-75.839478
+"21921","Elkton","MD","minuteKEY","1000 E Pulaski Hwy","21921",39.6033954,-75.7929362
+"21921","Elkton","MD","Atlas Copco Rental","1593B E Old Philadelphia Rd","21921",39.60607372661204,-75.88330689165548

@@ -1,0 +1,442 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"73003","Edmond","OK","Mercy-GoHealth Urgent Care","1380 W Covell Rd Ste 132","73003",35.6810377,-97.502073
+"73003","Edmond","OK","Immediate Care of Oklahoma","805 W Covell Rd","73003",35.68259451355597,-97.4946368233135
+"73003","Edmond","OK","Post 43 ""Nose Bleeding""","900 W 2nd","73003",35.652607811805524,-97.4962924139888
+"73003","Edmond","OK","OHH North","not_available","not_available",35.663826,-97.50269
+"73003","Edmond","OK","First Med Urgent Care","not_available","73003",35.68253687,-97.494813
+"73003","Edmond","OK","First Med Urgent Care - Edmond (Danforth And Kelly)","1221 N. Kelly Avenue","73003",35.6665725708008,-97.4965972900391
+"73003","Edmond","OK","Smith Medical Equipment","601 S Broadway","73034",35.649043,-97.482163
+"73005","Anadarko","OK","Anadarko Indian Clinic","not_available","73005",35.08356391725429,-98.24203423329091
+"73008","Bethany","OK","The Childrens Center","6800 NW 39th Expy","73008",35.51131367722959,-97.63290375930141
+"73008","Bethany","OK","Deaconess Hospital, Bethany","7600 NW 23rd St","73008",35.491991,-97.648749
+"73008","Bethany","OK","Gilbert Medical Center- Your Health & Wellness (Your Health & Wellness)","7530 Northwest 23rd Street","73008",35.4928407,-97.647085
+"73010","Blanchard","OK","HealthCare Stat","2120 N Main St Ste B","73065",35.271934509277344,-97.59901428222656
+"73010","Blanchard","OK","Ou Medical Cafeteria","not_available","73010",35.22651603974037,-97.70283165890199
+"73010","Blanchard","OK","St Anthony's South Campus","Sw 134th","73170",35.267300654083954,-97.78731380907703
+"73010","Blanchard","OK","Direct 2 U Urgent Care","2417 County Road 1263","73010",35.1855354309082,-97.68467712402344
+"73012","Edmond","OK","Edmond Urgent Care","1101 NW 178th St Ste B","73012",35.66124,-97.53423
+"73013","Edmond","OK","Mercy Emergency Room","not_available","73120",35.606038717744,-97.60026164485672
+"73013","Edmond","OK","Oklahoma Heart Hospital","4050 W Memorial Rd","73120",35.60826273308928,-97.59706582861791
+"73013","Edmond","OK","Mercy-GoHealth Urgent Care","12220 N MacArthur Blvd Ste D","73162",35.5940422,-97.6187935
+"73013","Edmond","OK","Mercy Emergency Department - Edmond I-35 South","2301 W I 35 Frontage Rd","73013",35.6308776,-97.4264283
+"73013","Edmond","OK","Oklahoma Spine Hospital","14101 Parkway Commons Dr","73134",35.61438231525446,-97.58318289409229
+"73013","Edmond","OK","Mercy-GoHealth Urgent Care","16325 N May Ave","73013",35.6373616,-97.567898
+"73013","Edmond","OK","Mercy Neonatal Intensive Care Unit - Oklahoma City","4300 W Memorial Rd","73120",35.60660511735446,-97.59988811400751
+"73013","Edmond","OK","Quail Creek Nursing Center","13500 Brandon Pl","73142",35.607347,-97.628343
+"73013","Edmond","OK","First Med Urgent Care- Northwest Oklahoma City (Memorial and MacArthur)","13401 N MacArthur Blvd","73142",35.6053522,-97.6207561
+"73013","Edmond","OK","Oklahoma City Orthopedics, Sports and Pain Medicine","13100 N Western Ave Suite 200","73114",35.60288450000001,-97.53056280000001
+"73013","Edmond","OK","Just Kids Pediatrics","13913 North May Avenue","73134",35.612390000000005,-97.56789
+"73013","Edmond","OK","Station 21","not_available","73131",35.582762,-97.441497
+"73013","Edmond","OK","Mercy Rehab Hospital","not_available","73142",35.610783392966006,-97.61492966913134
+"73013","Edmond","OK","Oklahoma Otolaryngology Associates","13401 N. Western Ave. Suite 404","73114",35.60559844970703,-97.5328598022461
+"73013","Edmond","OK","ICIO ProHealth Pharmacy","5915 W Memorial Rd #110, Oklahoma City, OK 73142","73142",35.610745,-97.622461
+"73018","Chickasha","OK","Xpress Wellness Urgent Care","411 W Grand Ave","73018",35.02924833,-97.93616833
+"73018","Chickasha","OK","Grady Memorial Emergency","not_available","73018",35.048069231584066,-97.96047559302396
+"73026","Norman","OK","Absentee Shawnee Pluscare Walk-In Clinic","15702 E State Highway 9","73026",35.23088073730469,-97.208251953125
+"73030","Davis","OK","Caribbean Orthopedic Institute","not_available","33331",34.50375390800317,-97.12503075599669
+"73034","Edmond","OK","INTEGRIS Health Edmond Hospital","4801 Integris Pkwy","73034",35.64475859684622,-97.41857558762763
+"73034","Edmond","OK","LTAC Of Edmond","1100 E 9th St, Edmond, OK 73034","73034",35.64482498168945,-97.46534729003906
+"73034","Edmond","OK","Oklahoma Otolaryngology Associates","3824 South Boulevard #160","73013",35.6178357,-97.4769031
+"73034","Edmond","OK","INTEGRIS Health Edmond","4801 INTEGRIS Parkway Edmond","73034",35.64423751831055,-97.41859436035156
+"73034","Edmond","OK","Edmond OU er","not_available","73034",35.65384638676014,-97.46108010089372
+"73034","Edmond","OK","Mercy-GoHealth Urgent Care","228 S Bryant Ave #8","73034",35.6518972,-97.45797619999999
+"73044","Guthrie","OK","Mercy Hospital Logan County","200 S Academy Rd","73044",35.876165,-97.4617401
+"73044","Guthrie","OK","Mercy Convenient Care - Guthrie Division","2919 S Division St","73044",35.84845640382758,-97.42616356042106
+"73045","Harrah","OK","Kickapoo Indian Health Center","2243-2251 Oklahoma 102","74851",35.48616871666667,-97.08975223333333
+"73048","Hydro","OK","Weatherford Regional Hospital","3701 E Main St","73096",35.538997700418136,-98.66180702600492
+"73048","Hydro","OK","Lifeguard EMS, Weatherford, OK","not_available","73096",35.526773,-98.69978
+"73049","Jones","OK","Cedar Ridge Hospital / Cedar Ridge RT","6501 NE 50th St","73141",35.522991,-97.41190999999999
+"73052","Lindsay","OK","Healthcare Stat","301 E Cherokee St Ste F","73052",34.837215423583984,-97.59912109375
+"73064","Mustang","OK","Just Kids Pediatrics","160 East Southwest 59th Street","73064",35.4062234,-97.7243123
+"73064","Mustang","OK","Vital Systems","1106 East Highway 152","73064",35.390705394354626,-97.70220604703314
+"73064","Mustang","OK","Your Health & Wellness","160E S.W. 59th Street","73064",35.4062234,-97.7243123
+"73065","Newcastle","OK","Premier Plus Urgent Care","2804 SW 134th St","73170",35.33347702026367,-97.56306457519531
+"73065","Newcastle","OK","St Anthony Healthplex South","1300 S Tulsa Dr","73170",35.33316458788487,-97.59065649988108
+"73065","Newcastle","OK","HealthCare Stat","902 NW 32nd St","73065",35.290058,-97.61016500000001
+"73069","Norman","OK","Norman Regional HealthPlex","3300 Healthplex Pkwy","73072",35.259219,-97.48951699999999
+"73069","Norman","OK","Norman Regional Healthplex ER Registration","not_available","73072",35.302191299065754,-97.46950235902234
+"73069","Norman","OK","Norman Regional","901 N Porter Ave","73071",35.23056238850318,-97.43964868313205
+"73069","Norman","OK","Sooner Dialysis Acute NSH","not_available","73069",35.232940803924606,-97.45920980212549
+"73069","Norman","OK","OSC Physical Therapy","825 E Robinson St","73071",35.2333258,-97.432721
+"73069","Norman","OK","Sooner Dialysis Acute NRH","not_available","73071",35.23044204711914,-97.439697265625
+"73069","Norman","OK","Oklahoma Surgical Associates","500 E Robinson St Ste 2300","73071",35.2324279,-97.4388343
+"73069","Norman","OK","HSPL","Commanche","73069",35.215427,-97.448628
+"73069","Norman","OK","COVE","1961 W Lindsey St","73069",35.20439147949219,-97.46988677978516
+"73069","Norman","OK","INTEGRIS Norman Express Care","700 24th Ave NW","73069",35.226875,-97.478504
+"73069","Norman","OK","Norman Specialty Hospital","1210 W Robinson St","73069",35.232303,-97.460122
+"73069","Norman","OK","Immediate Care Urgent Care","800 24th Ave NW","73069",35.228183,-97.479889
+"73069","Norman","OK","Orthopaedic and Sports Medicine Center (OSC)","825 E Robinson St OK","73071",35.2333258,-97.432721
+"73071","Norman","OK","East Norman Urgent Care","334 12th Ave SE","73071",35.21397862262707,-97.42401949229887
+"73071","Norman","OK","Griffin Memorial Hospital","900 E Main St","73071",35.22938404696913,-97.4290429297757
+"73072","Norman","OK","Moore Care for Women","3400 W Tecumseh Rd Ste 205","73072",35.261179999999996,-97.491467
+"73072","Norman","OK","Oklahoma Otolaryngology Associates - ear, nose and throat doctors","3650 West Rock Creek Road #110","73072-2202",35.2467653,-97.4955814
+"73072","Norman","OK","Immediate Care of Oklahoma","3400 W Tecumseh Rd","73072",35.2611692,-97.4914348
+"73074","Paoli","OK","OU Childrens Hospital","not_available","73074",34.879154205322266,-97.33405303955078
+"73077","Perry","OK","Perry Memorial Hospital","501 E 14th Street","73077",36.288508970027635,-97.29950786450598
+"73098","Wynnewood","OK","Wynnewood Urgent Care","106 N Powell Ave","73098",34.64341994209095,-97.1696255853542
+"73099","Yukon","OK","INTEGRIS Canadian Valley Hospital","1201 Health Center Pkwy","73099",35.48478510272751,-97.76334613790036
+"73099","Yukon","OK","Premier Urgent Care","161 S Mustang Rd","73099",35.449461,-97.724166
+"73099","Yukon","OK","Hygieia's Headquarters","not_available","73099",35.48463912121127,-97.76302244955323
+"73099","Yukon","OK","Mercy Convenient Care - Yukon","520 S Mustang Rd","73099",35.4598606,-97.723243
+"73102","Oklahoma City","OK","St. Anthony Hospital","1000 N Lee Ave","73102",35.47789362876718,-97.52299240626108
+"73102","Oklahoma City","OK","O U Hospital E.R.","not_available","73105",35.473826314267306,-97.51729730411715
+"73102","Oklahoma City","OK","INTEGRIS Children's","3300 NW Expressway","73112",35.46756,-97.51643
+"73102","Oklahoma City","OK","St. Anthony- Frank C. Love Cancer Institute","1011 N Dewey Ave, Oklahoma City, OK 73102","73102",35.478126525878906,-97.52300262451172
+"73102","Oklahoma City","OK","Drug & Alcohol Rehab Oklahoma","20 N Broadway Ave","73102",35.467193603515625,-97.51406860351562
+"73103","Oklahoma City","OK","Bone and Joint Hospital","1111 N Dewey Ave","73103",35.47946287719994,-97.52314162954157
+"73103","Oklahoma City","OK","Children East Wing","not_available","73103",35.491473,-97.525053
+"73103","Oklahoma City","OK","St Anthony's - L&D","not_available","73102",35.4866558774408,-97.51370175251857
+"73103","Oklahoma City","OK","Kindred Hospital Oklahoma City","1407 N Robinson Ave","73103",35.482802,-97.51643
+"73104","Oklahoma City","OK","VA Hospital","953-999 NE 13th St","73104",35.483008937437155,-97.49566203617427
+"73104","Oklahoma City","OK","The Children's Hospital","1200 Childrens Ave","73104",35.48129,-97.49767
+"73104","Oklahoma City","OK","Children's Emergency Room","940 NE 13th St","73104",35.48215866088867,-97.4948501586914
+"73104","Oklahoma City","OK","Veterans Affairs","not_available","73104",35.48271003670327,-97.49598582060871
+"73104","Oklahoma City","OK","Ok Va Physical Therapy 2Nd Floor","921 NE 13th St","73104",35.4827995300293,-97.4955825805664
+"73104","Oklahoma City","OK","Sodexo Education & Training","Mark Everett Dr, Oklahoma City, OK 73104","73104",35.48145284671871,-97.49690031868718
+"73104","Oklahoma City","OK","Ronald McDonald House OU Medical Center","Mark Everett Dr","73104",35.48144557299941,-97.49737078774099
+"73104","Oklahoma City","OK","Presbyterian Health Foundation","655 Research Pkwy","73104",35.47430332168397,-97.50406342538317
+"73106","Oklahoma City","OK","Classenview Vet Clinic","not_available","73106",35.492447,-97.531696
+"73107","Oklahoma City","OK","Rose Gold Nutrition and Energy","2401 NW 23rd Street STE 61A","73107",35.4944769,-97.5550222
+"73107","Oklahoma City","OK","Concentra Urgent Care - Quadrum","200 S Quadrum Dr","73108",35.46202087402344,-97.58008575439453
+"73107","Oklahoma City","OK","B & B Medical Services Inc.","2236 NW 10th St Ste 117","73107",35.47776717436681,-97.5519954421647
+"73107","Oklahoma City","OK","mcbride Orthopedic Hospital Therapy","NW 12th St, Oklahoma City, OK","73107",35.482391357421875,-97.58891296386719
+"73108","Oklahoma City","OK","Post 10","Sw 29 And Meridan","not_available",35.435801709303966,-97.60047008826369
+"73109","Oklahoma City","OK","Jim Thorpe Rehabilitation Hospital","not_available","73109",35.422140999999996,-97.533394
+"73109","Oklahoma City","OK","INTEGRIS Southwest Neuroscience Institute","4401 S Western Ave","73109",35.42198414,-97.53357807
+"73109","Oklahoma City","OK","INTEGRIS Southwest Medical Center","4219 S Western Ave","73109",35.42203124898917,-97.53323102144334
+"73109","Oklahoma City","OK","Corps Health & Wellness","not_available","73113",35.41795216717698,-97.53262996673583
+"73109","Oklahoma City","OK","Orthopedic Hospital","1044 SW 44th St","73109",35.42036595430537,-97.53444748658967
+"73109","Oklahoma City","OK","Integris Room 622","1045 sw 44 ""622""","not_available",35.421294,-97.533359
+"73109","Oklahoma City","OK","The Surgical Hospital of Oklahoma","100 SE 59th St","73129",35.405663,-97.509461
+"73109","Oklahoma City","OK","INTEGRIS Jim Thorpe Rehabilitation Outpatient Services","4100 S. Douglass","73109",35.42382049560547,-97.53414154052734
+"73110","Oklahoma City","OK","Midwest City Regional Hospital","2825 Parklawn Dr","73110",35.46690788635036,-97.39350170054215
+"73110","Oklahoma City","OK","Renaissance Women's Center","238 N Midwest Blvd","73110",35.467345,-97.38767
+"73110","Oklahoma City","OK","Midwest City Specialty Hospital","not_available","73110",35.466758728027344,-97.38482666015625
+"73110","Oklahoma City","OK","Midwest DaVita","7221 E Reno Ave","73110",35.464447,-97.401822
+"73110","Oklahoma City","OK","MRI Center","8121 National Ave Ste 150","73110",35.467071533203125,-97.38624572753906
+"73110","Oklahoma City","OK","Rupert R. Thomas MD","351 N Air Depot Blvd Ste Dd","73110",35.46846457142939,-97.40759611129761
+"73111","Oklahoma City","OK","St. Luke's Same Day Interventional Services","NE 27th, Oklahoma City, OK 73111","73111",35.49770736694336,-97.48334503173828
+"73112","Oklahoma City","OK","Integris Physician's Building B","3433 NW 56th St, Oklahoma City, OK 73112","73112",35.52865499591693,-97.57732525174457
+"73112","Oklahoma City","OK","parlor/dinning room/music room/jewlery studi","not_available","73112",35.51850900402522,-97.55030580122826
+"73112","Oklahoma City","OK","INTEGRIS Comprehensive Breast Center","3525 Northwest 56th St","73112",35.52884667,-97.58006831
+"73112","Oklahoma City","OK","First Med- Urgent Care","not_available","73122",35.511016,-97.602391
+"73112","Oklahoma City","OK","Integris Baptist Medical Center Physicians Building A","3435 NW 56th St Bldg A","73112",35.528099060058594,-97.57760620117188
+"73112","Oklahoma City","OK","First Med Urgent Care- Northwest Oklahoma City (NW 39th And Meridian)","4510 Northwest 39th Street","73122",35.5108413696289,-97.6023178100586
+"73112","Oklahoma City","OK","INTEGRIS Baptist Medical Center Portland Avenue","5501 N Portland Ave","73112",35.526817321777344,-97.58484649658203
+"73112","Oklahoma City","OK","Cosmetic Surgery Affiliates","2100 NW 63rd Street","73116",35.53651171318379,-97.54807463090515
+"73114","Oklahoma City","OK","Optimal Health Associates","9800 Broadway Ext Ste 200","73114",35.57011413574219,-97.5123062133789
+"73114","Oklahoma City","OK","Surgery Center of Oklahoma","not_available","73114",35.568404,-97.511105
+"73114","Oklahoma City","OK","Dr. Zane Uhland","13100 N Western Ave Ste 200","73114",35.60288450000001,-97.53056280000001
+"73115","Oklahoma City","OK","Integris Community Hospitals - Del City","4801 SE 15th St","73115",35.4503173828125,-97.428466796875
+"73116","Oklahoma City","OK","Alcohol & Drug Rehab Oklahoma","9211 Lake Hefner Pkwy #102","73120",35.56093978881836,-97.57587432861328
+"73116","Oklahoma City","OK","Mercy-GoHealth Urgent Care","1121 NW 63rd St Ste 5001","73116",35.537068556797486,-97.53163885940683
+"73116","Oklahoma City","OK","Oklahoma Otolaryngology Associates","3705 NW 63rd Street, Suite 204","73116",35.5372954,-97.5842325
+"73117","Oklahoma City","OK","Ou medical center","not_available","73117",35.46280634553989,-97.48226452015435
+"73118","Oklahoma City","OK","OK Health Solutions","4001 N Classen Blvd Ste 100","73118",35.511783599853516,-97.53488159179688
+"73119","Oklahoma City","OK","The Heart Clinic","2225 SW 59th St","73119",35.406507,-97.55209
+"73119","Oklahoma City","OK","6th Floor SW Med Center","not_available","73119",35.424556732177734,-97.5580825805664
+"73119","Oklahoma City","OK","Kindred Hospital Oklahoma City - South","2129 SW 59th St","73119",35.406987,-97.549699
+"73120","Oklahoma City","OK","Pro Hearing, LLC","9409 N May Ave","73120",35.56598,-97.56751
+"73120","Oklahoma City","OK","Mercy Labor and Delivery","not_available","73162",35.60714619151677,-97.60063949840651
+"73120","Oklahoma City","OK","Mercy Heli Field","Meridian & McCauley Blvd","73120",35.604609,-97.600801
+"73120","Oklahoma City","OK","Northwest Surgical Hospital","9204 N May Ave","73120",35.564060999999995,-97.566559
+"73122","Oklahoma City","OK","Rapid Remedy Urgent Care Center","5818 NW 50th St Ste 700","73122",35.52229,-97.616529
+"73129","Oklahoma City","OK","Crossroads Hospice & Palliative Care","1301 SE 59th Street","73129",35.406908,-97.48710600000001
+"73129","Oklahoma City","OK","Concentra Medical Center","7100 S I 35 Service Rd","73149",35.395193,-97.494162
+"73132","Oklahoma City","OK","Integris Community Hospitals - Council Crossing","9417 N Council Rd","73162",35.565241,-97.656837
+"73134","Oklahoma City","OK","Foundation Surgery Affiliates","14000 N Portland Ave Ste 200","73134",35.613473912361975,-97.58339674914349
+"73134","Oklahoma City","OK","Orthopedic Spine Associates","14100 Parkway Commons Drive #101","73134",35.6149667,-97.5816919
+"73134","Oklahoma City","OK","Oklahoma Otolaryngology Associates","13904 Quailbrook Drive","73134",35.6113247,-97.5996933
+"73135","Oklahoma City","OK","Oklahoma Heart Hospital South Campus","5200 E I 240 Service Rd","73135",35.389473155100625,-97.4258769798558
+"73135","Oklahoma City","OK","Immediate Care of Oklahoma","5700 SE 74th St","73135",35.391569,-97.421154
+"73135","Oklahoma City","OK","Southwest Integris Radiology","not_available","73145",35.417773,-97.420161
+"73135","Oklahoma City","OK","Mercy Hospital Oklahoma City - South","5200 E. Interstate 240 Service Road","73135",35.3894956,-97.4260458
+"73139","Oklahoma City","OK","Animal Emergency Center","931 W I 240 Service Rd","73139",35.39184612829076,-97.53152271737301
+"73139","Oklahoma City","OK","First Med Urgent Care - South Oklahoma City (I-240 And S Walker)","7807 South Walker Avenue","73139",35.38845218718052,-97.5212949514389
+"73139","Oklahoma City","OK","OCOM","8100 S Walker Ave","73139",35.385276,-97.519512
+"73139","Oklahoma City","OK","Community Hospital Outpatient","10001 S Western Ave","73139",35.367876147456826,-97.5306183381808
+"73150","Oklahoma City","OK","St. Anthony","S. Douglas Blvd.","73130",35.42980244056016,-97.36928182665913
+"73150","Oklahoma City","OK","Saint Anthony's Room 1","not_available","73150",35.42983187067102,-97.36909968528393
+"73159","Oklahoma City","OK","Community Hospital","3100 SW 89th St","73159",35.37584594183989,-97.57056507885727
+"73159","Oklahoma City","OK","Just Kids Pediatrics","2921 Southwest 89th Street","73159",35.37751388549805,-97.56649017333984
+"73159","Oklahoma City","OK","Dr. sean obrien","89th St","73159",35.376514559294954,-97.57068678996963
+"73159","Oklahoma City","OK","Urgent Family Medical","1140 S Western","73139",35.36309091952836,-97.5357062860851
+"73159","Oklahoma City","OK","Oklahoma Otolaryngolgy Associates","3048 SW 89th Street, Suite B","73159",35.3766747,-97.5701338
+"73160","Oklahoma City","OK","Physicians Surgical Center","3121 S Telephone Rd","73160",35.30787658691406,-97.49524688720703
+"73160","Oklahoma City","OK","Your Health & Wellness","400 N Eastern","73160",35.3417859,-97.4763006
+"73160","Oklahoma City","OK","Moore Medical Center Emergency Services","700 S Telephone Rd","73160",35.332556,-97.493287
+"73160","Oklahoma City","OK","Mercy-GoHealth Urgent Care","705 SW 19th St Ste 120","73160",35.3202709,-97.5003088
+"73160","Oklahoma City","OK","Moore Express Urgent Care","not_available","73160",35.318995876354435,-97.48616498169584
+"73160","Oklahoma City","OK","Just Kids Pediatrics","400 North Eastern Avenue","73160",35.341763,-97.476201
+"73160","Oklahoma City","OK","Quick Urgent Care","2212 N Broadway St,","73160",35.358249049506796,-97.49407680370484
+"73160","Oklahoma City","OK","Integris Community Hospitals - Moore","1401 SW 34th St","73160",35.3054308,-97.490798
+"73162","Oklahoma City","OK","Am Pm Urgent Care Clinic","10912 N Council Rd","73162",35.58091354370117,-97.65567779541016
+"73170","Oklahoma City","OK","First Med Urgent Care - Southwest Oklahoma City (S Western And SW 104th)","1140 Southwest 104th Street","73139",35.3628234863281,-97.5360107421875
+"73170","Oklahoma City","OK","Family Medical & Urgent Care","1140 SW 104th St","73139",35.362848,-97.535774
+"73401","Ardmore","OK","Emergency Room","not_available","73401",34.189551,-97.140308
+"73401","Ardmore","OK","Mercy Memorial Health Center","1011 14th Ave NW","73401",34.189012,-97.140902
+"73401","Ardmore","OK","Mercy Convenient Care - 10th Avenue","915 10th Ave NW","73401",34.18546,-97.142381
+"73401","Ardmore","OK","Urgent Care of Ardmore","908 N Rockford Rd","73401",34.185065,-97.160202
+"73438","Healdton","OK","Mercy Hospital Healdton","3462 Hospital Rd","73438",34.22285315918528,-97.49143742895046
+"73439","Kingston","OK","Texoma Medical Center Cardiac Floor","not_available","75076",33.84787,-96.67775
+"73446","Madill","OK","AllianceHealth Madill - Emergency Room","901 S 5th Ave","73446",34.08116149902344,-96.7776107788086
+"73446","Madill","OK","Integris Marshall County Medical Center","1 Hospital Drive","73446",34.08116149902344,-96.7776107788086
+"73448","Marietta","OK","Love County Health Center","300 Wanda St","73448",33.942762834391395,-97.1303470969575
+"73448","Marietta","OK","Marietta ER","not_available","73448",33.94289134256312,-97.13135537228588
+"73460","Tishomingo","OK","Mercy Hospital Tishomingo","1000 S Byrd St","73460",34.22416064036738,-96.67611580382527
+"73501","Lawton","OK","USphs Lawton Indian Hospital","1515 NE Lawrie Tatum Rd","73507",34.6277040976494,-98.38411837135199
+"73501","Lawton","OK","Comanche County Memorial Hospital","3401 W Gore Blvd","73505",34.60996717969869,-98.43451684937287
+"73501","Lawton","OK","Reynolds Army Hospital","4301 Wilson St","73503",34.65280646715143,-98.4141703860075
+"73501","Lawton","OK","great plains ambulatory Sugical Center","not_available","73505",34.593875,-98.461073
+"73501","Lawton","OK","MedExpress Urgent Care","3428 NW Cache Road","73505",34.62296696740859,-98.43931569719643
+"73501","Lawton","OK","CCMH","3801 W Gore Blvd","73505",34.60974055907455,-98.43530412447151
+"73501","Lawton","OK","WellFast Urgent Care","1902 E Gore Blvd","73501",34.609248,-98.365257
+"73501","Lawton","OK","East Lawton Neighborhood Family Clinic","4202 SW Lee Blvd Ste 204A Bldg B","73505",34.5940927,-98.44552209999999
+"73507","Lawton","OK","73502","Gore","not_available",34.72945,-98.424765
+"73507","Lawton","OK","Ccmh Ems Cache Station","not_available","73527",34.62925629381563,-98.61488367507758
+"73521","Altus","OK","JCMH Women's Health Associates","101 S Park Ln","73521",34.6377958,-99.3164767
+"73521","Altus","OK","Women's Imaging JCMH","not_available","73521",34.66959353087741,-99.31326082747358
+"73533","Duncan","OK","MedFirst Urgent Care","1315 Chisholm Trail Pkwy Ste A","73533",34.51866750108961,-97.98519857116395
+"73533","Duncan","OK","Duncan Regional out patient","not_available","73533",34.52017261556199,-97.97616920110873
+"73544","Gould","OK","Harmon Memorial Hospital","400 E Chestnut St","73550",34.69210433959961,-99.91432189941406
+"73601","Clinton","OK","Orthopaedic and Sports Medicine Center (OSC)","100 N 30th St","73075",35.51459521766577,-98.99760435753282
+"73601","Clinton","OK","Integris Clinton Regional Hospital","75-177 N 30th St","73601",35.51478958129883,-98.99712371826172
+"73601","Clinton","OK","AllianceHealth Clinton - Emergency Room","100 N 30th St","73601",35.51478958129883,-98.99712371826172
+"73626","Canute","OK","Saint Nebraska Hospital","Episode 23","not_available",35.49421989176048,-99.32945251464844
+"73628","Cheyenne","OK","Roger Mills Memorial Hospital","501 S. L.L. Males Ave","73628",35.60934646729902,-99.67167994995559
+"73632","Cordell","OK","Cordell Memorial Hospital","1220 N Glenn L English St","73632",35.3022583,-98.9886
+"73632","Cordell","OK","Cordell Memorial Hospital","207-209 E 12th St","73632",35.30311167240143,-98.98811459541321
+"73644","Elk City","OK","Elkview Hospital","not_available","73644",35.381493,-99.404876
+"73644","Elk City","OK","Great Plains Regional Medical Center","1801 W 3rd St","73644",35.41364288330078,-99.42608642578125
+"73651","Hobart","OK","Elkview General Hospital - Sleep Medicine","429 W Elm St Sleep Lab","73651",35.0377819,-99.09862249999999
+"73651","Hobart","OK","Elkview Emergency Department","429 W Elm St Emergency Entrance","73651",35.0377819,-99.0986224
+"73654","Leedey","OK","Pocono Medical Center ICCU","206 East Brown Street","not_available",35.85565185546875,-99.43467712402344
+"73662","Sayre","OK","Sayre Memorial Hospital","not_available","73662",35.31286073444161,-99.62572663555333
+"73701","Enid","OK","INTEGRIS Bass Baptist Health Center","600 S Monroe St","73701",36.390120525997645,-97.88788480753418
+"73701","Enid","OK","St. Mary's Regional Medical Center","305 South 5th St","73701",36.39377,-97.87091
+"73701","Enid","OK","INTEGRIS Urgent Care North","2821 N Van Buren St","73703",36.42608346,-97.88957245
+"73701","Enid","OK","Physical Practice Management","not_available","73703",36.388813,-97.889264
+"73703","Enid","OK","INTEGRIS Urgent Care Plus","1805 W Owen K Garriott Rd","73703",36.3905092,-97.9006091
+"73717","Alva","OK","Share Medical Center","800 Share Dr","73717",36.787269592285156,-98.671142578125
+"73737","Fairview","OK","Fairview Regional medical center","not_available","73737",36.27593619374879,-98.47422830497733
+"73744","Hitchcock","OK","Mercy Hospital Watonga","500 N Clarence Nash Blvd","73772",35.84955731380751,-98.4185875373663
+"73750","Kingfisher","OK","Kingfisher Regional Hospital","1000 KRH Drive","73750",35.810253638385646,-97.94442365898115
+"73750","Kingfisher","OK","Mercy Hospital Kingfisher","1000 Hospital Cir","73750",35.810177,-97.944842
+"73801","Woodward","OK","Urgent Care","not_available","73801",36.43577139343694,-99.40186440033118
+"73801","Woodward","OK","AllianceHealth Woodward - Emergency Room","900 17th St","73801",36.4376335144043,-99.40006256103516
+"73932","Beaver","OK","Beaver County Hospital","212 E 8th St","73932",36.81074523925781,-100.51637268066406
+"73942","Guymon","OK","Urgent Care Of Guymon","400 NE 12th St","73942",36.6895954,-101.4776838
+"74006","Bartlesville","OK","Ascension St. John Jane Phillips","3500 E Frank Phillips Blvd","74006",36.7520537,-95.93990819999999
+"74006","Bartlesville","OK","St. John Clinic Urgent Care Bartlesville","3550 E Frank Phillips Blvd","74006",36.751513,-95.93830799999999
+"74006","Bartlesville","OK","JPMC","not_available","74006",36.752964,-95.938408
+"74006","Bartlesville","OK","Bartlesville Emergency Room","3401-3599 State St","74006",36.75309701,-95.93881043
+"74006","Bartlesville","OK","Lavers Aesthetics, LLC","5120 E Frank Phillips Blvd.","74006",36.7444453,-95.9177342
+"74008","Bixby","OK","Access Medical Centers - Urgent Care","11717 S Memorial Dr","74008",35.99262570319499,-95.88616669178009
+"74008","Bixby","OK","Kindness","not_available","74133",36.00456,-95.885191
+"74008","Bixby","OK","Tulsa Spine And Surgical Hospital","not_available","74008",35.998541,-95.869243
+"74012","Broken Arrow","OK","Tulsa Bone & Joint Associates","4802 S 109th East Ave","74146",36.0939820076648,-95.85659623755338
+"74012","Broken Arrow","OK","St Francis South ER","10501 E 91st St","74133",36.033640000000005,-95.857424
+"74012","Broken Arrow","OK","Tulsa Bone & Joint Urgent Care","4912 S 109th E Ave","74146",36.09314305660242,-95.85741648299893
+"74012","Broken Arrow","OK","Faith Community Hospice LLC","4721 Garth Road","77521",36.0767480993154,-95.83580017089842
+"74012","Broken Arrow","OK","Warren Clinic Urgent Care-Kenosha","1801 East Kenosha Street","74012",36.0603141784668,-95.7665786743164
+"74012","Broken Arrow","OK","St. John Broken Arrow","1000 W Boise Cir","74012",36.07818667162443,-95.8003366515378
+"74012","Broken Arrow","OK","Oklahoma Surgical Hospital","2448 E 81st St","74137",36.028010249977854,-95.80615063506167
+"74012","Broken Arrow","OK","BioLife Plasma Services","2301 E. Hillside Dr.","74012",36.06314952615544,-95.76376053133463
+"74012","Broken Arrow","OK","Saint Francis Urgent Care","not_available","74012",36.022053156260604,-95.79824292381963
+"74012","Broken Arrow","OK","Warren Clinic Urgent Care-Elm","2950 S Elm Pl Ste 120","74012",36.021639,-95.79881999999999
+"74012","Broken Arrow","OK","Breathe America, 4716 West Urbana, Suite 211, Broken Arrow, OK 74012","4716 West Urbana, Suite 211, Broken Arrow","74012",36.03485688569744,-95.8505582378487
+"74012","Broken Arrow","OK","Gnu Wellness","1212 E Kenosha St","74012",36.0609754,-95.78910979999999
+"74012","Broken Arrow","OK","Broken Arrow Urgent Care","1200 E Lansing St","74012",36.063232421875,-95.77692413330078
+"74012","Broken Arrow","OK","St. John Clinic Urgent Care Broken Arrow","3315 South Elm Pl","74012",36.01844787597656,-95.79679107666016
+"74012","Broken Arrow","OK","Innergistic","2401 South Elm Place","74012",36.027997,-95.797027
+"74012","Broken Arrow","OK","St. John Rehabilitation Hospital, an affiliate of Encompass Health","1200 West Albany Dr.","74012",36.07833494138854,-95.80070614814758
+"74012","Broken Arrow","OK","Union Pines Surgery Center","4800 S 109th East Ave","74146",36.09357833862305,-95.85723114013672
+"74014","Broken Arrow","OK","Coweta Indian Hospital","31870 E State Highway 51","74429",35.95166015625,-95.61521911621094
+"74014","Broken Arrow","OK","Lab","not_available","74036",36.16004082210396,-95.55439877560846
+"74015","Catoosa","OK","st johns","not_available","74116",36.16260528564453,-95.77903747558594
+"74015","Catoosa","OK","access medical urgent care","not_available","74015",36.18174698376027,-95.74685288358711
+"74017","Claremore","OK","Hillcrest Hospital Claremore","1202 N Muskogee Pl","74017",36.322635650634766,-95.6046371459961
+"74017","Claremore","OK","Access Medical Centers - Urgent Care","401 W. Blue Starr Dr.","74017",36.32147031584075,-95.60837030410767
+"74017","Claremore","OK","Claremore Regional Hospital","not_available","74017",36.32238867720378,-95.60448278708121
+"74017","Claremore","OK","Regional Hospital","1427-1499 N Muskogee Pl","74017",36.32326312,-95.60395021
+"74017","Claremore","OK","Claremore Indian Hospital","101 S Moore Ave","74017",36.31644578592539,-95.62925108935002
+"74017","Claremore","OK","Bailey Medical Center / Utica Park Clinic -Owasso","not_available","74055",36.32877750528397,-95.74210564460394
+"74017","Claremore","OK","Envision Imaging of Claremore","1110 W Will Rogers Blvd","74017",36.3157813,-95.6226952
+"74019","Claremore","OK","Ascension St. John Urgent Care Claremore (Ascension Medical Group St. John Claremore)","1910 S Falcon Ave","74019",36.2895659,-95.6294484
+"74023","Cushing","OK","Hillcrest Hospital Cushing","1027 E Cherry St","74023",35.97842345270238,-96.75709238762104
+"74023","Cushing","OK","Sarah Laird, APRN-CNP","600 S Linwood Ave","74023",35.97535746690028,-96.74880311823068
+"74023","Cushing","OK","Pipeline Urgent Care","1002 E Cherry St.","74023",35.97904370061776,-96.75858467817305
+"74023","Cushing","OK","Mollie Tanner, APRN","1002 E Cherry Street","74023",35.979152227899476,-96.75861888050572
+"74033","Glenpool","OK","Saint Francis Glenpool","140 W 151st St S","74033",35.94337844848633,-96.00970458984375
+"74036","Inola","OK","Hillcrest Hospital","not_available","74337",36.24195980606369,-95.40241460715352
+"74037","Jenks","OK","Warren Clinic Urgent Care-Tulsa Hills","7858 S Olympia Ave","74132",36.048122,-96.00553
+"74037","Jenks","OK","Utica Park Clinic Of Jenks","not_available","74037",36.02108603565303,-95.9527914624931
+"74037","Jenks","OK","oklahoma surgical hospital","cityplex towers","74137",36.04324405,-95.954042
+"74037","Jenks","OK","Woodland West Pet Care Centers","9380 s. Union","74132",36.02802499717241,-96.01249925147253
+"74037","Jenks","OK","Pinnacle Specialty hospital","not_available","74137",36.042869,-95.953997
+"74037","Jenks","OK","Oklahoma Surgical Hospital","not_available","74136",36.04785229429304,-95.95299274775896
+"74037","Jenks","OK","Aware Alert Active Reflexology","2448 E 81st Street Ste 2044","74137",36.0445807,-95.95355529999999
+"74037","Jenks","OK","Access Medical Centers - Urgent Care","9716 Riverside Pkwy","74137",36.022068271005864,-95.9509613748923
+"74037","Jenks","OK","Ascension St. John Urgent Care Jenks","220 S. Elm","74037",36.02059555053711,-95.97687530517578
+"74048","Nowata","OK","Jane Phillips Nowata Health Center","237 S Locust St","74048",36.696617126464844,-95.63028717041016
+"74048","Nowata","OK","Jane Phillips Nowata Hospital","not_available","74048",36.69683318504186,-95.63029283259148
+"74055","Owasso","OK","St. John Owasso","12451 E. 100th St. N.","74055",36.298932730198715,-95.83661132573309
+"74055","Owasso","OK","Ascension St. John Owasso","12451 E 100th St N","74055",36.2991175,-95.8354662
+"74055","Owasso","OK","Access Medical Centers - Urgent Care","13616 E 103rd St N","74055",36.302844433127525,-95.82224340686052
+"74055","Owasso","OK","Kardiyoloji Anjio","Memorial","74115",36.2350905,-95.8871226
+"74055","Owasso","OK","MedExpress Urgent Care","11760 East 86th Street N","74055",36.2781486,-95.8427658
+"74055","Owasso","OK","Emergency - Ascension St. John Owasso (Ascension St. John Owasso Emergency Room)","12451 E 100th St. N.","74055",36.299041748046875,-95.83526611328125
+"74058","Pawnee","OK","Pawnee Indian Health Service","1201 Heritage Cir","74058",36.33488464355469,-96.78561401367188
+"74063","Sand Springs","OK","St. John Clinic Urgent Care Sand Springs","402 W. Morrow Road","74063",36.13321304321289,-96.11714172363281
+"74063","Sand Springs","OK","Warren Clinic Urgent Care-Sand Springs","102 S Main St","74063",36.135120880890405,-96.11080144532025
+"74063","Sand Springs","OK","Sand Springs Nursing & Rehab","not_available","74063",36.1491120476066,-96.10044024781335
+"74063","Sand Springs","OK","El Harage","6410.1 S 120th W Ave","74066",36.07110857963562,-96.12767279148102
+"74066","Sapulpa","OK","St John Er","not_available","74066",35.993008,-96.09997
+"74066","Sapulpa","OK","Ascension St. John Sapulpa","1004 E Bryan Ave","74066",35.9930022,-96.1001117
+"74066","Sapulpa","OK","MRI @ HRMC","1350 South Hickory St","not_available",35.9836540222168,-96.1189193725586
+"74070","Skiatook","OK","Access Medical Centers - Urgent Care","2254 W Rogers Blvd","74070",36.36801456209219,-96.02810382843018
+"74074","Stillwater","OK","Stillwater Medical Center","1323 W 6th Ave","74074",36.11503459527404,-97.07496995337296
+"74074","Stillwater","OK","Stillwater Medical Physicians Clinic","1815 W 6th Ave","74074",36.115516839270214,-97.08138585090637
+"74074","Stillwater","OK","Cara Pence, M.D.","1301 W 6th Ave","74074",36.11563817827861,-97.07436919212341
+"74074","Stillwater","OK","Bretton Jameson, M.D.","511 Windsor Dr","74074",36.117570910062696,-97.13014304637909
+"74074","Stillwater","OK","Cimarron Medical Services","1200 S Adams St","74074",36.1084755,-97.0726359
+"74074","Stillwater","OK","Access Urgent Care","275 S Perkins Rd","74074",36.119382,-97.051009
+"74074","Stillwater","OK","Karen Webster, PA-C","518 E Lakeview Rd","74075",36.145509,-97.052479
+"74074","Stillwater","OK","Urgent Care","not_available","74074",36.115709,-97.082106
+"74074","Stillwater","OK","SMC Surgery Center West","5200 W 6th Ave","74074",36.11687755884062,-97.12996065616608
+"74085","Yale","OK","Yarmouk Polyclinic","not_available","74085",36.1161,-96.699
+"74103","Tulsa","OK","Drug & Alcohol Rehab Tulsa","406 S Boulder Ave #415","74103",36.148427504141026,-95.9872055053711
+"74103","Tulsa","OK","Health and Stability Spinal Care","6130 South Maplewood Avenue Suite B","74136",36.1539816,-95.99277500000001
+"74104","Tulsa","OK","St John Medical Center","1923 S Utica Ave","74104",36.13512123135315,-95.96607108136523
+"74104","Tulsa","OK","Hillcrest Medical Center","1120 S Utica Ave","74104",36.14639278371157,-95.96780711524165
+"74104","Tulsa","OK","Hillcrest Same Day Surgery","not_available","74120",36.145944354935025,-95.96878282267414
+"74104","Tulsa","OK","Saint John Labor and Delivery","not_available","74104",36.13462254284858,-95.96697596944689
+"74104","Tulsa","OK","Maya Medical Management","2811 E 15th St Ste 104","74104",36.14103317260742,-95.94871520996094
+"74104","Tulsa","OK","St. John Clinic Urgent Care Utica","1717-A S. Utica","74104",36.137362425711245,-95.96679782687991
+"74104","Tulsa","OK","St. John Sleep Center","1923 S Utica Ave, Tulsa, OK 74104","74104",36.13401770941458,-95.96658879362029
+"74104","Tulsa","OK","Hillcrest Heart Hospital","1120 S Utica Ave","74120",36.146770000000004,-95.968378
+"74105","Tulsa","OK","John Gladstone Abraham, MD","1705 E 19th St Ste 302","74104",36.108998925598584,-95.97987771034241
+"74105","Tulsa","OK","Warby Parker","3516 S Peoria Ave","74105",36.1128796,-95.9758946
+"74114","Tulsa","OK","MedExpress Urgent Care","2140 South Yale Avenue","74114",36.13182288644969,-95.92301847787894
+"74114","Tulsa","OK","Ascension St. John Pharmacy","1919 S. Wheeling Ave.","74104",36.1344178,-95.96436519999999
+"74114","Tulsa","OK","10 West St Johns","not_available","74114",36.13449145005183,-95.96609837445739
+"74115","Tulsa","OK","Concentra Urgent Care","1541 N Sheridan Rd","74115",36.178567,-95.903875
+"74115","Tulsa","OK","Private Personal Home Care Peace at Home Care Giver","not_available","74115",36.16668791978422,-95.8917510509491
+"74116","Tulsa","OK","Work Brook","not_available","74128",36.155566,-95.850307
+"74120","Tulsa","OK","Hillcrest Medical Center - ER","1601-1699 E 12th St","74120",36.14664186020716,-95.96884477288266
+"74120","Tulsa","OK","Parkside Psychiatric","1620 E 12th St","74120",36.145302,-95.968784
+"74127","Tulsa","OK","Oklahoma State University Medical Center","744 W 9th St","74127",36.14642556197947,-95.99962119723342
+"74127","Tulsa","OK","OSU MEDICAL CENTER 5west","not_available","74127",36.14673451058674,-95.99941459204449
+"74127","Tulsa","OK","OSU CHILDRENS BHC","not_available","74119",36.14691713342267,-95.99944041765468
+"74129","Tulsa","OK","Med Center","2801-2999 S 116th East Ave","74129",36.12146937494007,-95.85076433447546
+"74132","Tulsa","OK","MedNow Urgent Care@tulsa Hills","not_available","74132",36.059766822746724,-96.00328934286009
+"74132","Tulsa","OK","Tulsa Spine And Specialty Hospital","6901 S Olympia Ave W","74132",36.063581309036934,-96.00330898325387
+"74133","Tulsa","OK","St. John Clinic Urgent Care S. Memorial","8131 South Memorial Dr","74133",36.04468375337314,-95.8845629836358
+"74133","Tulsa","OK","Warren Clinic Urgent Care-South Memorial","10506 S Memorial Dr","74133",36.01168760564471,-95.88709180243313
+"74133","Tulsa","OK","Hillcrest Hospital South","8801 S 101st East Ave","74133",36.03532825033702,-95.86310050581928
+"74133","Tulsa","OK","Cancer Treatment Centers Of America - SRMC","10109 E 79th St","74133",36.05157324620519,-95.86323825323387
+"74133","Tulsa","OK","PAM Rehabilitation Hospital of Tulsa","10020 E 91st St","74133",36.03074,-95.86496
+"74133","Tulsa","OK","Hillcrest South ER","8801 S 101st E Ave, Tulsa, OK 74133","74133",36.034947212784616,-95.86305462316217
+"74133","Tulsa","OK","Envision Imaging of Tulsa","7714 E 91st St","74133",36.031505948173354,-95.88996645858175
+"74133","Tulsa","OK","Senior Star at Woodland Terrace","9524 East 71st Street","74133",36.0604654,-95.87007559
+"74133","Tulsa","OK","Tulsa Pediatric Urgent Care","7723 E 91st St","74133",36.03231079,-95.888858
+"74133","Tulsa","OK","Neighborhood Walk-In Medical Clinic - Urgent Care","8316 E 61st St Ste 101A","74133",36.075391,-95.8837748
+"74133","Tulsa","OK","CTCA","81st Mingo","74066",36.05090716279607,-95.86366223798643
+"74133","Tulsa","OK","Family Health and Wellness Clinic","91st and 107th","74133",36.033005118370056,-95.86420476436615
+"74133","Tulsa","OK","Shadow Mountain Behavioral Health Services","6262 S Sheridan Rd","74133",36.072781,-95.9056294
+"74133","Tulsa","OK","Ye Olde Apothecary Shoppe","5874 S Mingo Rd","74146",36.0778297,-95.8688891
+"74135","Tulsa","OK","Moxy Med","not_available","74105",36.100816098057535,-95.92536449432373
+"74135","Tulsa","OK","Work-The Mountain Of Shadows","61st and Sheridan","74135",36.090706,-95.9326814
+"74135","Tulsa","OK","Here at Home Senior Care","6130 E 32nd St Ste 101","74135",36.11723709106445,-95.90699768066406
+"74135","Tulsa","OK","Hope House","not_available","74135",36.11288070678711,-95.9315185546875
+"74135","Tulsa","OK","St. Johns Medical Center","19th & utica","74106",36.11981783679279,-95.93473012613669
+"74136","Tulsa","OK","Saint Francis Hospital","6161 S. Yale Ave.","74136",36.072793861729735,-95.91898083686829
+"74136","Tulsa","OK","The Children's Hospital at Saint Francis","6161 S Yale Ave","74136",36.07361926788974,-95.91837006723625
+"74136","Tulsa","OK","St. Francis Emergency Room","61st Street","not_available",36.072102353035866,-95.92065634559312
+"74136","Tulsa","OK","Warren Clinic Urgent Care-Springer","6160 S Yale Ave","74136",36.071457,-95.92338199999999
+"74136","Tulsa","OK","Saint Francis Admitting","6161 S Yale Ave","not_available",36.07275390625,-95.91959381103516
+"74136","Tulsa","OK","Tulsa Neurospecialists","5010 East 68th St Suite 102","74136",36.0640787,-95.9206909
+"74136","Tulsa","OK","Laureate Psychiatric Clinic and Hospital","6655 S Yale Ave","74136",36.066066,-95.917128
+"74137","Tulsa","OK","Senior Star at The Arbors","10201 S Yale Ave","74137",36.01509,-95.92143399999999
+"74145","Tulsa","OK","Concentra Urgent Care","9515 E 51st St Ste G","74145",36.09084,-95.870174
+"74145","Tulsa","OK","Meadowbrook Specialty Hospital","3219 S 79th East Ave","74145",36.1143469747177,-95.89049675229519
+"74301","Vinita","OK","Saint Francis Hospital Vinita","735 N Foreman St","74301",36.6535946419916,-95.15620143385604
+"74301","Vinita","OK","Cherokee Indian Hospital","not_available","74301",36.6352874721121,-95.12961993123115
+"74337","Chouteau","OK","Access Medical Centers - Urgent Care","4115 Redden","74361",36.24702201431987,-95.28789140622598
+"74344","Grove","OK","INTEGRIS Grove Hospital: Emergency Room","1001 E 18th St","74344",36.5814642,-94.75815709999999
+"74344","Grove","OK","Grove Baptist Health Care","900 E 13th St","74344",36.5823974609375,-94.75833129882812
+"74354","Miami","OK","INTEGRIS Miami Hospital: Emergency Room","200 2nd Ave SW","74354",36.872886,-94.8803477
+"74354","Miami","OK","INTEGRIS Miami Hospital","200 2nd Ave Southwest","74354",36.872654,-94.88032366999998
+"74361","Pryor","OK","Hillcrest Hospital Pryor","111 N Bailey St","74361",36.30831527709961,-95.30506134033203
+"74361","Pryor","OK","Mayes County Medical ER","not_available","74361",36.30292408496398,-95.31780922651578
+"74401","Muskogee","OK","Urgent Care of Muskogee","384 S 33rd St Ste D","74401",35.7516992,-95.4032172
+"74401","Muskogee","OK","ReddyCare","W Shawnee St","74401",35.771317,-95.36999
+"74401","Muskogee","OK","Eastar Hospital","not_available","74401",35.78286376881189,-95.35672925310975
+"74401","Muskogee","OK","Wound Center","not_available","74403",35.78226141663177,-95.35648400528133
+"74401","Muskogee","OK","MD CUSTOM CANNABIS","505 North Main Street #1470","74401",35.7519382,-95.3672189
+"74401","Muskogee","OK","Vital Physical Therapy","3619 W Broadway St","74401",35.7558717,-95.4079879
+"74401","Muskogee","OK","VA Medical Center","1011 Honor Heights Dr","74401",35.76572044821635,-95.41410086016815
+"74401","Muskogee","OK","Muskogee Community Hospital","2900 N Main St","74401",35.781959533691406,-95.3580322265625
+"74401","Muskogee","OK","Saint Francis Hospital Muskogee","300 Rockefeller Dr","74401",35.75296434908071,-95.40623903274536
+"74426","Checotah","OK","Epic Hospital","not_available","74426",35.37216164302301,-95.57106818630392
+"74426","Checotah","OK","Urgent Care of Muskogee","1002 W Gentry Ave Suite A","74426",35.4720612,-95.5315842
+"74432","Eufaula","OK","Lakeview Urgent Care","20 Oak St","74432",35.28337860107422,-95.5823745727539
+"74437","Henryetta","OK","Hillcrest Hospital Henryetta","2401 W Main St","74437",35.43819046020508,-96.01531982421875
+"74437","Henryetta","OK","Rs Karya Bhakti","R Lavender","74437",35.5144829,-95.94564919999999
+"74447","Okmulgee","OK","Senior Star at Plantation House","1001 S Belmont Ave","74447",35.61317911,-95.95171913
+"74454","Porter","OK","Wagoner Urgent Care","not_available","74467",35.94749681855855,-95.39511827088295
+"74464","Tahlequah","OK","Urgent Care","not_available","74464",35.90956874536473,-94.95703391755592
+"74464","Tahlequah","OK","Hastings Emergency Room","East Boone Street","74464",35.911481889171824,-94.95019528027505
+"74464","Tahlequah","OK","US Department of Health and Human Services, Indian Health Service, Oklahoma City Area Office, WW Hastings Indian Hospital","100 S Bliss Ave","74464",35.910980224609375,-94.95037078857422
+"74464","Tahlequah","OK","Hastings Cafeteria","1388 Boone","74464",35.911216464262864,-94.9488459151867
+"74464","Tahlequah","OK","Hastings Indian Medical Center","100 Bliss Avenue","74464",35.91122678561086,-94.95053009019706
+"74467","Wagoner","OK","Wagoner Community Hospital","1200 W Cherokee St","74467",35.961763,-95.392176
+"74501","Mcalester","OK","Emergency Room At McAlester Regional Health Center","not_available","74501",34.931390470021675,-95.7806139363305
+"74501","Mcalester","OK","MRHC Lab","1 E Clark Bass Blvd","74501",34.936519,-95.750002
+"74501","Mcalester","OK","Urgent Care","727 E Wyandotte Ave","74501",34.92681599735426,-95.7607940183414
+"74523","Antlers","OK","Pushmata Home Health","not_available","74523",34.231718,-95.614022
+"74525","Atoka","OK","Atoka County Medical Center","not_available","74525",34.393968120361436,-96.15045906523767
+"74571","Talihina","OK","Talihina Veteran Center","D1555 Rd","74571",34.76776154345221,-95.08194520602933
+"74578","Wilburton","OK","Latimer Co Hospital","not_available","74578",34.919776,-95.320041
+"74601","Ponca City","OK","Urgent Care Clinic","5th","not_available",36.723508,-97.07862
+"74601","Ponca City","OK","AllianceHealth Ponca City - Emergency Room","1900 N 14th St","74601",36.7247236,-97.0684996
+"74631","Blackwell","OK","Stillwater Medical Blackwell","710 S 13th St","74631",36.79779058797901,-97.30003952980042
+"74701","Durant","OK","Texoma Birth Center","723 W Texas St","74701",33.9903868,-96.38539750000001
+"74701","Durant","OK","Medical Center Of Southeastern Oklahoma","1800 universitu blvd.","74701",34.00712216066332,-96.39357170593074
+"74701","Durant","OK","MCSO Outpatient Admitting","not_available","74701",34.00671036388027,-96.39360072608369
+"74701","Durant","OK","AllianceHealth Durant - Emergency Room","1800 W University Blvd","74701",34.00724411010742,-96.39389038085938
+"74701","Durant","OK","Calera Urgent Care","213 E Main St","74730",33.932814,-96.426258
+"74701","Durant","OK","Dr. Svend Bjorn, DPM: Foot And Ankle Specialty Center","1400 Bryan Drive Suite 210","74701",34.0070768,-96.3953417
+"74728","Broken Bow","OK","Mccurtain Memorial Urgent Care-Hochatown","8901 N US Highway 259","74728",34.14799,-94.749344
+"74743","Hugo","OK","Choctaw Memorial Hospital","1405 E Kirk St","74743",34.01225662231445,-95.4964828491211
+"74745","Idabel","OK","Mccurtain Memorial Hospital","not_available","74745",33.88287353515625,-94.81098937988281
+"74801","Shawnee","OK","Cornerstone Hospital Of Oklahoma","1900 Gordon Cooper Dr","74801",35.297452,-96.927495
+"74801","Shawnee","OK","Cornerstone Hospital of Oklahoma","1900 Gordon Cooper Dr.","74873",35.297642596139234,-96.92744153663983
+"74801","Shawnee","OK","Cohesive Healthcare Management and Consulting Services","2510 E Independence St","74804",35.34755325317383,-96.89248657226562
+"74804","Shawnee","OK","St. Anthony Shawnee Hospital","1102 W MacArthur St","74804",35.36271747939936,-96.93755241317896
+"74804","Shawnee","OK","St. Anthony Physicians/Shawnee","3315 Kethley Rd","74804",35.36225891113281,-96.93950653076172
+"74804","Shawnee","OK","Unity ICU","not_available","74804",35.36250668401223,-96.93697669465395
+"74804","Shawnee","OK","St. Anthony Urgent Care","3200 Medical Park Dr","74804",35.362159729003906,-96.94029998779297
+"74820","Ada","OK","Chickasaw Nation Medical Center","not_available","74820",34.73088011525124,-96.64572339543649
+"74820","Ada","OK","Urgent Care","Arlington Blvd.","74820",34.78156889497441,-96.6623685924821
+"74820","Ada","OK","Mercy Hospital Ada","430 N Monte Vista St","74820",34.7783859,-96.6337055
+"74820","Ada","OK","Orthopaedic and Sports Medicine Center (OSC)","1023 Arlington St","74820",34.7816,-96.66298
+"74820","Ada","OK","CNMC IT","1921 Stonecipher Dr","74820",34.73198318481445,-96.6465072631836
+"74820","Ada","OK","Chickasaw Clinic","Ada, OK","74820",34.73134883485312,-96.64663148859394
+"74820","Ada","OK","Advanced Care Medical Equipment","1201 Arlington St","74820",34.781658,-96.66185
+"74820","Ada","OK","Smith George Salvage City & Wrecker Co Inc","12521 State Highway 3W","74820",34.80072784423828,-96.74107360839844
+"74840","Earlsboro","OK","AllianceHealth Seminole - Emergency Room","2401 W Wrangler Blvd","74868",35.2462623,-96.6985528
+"74848","Holdenville","OK","Holdenville General Hospital","not_available","74848",35.08903,-96.378996
+"74848","Holdenville","OK","Gastrointestinal and Liver Center","364/1 Sri Ayuthaya Road","74884",35.175299727711476,-96.54659961839107
+"74859","Okemah","OK","Muscogee Creek Nation Ems Thunderbox 2","not_available","74859",35.385677633938585,-96.46149151467469
+"74864","Prague","OK","7 sayli poliklinika","Babek avenue","74864",35.485899,-96.68941799999999
+"74868","Seminole","OK","Trojan Nutrition Llc","2309 N Milt Phillips Ave","74868",35.2442665,-96.6718826
+"74902","Pocola","OK","Leflore County EMS Station 4","Pocola Blvd","74902",35.23441,-94.482589
+"74953","Poteau","OK","EOMC","not_available","74953",35.07485580444336,-94.62930297851562
+"74953","Poteau","OK","Eastern Oklahoma Medical Center","not_available","74953-4433",35.04364013671875,-94.61229705810547
+"74955","Sallisaw","OK","Sequoyah Memorial Hospital","not_available","74955",35.46407699584961,-94.78851318359375
+"74955","Sallisaw","OK","Sallisaw Pharmacy","1212 E Cherokee Ave","74955",35.460479,-94.774134
+"74955","Sallisaw","OK","Sequoyah Manor NH","Redwood St","74955",35.4643669128418,-94.78231048583984
+"74960","Stilwell","OK","Stilwell Home Health","not_available","74960",35.808917,-94.642074
+"74960","Stilwell","OK","Stilwell Memorial Hospital","1401 West Locust Street","74960",35.8093848,-94.6430681
+"74962","Vian","OK","st edwards mercy medical center","not_available","74962",35.48670196533203,-94.96321105957031

@@ -1,0 +1,108 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"03901","Berwick","ME","Merrimack River","not_available","03878",43.24237769010286,-70.89901024334986
+"03901","Berwick","ME","York Hospital in Berwick","4 Dana Ln","03901",43.273777,-70.85336
+"03906","North Berwick","ME","York Hospital in Sanford","1474 Main St","04073",43.40970603217409,-70.73872060880662
+"03909","York","ME","York Hospital","15 Hospital Dr","03909",43.142349025698785,-70.6522031104971
+"03909","York","ME","York Hospital at Long Sands","127 Long Sands Rd","03909",43.14795902415326,-70.64230428292188
+"03909","York","ME","York Hospital","1 Loving Kindness Way","03909",43.14240987859922,-70.65206874970283
+"03909","York","ME","York Hospital Emergency Room","not_available","03909",43.14532962838383,-70.65231871085675
+"03909","York","ME","Northeast Dermatology Associates - York","519 US Route 1, Unit 2","03909",43.15184359828701,-70.66230969710682
+"04002","Alfred","ME","Goodall Hospital","23 June St","not_available",43.448894124309426,-70.76743589284207
+"04002","Alfred","ME","Greenwood Nursing Care And Rehabilitation Center","384-394 Main St","04073",43.42520446120258,-70.7621991817896
+"04002","Alfred","ME","Dinlos Galore","not_available","not_available",43.431497,-70.792586
+"04005","Biddeford","ME","SMHC Medical Center - Biddeford","1 Medical Center Dr","04005",43.477622549594265,-70.48998489768866
+"04005","Biddeford","ME","SMHC’s Walk-In Care","655 Main St","04072",43.51557341568163,-70.42877074685234
+"04005","Biddeford","ME","Elite Glass","958 Portland Rd","04072",43.54964828491211,-70.41000366210938
+"04005","Biddeford","ME","Convenientmd Urgent Care","not_available","04072",43.509003,-70.435486
+"04009","Bridgton","ME","Bridgton Hospital","10 Hospital Dr","04009",44.046426529493495,-70.71377797063582
+"04011","Brunswick","ME","Mid Coast Hospital","123 Medical Center Dr","04011",43.906524636830206,-69.89146904550141
+"04011","Brunswick","ME","Parkview Adventist Medical Center","329 Maine St","04011",43.894690866146554,-69.9683840628301
+"04011","Brunswick","ME","Maine Urgent Care","105 Topsham Fair Mall Rd #8","04086",43.9358504,-69.9843564
+"04011","Brunswick","ME","ConvenientMD Urgent Care","193 Bath Road","04011",43.9078629,-69.91645849999999
+"04011","Brunswick","ME","Mid Coast Hospital Medical Building","81 Medical Center Dr","04011",43.90925979614258,-69.89190673828125
+"04032","Freeport","ME","Elemental Counseling","10 Cliff Ave","04032",43.833282470703125,-70.09954071044922
+"04043","Kennebunk","ME","River Ridge Kennebunk","not_available","04043",43.38974373974338,-70.55060660282966
+"04072","Saco","ME","ClearChoice MD","not_available","04074",43.602199,-70.366632
+"04074","Scarborough","ME","Maine Medical Center","22 Bramhall St","04102",43.65291679287766,-70.2759018926823
+"04074","Scarborough","ME","Mercy Hospital","144 State St","04101",43.651720860853814,-70.265077606822
+"04074","Scarborough","ME","Mercy Fore River","195 Fore River Pkwy","04102",43.64839982448721,-70.28229830987843
+"04074","Scarborough","ME","Home Care Services, Inc.","650 Main St","04106",43.620223,-70.304223
+"04074","Scarborough","ME","Concentra Urgent Care","85 Western Avenue, Suites 6, 7, 8","04106",43.6349144,-70.3172878
+"04074","Scarborough","ME","AFC Urgent Care South Portland","50 Market St","04106",43.63528060913086,-70.25557708740234
+"04074","Scarborough","ME","admissions department","123 Andover Rd","04092",43.653397,-70.344108
+"04074","Scarborough","ME","1 East","123","04102",43.65361421411423,-70.34359594750079
+"04074","Scarborough","ME","Mmc Radiology Film Library","John Roberts Rd","not_available",43.629267,-70.328018
+"04090","Wells","ME","Wells Urgent Care And Lab","not_available","04090",43.32230197730878,-70.58755706012427
+"04092","Westbrook","ME","ConvenientMD","not_available","04092",43.676903,-70.370662
+"04096","Yarmouth","ME","Mercy Express Care","385 Route 1","04096",43.795124,-70.188141
+"04101","Portland","ME","Conveinent Care MD","not_available","04101",43.664172,-70.261118
+"04101","Portland","ME","Kindred at Home","51 Baxter Blvd","04101",43.66441266,-70.26993137
+"04102","Portland","ME","New England Rehabilitation Hospital","335 Brighton Ave","04102",43.66620884613856,-70.29184967279434
+"04102","Portland","ME","Northeast Dermatology Associates - Portland","125 Presumpscot Street, Unit 8","04103",43.6850471496582,-70.25826263427734
+"04210","Auburn","ME","Central Maine Medical Center","300 Main St","04240",44.1020664895613,-70.21483547524456
+"04210","Auburn","ME","99 campus avenue","not_available","04240",44.10125563512065,-70.1985558330078
+"04210","Auburn","ME","St. Mary's Regional Medical Center","93 Campus Ave","04240",44.10167884189445,-70.19956403154583
+"04210","Auburn","ME","Concentra Urgent Care","59 East Ave","04240",44.0880223,-70.1997011
+"04210","Auburn","ME","Green Cures","550 Center St. 1P.","04210",44.1222913,-70.2291927
+"04210","Auburn","ME","Sinsemilla","117 Middle St.","04240",44.0983461,-70.2165109
+"04210","Auburn","ME","St. Mary's Urgent Care","791 Turner St","04210",44.12192916870117,-70.23307037353516
+"04210","Auburn","ME","United Ambulance Service","192 Russell St","04240",44.10432,-70.192846
+"04210","Auburn","ME","Central Maine Urgent Care","Center St","not_available",44.124073,-70.22511
+"04210","Auburn","ME","CMMC XRay Dept","60 High St","04240",44.102542877197266,-70.21548461914062
+"04210","Auburn","ME","Maine Urgent Care","685 Sabattus St","04240",44.10195897975965,-70.17751984298229
+"04257","Mexico","ME","Rumford Hospital","420 Franklin St","04276",44.55152742093965,-70.55651121450624
+"04268","Norway","ME","PACE Paramedic Service","not_available","04268",44.20945,-70.531326
+"04294","Wilton","ME","Franklin Memorial Hospital","111 Franklin Health Cmns","04938",44.625294059515,-70.16223259270191
+"04330","Augusta","ME","Togus VA Medical Center","1 VA Ctr","04330",44.28023199996939,-69.70404721659928
+"04330","Augusta","ME","Maine Veterans Home","310 Cony Rd","04330",44.297471,-69.74643499999999
+"04330","Augusta","ME","MJ Healing Herbs","MJ Healing Herb, LLC","04330",44.3106241,-69.7794897
+"04330","Augusta","ME","VA Maine Healthcare System","1 Va Ctr","04330",44.280418395996094,-69.70442962646484
+"04330","Augusta","ME","MaineGeneral Express Care","15 Enterprise Dr","04330",44.36547391347854,-69.79595552490713
+"04330","Augusta","ME","Evergreen Cannabis Caregivers","940 Augusta Rd.","04917",44.46940855092096,-69.83379244418029
+"04330","Augusta","ME","Togus VA","not_available","04330",44.34987326557182,-69.78421556833058
+"04349","Kents Hill","ME","Lovejoy Health Center","Camp Vega","not_available",44.44189,-70.029877
+"04364","Winthrop","ME","HI-5 Maine","662 Stanley Rd","04364",44.320225,-69.927331
+"04401","Bangor","ME","St. Joseph Hospital","360 Broadway","04401",44.81426583227831,-68.77287720761419
+"04401","Bangor","ME","EMMC - Radiology","State St","04401",44.808375972834774,-68.75139649349622
+"04401","Bangor","ME","EMMC - Nuclear Medicine","not_available","04401",44.80822400137268,-68.75072416869136
+"04401","Bangor","ME","Dorothea Dix Psych Center","656 State St","04401",44.818011,-68.741396
+"04401","Bangor","ME","St. Joseph's Hospital E.R.","297 Center St","04401",44.814083000000004,-68.77255600000001
+"04401","Bangor","ME","Penobscot Room","The Acadia Hospital, 268 Stillwater Ave, Bangor, ME 04401","04401",44.82766336035579,-68.75208719392926
+"04401","Bangor","ME","St Joseph CBO","325 Center St, Bangor, ME 04401","04401",44.81477737426758,-68.77308654785156
+"04401","Bangor","ME","Osprey Room","The Acadia Hospital, 268 Stillwater Ave, Bangor, ME 04401-3980","04401-3980",44.82794984619218,-68.75265844666163
+"04401","Bangor","ME","Concentra Urgent Care","34 Gilman Rd","04401",44.831108,-68.754837
+"04401","Bangor","ME","EMMC - Emergency Department","489 State St","04401",44.8085645541047,-68.75177083723607
+"04401","Bangor","ME","Cancer Care of Maine - Cianchette Building","not_available","04412",44.786414606374464,-68.75402822021279
+"04412","Brewer","ME","Acadia Hospital","247-253 Stillwater Ave","04401",44.820685385388934,-68.7633212924769
+"04412","Brewer","ME","Eastern Maine Medical Infusion Center","not_available","04444",44.797501000017036,-68.75583339521366
+"04426","Dover Foxcroft","ME","Mayo Regional Hospital","897 W Main St","04426",45.18751847689578,-69.23749822829836
+"04457","Lincoln","ME","Penobscot Valley Hospital","not_available","04457",45.347930908203125,-68.51715087890625
+"04462","Millinocket","ME","Millinocket Regional Hospital","200 Somerset St","04462",45.652919,-68.715992
+"04530","Bath","ME","Holistic Alternatives","59 Main St","04579",43.91445541381836,-69.80088806152344
+"04537","Boothbay","ME","LincolnHealth - St. Andrews Campus & Urgent Care Center","6 Saint Andrews Ln","04538",43.85041742530642,-69.63911835062147
+"04605","Ellsworth","ME","Maine Coast Memorial Hospital","50 Union St","04605",44.546486669926644,-68.41633214176926
+"04605","Ellsworth","ME","county ambulance","not_available","04605",44.53535842895508,-68.4090805053711
+"04605","Ellsworth","ME","Blue Hill Memorial Hospital","not_available","04614",44.41133531046233,-68.58717610407803
+"04607","Gouldsboro","ME","Mount Desert Island Hospital","10 Wayman Ln","04609",44.38497292675765,-68.20196209458257
+"04607","Gouldsboro","ME","Mt Desert Island Hospital","not_available","04609",44.384918,-68.202072
+"04619","Calais","ME","Calais Regional Hospital","24 Hospital Ln","04619",45.177578999999994,-67.26799399999999
+"04630","East Machias","ME","Down East Community Hospital","11 Hospital Dr","04654",44.713953,-67.475864
+"04730","Houlton","ME","Houlton Regional Hospital","20 Hartford St","04730",46.133779,-67.84353
+"04736","Caribou","ME","Cary Medical Center","163 Van Buren Rd","04736",46.8795864,-68.00805079999999
+"04743","Fort Kent","ME","Crosswinds Assisted Living","40 Village Rd","04743",47.242828369140625,-68.60669708251953
+"04743","Fort Kent","ME","Northern Maine Medical Center","194 E Main St","04743",47.26532,-68.59144
+"04769","Presque Isle","ME","The Aroostook Medical Center (TAMC)","140 Academy St","04769",46.6750874,-67.99858669999999
+"04841","Rockland","ME","Pen Bay Medical Center","6 Glen Cove Dr","04856",44.14368997550812,-69.0847509545097
+"04841","Rockland","ME","Cannabis Cured","151 New County Rd.","04861",44.093168,-69.1408299
+"04841","Rockland","ME","Elite Glass","151 New County Road","04861",44.093168,-69.1408299
+"04901","Waterville","ME","MaineGeneral Medical Center's Thayer Center for Health","149 North St","04901",44.565310679065746,-69.64622292343527
+"04901","Waterville","ME","Inland Hospital","200 Kennedy Memorial Dr","04901",44.54185200106967,-69.66148814221803
+"04901","Waterville","ME","Full Spectrum Solutions","228 Norridgewock Rd","04937",44.612388610839844,-69.66349029541016
+"04901","Waterville","ME","Speare Memorial Hospital","not_available","04901",44.541844,-69.534519
+"04901","Waterville","ME","MGMC Express Care","Main street","04901",44.55392388544706,-69.63130852349013
+"04915","Belfast","ME","Waldo County General Hospital","Northport Avenue","04915",44.412570930873116,-68.9965573197672
+"04915","Belfast","ME","Rehab","not_available","04915",44.491549,-68.982448
+"04917","Belgrade","ME","STICKY DIAMOND LLC","55 ROME ROAD","04963",44.5749929,-69.9006646
+"04967","Pittsfield","ME","Sebasticook Valley Hospital","447 N Main St","04967",44.7895234270574,-69.36936002767297
+"04976","Skowhegan","ME","Redington-Fairview General Hospital","46 Fairview Ave","04976",44.759302306591806,-69.71369008304983
+"04976","Skowhegan","ME","redington fairview ems","not_available","04976",44.759341654827374,-69.71271610072645

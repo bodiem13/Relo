@@ -1,0 +1,935 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"40004","Bardstown","KY","Walmart Supercenter","3795 E John Rowan Blvd","40004",37.79998467630002,-85.43578147888184
+"40004","Bardstown","KY","Kroger","102 W John Rowan Blvd","40004",37.82870361541479,-85.46457251830668
+"40004","Bardstown","KY","Save-A-Lot","1500 E John Rowan Blvd","40004",37.82221603393555,-85.44493865966797
+"40011","Campbellsburg","KY","Campbellsburg Supermarket","8174 Main St","40011",38.52394104003906,-85.20231628417969
+"40013","Coxs Creek","KY","High Grove Store","12780 Louisville Rd","40013",37.983136323683524,-85.48555325524448
+"40014","Crestwood","KY","Walmart Supercenter","3706 Diann Marie Rd","40241",38.30002920574412,-85.54549565407332
+"40014","Crestwood","KY","Kroger","12450 La Grange Rd","40245",38.29067763385197,-85.50839960575104
+"40014","Crestwood","KY","Meijer","4100 Towne Center Dr","40241",38.299177,-85.5542566
+"40014","Crestwood","KY","Kroger","2034 S Highway 53","40031",38.39468496268067,-85.36728932106143
+"40014","Crestwood","KY","Walmart Supercenter","6501 Veterans Memorial Parkway","40014",38.337695022838034,-85.4723054025717
+"40014","Crestwood","KY","Walmart Supercenter","1015 New Moody Ln","40031",38.39518882,-85.37325382
+"40014","Crestwood","KY","ALDI","10620 Westport Rd","40241",38.29531104149086,-85.55407494306564
+"40014","Crestwood","KY","Crestwood Supermarket","not_available","40014",38.325238,-85.472605
+"40014","Crestwood","KY","Wally World","not_available","40031",38.394624,-85.373116
+"40019","Eminence","KY","Norm's","not_available","not_available",38.36995780353858,-85.16926912823918
+"40019","Eminence","KY","Save-A-Lot","704 Elm St","40019",38.370269775390625,-85.169189453125
+"40026","Goshen","KY","Skylight Country Store","not_available","40026",38.428218841552734,-85.53126525878906
+"40026","Goshen","KY","Goshen Store","US 42","40026",38.40263328227025,-85.5898008409855
+"40031","La Grange","KY","Save-A-Lot","305 S 1st St","40031",38.4048409293118,-85.37719573186592
+"40033","Lebanon","KY","Walmart Supercenter","2136 Campbellsville Rd","40033",37.55402188,-85.28400567
+"40033","Lebanon","KY","Kroger","705 E Main St","40033",37.57678300786654,-85.23409008979797
+"40033","Lebanon","KY","Save-A-Lot","Lebanon Trade Center","40033",37.56538391113281,-85.26329803466797
+"40045","Milton","KY","Ruler Foods","120 E 2nd St","47250",38.73481246129145,-85.37927163558197
+"40047","Mount Washington","KY","Kroger","234 Eastbrooke Pkwy","40047",38.05667604550784,-85.53696423790825
+"40047","Mount Washington","KY","Lee's Foodstore","6360 Highway 44 E","40047",38.02634811401367,-85.61341094970703
+"40047","Mount Washington","KY","Kroger","not_available","40165",38.03218091124364,-85.56647409003007
+"40047","Mount Washington","KY","ValuMarket","205 Oakbrooke Dr","40047",38.052758663344044,-85.5396284544868
+"40051","New Haven","KY","IGA","132 S Main St","40051",37.6557731628418,-85.59300231933594
+"40057","Pleasureville","KY","The Farmstead Market","10712 Castle Hwy","40057",38.350948333740234,-85.0448226928711
+"40059","Prospect","KY","Kroger","5929 Timber Ridge Dr","40059",38.3401715,-85.6214021
+"40059","Prospect","KY","Crossroads IGA","13124 W Highway 42 # 40059","40059",38.365257,-85.600294
+"40059","Prospect","KY","IGA","13124 W Highway 42","40059",38.365246,-85.600342
+"40065","Shelbyville","KY","Kroger Marketplace","311 Boone Station Rd","40065",38.2156572,-85.2058637
+"40065","Shelbyville","KY","Walmart Supercenter","500 Taylorsville Rd","40065",38.21005656906332,-85.26471087986015
+"40065","Shelbyville","KY","Save A Lot","22 Village Plz","40065",38.1960869,-85.2220809
+"40065","Shelbyville","KY","cubert's","not_available","40065",38.211334472459484,-85.22198458851317
+"40065","Shelbyville","KY","Save-A-Lot","22 Village Plaza","40065",38.210899353027344,-85.23975372314453
+"40069","Springfield","KY","Save A Lot","805 Bardstown Rd","40069",37.6894916,-85.2344841
+"40104","Battletown","KY","Stull's Country Store","4385 Rhodelia Rd, Payneville, KY 40157","40157",38.031903682423405,-86.36712446884687
+"40108","Brandenburg","KY","Save-A-Lot","2320-1 Bypass Rd","40108",37.99895859,-86.16941071
+"40108","Brandenburg","KY","Kroger Grocery Pickup and Delivery","568 Bypass Rd","40108",37.98224639892578,-86.16300964355469
+"40118","Fairdale","KY","Pic Pac IGA","501 Mt Holly Road","40118",38.10458755493164,-85.75743865966797
+"40118","Fairdale","KY","Save-A-Lot","8704 National Tpke","40118",38.123165130615234,-85.74974822998047
+"40118","Fairdale","KY","Walmart Grocery Pickup and Delivery","175 Outer Loop","40214",38.1266,-85.77896
+"40121","Fort Knox","KY","Fort Knox Commissary","933 Gold Vault Rd","40121",37.884451802457995,-85.9531085041036
+"40121","Fort Knox","KY","AAFES Shopette","4991 Chaffee Ave","40121",37.894856057752804,-85.98143329903426
+"40143","Hardinsburg","KY","Save-A-Lot","996 Old Hwy 60 E","40143",37.76865005493164,-86.44361114501953
+"40143","Hardinsburg","KY","Walmart","1002 Old Us 60 E","40143",37.76722891641107,-86.44246484439418
+"40143","Hardinsburg","KY","Save-A-Lot","Old Hwy 60 E","40143",37.779676,-86.451192
+"40150","Lebanon Junction","KY","Bullitt County Supermarket","not_available","40150",37.92369853780642,-85.69750012982605
+"40160","Radcliff","KY","Walmart Supercenter","1165 Walmart Way","40160",37.84937252116211,-85.94231356707324
+"40160","Radcliff","KY","Price Less","w62 w mill street","40160",37.820404,-85.92653
+"40160","Radcliff","KY","Walmart Neighborhood Market","102 Gateway Crossings Blvd.","40160",37.79988800482199,-85.91487288595201
+"40160","Radcliff","KY","ALDI","601 N Dixie Blvd","40160",37.84576987414014,-85.94450533390045
+"40160","Radcliff","KY","smith oriental mart","not_available","40160",37.857687132784534,-85.95444167975572
+"40160","Radcliff","KY","Save-A-Lot","262 W Mill Creek Rd","40160",37.82061165,-85.92644666
+"40160","Radcliff","KY","Save A Lot","262 Millcreek Rd","40160",37.8202258,-85.9268612
+"40160","Radcliff","KY","My Rosita Latino Grocery Store Taqueria Y Carnesria","944 N Dixie Blvd","40160",37.85007890775815,-85.94703344027582
+"40165","Shepherdsville","KY","Kroger","185 Adam Shepherd Pkwy","40165",37.9917257,-85.7108945
+"40165","Shepherdsville","KY","Walmart Supercenter","545 Conestoga Parkway Lot 1","40165",37.999810026194254,-85.70885722952468
+"40165","Shepherdsville","KY","Five Star Food Mart","not_available","40229",38.063093761258415,-85.69515671278184
+"40165","Shepherdsville","KY","Save-A-Lot","445 Hwy 44 E","40165",37.988094329833984,-85.71031951904297
+"40165","Shepherdsville","KY","Price Less Foods","445 Kentucky 44 E","40165",37.9889422,-85.7089574
+"40165","Shepherdsville","KY","Save-A-Lot","I- 65  And Highway 44  E","40165",37.9934,-85.7047
+"40165","Shepherdsville","KY","Save A Lot","445 Highway 44 E","40165",37.9889422,-85.7089574
+"40165","Shepherdsville","KY","Price Less Foods","175 Market Place Dr","40229",38.07449722290039,-85.67112731933594
+"40175","Vine Grove","KY","Cash Saver","101 Crutcher St","40175",37.81145,-85.981091
+"40202","Louisville","KY","Plaza Convenience","not_available","40202",38.25688001705728,-85.75555193816709
+"40202","Louisville","KY","440 Market","440 West Market Street","40202",38.255307,-85.758344
+"40202","Louisville","KY","UHL Security Office","535 S Handcock St","40202",38.247972,-85.743502
+"40203","Louisville","KY","Save-A-Lot","2626 Portland Ave","40212",38.27100694267578,-85.79037644849825
+"40203","Louisville","KY","Farm boys","not_available","40210",38.2373268324604,-85.78739896898466
+"40203","Louisville","KY","Save-A-Lot","1311 S Shelby St","40217",38.229898,-85.74166600000001
+"40203","Louisville","KY","Park Market","not_available","40203",38.26178784948492,-85.78045966292204
+"40204","Louisville","KY","ValuMarket","1250 N Bardstown Rd","40204",38.23531060461952,-85.71725450987249
+"40204","Louisville","KY","Kroger","1265 Goss Ave","40217",38.2266047,-85.7305911
+"40204","Louisville","KY","Bombay Grocier","not_available","40205",38.23054814088023,-85.70502385077796
+"40204","Louisville","KY","Moe's Foodmart","not_available","40217",38.2246425914311,-85.73823262362181
+"40204","Louisville","KY","Aladdin","not_available","40204",38.23793702761147,-85.71995284309746
+"40204","Louisville","KY","NUTSNSTUFF","1000 Barret Ave","40204",38.236187,-85.728617
+"40204","Louisville","KY","Circle K","1779 Bardstown Rd","40205",38.234462,-85.71299
+"40204","Louisville","KY","Webb's Market","944 E Muhammad Ali Blvd","40204",38.248484999999995,-85.73491
+"40205","Louisville","KY","Kroger","2440 Bardstown Rd","40205",38.2233156,-85.6877512
+"40205","Louisville","KY","Paul's Fruit Market","3704 Taylorsville Rd","40220",38.22053033002359,-85.64540735928476
+"40205","Louisville","KY","Kroger","4009 Poplar Level Rd","40213",38.2018598,-85.7080205
+"40205","Louisville","KY","Rainbow Blossom - Highlands","3046 Bardstown Road","40205",38.21301335579489,-85.67379237701913
+"40205","Louisville","KY","Lamp Fall","4222A Bishop Ln","40218",38.20012002654662,-85.68662117794398
+"40205","Louisville","KY","Next Door Convenience Food Mart","3303 Newburg Rd","40218",38.20086355,-85.68498675
+"40205","Louisville","KY","Bodega Mi Sueño","not_available","40218",38.205265999999995,-85.66575300000001
+"40205","Louisville","KY","Walmart Grocery Pickup and Delivery","2020 Bashford Manor Ln","40218",38.20022,-85.66987
+"40206","Louisville","KY","Kroger","2200 Brownsboro Rd","40206",38.2577238,-85.7041575
+"40206","Louisville","KY","Family Dollar","1961 Brownsboro Rd","40206",38.2601432800293,-85.70944213867188
+"40206","Louisville","KY","James Fruit Market","3130 Frankfort Ave","40206",38.254297971725464,-85.67604995
+"40206","Louisville","KY","On Time Taxi N.A.","410 Jefferson St","47130",38.28024,-85.72615
+"40206","Louisville","KY","Heart & Soul","not_available","40206",38.255946,-85.73378
+"40206","Louisville","KY","Reynolds Grocery Company","1813 Frankfort Ave","40206",38.25674047392963,-85.71632997983372
+"40206","Louisville","KY","Thornton's Quick Cafe and Market","Court Ave","47130",38.28208772736161,-85.72512363757332
+"40207","Louisville","KY","Kroger","2219 Holiday Manor Ctr","40222",38.283668858435966,-85.63051701788129
+"40207","Louisville","KY","Kroger","291 N Hubbards Ln Ste 130","40207",38.2584682,-85.6368426
+"40207","Louisville","KY","Trader Joe's","4600 Shelbyville Rd Ste 111","40207",38.25017113137613,-85.6311042796248
+"40207","Louisville","KY","Whole Foods Market","4944 Shelbyville Rd","40207",38.24893956356105,-85.62604667705614
+"40207","Louisville","KY","The Fresh Market","1805 Rudy Ln,","40207",38.27928881117562,-85.63796463761649
+"40207","Louisville","KY","Walmart Neighborhood Market","143 Thierman Ln","40207",38.25355900074934,-85.6443519039211
+"40207","Louisville","KY","Paul's Fruit Market","3922 Chenoweth Sq","40207",38.254288373856056,-85.65474632554367
+"40207","Louisville","KY","Rainbow Blossom St. Matthews","3738 Lexington Rd","40207",38.252177880260625,-85.659003688885
+"40207","Louisville","KY","Lotsa Pasta","3717 Lexington Rd","40207",38.252101,-85.659792
+"40208","Louisville","KY","Kroger","3165 S 2nd St","40208",38.2025501,-85.7613643
+"40208","Louisville","KY","Pic Pac","Taylor blvd","40215",38.206333,-85.776844
+"40209","Louisville","KY","Aldi","3442 Preston Hwy","40213",38.19484870367263,-85.73090493679047
+"40209","Louisville","KY","Dawn foods","200-228 Eiler Ave","40214",38.166127,-85.75718499999999
+"40210","Louisville","KY","Kroger","2710 W Broadway","40211",38.248774,-85.7968753
+"40210","Louisville","KY","Cash Saver","3044 Wilson Ave","40211",38.22551850438429,-85.80709694175728
+"40210","Louisville","KY","Save-A-Lot","1804 Dixie Hwy","40210",38.22419738769531,-85.79267120361328
+"40210","Louisville","KY","The Grand Market","1737 Dixie Hwy","not_available",38.224843,-85.791134
+"40212","Louisville","KY","Kroger","520 N 35th St","40212",38.2710236,-85.8054476
+"40212","Louisville","KY","Save-A-Lot","624 State St","47150",38.28832818737115,-85.82507729530333
+"40213","Louisville","KY","Walmart Supercenter","4840 Outer Loop","40219",38.13578767100874,-85.67192374631689
+"40213","Louisville","KY","Kroger","4211 S 3rd St","40214",38.1946953,-85.7647308
+"40213","Louisville","KY","Kroger","4501 Outer Loop","40219",38.1399619,-85.6795251
+"40213","Louisville","KY","ValuMarket","5301 Mitscher Ave","40214",38.17122420968302,-85.7696114170413
+"40213","Louisville","KY","Kroger","5533 New Cut Rd","40214",38.1446922,-85.7739552
+"40213","Louisville","KY","Gordon Food Service Store","7389 Jefferson Blvd","40219",38.143873,-85.672566
+"40213","Louisville","KY","5 Star Halal Meat & Grocery Store","310 W Woodlawn Ave","40214",38.18158,-85.76697355
+"40213","Louisville","KY","Viet Hoa Food Market","7100 Preston Hwy","40219",38.148773,-85.694464
+"40213","Louisville","KY","Pic-Pac","Southside Dr","40214",38.159919,-85.764083
+"40213","Louisville","KY","La Chapinlandia","1209 McCawley Rd","40219",38.145,-85.6892
+"40213","Louisville","KY","Á-Châu Grocery","5107 S 3rd St","40214",38.172592,-85.76731099999999
+"40213","Louisville","KY","Nuts N Stuff","4017 Preston Hgwy","not_available",38.19440841674805,-85.72908020019531
+"40213","Louisville","KY","Alrasoul Food Mart","7141 Southside Dr","40214",38.15092,-85.766121
+"40213","Louisville","KY","Oriental Market","1211 Gilmore Ln","40213",38.17570877075195,-85.71138000488281
+"40213","Louisville","KY","Tom's Fruit Market","6722 Strawberry Ln","40214",38.158946,-85.763937
+"40213","Louisville","KY","Dong Phuong","6705 Strawberry Ln","40214",38.1591349598308,-85.76258182525635
+"40213","Louisville","KY","Việt-nam Oriental Food Market","5019 S 3rd St","40214",38.173553000000005,-85.767062
+"40213","Louisville","KY","Save-A-Lot","5747 Preston Hwy","40219",38.166907,-85.701813
+"40214","Louisville","KY","Kroger Marketplace","4915A Dixie Hwy","40216",38.1678482,-85.826561
+"40214","Louisville","KY","ALDI","5109 Dixie Hwy","40216",38.16705435997976,-85.82823157310486
+"40214","Louisville","KY","Walmart Neighborhood Market","not_available","40216",38.15521330472483,-85.8259030407478
+"40214","Louisville","KY","O and S Asian Market","1800 Berry Blvd","40215",38.196447,-85.796114
+"40214","Louisville","KY","Kroger","Dixie Hwy","40216",38.184579126635015,-85.81732123116359
+"40214","Louisville","KY","Kroger","3917 7th Street Rd","40216",38.19350629994606,-85.80422649577223
+"40214","Louisville","KY","Cardinal Market","not_available","40214",38.15463746796637,-85.80341532459151
+"40214","Louisville","KY","Save-A-Lot","4148 Taylor Blvd","40215",38.182034,-85.784175
+"40214","Louisville","KY","Pic-Pac Supermarket","723 Gagel Ave","40216",38.171584,-85.798864
+"40214","Louisville","KY","Save-A-Lot","2320 Bypass Road","40108",38.184207,-85.818096
+"40214","Louisville","KY","Binh Phuoc Vietnamese","5301 S 3rd St","40214",38.17119,-85.76773
+"40216","Louisville","KY","Walmart Supercenter","7100 Raggard Rd","40216",38.171613629099646,-85.87039580863039
+"40216","Louisville","KY","Walmart Neighborhood Market","5360 Dixie Hwy","40216",38.15703826224119,-85.83546084715611
+"40216","Louisville","KY","Save A Lot","4431 Cane Run Rd","40216",38.19545004845971,-85.84047290077375
+"40216","Louisville","KY","Premier Personal Shoppers","4105 Dienes Way","40216",38.202171,-85.83118
+"40218","Louisville","KY","Kroger","3039 Breckenridge Ln","40220",38.21748131420298,-85.62625589998794
+"40218","Louisville","KY","Kroger","3616 Buechel Bypass","40218",38.198156754288775,-85.66370710733281
+"40218","Louisville","KY","Aldi","4301 Bardstown Rd","40218",38.18752982041112,-85.63671246171003
+"40218","Louisville","KY","Price Less Foods","3417 Breckenridge Ln","40220",38.199275970458984,-85.62185668945312
+"40218","Louisville","KY","Klondike Market","3610 Klondike Ln","40218",38.211236310674046,-85.63335973242766
+"40218","Louisville","KY","B & H International Market","3914 Bardstown Rd Ste 101","40218",38.194366,-85.652514
+"40218","Louisville","KY","Subzi Mandi","4746 Bardstown Rd","40218",38.177563,-85.62384499999999
+"40219","Louisville","KY","Meijer","9500 Preston Hwy","40229",38.1125105,-85.6795976
+"40219","Louisville","KY","Pic Pac - Silver Heights","Blue Lick Rd","not_available",38.114010889838326,-85.69071513284945
+"40219","Louisville","KY","ALDI","4901 Outer Loop","40219",38.1396724,-85.665604
+"40219","Louisville","KY","Shady Park Key Market","9409 Smyrna Pkwy","40229",38.11143713188176,-85.64489453465099
+"40219","Louisville","KY","meltons Food","not_available","40219",38.14501558417682,-85.66483652171618
+"40219","Louisville","KY","EL REY TIENDA MEXICANA","8655 Preston Hwy","40219",38.1271808,-85.6799953
+"40219","Louisville","KY","B & E Salvage Store",".","40219",38.128021240234375,-85.679443359375
+"40220","Louisville","KY","Kroger","9080 Taylorsville Rd","40299",38.212635942847804,-85.59200004504419
+"40220","Louisville","KY","Kroger","9812 Linn Station Rd","40223",38.22690311116927,-85.57508092128751
+"40220","Louisville","KY","ALDI","845 S Hurstbourne Pkwy","40222",38.2354257,-85.5759554
+"40220","Louisville","KY","Patel Brothers","134 s hurstbourme pkwy","40220",38.22141159181738,-85.5838323015531
+"40220","Louisville","KY","International Star Super Market","9715 Taylorsville Rd","40299",38.203618,-85.575963
+"40220","Louisville","KY","AAA FOOD MART","not_available","40220",38.2191255,-85.5955234
+"40222","Louisville","KY","Kroger","9440 Brownsboro Rd","40241",38.3054814,-85.5751996
+"40222","Louisville","KY","Choi's Asian Food Market","607 Lyndon Ln","40222",38.25956390157814,-85.60421519215504
+"40222","Louisville","KY","Lucky's Market","200 N Hurstbourne Pkwy","40222",38.24976715400306,-85.58006195553692
+"40223","Louisville","KY","Kroger","12501 Shelbyville Rd","40243",38.2458498,-85.5214578
+"40223","Louisville","KY","Walmart Supercenter","12981 Shelbyville Rd","40243",38.24681248210347,-85.5128754357669
+"40223","Louisville","KY","Paul's Fruit Market","12119 Shelbyville Rd","40243",38.24821635780725,-85.52896473496237
+"40223","Louisville","KY","Rainbow Blossom - Middletown","12232 Shelbyville Rd.","40243",38.246152678495676,-85.52841474739101
+"40223","Louisville","KY","Gordon Food Service Store","641 S Hurstbourne Pkwy","40222",38.23830519419358,-85.5747055790852
+"40223","Louisville","KY","Supermercado Guanajuato","9901 La Grange Rd","40223",38.2714510364757,-85.56921789523747
+"40223","Louisville","KY","The Marketplace","12910 Shelbyville Rd","40243",38.24111471235389,-85.51566067450965
+"40223","Louisville","KY","Meat & Cheese","not_available","40223",38.272119,-85.509261
+"40228","Louisville","KY","ValuMarket","7519 Outer Loop","40228",38.138906820675814,-85.62031558242596
+"40228","Louisville","KY","Save-A-Lot","5624 Bardstown Road","40291",38.1638298034668,-85.59760284423828
+"40228","Louisville","KY","Save-A-Lot Food Stores","5624 Bardstown Rd","40291",38.1638298034668,-85.59760284423828
+"40229","Louisville","KY","Walmart Supercenter","11901 Standiford Plaza Dr","40229",38.08865442457097,-85.66423852031348
+"40229","Louisville","KY","Kroger Grocery Pickup and Delivery","5001 Mud Ln","40229",38.089170715655946,-85.6706035137176
+"40241","Louisville","KY","Kroger","9501 Westport Rd","40241",38.2880957,-85.5746907
+"40241","Louisville","KY","Rainbow Blossom","3608 Springhurst Blvd","40241",38.299664,-85.56095
+"40241","Louisville","KY","Kroger Wine & Spirit Shoppe","not_available","40241",38.288033,-85.574093
+"40245","Louisville","KY","Crossroads IGA","14010 Shelbyville Rd","40245",38.238265000000006,-85.489216
+"40258","Louisville","KY","Meijer","9905 Dixie Hwy","40272",38.1123273,-85.8613863
+"40258","Louisville","KY","Kroger","7509 Terry Rd","40258",38.14256918674591,-85.87024302813006
+"40258","Louisville","KY","Gordon Food Service Store","7483 Dixie Hwy","40258",38.14194024324193,-85.83921790122986
+"40258","Louisville","KY","Save-A-Lot","8521 Terry Rd","40258",38.129735,-85.873058
+"40272","Louisville","KY","Kroger","10645 Dixie Hwy","40272",38.0986841,-85.8697395
+"40272","Louisville","KY","Walmart Supercenter","10445 Dixie Hwy","40272",38.10288207313046,-85.86665707235443
+"40272","Louisville","KY","Priceless Foods","not_available","40272",38.09507751464844,-85.87714385986328
+"40291","Louisville","KY","Kroger","6900 Bardstown Rd","40291",38.1460995,-85.5875776
+"40291","Louisville","KY","Walmart Supercenter","7101 Cedar Springs Blvd","40291",38.14285354052152,-85.58643534251476
+"40291","Louisville","KY","Crossroads IGA","5502 Billtown Rd","40299",38.164958,-85.56899399999999
+"40299","Louisville","KY","Walmart Neighborhood Market","3800 Ruckriegel Pkwy","40299",38.1894247804596,-85.56434460088818
+"40299","Louisville","KY","Meijer","4500 S Hurstbourne Pkwy","40299",38.1880231,-85.6075537
+"40299","Louisville","KY","Kroger","12611 Taylorsville Rd Ste 102","40299",38.1887648,-85.5187771
+"40311","Carlisle","KY","Save A Lot","210 E Market","40311",38.3106248,-84.0277298
+"40311","Carlisle","KY","Crockett's Shopwise","210 East Market St","40311-1179",38.31072235107422,-84.02777862548828
+"40312","Clay City","KY","Save-A-Lot","576 E College Ave","40380",37.84442096666667,-83.84746931666666
+"40312","Clay City","KY","Super E-Z Superior IGA","5669 Main St","40312",37.86552429199219,-83.94024658203125
+"40312","Clay City","KY","Keoger","not_available","40380",37.845346,-83.862018
+"40313","Clearfield","KY","Save-A-Lot","303 Lee Clay Ave","40351",38.16864133,-83.437813
+"40324","Georgetown","KY","Walmart Supercenter","112 Osbourne Way","40324",38.230429992562044,-84.53848714924567
+"40324","Georgetown","KY","Kroger Marketplace","106 Market Place Cir","40324",38.18634796041574,-84.56835289361959
+"40324","Georgetown","KY","Save-A-Lot","217 N Broadway St","40324",38.21195797995571,-84.559727969324
+"40324","Georgetown","KY","Bradley's Stamping Ground Food","131 Springview Dr","40379",38.270763,-84.682272
+"40324","Georgetown","KY","J&n Grocery","not_available","40511",38.141941,-84.623944
+"40324","Georgetown","KY","Midway Corner Grocery","N Winter St","40347",38.15360622125974,-84.68259025386315
+"40330","Harrodsburg","KY","Walmart Supercenter","591 Joseph Dr","40330",37.74291300103382,-84.8440685259262
+"40330","Harrodsburg","KY","Kroger","842 S. College","40330",37.7467455,-84.842912
+"40330","Harrodsburg","KY","Save-A-Lot","900 S College St","40330",37.74509025225865,-84.84267345452893
+"40336","Irvine","KY","Stop &Shop","Richmond Rd","40336",37.6973139946281,-83.98801220340599
+"40336","Irvine","KY","Save-A-Lot","1290 Richmond Rd","40336",37.70004981089242,-83.99390590320544
+"40336","Irvine","KY","PriceLess Foods","1012 Winchester Rd","40336",37.71243246183854,-83.9762780948721
+"40342","Lawrenceburg","KY","Kroger","1300 Anderson Crossing Dr","40342",38.01707315720803,-84.9101892265935
+"40342","Lawrenceburg","KY","Walmart Supercenter","1000 Bypass N","40342",38.03515117474474,-84.90925465482434
+"40342","Lawrenceburg","KY","Save-A-Lot","506 Humston Dr Hwy 44","40342",38.033967325860274,-84.90603816587398
+"40342","Lawrenceburg","KY","Granny's Produce","US 62","40342",38.02062215838594,-84.91015417396231
+"40342","Lawrenceburg","KY","Primestar","not_available","40342",38.04096936043296,-84.88610313096568
+"40351","Morehead","KY","Walmart Supercenter","200 Walmart Way","40351",38.20135798278958,-83.48189727517146
+"40351","Morehead","KY","Kroger","300 Trademore Center","40351",38.1921043,-83.4848861
+"40351","Morehead","KY","Save A Lot","131 Jessica Ln","41164",38.2975993,-83.1810613
+"40351","Morehead","KY","Caudill's Grocery","4141 Cranston Rd","40351",38.25079345703125,-83.43838500976562
+"40351","Morehead","KY","Save-A-Lot","131 Jessica Lane","41164",38.2976134323631,-83.18055631577938
+"40351","Morehead","KY","Superior Food Center","not_available","41164",38.302685,-83.166804
+"40351","Morehead","KY","Midland Frosty Freeze & Grocery","11295 US Hwy 60 E","40371",38.129985754316216,-83.58373929977643
+"40353","Mount Sterling","KY","Kroger","810 Indian Mound Dr","40353",38.0610132,-83.9535615
+"40353","Mount Sterling","KY","Walmart Supercenter","499 Indian Mound Dr","40353",38.06894887158473,-83.95727595301513
+"40353","Mount Sterling","KY","Save-A-Lot","605 Doe Run Dr","40353",38.072435,-83.918287
+"40353","Mount Sterling","KY","Karl’s Produce","1599 Indian Mound Dr","40353",38.04452229251973,-83.95532317651292
+"40356","Nicholasville","KY","Walmart Supercenter","4051 Nicholasville Rd","40503",37.97926667508155,-84.53121481450141
+"40356","Nicholasville","KY","Kroger","200 E Brannon Rd","40356",37.9543631,-84.5363162
+"40356","Nicholasville","KY","Kroger","3650 Boston Rd","40514",37.9789533,-84.5501012
+"40356","Nicholasville","KY","Meijer","351 W Reynolds Rd","40503",37.996249867513676,-84.53132431620969
+"40356","Nicholasville","KY","Kroger","1060 Chinoe Rd Ste 190","40502",37.9971837,-84.4788669
+"40356","Nicholasville","KY","Walmart Supercenter","1024 N Main St","40356",37.89913804,-84.56199288
+"40356","Nicholasville","KY","Whole Foods Market","4059 Finn Way","40517",37.97758709321804,-84.52852628908434
+"40356","Nicholasville","KY","Kroger","4750 Hartland Pkwy","40515",37.9621084,-84.4796915
+"40356","Nicholasville","KY","Kroger","4101 Tates Creek Centre Dr","40517",37.97080653681721,-84.49852266752407
+"40356","Nicholasville","KY","The Fresh Market","3387 Tates Creek Rd,","40502",37.994524971099025,-84.49597361442049
+"40356","Nicholasville","KY","Kroger","170 Bellerive Blvd","40356",37.9843284,-84.5893432
+"40356","Nicholasville","KY","Kroger","995 S Main St","40356",37.8657401,-84.5809417
+"40356","Nicholasville","KY","Walmart Neighborhood Market","4230 Saron Dr","40515",37.96689377708651,-84.50112984294336
+"40356","Nicholasville","KY","ALDI","126 Rojay Dr","40503",37.985041555103926,-84.52849477529526
+"40356","Nicholasville","KY","kroger","not_available","40513",37.996360778808594,-84.58447265625
+"40356","Nicholasville","KY","Fresh Thyme Farmers Market","125 East Reynolds Rd. 110","40517",37.991363,-84.522208
+"40356","Nicholasville","KY","Sagar Indian Market","3330 Partner Pl","40503",37.99521334277435,-84.54569202407063
+"40356","Nicholasville","KY","Save-A-Lot","701 Edgewood Dr","40356",37.87321,-84.59827
+"40356","Nicholasville","KY","Ward's Kentucky Specialties","2333 Woodfield Cir","40515",37.961434,-84.468892
+"40356","Nicholasville","KY","Meijer","351 Meijer Way","40503",37.995751,-84.5315503
+"40356","Nicholasville","KY","Fitch's IGA","102 E Main St","40390",37.860137939453125,-84.66230010986328
+"40356","Nicholasville","KY","Foodland Market","580 Eureka Springs Dr","40517",37.996572,-84.456848
+"40359","Owenton","KY","Save-A-Lot","805 Hwy 22 E","40359",38.53354645,-84.83532715
+"40359","Owenton","KY","Jonesville Grocery","not_available","40359",38.62323517669078,-84.71358851107911
+"40359","Owenton","KY","Save A Lot","805 Highway 22 E","40359",38.5269208,-84.8275062
+"40359","Owenton","KY","Meadow View Shopwise","1070 U.S. 127","40359",38.550079345703125,-84.84175872802734
+"40360","Owingsville","KY","Save-A-Lot","78 Creekside Dr.","40360",38.125267,-83.74736
+"40360","Owingsville","KY","Wander In","Blevin's Valley Rd.","40360",38.09127616265927,-83.74926203365136
+"40360","Owingsville","KY","Save-A-Lot","78 Creekside Dr","40360",38.14480209,-83.76408386
+"40360","Owingsville","KY","Blevins Grocery","6825 Preston Rd","40360",38.0881819,-83.7514117
+"40361","Paris","KY","Ken's New Market","1978 Main St","40361",38.193896600868186,-84.27920597197758
+"40361","Paris","KY","Walmart Supercenter","305 Letton Dr","40361",38.193897519354245,-84.27913929251719
+"40361","Paris","KY","Hunt Advantage Group, LLC","110 Cleveland Dr","40361",38.21649,-84.284557
+"40361","Paris","KY","Peg's Pantry","241 Bethlehem Rd","40361",38.1906018,-84.2753795
+"40361","Paris","KY","Save-A-Lot","2236 Martin Luther King Jr Blvd","40361",38.20688247680664,-84.27308654785156
+"40383","Versailles","KY","Save-A-Lot","480 Lexington Rd","40383",38.049503,-84.716767
+"40383","Versailles","KY","Kroger","212 Kroger Way","40383",38.0527355,-84.7118667
+"40391","Winchester","KY","Walmart Supercenter","1859 Bypass Rd","40391",37.987765428365776,-84.21091673181112
+"40391","Winchester","KY","Kroger","1661 Bypass Rd Hwy 1958","40391",37.994237055404824,-84.21779572963715
+"40391","Winchester","KY","Save-A-Lot","755 Ecton Rd","40391",38.00274656174053,-84.1514025372151
+"40391","Winchester","KY","South Main Grocery","not_available","40391",37.984256164781264,-84.18151722135083
+"40391","Winchester","KY","Country Boy Market","109 Ecton Rd","40391",37.998131,-84.161256
+"40391","Winchester","KY","IGA","123 Main St","40391",37.99609128868691,-84.17532187076237
+"40403","Berea","KY","Walmart Supercenter","120 Jill Dr","40403",37.56555138241842,-84.31253598115781
+"40403","Berea","KY","Save-A-Lot","403 Richmond Rd N","40403",37.589168251060784,-84.2852773476035
+"40403","Berea","KY","BJ's Grocery","not_available","40403",37.47277922641583,-84.33465640309491
+"40403","Berea","KY","Save-A-Lot","120 Garrard Square","40921",37.53119659,-84.34394836
+"40409","Brodhead","KY","Save-A-Lot","910 W Main St","40456",37.356788635253906,-84.35040283203125
+"40422","Danville","KY","Walmart Supercenter","100 Walton Ave","40422",37.614904861726984,-84.77206154355055
+"40422","Danville","KY","Save-A-Lot","1085 E Lexington Rd","40422",37.65610126446818,-84.75206744269495
+"40422","Danville","KY","ALDI","909 Hustonville Rd","40422",37.63038899075656,-84.7761652656709
+"40422","Danville","KY","Kroger Grocery Pickup and Delivery","200 Skywatch Dr","40422",37.61762237548828,-84.78350067138672
+"40422","Danville","KY","Save A Lot","1085 E Lexington Ave","40422",37.6573833,-84.7498643
+"40422","Danville","KY","Food Lion Stanford","29 Frontier Blvd","40484",37.54802322387695,-84.6744384765625
+"40444","Lancaster","KY","Walmart Grocery Pickup","1283 US Highway 27 N","40484",37.5490856,-84.6484029
+"40444","Lancaster","KY","Save-A-Lot","140 Pleasant Retreat Dr","40444",37.6020395,-84.5908007
+"40444","Lancaster","KY","Walmart Supercenter","1283 Us Highway 27 N","40484",37.54877108009888,-84.6479353862114
+"40447","Mc Kee","KY","Save-A-Lot","Highway 421 South","40447",37.43236177037131,-83.98146112285694
+"40447","Mc Kee","KY","Save-A-Lot","258 US-421","40447",37.45133591,-84.01898193
+"40447","Mc Kee","KY","McKee IGA","not_available","40447",37.430465,-83.989441
+"40456","Mount Vernon","KY","IGA","181 Crab Orchard Rd","40456",37.35227760164466,-84.34556363751027
+"40475","Richmond","KY","Meijer","2013 Lantern Ridge Dr","40475",37.737514,-84.3325222
+"40475","Richmond","KY","Kroger","890 Richmond Plz","40475",37.7311752,-84.2745044
+"40475","Richmond","KY","Walmart Supercenter","820 Eastern Byp","40475",37.729049645432085,-84.28351752136291
+"40475","Richmond","KY","Meijer Pharmacy","2013 Lantern Ridge Dr.","40475",37.736286,-84.331808
+"40475","Richmond","KY","Save-A-Lot","5042 Atwood Dr","40475",37.75629719989869,-84.26981294771323
+"40475","Richmond","KY","ALDI","798 Eastern Bypass","40475",37.730386008214836,-84.28717106580729
+"40475","Richmond","KY","Super Save Food Stores","128 S Keeneland Dr","40475",37.77439880371094,-84.32080078125
+"40484","Stanford","KY","Save-A-Lot","100 Lacey St","40484",37.53090286254883,-84.65113830566406
+"40502","Lexington","KY","Kroger","704 Euclid Ave","40502",38.0307927,-84.4929157
+"40502","Lexington","KY","Tylor's Asian Market","not_available","40509",38.018804,-84.455069
+"40502","Lexington","KY","Kroger","344 Romany Rd","40502",38.01921265097961,-84.48661302279469
+"40502","Lexington","KY","Wilson's Grocery & Meat","1010 Cramer Ave","40502",38.035065,-84.477248
+"40502","Lexington","KY","Rahul Food & Spices","505 Euclid Ave","40502",38.034068215302,-84.49551440921715
+"40502","Lexington","KY","Aplus Mart","Elizabeth Street","40503",38.02647,-84.514318
+"40502","Lexington","KY","Parisa International Market","2626 Richmond Rd","40509",38.009458,-84.45716800000001
+"40503","Lexington","KY","Kroger Marketplace","3175 Beaumont Centre Cir","40513",38.0228231,-84.5592708
+"40503","Lexington","KY","Trader Joe's","2326 Nicholasville Rd","40503",38.004913398711466,-84.51833374219842
+"40503","Lexington","KY","Kroger","150 W Lowry Ln Ste 190","40503",38.0065110496811,-84.52176423451488
+"40503","Lexington","KY","Good Foods Market & Cafe","455 Southland Dr","40503",38.02013872241084,-84.5274923649299
+"40503","Lexington","KY","Yu Yu Asian Supermarket","393 Waller Ave","40504",38.03112342789518,-84.51993443413855
+"40503","Lexington","KY","Food5","not_available","40503",38.017437,-84.52374
+"40503","Lexington","KY","Sahara International Market Traditional Butcher Shop","1250 Fieldstone Way","not_available",38.014189,-84.557154
+"40503","Lexington","KY","Dong Yang Market (DY Market) Asian Grocery and Seki Restaurant","3101 Clays Mill Rd Ste 102","40503",38.002549,-84.545643
+"40503","Lexington","KY","Hops 2 Go","211 Rosemont Gdn","40503",38.01954,-84.5216
+"40503","Lexington","KY","Super Mercado Aguascalientes","2220 Nicholasville Rd #156","40503",38.007273701412714,-84.51699879156011
+"40503","Lexington","KY","Oriental Supermarket","2220 Nicholasville Rd #118","40503",38.0070207,-84.5164023
+"40503","Lexington","KY","Slones Market","Southland Dr","40503",38.01344241949674,-84.52837944030762
+"40504","Lexington","KY","Kroger","1600 Leestown Rd","40511",38.0653291,-84.5271654
+"40504","Lexington","KY","Kroger","1808 Alexandria Dr","40504",38.0376728,-84.5505355
+"40504","Lexington","KY","Save-A-Lot","2189 Versailles Rd","40504",38.04759198116957,-84.54831183026023
+"40504","Lexington","KY","Foodland Market","1416 Versailles Rd","40504",38.04925146219813,-84.52761770424124
+"40504","Lexington","KY","Selby's International Food Market","1995 Harrodsburg Rd","40503",38.02709,-84.534696
+"40504","Lexington","KY","Save-A-Lot","398 Southland Dr","40503",38.0177237447263,-84.52672491063339
+"40504","Lexington","KY","Allens Food Mart","1918 Oxford Cir","40504",38.04957962036133,-84.54183197021484
+"40505","Lexington","KY","Walmart Supercenter","500 W New Circle Rd","40511",38.07059545,-84.48035717
+"40505","Lexington","KY","Walmart Supercenter","2350 Grey Lag Way Road","40509",38.037536452116996,-84.42227272171777
+"40505","Lexington","KY","ALDI","1509 Colesbury Cir","40511",38.073870193132706,-84.48316276073456
+"40505","Lexington","KY","Kroger","1650 Bryan Station Rd","40505",38.0584168,-84.4616928
+"40505","Lexington","KY","Roberts Health Foods","1020 Industry Rd Ste 10","40505",38.043400672247465,-84.45996683584298
+"40505","Lexington","KY","Seoul Supermarket","1085 E New Circle Rd","40505",38.03509521484375,-84.45323944091797
+"40505","Lexington","KY","Super Mercado Aguascalientes 2","459 W New Circle Rd","40511",38.072484,-84.47764000000001
+"40505","Lexington","KY","supermercado las norteñas","158 New Circle Rd","40505",38.063438,-84.469358
+"40505","Lexington","KY","Save A Lot","1301 Winchester Rd Ste 99","40505",38.0449931,-84.4593107
+"40505","Lexington","KY","F & D Grocery","573 Elm Tree Ln","40508",38.050818,-84.48316
+"40505","Lexington","KY","Kroger","1620 Old Paris Rd","40505",38.065401,-84.468227
+"40505","Lexington","KY","Papania's","115 Zesta Pl","40505",38.043029,-84.475261
+"40505","Lexington","KY","Save-A-Lot","1301 Winchester Rd Suite 99","40505",38.044596000000006,-84.458999
+"40505","Lexington","KY","Save-A-Lot","1235 N Broadway","40505",38.06413650512695,-84.47999572753906
+"40508","Lexington","KY","SAMIL Market","760 Florence Ave","40508",38.067551,-84.506883
+"40508","Lexington","KY","ALDI","North Lexington","40511",38.0728,-84.5175
+"40509","Lexington","KY","Meijer","2155 Paul Jones Way","40509",38.018763319508366,-84.42224442958832
+"40509","Lexington","KY","Kroger","3101 Richmond Rd","40509",38.0038708,-84.4443771
+"40510","Lexington","KY","Crossroads IGA","2656 Abigail Way","40511",38.08226,-84.54671
+"40511","Lexington","KY","Crossroads IGA","1803 Georgetown Rd","40511",38.08697,-84.51200899999999
+"40513","Lexington","KY","Walmart Neighborhood Market","3735 Palomar Centre Dr","40513",38.00449164707402,-84.5719904220921
+"40515","Lexington","KY","King Tut International Groceries","101 Moore Drive","40503",38.000451,-84.524302
+"40517","Lexington","KY","Darshan Namaste","103 Regency rd","40503",38.002111,-84.524091
+"40601","Frankfort","KY","Kroger","300 Brighton Park Blvd","40601",38.1988037,-84.8268451
+"40601","Frankfort","KY","Kroger","1309 Us 127 S, Suite H","40601",38.16539,-84.895668
+"40601","Frankfort","KY","Walmart Supercenter","301 Leonardwood Rd","40601",38.16071287262236,-84.89842919416903
+"40601","Frankfort","KY","ALDI","1300 US-127, # 107","40601",38.16648131192361,-84.90040369813792
+"40601","Frankfort","KY","Save-A-Lot","113 Eastwood Shopping Ctr","40601",38.20164108276367,-84.83029174804688
+"40601","Frankfort","KY","Kroger Grocery Pickup and Delivery","1309 US 127 S, Suite H","40601",38.16533696060842,-84.89539213529243
+"40601","Frankfort","KY","Save-A-Lot","833 Louisville Rd","40601",38.184120178222656,-84.88655090332031
+"40701","Corbin","KY","Walmart Supercenter","60 S Stewart Rd","40701",36.972378927818994,-84.10258949286622
+"40701","Corbin","KY","Kroger","1019 Cumberland Falls Hwy","40701",36.9282272,-84.10512
+"40701","Corbin","KY","Kroger","14889 N US Highway 25 E","40701",36.95942152251464,-84.07474585535333
+"40701","Corbin","KY","Aldi's","24 S Highway 1223","40701",36.97021,-84.09071
+"40701","Corbin","KY","Save A Lot","1100 E Cumberland Gap Pkwy","40701",36.9695794,-84.0874093
+"40701","Corbin","KY","Save-A-Lot","1520 Cumberland Falls","40701",36.925163,-84.112718
+"40701","Corbin","KY","Save-A-Lot","14659 N US Highway 25 E","40701",36.957611083984375,-84.071533203125
+"40701","Corbin","KY","Keavy Grocery","not_available","40701",37.00320578329707,-84.16113658607047
+"40701","Corbin","KY","Shopping Cart","785-817 E State Highway 552","40740",37.034502366666665,-84.07549888333334
+"40734","Gray","KY","Williams Stop & Go Market","North Main Street","40906",36.87149738930552,-83.89138479381043
+"40734","Gray","KY","Mitchell's Market","80 Mitchell Foods Ln","40906",36.905025482177734,-83.88801574707031
+"40741","London","KY","Kroger","1732 Highway 192 W","40741",37.10717301882292,-84.09000765284442
+"40741","London","KY","Walmart Supercenter","1851 Highway 192 W","40741",37.113548410926214,-84.09191338931234
+"40741","London","KY","Kroger","1805 N Main St","40741",37.138743,-84.1001597
+"40741","London","KY","Save-A-Lot","825 S Laurel Rd","40744",37.09556020044873,-84.06693124587675
+"40741","London","KY","E.C. Porters IGA","not_available","40741",37.13050079345703,-84.07331085205078
+"40741","London","KY","Creekside Pantry","850 E Laurel Rd","40741",37.117917,-84.038282
+"40769","Williamsburg","KY","Walmart Supercenter","589 W Highway 92","40769",36.72082669,-84.17119503
+"40769","Williamsburg","KY","IGA","25 N Highway 25 W","40769",36.743996878899445,-84.1563301347826
+"40769","Williamsburg","KY","Save-A-Lot","1645 South Hwy 25 W","40769",36.74341583,-84.15965271
+"40769","Williamsburg","KY","Save-A-Lot","12075 S Highway 25 W","40769",36.59249256609512,-84.12655234336853
+"40769","Williamsburg","KY","Save-A-Lot","1645 S Highway 25 W","40769",36.722945840860234,-84.16323317032109
+"40806","Baxter","KY","Save-A-Lot","158 E Main St","40828",36.86271667,-83.18401337
+"40806","Baxter","KY","Save-A-Lot","Hwy 38","40828",36.86509,-83.1935
+"40810","Bledsoe","KY","Save-A-Lot","93 Industrial Park Rd","40831",36.836788177490234,-83.32620239257812
+"40813","Calvin","KY","Save-A-Lot","622 Hwy 119","40977",36.78293228,-83.56507111
+"40823","Cumberland","KY","Food City","1314 E Main St","40823",36.97549057006836,-82.98389434814453
+"40829","Grays Knob","KY","Don's Super Saver","200 Waldon Dr","40831",36.819740295410156,-83.31732940673828
+"40829","Grays Knob","KY","Big Lots","116 Village Center Rd","40831",36.8160249124561,-83.31666981562836
+"40829","Grays Knob","KY","Walmart","201 Walton Road","40831",36.81800365125742,-83.31807527950681
+"40831","Harlan","KY","Food City","2478 S US Highway 421","40831",36.82514953613281,-83.32213592529297
+"40831","Harlan","KY","Super Dollar","not_available","24281",36.668754726387064,-83.37464790997436
+"40831","Harlan","KY","Food city","not_available","40831",36.78533,-83.333023
+"40845","Hulen","KY","Save-A-Lot","Us Hwy 119 & Harlan Road","40977",36.804096,-83.517574
+"40906","Barbourville","KY","Save-A-Lot","Hwy 25E Box 449","40906",36.857724011329786,-83.87234108334613
+"40906","Barbourville","KY","IGA","193 Parkway Plz","40906",36.859275817871094,-83.87068939208984
+"40906","Barbourville","KY","Walmart","301 Parkway Plz","40906",36.85832983917797,-83.86886499055596
+"40906","Barbourville","KY","Super Dollar Discount Foods","120 Union Street","40906",36.869857152366436,-83.88116973824802
+"40906","Barbourville","KY","Save-A-Lot","786 Hwy 25 E","40906",36.8687706,-83.84286499
+"40941","Garrard","KY","Save-A-Lot","Hwy 421","40962",37.119232375856996,-83.74167400384432
+"40962","Manchester","KY","Walmart","240 Manchester Square Shpg Ctr","40962",37.140602111816406,-83.7728500366211
+"40962","Manchester","KY","Save-A-Lot","4833 N Hwy 421","40932",37.16090012,-83.76628113
+"40962","Manchester","KY","Save-A-Lot","Highway 421  N. Richmond Rd.","40962",37.1515,-83.76269
+"40965","Middlesboro","KY","Walmart Supercenter","Us Hwy 441 Hwy 25e","40965",36.62205891489733,-83.70723394713826
+"40965","Middlesboro","KY","Save-A-Lot","415 Dansbury Ave","40965",36.61404037475586,-83.7107162475586
+"40965","Middlesboro","KY","Kroger","515 N 12th St","40965",36.614281097503685,-83.70408833026886
+"40965","Middlesboro","KY","Food City","102 N 12th St","40965",36.60911560058594,-83.70051574707031
+"40965","Middlesboro","KY","Walmart Grocery Pickup","Us Hwy 441 Hwy 25E","40965",36.622193,-83.707732
+"40977","Pineville","KY","long's pic pac","not_available","40977",36.76197052001953,-83.6946792602539
+"41001","Alexandria","KY","Walmart Supercenter","6711 Alexandria Pike","41001",38.98770617,-84.40141257
+"41001","Alexandria","KY","Meijer","5400 Alexandria Pike","41076",38.99725697237432,-84.42165166139608
+"41001","Alexandria","KY","Alexandria County Market","7109 Alexandria Pike","41001",38.98431375683797,-84.39919265248815
+"41002","Augusta","KY","Lee's IGA","117 Miami Strret","41004",38.682200223713544,-84.06386644329224
+"41005","Burlington","KY","Kroger Marketplace","not_available","41091",38.962179379045246,-84.67640337168109
+"41005","Burlington","KY","Kroger Marketplace","3105 N Bend Rd","41048",39.0644696,-84.7067384
+"41005","Burlington","KY","Kroger","880 W Eads Pkwy","47025",39.0847732,-84.8778659
+"41005","Burlington","KY","Kroger","1751 Patrick Dr","41005",39.0179825,-84.692437
+"41005","Burlington","KY","Kroger Liquor Store","8825 US 42","not_available",38.96516332306637,-84.67497570051329
+"41005","Burlington","KY","Ameristop","not_available","41005",39.021431,-84.7012405
+"41005","Burlington","KY","Kroger Marketplace","2921 W Alex Bell Road","not_available",38.999395517320444,-84.69148349788156
+"41005","Burlington","KY","IGA Supersaver","not_available","47025",39.09567,-84.864668
+"41005","Burlington","KY","Village Market","Oak Brook Drive","41042",38.990480076247124,-84.68927812364615
+"41005","Burlington","KY","Kroger Marketplace","9001 US Highway 42","41091",38.962357909633525,-84.67630248213959
+"41005","Burlington","KY","Kroger Grocery Pickup and Delivery","8825 US Highway 42","41091",38.96635437011719,-84.67298126220703
+"41005","Burlington","KY","Tandy's IGA Foodliner","524 N High St","47040",38.95564270019531,-84.85023498535156
+"41007","California","KY","Rivertown IGA","1041 Old US Highway 52","45157",38.968769072452695,-84.28690213820968
+"41008","Carrollton","KY","Kroger","2549 US Highway 227","41008",38.6572438,-85.131629
+"41008","Carrollton","KY","Save-A-Lot","1905 Hwy 227","41008",38.664188385009766,-85.14065551757812
+"41008","Carrollton","KY","Walmart Supercenter","200 Floyd Dr","41008",38.658152427996434,-85.12907771217918
+"41008","Carrollton","KY","Save-A-Lot","1905 US Highway 227","41008",38.66367721557617,-85.13874053955078
+"41011","Covington","KY","Kroger","2150 Dixie Hwy","41017",39.0489073,-84.5531038
+"41011","Covington","KY","Kroger","1525 Madison Ave","41011",39.0729639,-84.5082376
+"41011","Covington","KY","Riverside Market","200-298 Kentucky 8","41016",39.094904568936904,-84.5458848255894
+"41011","Covington","KY","Kroger","4303 Winston Ave","41015",39.041545,-84.5091531
+"41011","Covington","KY","Supervalu Discount Foods","Madison Ave","not_available",39.071266651153564,-84.50665039
+"41011","Covington","KY","Main Mart Grocery","501-511 Patton St","41014",39.072765000000004,-84.498357
+"41011","Covington","KY","Bill Finke & Sons Market","1502 Amsterdam Rd","41011",39.0687079626139,-84.54017609902397
+"41011","Covington","KY","Taste On Elm","not_available","41016",39.093964,-84.547682
+"41011","Covington","KY","Kroger Clicklist","not_available","41017",39.048064,-84.553149
+"41011","Covington","KY","Family Grocery","937-953 Western Ave","41011",39.076861248827676,-84.52441277838778
+"41011","Covington","KY","Loschiavo's Produce & Deli","1518 Dixie Hwy","41011",39.06743,-84.529947
+"41011","Covington","KY","Young's Corner Market","2120 Eastern Ave","41014",39.066010999999996,-84.49846099999999
+"41011","Covington","KY","Save-A-Lot","1616 Madison Ave","41011",39.07124710083008,-84.50601959228516
+"41011","Covington","KY","Kimmy's Korner Grocery","837 Main St","41011",39.08024,-84.51775
+"41015","Latonia","KY","Kroger","70 Martha Layne Collins Blvd","41076",39.0259425,-84.4536223
+"41015","Latonia","KY","Remke Bigg's","5016 Old Taylor Mill Rd","41015",39.01707526545337,-84.50715793761752
+"41015","Latonia","KY","Ameristop","Licking Pike","not_available",39.056129937254475,-84.48613984116787
+"41015","Latonia","KY","county market","not_available","41076",39.015377044677734,-84.44335174560547
+"41015","Latonia","KY","The Grocery Bag","5583 Taylor Mill Rd","41015",38.995325,-84.498512
+"41017","Ft Mitchell","KY","Walmart Supercenter","3450 Valley Plaza Pkwy","41017",39.035431812870804,-84.53588237736442
+"41017","Ft Mitchell","KY","Kroger","3158 Dixie Hwy","41018",39.021575868758546,-84.59392412566558
+"41017","Ft Mitchell","KY","Remke Bigg's","3960 Turkeyfoot Rd","41018",38.97638405645225,-84.59361561255844
+"41017","Ft Mitchell","KY","Save A Lot","not_available","41051",38.966248060891395,-84.59497750925006
+"41017","Ft Mitchell","KY","ALDI","122-146 Cave Run Dr","41042",39.0089738258107,-84.61249409415711
+"41017","Ft Mitchell","KY","International Grocery Market Halal","7639 Dixie Highway","41042",38.99122879999999,-84.6228234
+"41017","Ft Mitchell","KY","Blue Grass Quality Meats","2648 Crescent Springs Pike","41017",39.047299,-84.584668
+"41017","Ft Mitchell","KY","Produce Patch At Lifeline Ministries","not_available","41042",39.00433582,-84.62075246
+"41017","Ft Mitchell","KY","ChoreAssist","7908 Tanners Gate Ln","41042",39.00539,-84.61752
+"41018","Erlanger","KY","Meijer","4990 Houston Rd","41042",39.0114648,-84.640477
+"41018","Erlanger","KY","Remke Markets","6920 Burlington Pike","41042",39.0104216392415,-84.63067122838619
+"41018","Erlanger","KY","Remke bigg's Corporate Office","1299 Cox Ave","41018",39.039908397643664,-84.63197372755928
+"41018","Erlanger","KY","Healthy Alternative","7448-7634 Burlington Pike","41042",39.001255,-84.640297
+"41018","Erlanger","KY","Schwans","7605 Empire Dr","41042",38.975189208984375,-84.63360595703125
+"41018","Erlanger","KY","Bigg's","Biggs drive","41048",39.01953512545655,-84.62773626033912
+"41031","Cynthiana","KY","Walmart Supercenter","805 Us Highway 27 S","41031",38.378436794079064,-84.30620670318604
+"41031","Cynthiana","KY","Save-A-Lot","304 Church St","41031",38.38128095412834,-84.30885056752265
+"41031","Cynthiana","KY","Ruler Foods","111 Riverside Dr Ste 1","41031",38.37775329222053,-84.3081620897284
+"41031","Cynthiana","KY","Ken's New Market","304 S Church St","41031",38.386790999999995,-84.293591
+"41031","Cynthiana","KY","Food Lion","111 Riverside Dr","41031",38.377830505371094,-84.3082504272461
+"41035","Dry Ridge","KY","Walmart Supercenter","20 Ferguson Blvd","41035",38.679190188918824,-84.59727723829299
+"41035","Dry Ridge","KY","Ruler Foods","1418 N Main St","41097",38.6627402,-84.5753326
+"41035","Dry Ridge","KY","Save-A-Lot","20 Taft Ave","41035",38.683873401385945,-84.60636951656953
+"41035","Dry Ridge","KY","Save A Lot","20 Taft Hwy","41035",38.684256,-84.607043
+"41041","Flemingsburg","KY","Save-A-Lot","201 Main Cross","41041",38.421784979502824,-83.73474905240687
+"41041","Flemingsburg","KY","Save A Lot","201 S Main Cross St","41041",38.4210171,-83.7345484
+"41042","Florence","KY","Kroger Marketplace","7685 Mall Rd","41042",38.99704534729807,-84.65593199124626
+"41042","Florence","KY","Walmart Supercenter","7625 Doering Dr","41042",39.011043279546094,-84.65047957587316
+"41042","Florence","KY","Kroger","9950 Berberich Dr","41042",38.9579404703325,-84.62463855743403
+"41042","Florence","KY","ALDI","5475 Houston Rd","41042",39.0123733,-84.6444855
+"41042","Florence","KY","Sakura","8640 Haines Dr Ste C","41042",38.97276436313013,-84.66440971468676
+"41045","Ghent","KY","Supervalu","705 E Main St","47043",38.7524299621582,-85.05774688720703
+"41046","Glencoe","KY","Cowboy Food Store","3040 US Highway 127 N","41046",38.740238189697266,-84.8322982788086
+"41048","Hebron","KY","Kroger","6165 Glenway Ave","45211",39.1424283,-84.6228226
+"41051","Independence","KY","Kroger","1700 Declaration Drive","41051",38.9286016,-84.5482868
+"41051","Independence","KY","ALDI","2000 Harris Pike","41051",38.9284628,-84.5442883
+"41051","Independence","KY","Kroger Grocery Pickup and Delivery","1700 Declaration Dr","41051",38.92860164050637,-84.54828682606609
+"41056","Maysville","KY","Walmart Supercenter","240 Wal Mart Way","41056",38.6213047661808,-83.7872374481865
+"41056","Maysville","KY","Kroger","381 Market Square Dr","41056",38.625825,-83.791509
+"41056","Maysville","KY","Pit Stop","US 68","41056",38.64194895316699,-83.77804453638336
+"41056","Maysville","KY","Save-A-Lot","930 Tucker Dr","41056",38.626369,-83.798959
+"41056","Maysville","KY","jubalee","not_available","41056",38.620841,-83.78428
+"41056","Maysville","KY","IGA","1201-1227 Forest Ave","41056",38.6402451668013,-83.74066772927141
+"41056","Maysville","KY","Indomaret Kalijaga","Jl. Ciremai Raya","45144",38.7114171,-83.6561215
+"41059","Melbourne","KY","Kroger","375 Cross Roads Blvd","41076",39.0063007,-84.4206088
+"41071","Newport","KY","Kroger Marketplace","130 Pavilion Pkwy","41071",39.0901373,-84.4785379
+"41071","Newport","KY","Fresh Thyme Farmers Market","82 Carothers Rd","41071",39.0852967,-84.478505
+"41071","Newport","KY","Kroger","53 Donnermeyer Dr","41073",39.0991563,-84.481852
+"41071","Newport","KY","ALDI","Carothers","41071",39.085156758510635,-84.4844358294695
+"41071","Newport","KY","Save-A-Lot","15 Donnermeyer Dr","41073",39.099007,-84.484089
+"41071","Newport","KY","La Mexicana","642 Monmouth St","41071",39.09058765733154,-84.49261274083
+"41071","Newport","KY","Central Carryout","700-798 Central","41071",39.088234305381775,-84.49662208557129
+"41071","Newport","KY","11th Street Grocery","11th St","41071",39.082498,-84.493626
+"41073","Bellevue","KY","Riverside Marketplace","118 6th Ave","41074",39.10917761648273,-84.47920443324976
+"41075","Fort Thomas","KY","Mother Earth Food Market","S Ft Thomas Ave","41075",39.064102399999996,-84.44696075
+"41080","Petersburg","KY","Walmart Supercenter","100 Sycamore Estates Dr","47001",39.080004910815276,-84.88932200787845
+"41080","Petersburg","KY","ALDI","938 Green Blvd","47001",39.07701717803261,-84.89519954232782
+"41080","Petersburg","KY","Family Dollar","1162 Decatur St, Aurora, IN 47001","47001",39.047874450683594,-84.89398193359375
+"41092","Verona","KY","clicklist pickup","not_available","41094",38.856655,-84.61743
+"41094","Walton","KY","Kroger","635 Chestnut Dr","41094",38.856097,-84.6165569
+"41094","Walton","KY","stop shop and go","10356 U.S. 25, Florence, KY 41042","41042",38.9488990422509,-84.62688276439704
+"41095","Warsaw","KY","Warsaw Hometown IGA","201 Roberta Dr","41095",38.78692626953125,-84.8916244506836
+"41097","Williamstown","KY","Bruces Grocery","not_available","41097",38.575629,-84.585897
+"41101","Ashland","KY","Kroger","370 Diederich Blvd","41101",38.5014878,-82.681553
+"41101","Ashland","KY","Kroger","711 Martin Luther King Jr Blvd","41101",38.477668683596654,-82.64971938094345
+"41101","Ashland","KY","Foodfair Of Ashland","2912 Blackburn Ave","41101",38.456093820287,-82.64626683353933
+"41101","Ashland","KY","Walmart Supercenter","351 River Hill Dr","41101",38.485439400233744,-82.65840539686295
+"41101","Ashland","KY","Jack's Cardinal Market","not_available","41101",38.46047486270948,-82.64059748114441
+"41101","Ashland","KY","ALDI","130 Russell Rd","41101",38.493941108276594,-82.6688414812088
+"41101","Ashland","KY","ALDI","Rt. 23","not_available",38.44171630118995,-82.63247791289012
+"41101","Ashland","KY","Food Fair","462-498 Marion Pike","45638",38.50140178465768,-82.64510419784517
+"41101","Ashland","KY","Save-A-Lot","5800 Us Hwy 60","41102",38.43737105550515,-82.68492998712024
+"41101","Ashland","KY","Save-A-Lot","5850 US Route 60 Summit Plaza","41102",38.43764496,-82.68627167
+"41101","Ashland","KY","Elena's Manila Asian Market","1562 Diederich Blvd","41169",38.507808685302734,-82.70658111572266
+"41101","Ashland","KY","Bartram & Son Supermarket","not_available","45638",38.517843528347456,-82.66631624731447
+"41101","Ashland","KY","Save A Lot","5850 US Route 60","41102",38.437147,-82.6852515
+"41102","Ashland","KY","Walmart Supercenter","12504 U.s. Route 60","41102",38.38857147061909,-82.71156093519369
+"41124","Blaine","KY","Ferguson's B&C Market","17727 Hwy 32","41124",38.0276985168457,-82.84265899658203
+"41129","Catlettsburg","KY","Save-A-Lot","1400 Chestnut St","25530",38.39937390496664,-82.57862182884266
+"41129","Catlettsburg","KY","The Food Basket","not_available","45680",38.417564,-82.586109
+"41139","Flatwoods","KY","Foodfair","not_available","41139",38.52048310464575,-82.72158991317396
+"41139","Flatwoods","KY","Food Fair","2135 Argillite Rd","41139",38.52002716064453,-82.72169494628906
+"41141","Garrison","KY","Collins Country Market","9122 E KY 8","41141",38.60344314575195,-83.17514038085938
+"41143","Grayson","KY","Save-A-Lot","584 State Route 1947","41143",38.33258057,-82.94850159
+"41143","Grayson","KY","Ralph’s Foodfair","630 N Carol Malone Blvd","41143",38.339316,-82.94214699999999
+"41143","Grayson","KY","Justice JGA","111 Carol Malone Blvd","41143",38.340777330086155,-82.93964964638785
+"41143","Grayson","KY","Save-A-Lot","1947 State Hwy 1947","41143",38.34492111206055,-82.94940948486328
+"41164","Olive Hill","KY","Rayburn's Diner & Grocery","KY 59 S","41179",38.45873047745575,-83.27468404895626
+"41169","Russell","KY","Save-A-Lot","400 N 2nd St","45638",38.53729270022448,-82.68876738022573
+"41169","Russell","KY","Pick'n Save Foods","1113 Ironton Hills Dr","45638",38.531838495605996,-82.68418601152851
+"41171","Sandy Hook","KY","Save-A-Lot","1930 N KY-7","41171",38.109935760498,-83.1148681640625
+"41171","Sandy Hook","KY","Gilliams IGA","not_available","41171",38.0909579758863,-83.12534630357163
+"41174","South Portsmouth","KY","Jenny's Mart","not_available","41174",38.7187385559082,-83.01974656666667
+"41174","South Portsmouth","KY","Foodland","65 KZ Rathliff Ln","41175",38.72045834633362,-82.96035567328092
+"41175","South Shore","KY","Kroger","811 Gay St","45662",38.7363189,-82.995266
+"41175","South Shore","KY","Walmart Supercenter","4490 Gallia St","45662",38.75299128530277,-82.92508592785074
+"41175","South Shore","KY","Save-A-Lot","2507 Gallia St","45662",38.74031023702693,-82.96643257141113
+"41175","South Shore","KY","ALDI","2339 Gallia St","45662",38.74048178878201,-82.96935081481934
+"41175","South Shore","KY","Blackburn's","3520 Rhodes Ave","45662",38.74625658552238,-82.94459174266336
+"41175","South Shore","KY","Earth Candy Farmacy","722 6th street","45662",38.7346,-82.9977
+"41179","Vanceburg","KY","Save-A-Lot","50 Market Dr","41179",38.59924316,-83.31879425
+"41179","Vanceburg","KY","Ross's Groceru","4th Street","45144",38.68828607,-83.61215626
+"41179","Vanceburg","KY","Ron's IGA","47 Second St","41179",38.60167694091797,-83.31683349609375
+"41179","Vanceburg","KY","Zornes' Stop & Shop","162 KY 377","41179",38.482818603515625,-83.37682342529297
+"41179","Vanceburg","KY","Thomas Grocery","1602 Burtonville Rd","41189",38.51182174682617,-83.59313201904297
+"41179","Vanceburg","KY","Foodland","not_available","41179",38.59953506901632,-83.33528225509346
+"41179","Vanceburg","KY","Oak Ridge Grocery","8777 KY 59","41179",38.495975494384766,-83.29472351074219
+"41179","Vanceburg","KY","Ron's","not_available","41189",38.55933701057198,-83.59482486396082
+"41179","Vanceburg","KY","Vanceburg Foodland","50 Market Street","41179",38.60014724731445,-83.31818389892578
+"41222","Hagerhill","KY","Food City","330 South Mayo Trail","41240-1804",37.821656309317966,-82.8195734018863
+"41222","Hagerhill","KY","Save-A-Lot","229 N Mayo Trail","41240",37.81121063,-82.80580902
+"41222","Hagerhill","KY","Save-A-Lot","229 N Mayo Trl","41240",37.817665100097656,-82.81456756591797
+"41222","Hagerhill","KY","Food City","330 N Mayo Trl","41240",37.817649841308594,-82.82008361816406
+"41224","Inez","KY","Save-A-Lot","6127 Bypass Route 645","41224",37.87666321,-82.55433655
+"41224","Inez","KY","Save-A-Lot","5220 Bypass Route 645","41224",37.86028553917233,-82.55599021911621
+"41224","Inez","KY","Shoprite","not_available","41224",37.868502481129994,-82.54139248664507
+"41230","Louisa","KY","Walmart Supercenter","275 Walton Dr","41230",38.102267853900116,-82.62418312521143
+"41230","Louisa","KY","Save-A-Lot","Rt. 7","41230",38.1118,-82.611143
+"41230","Louisa","KY","Save A Lot","4790 Highway 2565","41230",38.1142544,-82.6032119
+"41230","Louisa","KY","Family Foods","not_available","41264",37.928138732910156,-82.71841430664062
+"41230","Louisa","KY","Save-A-Lot","4790 Hwy 2565","41230",38.10483551,-82.61243439
+"41240","Paintsville","KY","Walmart Supercenter","470 No. Mayo Trail","41240",37.82326849480423,-82.82503263402839
+"41301","Campton","KY","Save-A-Lot","719 KY 15 S","41301",37.725920895842734,-83.54107911011388
+"41311","Beattyville","KY","Jack's IGA","285 E. Main St.","41311",37.57286794479867,-83.71089226354128
+"41311","Beattyville","KY","Save A Lot","Hwy 11 South","41311",37.548654550950744,-83.72407740996873
+"41311","Beattyville","KY","Save-A-Lot","2093 Hwy 11 S","41311",37.548824310302734,-83.72457122802734
+"41314","Booneville","KY","Family Dollar","Old Highway 11","41314",37.477014,-83.676443
+"41314","Booneville","KY","Shopwise","279 KY 28","41314",37.475454106211465,-83.66837739944458
+"41339","Jackson","KY","Walmart","1589 Kentucky / Hwy","41339",37.55158660866943,-83.35974156193238
+"41339","Jackson","KY","Jackson IGA","not_available","41339",37.551549048557085,-83.35871672195616
+"41339","Jackson","KY","Yoders Bulk Food Store","Hindman Bypass","41740",37.35265350341797,-82.99077606201172
+"41339","Jackson","KY","Slone's Market","4 Hwy. 15 S. Ste.1550","41339",37.551428316666666,-83.35841441666666
+"41339","Jackson","KY","Save-A-Lot","1471 Kentucky Highway 15 North","41339",37.56877135979851,-83.40101035730063
+"41339","Jackson","KY","Save-A-Lot","1471 Hwy 15 N","41339",37.55790329,-83.3792572
+"41465","Salyersville","KY","Save-A-Lot","735 E Mountain Pkwy","41465",37.73728942871094,-83.03842163085938
+"41472","West Liberty","KY","Save A Lot","7644 Liberty Rd W","41472",37.8974719,-83.2871397
+"41472","West Liberty","KY","Save-A-Lot","191 & U.S. 460","41472",37.89756,-83.28543
+"41472","West Liberty","KY","IGA","not_available","41472",37.89666964411576,-83.28450856066321
+"41501","Pikeville","KY","Food City","215 Cassidy Blvd","41501",37.50439236066465,-82.53715687531924
+"41501","Pikeville","KY","Walmart Supercenter","254 Cassidy Blvd","41501",37.50670493820664,-82.53978637152896
+"41501","Pikeville","KY","Quality Foods","10023","41559",37.36815020401234,-82.41356834346979
+"41501","Pikeville","KY","Save-A-Lot","669 KY Hwy 610","41572",37.34144211,-82.59134674
+"41501","Pikeville","KY","Food City","2138 S Mayo Trl","41501",37.4401511635199,-82.50942947403728
+"41501","Pikeville","KY","Big Lots","58 Power Dr","41501",37.51510333971592,-82.56074789436553
+"41501","Pikeville","KY","Save A Lot","669 KY Highway 610 W","41572",37.341524,-82.591292
+"41501","Pikeville","KY","Save-A-Lot","240 S Mayo Trl","41501",37.47111892700195,-82.53358459472656
+"41501","Pikeville","KY","Save A Lot","240 S Mayo Trail","41501",37.465684,-82.5304038
+"41501","Pikeville","KY","Rick and Debs General Store","14825 Regina Belcher Hwy","41522",37.340999603271484,-82.37870788574219
+"41501","Pikeville","KY","Save-A-Lot","Weddington Plaza (Hwy 23 N)","41501",37.5182,-82.56549
+"41501","Pikeville","KY","Food City","not_available","41501",37.49087691307068,-82.53236532211304
+"41501","Pikeville","KY","Save-A-Lot","4195 N Mayo Trail","41501",37.52371216,-82.57219696
+"41503","South Williamson","KY","Walmart Supercenter","28402 Us Highway 119","41503",37.65854265194063,-82.2709883835691
+"41503","South Williamson","KY","Big Lots","86 Appalachian Plz","41503",37.666889302037646,-82.27444085492715
+"41503","South Williamson","KY","Walmart Grocery Pickup","28402 US Highway 119","41503",37.6588615,-82.27106
+"41503","South Williamson","KY","Save-A-Lot","28640 Hwy 119","41514",37.66404343,-82.27317047
+"41503","South Williamson","KY","Save-A-Lot","28640 US Highway 119","41503",37.66115188598633,-82.27253723144531
+"41514","Belfry","KY","Food City","28093 Thompson Plaza","41503",37.65390366908542,-82.27003183565026
+"41522","Elkhorn City","KY","Velocity Market","197 Elkhorn Creek Rd","41522",37.29508773842401,-82.36316610837319
+"41537","Jenkins","KY","Save-A-Lot","11 Freedom Ln","41537",37.1712989807129,-82.6356582641602
+"41539","Kimper","KY","T and J family food","not_available","41539",37.489322662353516,-82.35118865966797
+"41553","Phelps","KY","Save-A-Lot","13300 Phelps 632 Road","41553",37.509704,-82.1592166
+"41605","Betsy Layne","KY","Velocity Market","Church st","not_available",37.550977,-82.633546
+"41649","Martin","KY","Save-A-Lot","39 Stephens Branch Rd","41649",37.59470367,-82.80130005
+"41653","Prestonsburg","KY","Walmart","477 Village Dr","41653",37.6555264233982,-82.78172963664292
+"41653","Prestonsburg","KY","Super Dollar Discount Foods","81 Glynnview Plz","41653",37.65922164916992,-82.78729248046875
+"41653","Prestonsburg","KY","Save-A-Lot","525 Village Dr","41653",37.655555725097656,-82.78275299072266
+"41701","Hazard","KY","Walmart Supercenter","120 Daniel Boone Plz","41701",37.29866853668045,-83.2134475153173
+"41701","Hazard","KY","Food City","50 Morton Blvd","41701",37.27931402590199,-83.21783797981975
+"41701","Hazard","KY","Save-A-Lot","163 Citizens Ln","41701",37.26018596832063,-83.1996520148423
+"41701","Hazard","KY","United Grocery Outlet","410 Village Ln","41701",37.27996063232422,-83.23213195800781
+"41701","Hazard","KY","Save-A-Lot","52 Grand Vue Plaza","41701",37.2883415222168,-83.20892333984375
+"41701","Hazard","KY","Save-A-Lot","163 Citizens Lane","41701",37.25823975,-83.19900513
+"41701","Hazard","KY","Save A Lot","52 Grand Vue Plz","41701",37.2884813,-83.2091279
+"41701","Hazard","KY","Lucky Vapes","2425 N Main Street # 101","41701",37.2671929,-83.1882653
+"41749","Hyden","KY","Save-A-Lot","92 Highway 80","41749",37.154998779296875,-83.36979675292969
+"41749","Hyden","KY","Save-A-Lot","92 Hwy 80","41749",37.14627075,-83.41030121
+"41822","Hindman","KY","Save-A-Lot","430 Highway 899","41822",37.314613342285156,-82.93964385986328
+"41822","Hindman","KY","Save-A-Lot","402 Hwy 899","41822",37.31464767,-82.93827057
+"41837","Mayking","KY","Walmart","350 Whitesburg Plaza","41858",37.11689895657889,-82.79533605063179
+"41837","Mayking","KY","Price Less Foods","34 Whitesburg Plz","41858",37.116151,-82.796419
+"41858","Whitesburg","KY","Save A Lot","136 Parkway Plaza Loop","41858",37.1205936,-82.8316324
+"41858","Whitesburg","KY","Save-A-Lot","136 Pkwy Plaza Loop","41858",37.12394,-82.839072
+"42001","Paducah","KY","Walmart Supercenter","5130 Hinkleville Rd","42001",37.073139493858285,-88.68810226126193
+"42001","Paducah","KY","Kroger","3141 Park Ave","42001",37.0857637063904,-88.64645004272455
+"42001","Paducah","KY","Kroger","501 Lone Oak Rd","42003",37.0631147,-88.6409147
+"42001","Paducah","KY","Banks Market","2855 Lone Oak Rd","42003",37.03964149944747,-88.6618111350316
+"42001","Paducah","KY","Hughes Market","5507-6353 Bradford Rd","42086",37.102462217467284,-88.76511934305714
+"42001","Paducah","KY","Driver's Grocery","816 Clark St","42003",37.08164929100732,-88.60158954688359
+"42001","Paducah","KY","Supervalu","2969 Jackson St","42003",37.067318952023605,-88.63114885517209
+"42001","Paducah","KY","Forthman Foods","3200 Kentucky 996","42053",37.062605093185695,-88.8023421916977
+"42001","Paducah","KY","cash saver","not_available","42003",37.06722967469515,-88.63114790122822
+"42001","Paducah","KY","La Bodega","110 Allen Lane","42001",37.08436433703375,-88.66081595420837
+"42001","Paducah","KY","Gore's","2860 Lone Oak Rd","42003",37.03802490234375,-88.66068267822266
+"42001","Paducah","KY","Broadway General Store","207 Broadway St","42001",37.087614683333335,-88.595929
+"42001","Paducah","KY","Save-A-Lot","1428 Broadway St","42001",37.08018112182617,-88.61334228515625
+"42001","Paducah","KY","Pats Market","106 West 2nd Street","62910",37.12301080956371,-88.62825393676758
+"42001","Paducah","KY","Midtown Market","3000 Broadway St","42001",37.070858,-88.635986
+"42001","Paducah","KY","Shoprite","Cairo Road","42086",37.087036,-88.73205159999999
+"42001","Paducah","KY","ALDI","5156 Hinkleville Rd","42001",37.07412500000001,-88.69191486871716
+"42003","Paducah","KY","Kroger","3275 Irvin Cobb Dr","42003",37.0514861,-88.5694941
+"42003","Paducah","KY","Walmart Supercenter","3220 Irvin Cobb Dr","42003",37.053868396387195,-88.56678323003176
+"42003","Paducah","KY","Food Giant","6135 Benton Rd","42003",37.00363870602558,-88.53007522480294
+"42021","Arlington","KY","Greg's","not_available","42023",36.87693668800371,-89.0043269266547
+"42021","Arlington","KY","GroceryExpressWKY","237 County Road 1021","42035",36.903289794921875,-88.88066101074219
+"42024","Barlow","KY","Greg's Super Market","not_available","42056",37.077949029832375,-88.97359650063841
+"42024","Barlow","KY","Greg’s Supermarket","270 Broadway Ave","42056",37.052085876464844,-89.04960632324219
+"42025","Benton","KY","Walmart Supercenter","310 W 5th St","42025",36.86922094391132,-88.36081510862712
+"42025","Benton","KY","Village Market & Cafe","not_available","42045",37.001479,-88.233712
+"42025","Benton","KY","Price Less IGA","2602 Main St","42025",36.83599853515625,-88.35143280029297
+"42025","Benton","KY","Food Giant","72 US Highway 68 E","42025",36.924665924345454,-88.34316609303967
+"42025","Benton","KY","Sav A Lot","not_available","42025",36.83557551656905,-88.35221405725024
+"42025","Benton","KY","IGA","not_available","42044",36.922244,-88.257208
+"42025","Benton","KY","Cedar Hill Grocery","7070 Moors Camp Hwy","42044",36.930694580078125,-88.24890899658203
+"42025","Benton","KY","Marshalls IGA","not_available","42029",37.00619888305664,-88.43141174316406
+"42029","Calvert City","KY","Food Giant","1470 E 5th Ave","42029",37.0224088753565,-88.33777896632077
+"42038","Eddyville","KY","Walmart Supercenter","1500 Us Highway 62 W","42445",37.11052568609537,-87.91832333014648
+"42038","Eddyville","KY","Food Giant","720 W Fairview Ave","42038",37.09046936035156,-88.08776092529297
+"42038","Eddyville","KY","Ruler Foods","500 US Highway 62 W Ste A","42445",37.11287153390884,-87.9038455448491
+"42038","Eddyville","KY","Pleasant Valley Foods","Pleasant Valley Rd","42038",37.16441345214844,-87.99478912353516
+"42041","Fulton","KY","Food Rite","450 Mears St","not_available",36.50494472429354,-88.87553534422626
+"42041","Fulton","KY","Walmart Grocery Pickup","1405 Middle Rd","42041",36.5150783168317,-88.8973136633663
+"42041","Fulton","KY","Save-A-Lot","1203 Middle Road","42041",36.51564025878906,-88.89617156982422
+"42050","Hickman","KY","E. W. James & Sons","1212 S 7th St","42050",36.56764221191406,-89.1783676147461
+"42053","Kevil","KY","JTs Burgers and More","not_available","62953",37.22095077270957,-88.84434359253441
+"42058","Ledbetter","KY","Thompson's Grocery","not_available","42081",37.14108494383412,-88.40267217810961
+"42064","Marion","KY","Salem Food Market","not_available","42078",37.26274514076145,-88.24265045568565
+"42064","Marion","KY","Conrad's Food Store","515 S Main St","42064",37.328105,-88.082521
+"42064","Marion","KY","Food Giant","311 Sturgis Rd","42064",37.343414306640625,-88.07261657714844
+"42066","Mayfield","KY","Walmart Supercenter","1225 Paris Rd","42066",36.72034244635003,-88.62998349517599
+"42066","Mayfield","KY","Save-A-Lot","1210 State Route 45 N","42066",36.75859832763672,-88.64038848876953
+"42066","Mayfield","KY","Ruler Foods","1107 Paris Rd","42066",36.72452417121418,-88.62954518372715
+"42066","Mayfield","KY","Food Giant","300 W Farthing St","42066",36.72920159185091,-88.63848968268577
+"42071","Murray","KY","Walmart Supercenter","809 N 12th St","42071",36.62694512141906,-88.31757765709237
+"42071","Murray","KY","Kroger","808 N 12th St","42071",36.6251678,-88.3131637
+"42071","Murray","KY","Food Giant","940 S 12th St","42071",36.597055563625744,-88.31579813060549
+"42071","Murray","KY","Off The Hoof","not_available","42071",36.629714,-88.313632
+"42071","Murray","KY","Save A Lot","603 S 12th St","42071",36.6000217,-88.3152345
+"42071","Murray","KY","Save-A-Lot","S 12th St","42071",36.599458756066404,-88.31499268400763
+"42081","Smithland","KY","Golconda Food Mart","main street","62938",37.36679083165049,-88.48610758781433
+"42086","West Paducah","KY","Save-A-Lot","701 Pearl St","62960",37.154705801144985,-88.73297819984778
+"42086","West Paducah","KY","Big John","1200 E 5th St","62960",37.14460910737368,-88.71622900027596
+"42087","Wickliffe","KY","Town & Country Supermarket","716 Phillips Dr","42087",36.970340728759766,-89.07168579101562
+"42101","Bowling Green","KY","Meijer","1676 Westpark Dr","42104",36.95641959188586,-86.43780279904604
+"42101","Bowling Green","KY","Walmart Supercenter","150 Walton Ave","42104",36.94920423734786,-86.43353249552426
+"42101","Bowling Green","KY","Walmart Supercenter","1201 Morgantown Rd","42101",36.986955310736924,-86.48413654972802
+"42101","Bowling Green","KY","Kroger","2945 Scottsville Rd","42104",36.9431294,-86.4253389
+"42101","Bowling Green","KY","Kroger","350 US 31W Byp","42101",36.9962833,-86.4245476
+"42101","Bowling Green","KY","Crossroads IGA","5499 Scottsville Rd","42104",36.920130616170795,-86.40934233375489
+"42101","Bowling Green","KY","Crossroads IGA","2560 Mount Victor Ln","42103",36.9802055580101,-86.39568770646626
+"42101","Bowling Green","KY","Kroger","711 Campbell Ln","42104",36.9597268,-86.4670954
+"42101","Bowling Green","KY","Price Less IGA","1901 Russellville Rd","42101",36.98023986816406,-86.46871948242188
+"42101","Bowling Green","KY","ALDI","1455 Campbell Ln","42104",36.95216810218956,-86.44330130657181
+"42101","Bowling Green","KY","Price Less IGA","3170 Louisville Rd","42101",37.009184124655064,-86.39444589614868
+"42101","Bowling Green","KY","Crossroads IGA","7604 Russellville Rd","42101",36.928716573518344,-86.54681916497958
+"42101","Bowling Green","KY","Gordon Food Service Store","2205 Gary Farms Blvd","42104",36.958334,-86.433355
+"42101","Bowling Green","KY","Save-A-Lot","Hwy 259  North Riverhill Sc","42210",37.18649,-86.2531
+"42101","Bowling Green","KY","Save-A-Lot","1445 Hwy 259","42210",37.18239212,-86.24633789
+"42101","Bowling Green","KY","Dollar General Market","180 River Place Ave","42101",37.010028000000005,-86.390977
+"42101","Bowling Green","KY","Houchens Markets","1347 KY Highway 185","42101",37.00964939270464,-86.44175829712377
+"42101","Bowling Green","KY","Crossroads IGA","535 Three Springs Rd","42104",36.934665,-86.421917
+"42101","Bowling Green","KY","Botanica La Luz","508 Us 31w Byp","42101",37.00284957885742,-86.4317626953125
+"42101","Bowling Green","KY","Save-A-Lot","2706 Russellville Rd","42101",36.96062136206581,-86.49052613501874
+"42101","Bowling Green","KY","Crossroads IGA","8381 Nashville Rd","42101",36.895388,-86.520444
+"42101","Bowling Green","KY","Crossroads IGA","3954 KY Highway 185","42101",37.046226501464844,-86.43658447265625
+"42103","Bowling Green","KY","Save-A-Lot","600 31W Bypass Fairview Plaza","42101",36.990214,-86.427999
+"42103","Bowling Green","KY","Meijer","1676 Westpark Dr.","42104",36.9564232,-86.4378672
+"42104","Bowling Green","KY","The Mediterranean Food Store","103 Creekwood Ave","42101",36.965314,-86.485575
+"42127","Cave City","KY","Bi-rite","not_available","42126",37.130222,-85.960488
+"42127","Cave City","KY","Steve's Shoprite","1565 E Main St","42749",37.1766357421875,-85.87922668457031
+"42127","Cave City","KY","Save-A-Lot","509 East Happy Valley Rd","42127",37.123019364110625,-85.96107602119446
+"42127","Cave City","KY","IGA","390 N Dixie St","42749",37.18291473388672,-85.90264129638672
+"42127","Cave City","KY","Save-A-Lot","509 Happy Valley Rd","42127",37.123019364110625,-85.96107602119446
+"42127","Cave City","KY","Houchens Markets","110 N 1ST ST","42127",37.139018,-85.95838499999999
+"42127","Cave City","KY","Houchens #004","110 N 1st Street","42127",37.139014162857755,-85.95855474472046
+"42129","Edmonton","KY","Save-A-Lot","1708 W STOCKTON","42129",36.9809,-85.6206
+"42129","Edmonton","KY","Edmonton iga","not_available","42129",36.988098642150575,-85.63908361463936
+"42129","Edmonton","KY","Savalot","not_available","42166",36.88893599107361,-85.71181984526108
+"42134","Franklin","KY","Walmart Supercenter","1550 Nashville Rd","42134",36.69587280292797,-86.57239193337143
+"42134","Franklin","KY","Piggly Wiggly","402 N Main St","42134",36.725921630859375,-86.5769271850586
+"42134","Franklin","KY","IGA","1350 Franklin Bypass","42134",36.72022162174607,-86.56187078847827
+"42140","Gamaliel","KY","Cb’s Food Store","not_available","42140",36.637937,-85.775509
+"42141","Glasgow","KY","Walmart Supercenter","2345 Happy Valley Rd","42141",37.02134095578066,-85.9373038463993
+"42141","Glasgow","KY","Big Lots","942 Happy Valley Rd","42141",37.01276124855306,-85.92395127088656
+"42141","Glasgow","KY","Houchens IGA","746 E Main St","42141",36.98614501953125,-85.89895629882812
+"42141","Glasgow","KY","Save-A-Lot","400 S Green St","42141",36.99303627573009,-85.91334133666012
+"42141","Glasgow","KY","Bon Ayr Store","68-80 in Barren County","42160",37.02328036238254,-86.05917613562805
+"42141","Glasgow","KY","Jr Food Stores","2353 Scottsville Rd","42141",36.97184753417969,-85.94139099121094
+"42141","Glasgow","KY","Ruler Foods","374 N L Rogers Wells Blvd","42141",37.0075648698714,-85.92562526464462
+"42159","Oakland","KY","IGA","619 S Main St","42171",37.04395294189453,-86.21015930175781
+"42164","Scottsville","KY","IGA","719 E Main St","42164",36.752689361572266,-86.18379974365234
+"42164","Scottsville","KY","Save A Lot","1407 Old Gallatin Rd","42164",36.7421614,-86.2099731
+"42164","Scottsville","KY","Save-A-Lot","1407 Gallatin Rd","42164",36.74164066804968,-86.20889002741615
+"42167","Tompkinsville","KY","Price Less Foods","704 N Main St","42167",36.70600891113281,-85.68749237060547
+"42167","Tompkinsville","KY","Walmart Supercenter","1650 Edmonton Rd","42167",36.723687099657305,-85.68589849398987
+"42167","Tompkinsville","KY","Mark’s Hometown Foods","not_available","42167",36.695407,-85.700845
+"42206","Auburn","KY","Hocks Delivery Services","not_available","42206",36.91804,-86.77899
+"42207","Bee Spring","KY","Save Alot Food Store","not_available","42210",37.27452854047035,-86.27662846292883
+"42210","Brownsville","KY","Cee Bee's","Highway 259","not_available",37.19132924728439,-86.26022539565399
+"42210","Brownsville","KY","Price Less IGA","300 Lakeway Shopping Center,","42718",37.279038514508215,-86.14826202392578
+"42211","Cadiz","KY","Hancocks Neiborhood Market","not_available","42211",36.867772936820984,-87.79584646224976
+"42211","Cadiz","KY","Food Giant","1897 Main St","42211",36.86750411987305,-87.80814361572266
+"42211","Cadiz","KY","Hancock's Neighborhood Market","44 Commerce St","42211",36.868003845214844,-87.7960433959961
+"42220","Elkton","KY","Food Giant","West main","42220",36.8096312552252,-87.15598548316188
+"42220","Elkton","KY","Save-A-Lot","208 Main St","42220",36.81142807006836,-87.15303039550781
+"42223","Fort Campbell","KY","Walmart Supercenter","14800 Fort Campbell Blvd","42262",36.66799622392934,-87.4403771132645
+"42223","Fort Campbell","KY","Fort Campbell Commissary","2606 Indiana Ave","42223",36.639917523911784,-87.45250151315444
+"42223","Fort Campbell","KY","Piggly wiggly","3441Fort Campbell Blvd","37042",36.64015197753906,-87.43494415283203
+"42223","Fort Campbell","KY","Seoul Oriental Food Store","not_available","42262",36.66654586791992,-87.44427490234375
+"42223","Fort Campbell","KY","Hanyang Asian Supermarket","not_available","37042",36.63042449951172,-87.43299102783203
+"42223","Fort Campbell","KY","Seoul International Asian Market","15154 Fort Campbell Blvd","42262",36.66146523776883,-87.44160175323486
+"42234","Guthrie","KY","The Country pantry","9115 Guthrie Rd","42234",36.68573727616027,-87.20137177411489
+"42234","Guthrie","KY","Food Giant","10300 Dixie Beeline Hwy","42234",36.64682964814581,-87.19345688657154
+"42240","Hopkinsville","KY","Hampton Meats","1890 Pembroke Rd","42240",36.84055860515482,-87.45650509282503
+"42240","Hopkinsville","KY","Walmart Supercenter","300 Clinic Dr","42240",36.83006341904058,-87.46985107245533
+"42240","Hopkinsville","KY","Walmart Neighborhood Market","3106 Canton Street","42240",36.85922622680664,-87.5156021118164
+"42240","Hopkinsville","KY","Kroger","1213 Skyline Dr","42240",36.8407084,-87.4769132
+"42240","Hopkinsville","KY","ALDI","2554 Fort Campbell Blvd","42240",36.84522389042477,-87.48399730136043
+"42240","Hopkinsville","KY","Save-A-Lot","2735 Fort Campbell Blvd","42240",36.839710757333854,-87.48295079917075
+"42240","Hopkinsville","KY","Piggly Wiggly","128 N Main St","42240",36.870992067131645,-87.484464151121
+"42240","Hopkinsville","KY","IGA","3125 Canton Pike","42240",36.861427307128906,-87.51370239257812
+"42240","Hopkinsville","KY","Haddock's","1600-1698 Cedar Ave","42240",36.85939480473414,-87.47821702377568
+"42240","Hopkinsville","KY","Big Lots","2601 Fort Campbell Blvd","42240",36.843651648598005,-87.48668384392101
+"42240","Hopkinsville","KY","IGA","646 Brickyard Plaza","42240",36.86568220375763,-87.48837947845459
+"42256","Lewisburg","KY","Walmart Supercenter","120 Sam Walton Dr","42276",36.845611018444174,-86.91726663603517
+"42256","Lewisburg","KY","Piggly Wiggly","not_available","42276",36.842838287353516,-86.8927001953125
+"42256","Lewisburg","KY","IGA","318 N Main St","42256",36.98872756958008,-86.95482635498047
+"42256","Lewisburg","KY","Dollar General Market","111 Armory Dr","42276",36.8524284362793,-86.89179992675781
+"42256","Lewisburg","KY","Price Less IGA","113 Logan Sq","42276",36.85239028930664,-86.89273071289062
+"42261","Morgantown","KY","Dollar General","203 Veterans Way","42261",37.22869110107422,-86.69239044189453
+"42261","Morgantown","KY","IGA","779 S Main St.","42261",37.216758728027344,-86.69483184814453
+"42261","Morgantown","KY","Save-A-Lot","723 W GL Smith St","42261",37.234031677246094,-86.69390869140625
+"42261","Morgantown","KY","IGA Express","724 S Main St","42320",37.39179611206055,-86.87188720703125
+"42276","Russellville","KY","Ruler Foods","1124 W 9th St","42276",36.83200927343377,-86.90606479391647
+"42301","Owensboro","KY","Walmart Supercenter","5031 Frederica St","42301",37.72044722598153,-87.12171012125636
+"42301","Owensboro","KY","Kroger","1670 Starlite Dr","42301",37.7546642,-87.1506903
+"42301","Owensboro","KY","Kroger","2620 Frederica St","423015440",37.74983047153149,-87.11393785745963
+"42301","Owensboro","KY","Save-A-Lot","2875 W Parrish Ave","42301",37.758795,-87.149776
+"42301","Owensboro","KY","Price Less Foods","1731 Scherm Rd","42301",37.741946,-87.130439
+"42301","Owensboro","KY","IGA","201 Carter Rd","42301",37.773539,-87.147082
+"42301","Owensboro","KY","La Reina De Mexico","3600 Frederica St","42301",37.737032,-87.119737
+"42301","Owensboro","KY","Kroger Grocery Pickup and Delivery","2630 Frederica St","42301",37.750328337802834,-87.1140753957796
+"42301","Owensboro","KY","Circle K","Jl.Jamuju Nomer 127","42375",37.817238666100636,-87.24437207947581
+"42301","Owensboro","KY","Big Lots","4610 Frederica St","42301",37.725542720154756,-87.12597073743439
+"42301","Owensboro","KY","Even Steven Neighborhood Market","6572 State Route 56","42301",37.75722583199256,-87.23229575039146
+"42301","Owensboro","KY","Hispana America","1413 Bosley Rd","42301",37.7609748840332,-87.1343994140625
+"42303","Owensboro","KY","Meijer","2951 Heartland Crossing Blvd","42303",37.75577853534378,-87.07575917243958
+"42303","Owensboro","KY","Kroger","2308 Highway 144","42303",37.7787635,-87.0805223
+"42303","Owensboro","KY","Even Steven -Burlew","not_available","42303",37.74371709647898,-87.08752215860467
+"42303","Owensboro","KY","IGA","900 E 25th St","42303",37.751833835429125,-87.09939182483957
+"42303","Owensboro","KY","Walmart Supercenter","3151 Leitchfield Rd","42303",37.75699201240766,-87.0609401855136
+"42303","Owensboro","KY","Country Cupboard","1710 E Parrish Ave","42303",37.766372,-87.087382
+"42303","Owensboro","KY","Walmart Grocery Pickup & Delivery","3151 State Route 54","42303",37.75721740722656,-87.06063842773438
+"42303","Owensboro","KY","Save A Lot","1814 Triplett St","42303",37.7582616,-87.1044089
+"42303","Owensboro","KY","ALDI","2945 State Route 54","42303",37.75725555419922,-87.06456756591797
+"42303","Owensboro","KY","ruler food","not_available","Ky",37.74914746258932,-87.10128998481649
+"42320","Beaver Dam","KY","Walmart Supercenter","1701 N Main St","42320",37.42909514,-86.88063095
+"42320","Beaver Dam","KY","Save-A-Lot","not_available","42320",37.432510836481256,-86.88575789509439
+"42320","Beaver Dam","KY","IGA","1137 US Highway 231 N","42347",37.44356918334961,-86.89759063720703
+"42323","Beechmont","KY","Food Giant","3901 US Highway 431 S","42323",37.16542053222656,-87.03401184082031
+"42330","Central City","KY","Kroger","U.S. Hwy. 62 E","42367",37.2329925,-87.1611299
+"42330","Central City","KY","Save-A-Lot","1512 W Everly Brothers Blvd","42330",37.27507781982422,-87.14070892333984
+"42330","Central City","KY","Save-A-Lot","1512 Everly Brothers Blvd","42330",37.27508926,-87.1407547
+"42330","Central City","KY","Food Giant","219 S 2nd St","42330",37.29008865356445,-87.12110900878906
+"42330","Central City","KY","Walmart Supercenter","1725 West Everely Br","42330",37.27162526337486,-87.14429597138195
+"42330","Central City","KY","Iga Central City","not_available","42330",37.28904307587277,-87.0882797241211
+"42345","Greenville","KY","Food Giant","306 N Main St","42345",37.20819091796875,-87.1792984008789
+"42347","Hartford","KY","Doolin's Grocery","4256 State Route 764","42376",37.597957611083984,-86.98758697509766
+"42348","Hawesville","KY","Walmart Supercenter","730 Us Highway 66 E","47586",37.92848524,-86.75365576
+"42348","Hawesville","KY","Bill's IGA","290 Hawes Blvd.","42348",37.89632586140574,-86.75386687876384
+"42348","Hawesville","KY","Save-A-Lot","213 East Highway 66","47586",37.93214823795093,-86.75579309463501
+"42351","Lewisport","KY","Troyer Foods","1311 Main St","47615",37.94222640991211,-86.98011779785156
+"42351","Lewisport","KY","Crossroads IGA","8090 US Highway 60 W","42351",37.926368713378906,-86.88977813720703
+"42366","Philpot","KY","IGA","10035 Highway 54 East","42378",37.683881,-86.872252
+"42404","Clay","KY","Sureway","101 US Highway 41A N","42450",37.410499572753906,-87.73255920410156
+"42404","Clay","KY","Save-A-Lot","111 Montgomery Ave","42450",37.39896011352539,-87.7562255859375
+"42408","Dawson Springs","KY","Food Giant","440 E Arcadia Ave","not_available",37.17007064819336,-87.68630981445312
+"42408","Dawson Springs","KY","Food Giant","Arcadia ave.","not_available",37.207359,-87.679951
+"42413","Hanson","KY","Walmart Grocery Pickup","420 Factory Outlet Dr","42413",37.41755,-87.47505
+"42420","Henderson","KY","Walmart Supercenter","335 S Red Bank Rd","47712",37.97303951742155,-87.63639677821467
+"42420","Henderson","KY","Target","6625 E Lloyd Expy","47715",37.975407,-87.47071
+"42420","Henderson","KY","Simpson Super Market","1365 Covert Ave","47714",37.95463528602086,-87.53933186396517
+"42420","Henderson","KY","Walmart Supercenter","1195 Barrett Blvd","42420",37.85640506117091,-87.56608143113621
+"42420","Henderson","KY","Sureway Food Store","2631 Sureway Dr","42420",37.874699256303174,-87.56675821465107
+"42420","Henderson","KY","The Fresh Market","6401 E Lloyd Expy,","47715",37.97390771305483,-87.47366116424308
+"42420","Henderson","KY","Walmart Neighborhood Market","3430 Taylor Ave","47714",37.95803015168318,-87.50875095981421
+"42420","Henderson","KY","Sureway Food Store","1600 2nd St.","42420",37.83238171,-87.572376
+"42420","Henderson","KY","Ruler Foods","730 S Green River Rd","47715",37.9665730869503,-87.49034285545349
+"42420","Henderson","KY","Save-A-Lot","409 S Barker Ave","47712",37.97172400508889,-87.61030197143555
+"42420","Henderson","KY","Wonder Bread Bakery Outlet","1915 Covert Ave","47714",37.95511,-87.530922
+"42420","Henderson","KY","D&M Family Foods","702 N Green St","42420",37.84597600737502,-87.58388831355897
+"42420","Henderson","KY","Wesselman's Supermarkets","535 Lincoln Ave","47713",37.969537,-87.55739799999999
+"42420","Henderson","KY","Schnucks Evansville","5000 Washington Ave","47715",37.963124,-87.4910133
+"42420","Henderson","KY","Sureway Food Store","1126 S Green St","42420",37.82392380348594,-87.60182704096914
+"42420","Henderson","KY","Wesselman's Supermarkets","4901 Pollack Ave","47715",37.947433094552466,-87.49167054940798
+"42420","Henderson","KY","Schnucks","8301","47630",37.974842,-87.4017
+"42420","Henderson","KY","Price Less Foods","1550 Vann Ave","47714",37.956790924072266,-87.51080322265625
+"42420","Henderson","KY","International Bazaar","7844 W SR 66","47630",37.9310863,-87.3513175
+"42420","Henderson","KY","Save-A-Lot","229 S Green St","42420",37.83478546142578,-87.59300994873047
+"42431","Madisonville","KY","Kroger","545 Island Ford Rd","42431",37.3495268,-87.489844
+"42431","Madisonville","KY","Sureway Food Store","1050 Thornberry Dr","42431",37.34571678964451,-87.49692712753101
+"42431","Madisonville","KY","Market Place","1771 S Main St","42431",37.30551883,-87.51088867
+"42431","Madisonville","KY","Save-A-Lot","425 E Center St","42431",37.327255082476775,-87.49120835977581
+"42437","Morganfield","KY","Walmart Supercenter","901 Us Highway 60 E","42437",37.68880902563861,-87.90056702669453
+"42437","Morganfield","KY","Food Giant","North Main","42459",37.552879372206945,-87.9818844795227
+"42442","Nortonville","KY","Bestway","not_available","42442",37.18768310546875,-87.45393371582031
+"42445","Princeton","KY","Food Giant","410 E Legion Dr","42445",37.10124969482422,-87.88372802734375
+"42501","Somerset","KY","Walmart Supercenter","177 Washington Dr","42501",37.06944415300379,-84.62233446739687
+"42501","Somerset","KY","Kroger","50 Stonegate Ctr","42501",37.057694086276975,-84.62692371569574
+"42501","Somerset","KY","Kroger","181 S Highway 27","42501",37.090755435852316,-84.61933314800262
+"42501","Somerset","KY","Davis Grocery","10319-10485 Kentucky 90","42519",36.95334099309978,-84.57974205431715
+"42501","Somerset","KY","ALDI","4105 S Highway 27","42501",37.036293680615124,-84.62831372883608
+"42501","Somerset","KY","Food Stop Supermarket","7984 S Hwy 27","42519",36.989841,-84.600879
+"42501","Somerset","KY","IGA","470 E Highway 80","42501",37.100748,-84.613572
+"42501","Somerset","KY","KROGER","2835 So Hwy 27 Suite 92","not_available",37.0691566,-84.4489364
+"42501","Somerset","KY","Save-A-Lot","444 Highway 2227","42503",37.109352111816406,-84.6211166381836
+"42501","Somerset","KY","Mighty Dollar","3680 S Highway 27","42501",37.041893005371094,-84.62523651123047
+"42501","Somerset","KY","Village Market & Deli","not_available","42503",37.042403,-84.626835
+"42501","Somerset","KY","Food Fair","E. Mt. Vernon Str.","42501",37.09307007816714,-84.60161357501262
+"42501","Somerset","KY","Nature's Best","Oak Hill Rd, Somerset, KY","42503",37.074947357177734,-84.61749267578125
+"42501","Somerset","KY","Crossroads IGA","1830 E Highway 80","42501",37.10116912262222,-84.58979734134896
+"42501","Somerset","KY","Save A Lot","1114 N Hwy 27","42503",37.0781498,-84.617496
+"42501","Somerset","KY","Save-A-Lot","5194 S Hwy 27","42501",37.07036209,-84.61808777
+"42501","Somerset","KY","Kroger","N Hwy 2x","42501",36.94813255676471,-84.60891042589736
+"42501","Somerset","KY","Save-A-Lot","5194 S Highway 27","42501",37.020118713378906,-84.62651824951172
+"42503","Somerset","KY","Hillside Pantry","2020 Etna Rd","42567",37.21667050000001,-84.6703434
+"42539","Liberty","KY","The Log Cabin","not_available","42539",37.190656966642386,-84.9023789636485
+"42539","Liberty","KY","Save-A-Lot","675 N Wallace Wilkerson Blvd","42539",37.30841064,-84.94358826
+"42539","Liberty","KY","Save-A-Lot","675 North Wallace Wilkerson Blvd.","42539",37.323051536458166,-84.92560519548775
+"42539","Liberty","KY","Sunny Valley Country Store LLC","2767 S Fork Creek Rd","42539",37.1905361,-84.9017875
+"42544","Nancy","KY","Harris Grocery","not_available","42544",36.988497,-84.892969
+"42544","Nancy","KY","Crossroads IGA","9620 W Highway 80","42544",37.07115245865821,-84.74712645513823
+"42544","Nancy","KY","Top Stop","Hwy. 1765","42633",36.95271474531188,-84.81939514530805
+"42602","Albany","KY","Save-A-Lot","415 Burkesville Rd","42602",36.69681167602539,-85.1412582397461
+"42602","Albany","KY","E & P Livestock","1081 McIver Rd","42602",36.6684684753418,-85.03314971923828
+"42602","Albany","KY","robinson's","Cross Street","not_available",36.7218658,-85.1353199
+"42602","Albany","KY","IGA","120 Westview Shopping Ctr","42602",36.690899,-85.134678
+"42602","Albany","KY","Cravens produce","615 Burkesville Rd","42602",36.697444915771484,-85.14334869384766
+"42629","Jamestown","KY","Sano Meat & Deli","not_available","42642",37.02113,-85.0762
+"42633","Monticello","KY","Walmart Supercenter","175 Walmart Plaza Dr","42633",36.85777873481351,-84.84855123549943
+"42633","Monticello","KY","Save-A-Lot","1500 N Main St 124","42633",36.84718030731895,-84.83485736570366
+"42633","Monticello","KY","Kroger","255 Cumberland Xing","42633",36.858729179245145,-84.84442078127339
+"42635","Pine Knot","KY","Dairy Cheer","not_available","42635",36.66261004044995,-84.43854127424883
+"42642","Russell Springs","KY","Kroger","181 S Highway 127","42642",37.0635025,-85.0718769
+"42642","Russell Springs","KY","IGA","2285 Lakeway Dr","42642",37.06609344482422,-85.0745849609375
+"42642","Russell Springs","KY","Price Less Foods","2453 Lakeway Dr","42642",37.067901611328125,-85.07290649414062
+"42642","Russell Springs","KY","Save-A-Lot","238 E Steve Warner Dr","42642",37.06757,-85.06762
+"42647","Stearns","KY","Save-A-Lot","65 Crit King Rd","42653",36.71845147841823,-84.46688871857266
+"42701","Elizabethtown","KY","Kroger","3040 Dolphin Dr","42701",37.7115232,-85.8369312
+"42701","Elizabethtown","KY","ALDI","1504 N Dixie Ave","42701",37.72559060443665,-85.88445939504254
+"42701","Elizabethtown","KY","Walmart Supercenter","100 Walmart Dr","42701",37.732615,-85.882419
+"42701","Elizabethtown","KY","Bulk Foods And More","1401 Walter Reed Rd","42748",37.63034203476368,-85.76866451142956
+"42701","Elizabethtown","KY","IGA","701 S Lincoln Blvd","42748",37.57893953127045,-85.73683855753775
+"42701","Elizabethtown","KY","Saffire Vapor Retail Store","1511 Ring Rd #100","42701",37.72683,-85.88727
+"42701","Elizabethtown","KY","IGA","93 Shawnee Dr","42748",37.57849884033203,-85.7364730834961
+"42701","Elizabethtown","KY","Kroger Grocery Pickup and Delivery","111 Towne Dr","42701",37.734500885009766,-85.88887786865234
+"42701","Elizabethtown","KY","Houchens","not_available","42701",37.70501708984375,-85.86441802978516
+"42701","Elizabethtown","KY","Save A Lot","611 W Poplar St","42701",37.7057439,-85.8695892
+"42701","Elizabethtown","KY","Save-A-Lot","611 W Poplar","42701",37.705921999999994,-85.869697
+"42701","Elizabethtown","KY","Save-A-Lot","Lincoln Blvd & Lincoln Dr","42748",37.573531,-85.740342
+"42701","Elizabethtown","KY","Price Less Foods","300 Sycamore St","42701",37.70289011621506,-85.86700553647691
+"42701","Elizabethtown","KY","E. W. James","St. John Road","42701",37.70399165499505,-85.87258222191988
+"42712","Big Clifty","KY","Walmart Supercenter","1801 Elizabethtown Rd","42754",37.48552768,-86.26606368
+"42716","Buffalo","KY","Bella Gaia Botanicals","1198 Alvin Brooks Rd","42716",37.51074981689453,-85.66853332519531
+"42717","Burkesville","KY","IGA","116 Keen St.","42717",36.7841911315918,-85.3730697631836
+"42718","Campbellsville","KY","Walmart Supercenter","725 Campbellsville Byp","42718",37.34570544188064,-85.37313587692508
+"42718","Campbellsville","KY","Kroger","399 Campbellsville Byp","42718",37.341960205546,-85.36637897852154
+"42718","Campbellsville","KY","Kroger","1509 E Broadway St","42718",37.3559725,-85.3284737
+"42718","Campbellsville","KY","Save-A-Lot","300 Campbellsville Byp","42718",37.343570709228516,-85.36318969726562
+"42718","Campbellsville","KY","IGA","855 Campbellsville Rd","42743",37.27245446196412,-85.49606862819937
+"42718","Campbellsville","KY","Kroger Grocery Pickup and Delivery","399 Campbellsville Byp Ste 100","42718",37.341347228490385,-85.36550065216693
+"42721","Caneyville","KY","Ray,s Market","not_available","42721",37.42356607541354,-86.47858920704361
+"42728","Columbia","KY","Walmart Supercenter","2988 Burkesville Rd","42728",37.07570265244044,-85.33460727970119
+"42728","Columbia","KY","Doc’s market","not_available","42728",37.14288,-85.302487
+"42728","Columbia","KY","Save A Lot","105 E Guardian St","42728",37.1013685,-85.307361
+"42728","Columbia","KY","IGA","900 Jamestown St","42728",37.09373,-85.30402
+"42728","Columbia","KY","Clay Ridge Country Store","Greensburg Road","42743",37.144000757648854,-85.42001008987427
+"42728","Columbia","KY","Save-A-Lot","105 E Guardian Ave","42728",37.10122,-85.30757
+"42748","Hodgenville","KY","Save-A-Lot","102 Lincoln Dr","42748",37.549190521240234,-85.73419189453125
+"42754","Leitchfield","KY","IGA","492 S Main St","42754",37.47529220581055,-86.295654296875
+"42754","Leitchfield","KY","Save-A-Lot","105 N English St","42754",37.47179,-86.2969
+"42765","Munfordville","KY","Save-A-Lot","300 Interstate Dr","42765",37.2740947,-85.89222916666667
+"42765","Munfordville","KY","Save A Lot Interstate Plaza Munfordville","not_available","42765",37.290081059650895,-85.90083912631992
+"42765","Munfordville","KY","IGA","1001 Main St, Munfordville","42765",37.280086517333984,-85.89877319335938
+"42776","Sonora","KY","Crossroads IGA","102 College Street","42784",37.46457171250849,-85.89525461196898

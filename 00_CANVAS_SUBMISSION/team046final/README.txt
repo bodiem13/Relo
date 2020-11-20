@@ -1,4 +1,4 @@
-Relo: Relocation Made Easy
+RELO: Relocation Made Easy
 
 Contributors: Amelia Bell, Michael Bodie, Aravinda Dassanayake, Joseph Janicki, Riesling Meyer, Nathan Smooha
 
@@ -10,11 +10,14 @@ CONTENTS OF THE README
  * EXECUTION
 
 
-
 DESCRIPTION
 ------------
 
-Welcome to Relo: Relocation made Easy! Relo incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
+Welcome to RELO: Relocation made Easy! RELO incorporates a clustering-based approach to find the best neighborhoods to live. While utilizing Census and amenities data, Relo is able to give people the confidence to relocate to a location they are sure to enjoy. 
+
+Every directory described in this README file is located in the main CODE folder. Due to large file sizes, all data files were excluded from the Canvas submission. The full repository for RELO (team046repo.zip), including all data files, can be downloaded from the following location: https://drive.google.com/drive/folders/1fLpTlLICH0b0PzTqubKvYd0obrnpSyfj?usp=sharing
+
+For additional information regarding RELO, please refer to the README.md file in the 'CODE' folder: CODE/README.md 
 
 APP DIRECTORY
 
@@ -26,16 +29,12 @@ Inside the app directory, we have the following structure:
 
 	The 'templates' directory contains the files used for building the front end UI. 
 
-	Finally, the clustervis.py, flask_app.py, and vis_development_app.py files are used to run python code related to this project. 
+	Finally, the flask_app.py file is the main Python code for the application, which utilizes clustervis.py for data processing. 
 
-Please refer to Diagram_1 below for more information about the structure of the 'app' directory (note the images that are stored in the 'static' directory are not included in the diagram below). 
+Please refer to Diagram_1 below for more information about the structure of the 'app' directory. Note, the images that are stored in the 'static' directory are not included in the diagram below. 
 
 Diagram_1
 ├── app/
-│   ├── .vscode/
-│   │       └── launch.json
-│   ├── __pycache__/
-│   │       └── flask_app.cpython-37.pyc
 │   ├── static/
 │   │   │   ├── stylesheets
 │   │   │   │ 	├── index_style.css
@@ -44,11 +43,7 @@ Diagram_1
 │   ├── templates/
 │   │       ├── about.html
 │   │       ├── index.html
-│   │       ├── result.html
-│   │       ├── test.html
-│   │       └── vis_development_index.html
-│   ├── .DS_Store
-│   ├── .mapbox_token
+│   │       └── search_results.html
 │   ├── clustervis.py
 │   ├── flask_app.py
 └── └── vis_development_app.py
@@ -60,19 +55,17 @@ The 'data' directory contains all scripts used for gathering the data. This incl
 
 The 'data' directory contains the following structure:
 	
-	The 'amenities' directory contains code related to the data capture from foursquare API. This data was used for finding amenities.
+	The 'amenities' directory contains code related to the data capture of the amenities data from the Foursquare API. 
 
-	The 'cluster_model_output' directory contains the code used for the clustering pipeline.
+	The 'cluster_model_output' directory contains the output data produced by 'Clustering_Pipeline.ipynb'.
 
-	The 'etl_scripts' contains code relating to etl processes for amenities and census tracts data.
+	The 'etl_scripts' contains code related to ETL processes for the amenities and Census tracts data, including data retrieval, data cleaning, and data processing.
 
-	The 'gaz' directory contains census data.
+	The 'gaz' directory contains Census data.
 
-	The 'sample' directory contains a sample clustering output used for the development of the front end components.
+	The 'shape_data' contains code relating to the shapes of the Census tracts.
 
-	The 'shape_data' contains code relating to the shapes of census tracts.
-
-Please refer to Diagram_2 below for more information about the structure of the 'data' directory (note that elements inside the directories are not displayed in the diagram). 
+Please refer to Diagram_2 below for more information about the structure of the 'data' directory. Note, the elements inside the directories are not displayed in the diagram. 
 
 Diagram_2
 ├── data/
@@ -81,7 +74,6 @@ Diagram_2
 │   ├── etl_scripts/
 │   ├── features/
 │   ├── gaz/
-│   ├── sample/
 └── └── shape_data/
 
 
@@ -103,16 +95,24 @@ Diagram_3
 
 MODEL DIRECTORY
 
-The 'model' directory contains code relating to the clustering pipeline and testing of the clustering pipeline. 
+The 'model' directory contains code related to the clustering pipeline and the generation and evaluation of various clustering models.
 
-In this directory, the 'Clustering_Pipeline.ipynb' file contains the complete code for the creation of the clustering pipeline.
+The 'Clustering_Model_Testing.ipynb' file contains the initial code that was used to test a wide variety of different clustering methods on a subset of our final processed dataset.
+
+The 'Clustering_Pipeline.ipynb' file contains the primary code for the clustering pipeline. Using our entired processed dataset, we performed in-depth evaluations on five alogirthms: KMeans, Mini-Batch KMeans, Spectral, Hierarchical Ward, and Hierarchical Birch.
+
+The 'Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb' file is practically identical to 'Clustering_Pipeline.ipynb', but it generated and evaluated five clustering models using each of the aforementioned algorithms and a parameter of 50 clusters for all.
+
+All of the ".obj" files are pickled files of the five models that we evaluted in the clustering pipeline.
 
 Please refer to Diagram_4 below for more information about the structure of the 'model' directory.    
 
 Diagram_4
 ├── model/
 │   ├── Clustering_Model_Testing.ipynb
+│   ├── Clustering_Pipeline-rerun_with_uniform_optimal_clusters.ipynb
 │   ├── Clustering_Pipeline.ipynb
+│   ├── hierarchical_birch_results.obj
 │   ├── hierarchical_ward_results.obj
 │   ├── kmeans_results.obj
 │   ├── minibatch_kmeans_results.obj
@@ -121,7 +121,7 @@ Diagram_4
 
 RAW_DATA DIRECTORY
 
-The 'raw_data' directory contains raw census data. 
+The 'raw_data' directory contains the raw Census data. 
 
 Please refer to Diagram_5 below for more information about the structure of the 'raw_data' directory.    
 
@@ -146,6 +146,22 @@ Please follow the following steps to run the code:
 
 1. Open a Powershell or Terminal window and navigate into the directory where the docker image was downloaded in the Installation section.
 2. Run 'docker load -i relodemo.tar' (note, you may need to run as root/with sudo on linux/mac)
+	 - Please note on some platforms, the text being printed to the terminal may freeze for a bit. You may press enter several times to avoid the delay.
 3. Run 'docker run -it -p 5000:5000 relodemo' (note, you may need to run as root/with sudo on linux/mac)
 4. In your Powershell or Terminal window, once you see "Running on http://0.0.0.0:5000/", navigate to localhost:5000 in your browser (NOT 0.0.0.0:5000) and begin using the app!
 
+Note that the demo docker application has data limited to only a single cluster of neighborhoods to ensure that it will run on the grader's hardware.
+
+The full application currently consumes >16GB of memory, which is why the decision was made to limit that data.
+Although any address given to the app should work since the code locates the nearest neighborhood to the input address,
+here are some sample addresses to try that fall within neighborhoods that appear in the demo cluster:
+1) 300 Madison Ave, New York, NY
+2) Inman park, Atlanta, GA
+3) Chamberlain Park, Raleigh
+
+
+DEMO VIDEO
+----------------
+
+A demo video can be found at the following link:
+https://www.youtube.com/watch?v=fqh-CT0eUXo

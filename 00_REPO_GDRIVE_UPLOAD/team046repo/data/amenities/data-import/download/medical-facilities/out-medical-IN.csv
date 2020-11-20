@@ -1,0 +1,820 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"46011","Anderson","IN","Community Hospital Anderson","1515 N Madison Ave","46011",40.13028344534091,-85.6934198748443
+"46011","Anderson","IN","Physicians Ambulance Station Anderson","3305 Nichol Avenue","46011",40.101239,-85.73027
+"46011","Anderson","IN","Community Hospital Emergency Department","1515 N Madison Ave, Anderson, IN 46011","46011",40.13085409547679,-85.69263170858837
+"46011","Anderson","IN","Community Hospital 3e Beast","not_available","46011",40.13032326095732,-85.69273752793409
+"46011","Anderson","IN","St. Vincent Anderson Regional Hospital","2015 Jackson St","46016",40.094658642706136,-85.681898945365
+"46011","Anderson","IN","Community hospital women's center","not_available","not_available",40.135079,-85.691505
+"46011","Anderson","IN","Community Hospital Anderson-Respiratory Dept.","1515","46011",40.130517222429724,-85.69314683269899
+"46011","Anderson","IN","St. John's Educational Room","not_available","46016",40.09516542315687,-85.68136639706306
+"46012","Anderson","IN","Saint John's Hospital","not_available","46013",40.09507063159119,-85.6771391301037
+"46012","Anderson","IN","St Johns Women's Center","2020 Meridian St Ste 150","46016",40.0959,-85.67865400000001
+"46012","Anderson","IN","Dr. Tavel Family Eye Care","2109 S Scatterfield Rd","46016",40.095623826563916,-85.65494924028059
+"46012","Anderson","IN","Community North Ear Nose & Throat","not_available","46012",40.151472,-85.673637
+"46012","Anderson","IN","Medcheck Urgent Care Center","1030 S Scatterfield Rd","46012",40.1051589482877,-85.65236673133008
+"46012","Anderson","IN","Saint John's Surgery Center","2200 Jackson St","46016",40.094366761923986,-85.68073959936386
+"46013","Anderson","IN","Sacred Heart","5235 S 200 E","46017",40.03024673461914,-85.63616943359375
+"46013","Anderson","IN","MedExpress Urgent Care","3800 South Scatterfield Road","46013",40.07611483502046,-85.65220981839047
+"46013","Anderson","IN","Saint John's Med One Urgent Care","4778 S Scatterfield Rd","46013",40.064493225987796,-85.65208658584257
+"46013","Anderson","IN","MedCheck Anderson","3125 S Scatterfield Rd Ste 100","46013",40.08421623802083,-85.65302851254624
+"46016","Anderson","IN","ImmediaDent - Urgent Dental Care","2128 Mounds Road","46016",40.092834,-85.653181
+"46032","Carmel","IN","IU Health North Hospital","11700 N Meridian St","46032",39.9592790234482,-86.15978950713759
+"46032","Carmel","IN","Iu North Hospital Cancer Center Suite 565","116## N Illinois","46032",39.959347,-86.159996
+"46032","Carmel","IN","IU Health Bariatrics","11725 N Illinois St Ste 350","46032",39.959285736083984,-86.16043090820312
+"46032","Carmel","IN","Methodist Medical Plaza North","151 Pennsylvania Pkwy","46280",39.9314328222701,-86.15402144946293
+"46032","Carmel","IN","St Vincent Heart Hospital 10580 N Meridian","not_available","46290",39.939485,-86.159149
+"46032","Carmel","IN","IU Health North Emergency Room","not_available","46032",39.95876096626189,-86.15935831366694
+"46032","Carmel","IN","Come Explore Nursing Event","St. Vincent Carmel Hospital","46032",39.994547,-86.130428
+"46032","Carmel","IN","OrthoIndy North Meridian","10601 N. Meridian St., Suite 200","46280",39.94231414794922,-86.15672302246094
+"46032","Carmel","IN","Endoscopy Center","13421 Old Meridian St","46032",39.980525970458984,-86.14237976074219
+"46032","Carmel","IN","Surgery Center of Carmel","12188A N Meridian St","46032",39.96693888031977,-86.15841108482823
+"46032","Carmel","IN","st vincent carmel maternity ward","13500 N Meridian St","46032",39.982547760009766,-86.1436767578125
+"46032","Carmel","IN","The Birth Hub","677 Newbury St. #1212","46032",39.968591,-86.1358742
+"46032","Carmel","IN","St.Vincent Sports Performance","14455 Clay Terrace Blvd","46032",39.99812284964229,-86.12841367721558
+"46032","Carmel","IN","Quest Build Room 4189","10330 N Meridian St Ste 4189","46290",39.9370231628418,-86.15953826904297
+"46033","Carmel","IN","TheraPets","not_available","46038",39.94018588697404,-86.06414554384278
+"46033","Carmel","IN","Lauren Heavin, MD","14535 Hazel Dell Pkwy Bldg A","46033",39.9995727,-86.0670071
+"46033","Carmel","IN","Your CBD Store - Carmel, IN","255 E Carmel Dr Suite C","46032",39.9613753,-86.1226512
+"46033","Carmel","IN","IU Health Urgent Care - Noblesville","14645 Hazel Dell Rd Ste 120","46062",40.00098253885598,-86.07165984716062
+"46033","Carmel","IN","The Little Clinic","1217 S Rangeline Rd","46032",39.9626646,-86.1252588
+"46034","Cicero","IN","Cicero Holistic Health","1200 South Peru Street","46034",40.120936,-86.01397
+"46036","Elwood","IN","St. Vincent Mercy Elwood","S A st","46036",40.27544878546831,-85.84321327129359
+"46036","Elwood","IN","Ascension St. Vincent Mercy (St. Vincent Mercy Hospital)","1331 S A St","46036",40.275421142578125,-85.84383392333984
+"46036","Elwood","IN","Community Parkview","not_available","46036",40.286412,-85.83145400000001
+"46037","Fishers","IN","IU Health Physicians Primary Care - IU Health Saxony Hospital","13000 E 136th St Ste 3400","46037",39.9868087245598,-85.92991604662706
+"46037","Fishers","IN","St Vincent's Hospital Fishers","13914 State Road 238 E","46037",39.98946803122323,-85.916012147304
+"46037","Fishers","IN","IUH Health Saxony Emergency Department","13100 E 136th St","46037",39.98746943329458,-85.93083236487448
+"46037","Fishers","IN","Saxony Security Office","not_available","46060",39.987352087086855,-85.93086634612432
+"46037","Fishers","IN","St.Vincent Fishers Hospital","13861 Olio Rd","46037",39.989324,-85.9168636
+"46037","Fishers","IN","Community Home Health Services","9894 E 121st St","46037",39.96687510917255,-85.9933367972928
+"46037","Fishers","IN","St. Vincent Center For Women's Health","13914 Southeastern Pkwy","46037",39.976966,-85.91086
+"46037","Fishers","IN","Riverview Health Emergency Room & Urgent Care","9690 E 116th St","46037",39.95610046386719,-86.0032730102539
+"46037","Fishers","IN","Prime Med Urgent Center","8962 E 96th St","46037",39.927690000000005,-86.009516
+"46037","Fishers","IN","IU Health Urgent Care","11580 Overlook Dr Ste 100","46037",39.95611530877962,-85.99333131916455
+"46037","Fishers","IN","Fishers Urgent Care","11680 Commercial Dr","46038",39.958791,-86.012438
+"46037","Fishers","IN","MACL Lab","13121 Olio Rd","46037",39.98232,-85.916276
+"46039","Forest","IN","St Joseph Hospital","sycamore","46901",40.416258,-86.279181
+"46041","Frankfort","IN","IU Health Frankfort Hospital","1300 S Jackson St","46041",40.269571801528656,-86.51128649371287
+"46049","Kempton","IN","Kempton Fire & Rescue","not_available","46049-0190",40.29029778904856,-86.22821866289034
+"46052","Lebanon","IN","Witham Hospital","2605 N Lebanon St","46052",40.07728614036275,-86.4733751614172
+"46052","Lebanon","IN","Witham Hospital ER","not_available","46052",40.077123934092704,-86.47231352290541
+"46052","Lebanon","IN","Anson Emergency Room","not_available","46077",39.950389,-86.340367
+"46052","Lebanon","IN","Witham Emergency Services at Anson","Heartland Dr, Eagle, IN 46075","46075",39.95019186754715,-86.3394906640379
+"46055","Mccordsville","IN","Hancock Physician Network Urgent Care","not_available","46055",39.90636891247154,-85.92001061927466
+"46060","Noblesville","IN","St. Vincent Neighborhood Hospital - Noblesville","9460 E 146th St","46060",40.0015274,-86.0009547
+"46060","Noblesville","IN","Brian Keith Benjamin, MD","865 Westfield Rd,Ste B","46062",40.0454522,-86.03288189999999
+"46060","Noblesville","IN","Room 2236","not_available","46062",40.046709,-86.02399
+"46060","Noblesville","IN","Riverview Interventional Pain Center","395 Westfield Rd","46060",40.04534912109375,-86.0223159790039
+"46060","Noblesville","IN","Riverview Surgery Pavillion","325 Westfield Rd, Noblesville, IN 46060","46060",40.04541778564453,-86.02177429199219
+"46069","Sheridan","IN","Riverview Health Westfield Hospital Urgent Care","17600 Shamrock Blvd","46074",40.043311,-86.133935
+"46069","Sheridan","IN","Jenna Walls, MD","17600 Shamrock Blvd Suite 400A","46074",40.043799,-86.1338471
+"46069","Sheridan","IN","St Vincent Outpatient Rehab","14828 Greyhound Ct Ste 150","46032",40.04208086317616,-86.13618718479951
+"46069","Sheridan","IN","Michael Kaveney, MD","17600 Shamrock Blvd. Suite 400A","46074",40.043799,-86.1338471
+"46069","Sheridan","IN","Pawan S Sethi, MD","17600 Shamrock Blvd Suite 200B","46074",40.043799,-86.1338471
+"46072","Tipton","IN","IU Health Tipton Hospital","1000 S Main St","46072",40.271981665860054,-86.04219660219462
+"46072","Tipton","IN","Tipton Hospital","not_available","46072",40.27144833026178,-86.0422701241622
+"46074","Westfield","IN","Sanders Glenn","772 N Union St","46074",40.039821,-86.122326
+"46074","Westfield","IN","The Little Clinic","150 W 161st St","46074",40.021921203031894,-86.16139681653294
+"46074","Westfield","IN","Ascension St. Vincent Headache Center (St. Vincent Headache Center)","13431 Old Meridian St","46032",39.982411,-86.143829
+"46075","Whitestown","IN","Dr. Tavel Family Eye Care","61 Boone Village","46077",39.95066833496094,-86.27593994140625
+"46075","Whitestown","IN","IU Health Physicians Internal Medicine - Zionsville","1650 W Oak St Ste 104","46077",39.951579291127025,-86.28436803817749
+"46077","Zionsville","IN","sacnning","S. Main St. and East Hawthorne, Zionsville, IN 46077","46077",39.9492381,-86.2609824
+"46077","Zionsville","IN","Body Bar MD","9650 Commerce Dr Ste 511","46032",39.9280792,-86.2257313
+"46107","Beech Grove","IN","Altenhiem community","not_available","46237",39.70776734120738,-86.10584397631851
+"46107","Beech Grove","IN","Select Specialty Hospital","1600 Albany St Ste 200","46107",39.72438430786133,-86.0995101928711
+"46107","Beech Grove","IN","MedExpress Urgent Care","4903 South Emerson Avenue","46203",39.6968031,-86.0818538
+"46107","Beech Grove","IN","St.Francis Emergency Department Beech Grove","not_available","46203",39.72411403235894,-86.09888249848403
+"46107","Beech Grove","IN","Beechgrove Meadows","2002 Albany Street","46227",39.70217180091682,-86.10808438626519
+"46107","Beech Grove","IN","Dr. Tavel Family Eye Care","4916 S. Emerson Ave","46203",39.6957992,-86.0833945
+"46107","Beech Grove","IN","Franciscan ExpressCare Thompson Commons","5210 East Thompson Road","46237",39.6949765,-86.0797868
+"46107","Beech Grove","IN","The Little Clinic","5350 E Thompson Rd","46237",39.6967088,-86.0774571
+"46112","Brownsburg","IN","Hendricks Regional Health Brownsburg Hospital","5492 N Ronald Reagan Pkwy","46112",39.844159,-86.35759
+"46112","Brownsburg","IN","St Vincent Immediate Care- Brownsburg","590 Pitt Road","46112",39.85004806518555,-86.3709487915039
+"46112","Brownsburg","IN","Payten Manning Childrens Hospital","not_available","46112",39.915679931640625,-86.39210510253906
+"46112","Brownsburg","IN","Poly-John 16 Tee","not_available","46278",39.864277,-86.326
+"46112","Brownsburg","IN","Ascension Medical Group - St. Vincent - Brownsburg Walk-in Care","590 Pit Rd","46112",39.85009,-86.37086
+"46113","Camby","IN","Community south surgery center","not_available","46113",39.6383655,-86.3277499
+"46122","Danville","IN","Hendricks Regional Health","1000 E Main St","46122",39.76193147797523,-86.50150058727597
+"46122","Danville","IN","Center Township","1000 N County Rd 50 E","46122",39.77533019818489,-86.51647567749023
+"46122","Danville","IN","Goodman Campbell Brain and Spine","5250 E US Highway 36","46123",39.7612272,-86.43492409999999
+"46122","Danville","IN","ER Registration","not_available","46122",39.762646,-86.501235
+"46122","Danville","IN","American Health Network","5250 E US Highway 36 #610","46123",39.761246773805475,-86.43483064114312
+"46123","Avon","IN","IU Health West Hospital","1111 Ronald Reagan Pkwy","46123",39.78054960258436,-86.34056918260069
+"46123","Avon","IN","IU Health West ER","not_available","46123",39.7805558621159,-86.33993971237616
+"46123","Avon","IN","Dr. Tavel Family Eye Care","7900 E US Hwy 36","46123",39.7643026,-86.3828501
+"46123","Avon","IN","IU Health Urgent Care - Avon","10853 E US Highway 36","46123",39.76311620000001,-86.3295555
+"46123","Avon","IN","St. Vincent Neighborhood Hospital - Avon","9613 E US Highway 36","46123",39.76063919067383,-86.35398864746094
+"46123","Avon","IN","Same-Day Dental","10439 E US Hwy 36","46123",39.76293299,-86.33785984
+"46124","Edinburgh","IN","CCTF","not_available","46124",39.355895,-85.972014
+"46131","Franklin","IN","Johnson Memorial Hospital","1125 W Jefferson St","46131",39.480031532625596,-86.077443173994
+"46131","Franklin","IN","Community Health Stones Crossing Rehabilitation Center","3000 S State Road 135","46143",39.57359666751032,-86.15968468177256
+"46131","Franklin","IN","Franciscan ExpressCare Stones Crossing","1703 West Stones Crossing Road","46143",39.5787826,-86.1473201
+"46131","Franklin","IN","Johnson Memorial Health Immediate Care","2085 Acorn Blvd","46131",39.50018362976133,-86.06867681795055
+"46131","Franklin","IN","Education Room #1","not_available","46131",39.479103,-86.07658
+"46135","Greencastle","IN","Putnam County Hospital","1542 South Bloomington St","46135",39.6208563634757,-86.84742731818366
+"46135","Greencastle","IN","The Waters Of Greencastle","not_available","46135",39.619095,-86.84712
+"46140","Greenfield","IN","Hancock Regional Hospital","801 N State St","46140",39.79523923148335,-85.76841635183854
+"46140","Greenfield","IN","Hancock Immediate Care","124 W Muskegon Dr","46140",39.81077501141901,-85.7724790124059
+"46140","Greenfield","IN","Hancock Dermatology - Greenfield","400 W Green Meadows Drive Suite #110","46140",39.8048933,-85.77555
+"46140","Greenfield","IN","Hancock Surgery Center","1 meridian square","46140",39.79506052339899,-85.76821896773092
+"46140","Greenfield","IN","Hancock radiology department","not_available","46140",39.79541960096871,-85.76826402288273
+"46140","Greenfield","IN","Springhurst Nursing Home","628 Meridian Road","46140",39.792543593167984,-85.80306292708423
+"46140","Greenfield","IN","Hancock Surgical Group","1 Memorial Sq","46140",39.7941431,-85.76775119999999
+"46140","Greenfield","IN","Hancock Regional Hospital","901-959 N State St","46140",39.81903835806858,-85.76914008762932
+"46142","Greenwood","IN","Franciscan St. Francis Imaging Center LLC","3147 W Smith Valley Rd Ste D","46142",39.605629,-86.16227385
+"46142","Greenwood","IN","Community Occupational Health Greenwood","1664 W Smith Valley Rd","46142",39.60641098022461,-86.15621948242188
+"46142","Greenwood","IN","Franciscan ExpressCare Greenwood","1001 North Madison Avenue","46142",39.6284155,-86.1140702
+"46142","Greenwood","IN","Dr. Tavel Family Eye Care","1251 U.S. 31","46142",39.63358714144195,-86.12179440140848
+"46142","Greenwood","IN","MedExpress Urgent Care","489 South State Road 135, Suite E","46142",39.60813074748285,-86.15773424506187
+"46142","Greenwood","IN","IU Health Urgent Care - Greenwood","996 S SR 135, Suite P","46143",39.60149792317818,-86.16046260238846
+"46142","Greenwood","IN","Indiana Surgery Center Room 33","not_available","46142",39.627620697021484,-86.15642547607422
+"46142","Greenwood","IN","Iu Urgent Care","996 S State Road 135","46143",39.601619720458984,-86.16007232666016
+"46143","Greenwood","IN","BioLife Plasma Services","1138 N. Emerson Ave.","46143",39.6323356628418,-86.08354949951172
+"46143","Greenwood","IN","Community Hospital South","1402 E County Line Rd","46227",39.6369649125312,-86.13287166807879
+"46143","Greenwood","IN","Valle Vista Health System","898 E Main St","46143",39.61461063439018,-86.08650460516417
+"46143","Greenwood","IN","Commubity South Ambulance Bay","not_available","46227",39.637058645157964,-86.1357696338268
+"46148","Knightstown","IN","Knightstown Health Care Center","224 W Main St","46148",39.7953543,-85.5310073
+"46151","Martinsville","IN","IU Health Morgan Hospital","1929 Hospital  Dr","46151",39.4261005700156,-86.40512789312275
+"46151","Martinsville","IN","Iu Health Morgan Emergency Room","not_available","46151",39.42537,-86.40447
+"46151","Martinsville","IN","IU Health Morgan Emergency Medicine","2209 John R Wooden Dr","46151",39.42606,-86.404972
+"46151","Martinsville","IN","ER Room 2","Hospital Drive","46151",39.42707545331848,-86.40579522315747
+"46158","Mooresville","IN","Francsican St. Francis Health - Mooresville","1201 Hadley Rd","46158",39.608159979823476,-86.35664787787532
+"46158","Mooresville","IN","St Francis Physical Therapy","not_available","46158",39.60878019133513,-86.35631203092906
+"46158","Mooresville","IN","Sleep Center","150 N Indiana St","46158",39.61536407470703,-86.3752670288086
+"46164","Nineveh","IN","tara treatment center","not_available","46164",39.35993576049805,-86.10408782958984
+"46168","Plainfield","IN","St. Vincent Neighborhood Hospital - Plainfield","2412 E Main St","46168",39.71557969,-86.36510556
+"46168","Plainfield","IN","Iu Health Urgent Care","11101 West Washington Street","46231",39.71453,-86.36367
+"46168","Plainfield","IN","The Little Clinic","1930 E Main St","46168",39.71203947497948,-86.37546243164428
+"46168","Plainfield","IN","Ascension Medical Group - St. Vincent - Plainfield Walk-in Care","2155 E Main St","46168",39.71044,-86.37273
+"46173","Rushville","IN","Rush Memorial Hospital","not_available","46173",39.62237394898963,-85.44433957797695
+"46176","Shelbyville","IN","MHP Major Hospital","2451 Intelliplex Dr","46176",39.5600099,-85.786245
+"46176","Shelbyville","IN","The Sick Shack.","not_available","46176",39.549865,-85.779621
+"46176","Shelbyville","IN","Dr. Tavel Family Eye Care","1634 State Road 44 East","46176",39.5095767,-85.7962427
+"46176","Shelbyville","IN","Major Hospital","150 W Washington St","46176",39.5251740927499,-85.78111411804197
+"46201","Indianapolis","IN","Seals Ambulance","3652 Culligan Ave.","46218",39.79082107543945,-86.0982666015625
+"46201","Indianapolis","IN","Immediate Medical Care (Chester Center)","78 Brookside Ave Ste 143","10918",39.7890748,-86.1241932
+"46202","Indianapolis","IN","Richard L Roudebush VA Medical Center","1481 W 10th St","46202",39.77855912997611,-86.18710782994195
+"46202","Indianapolis","IN","Eskenazi Hospital","720 Eskenazi Ave","46202",39.77771731150436,-86.1838103799459
+"46202","Indianapolis","IN","IU Health Indiana University Hospital (IU Hospital)","550 University Blvd","46202",39.7758974177185,-86.1766652203484
+"46202","Indianapolis","IN","IU Health Methodist Hospital","1701 Senate Blvd","46202",39.790572780845096,-86.16307954232786
+"46202","Indianapolis","IN","Riley Hospital for Children at IU Health","702 Barnhill Dr","46202",39.77707827375611,-86.17976188659668
+"46202","Indianapolis","IN","Simon Family Tower","705 Riley Hospital Dr","46202",39.77749937011722,-86.18090717894657
+"46202","Indianapolis","IN","Methodist Hospital Garage 1 1801 Senate Blvd","1801 Senate Blvd","46202",39.788763,-86.164712
+"46202","Indianapolis","IN","MSA 3 Riley Outpatient Center","not_available","46202",39.776703,-86.18108
+"46202","Indianapolis","IN","IU Health Statewide Orthopedics & Sports Medicine","1701 North Capitol Avenue B152","46202",39.789798736572266,-86.16187286376953
+"46202","Indianapolis","IN","IU Health Urgent Care - Downtown Indianapolis","222 W Michigan St","46204",39.7744453,-86.1630497
+"46203","Indianapolis","IN","St Francis Breast Center","Emerson Ave","46237",39.6974650743292,-86.04633058187599
+"46203","Indianapolis","IN","Dr. Tavel Family Eye Care","3636 South East Street","46227",39.71432591266409,-86.150643825531
+"46203","Indianapolis","IN","24 Hour Dental Care","435 Virginia Avenue","46203",39.76033,-86.14849
+"46203","Indianapolis","IN","Eskenazi Health Center Cottage Corner","1434 Shelby St","46203",39.747788,-86.140095
+"46204","Indianapolis","IN","Indiana convention center FAO","not_available","46225",39.76469660893333,-86.16394171902202
+"46204","Indianapolis","IN","Franciscan ExpressCare CityWay","325 South Alabama Street","46204",39.7621351,-86.1528066
+"46204","Indianapolis","IN","Riley children's hospital","not_available","46204",39.761758759242575,-86.16624191180902
+"46204","Indianapolis","IN","IU Outpatient Radiology","not_available","46254",39.77551023704231,-86.1753969450587
+"46204","Indianapolis","IN","Eskenazi Health Center Barton Annex","501 E St","46204",39.77463755218705,-86.14809036254883
+"46204","Indianapolis","IN","IU Hospital 6thfloor","not_available","46221",39.771496841886346,-86.16343993535905
+"46205","Indianapolis","IN","OrthoIndy Greencastle","1003 Mill Pond Ln","46135",39.800709,-86.156444
+"46205","Indianapolis","IN","Eskenazi Health Urgent Care East","3901 Meadows Dr","46205",39.826911,-86.114484
+"46205","Indianapolis","IN","Eskenazi Health Center Forest Manor","3840 N Sherman Dr","46226",39.82636684683454,-86.10363274812698
+"46205","Indianapolis","IN","Urology of Indiana","not_available","46218",39.79869184994199,-86.15699580072375
+"46205","Indianapolis","IN","Dr. Tavel Family Eye Care","2940 E. 38th Street, Suite B","46218",39.8263896,-86.1128618
+"46208","Indianapolis","IN","central state hospital","not_available","46222",39.819759368896484,-86.19463348388672
+"46208","Indianapolis","IN","Eskenazi Health Center Blackburn","2700 Doctor Martin Luther King Junior St","46208",39.805937,-86.172679
+"46214","Indianapolis","IN","Chapel Hill Immediate Care Center","650 N Girls School Rd","46214",39.775408,-86.28976899999999
+"46214","Indianapolis","IN","Assurance Of Indianapolis","900 N High School Rd","46214",39.777477,-86.273364
+"46214","Indianapolis","IN","Dr. Tavel Family Eye Care","7321 W 10th St","46214",39.7776774,-86.2899398
+"46214","Indianapolis","IN","Ascend to Zen Health LLC","8131 Valley Farms Trail","46214",39.8119335,-86.3042964
+"46216","Indianapolis","IN","Ascension Medical Group - St. Vincent Indianapolis Women's Health (Ascension Medical Group St. Vincent Lawrence Walk-In Care)","8091 Township Line Rd","46260",39.85589,-86.00072
+"46217","Indianapolis","IN","The Little Clinic","1330 W Southport Rd","46217",39.6648195,-86.1825809
+"46218","Indianapolis","IN","Community Hospital East","1500 N Ritter Ave","46219",39.78720808304735,-86.07521862497535
+"46218","Indianapolis","IN","Community Hospital East Endoscopy","16th street","46219",39.788105,-86.07517
+"46218","Indianapolis","IN","Community Hospital East - Nuclear Medicine","1600 N. Ritter Avenue","46038",39.789058685302734,-86.07400512695312
+"46218","Indianapolis","IN","Community Emergency","1400 Ritter","46219",39.78761801118013,-86.07488285023764
+"46219","Indianapolis","IN","Wildwood Health Care Center","7301 E 16th St","46219",39.78856,-86.03872
+"46219","Indianapolis","IN","MedCheck East","7910 E Washington St Ste 110","46219",39.77393462800276,-86.02781862838381
+"46219","Indianapolis","IN","ImmediaDent - Urgent Dental Care","8845 Boehning Ln","46219",39.799065999999996,-86.011442
+"46220","Indianapolis","IN","IU Health Urgent Care - Broad Ripple","1036 Broad Ripple Ave","46220",39.87010182495696,-86.14029321610644
+"46220","Indianapolis","IN","American Family Care Indianapolis - Keystone","7411 North Keystone Avenue","46240",39.88958,-86.12188
+"46220","Indianapolis","IN","Ascension Medical Group - St. Vincent - Broad Ripple Walk-in Care (Ascension Medical Group St. Vincent Immediate Care - Broad Ripple)","6320 N College Ave","46220",39.8709821,-86.1465475
+"46220","Indianapolis","IN","Martin Dentistry - Broad Ripple Location","1724 Broad Ripple Avenue","46220",39.86893,-86.12968
+"46221","Indianapolis","IN","Midwest Specialty Surgery Center","6920 Gatwick Dr Ste 100","46241",39.68757544810008,-86.28132266492051
+"46221","Indianapolis","IN","Smc Urgent Care","not_available","46241",39.67909,-86.29059
+"46222","Indianapolis","IN","Larue Carter Memorial Hospital","2601 Cold Spring Rd","46222",39.80359739670809,-86.20101039666604
+"46222","Indianapolis","IN","MedCheck Speedway","not_available","46224",39.78073267915702,-86.24037595403371
+"46222","Indianapolis","IN","IUH Pre-op Medical Clinic","535 Barnhill Dr","46202",39.77469,-86.177429
+"46224","Indianapolis","IN","Eskenazi Health Urgent Care West","5515 W 38th St","46254",39.82177928152156,-86.2580019235611
+"46224","Indianapolis","IN","The Little Clinic","5718 Crawfordsville Rd","46224",39.7991709,-86.2610049
+"46226","Indianapolis","IN","Dr. Tavel Family Eye Care","8139 Pendleton Pike","46226",39.8372491,-86.0226131
+"46227","Indianapolis","IN","University Heights Health and Living Community","1380 E County Line Rd","46227",39.63821574,-86.13517569
+"46227","Indianapolis","IN","24 Hour Dental Care","7225 US-31","46227",39.6603029,-86.14362943
+"46228","Indianapolis","IN","St. Vincent's","not_available","46268",39.827371073218686,-86.2235642112792
+"46229","Indianapolis","IN","Community Health Pavilion - East","E 10th St","not_available",39.782839633451175,-85.98740426478302
+"46229","Indianapolis","IN","Dr. Tavel Family Eye Care","984 N Mitthoeffer Rd","46229",39.78178024291992,-85.9909896850586
+"46229","Indianapolis","IN","Immediate Care Clinic","992 N Mitthoeffer Rd","46229",39.781829833984375,-85.99098205566406
+"46234","Indianapolis","IN","er room","not_available","46234",39.78447341918945,-86.32232666015625
+"46235","Indianapolis","IN","Eskenazi Health Center Grassy Creek","9443 E 38th St","46235",39.825268,-86.001621
+"46236","Indianapolis","IN","Noah's Caring Hands Pet Hospital at Geist","7815 Sunnyside Rd","46236",39.89650230028187,-85.97544161512565
+"46237","Indianapolis","IN","Franciscan Health","8111 S Emerson Ave","46237",39.64871559683592,-86.0787221217518
+"46237","Indianapolis","IN","Franciscan Surgery Center","5255 E Stop 11 Rd","46237",39.649999066290306,-86.07852306569114
+"46237","Indianapolis","IN","Telementy room","8111 S Emerson Ave, Indianapolis, IN 46237","46237",39.648514769485246,-86.07886146044429
+"46237","Indianapolis","IN","ST Francis Cardiac And Vascular Care Center","5255 E Stop 11 Rd Ste 240","46237",39.648335211231476,-86.07834821868587
+"46237","Indianapolis","IN","Beach Grove Urgent Care","4902 Thompson Drive","46107",39.69377213076592,-86.08634040890833
+"46240","Indianapolis","IN","St Vincent Neighborhood- Castleton","not_available","46250",39.912539,-86.075254
+"46240","Indianapolis","IN","Urgent Care","82nd Street","46240",39.913032,-86.142542
+"46240","Indianapolis","IN","KidsFirst Adoption Services","9135 N Meridian St","46260",39.921112060546875,-86.15650939941406
+"46240","Indianapolis","IN","Dr Michael Jones Psychologist","8510 Evergreen Ave Ste 106","46240",39.9113943,-86.1387676
+"46240","Indianapolis","IN","Hospital room #5","East 82nd Street","46240",39.922260881759485,-86.11564362285034
+"46240","Indianapolis","IN","Ascension St. Vincent Hospital - Castleton","8602 Allisonville Rd","46250",39.9127,-86.0755
+"46250","Indianapolis","IN","Community Hospital North","7150 Clearvista Dr","46256",39.9005259799882,-86.04220737742452
+"46250","Indianapolis","IN","Indiana Heart Hospital","8075 N Shadeland Ave","46250",39.90162957964208,-86.04507207870483
+"46250","Indianapolis","IN","Community Hospital North, Radiology","Clearvista","46256",39.900697796128505,-86.04225219663458
+"46250","Indianapolis","IN","Same Day Dental","8060 Shadeland Ave","46250",39.901903000000004,-86.04733
+"46250","Indianapolis","IN","Fairbanks Hospital","8102 Clearvista Pkwy","46256",39.90353690325798,-86.0406976527372
+"46250","Indianapolis","IN","Community Health Network","8108 Clearvista Drive","46256",39.90466362079915,-86.04149026477214
+"46250","Indianapolis","IN","ROOM 1715","not_available","46256",39.901390075683594,-86.04212188720703
+"46250","Indianapolis","IN","Community Imaging Center North","8181 Clearvista Pkwy","46256",39.90444911184784,-86.03870289614115
+"46250","Indianapolis","IN","Community Hospital North ER","7236-7276 Clearvista Dr","46256",39.900061206418755,-86.04137309021249
+"46250","Indianapolis","IN","Via OB/GYN- Community Hospital North","Clearvista Ave","46256",39.90035655713871,-86.04290747570097
+"46250","Indianapolis","IN","Dr. Tavel Family Eye Care","7035 E 96th St","46250",39.926522872876575,-86.04501599663547
+"46254","Indianapolis","IN","Rehabilitation Hospital of Indiana","4141 Shore Dr","46254",39.83002702713303,-86.27730609781418
+"46254","Indianapolis","IN","Neuropsychology Of Indiana","6720 Parkdale Pl","46254",39.82642364501953,-86.27899932861328
+"46260","Indianapolis","IN","Peyton Manning Children's Hospital at St.Vincent","2001 W 86th St","46260",39.90816458392035,-86.19530087232401
+"46260","Indianapolis","IN","St.Vincent Cancer Care","8301 Harcourt Rd","46260",39.9073401949262,-86.19248546917491
+"46260","Indianapolis","IN","St. Vincent Stress Center","8401 Harcourt Rd","46260",39.90866066494918,-86.19295455683033
+"46260","Indianapolis","IN","St.Vincent Women's Hospital","8111 Township Line Rd","46260",39.903797,-86.200591
+"46260","Indianapolis","IN","4 Beast","2001 W 86th St Fl 4","46260",39.91038964791877,-86.1942581945263
+"46260","Indianapolis","IN","St. Vincent - Pediatric Gastroenterology","8402 Harcourt Rd Ste 402","46260",39.908490468759524,-86.19490768061664
+"46260","Indianapolis","IN","St Vincent Indianapolis Digestive Health Center","not_available","46260",39.91128556979949,-86.1955564778518
+"46260","Indianapolis","IN","Heart Center Of Indiana","6125 naab rd","46268",39.907618403481884,-86.15846157729621
+"46260","Indianapolis","IN","St. Vincent Neuroscience Institute","8333 Naab Rd #250, Indianapolis, IN 46260","46260",39.91094876135432,-86.19550444026491
+"46260","Indianapolis","IN","Peyton Manning Children's Hospital - Pediatric Nephrology & Hypertension","8402 Harcourt Rd","46260",39.90868415,-86.19463795
+"46260","Indianapolis","IN","St. Vincent Seton Specialty Hospital","8050 Township Line Rd","46260",39.90174808715723,-86.20431453109013
+"46260","Indianapolis","IN","St. Vincent Hospital Heart Center Of Indiana","8335 Naab Road (Entrance # 7)","46260",39.90794372558594,-86.19731140136719
+"46268","Indianapolis","IN","UrgentCare Indy","7911 Michigan Rd","46268",39.89802169799805,-86.21539306640625
+"46268","Indianapolis","IN","ImmediaDent","3269 W 86th St","46268",39.911465440483646,-86.21627402837798
+"46268","Indianapolis","IN","Dr. Tavel Family Eye Care","3536 W 86th St","46268",39.912465000000005,-86.22095
+"46268","Indianapolis","IN","Transplant","8333 Naab Rd","46260",39.9080604,-86.2090811
+"46268","Indianapolis","IN","Eskenazi Health Center Pecar","6940 Michigan Rd","46268",39.881885,-86.211764
+"46268","Indianapolis","IN","New Hope of Indiana","8450 N Payne Rd","46268",39.90958977246298,-86.22919662559264
+"46278","Indianapolis","IN","OrthoIndy","8450 Northwest Blvd","46278",39.9079411,-86.2673993
+"46278","Indianapolis","IN","Expedite Clinic","6040 W.84th Street","46278",39.907578295129625,-86.26832116458466
+"46280","Indianapolis","IN","Halfway House","10701 Broadway St","46280",39.943729400634766,-86.14678192138672
+"46304","Chesterton","IN","Addison Point","not_available","46304",41.601467731382144,-87.04008437101194
+"46304","Chesterton","IN","Franciscan Emergency Center Chesterton","770 Indian Boundary Rd","46304",41.61545836684511,-87.03751070424914
+"46304","Chesterton","IN","Northwest Health Urgent Care - Chesterton (CareEXPRESS Urgent Care)","650 Dickinson Rd","46304",41.60137939453125,-87.0401840209961
+"46304","Chesterton","IN","Northwest Health - Porter - Emergency Room","85 E US Highway 6","46383",41.55227,-87.05011
+"46307","Crown Point","IN","Methodist Hospital Southlake Campus","8701 Broadway","46410",41.458275928379805,-87.33160397375983
+"46307","Crown Point","IN","Franciscan St Anthony Health: Crown Point","1201 S Main St","46307",41.39554105518844,-87.36695266107698
+"46307","Crown Point","IN","Methodist Outpatient Diagnostic Center","101 E 87th Ave","46410",41.458363320304,-87.33336996254826
+"46307","Crown Point","IN","Community Hospital Outpatient Center Immediate Care","7651 Harvest Dr","46375",41.47941970825195,-87.4164810180664
+"46307","Crown Point","IN","urgent care","not_available","46307",41.46713995040078,-87.41240175785738
+"46307","Crown Point","IN","Midwest Express Clinic","5521 W Lincoln Hwy #1A","46307",41.4742962,-87.401614
+"46307","Crown Point","IN","Pinnacle Hospital","not_available","46410",41.44813537597656,-87.32852172851562
+"46307","Crown Point","IN","First Med Urgent Care","751 E 81st Ave","46410",41.47039031982422,-87.33209991455078
+"46307","Crown Point","IN","St. Mary Medical Center Emergency Room","not_available","46342",41.42448947911105,-87.23807326693179
+"46307","Crown Point","IN","Community Healthcare System","9239 Broadway","46410",41.450762,-87.335539
+"46307","Crown Point","IN","Midwest Express Clinic","5043 E 81st Ave","46410",41.47041,-87.27598
+"46307","Crown Point","IN","St. John Providence Diagnostic Services","27351 Dequindre Rd","48071",41.44555728490328,-87.45120406150818
+"46307","Crown Point","IN","Methodist Hospitals CareFirst Crown Point","1275 E North St","46307",41.420074462890625,-87.3488998413086
+"46307","Crown Point","IN","Franciscan Cardiology","1205 S Main St","46307",41.39637756347656,-87.36455535888672
+"46307","Crown Point","IN","Cancer Care - Ascension St. John Hospital at 23 Mile","17900 23 Mile Rd","48044",41.44116610896381,-87.4505603313446
+"46307","Crown Point","IN","Vibra Hospital","9509 Georgia St","46307",41.444451165109,-87.32559769562789
+"46307","Crown Point","IN","North West Regional Surgery Center","8900 Broadway Ste 100","46410",41.456768,-87.336832
+"46307","Crown Point","IN","urgent care clinic","Rt. 30 And Burr","46410",41.474395751953125,-87.3910140991211
+"46307","Crown Point","IN","St. Mary Medical Center Outpatient Surgery Center","1500 S Lake Park Ave","46342",41.47405520585456,-87.25782713425843
+"46307","Crown Point","IN","Porter Health and Wellness Clinic","8688 Broadway","46410",41.46099853515625,-87.33830261230469
+"46307","Crown Point","IN","Crown Point Animal Hospital","Crown Point, IN","46307",41.429558,-87.363434
+"46311","Dyer","IN","Midwest Express Clinic","875 Joliet St","46311",41.4932345,-87.50687459999999
+"46311","Dyer","IN","Franciscan St. Margaret Health","24 Joliet St","46311",41.492713274077076,-87.5240450979262
+"46311","Dyer","IN","Ascension Medical Group Dedicated Doctors","30055 Northwestern Hwy","48334",41.45001249669676,-87.47972130775452
+"46311","Dyer","IN","st margaret mercy outpatient center","Route 30","46311",41.49208894907035,-87.52524311204199
+"46311","Dyer","IN","st margarets hospital","not_available","46406",41.47780409320749,-87.50086609170356
+"46311","Dyer","IN","Xpress Ortho Care","875 Joliet St, Dyer Town Center","46311",41.49318,-87.50687
+"46311","Dyer","IN","Franciscan Alliance: St. Margaret Mercy - Dyer","not_available","46311",41.49324771332346,-87.52397746716801
+"46311","Dyer","IN","Fransiscan Health Dyer","Joliet Street","46311",41.492878,-87.525154
+"46312","East Chicago","IN","St. Catherine Hospital","4321 Fir St","46312",41.63512135718036,-87.44897424173938
+"46312","East Chicago","IN","St Catherines OR","not_available","46312",41.6400010821958,-87.4502541748716
+"46312","East Chicago","IN","DaVita Comprehensive Renal Care - East Chicago","4320 Fir St","46312",41.63621139526367,-87.44882202148438
+"46312","East Chicago","IN","St. Catherine Hospital Audiology","4321 Fir St Ste 410","46312",41.634417414991184,-87.4481463432312
+"46319","Griffith","IN","MEDIC 5- POSTED @ RIDGE & COLFAX","not_available","46408",41.550273,-87.413707
+"46319","Griffith","IN","TheOrtmansOvalOffice","not_available","46322",41.55807876586914,-87.44330596923828
+"46319","Griffith","IN","Grandma Gants Cell (Hospital)","not_available","47805",41.486721,-87.435612
+"46319","Griffith","IN","MD Urgent Care","801 W Glen Park Ave","46319",41.537078857421875,-87.4363784790039
+"46320","Hammond","IN","Midwest Express Clinic","31 Sibley St Ste A","46320",41.620309999999996,-87.523662
+"46320","Hammond","IN","St. Margaret Hospital","5454 Hohman Ave","46320",41.61476151702225,-87.52364414269489
+"46320","Hammond","IN","Concentra Urgent Care","6423 Columbia Ave Unit A","46320",41.5967084,-87.4972779
+"46320","Hammond","IN","Franciscan Health Hammond","5454 Hohman Avenue","46320",41.61503219604492,-87.52360534667969
+"46320","Hammond","IN","The assylum","not_available","46327",41.64043897757428,-87.51195693877351
+"46321","Munster","IN","Community Hospital","901 MacArthur Blvd","46321",41.55021694464099,-87.50647225619032
+"46321","Munster","IN","Hammond Clinic Urgent Care","not_available","46324",41.570014941790575,-87.50762117352157
+"46321","Munster","IN","Franciscan Hospital","701 Superior Ave","46321",41.53786423562443,-87.51200525906924
+"46321","Munster","IN","Midwest Express Clinic","8135 Calumet Ave","46321",41.5646287,-87.508456
+"46321","Munster","IN","Munster Community Hospital ER","8921 Calumet Ave","46321",41.55098413374184,-87.50773455602432
+"46321","Munster","IN","Emergency Room","calumet ave","46321",41.5542433099215,-87.50998542752899
+"46321","Munster","IN","community hospital cardiac rehab","not_available","46321",41.55076684194389,-87.50570386531082
+"46321","Munster","IN","Munster Community Hospital Labor and Delivery","901 Macarthur Boulevard","46321",41.55069193,-87.50601274
+"46321","Munster","IN","Shaheen Parvez, M.D. Urgent Care Center","1640 45th St.","46322",41.53714639943759,-87.48872351143643
+"46321","Munster","IN","William J. Riley Memorial Residence","511 Otis Bowen Dr","46321",41.533184000000006,-87.515208
+"46321","Munster","IN","St. Margaret Mercy Hospital North Pavilion","U.S. 30, Dyer, IN 46311","46311",41.56137817742315,-87.5167838861498
+"46321","Munster","IN","Urgent Care","6423 Columbia Ave","46320",41.572287006028965,-87.4924160079591
+"46321","Munster","IN","MD Emergent Care-Urgent Care Centers","8220 Calumet Ave","46321",41.563897999999995,-87.50932900000001
+"46322","Highland","IN","Physicians Urgent Care","10343 Indianapolis Blvd Ste 104","46322",41.52534866333008,-87.47054290771484
+"46322","Highland","IN","Ruang Dahlia II (RSUD Kota Banjar)","Jln. Pegadaian","46322",41.5434996,-87.4703029
+"46322","Highland","IN","NW Indiana ER & Hospital","7904 Cabela Dr","46324",41.5692163134476,-87.48259663581848
+"46323","Hammond","IN","West Indiana Cancer Center","not_available","46323",41.580836,-87.457455
+"46323","Hammond","IN","Community Healthcare System","2300 173rd Ave","46323",41.57832,-87.474825
+"46324","Hammond","IN","Drug & Alcohol Rehab Hammond","7219 White Oak Ave","46324",41.58185,-87.49025999999999
+"46342","Hobart","IN","st mary MEDICAL CENTER","1500 South Lake Park Avenue","46342",41.51254867,-87.26128488
+"46342","Hobart","IN","Porter Portage Hospital Campus","3630 Willowcreek Rd","46368",41.5461698701815,-87.18404816653492
+"46342","Hobart","IN","Lakeshore Bone And Joint","3691 Willowcreek Rd","46368",41.54466488970595,-87.18186626896482
+"46342","Hobart","IN","Midwest Express Clinic","6131 US-6","46368",41.55003,-87.17813439999999
+"46342","Hobart","IN","Portage Health Centers I & II Immediate Care","3545 Arbors Blvd and 6375 US Hwy 6","46368",41.54981503548845,-87.16854628185796
+"46342","Hobart","IN","St. Mary's Hospital","W 14th St","46342",41.51271913881344,-87.26090730944173
+"46342","Hobart","IN","Northshore Health Center","not_available","46368",41.54870651666667,-87.17243745
+"46342","Hobart","IN","St. Mary Medical Center Fifth Floor Cancer Ward","1400 S Lake Park Ave","46342",41.51260226401686,-87.26204410543747
+"46342","Hobart","IN","Hind Hospital","6100-6280 S Lake Park Ave","46342",41.509102,-87.260187
+"46342","Hobart","IN","Hussam Suradi MD FACC","1400 S Lake Park Ave Ste 300","46342",41.513092449627436,-87.25816011428833
+"46342","Hobart","IN","Northwest Health Urgent Care - Hobart (CareEXPRESS Urgent Care)","7890 E Ridge Rd","46342",41.55086898803711,-87.24252319335938
+"46350","La Porte","IN","IU Health Emergency Room","1007 Lincolnway","46350",41.61058044433594,-86.72512817382812
+"46350","La Porte","IN","IU Health Laporte CVICU","not_available","46350",41.610535574390234,-86.72460038711564
+"46350","La Porte","IN","Franciscan Beacon Hospital","1010 W State Road 2","46350",41.600653,-86.7313034
+"46350","La Porte","IN","IU Health Laporte 5th floor","not_available","46371",41.669677734375,-86.60814666748047
+"46350","La Porte","IN","Senior Helpers","450 Saint John Rd","46360",41.682251,-86.896881
+"46350","La Porte","IN","IU Health LaPorte Physician Billing","1100 Lincolnway","46350",41.609313,-86.724251
+"46350","La Porte","IN","Northwest Health - La Porte - Emergency Room","1331 State St","46350",41.61106,-86.72534
+"46356","Lowell","IN","Copper Leaf Organics- CBD Store","13530 Morse Street","46303",41.2915651,-87.4211197
+"46356","Lowell","IN","In Home Personal Care LLC","141 Harding Dr","46356",41.28969955444336,-87.42254638671875
+"46360","Michigan City","IN","Franciscan St Anthony Health","301 W Homer St","46360",41.70626301556497,-86.9009618689867
+"46373","Saint John","IN","St. John Providence Outpatient Laboratory","44000 W 12 Mile Rd","48377",41.45134739228636,-87.47141718864441
+"46373","Saint John","IN","Lab - Ascension Michigan Lab Services at 23 Mile","35054 23 Mile Rd","48047",41.449996413449895,-87.47015118598938
+"46373","Saint John","IN","Community Hospital Outpatient Centre, St. John","9660 Wicker Ave","46373",41.44283676147461,-87.47127532958984
+"46373","Saint John","IN","Franciscan ExpressCare St John","8345 Wicker Avenue","46373",41.4672553,-87.470409
+"46383","Valparaiso","IN","Kendell L. Oetter,  E.O.","410 wall Street","46383",41.488434,-87.055939
+"46383","Valparaiso","IN","Porter Hospital Maternity Ward","not_available","46383",41.46688411311099,-87.04955227752497
+"46383","Valparaiso","IN","Porter Hospital Emergency Department","814 Laporte Ave","46383",41.4665412902832,-87.05011749267578
+"46383","Valparaiso","IN","Emergency Room","not_available","46385",41.548592,-87.078493
+"46383","Valparaiso","IN","Valparaiso Medical Center","1900 Roosevelt Rd","46383",41.486026763916016,-87.04564666748047
+"46383","Valparaiso","IN","Poter Hospital","not_available","46391",41.5426025390625,-86.95218658447266
+"46383","Valparaiso","IN","Northwest Health Urgent Care - Valparaiso (CareEXPRESS Urgent Care)","809 Laporte Ave","46383",41.467403411865234,-87.05032348632812
+"46383","Valparaiso","IN","Northwest Health Outpatient Rehabilitation, Valparaiso","1211 Cumberland Xing","46383",41.48681,-87.04533
+"46402","Gary","IN","US Steel Medical","not_available","46402",41.606597334489614,-87.33656556630704
+"46402","Gary","IN","Methodist Administration Building","550 Grant St","46404",41.600399017333984,-87.35710906982422
+"46402","Gary","IN","Surgical Stock Room","650 Grant St","46404",41.598568,-87.357304
+"46403","Gary","IN","Miller Urgent Care","6400 Melton Rd","46403",41.59706,-87.26073
+"46404","Gary","IN","Methodist Hospitals Midlake","not_available","46404",41.57229443354289,-87.36477605218676
+"46404","Gary","IN","Methodist Hospital Northlake Campus","600 Grant Sreet","46402",41.599391430768186,-87.35770564355126
+"46404","Gary","IN","Timberview HealthCare Center","2350 Taft St","46404",41.575804999999995,-87.36701500000001
+"46410","Merrillville","IN","MD Urgent Care Clinic","5304 Broadway","46410",41.522035,-87.336534
+"46410","Merrillville","IN","M. Hytham Rifai, MD","200 East 89th Avenue Ste. 3A","46410",41.4576502,-87.3325231
+"46410","Merrillville","IN","Vibra Hospital of Northwestern Indiana","9509 Georgia Street","46307",41.444427,-87.3252945
+"46506","Bremen","IN","Community Hospital Of Bremen","1020 High Rd","46506",41.4561658,-86.1586104
+"46506","Bremen","IN","Doctor's Hospital","W Sherman St","46506",41.44348875149381,-86.15030735174848
+"46506","Bremen","IN","Indiana Neuropsych Hospital","417 S Whitlock St","46506",41.44380187988281,-86.15023040771484
+"46507","Bristol","IN","The center for hospice","not_available","46516",41.6726686126108,-85.89868688619819
+"46511","Culver","IN","Millers Merry Manor","not_available","46511",41.225037,-86.42292
+"46514","Elkhart","IN","BioLife Plasma Services","2715 Emerson Drive","46514",41.72226439732075,-85.9818755734478
+"46514","Elkhart","IN","MedPoint Urgent Care Elkhart","3301 County Road 6 E","46514",41.7233869,-85.9284879
+"46514","Elkhart","IN","Mamoon Raza","303 S Nappanee St","46514",41.6821347,-86.0047764
+"46514","Elkhart","IN","Delivery Room","not_available","46514",41.68004848780577,-85.9946123511794
+"46514","Elkhart","IN","Radiology Oncology at EGH","600 West Blvd","not_available",41.67927645964448,-85.993371196125
+"46514","Elkhart","IN","River Pointe Surgery Center","500 Arcade Ave","46514",41.6801872253418,-85.99311828613281
+"46514","Elkhart","IN","Radiology Dept","501-599 Arcade Ave","46514",41.679225111111116,-85.99328282222224
+"46514","Elkhart","IN","Riverside Village","1429-1499 Hudson St","46516",41.67771399021149,-85.98852743333333
+"46514","Elkhart","IN","Physicians Urgent Care","900 Johnson St","46514",41.694618,-85.96556700000001
+"46516","Elkhart","IN","Dr. Tavel Family Eye Care","3701 South Main St","46517",41.643204242949444,-85.93317695135751
+"46516","Elkhart","IN","Heart City Health Center","148 W Hively Ave Ste 1","46517",41.659759521484375,-85.96752166748047
+"46526","Goshen","IN","Goshen Hospital Emergency Room","not_available","46526",41.56287411693152,-85.83080844527842
+"46530","Granger","IN","SJRMC IV Therapy","not_available","46545",41.71478466165191,-86.17855587056654
+"46530","Granger","IN","Beacon Granger Hospital","3220 Beacon Pkwy","46530",41.7337096,-86.1503919
+"46530","Granger","IN","David C Grellman - MedPoint Urgent Care Main Street","6913 N Main Street","46530",41.7223813,-86.1792823
+"46530","Granger","IN","Physicians Immediate Care","505 W Cleveland Rd","46545",41.72349270640063,-86.18917903802871
+"46534","Knox","IN","Northwest Health - Starke - Emergency Room (Starke Hospital - Emergency Room)","102 E Culver Rd","46534",41.28750991821289,-86.62190246582031
+"46538","Leesburg","IN","MedStat Urgent Care","W. Pickwick Ave.","not_available",41.33031006210666,-85.68138645446729
+"46544","Mishawaka","IN","Alicia! Limpy! I Just Got Hit By A Car","not_available","46544",41.66133778429243,-86.18014218310451
+"46544","Mishawaka","IN","Rivercrest Specialty Hospital","1625 E Jefferson Blvd","46545",41.67120361328125,-86.1589126586914
+"46544","Mishawaka","IN","Healthy Family Center","400-448 W 3rd St","46544",41.65985327748566,-86.18496252523356
+"46544","Mishawaka","IN","Affordable Hearing Store","130 Roys Dr","46544",41.6587028503418,-86.21544647216797
+"46544","Mishawaka","IN","Triumph Rehabilitation Hospital Northern Indiana","60205 Bodnar Blvd","46544",41.620277404785156,-86.1419677734375
+"46545","Mishawaka","IN","St. Joseph Regional Medical Center","5215 Holy Cross Pkwy","46545",41.7070237661051,-86.1739580465001
+"46545","Mishawaka","IN","Cancer Care Partners","301 E Day Rd","46545",41.697417,-86.178228
+"46545","Mishawaka","IN","Sjmc Iv Team","5125 Holy Cross Parkway","46530",41.707066,-86.17446
+"46556","Notre Dame","IN","Holy Cross House","19000-19352 Douglas Rd","46637",41.70817248515217,-86.23830606863416
+"46563","Plymouth","IN","St. Joseph OB Ward","not_available","46563",41.333437,-86.332454
+"46563","Plymouth","IN","DOT STOP","2915 Gary Dr","46563",41.36309199999999,-86.348958
+"46563","Plymouth","IN","St Joseph Regional Medical Center - Plymouth","1915 Lake Ave","46563",41.33372128389541,-86.33206858356391
+"46571","Topeka","IN","Fort Wayne Orthopedic Hospital","not_available","46571",41.556196,-85.534916
+"46580","Warsaw","IN","Emergency Room KCH","not_available","46580",41.24664319200431,-85.82305759609847
+"46580","Warsaw","IN","Parkview Physicians Group - Family Medicine, Warsaw","1355 Mariners Dr","46582",41.25518035888672,-85.82916259765625
+"46580","Warsaw","IN","Kosciusko Community Hospital - Emergency Room","2101 Dubois Dr","46580",41.24832534790039,-85.82861328125
+"46580","Warsaw","IN","Kosciusko Community Hospital","not_available","46582",41.260058824586736,-85.82388774174896
+"46582","Warsaw","IN","Physicians Urgent Care","2680 Escalade Way","46582",41.27698516476873,-85.85366034650241
+"46601","South Bend","IN","The south bend clinic","211 N Eddy St","46617",41.67862481636041,-86.23616419461666
+"46601","South Bend","IN","Memorial ER","615 N. Michigan","not_available",41.683362631145975,-86.25229608659771
+"46601","South Bend","IN","Memorial Hospital","615 N Michigan Street","46601",41.683556,-86.253047
+"46601","South Bend","IN","Drug & Alcohol Rehab South Bend","225 S Lafayette Blvd","46601",41.674259185791016,-86.2539291381836
+"46601","South Bend","IN","Memorial Hospital RM 395","Rm 395","not_available",41.684086,-86.250965
+"46601","South Bend","IN","Neuropsychiatric Hospitals","112 W Jefferson Blvd","46601",41.674808502197266,-86.24960327148438
+"46601","South Bend","IN","NICU Memorial Hospital","615 N Michigan Ave","46601",41.683918,-86.252185
+"46601","South Bend","IN","Memorial Children's Hospital Pediatric Hematology/Oncology","615 N Michigan St","46601",41.683658599853516,-86.25252532958984
+"46601","South Bend","IN","South Bend Clinic Surgery Center","Eddy","46617",41.67769164165853,-86.23835476378903
+"46601","South Bend","IN","Memorial Hospital Nuero-Ortho","not_available","46601",41.683466,-86.251762
+"46601","South Bend","IN","Memorial Childbirth Center","1700 Lafayette","not_available",41.68340543400204,-86.25221617848285
+"46601","South Bend","IN","Ronald McDonald House Of Michiana","not_available","46616",41.683949607551455,-86.25195569456749
+"46601","South Bend","IN","Lakeland Nursery","1234 Napier St","46601",41.672885,-86.269912
+"46613","South Bend","IN","South Bend Medical Foundation","not_available","46613",41.658528,-86.21831059455872
+"46614","South Bend","IN","Physicians Urgent Care","1245 E Ireland Rd","46614",41.6298501,-86.230485
+"46616","South Bend","IN","Marriot Roofing","1656 N Adams St","46628",41.699592681192335,-86.27561867237091
+"46703","Angola","IN","Angola Urgent Care --- PPG Cardiology Clinic","not_available","46703",41.65052466333927,-84.99995684622091
+"46703","Angola","IN","Advanas Foot & Ankle Specialists Of Angola","3250 Intertech Dr","46703",41.67538070678711,-85.00039672851562
+"46706","Auburn","IN","Wesley Healthcare Auburn, IN","1751 Wesley Rd","46706",41.370277404785156,-85.03239440917969
+"46706","Auburn","IN","ems,garrett","not_available","46706",41.35201644897461,-85.07742309570312
+"46706","Auburn","IN","DeKalb Health","1316 E 7th St","46706",41.36894708016568,-85.03536739778843
+"46706","Auburn","IN","Dekalb Health Emergency Room","1316 East 7th Street (Lot A, Door 5)","46706",41.3688331419176,-85.03484266147477
+"46706","Auburn","IN","DeKalb Medical Group","1314 East 7th Street Suite 320 (Lot C, Door 61)","46706",41.368656158447266,-85.03607940673828
+"46714","Bluffton","IN","Bluffton Regional Medical Center - Emergency Room","303 S Main St","46714",40.7374106,-85.17114959999999
+"46721","Butler","IN","Dekalb Memorial Hospital","not_available","46721",41.43191821974315,-84.86892457422391
+"46725","Columbia City","IN","Parkview Whitley Hospital","1260 E State Rd 205","46725",41.15868377685547,-85.46492004394531
+"46725","Columbia City","IN","Parkview Whitley EMS Base","205 & 30","46725",41.15907985950173,-85.46704022371995
+"46725","Columbia City","IN","The rubble that used to be Parkview Whitley","not_available","46725",41.16387176513672,-85.49688720703125
+"46725","Columbia City","IN","Parkview Physicians Group - General Surgery","885 W Connexion Way","46725",41.17012023925781,-85.50861358642578
+"46725","Columbia City","IN","Parkview Whitley Hospital","750 N. Line St.","46725",41.16285388,-85.49671042
+"46725","Columbia City","IN","PKV Main","2200 Randallia Dr","46805",41.159730698489106,-85.4156789246335
+"46733","Decatur","IN","Adams Memorial Hospital","1100 Mercer Ave","46733",40.816234411537,-84.91404275534305
+"46733","Decatur","IN","Adams Co Hospital","not_available","46733",40.82142707,-84.91909516
+"46733","Decatur","IN","The Hope Clinic","970 South 11th Street","46733",40.8195166,-84.9344617
+"46750","Huntington","IN","Parkview Huntington Hospital","2001 Stults Rd","46750",40.89949,-85.49044
+"46750","Huntington","IN","PHH","not_available","46750",40.9063971,-85.4912868
+"46755","Kendallville","IN","Parkview Noble Hospital","401 Sawyer Rd","46755",41.44845,-85.29476
+"46755","Kendallville","IN","Parkview Noble Hospital Rehabilitation","401 N Sawyer Rd","46755",41.4490688178259,-85.29584493755182
+"46761","Lagrange","IN","Parkview LaGrange Hospital","207 N Townline Rd","46761",41.64579391479492,-85.42613983154297
+"46767","Ligonier","IN","Ligonier Animal Clinic","104-110 E Northwood St","46767",41.47411555,-85.58745086666667
+"46774","New Haven","IN","IU Health Urgent Care Fort Wayne – Hope Drive","7411 Hope Dr Ste A","46815",41.11985333770894,-85.04659375883661
+"46774","New Haven","IN","New haven care and rehab","1201 Daly Dr, New Haven, IN 46774","46774",41.064893,-85.023462
+"46774","New Haven","IN","Stellhorn Vet Hospital","7913 Stellhorn Rd","46815",41.121454,-85.039775
+"46777","Ossian","IN","Honegger Animal Clinic","420 North Jefferson Street","46777",40.884001207233695,-85.1662030335151
+"46783","Roanoke","IN","Brenda OHara, MD","8911 Liberty Mills Rd","46804",41.02927017211914,-85.25875091552734
+"46802","Fort Wayne","IN","Old Duemling Clinic","2806 Fairfield Ave","46807",41.059278,-85.145354
+"46802","Fort Wayne","IN","Drug & Alcohol Rehab Fort Wayne","200 E Main St","46802",41.08040237426758,-85.1373062133789
+"46802","Fort Wayne","IN","St. Joseph Hospital - Emergency Room","700 Broadway","46802",41.078147888183594,-85.14922332763672
+"46802","Fort Wayne","IN","Vibra","2525 fairfield ave","46807",41.061013066340976,-85.14580939518291
+"46803","Fort Wayne","IN","Parkview IS Building","Colony","not_available",41.077376,-85.115048
+"46804","Fort Wayne","IN","Lutheran Hospital Emergency Room","not_available","46804",41.03901765207314,-85.24898544988831
+"46804","Fort Wayne","IN","Orthopedics Northeast (ONE)","Lutheran Hospital","not_available",41.04098014215096,-85.25064991156269
+"46804","Fort Wayne","IN","Fort Wayne Neurological Center","7956 W Jefferson Blvd","46804",41.04033840643192,-85.24943291782327
+"46804","Fort Wayne","IN","Coumadin Clinic","Olde Canal Pl","46804",41.08520365,-85.25607738333333
+"46804","Fort Wayne","IN","BioLife Plasma Services","1450 Getz Road","46804",41.073014070544865,-85.22006238453756
+"46805","Fort Wayne","IN","Parkview Randallia Hospital","not_available","46805",41.096282,-85.111566
+"46805","Fort Wayne","IN","Vibra Hospital of Fort Wayne","2200 Randallia Drive 2nd Floor","46805",41.09569399999999,-85.109793
+"46805","Fort Wayne","IN","Parkview Behavioral Health Hospital","1720 Beacon St","46805",41.092888,-85.101663
+"46805","Fort Wayne","IN","Parkview Occupational Health - Fort Wayne Central","3415 Hobson Rd","46805",41.108028411865234,-85.10067749023438
+"46805","Fort Wayne","IN","Dept of Veterans (VA Hospital)","2121 Lake Ave","46805",41.091178223679414,-85.1097438582396
+"46808","Fort Wayne","IN","Parkview SCORe Distribution","not_available","46808",41.12176569990526,-85.16415992475606
+"46809","Fort Wayne","IN","122nd Medical Building","not_available","46809",40.98522599082969,-85.17622889427943
+"46815","Fort Wayne","IN","Center For Professional Development","not_available","46815",41.096621,-85.084035
+"46815","Fort Wayne","IN","Premier Urgent Care Clinic Dr. Aiman Hassan MD","6036 Trier Rd","46815",41.112728000000004,-85.063563
+"46816","Fort Wayne","IN","Lutheran Hospital MS 2","not_available","46816",41.03147888183594,-85.0968017578125
+"46818","Fort Wayne","IN","Health Now Urgent Care","6601-7129 Lima Rd","46818",41.14167821249456,-85.1633862771996
+"46818","Fort Wayne","IN","Sarah Schlie, DO","11055 Twin Creeks Cv","46845",41.18349075317383,-85.16545104980469
+"46818","Fort Wayne","IN","IU Health Urgent Care Fort Wayne – North","9821 Lima Rd Ste 103","46818",41.1728246,-85.166609
+"46818","Fort Wayne","IN","Byron Health Center(residential)","12101 Lima Rd","46818",41.194847106933594,-85.1700210571289
+"46825","Fort Wayne","IN","Dupont Hospital And Doctors Offices","2520 E DuPont Rd","46825",41.175398,-85.108845
+"46825","Fort Wayne","IN","PRMC STICU","not_available","46825",41.184076841321314,-85.09852348955233
+"46825","Fort Wayne","IN","BioLife Plasma Services","7921 Coldwater Rd.","46825",41.1520543,-85.13766729999999
+"46825","Fort Wayne","IN","Dupont hospital Insomnia","Dupont Rd","46845",41.175467918092444,-85.10929792475248
+"46825","Fort Wayne","IN","PRMC MSICU","not_available","46845",41.18151052224881,-85.09867047378947
+"46825","Fort Wayne","IN","Amys Medical Care Unit","not_available","46835",41.140593,-85.082384
+"46825","Fort Wayne","IN","Physicians Urgent Care","920 E Coliseum Blvd","46805",41.117429,-85.127881
+"46835","Fort Wayne","IN","Prmc Surgery","11109 Parkview Plaza Dr","46845",41.186704,-85.101628
+"46835","Fort Wayne","IN","Brenda OHara, MD","3909 New Vision Dr","46845",41.188381,-85.09603299999999
+"46845","Fort Wayne","IN","Parkview Heart Institute","11108 Parkview Plaza Drive","46845",41.18546,-85.12203
+"46845","Fort Wayne","IN","Parkview Orthopedic Hospital","11130 Parkview Plaza Dr","46845",41.18546,-85.12203
+"46845","Fort Wayne","IN","Parkview Women & Children's Hospital","11115 Parkview Plaza Dr","46845",41.18546,-85.12203
+"46845","Fort Wayne","IN","Parkview Physicians Group - FirstCare Walk-In Clinic, Archbold","121 Westfield Dr","43502",41.18546,-85.12203
+"46901","Kokomo","IN","Dr. Tavel Family Eye Care","1164 South 17th Street","46902",40.473649,-86.109207
+"46901","Kokomo","IN","Meadows Medical Center","700 E Firman St Suite 195","46902",40.4683151,-86.1230948
+"46901","Kokomo","IN","Marriage & Family Counseling Group Services LLC","1428 S Main St #2","46902",40.46975326538086,-86.13066864013672
+"46901","Kokomo","IN","Kindred at Home","2130 W Sycamore St","46901",40.4893523,-86.15896723
+"46901","Kokomo","IN","St Joseph Hospital","1901-2119 W Sycamore St","46901",40.485766897899424,-86.15653982480713
+"46901","Kokomo","IN","Howard Community Hospital Emergancy Room","not_available","46902",40.49688977294204,-86.14924884696542
+"46901","Kokomo","IN","MedExpress Urgent Care","1010 South Reed Road","46901",40.47585415234867,-86.10726177692413
+"46901","Kokomo","IN","Emergency - Ascension St. Vincent Kokomo","1907 W Sycamore St","46901",40.48636,-86.15689
+"46902","Kokomo","IN","HRHS EMS","3500 S Lafountain St","46902",40.44730758666992,-86.12474060058594
+"46902","Kokomo","IN","St joe med one","5111 Clinton Dr","46902",40.436673,-86.126466
+"46928","Fairmount","IN","Marion General Hospital Diagnostics - Fairmount","157 W Eighth St","46928",40.4224178097668,-85.64870730042458
+"46933","Gas City","IN","Hometown Animal Hospital","94 Schaffer Dr","46933",40.48927924981569,-85.59496420904858
+"46933","Gas City","IN","Marion General Hospital Diagnostics - Gas City","4781 Kaybee Dr","46933",40.48374489533596,-85.54597645999365
+"46947","Logansport","IN","Logansport State Hospital","1098 S State Road 25","46947",40.74280548095703,-86.39755249023438
+"46947","Logansport","IN","Saint Vincents. Hospital","not_available","46947",40.75023293495178,-86.34269535541534
+"46947","Logansport","IN","Logansport Memorial Hospital","1101 Michigan Avenue","46947",40.763245,-86.361618
+"46952","Marion","IN","Marion General Hospital","441 N Wabash Ave","46952",40.56407248291768,-85.66597893836843
+"46952","Marion","IN","New Horizons Home Healthcare","703 W Chapel Pike","46952",40.581252834745236,-85.66851139068604
+"46952","Marion","IN","Grant-Blackford Mental Health","not_available","46952",40.56510925292969,-85.66507720947266
+"46952","Marion","IN","MGH Express Urgent Care","1130 North Baldwin Avenue","46952",40.5719623,-85.6753513
+"46952","Marion","IN","Gillum Facial Plastic Surgery","801 W Gardner Dr","46952",40.5795258,-85.6698948
+"46952","Marion","IN","MGH Medical Oncology","831 N Theatre Rd","46952",40.573187488023805,-85.68206861615181
+"46952","Marion","IN","Marion General Hospital Diabetes Education","330 N Wabash Ave Ste G-90","46952",40.56393528313052,-85.66600084304815
+"46952","Marion","IN","MGH Surgery Center","330 N Wabash Ave Ste 200","46952",40.56369212642726,-85.66415995360785
+"46952","Marion","IN","Marion General Hospital Diagnostics - Northwood","1399 N Baldwin Ave","46952",40.578629305359144,-85.67043016073512
+"46952","Marion","IN","MGH Patient Financial Services","513 North River Road","46952",40.56373132243862,-85.66413370896043
+"46952","Marion","IN","MGH Respiratory Care","441 North Wabash Avenue","46952",40.5641,-85.66627
+"46952","Marion","IN","Riverview Surgery Center","330 N Wabash Ave","46952",40.56433059,-85.66442146666667
+"46952","Marion","IN","MGH Lung Center","330 N Wabash Ave Ste 450","46952",40.5637016353461,-85.664153695052
+"46952","Marion","IN","MGH Work Solutions","1136 N Baldwin Ave","46952",40.57205581665039,-85.6754150390625
+"46953","Marion","IN","Northern Indiana Health Care System- Marion VA Campus","1700 E 38th St","46953",40.5206479004008,-85.6369056108639
+"46953","Marion","IN","Marion General Hospital Diagnostics - South","1408 W Bella Dr","46953",40.52605117751488,-85.67659541037074
+"46953","Marion","IN","Marion General Hospital Diagnostics - Bella","1415 W Bella Dr","46953",40.52560806274414,-85.6765365600586
+"46953","Marion","IN","MGH Outpatient Radiology","1410 W Bella Dr","46953",40.52646242845565,-85.67575246097022
+"46953","Marion","IN","Upland Health & Diagnostics","1809 S Main St","46989",40.4579356749064,-85.49306778240862
+"46953","Marion","IN","MGH Great Beginnings","1419 West Bella Drive","46953",40.525597,-85.67657
+"46953","Marion","IN","MGH Diagnostics - Bella","1415 West Bella Drive","46953",40.52560806274414,-85.6765365600586
+"46970","Peru","IN","Dukes Memorial Hospital - Emergency Room","275 W 12th St","46970",40.75680160522461,-86.08220672607422
+"46970","Peru","IN","dukes hospital day surgery","not_available","46970",40.761356353759766,-86.10556030273438
+"46975","Rochester","IN","Woodlawn Hospital","not_available","46975",41.0630891246709,-86.1955143703876
+"46992","Wabash","IN","Parkview Wabash Hospital","10 John Kissinger Dr","46992",40.80694,-85.81533
+"46992","Wabash","IN","Parkview Hospital","not_available","46992",40.821003,-85.82342
+"46992","Wabash","IN","Parkview Physicians Group - FirstCare Walk-In Clinic","1655 N Cass St","46992",40.822120666503906,-85.8438720703125
+"46996","Winamac","IN","Pulaski Memorial Hospital","not_available","46996",41.05650450511217,-86.59624868330667
+"47001","Aurora","IN","Dearborn County Hospital","600 Wilson Creek Rd","47025",39.11165342891399,-84.88359871449846
+"47001","Aurora","IN","legacy","not_available","47025",39.11362075805664,-84.88702392578125
+"47001","Aurora","IN","Mercy Health - The Heart Institute, Lawrenceburg","606 Wilson Creek Road","47025",39.11102543,-84.88404977
+"47001","Aurora","IN","Lawrenceburg Urgent Care","587 W Eads Pkwy","47025",39.09246826171875,-84.87162017822266
+"47001","Aurora","IN","Dearborn County Hospital Xray","Wilson Creek Rd","47001",39.0753,-84.89245
+"47001","Aurora","IN","mercy western hills Hospital","not_available","45238",39.09561127917985,-84.86680742447821
+"47001","Aurora","IN","Urgent Care","US 50","not_available",39.0893376764293,-84.87442065124209
+"47001","Aurora","IN","Highpoint Health Emergency Department","Wilson Creek Road","47025",39.111224,-84.883619
+"47001","Aurora","IN","The Christ Hospital Physicians - Podiatry","368 Bielby Rd. Suite 140","47025",39.11492919921875,-84.88371276855469
+"47006","Batesville","IN","Margaret Mary Hospital","not_available","47006",39.30519924793866,-85.22285440855893
+"47006","Batesville","IN","Cincinnati Children's Hospital Medical Center","Mulberry st","not_available",39.2917,-85.225891
+"47006","Batesville","IN","Sarah Todd NP-BC","24 Six Pine Ranch Road","47006",39.312843322753906,-85.20648956298828
+"47006","Batesville","IN","AccuDoc Urgent Care","20 Alpine Dr","47006",39.310125482055206,-85.21603125396729
+"47006","Batesville","IN","Stephanie Eckerle PA-C","26 Six Pine Ranch Road","47006",39.311065673828125,-85.20562744140625
+"47006","Batesville","IN","The Christ Hospital Physicians - Ohio Heart & Vascular","24 Six Pine Ranch Rd.","47006",39.312843322753906,-85.20648956298828
+"47006","Batesville","IN","Margaret Mary Health - Main Campus","321 Mitchell Avenue","47006",39.304402,-85.222972
+"47025","Lawrenceburg","IN","The Christ Hospital Physicians - Ohio Heart & Vascular","98 Elm St. Suite 400","47025",39.09437942504883,-84.84599304199219
+"47102","Austin","IN","scott co memorial hospital","not_available","47102",38.763397216796875,-85.82430267333984
+"47111","Charlestown","IN","Baptist Health Medical Group Family Medicine – River Ridge","7725 Highway 62 Ste 100","47111",38.38829040527344,-85.68256378173828
+"47111","Charlestown","IN","St. Catherine's Regional Hospital","2200 Market St","47111",38.47379706496335,-85.67060638241281
+"47112","Corydon","IN","Kosair's","Floyd St","40232",38.23558976288966,-86.12678152176481
+"47112","Corydon","IN","Harrison County Hospital","1141 Hospital Dr NW","47112",38.23800297196514,-86.14747965396894
+"47119","Floyds Knobs","IN","Baptist Health Floyd","1850 State St","47150",38.30079470668791,-85.83360347077058
+"47119","Floyds Knobs","IN","Baptist Health Floyd Emergency Care","1850 State Street, Emergency Department","47150",38.30125341158271,-85.83452939987183
+"47119","Floyds Knobs","IN","Floyd Memorial Urgent Care Center","800 Highlander Point Dr","47119",38.315818786621094,-85.90042877197266
+"47119","Floyds Knobs","IN","Baptist Health Physical Therapy State Street","2125 State St Ste 2","47150",38.3034567457652,-85.84032271988688
+"47119","Floyds Knobs","IN","Norton Immediate Care Center - New Albany","3605 Northgate Ct Ste 110","47150",38.33435733701525,-85.8169180760575
+"47119","Floyds Knobs","IN","Floyd Memorial Out Patient Surgery","not_available","47150",38.301010350439,-85.83433345291233
+"47119","Floyds Knobs","IN","Baptist Health Physical Therapy Floyd Hospital","2125 State St","47150",38.301221999999996,-85.834121
+"47119","Floyds Knobs","IN","Senior Helpers","3317 Grant Line Road","47150",38.32782061,-85.8196388
+"47119","Floyds Knobs","IN","Baptist Health Medical Group - Cardiology","2109 Green Valley Rd","47150",38.30400848388672,-85.8373031616211
+"47119","Floyds Knobs","IN","American Health Network","3605 Northgate Ct Ste 204","47150",38.334400708677734,-85.81685987279376
+"47119","Floyds Knobs","IN","Baptist Health Urgent Care - Highlander Point","800 Highlander Point Dr Ste 103","47119",38.315818786621094,-85.90042877197266
+"47119","Floyds Knobs","IN","Baptist Health Floyd Family Medicine - New Albany","2315 Green Valley Rd Ste 100","47150",38.30902099609375,-85.83747100830078
+"47119","Floyds Knobs","IN","The Little Clinic","815 Highlander Point Dr","47119",38.317800231202014,-85.89957296848303
+"47129","Clarksville","IN","Recovery","not_available","47130",38.281854,-85.748233
+"47129","Clarksville","IN","Ccems Station 4","kopp ln","47129",38.30065475,-85.75308202
+"47129","Clarksville","IN","Clark Memorial Hospital Emergency Room","1220 Missouri Ave","47130",38.2824731869989,-85.74922961968514
+"47129","Clarksville","IN","Kentuckiana Medical Center","4601 Medical Plaza Way","47129",38.33331418613659,-85.75271762429375
+"47129","Clarksville","IN","Surgical Associates Of Southern Indiana","Medical Plaza","47130",38.27286588009413,-85.74965297173534
+"47129","Clarksville","IN","Hunter Station Urgent Care Center","Hunter Station Way","47172",38.32725407538279,-85.77288334384771
+"47129","Clarksville","IN","VA Hospital","800 Zorn Ave","47129",38.32929096707564,-85.7537342454055
+"47129","Clarksville","IN","Norton Vascular Surgery","2051 Clevidence Blvd Ste B","47129",38.3286557838958,-85.76693380489348
+"47129","Clarksville","IN","Advanced Regional Surgery Center","360 Missouri Ave","47130",38.27131271362305,-85.7517318725586
+"47129","Clarksville","IN","Clark Urgent Care","2205 Greentree N","47129",38.3305035,-85.76690479999999
+"47130","Jeffersonville","IN","Robley Rex V.A. Medical Center","800 Zorn Ave","40206",38.27063349826608,-85.69713920498789
+"47130","Jeffersonville","IN","Wellstone Regional Hospital","2700 Vissing Park Road","47130",38.32687759399414,-85.70947265625
+"47130","Jeffersonville","IN","Norton Children's Medical Group - Windy Hills","4884 Brownsboro Rd","40207",38.27873992919922,-85.63636779785156
+"47130","Jeffersonville","IN","Signature Care and Rehabilitation-Northfield","6000 Hunting Rd","40222",38.28236389160156,-85.63733673095703
+"47150","New Albany","IN","The Little Clinic","3165 S 2nd St","40208",38.20256029551092,-85.76139547045932
+"47150","New Albany","IN","Baptist Health Urgent Care - Charlestown Road","5130 Charlestown Rd #2","47150",38.36556451571583,-85.77829534487324
+"47150","New Albany","IN","Baptist Health Medical Group Family Medicine","7600 Highway 60 Ste 100","47172",38.37068176269531,-85.76020050048828
+"47150","New Albany","IN","AccessiCare Elder Home Care",".","not_available",38.254627580869496,-85.75919151306152
+"47150","New Albany","IN","BP.Alivia Medika jl.Pasundan 107","Jl.Pasundan No.107","40251",38.25,-85.8
+"47150","New Albany","IN","Express Care","3897 Charlestown Rd","47150",38.34199894697552,-85.8025779466972
+"47150","New Albany","IN","Drug Rehab Treatment","609 W Main St","40202",38.257401,-85.7602
+"47150","New Albany","IN","Matthew Harrell","2900 W Broadway Ste 226","40211",38.248863220214844,-85.80064392089844
+"47150","New Albany","IN","Norton Immediate Care Dixie","Dixie Hwy","not_available",38.19048779241802,-85.76259177736884
+"47150","New Albany","IN","Drug & Alcohol Rehab Louisville","462 S 4th St #2420","40202",38.25136947631836,-85.7577133178711
+"47150","New Albany","IN","Norton Community Medical Associates - Parkland","2746 Virginia Ave","40211",38.2377815246582,-85.8000717163086
+"47150","New Albany","IN","American Urgent Care","645 S Roy Wilkins Ave","40203",38.248058,-85.765842
+"47167","Salem","IN","St. Vincent Medical Group","1002 N Shelby St Ste 1000","47167",38.614688873291016,-86.10819244384766
+"47167","Salem","IN","St. Vincents Of Salem","911 North Shelby St","47167",38.6134058054039,-86.10752237226725
+"47167","Salem","IN","Meadow View Health and Rehab","Homer","47167",38.61444448852736,-86.09470877495419
+"47167","Salem","IN","Washington County Ambulance Service","not_available","47167",38.61040496826172,-86.09395599365234
+"47167","Salem","IN","Ascension St. Vincent Salem (St. Vincent Salem Hospital)","911 N Shelby St","47167",38.6132502,-86.1071817
+"47170","Scottsburg","IN","Scott Memorial ED","not_available","47170",38.704533568856,-85.78604778829981
+"47170","Scottsburg","IN","Scott Memorial Hospital: Emergency Room","1451 N Gardner St","47170",38.705016230217346,-85.78638034358596
+"47170","Scottsburg","IN","Scottsburg Memorial Hospital","1473 N Gardner St","47170",38.704743871535754,-85.7862629786554
+"47170","Scottsburg","IN","Baptist Health Medical Group Primary Care","705 Fairground Rd","47170",38.66333757631234,-85.77648096950725
+"47172","Sellersburg","IN","Clark Memorial Urgent Care","130 Hunter Station Way","47172",38.38043954462182,-85.77166307279627
+"47172","Sellersburg","IN","FMH Urgent Care","5130 Charlestown Rd","47150",38.365604400634766,-85.77820587158203
+"47172","Sellersburg","IN","Baptist Health Physical Therapy Sellersburg","7600 Highway 60","47172",38.37068176269531,-85.76020050048828
+"47201","Columbus","IN","IU LifeLine Columbus Base","2433 17th St","47201",39.215617,-85.894756
+"47201","Columbus","IN","Breast Health Center","2326 18th St","47201",39.217123,-85.898515
+"47201","Columbus","IN","Hospice-South Central Indiana","2626 17th St","47201",39.216488,-85.89250600000001
+"47201","Columbus","IN","Dr. Tavel Family Eye Care","2440 North National Road","47201",39.222473,-85.890794
+"47201","Columbus","IN","Columbus Regional Health","2400 17th St","47201",39.217522732657244,-85.89523502367301
+"47201","Columbus","IN","Columbus Regional Hospital Tenth Street Rehabilitation Center--Audiology","10th Street","not_available",39.207999,-85.88687
+"47201","Columbus","IN","Columbus Health And Rehabilitation Center","not_available","47203",39.2189300926007,-85.89316855667698
+"47201","Columbus","IN","The Bariatric Center at Columbus Regional Health","2325 18th St","47201",39.21651,-85.89850799999999
+"47201","Columbus","IN","Columbus Specialty Surgery Center","2400 Middle Drive","47201",39.231413,-85.895928
+"47240","Greensburg","IN","Decatur County Memorial Hospital","720 N Lincoln St","47240",39.34434212788884,-85.47857743653483
+"47240","Greensburg","IN","AccuDoc Urgent Care","2311 N St Rd 3","47240",39.3592634,-85.4803766
+"47240","Greensburg","IN","Arbor Green Village","not_available","47240",39.33957550470071,-85.46741223693797
+"47240","Greensburg","IN","Morning Breeze Retirement Community","799 N Maple St","47240",39.344337016062276,-85.49613605364101
+"47250","Madison","IN","King's Daughters' Hospital","1373 E State Rd 62","47250",38.79236775,-85.36452566
+"47250","Madison","IN","Ambulatory Care Waiting Room","100 Kings Daughters Way","47250",38.73875373318331,-85.38127521337142
+"47250","Madison","IN","Baptist Health Urgent Care – Madison","311 E Clifty Dr","47250",38.77770225617925,-85.38169294606632
+"47250","Madison","IN","King's Daughters' ED","not_available","47250",38.73435653531406,-85.37616194568498
+"47250","Madison","IN","Convenient Care Center","445 Clifty Drive","47250",38.77438154,-85.39635487
+"47250","Madison","IN","Cardio Pulmonary Lab","1 Bethany Dr","47250",38.792475376239764,-85.36420389857149
+"47250","Madison","IN","KDH Lab","Hwy 62","47250",38.79240036010742,-85.36457061767578
+"47250","Madison","IN","Medical Imaging","1 Kings Daughters Way","47250",38.739128608033035,-85.38084156238283
+"47250","Madison","IN","KDH Lab","One Kings Daughters Way","47250",38.738659868781575,-85.39719184444907
+"47265","North Vernon","IN","Ascension St. Vincent Jennings (St. Vincent Jennings Hospital)","301 Henry St","47265",39.01103099327134,-85.64192533493042
+"47265","North Vernon","IN","Jennings County Hospital Waiting Room","not_available","47265",39.00881676446811,-85.64033316647767
+"47274","Seymour","IN","First Care Urgent Care","not_available","47274",38.957873,-85.871133
+"47274","Seymour","IN","Room 207","Tipton Street","not_available",38.956363677978516,-85.8914566040039
+"47274","Seymour","IN","schneck er","411 W Tipton St","47274",38.95589065551758,-85.89149475097656
+"47302","Muncie","IN","Ball Memorial Hospital - South Tower","2401 W University Ave","47303",40.196482947215856,-85.414023118117
+"47302","Muncie","IN","Ball memorial Emergency Room","not_available","47304",40.19700023722788,-85.41589636352599
+"47302","Muncie","IN","ball memorial hosp Peds And Teens Unit","not_available","47303",40.19728999488509,-85.41457028058763
+"47302","Muncie","IN","Amg Speciality Hosptial","2401 W University Ave, Muncie, IN 47303","47303",40.19642,-85.413795
+"47302","Muncie","IN","El Baño de MTU","2401.W. University Avenue","47304",40.196459,-85.414041
+"47302","Muncie","IN","Ball Hospital MRI","2401 W. University Avenue","47304",40.199659,-85.405602
+"47303","Muncie","IN","Muncie Health Rehab Center","4301 N Walnut St","47303",40.22795486450195,-85.38803100585938
+"47304","Muncie","IN","MedExpress Urgent Care","1313 West McGalliard Rd.","47303",40.21845319110061,-85.4014914482832
+"47327","Cambridge City","IN","Cambridge City Family Health Partners","415 E Main Street","47327",39.81318,-85.16303
+"47330","Centerville","IN","riely hospital indanapolis indiana","Riely Hospital","47330",39.816871643066406,-84.99613952636719
+"47331","Connersville","IN","Reid Health Care Pavilion","450 Erie Ave","47331",39.680737,-85.125068
+"47331","Connersville","IN","Reid Health Urgent Care - Connersville","1475 E State Road 44","47331",39.63842528196447,-85.11098648213954
+"47331","Connersville","IN","Megs Baby Room #201","not_available","47331",39.655653,-85.134579
+"47331","Connersville","IN","Fayette Memorial Hospital","1901-1903 Virginia Ave","47331",39.657996999999995,-85.13229100000001
+"47331","Connersville","IN","Reid Health - Connersville Emergency Department","1941 Virginia Ave","47331",39.656184979704356,-85.13262845341984
+"47331","Connersville","IN","Connersville Hospital","1554-1758 Indiana 44","47331",39.63797486666667,-85.1715847
+"47348","Hartford City","IN","Blackford Community Hospital","410 Pilgrim Blvd","47348",40.46795929968504,-85.37272463387421
+"47362","New Castle","IN","Henry County Hospital","1000 N 16th St","47362",39.94320551303927,-85.36334136509265
+"47362","New Castle","IN","Henry County Infectious Disease & Allergy Immunology","1000 North 16th Street Suite 230","47362",39.943402,-85.3630575
+"47362","New Castle","IN","Sara Mueller, FNP-BC","152 Wittenbraker Ave","47362",39.9373708,-85.3806675
+"47362","New Castle","IN","First Care Urgent Care","not_available","47362",39.92819,-85.382341
+"47362","New Castle","IN","Dr. Tavel Family Eye Care","519 S Memorial Dr","47362",39.92636173094267,-85.38353878023578
+"47362","New Castle","IN","New Castle Clinic","1007 North 16th Street Lower Leval","47362",39.9420467,-85.3654937
+"47362","New Castle","IN","HCMH Ambulatory Care","Henry County Memorial Hospital","47362",39.943255454904396,-85.36268058458862
+"47362","New Castle","IN","Toni Wilcher, MSN, NP-BC, CDME","2200 Forest Ridge Parkway Suite 310","47362",39.9090854,-85.3813033
+"47362","New Castle","IN","Heritage House","1025-1199 N 20th St","47362",39.94225387386561,-85.36142457511409
+"47362","New Castle","IN","Mark Davisson, MD","2200 Forest Ridge Parkway Suite 130","47362",39.9090854,-85.3813033
+"47362","New Castle","IN","Immediate Care at New Castle Family & Internal Medicine Northfield Park","152 Wittenbraker Ave Upper Level","47362",39.938108,-85.3821359
+"47362","New Castle","IN","Henry Community Health Hospice","798 North 16th Street Lower Level","47362",39.938345,-85.364269
+"47371","Portland","IN","Jay County Hospital","not_available","47371",40.44124009617778,-84.98495756906503
+"47371","Portland","IN","IU Health Jay Hospital","500 W Votaw St","47371",40.44125816541087,-84.98480447486878
+"47374","Richmond","IN","Reid Hospital & Health Care Services","1100 Reid Pkwy","47374",39.86442117204967,-84.88510594027635
+"47374","Richmond","IN","State Hospital","498 NW 18th St","47374",39.83851588756199,-84.92388714848566
+"47374","Richmond","IN","Reid Hospital OP Imaging","not_available","47374",39.86506929595323,-84.88512629128246
+"47374","Richmond","IN","Waters ENT Sinus & Allergy","1913 Chester Blvd","47374",39.8581428527832,-84.88707733154297
+"47374","Richmond","IN","Reid Urgent Care","1501 Chester Blvd","47374",39.84854640040452,-84.88843649625778
+"47374","Richmond","IN","Cafe 1200","1100 Reid Prky","47474",39.864471435546875,-84.88414764404297
+"47374","Richmond","IN","Dr. Tavel Family Eye Care","4523 E Main St","47374",39.83155468560998,-84.83934856584249
+"47374","Richmond","IN","Reid Hospital IP Radiology","1200 Reid Pkwy, Richmond, IN 47374","47374",39.864444732666016,-84.88381958007812
+"47374","Richmond","IN","Reid Walk-in Clinic","1350 Chester Blvd","47374",39.84514236450195,-84.8917465209961
+"47374","Richmond","IN","Reid Hospital Critical Care Unit","1200 Reid Pkwy","47374",39.864444732666016,-84.88381958007812
+"47394","Winchester","IN","St Vincent Randolph","473 E Greenville Ave","47394",40.16865517,-84.96918519
+"47394","Winchester","IN","St. Vincent Randolph Hospital","473 Southeast Greenville Ave","47394",40.168680234019114,-84.96907784713214
+"47401","Bloomington","IN","IU Health Bloomington Hospital","601 W 2nd St","47403",39.160122141914066,-86.54039529851674
+"47401","Bloomington","IN","Vomit Central","not_available","47408",39.16429426051691,-86.51105609916426
+"47401","Bloomington","IN","IU Health Human Resources","709 W 1st St","47403",39.159080505371094,-86.54134368896484
+"47401","Bloomington","IN","IU Health Rehabilitation & Sports Medicine","717 S Rogers St","47403",39.1585693359375,-86.53833770751953
+"47401","Bloomington","IN","Cardio-pulmonary Rehab Bloomington Hospital","not_available","47401",39.16371154785156,-86.53152465820312
+"47401","Bloomington","IN","Dr. Tavel Family Eye Care","2552 E 3rd St","47401",39.16323648898578,-86.50120606199178
+"47401","Bloomington","IN","Drug & Alcohol Rehab Bloomington","616 East Hunter Avenue","47401",39.160830208906496,-86.53138875961304
+"47401","Bloomington","IN","Bloomington Hospital Cochran House","405 N Rogers St","47404",39.169789,-86.539085
+"47401","Bloomington","IN","IU Health Urgent Care East","326 S Woodscrest Dr","47401",39.16385745462593,-86.50295916717397
+"47401","Bloomington","IN","Med202 Crewhouse","not_available","47403",39.159287,-86.539667
+"47401","Bloomington","IN","Rebound @ Bloomington Hospital","600-698 S Rogers St","47403",39.16060267281852,-86.53962603151
+"47401","Bloomington","IN","The Little Clinic","1175 S College Mall Rd","47401",39.1538555,-86.4957286
+"47403","Bloomington","IN","MedExpress Urgent Care","123 South Franklin Road","47404",39.16536167511717,-86.57058640385003
+"47403","Bloomington","IN","Rehab","2021 S Cory Ln","47403",39.15024,-86.56087
+"47403","Bloomington","IN","Urgent Care","not_available","47404",39.164272000000004,-86.57782476666667
+"47403","Bloomington","IN","BioLife Plasma Services","1565 S Liberty Dr","47403",39.152652,-86.574367
+"47403","Bloomington","IN","Mark S. Munroe, MD - IU Health Bloomington Walk In","550 S Landmark Ave","47403",39.16074945304329,-86.55546749208281
+"47403","Bloomington","IN","IU Health Urgent care","4025 W 3rd St","47404",39.164159000000005,-86.578061
+"47403","Bloomington","IN","Monroe Hospital","4011 S Monroe Medical Park Blvd","47403",39.1206938,-86.57190659999999
+"47404","Bloomington","IN","Meadows Hospital","3600 North Prow Road","47404",39.2059067,-86.55119090000001
+"47421","Bedford","IN","IU Health Bedford","2900 16th St","47421",38.86004919818468,-86.51314267756959
+"47421","Bedford","IN","Advanced Audiology & Hearing Care","3525 Mitchell Rd. Ste. B","47421",38.83895550403173,-86.49420261383057
+"47421","Bedford","IN","white river lodge","not_available","47421",38.83669040627235,-86.5070149312804
+"47421","Bedford","IN","IU EMS Bedford Station","1520 Clinic Dr, Bedford, IN 47421","47421",38.86219024658203,-86.51372528076172
+"47421","Bedford","IN","Garden Villa","2111 Norton Ln","47421",38.854304,-86.50130300000001
+"47421","Bedford","IN","St.Vincent Dunn Hospital","1600 23rd st.","47421",38.85267859255692,-86.49341367231916
+"47421","Bedford","IN","Ascension Medical Group - St. Vincent - Bedford Urgent Care and Employer Solutions","2415 Mitchell Rd","47421",38.85279,-86.49267
+"47441","Linton","IN","Greene County General Hospital","not_available","47441",39.04074280870895,-87.1303722873194
+"47441","Linton","IN","Lyons Health & Living Center","2417 S 800 W","47443",38.98503164,-87.08969748
+"47452","Orleans","IN","IU Health Paoli Hospital","642 W Hospital Rd","47454",38.5684001,-86.4751136
+"47501","Washington","IN","Daviess Community Hospital","1314 E Walnut St","47501",38.6596091,-87.1598346
+"47501","Washington","IN","Wound Care Center","300 NE 14th St","47501",38.65959667,-87.158455
+"47501","Washington","IN","Daviess Community Hospital Health Pavilion","1805 South State Road 57","47501",38.63178417259537,-87.18068324116702
+"47501","Washington","IN","Daviess Community Hospital Primary Care Clinic","1401 Memorial Ave Ste C","47501",38.65830318899489,-87.15836242270181
+"47501","Washington","IN","Daviess Community Hospital CORE Center","421 E Van Trees St","47501",38.657517,-87.170583
+"47515","Bristow","IN","Perry County Family Practice","18485 State Road 37","47551",38.10948944091797,-86.61064910888672
+"47520","Cannelton","IN","Cannelton Clinic","510 Washington St","47520",37.91210179999999,-86.7430081
+"47520","Cannelton","IN","Perry County Memorial Hospital","8885 State Road 237","47586",37.96943664550781,-86.73046112060547
+"47520","Cannelton","IN","Perry County Memorial","not_available","47586",37.92814981857056,-86.73012203838822
+"47523","Dale","IN","Clinic F","Corey's Mill Lane","47637",38.224085,-87.176474
+"47542","Huntingburg","IN","The Mentor Network","114 S Chestnut St","47542",38.290443420410156,-86.96126556396484
+"47542","Huntingburg","IN","Urgent Care Center","507 E 19th St","47542",38.3130034,-86.9536863
+"47542","Huntingburg","IN","Memorial Health Care Center Urgent Care","511 E 19th St","47542",38.313289642333984,-86.9528579711914
+"47546","Jasper","IN","Memorial Hospital And Health Care Center","800 W 9th St","47546",38.394992,-86.940895
+"47546","Jasper","IN","Daniel C. Eby, D.O. PC - Orthopedic Surgery & Sports Medicine","600 West 13th St. | Suite 200","47546",38.397395,-86.938716
+"47546","Jasper","IN","Memorial Hospital","1112 Jackson St","47546",38.39537811279297,-86.92958068847656
+"47546","Jasper","IN","ER","not_available","47546",38.394001887233905,-86.94159999558188
+"47546","Jasper","IN","Owensburo Medical","not_available","42303",38.511996,-86.907926
+"47553","Loogootee","IN","CORE Center at North Daviess","800 S West St","47562",38.83378046677646,-86.99789034165674
+"47553","Loogootee","IN","North Daviess Medical Clinic","202 N West St","47562",38.843593599194804,-86.997508842477
+"47586","Tell City","IN","Perry County Surgical Associates","148 13th St Ste B","47586",37.94292068481445,-86.76287841796875
+"47586","Tell City","IN","Perry County OB/GYN","148 13th St Ste A","47586",37.94292068481445,-86.76287841796875
+"47591","Vincennes","IN","Good samartian hospital","not_available","47591",38.67155822460038,-87.51135776289956
+"47591","Vincennes","IN","The Rohrer Family Clinic","1027 Washington Ave","47591",38.680999755859375,-87.51858520507812
+"47591","Vincennes","IN","Good Samaritan Hospital","520 S 7th St","47591",38.67247583676106,-87.53350276444208
+"47591","Vincennes","IN","Orthopaedic Associates Vincennes","520 S. 7th Street","47591",38.67318344116211,-87.53372955322266
+"47601","Boonville","IN","St. Vincent Warrick Hospital","1116 Millis Ave","47601",38.041731033125494,-87.26272422664692
+"47601","Boonville","IN","Ascension Medical Group - St. Vincent Boonville Walk-in Care","3277 Liberty Blvd","47601",38.04865,-87.30693
+"47615","Grandview","IN","St. Camillus Urgent Care & Family Practice","1520 4th St","42351",37.9256625,-86.8958298
+"47620","Mount Vernon","IN","Emma's Place Feed Store","11614 Copperline Rd E","47712",38.01826858520508,-87.70397186279297
+"47630","Newburgh","IN","The Women's Hospital","4199 Gateway Blvd","47630",37.97365233466618,-87.44728803634644
+"47630","Newburgh","IN","Chemotherapy","Gateway Blvd.","47630",37.96511981280747,-87.43599779827248
+"47630","Newburgh","IN","Midwest Radiologic Imaging","9747-10131 Oak Grove Rd.","47630",37.97549819946289,-87.44705200195312
+"47630","Newburgh","IN","Deaconess Hospital Newburg","not_available","47630",37.97462599749323,-87.4450428308303
+"47630","Newburgh","IN","Deaconess Gateway Womens Hospital","4133 Gateway Blvd","47630",37.97374841381427,-87.44784945035771
+"47630","Newburgh","IN","Deaconess Gateway Neuroscience","not_available","47715",37.974110835383314,-87.44505444430483
+"47630","Newburgh","IN","Mercy Urgent Care","8211 W State Route 66 Ste A","47630",37.9750602,-87.402819
+"47630","Newburgh","IN","Orthopaedic Associates East Newburgh","10455 Orthopaedic Drive","47630",37.97427241046586,-87.44046311248007
+"47630","Newburgh","IN","Ascension St. Vincent Orthopedic Hospital","10388 Warrick Wellness Trail","47630",37.98133,-87.43966
+"47630","Newburgh","IN","Deaconess Infusion Center","4111 Gateway Blvd","47630",37.97511291503906,-87.44792938232422
+"47630","Newburgh","IN","Deaconess Urgent Care","4099 Centennial Dr","47630",37.974006273806886,-87.43997124820505
+"47630","Newburgh","IN","Deaconess Healthsouth","9355 Warrick Trl","47630",37.9795698,-87.4202385
+"47630","Newburgh","IN","Basinski & Juran, MDs","3922 Venetian Dr #1","47630",37.9781748,-87.4418953
+"47630","Newburgh","IN","Deaconess Urgent Care & COMP Center","10455 Orthopaedic Dr","47630",37.973979810627824,-87.44040333822315
+"47630","Newburgh","IN","Deaconess Gateway Hospital","4011 Gateway Blvd","47630",37.974772270186044,-87.44490040473885
+"47630","Newburgh","IN","St Marys Urgent Care Center","Sr 66 Frontage Rd. N","47630",37.97784712229082,-87.43986368179321
+"47670","Princeton","IN","the waters of princeton","not_available","47670",38.357188901717116,-87.57815164902368
+"47708","Evansville","IN","Select Specialty Hospital","400 SE 4th St","47713",37.96822200895974,-87.56747169418168
+"47708","Evansville","IN","Drug & Alcohol Rehab Fort Evansville","420 Main St #1207","47708",37.97214889526367,-87.57066345214844
+"47708","Evansville","IN","Procedure Center @ Deaconess Clinic Downtown","not_available","47713",37.96942138671875,-87.5669937133789
+"47710","Evansville","IN","Deaconess Comp Center","329 W Columbia St","47710",37.98509979248047,-87.56912994384766
+"47710","Evansville","IN","Deaconess Healthsouth","not_available","47710",37.98351,-87.5702
+"47710","Evansville","IN","Deaconess Hospital","600 Mary St","47710",37.98383005203357,-87.57043898540086
+"47710","Evansville","IN","Deaconess pharmacy","Mary st","47710",37.98369587183732,-87.5703198715639
+"47710","Evansville","IN","Orthopaedic Associates Downtown Evansville","515 Read Street","47710",37.9825175,-87.567922
+"47710","Evansville","IN","Deaconess Health Sciences Building","600 Edgar St","47710",37.98287427959737,-87.57207053776116
+"47710","Evansville","IN","Deaconess Urgent Care - Northpark","3844 N 1st Ave","47710",38.01317596435547,-87.57455444335938
+"47711","Evansville","IN","Deaconess Womens Hospital","not_available","47714",38.01107638576283,-87.4930839933195
+"47711","Evansville","IN","St. Mary's Medical Center","not_available","47711",37.99166630158622,-87.52024796024311
+"47711","Evansville","IN","Evansville Psychiatric Children's Center","3300 E Morgan Ave","47715",37.993827,-87.50945300000001
+"47712","Evansville","IN","Westpark Rehabilitation","25 S Boehne Camp Rd","47712",37.97911834716797,-87.64727020263672
+"47712","Evansville","IN","Methodist Hospital ER","not_available","42420",37.83106237970565,-87.58838450772637
+"47712","Evansville","IN","St. Vincent Westside Crossing Urgent Care","not_available","47712",37.978283,-87.626366
+"47712","Evansville","IN","First Care Clinics","230 N. Green Street","42420",37.84006118774414,-87.58750915527344
+"47712","Evansville","IN","Orthopaedic Associates West Evansville","5828 Pearl Drive","47712",37.973077,-87.646517
+"47713","Evansville","IN","Custom Cycle & Mobility Supply","2131 South Kentucky Ave","47714",37.9476214,-87.54816650000001
+"47714","Evansville","IN","St Mary's Medical Center","3700 Washington Ave","47714",37.96439713237697,-87.50408699609844
+"47714","Evansville","IN","St. Mary's Lab & X-ray","3861 Bellemeade Ave","47714",37.966741,-87.503489
+"47714","Evansville","IN","Evansville State Hospital","3400 Lincoln Ave","47714",37.975085237973836,-87.50093580814013
+"47714","Evansville","IN","St Marys Womens Hospital","801 Saint Marys Dr","47714",37.96587866273146,-87.50468898981671
+"47715","Evansville","IN","Deaconess Cross Pointe","7200 E Indiana St","47715",37.978558563248015,-87.46585965156555
+"47725","Evansville","IN","WellFirst","12100 US-41","47725",38.089016,-87.55729529999999
+"47802","Terre Haute","IN","Harsha Behavioral Center","not_available","47802",39.39942736395522,-87.39647225380683
+"47802","Terre Haute","IN","Dr. Tavel Family Eye Care","3013 US Hwy 41 South","47802",39.43342123253455,-87.41400457678968
+"47803","Terre Haute","IN","Indiana University Health LifeLine 3 Flight Base (Hulman Field - KHUF)","7361 Maynard Wheeler Way","47803",39.4621388457344,-87.30686269041149
+"47803","Terre Haute","IN","Body Bar MD","2800 Poplar St","47803",39.4641466,-87.3759013
+"47804","Terre Haute","IN","Union Hospital","1606 North 7th St","47804",39.4854121,-87.4071139
+"47804","Terre Haute","IN","Union Hospital Med Rehab","not_available","47804",39.485387,-87.405766
+"47807","Terre Haute","IN","EKAM, TERRE HAUTE","743 Lafayette Ave","47807",39.482177734375,-87.4059066772461
+"47833","Bowling Green","IN","New Wishard Hospital","not_available","47833",39.37398910522461,-87.00927734375
+"47834","Brazil","IN","St. Vincent Clay Hospital","1206 East National Ave","47834",39.52906036376953,-87.11170196533203
+"47834","Brazil","IN","Emergency - Ascension St. Vincent Clay","1206 E National Ave","47834",39.52906036376953,-87.11170196533203
+"47842","Clinton","IN","West Central Hospital","not_available","47842",39.65248528,-87.39920442
+"47842","Clinton","IN","Union Hospital Clinton","777 S Main St","47842",39.65260590842808,-87.39920075634419
+"47882","Sullivan","IN","Sullivan County Hospital","2200 N Section St","47882",39.12574852947753,-87.41247923678159
+"47882","Sullivan","IN","SCCH RT Dept.","not_available","47882",39.1259386476144,-87.41270198796903
+"47901","Lafayette","IN","Live Well Hemp Downtown","602 Columbia St","47901",40.418507,-86.890261
+"47904","Lafayette","IN","Lafayette Central","1501 Hartford St","47904",40.4272856835924,-86.88198937274583
+"47904","Lafayette","IN","St. E Central Cafeteria","not_available","47904",40.426861,-86.882034
+"47904","Lafayette","IN","Urgent Care Center","2600 Greenbush St","47904",40.43258984399842,-86.86756873572054
+"47904","Lafayette","IN","River Bend Hospital","2900 N River Rd","47906",40.45983938848005,-86.89394814893603
+"47904","Lafayette","IN","The Dermatology Group","2020 Union Street, Suite 300","47904",40.4253692,-86.8734293
+"47904","Lafayette","IN","MedExpress Urgent Care","102 Sagamore Parkway South","47905",40.4159916,-86.8584756
+"47905","Lafayette","IN","IU Health Arnett Hospital","5165 McCarty Ln","47905",40.40044903198544,-86.80648521477929
+"47905","Lafayette","IN","Emergency Department at St Elizabeth East","not_available","47905",40.39344787597656,-86.8351058959961
+"47905","Lafayette","IN","Lafayette East","1701 S Creasy Ln","47905",40.394067883511205,-86.83521866798401
+"47905","Lafayette","IN","Unity Medical Center","1411 Creasy Lane","47905",40.39716885894526,-86.83702290142554
+"47905","Lafayette","IN","Kishan B. Patel, MD - IU Health Urgent Care - West Lafayette","253 Sagamore Pkwy W","47906",40.45219524787427,-86.90900417175828
+"47905","Lafayette","IN","IU Health Urgent Care - Lafayette","1 Walter Scholer Dr","47909",40.381958036866564,-86.90558500889551
+"47905","Lafayette","IN","Lafayette Rehab Hospital","950 Park East Blvd","47905",40.404563903808594,-86.82856750488281
+"47905","Lafayette","IN","PUSH Urgent Care","601 Stadium Mall Dr","47907",40.430356,-86.916049
+"47909","Lafayette","IN","OrthoIndy Lafayette","2403 Loy Dr","47909",40.39202117919922,-86.85801696777344
+"47918","Attica","IN","St Vincent Williamsport","412 N Monroe St","47993",40.290434390085956,-87.29684394835648
+"47933","Crawfordsville","IN","St. Clare Medical Center","1710 Lafayette Rd","47933",40.06646527174865,-86.9059812624146
+"47933","Crawfordsville","IN","Carle Cissna Park Medical Clinic","141 W. Garfield Avenue","60924",40.0,-87.0
+"47933","Crawfordsville","IN","St Clare Emergency Dept","1742-1824 Lafayette Ave","47933",40.065846530075746,-86.9059127395138
+"47960","Monticello","IN","Franciscan Physician Network Monticello Medical Center","826 N 6th Street","47960",40.7554706,-86.7760028
+"47960","Monticello","IN","IU Health White Memorial","720 S 6th St","47960",40.7343577,-86.7777334
+"47960","Monticello","IN","White County Memorial Hospital","810 South 6th St, B,","47960",40.73444366455078,-86.77775573730469
+"47978","Rensselaer","IN","Jasper County Hospital Medical Operations Building","E Grace St","47978",40.93387547243884,-87.14000513140279
+"47978","Rensselaer","IN","Jasper County Hospital","not_available","47978",40.934416617656105,-87.13910268246457

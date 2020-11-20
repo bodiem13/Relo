@@ -1,0 +1,258 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"59001","Absarokee","MT","IGA","2 S Woodard Ave","59001",45.520362,-109.443091
+"59001","Absarokee","MT","Fishtail General Store","35 Main St,","59001",45.45344383288103,-109.50522374413711
+"59001","Absarokee","MT","Nye Trading Post","1997 Nye Rd, Fishtail, MT 59028","59028",45.435336,-109.801592
+"59003","Ashland","MT","Ashland Merc","104 Main St","59003",45.59008026123047,-106.26286315917969
+"59006","Ballantine","MT","Project Merc Food Farm","2416 3rd St","59088",45.96386309,-108.16517335
+"59007","Bearcreek","MT","Beartooth IGA","201-299 N Oakes Ave","59068",45.18935960743121,-109.24800025748839
+"59008","Belfry","MT","Belfry Country Store","216 Broadway","59008",45.142345113011004,-109.00772807435946
+"59011","Big Timber","MT","Big T IGA","110 W 3rd Ave","59011",45.833232,-109.954651
+"59014","Bridger","MT","Valley Foods","105 N Main St","59014",45.296111,-108.914058
+"59018","Clyde Park","MT","Glenn's","not_available","59018",45.8860976812614,-110.60397856707307
+"59019","Columbus","MT","Columbus IGA Plus","133 N 5th St","59019",45.63893127441406,-109.25328826904297
+"59030","Gardiner","MT","Food farm","not_available","59030",45.03463124987057,-110.71081869904955
+"59032","Grass Range","MT","Grass Range Mercantile","504 Main","59032",47.027229,-108.804678
+"59034","Hardin","MT","Big Horn IGA","901 N Center Ave","59034",45.738087605508326,-107.605140209198
+"59036","Harlowton","MT","Beth's Midtown Market","207 3rd St. NE","59036",46.438922,-109.829205
+"59041","Joliet","MT","Joliet Foods","205 S Main St, Joliet, MT 59041","not_available",45.48399353027344,-108.97049713134766
+"59041","Joliet","MT","Rowlis Food Farm","205 Main St","59041",45.48408916231506,-108.97063197097025
+"59044","Laurel","MT","Walmart Supercenter","2525 King Ave W","59102",45.757864754719556,-108.58014421072122
+"59044","Laurel","MT","Walmart Supercenter","101 Bernhardt Rd","59044",45.66717547,-108.7590265
+"59044","Laurel","MT","WinCo Foods","2424 Central Ave","59102",45.76935958862305,-108.57675170898438
+"59044","Laurel","MT","Albertsons","2334 Central Ave","59102",45.76817795774964,-108.57534483836389
+"59044","Laurel","MT","Natural Grocers","304 S 24th St W","59102",45.76655150240635,-108.57660700732642
+"59044","Laurel","MT","Albersons","Central Ave.","59102",45.76780240410046,-108.59256561365073
+"59044","Laurel","MT","Mr. Thrifty","not_available","not_available",45.749053955078125,-108.58815002441406
+"59044","Laurel","MT","Montana Harvest Natural Food Store","1710 Grand Ave","59102",45.78390461666667,-108.5595356
+"59044","Laurel","MT","Time Saver Shopping and Delivery, LLC","0  Main st","59044",45.6628242,-108.78007109999999
+"59047","Livingston","MT","Albertsons","2120 Park St S","59047",45.6423116,-110.5754379
+"59047","Livingston","MT","Town and Country Foods","1217 W Park","59047",45.65251788051251,-110.57120568811614
+"59047","Livingston","MT","Food Works Natural Market","400-498 E Park St","59047",45.66432017165162,-110.55691672937009
+"59047","Livingston","MT","Albertsons","2120 W Park St","59047",45.64233772251869,-110.57498539005205
+"59072","Roundup","MT","Picchioni's IGA","10 9th Ave W","59072",46.44960021972656,-108.54239654541016
+"59072","Roundup","MT","Van Dykes Supermarket","1215 Main St","59072",46.453829,-108.542475
+"59074","Ryegate","MT","Super D Grocery","203 E Railway","59074",46.29740913834717,-109.25387271435176
+"59087","Winnett","MT","Gershmel's General Store","10 E Main","59087",47.004167,-108.354193
+"59101","Billings","MT","Walmart Supercenter","1649 Main St","59105",45.82902562182888,-108.46757200029813
+"59101","Billings","MT","Albertsons","511 Central Ave","59102",45.7704966,-108.5288606
+"59101","Billings","MT","Albertsons","670 Main St","59105",45.8101946,-108.4734789
+"59101","Billings","MT","Albertsons","3137 Grand Ave","59102",45.7850657,-108.5929498
+"59101","Billings","MT","Albertsons","1212 Grand Ave","59102",45.783188993428205,-108.54769910876071
+"59101","Billings","MT","Albertsons","611 N 27th St","59101",45.7879047,-108.5084034
+"59101","Billings","MT","Lucky's Market","1603 Grand Ave #135","59102",45.78528713558546,-108.55769883792851
+"59101","Billings","MT","Lockwood IGA","1960 Old Hardin Rd","59101",45.80340271666667,-108.43526131666667
+"59101","Billings","MT","Evergreen IGA","1540 13th St W","59102",45.78554866654964,-108.54946381220057
+"59101","Billings","MT","Marys Health Food","32nd St W","59102",45.78426024092332,-108.59401474966546
+"59101","Billings","MT","The Spiked Olive","1313 Grand Ave., Ste 8A","59102",45.784776,-108.550153
+"59101","Billings","MT","Mcfiny's","1707 17th St W","59102",45.787620544433594,-108.55872344970703
+"59101","Billings","MT","Poly Food Basket","2648 Poly Dr","59102",45.7948675922384,-108.58250074983638
+"59101","Billings","MT","Mr. Thrifty","201 N 14th St","59101",45.79165457,-108.48923657
+"59101","Billings","MT","Van's State Ave IGA","4220 State Ave","59101",45.769187864278514,-108.5211391179785
+"59201","Wolf Point","MT","Tandes","300 1st Ave","59255",48.109885,-105.195715
+"59201","Wolf Point","MT","Albertsons","415 Blaine St","59201",48.0923669,-105.6435806
+"59212","Bainville","MT","Froid Grocery","not_available","59226",48.33680300301736,-104.48892422099641
+"59230","Glasgow","MT","Saco Pay-n-Save","not_available","59261",48.456654,-107.344071
+"59230","Glasgow","MT","Albertsons","54181 US Hwy 2","59230",48.1974451,-106.6366889
+"59230","Glasgow","MT","Pay-N-Save","113 Taylor St","59261",48.456866,-107.343961
+"59230","Glasgow","MT","Reynolds Market","213 Klein Ave","59230",48.194651,-106.63098
+"59230","Glasgow","MT","Gordon's Food Inc","209 Klien St","59230",48.19472685,-106.63085831666666
+"59243","Lambert","MT","Ramish and Leela","Eastern Main Road","not_available",47.6871466,-104.6212441
+"59263","Scobey","MT","Fjeld Family Foods","7 Daniels","59263",48.78702691,-105.41905855
+"59270","Sidney","MT","Reynolds Market","404 N Central Ave","59270",47.71992531014397,-104.1558837890625
+"59270","Sidney","MT","Valley View IGA Plus","203 2nd St NW","59270",47.717594146728516,-104.1581039428711
+"59275","Westby","MT","Al's Meats","212 Main","59275",48.87057025690984,-104.05084226023973
+"59301","Miles City","MT","Albertsons","519 S Haynes Ave","59301",46.4032703,-105.8241245
+"59301","Miles City","MT","Walmart Grocery Pickup","3205 Stower St","59301",46.4028035024184,-105.821210532042
+"59301","Miles City","MT","Reynold's Market","2106 Valley Dr E","59301",46.413214,-105.833556
+"59313","Baker","MT","Mainstreet Market","215 Main Street","59324",45.8891036748882,-104.54503735049367
+"59313","Baker","MT","Reynold's Market","Lake City Shopping Center","59313",46.36618946453884,-104.27537470697261
+"59323","Colstrip","MT","Rosebud Foods","3 Cherry St","59323",45.882969,-106.62906
+"59327","Forsyth","MT","C & K Meats - Montana Western Flavors","1109 Front St","59327",46.265016,-106.674984
+"59327","Forsyth","MT","Van's IGA Forsyth","1026 Main St","59327",46.26613998413086,-106.67752075195312
+"59330","Glendive","MT","Reynold's Market","1014 W Bell St","59330",47.106067,-104.726997
+"59330","Glendive","MT","Albertsons","307 Harmon St","59330",47.108614,-104.7278861
+"59353","Wibaux","MT","Corner Market","not_available","59353",46.98715424424091,-104.1886751726391
+"59401","Great Falls","MT","Albertsons","1414 3rd St NW","59404",47.5201229,-111.3114639
+"59401","Great Falls","MT","Albertsons","not_available","59401",47.504246585073076,-111.26258188280895
+"59401","Great Falls","MT","Peres Food Basket","2700 2nd Ave N","59401",47.50713348388672,-111.260498046875
+"59401","Great Falls","MT","Van's IGA Great Falls North","2505 6th Ave N","59401",47.51230766915702,-111.2637676664547
+"59404","Great Falls","MT","Albertsons","2250 10th Ave S","59405",47.4930435,-111.269422
+"59404","Great Falls","MT","Walmart Supercenter","701 Smelter Ave Ne","59404",47.526340050906484,-111.29695240219303
+"59404","Great Falls","MT","Smith's","1601 Market Place Dr","59404",47.4845243,-111.3408063
+"59404","Great Falls","MT","Malmstrom AFB Commissary","7228 Fourth Ave North","59405-7510",47.51422599074254,-111.19494902533891
+"59404","Great Falls","MT","Walmart Grocery Pickup and Delivery","5320 10th Ave S","59405",47.491452,-111.218821
+"59404","Great Falls","MT","Super 1 Foods","3160 10th Ave S","not_available",47.49315382396631,-111.25275417270947
+"59404","Great Falls","MT","2js Fresh Market","25 Division Rd","59404",47.52534992000478,-111.3095329034076
+"59404","Great Falls","MT","Kim's Oriental Market","10th Ave South","59405",47.493770599365234,-111.28204345703125
+"59404","Great Falls","MT","Malmstrom Commissary","not_available","59405",47.505703,-111.202157
+"59404","Great Falls","MT","Zip Trip","1608 Fox Farm Rd","59404",47.488818675836995,-111.32890820642135
+"59404","Great Falls","MT","Big Sky Deli","190 US Highway 89","59487",47.553592681884766,-111.56130981445312
+"59404","Great Falls","MT","Van's IGA Great Falls East","3160 10th Ave S","59405",47.493197457281525,-111.25272923441183
+"59405","Great Falls","MT","Belt Valley Grocery","Main St","59412",47.3869331,-110.92581423333333
+"59410","Augusta","MT","Rex's Market","29 1st St NE","59422",47.810339966647156,-112.1853902259548
+"59417","Browning","MT","Glacier Family Foods","601 SE Boundary St","59417",48.549400329589844,-113.00988006591797
+"59417","Browning","MT","Teeples IGA","209 Central Ave","59417",48.55626420401057,-113.0174452550168
+"59421","Cascade","MT","468 Market","not_available","59421",47.272937,-111.699984
+"59422","Choteau","MT","Eagle IGA","419 Central Ave","59436",47.614846,-111.980994
+"59425","Conrad","MT","Conrad IGA","600 S Main St","59425",48.166141510009766,-111.94969940185547
+"59425","Conrad","MT","Currys Market","not_available","59486",48.307865347399655,-112.24834014111283
+"59427","Cut Bank","MT","Albertsons","501 W Main St","59427",48.640558637060984,-112.33850955963135
+"59442","Fort Benton","MT","Price Rite Food Farm","1520 Front St","59442",47.817456459565015,-110.66814746792666
+"59442","Fort Benton","MT","MOUNTAIN VIEW COOP","1820 St Charles St, Fort Benton, MT 59442","not_available",47.92461059981575,-110.60487985610962
+"59442","Fort Benton","MT","The Grocery Store","135 Johannes Ave","59520",48.178001403808594,-110.11034393310547
+"59447","Geyser","MT","K's Supermarket","not_available","59479",47.15303263543672,-110.21933348556762
+"59451","Hilger","MT","Winifred Grocery","201 Main St","59489",47.55937060576754,-109.37646625597293
+"59452","Hobson","MT","Nancy's Country Market","Main Street","59452",47.024149232042305,-109.87654631138209
+"59457","Lewistown","MT","Albertsons","117 W Janeaux St","59457",47.06537556513488,-109.4228214507757
+"59457","Lewistown","MT","Town & Country","not_available","59457",47.055752,-109.44866
+"59463","Monarch","MT","Neihart Inconvenience Store","not_available","59465",46.93289,-110.73531
+"59474","Shelby","MT","Albertsons","130 5th Ave N","59474",48.507285,-111.859953
+"59474","Shelby","MT","Curry's Market","not_available","59474",48.505096435546875,-111.8780288696289
+"59501","Havre","MT","McLean's Grocery","500 2nd St","59501",48.55195255302887,-109.67569947810857
+"59501","Havre","MT","IGA Havre","not_available","59501",48.55245310263366,-109.6714806489496
+"59501","Havre","MT","Walmart Supercenter","3510 Us Highway 2 W","59501",48.55480336671561,-109.73662605626171
+"59522","Chester","MT","CHESTER SUPER MARKET","1498 US-2, Chester, MT 59522","not_available",48.514514902789124,-110.95532655715941
+"59523","Chinook","MT","Finley Food Farm","400 Indiana St","59523",48.591590881347656,-109.23039245605469
+"59526","Harlem","MT","Albertsons","117 Main St S","59526",48.531602,-108.784681
+"59530","Inverness","MT","B N' W Food Farm","100 Main","59522",48.55864,-110.734601
+"59538","Malta","MT","Albertsons","30 S 3rd St E","59538",48.357126186658746,-107.87346573190007
+"59538","Malta","MT","Malta Best Foods","411 S 5th St W","59538",48.3555125538144,-107.88145944837764
+"59601","Helena","MT","WinCo Foods","2995 N Sanders St","59601",46.61474609375,-112.0129165649414
+"59601","Helena","MT","Walmart Supercenter","2750 Prospect Ave","59601",46.593201977371656,-111.99029338272975
+"59601","Helena","MT","Albertsons","3151 N Montana Ave","59602",46.6186953,-112.0186229
+"59601","Helena","MT","Safeway","611 N Montana Ave","59601",46.5905639,-112.017964
+"59601","Helena","MT","Super 1 Foods","3120 Queen Annes St","59602",46.617744,-112.00874
+"59601","Helena","MT","Van's Thriftway","306 Euclid Ave","59601",46.59899531892997,-112.04299619330153
+"59601","Helena","MT","Albertsons","600 Fee St","59601",46.59040720123386,-112.00677587667087
+"59601","Helena","MT","Real Food Store","1001-1099 Bedford St","59601",46.597339,-112.024294
+"59601","Helena","MT","helena food share","not_available","59601",46.599094,-112.011975
+"59601","Helena","MT","Broadwater Market","3206 Euclid Ave","59601",46.6042594909668,-112.08673095703125
+"59601","Helena","MT","Mountain Man Vapor","509 North Sanders Street","59601",46.5893379,-112.0142385
+"59601","Helena","MT","Natural Grocers","3061 N Montana Ave","59601",46.614482275926115,-112.02040930163622
+"59601","Helena","MT","Big Lots","2930 Prospect Ave","59601",46.59311641845304,-111.98830602979069
+"59602","Helena","MT","Heritage Food Store","109 S Lane Ave","not_available",46.587541,-111.908358
+"59632","Boulder","MT","Boulder Cash Grocery","209 N Main","59632",46.23705650034332,-112.11803949677999
+"59632","Boulder","MT","World Class Distribution","343 S Lena Rd","92408",46.1676950860096,-112.061018158747
+"59639","Lincoln","MT","Mountain View Co-Op","525 Main St, Lincoln, MT 59639","not_available",46.95473861694336,-112.6796875
+"59644","Townsend","MT","Bob's Supermarket","310 S Pine St","59644",46.31656,-111.518446
+"59645","White Sulphur Springs","MT","White River Landing","not_available","59645",46.548683,-110.89266
+"59701","Butte","MT","Safeway","2500 Massachusetts Ave","59701",45.9874458,-112.5066969
+"59701","Butte","MT","Safeway","310 W Front St","59701",45.99774048100809,-112.53725588321686
+"59701","Butte","MT","Walmart Supercenter","3901 Harrison Ave","59701",45.96377234808086,-112.50974229252598
+"59701","Butte","MT","Butte True Value","1301 Harrison Ave","59701",46.000823974609375,-112.52169036865234
+"59701","Butte","MT","East Gate IGA","2005 Farragut Ave","59701",45.99351501464844,-112.50318145751953
+"59701","Butte","MT","Front St. Market","8 W Front St","59701",45.998008794841965,-112.53507792949677
+"59701","Butte","MT","Excelsior Meats","422 N Excelsior Ave","59701",46.015953063964844,-112.54914093017578
+"59701","Butte","MT","Jefferson IGA","2 W HWY 2","59759",45.84522374204959,-112.31965911926231
+"59711","Anaconda","MT","Safeway","1525 W Park Ave","59711",46.13211441040039,-112.97455596923828
+"59711","Anaconda","MT","Albertsons","1300 E Park Ave","59711",46.1269713,-112.9351071
+"59714","Belgrade","MT","Albertsons","6999 Jackrabbit Ln","59714",45.7717361,-111.1870498
+"59714","Belgrade","MT","Town and Country Grocery","205 W Madison Ave","59714",45.773845744587696,-111.18422303169882
+"59714","Belgrade","MT","L&F Market","106 E Main St","59741",45.85608673095703,-111.33290100097656
+"59715","Bozeman","MT","Walmart Supercenter","1500 N 7th Ave","59715",45.69450048,-111.0433192
+"59715","Bozeman","MT","Smith's","1400 N 19th Ave","59718",45.694467507951614,-111.05995953083038
+"59715","Bozeman","MT","Heebs Fresh Market","200 Highland Blvd","59715",45.677463,-111.018425
+"59715","Bozeman","MT","Safeway","1735 W Main St","59715",45.68027002034629,-111.06029482218219
+"59715","Bozeman","MT","Bozeman Community Food Co-op","908 W Main St","59715",45.679063322798825,-111.04966124901787
+"59715","Bozeman","MT","Albertsons","200 S 23rd Ave","59718",45.6769818,-111.0653345
+"59715","Bozeman","MT","Town & Country Foods","219 N 19th Ave","59718",45.68154687764983,-111.0627788434432
+"59715","Bozeman","MT","Town and Country Foods","1611 S 11th Ave","59715",45.662869194452675,-111.05301473738936
+"59715","Bozeman","MT","Joe's Parkway","903 W College St","59715",45.671511,-111.049894
+"59715","Bozeman","MT","Safeway","901 W Main St","59715",45.680044,-111.049706
+"59715","Bozeman","MT","Van's IGA","912 N 7th Ave.","59715",45.689056,-111.044642
+"59715","Bozeman","MT","Montana Harvest","33 S Willson Ave","59715",45.6785888671875,-111.0389404296875
+"59716","Big Sky","MT","Roxy's Market","20 Huntley Dr","59716",45.260785800230934,-111.30305299251721
+"59716","Big Sky","MT","Grocery Market","not_available","59716",45.26751559997574,-111.29154070739756
+"59716","Big Sky","MT","C & P Grocery","1 Mountain Mall","59716",45.28414741,-111.40056257
+"59718","Bozeman","MT","Rosauers Food And Drug","3255 Technology Blvd W","59718",45.67033711240701,-111.08199626064885
+"59718","Bozeman","MT","Ridge Run","1582 Bobcat Dr","59718",45.67030219999999,-111.15412320000002
+"59722","Deer Lodge","MT","Valley Foods Inc","711 Main St","59722",46.39536000249671,-112.73541530336638
+"59722","Deer Lodge","MT","Safeway","201 N Main St","59722",46.4032014,-112.7342812
+"59725","Dillon","MT","Safeway","570 N Montana St","59725",45.2237678,-112.6283296
+"59725","Dillon","MT","Beaverhead IGA","201 S Idaho St","59725",45.215694,-112.638716
+"59725","Dillon","MT","Walter's IGA","102 S Main","59749",45.4563819992976,-112.1977298565566
+"59725","Dillon","MT","Copper Mug Warehouse","435 S Atlantic St","59725",45.212440490722656,-112.63797760009766
+"59725","Dillon","MT","Town & Country Foods","not_available","59725",45.203461,-112.646088
+"59729","Ennis","MT","Madison Foods","4979 US Highway 287 N","59729",45.353628673779404,-111.733451226843
+"59729","Ennis","MT","Family General Store","61 MT Highway 287","59729",45.346981048583984,-111.74047088623047
+"59752","Three Forks","MT","Three Forks Market","510 MT-2,","59752",45.89038360683312,-111.55751043446703
+"59758","West Yellowstone","MT","Market Place Supermarket","22 Madison Ave","59758",44.6603729255255,-111.09863862548279
+"59758","West Yellowstone","MT","Food Roundup","125-199 Madison Ave","59758",44.66069207115961,-111.1015609348152
+"59801","Missoula","MT","Good Food Store","1600 S 3rd St W","59801",46.86760821139542,-114.02016795710682
+"59801","Missoula","MT","Albertsons","1003 E Broadway St","59802",46.8675004,-113.9811782
+"59801","Missoula","MT","Rosauers","2350 S Reserve St","59801",46.84958131136554,-114.03779967443263
+"59801","Missoula","MT","Pattee Creek Market","704 SW Higgins Ave","59803",46.83662603213109,-114.01068057752579
+"59801","Missoula","MT","Orange Street Food Farm","701 S Orange St","59801",46.86462931844006,-114.00389516872559
+"59801","Missoula","MT","Natural Grocers","2530 S 3rd St W","59804",46.86782970765759,-114.0403684721284
+"59801","Missoula","MT","Missoula Fresh Market on Reserve","3801 S Reserve St","59801",46.83492,-114.041435
+"59801","Missoula","MT","Town Pump","318 S Orange St","59801",46.86867141723633,-114.00326538085938
+"59801","Missoula","MT","Albertsons","3800 Russell St","59801",46.836352,-114.0155467
+"59801","Missoula","MT","Albertsons","2205 Oxford St","59801",46.8509496,-114.0175344
+"59801","Missoula","MT","Smart Foodservice Warehouse Stores","2501 Brooks Street","59801",46.84820556640625,-114.02127838134766
+"59801","Missoula","MT","Lucky's Market","2901 Brooks St Unit M-1","59801",46.84484154736254,-114.0266489982605
+"59802","Missoula","MT","Albertsons","2230 N Reserve St","59808",46.885923199772236,-114.03637826453632
+"59803","Missoula","MT","Walmart Supercenter","4000 Hwy 93 South","59804",46.832116361787804,-114.0470397669783
+"59803","Missoula","MT","Dale's","2106 Clements Rd","59804",46.8509521484375,-114.08009338378906
+"59804","Missoula","MT","Walmart Supercenter","3555 Mullan Rd","59808",46.88385996864327,-114.04197837299272
+"59804","Missoula","MT","Subway At Walmart","3516-3594 Clark Fork Way","59808",46.883990207799535,-114.04164149264112
+"59808","Missoula","MT","Bronc's Grocery","16640 Beckwith St","59834",47.015220642089844,-114.22760009765625
+"59820","Alberton","MT","Valley Grocery","406 Railroad Ave","59820",47.003797,-114.479669
+"59821","Arlee","MT","Wilson's Foods","Whitworth","59821",47.16332396836198,-114.08648749791651
+"59825","Clinton","MT","Clinton Market","20500 US Highway 10 E","59825",46.77721405029297,-113.71003723144531
+"59827","Conner","MT","CONNER GROCERY","159 Conner Cutoff Rd, Conner, MT 59827","not_available",45.93028259277344,-114.12461853027344
+"59828","Corvallis","MT","The Corvallis Merc","not_available","59828",46.3132275529436,-114.11491215970887
+"59828","Corvallis","MT","Safeway","101 E Main St","59840",46.246181862374925,-114.15504232810235
+"59828","Corvallis","MT","Victor Mercantile","2424 Meridian Rd","59875",46.414398193359375,-114.14673614501953
+"59828","Corvallis","MT","Hamilton's IGA","600 S 1st St","59840",46.2417227309327,-114.15455970436946
+"59829","Darby","MT","People's Market","801 N Main St","59829",46.028537171149246,-114.17813535975054
+"59832","Drummond","MT","Front Street Market","50 E Front St","59832",46.667766,-113.146982
+"59833","Florence","MT","Gary and Leos","5537 Hwy 93 N","59833",46.63427883151855,-114.07771845254238
+"59840","Hamilton","MT","Albertsons","1313 N 1st St","59840",46.2630084,-114.1587965
+"59840","Hamilton","MT","Super 1 Foods","1131 N 1st St","59840",46.2596931128807,-114.15803180650319
+"59844","Heron","MT","The Heron Store & Cafe","150 Railroad Ave","59844",48.05841064453125,-115.95906066894531
+"59845","Hot Springs","MT","Buck's Grocery","223 Main St","59845",47.6082654,-114.67110760000003
+"59856","Paradise","MT","Mcgowan's","not_available","59859",47.458685984781624,-114.88075431901434
+"59858","Philipsburg","MT","Huffman Grocery","1130 W Broadway","59858",46.334684813675175,-113.30812613067943
+"59859","Plains","MT","Sanders Country Harvest","5254 HWY 200 E","59873",47.531748491066764,-115.04487991333008
+"59860","Polson","MT","Walmart Supercenter","36318 Memory Lane","59860",47.68418474390695,-114.12063373316059
+"59860","Polson","MT","Safeway","146 South Shore Route","59860",47.687590542567946,-114.12357705270921
+"59860","Polson","MT","Polson Bay Grocery & Conoco Gas Station","MT 35","59860",47.682773,-114.140672
+"59860","Polson","MT","Super 1 Foods","50331 US Highway 93","59860",47.690476206509565,-114.1536309404244
+"59868","Seeley Lake","MT","Cory's Valley Market","3002 Highway 83 S","59868",47.160131,-113.47262978
+"59872","Superior","MT","Castles Family Foods","305 River St.","59872",47.193199157714844,-114.89173889160156
+"59873","Thompson Falls","MT","Harvest Foods","3-5 Woodlin Ln","59873",47.58595575,-115.31438016666667
+"59873","Thompson Falls","MT","grocery surplus","not_available","59873",47.5993766784668,-115.35074615478516
+"59873","Thompson Falls","MT","Trout Creek Local Store","2954 Hwy 200","59874",47.83770670105609,-115.59150588816934
+"59901","Kalispell","MT","Safeway","6580 US Highway 93 S","59937",48.3993845,-114.3365893
+"59901","Kalispell","MT","Super 1 Foods","2100 9th St W","59912",48.369241919579956,-114.20976277102554
+"59901","Kalispell","MT","Walmart Supercenter","170 Hutton Ranch Rd","59901",48.231621916802254,-114.32646996817655
+"59901","Kalispell","MT","Albertsons","900 W Idaho St","59901",48.1996045,-114.3294773
+"59901","Kalispell","MT","Smith's","195 3rd Avenue East N","59901",48.20176517,-114.30897733
+"59901","Kalispell","MT","Rosauer's","2150 US Highway 93 S","59901",48.178382415957415,-114.30254887006842
+"59901","Kalispell","MT","Super 1 Foods Kalispell","55 1st Avenue East N","59901",48.20081052697431,-114.3113140566519
+"59901","Kalispell","MT","Smith's","419 Nucleus Ave","59912",48.3743348,-114.1805523
+"59901","Kalispell","MT","Super 1 Foods","6475 US Highway 93 S","59937",48.39558322054961,-114.3334940035672
+"59901","Kalispell","MT","Markus Food Inc","9 Baker Ave","59937",48.41211398771674,-114.337985938725
+"59901","Kalispell","MT","Third Street Market","244 Spokane Ave","59937",48.409763986410695,-114.33549714457185
+"59901","Kalispell","MT","Bigfork Harvest Food","8111 HWY 35","59911",48.0732166212958,-114.07861428034246
+"59901","Kalispell","MT","Natural Grocers","2395 US Highway 93 N","59901",48.236948238487784,-114.32673787135096
+"59901","Kalispell","MT","Sykes Market","202 2nd Ave W","59901",48.19596804468432,-114.31635961420447
+"59901","Kalispell","MT","Smart Foodservice Warehouse Stores","1031 E Highway 2","95501",48.20888137817383,-114.30270385742188
+"59901","Kalispell","MT","Super 1 Foods","1346 US Highway 2 E","59901",48.21229581540685,-114.28057487017813
+"59901","Kalispell","MT","Ferndale Market","1845 HWY 209","59911",48.05200629968426,-113.98452461519264
+"59901","Kalispell","MT","Kalispell City Center","55 1st Ave N","59901",48.200415,-114.315411
+"59901","Kalispell","MT","Flathead Food Bank","not_available","59901",48.200927,-114.33447
+"59901","Kalispell","MT","Withey's Health Foods","1231 S Main St","59901",48.186659,-114.308661
+"59901","Kalispell","MT","Sundrop Health Foods","639 9th St W","59912",48.370894,-114.190934
+"59901","Kalispell","MT","Westside Grocery","145 2nd St W","59937",48.4104324104764,-114.34647097177887
+"59901","Kalispell","MT","BostonMarijuanaDeliverys.com","2 Blackfan Cir","02115",48.067006,-113.983618
+"59901","Kalispell","MT","Sunlife Health Foods","2302 US Highway 2 E","59901",48.22916030883789,-114.276611328125
+"59901","Kalispell","MT","Alpine Village Market","721 Wisconsin Ave","59937",48.423608288504056,-114.34065478975899
+"59917","Eureka","MT","Heavens Peak","355 US Highway 93 N","59917",48.88149896718498,-115.05344089820028
+"59917","Eureka","MT","Kootenai Kraft & Grocery","5253 West Kootenai Rd.","59930",48.970218,-115.195444
+"59917","Eureka","MT","Stein's Market","33 Kaylin Dr","59917",48.901300631928486,-115.05626333512743
+"59917","Eureka","MT","Safeway","not_available","59930",48.97052764892578,-115.21917724609375
+"59922","Lakeside","MT","ARIES GAS AND GROCERY","7254 U.S. 93 S, Lakeside, MT 59922","not_available",48.01909454259102,-114.22435998916626
+"59922","Lakeside","MT","Blacktail Grocery","105 Stoney Loop","59922",48.0173169408881,-114.22553361309635
+"59923","Libby","MT","Rosauers","703 W 9th St","59923",48.39060087383476,-115.56153864251628
+"59923","Libby","MT","Empire Foods","1406 Minnesota Ave","59923",48.381487073323434,-115.5488086484575

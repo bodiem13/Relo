@@ -1,0 +1,1033 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"27006","Advance","NC","WFBH Davie Medical Center","329 NC Highway 801 N","27006",36.01041030883789,-80.4466323852539
+"27006","Advance","NC","Clemmons Urgent Care","2245 Lewisville Clemmons Rd","27012",36.042813,-80.386533
+"27006","Advance","NC","Novant Health-GoHealth Urgent Care","3163 Gammon Ln","27012",36.039673,-80.38694699999999
+"27006","Advance","NC","Forsyth Er","not_available","not_available",36.02460172,-80.36669719
+"27006","Advance","NC","ac corp clemmons med job site","not_available","27012",36.029165525828134,-80.39821349440636
+"27006","Advance","NC","Wake Forest Baptist Health Urgent Care - Clemmons","2311 Lewisville Clemmons Rd","27012",36.040612,-80.385796
+"27011","Boonville","NC","Yadkin Valley Community Hospital","not_available","27055",36.13491718324656,-80.67114433355019
+"27012","Clemmons","NC","Novant Health Forsyth Medical Center","3333 Silas Creek Pkwy","27103",36.075917898789676,-80.2974166125422
+"27012","Clemmons","NC","Medical Park Hospital","1950 S Hawthorne Rd","27103",36.078962799819756,-80.29583270420257
+"27012","Clemmons","NC","Old Vineyard Behavioral Health Services","3637 Old Vineyard Road","27104",36.078585,-80.3191815
+"27012","Clemmons","NC","iccu","not_available","27103",36.06531424341492,-80.29945724138659
+"27012","Clemmons","NC","Hillcrest Urgent Care","2337 Winterhaven Ln","27103",36.0506074315727,-80.32592108671543
+"27012","Clemmons","NC","Drug & Alcohol Rehab Winston-Salem","1381 Old Mill Cir #220","27103",36.07534408569336,-80.3088607788086
+"27016","Danbury","NC","Stokes County EMS","106 Old Church Rd","27016",36.409473,-80.202081
+"27016","Danbury","NC","Stokes Reynolds Memorial Hospital","not_available","27052",36.417601414258485,-80.23100129855868
+"27016","Danbury","NC","LifeBrite Community Hospital of Stokes","1570 North Carolina 8 & 89 Highway North","27016",36.4180006,-80.2309154
+"27017","Dobson","NC","NHSC","814 Worth St","27030",36.489907,-80.611274
+"27017","Dobson","NC","Piedmont Medical, Inc.","500 W Kapp St","27017",36.3968391418457,-80.7271728515625
+"27017","Dobson","NC","Northern Hospital of Surry County","not_available","27030",36.49842783854105,-80.61172229383601
+"27017","Dobson","NC","PruittHealth","560 Johnson Ridge Rd","28621",36.26423263549805,-80.83204650878906
+"27017","Dobson","NC","Hugh Chatham Memorial Hospital O.R.","not_available","28621",36.261482,-80.838325
+"27017","Dobson","NC","Surry Ems Station 3","940 N Bridge St","28621",36.260073,-80.847753
+"27017","Dobson","NC","Nothern Hospital","830 Rockford St","27030",36.48893356323242,-80.61168670654297
+"27017","Dobson","NC","Our Mt. Airy Blue Ridge Medical Group","905 Rockford St","27030",36.48798845989442,-80.61074495315552
+"27017","Dobson","NC","Northern General Surgery","708 S South St Ste 100","27030",36.4915409,-80.6145249
+"27017","Dobson","NC","Northern Urgent Care","119 Welch Rd Ste A","27030",36.4874150819472,-80.61747202887342
+"27023","Lewisville","NC","Emergency in Vienna","not_available","27040",36.13752985449017,-80.40581702054185
+"27028","Mocksville","NC","Davie Hospital","123 Hospital Road","not_available",35.9142856,-80.5598724
+"27028","Mocksville","NC","Wake Forest Baptist Health - Urgent Care & Occupational Medicine - Mocksville","1188 Yadkinville Rd","27028",35.914277,-80.582514
+"27028","Mocksville","NC","Davie County EMS Station 1","not_available","27028",35.89992977856203,-80.57121580840045
+"27028","Mocksville","NC","Wake Forest Davie County Hospital","225 Hospital Street","not_available",35.899349,-80.571805
+"27030","Mount Airy","NC","EEG Room","Lefkosa","27030",36.510279,-80.509837
+"27030","Mount Airy","NC","Surry Community Health and Rehabilitation Center","542 Allred Mill Rd","27030",36.52153699,-80.61582537
+"27045","Rural Hall","NC","Northern Family Medicine - Rural Hall","Office closed","27045",36.225418,-80.303463
+"27101","Winston Salem","NC","SORT","121 Polo Rd","27105",36.144866,-80.257362
+"27101","Winston Salem","NC","Drug & Alcohol Rehab Winston-Salem","8 W 3rd St #245","27101",36.09750747680664,-80.24414825439453
+"27101","Winston Salem","NC","SAND LAKE SURGERY CENTER","not_available","32819",36.10827082718764,-80.22939920425415
+"27101","Winston Salem","NC","Novant Express Care Downtown","50 W 4th St Apt 10","27101",36.09811019897461,-80.244384765625
+"27101","Winston Salem","NC","4 ICU North Tower","not_available","27105",36.13008499145508,-80.25234985351562
+"27103","Winston Salem","NC","Wake Forest Baptist Medical Center","1 Medical Center Blvd","27157",36.088516,-80.269041
+"27103","Winston Salem","NC","Comprehensive Cancer Center","1 Medical Center Blvd","27103",36.09119779286775,-80.26860660454311
+"27103","Winston Salem","NC","WFBH Janeway Tower","301 S Hawthorne Rd","27157",36.08977881690405,-80.26898027390226
+"27103","Winston Salem","NC","FastMed Urgent Care","4937 Old Country Club Rd","27104",36.08348083496094,-80.34506225585938
+"27103","Winston Salem","NC","Brenner Children's Hospital- PICU","not_available","27104",36.09075006428757,-80.27006121020973
+"27103","Winston Salem","NC","Forsyth second Floor Solarium","not_available","27127",36.03633117675781,-80.26020812988281
+"27103","Winston Salem","NC","WFBH Pediatric Orthopedics","131 Miller St","27103",36.091651916503906,-80.27289581298828
+"27104","Winston Salem","NC","WFUBMC - 7AE Cards","Medical Center Blvd","27157",36.090260380057984,-80.26845613921166
+"27105","Winston Salem","NC","Novant Health-GoHealth Urgent Care","7811 N Point Blvd","27106",36.15039,-80.27852
+"27105","Winston Salem","NC","FastMed Urgent Care","5701 University Pkwy","27105",36.1760206,-80.27462504
+"27106","Winston Salem","NC","Novant Health GoHealth Urgent Care","50 Miller St Ste C","27104",36.0940867790345,-80.27504403495294
+"27106","Winston Salem","NC","Winston Salem Nursing & Rehabilitation","1900 W 1st St","27104",36.09589385986328,-80.27247619628906
+"27106","Winston Salem","NC","Urgent Care - Piedmont Plaza | Wake Forest Baptist Health","1920 W 1st St Fl 3","27104",36.0958579,-80.2736762
+"27107","Winston Salem","NC","DCEMS","152 Midway School Rd","27295",35.95298385620117,-80.21524810791016
+"27107","Winston Salem","NC","ARCA","1931 Union Cross Rd","27107",36.04483413696289,-80.13701629638672
+"27203","Asheboro","NC","White Oak Urgent Care","not_available","27203",35.69932322375355,-79.7908388198112
+"27203","Asheboro","NC","Randolph Health and Rehabilitation Center","230 E Presnell St","27203",35.713353000000005,-79.807899
+"27203","Asheboro","NC","Anesthesia Lounge","601 N Elm St","27203",35.714789,-79.80659
+"27203","Asheboro","NC","Randolph Hospital Welcome Center","117 W Miller St","27203",35.71137381982851,-79.81446064822217
+"27203","Asheboro","NC","Central Piedmont Surgery Center","724 Thomas St","27203",35.702144622802734,-79.79390716552734
+"27215","Burlington","NC","Alamance Regional Medical Center","1240 Huffman Mill Rd","27215",36.06132891769555,-79.50174808502197
+"27215","Burlington","NC","Healthcare Building","not_available","27215",36.083171014959625,-79.52110092912592
+"27215","Burlington","NC","Surgery Center","not_available","27302",36.061012362069796,-79.50188903315255
+"27215","Burlington","NC","Twin Lakes Skilled Care Nursing Center","Wade Coble Dr.","27215",36.083047027531066,-79.52160601733401
+"27215","Burlington","NC","NextCare Urgent Care","1713 S Church St","27215",36.083008805796304,-79.45917355080408
+"27215","Burlington","NC","FastMed Urgent Care","104 Huffman Mill Rd","27215",36.080166,-79.482638
+"27215","Burlington","NC","Urgent Care Of Burlington","1225 Huffman Mill Rd","27215",36.064409,-79.502598
+"27215","Burlington","NC","InstaCare - Burlington","3866 Rural Retreat Rd","27215",36.0714,-79.52258
+"27217","Burlington","NC","Cone Health Urgent Care","3940 Arrowhead Blvd","27302",36.074843,-79.269291
+"27235","Colfax","NC","High Point Regional Hospital Cancer Center","not_available","27262",36.144483981967944,-79.9984188949963
+"27239","Denton","NC","Davidson EMS Base 4","207 W Peacock Ave","27239",35.630153,-80.116886
+"27249","Gibsonville","NC","Moses Cone Hospital 6000","not_available","27408",36.27525174826137,-79.65201144565339
+"27253","Graham","NC","unc healthcare radiology","not_available","27258",36.021865259891,-79.32910363977916
+"27253","Graham","NC","Graham Urgent Care","101-109 S Melville St","27253",36.06904178722655,-79.39723187818667
+"27260","High Point","NC","High Point Regional","601 N Elm St","27262",35.96235106657613,-80.01336371840412
+"27260","High Point","NC","FastMed Urgent Care","2101 N Main St","27262",35.983166,-80.024007
+"27260","High Point","NC","HPRHS","N. Elm Street","not_available",35.96214518847303,-80.01287233285757
+"27260","High Point","NC","AFC Urgent Care High Point, NC","1231 Eastchester Dr Ste 120","27265",35.9960593,-79.9965046
+"27260","High Point","NC","Piedmont Triad Ambulance & Rescue","1422 S Main St","27260",35.940832,-79.99931
+"27260","High Point","NC","Peripheral Vascular Lab at HPRH","Elm Street","27262",35.961757,-80.011376
+"27260","High Point","NC","regional physicians Urgent Care","not_available","27260",35.946647,-80.034185
+"27260","High Point","NC","HPRH Finance Building","406 Lindsay St","27262",35.959790999999996,-80.013736
+"27262","High Point","NC","Jala Jala Hospital","National Highway","27360",35.927065,-80.050812
+"27263","High Point","NC","EMS base 1","not_available","27263",35.9008436943205,-79.96073147654035
+"27265","High Point","NC","FastMed Urgent Care","1589 Skeet Club Rd","27265",36.03309097,-79.97006675
+"27265","High Point","NC","Regional Physicians Walk In Medical Care And Occupational Health Urgent Care","2401 Hickswood Rd Ste 104","27265",36.02423095703125,-79.97212219238281
+"27265","High Point","NC","Cone Health Urgent Care at Kernersville","1635 NC 66 S","27284",36.0808503,-80.0627056
+"27265","High Point","NC","Pruitt Health - High Point","3830 N Main St","27265",36.01432108,-80.04778009
+"27265","High Point","NC","Wake Forest Convenience Clinic @ Premier","4515 Premier Dr","27265",36.035474,-79.949915
+"27265","High Point","NC","Cornerstone Urgent Care","not_available","27265",36.03565947380299,-79.94975536799616
+"27265","High Point","NC","Urgent Care","501 Hickory Branch Dr","27409",36.07488253333333,-79.9595824
+"27278","Hillsborough","NC","Duke University Hospital: Emergency Room","2301 Erwin Rd","27710",36.00749439,-78.93849568
+"27278","Hillsborough","NC","Duke HAFS (Hospital Addition For Surgery)","not_available","27705",36.006342034468865,-78.93753950032101
+"27278","Hillsborough","NC","Durham VA Medical Center","508 Fulton St","27705",36.009299,-78.938731
+"27278","Hillsborough","NC","Duke Children's Hospital (Wilburt & Atala Davison Medical Center)","2608 Erwin Road","27705",36.00929114,-78.94484512
+"27278","Hillsborough","NC","Duke University Medical Center 5100","Erwin Road","not_available",36.00695037841797,-78.93878936767578
+"27278","Hillsborough","NC","Duke Sleep Disorders Center","2800 Campus Walk Avenue","27705",36.011296,-78.952991
+"27278","Hillsborough","NC","Duke Heart Center Cath Lab","Erwin Rd","27514",36.007115512523825,-78.93791478581586
+"27278","Hillsborough","NC","Duke University Hospital ICN","2301 Erwin Road","27710",36.00708213,-78.93758105
+"27278","Hillsborough","NC","Duke Urgent Care Hillsborough","267 South Churton Street","27278",36.06425577,-79.10026041
+"27278","Hillsborough","NC","Duke Radiation Oncology","Research dr","not_available",36.004934936003984,-78.93736788359153
+"27278","Hillsborough","NC","Duke Children's Hospital & Health Center","2301 Erwin Road","27705",36.00705043,-78.93759237
+"27282","Jamestown","NC","MEDIQ Urgent Care","5718 W. Gate City Blvd","27407",36.0156,-79.89723
+"27284","Kernersville","NC","Novant Health Kernersville Medical Center","1750 Kernersville Medical Pkwy","27284",36.09199547490118,-80.04511099902925
+"27284","Kernersville","NC","kmc hospital","not_available","27284",36.13431167602539,-80.11795806884766
+"27284","Kernersville","NC","FastMed Urgent Care","1024 S Main St","27284",36.10816681257798,-80.09867906570435
+"27284","Kernersville","NC","Novant Health-GoHealth Urgent Care","794 South Main Street, Suite B","27284",36.112145,-80.08635919999999
+"27288","Eden","NC","Morehead Memorial Hospital","117 E Kings Hwy","27288",36.4947315911151,-79.7401630398688
+"27288","Eden","NC","Morehead Hospital","not_available","27320",36.49383473393284,-79.74285456739453
+"27288","Eden","NC","Moorehead Nursing Center","not_available","27288",36.4943463925269,-79.73730109264247
+"27288","Eden","NC","Brian Center Health and Rehabilitation/Eden","226 N Oakland Ave","27288-3040",36.508444,-79.779075
+"27292","Lexington","NC","Wake Forest Baptist Health Lexington Medical Center","250 Hospital Dr","27292",35.806064,-80.28687099999999
+"27292","Lexington","NC","DCEMS","935 N Main St","27292",35.831283,-80.242993
+"27292","Lexington","NC","Novant Health-GoHealth Urgent Care","1977 Cotton Grove Rd","27292",35.77140806175717,-80.26061853001852
+"27306","Mount Gilead","NC","Atrium Health Mt. Gilead Medical Services","202 N Main St","27306",35.217105865478516,-80.00227355957031
+"27310","Oak Ridge","NC","Absolute Imaging Solutions","6108 Meadow Bluff Ln","27310",36.170446000000005,-79.974778
+"27312","Pittsboro","NC","Avance Care","98 Chapelton Ct","27516",35.822181701660156,-79.08696746826172
+"27312","Pittsboro","NC","Pittsboro Urgent Care","not_available","27312",35.7194,-79.166905
+"27312","Pittsboro","NC","cCANn Conservative Christian All Natural Nutrition","not_available","75076",35.73111568890825,-79.20844316482544
+"27312","Pittsboro","NC","EmergeOrtho-Chatham Crossing","11312 US 15-501, Suite 401","27517",35.845181,-79.0897374
+"27317","Randleman","NC","White Oak Urgent Care","638 W Academy St","27317",35.820721,-79.816284
+"27320","Reidsville","NC","Solstas Lab","S Main St, Reidsville, NC 27320","27320",36.3529167175293,-79.66619873046875
+"27320","Reidsville","NC","Annie Penn Hospital","618 S Main St","27320",36.35363772768914,-79.66734230518341
+"27320","Reidsville","NC","Urgent Care","turner drive","not_available",36.33822740491604,-79.6592805257737
+"27320","Reidsville","NC","Cone Health Urgent Care at Reidsville","1560 Freeway Dr","27320",36.34186,-79.69222
+"27330","Sanford","NC","Central Carolina Hospital","1135 Carthage St","27330",35.46887058636395,-79.18713595536678
+"27330","Sanford","NC","First Health Convient Care","1606 Westover Dr","27330",35.44633865356445,-79.21575927734375
+"27330","Sanford","NC","kellers oakhaven","Wesrover Dr Sanford N C","27330",35.459282,-79.20970799999999
+"27330","Sanford","NC","Pine Ridge Urgent Care","3072 S Horner Blvd","27332",35.450903000000004,-79.136443
+"27330","Sanford","NC","Rapid Care Urgent Care","2609 S Horner Blvd","27332",35.458484999999996,-79.142915
+"27330","Sanford","NC","Pine Ridge Urgent Care","1413 Greenway Ct","27330",35.50613,-79.177628
+"27330","Sanford","NC","FastMed Urgent Care","724 S Horner Blvd","27330",35.471074,-79.173698
+"27330","Sanford","NC","central carolina advanced life support","not_available","27330",35.46613165521867,-79.18615768238608
+"27344","Siler City","NC","Radiology Desk @ Chatham","475 Progress Boulevard (181 - Work Area)","not_available",35.722991943359375,-79.42098236083984
+"27344","Siler City","NC","Central Piedmont Urgent Care","not_available","27344",35.732567,-79.42644
+"27344","Siler City","NC","Central Piedmont Urgent Care","101 Walmart Supercenter","27344",35.7327737,-79.4264989
+"27344","Siler City","NC","Chatham Hospital","475 Progress Blvd.","27344",35.72346,-79.42542
+"27356","Star","NC","Montgomery Memorial Hospital","520 Allen St","27371",35.363467,-79.890653
+"27358","Summerfield","NC","Coley Cosmetic & Hand Surgery Center, PA","3903 North Elm Street","27455",36.14390599,-79.8008756
+"27360","Thomasville","NC","Thomasville Medical Center","207 Old Lexington Rd","27360",35.880086016641606,-80.11181385419577
+"27360","Thomasville","NC","Thomasville Dialysis Center","not_available","27360",35.86222293340259,-80.07021459706243
+"27360","Thomasville","NC","DCEMS","115 W Main St","27360",35.881059,-80.085605
+"27360","Thomasville","NC","Thomasville Rescue Squad","212 Pine St","27360",35.875036,-80.083556
+"27360","Thomasville","NC","Novant Health-GoHealth Urgent Care","1122 Randolph St Ste 110","27360",35.85725534464589,-80.07462961422857
+"27371","Troy","NC","Base 7","not_available","28127",35.48711523,-80.08137018
+"27376","West End","NC","Moore Regional Hospital","155 Memorial Dr","28374",35.205239394865565,-79.45691556339631
+"27376","West End","NC","FirstComm","not_available","28374",35.204528,-79.456726
+"27376","West End","NC","Reid Heart Center","Page Rd","28374",35.205385,-79.455199
+"27376","West End","NC","ManorCare Health Services-Pinehurst","205 Rattlesnake Trail","28374",35.20571366,-79.46613958
+"27401","Greensboro","NC","Moses Cone Hospital","1200 N Elm St","27401",36.092025543600315,-79.78741407394409
+"27401","Greensboro","NC","Drug & Alcohol Rehab Greensboro","948 Walker Ave #C","27403",36.06856155395508,-79.8051528930664
+"27401","Greensboro","NC","Moses Cone Urgent Care","not_available","27401",36.09082685187486,-79.78434042328476
+"27401","Greensboro","NC","Orthopedic Surgical Center","1101 Carolina St","27401",36.088840999999995,-79.790906
+"27401","Greensboro","NC","Kindred Hospital Greensboro Subacute Unit","2401 S Side Blvd","27406",36.04921347,-79.7702186
+"27401","Greensboro","NC","MCHS 5151","201-299 E Northwood St","27401",36.0901,-79.78568641666666
+"27401","Greensboro","NC","Central Carolina Surgery Bariatrics","1002 N Church St","27401",36.08888626098633,-79.78368377685547
+"27401","Greensboro","NC","Fisher Park Health and Rehabilitation Center","1201 Carolina St","27401",36.08939,-79.79082
+"27401","Greensboro","NC","Cone Heart and Vascular Center","not_available","27405",36.0809326171875,-79.77810668945312
+"27401","Greensboro","NC","kidred hospital","not_available","27406",36.055985687072045,-79.77524294346763
+"27401","Greensboro","NC","M.C Surgical","200 E Northwood St","27401",36.08916091918945,-79.787109375
+"27401","Greensboro","NC","BioLife Plasma Services","1409 Yanceyville St.","27405",36.09095599998333,-79.7814859327619
+"27403","Greensboro","NC","1st Choice Health Services","1203 Brandt St #F","27407",36.055795313676335,-79.84389066696167
+"27403","Greensboro","NC","Room 1428","not_available","27403",36.084007263183594,-79.82605743408203
+"27403","Greensboro","NC","Wesley Long Community Hospital Emergency Department","N Elam Ave","27403",36.08288,-79.826454
+"27403","Greensboro","NC","Behavioral Health Hospital","700 Walter Reed Dr","27403",36.082793,-79.82252
+"27403","Greensboro","NC","Wesley Long Educational Center","501 N Elam Ave","27403",36.083671,-79.825632
+"27403","Greensboro","NC","Room 1428","509 N Elam Ave","27403",36.084282,-79.82425400000001
+"27405","Greensboro","NC","Cone Health Rehabilitation Center","1904 N. Church St","27405",36.098529,-79.78155500000001
+"27405","Greensboro","NC","Sergical Center of Greensboro SCA","1211 Carolina St.","27403",36.10055293372904,-79.7808323735195
+"27405","Greensboro","NC","Mocoho","1200 n church","27408",36.1024092,-79.78283116666667
+"27406","Greensboro","NC","Heart2Heart","1921 Boulevard St #E","27407",36.04182052612305,-79.8508071899414
+"27406","Greensboro","NC","Cone Health Urgent Care at Elmsley Square","3711 Elmsley St","27406",36.00233,-79.79251
+"27406","Greensboro","NC","Urgent Medical Waiting Room","102 Pomona Dr","27407",36.069596999999995,-79.86198900000001
+"27407","Greensboro","NC","Banfield","1206 Bridford Pkwy","27407",36.058827,-79.904602
+"27407","Greensboro","NC","Opti Med Urgent Care","not_available","27410",36.07505119737333,-79.86732232620989
+"27407","Greensboro","NC","Friendly Urgent Care","not_available","27409",36.0589599609375,-79.89585876464844
+"27407","Greensboro","NC","Hemp House CBD & Kratom","5700 W Market St Unit D","27410",36.07698440551758,-79.89418029785156
+"27407","Greensboro","NC","FastMed Urgent Care","5402 W Market St","27409",36.0737273,-79.8862461
+"27408","Greensboro","NC","Triad Urgent Care","2005A Pisgah Church Rd","27455",36.1181,-79.825805
+"27408","Greensboro","NC","Blumenthal Jewish Nursing & Rehab Center","3724 Wireless Dr","27455",36.12227229807001,-79.82354348719434
+"27409","Greensboro","NC","Friendly Urgent & Family Care","410 College Rd","27410",36.082953,-79.89159699999999
+"27409","Greensboro","NC","Eagle Physicians Guilford College","605 Dolley Madison Rd Suite 101","27410",36.086619979981414,-79.8856832918922
+"27409","Greensboro","NC","Advanced Home Care","4001 Piedmont Pkwy","27265",36.05258929284268,-79.96062263417238
+"27410","Greensboro","NC","UNC Hospital, Chapel Hill","101 Manning Dr","27514",36.130952,-79.855627
+"27501","Angier","NC","Central Harnett Hospital","215 Brightwater Dr","27546",35.42564845186672,-78.80859869067083
+"27501","Angier","NC","50210 EMS Station 1","52 Greenleaf Rd","27501",35.512044893761995,-78.57925631004339
+"27501","Angier","NC","Medfast urgent care!","not_available","27526",35.54359556666667,-78.77764428333333
+"27501","Angier","NC","Casablanca De Ty Ty","114 Park Place St","27501",35.510459999999995,-78.734789
+"27502","Apex","NC","WakeMed Apex","120 Healthplex Way","27502",35.73883511379116,-78.86763116154934
+"27502","Apex","NC","FastMed Urgent Care","2021 Creekside Landing Dr","27502",35.74581839,-78.88507843
+"27502","Apex","NC","Duke Sports Injury and Orthopaedic Urgent Care at Apex","1545 Orchard Villas Ave","27502",35.7485192,-78.8638375
+"27502","Apex","NC","Rex Rehabilitation","911 S Hughes St","27502",35.71834205342387,-78.84784995893692
+"27502","Apex","NC","WakeMed Emergency Room","not_available","27502",35.74043087348229,-78.86176635782937
+"27502","Apex","NC","Unc Urgent Care At Beaver Creek Commons","1059 Beaver Creek Commons Dr Ste 150","27502",35.74385452270508,-78.87275695800781
+"27503","Bahama","NC","Federal Medical Center","Butner Prison","not_available",36.13633969429517,-78.81136601569749
+"27504","Benson","NC","Johnston Ambulance Service Smithfield","1200 W Market St","27577",35.526177497150876,-78.36229867331478
+"27504","Benson","NC","Medfast Urgent Care","602 S Wall St","27504",35.37799835205078,-78.55348205566406
+"27504","Benson","NC","Med Fast Urgent Care","605 W Cumberland St","28334",35.310335998666595,-78.61524938171118
+"27504","Benson","NC","Cornerstone Nursing & Rehabilitation Center","711 Susan Tart Rd","28334",35.30403,-78.630503
+"27504","Benson","NC","Oakview Commons","not_available","27524",35.444944,-78.420948
+"27504","Benson","NC","L & D","806 Tilghman Dr","not_available",35.30733871459961,-78.63419342041016
+"27508","Bunn","NC","Bunn High School/ FCEMS station 4","not_available","27508",35.955277380054625,-78.24873536349588
+"27508","Bunn","NC","FCEMS Station 4","930 NC 98 Hwy W","27508",35.9600944519043,-78.27792358398438
+"27509","Butner","NC","Central Regional Hospital","300 Veazey Dr","27509",36.146596408028174,-78.77087882660054
+"27509","Butner","NC","adatc","not_available","27615",36.137264154661814,-78.775432943603
+"27510","Carrboro","NC","South Orange Rescue Squad","202 Roberson St","27510",35.90989104010017,-79.07085035399133
+"27511","Cary","NC","WakeMed Cary Hospital","1900 Kildaire Farm Rd","27518",35.740397534793786,-78.78131608251726
+"27511","Cary","NC","Wakemed Cary Pharmacy","not_available","27518",35.739983,-78.781151
+"27511","Cary","NC","Wake Med Cary ER","Kildaire Farm Rd","not_available",35.74025829214702,-78.78253983304961
+"27511","Cary","NC","WakeMed Sleep Center","200 Ashville Ave","27518",35.739749908447266,-78.78327941894531
+"27511","Cary","NC","Wakemed Data Center","not_available","27511",35.739981,-78.781414
+"27511","Cary","NC","Accent Urgent Care","212 Ashville Ave Ste 10","27518",35.74043020833087,-78.78341858805237
+"27511","Cary","NC","Specialists in Plastic Surgery","140 Preston Executive Dr #201","27513",35.791133880615234,-78.82856750488281
+"27511","Cary","NC","NextCare Urgent Care","1110 Kildaire Farm Rd","27511",35.7704601118358,-78.78227520814659
+"27511","Cary","NC","Dr. Jeevan J. Pai, M.D.","115 Kildaire Park Drive Suite 201","27518",35.7426019,-78.7802147
+"27511","Cary","NC","Silver Lining Coaching","400 Ashville Ave","27518",35.737545013427734,-78.78677368164062
+"27511","Cary","NC","AFC Urgent Care Cary, NC","101 Maynard Crossing Ct.","27513",35.7859324,-78.8103455
+"27511","Cary","NC","WakeMed Children's PM Pediatrics Urgent Care","2007 Walnut St","27518",35.757744,-78.741116
+"27513","Cary","NC","True You Weight Loss","2001 Weston Pkwy","27513",35.830371,-78.776328
+"27514","Chapel Hill","NC","UNC Hospital 2nd Floor Surgery","not_available","27514",35.9052056610581,-79.05011446870894
+"27514","Chapel Hill","NC","UNC Emergency Department","101 Manning Drive","27514",35.936918,-79.039691
+"27514","Chapel Hill","NC","UNC Medical Center","101Manning drive","not_available",35.90155277070974,-79.05397581533552
+"27514","Chapel Hill","NC","UNC MRI","Manning Drive","27514",35.90431258038695,-79.05073140963552
+"27516","Chapel Hill","NC","Optical Reflections","1816 Martin Luther King Jr Blvd","27514",35.967321999999996,-79.058087
+"27517","Chapel Hill","NC","UNC Urgent Care","6013 Farrington Rd Ste 101","27517",35.910730208921365,-78.98287162751456
+"27517","Chapel Hill","NC","UNC-ENT","2226 Nelson Hwy","27517",35.911659240722656,-78.98595428466797
+"27518","Cary","NC","FastMed Urgent Care","3420 Ten-Ten Rd","27518",35.70270117,-78.79296332
+"27518","Cary","NC","PDC-CP","not_available","27540",35.71505410265724,-78.78315210342407
+"27519","Cary","NC","Duke Urgent Care Morrisville","10950 Chapel Hill Road","27560",35.85469,-78.8418499
+"27519","Cary","NC","Cary Urgent Care","not_available","27519",35.788231555689514,-78.85143844496324
+"27519","Cary","NC","Apollo Urgent Care","101 Lattner Court","27560",35.83134,-78.85277
+"27519","Cary","NC","wake radiology panther creek","6715 McCrimmon Pkwy","27519",35.827883,-78.88512
+"27519","Cary","NC","FastMed Urgent Care","100 Cornerstone Dr","27519",35.78954244,-78.85113299
+"27519","Cary","NC","WakeMed Children's PM Pediatric Urgent Care","6402 McCrimmon Pkwy Ste 300","27560",35.834092,-78.85873
+"27520","Clayton","NC","JMH Clayton","2020-2224 NC Hwy 42","27520",35.63064868687792,-78.50325193787945
+"27520","Clayton","NC","FastMed Urgent Care","11491 US-70 BUS","27520",35.65187575,-78.471988
+"27520","Clayton","NC","FastMed Urgent Care","5156 NC-42","27529",35.61010656,-78.55933039
+"27520","Clayton","NC","UNC Urgent Care","not_available","27520",35.629342,-78.501471
+"27520","Clayton","NC","WakeMed Clayton","555 Medical Park Pl","27520",35.66177749633789,-78.48722839355469
+"27520","Clayton","NC","Urgent Cares of America","925 Shotwell Rd.","27518",35.664528,-78.477518
+"27520","Clayton","NC","Wake Urgent Care","Bratton Drive","27529",35.610049,-78.55942615
+"27520","Clayton","NC","Wake County EMS Station 19","125 Spaceway Ct","27529",35.67759434022632,-78.54950097185352
+"27520","Clayton","NC","JOHNSTON UNC MEDICAL CENTER CLAYTON","2138 NC Highway 42 W","27520",35.63067770652765,-78.50344973418952
+"27522","Creedmoor","NC","Granville Community Urgent Care","1738-1786 Butner Creedmoor Rd","27522",36.1347107347898,-78.71713769889918
+"27523","Apex","NC","FirstHealth EMS Base 1","1441 Farrington point rd","27517",35.815049,-79.017179
+"27524","Four Oaks","NC","Johnston Medical Center","514 N Brightleaf Blvd","27577",35.51466091801281,-78.3347135775165
+"27524","Four Oaks","NC","Nova Urgent & Medical Care","861 Berkshire Rd","27577",35.5175813567224,-78.3287426457538
+"27524","Four Oaks","NC","Historic Site Dr. C.W. Furlonges Hospital 1926-1970","706 Massey St","27577",35.507692999999996,-78.34089399999999
+"27524","Four Oaks","NC","Urgent Care of Smithfield","388 Venture Dr Ste I","27577",35.51048476112833,-78.31915669767942
+"27525","Franklinton","NC","BOB Main Ammonia Alarm Meetup","not_available","27525",36.099430084228516,-78.4081802368164
+"27526","Fuquay Varina","NC","Urgent Care","7232 Gb Alford Hwy","27540",35.63521957397461,-78.82962799072266
+"27526","Fuquay Varina","NC","Cary Gastroenterology Associates","208 Village Walk Drive","27540",35.64067167,-78.83990167
+"27526","Fuquay Varina","NC","Med Mart Urgent Care","7212 Gb Alford Hwy","27540",35.634926,-78.832954
+"27526","Fuquay Varina","NC","FastMed Urgent Care","104 Bass Lake Rd","27540",35.65391516,-78.8250459
+"27526","Fuquay Varina","NC","FastMed Urgent Care","1418 N Main St","27526",35.592403000000004,-78.770535
+"27526","Fuquay Varina","NC","AFC Urgent Care Fuquay - Varina","1298 N Main St","27526",35.5914166,-78.7794168
+"27529","Garner","NC","FastMed Urgent Care","220 US-70","27529",35.70580885,-78.61031477
+"27529","Garner","NC","NextCare Urgent Care","811 US Hwy 70 W","27529",35.712650285731826,-78.62778166975424
+"27529","Garner","NC","Garner EMS","990 Vandora Springs Rd","27529",35.708587646484375,-78.62541961669922
+"27529","Garner","NC","FastMed Urgent Care","220 US 70 Hwy W","27529",35.705989837646484,-78.61038208007812
+"27529","Garner","NC","WakeMed Garner ER","not_available","27529",35.699546,-78.596225
+"27529","Garner","NC","Rex Sleep Disorders Center","300 Health Park Dr","27529",35.686241149902344,-78.57666778564453
+"27530","Goldsboro","NC","Wayne Memorial Hospital","2700 Wayne Memorial Dr","27534",35.398476594763295,-77.95289220497249
+"27530","Goldsboro","NC","Seymour Johnson AFB Clinic","1050 Jabarrah Ave","27531",35.361073617967,-77.9603362083435
+"27530","Goldsboro","NC","Urgent Care","not_available","27534",35.4019379,-77.95322605
+"27530","Goldsboro","NC","Wayne County EMS Station 2","888 Rosewood Rd","not_available",35.41463,-78.07451
+"27530","Goldsboro","NC","Duke Medical","not_available","27710",35.41353856,-78.04551466
+"27530","Goldsboro","NC","NextCare Urgent Care","212 N Spence Ave","27534",35.37482833862305,-77.95391845703125
+"27530","Goldsboro","NC","Brian Center Health & Rehabilitation/Goldsboro","1700 Wayne Memorial Dr","27534",35.39097,-77.97016500000001
+"27530","Goldsboro","NC","EMS Station 6","not_available","27530",35.3887884170836,-77.97156463748523
+"27530","Goldsboro","NC","Brian Center Of Goldsboro","1901-1999 N Tampa St","27534",35.39134750492527,-77.97029871725705
+"27536","Henderson","NC","Vance Family Medicine","381 Ruin Creek Rd","27536",36.333229064941406,-78.4460220336914
+"27536","Henderson","NC","Maria Parham Health: Emergency Room","566 Ruin Creek Rd","27536",36.3310432434082,-78.44915008544922
+"27536","Henderson","NC","FastMed Urgent Care","903 S Beckford Dr","27536",36.33232043,-78.43345765
+"27539","Apex","NC","Duke Urgent Care Holly Springs","401 Irving Parkway","27540",35.65713526,-78.84941131
+"27539","Apex","NC","Duke Women's Health Holly Springs","401 Irving Pkwy","27540",35.6568946,-78.8494932
+"27541","Hurdle Mills","NC","MedAccess Urgent Care, PLLC","3762 Durham Rd Ste A","27573",36.341699710708106,-78.98278339322499
+"27545","Knightdale","NC","ambulance","not_available","27545",35.77057465649086,-78.45286154660475
+"27549","Louisburg","NC","Franklin Regional Medical Center","100 Hospital Dr","27549",36.112607244056385,-78.29363481079336
+"27549","Louisburg","NC","Franklin Regional ER","105 Spencer Ave","27549",36.111540000000005,-78.29451999999999
+"27560","Morrisville","NC","WakeMed Brier Creek Healthplex","8001 T W Alexander Dr","27617",35.91863509955122,-78.7830355041348
+"27560","Morrisville","NC","Duke Vascular Surgery and Vein Center at Brier Creek","10207 Cerny Street","27617",35.9018031,-78.80117429
+"27560","Morrisville","NC","Scioderm Inc.","1007 Slater Rd Ste 170","27703",35.877553000000006,-78.84272299999999
+"27560","Morrisville","NC","Reliant Urgent Care","not_available","27560",35.912176129244415,-78.7800407409668
+"27560","Morrisville","NC","Migraine Central","not_available","27703",35.917752814681315,-78.8590352063727
+"27560","Morrisville","NC","Avance Care","7850 Brier Creek Pkwy","27617",35.916149,-78.781191
+"27560","Morrisville","NC","Universal Hospital Services","919-1101 State Road 1002","27560",35.849913,-78.814282
+"27560","Morrisville","NC","Wake Med Cary Pre Op","not_available","27712",35.89196690111169,-78.85075282759414
+"27565","Oxford","NC","Granville Medical Center","1010 College St","27565",36.326181120066124,-78.59375390333454
+"27565","Oxford","NC","Granville County Animal Shelter","5640 Cornwall Rd","27565",36.32435989379883,-78.62870025634766
+"27565","Oxford","NC","The Little Clinic (in Oxford)","1419 College St","27565",36.334434,-78.59477700000001
+"27573","Roxboro","NC","Person Memorial Hospital","615 Ridge Rd","27573",36.408478340641445,-78.98514389991755
+"27573","Roxboro","NC","Duke Otolaryngology of Person County","783-C Doctor's Court","27573",36.41055899,-78.9872367
+"27573","Roxboro","NC","FastMed Urgent Care","910 N Madison Blvd","27573",36.40783125,-78.97567769
+"27587","Wake Forest","NC","Wake Orthopaedics Urgent Care","10010 Falls of Neuse Rd","27614",35.90890121459961,-78.59783935546875
+"27587","Wake Forest","NC","FastMed Urgent Care","6500 Creedmoor Rd","27613",35.8743849,-78.6788303
+"27587","Wake Forest","NC","WakeMed North Healthplex","10000 Falls of Neuse Rd","27614",35.908519152057515,-78.59809983679054
+"27587","Wake Forest","NC","WakeMed North Emergency Dept.","not_available","27614",35.90934769134831,-78.59796344808228
+"27587","Wake Forest","NC","NextCare Urgent Care","1911 Falls Valley Dr Ste 100","27615",35.89892542751008,-78.60829464983988
+"27587","Wake Forest","NC","Wakemed Pediatric Endocrinology","10010 Falls of Neuse Rd Ste 102","27614",35.90890121459961,-78.59783935546875
+"27587","Wake Forest","NC","FastMed Urgent Care","2001 S Main St","27587",35.94907802,-78.53124021
+"27587","Wake Forest","NC","NextCare Urgent Care","6801 Pleasant Pines Dr","27613",35.872890000000005,-78.713392
+"27587","Wake Forest","NC","Wake Forest coverage","not_available","27587",35.94278095834449,-78.54178664298722
+"27587","Wake Forest","NC","Optimus Urgent Care","7100 Six Forks Rd","27615",35.87606991749573,-78.64434797135718
+"27587","Wake Forest","NC","Urgent Care","Falls of Neuse","27615",35.89460577263254,-78.61995471513914
+"27587","Wake Forest","NC","FastMed Urgent Care","2503 Forest Hills Rd W","27893",35.87397670643125,-78.47188711166382
+"27587","Wake Forest","NC","waxologie","6511 Creedmoor Rd Suite 101","27613",35.874820709228516,-78.67939758300781
+"27587","Wake Forest","NC","Rx Urgent Care","10880 Durant Rd","27614",35.907731,-78.594835
+"27587","Wake Forest","NC","The Carolinas Center for Hospice and End of Life Care NC","8502 6 Forks Rd Ste #101","27615",35.895513,-78.648577
+"27587","Wake Forest","NC","Heritage Urgent & Primary Care","620 Doctor Calvin Jones Hwy #212","27587",35.96622848510742,-78.52155303955078
+"27587","Wake Forest","NC","MedAccess Urgent Care","700 US 1 Hwy Ste 100","27596",36.028325371131544,-78.50611054825539
+"27587","Wake Forest","NC","UNC Urgent Care at Wakefield","11200 Governor Manly Way","27614",35.94033,-78.63156
+"27591","Wendell","NC","contractions","not_available","27597",35.814212799072266,-78.30823516845703
+"27591","Wendell","NC","Wake Med Zebulon","535 W Gannon Ave","27597",35.819205,-78.326799
+"27591","Wendell","NC","Community Urgent Care","Wendell blbd","27591",35.799500752396895,-78.38703067419432
+"27591","Wendell","NC","FastMed Urgent Care","817 E Gannon Ave","27597",35.82953722,-78.29545414
+"27601","Raleigh","NC","MedFirst","131 S Wilmington St","27601",35.77854919433594,-78.63799285888672
+"27601","Raleigh","NC","Alcohol & Drug Rehab Raleigh","16 W Hargett St","27601",35.778689137724655,-78.64234685897826
+"27601","Raleigh","NC","Drug & Alcohol Rehab Raleigh","109 S Bloodworth St","27601",35.778877,-78.633033
+"27601","Raleigh","NC","Vera Hospitals","555 Fayetteville St Ste 120","27601",35.7733259,-78.63906329999999
+"27601","Raleigh","NC","Pray4Freddie","not_available","27610",35.77127289488975,-78.63833427429199
+"27601","Raleigh","NC","Hope Springs Arts & Wellness","417 N Blount Street","27601",35.7852957,-78.6365269
+"27603","Raleigh","NC","Rex Hospital - Main Campus","4420 Lake Boone Trail","27607",35.803592,-78.697413
+"27603","Raleigh","NC","3000 new Bern Avenue Raleigh, NC","3000 New Bern Ave","27610",35.77885083028796,-78.60882006576394
+"27603","Raleigh","NC","Regional Medical Center at Central Prison","1300 Western Blvd","27606",35.777130126953125,-78.65494537353516
+"27603","Raleigh","NC","Drug & Alcohol Rehab Raleigh","18 Seaboard Ave #188","27604",35.789432525634766,-78.63939666748047
+"27603","Raleigh","NC","PruittHealth - Raleigh","2420 Lake Wheeler Rd","27603",35.747893,-78.676035
+"27603","Raleigh","NC","Central Prison Health Care Complex","1300 Western Blvd, Raleigh, NC 27603","27603",35.777130126953125,-78.65494537353516
+"27603","Raleigh","NC","Dorothea Dix State Hospital","820 S Boylan Ave","27603",35.769111542927256,-78.65434848732156
+"27603","Raleigh","NC","THPOWC","1251 Goode St","27603",35.764305114746094,-78.65821838378906
+"27603","Raleigh","NC","Rex Transport","Blue Ridge Road","27607",35.800709,-78.702089
+"27603","Raleigh","NC","Duke Infusion Clinic","40 Duke Medicine Cir","27710",35.74478372806023,-78.683817873689
+"27603","Raleigh","NC","Rex hospital room 7080","not_available","27607",35.7480807240625,-78.69116724632518
+"27603","Raleigh","NC","Med Mart Urgent Care","4450 Fayetteville Rd","27603",35.720211029052734,-78.65721893310547
+"27604","Raleigh","NC","Duke Raleigh Hospital","3400 Wake Forest Road","27609",35.82835639,-78.6181388
+"27604","Raleigh","NC","WakeMed Heart Center","3000 New Bern Ave","not_available",35.785188088361885,-78.58925337167081
+"27604","Raleigh","NC","WakeMed Hospital - Andrews Center","3024 New Bern Ave","27610",35.78624895319925,-78.5875936579297
+"27604","Raleigh","NC","Duke Raleigh Hospital Sleep Laboratory","3320 Wake Forest Road","27609",35.827886,-78.619141
+"27604","Raleigh","NC","Duke Raleigh Hospital Room#5232","not_available","27609",35.82855987548828,-78.61924743652344
+"27604","Raleigh","NC","Emergency Room at Duke Raleigh Hospital","3400 Wake Forest Rd","27609",35.8286781311035,-78.6179656982422
+"27604","Raleigh","NC","wake med room 3A05","not_available","27604",35.836971282958984,-78.59329986572266
+"27604","Raleigh","NC","Nextcare","4100 Wake Forest Rd","27609",35.836403999999995,-78.612945
+"27604","Raleigh","NC","Capital Urgent Care","3509 Capital Blvd #101","27604",35.827915999999995,-78.586208
+"27604","Raleigh","NC","Wake Med PreOp","3700 New Bern Ave","27610",35.79730987548828,-78.57678985595703
+"27607","Raleigh","NC","Rex Surgical Specialist","2800 Blue Ridge Rd Ste 300","27607",35.81906234274182,-78.70359425935933
+"27607","Raleigh","NC","Rex Medical Office Building","5800 Blue Ridge Rd","27607",35.81980475810676,-78.70288006474702
+"27607","Raleigh","NC","Rex ER","4420 Lake Boone Trl","27607",35.81851139511548,-78.70414839521057
+"27607","Raleigh","NC","Blue Ridge Surgery Center","2308 Wesvill Ct","27607",35.81510399105656,-78.6951829266738
+"27607","Raleigh","NC","Accent Urgent Care","2406 Blue Ridge Rd","27607",35.81357300083278,-78.70509976471209
+"27607","Raleigh","NC","WakeMed","2406 Blue Ridge Rd, Suite 190","not_available",35.8135986328125,-78.70454406738281
+"27607","Raleigh","NC","Rex Cardiothiracic Surgery Specialists","2800 Blue Ridge Rd Ste 403","27607",35.818756103515625,-78.70378112792969
+"27607","Raleigh","NC","Rex Express Care","not_available","27612",35.822586,-78.705272
+"27607","Raleigh","NC","REX L&D Room 238","REX Hospital","27607",35.80862,-78.695654
+"27607","Raleigh","NC","REX Hospital Sleep Disorders Center","4210 Lake Boone Trl","27607",35.818172454833984,-78.70242309570312
+"27607","Raleigh","NC","UNC Specialty Women's Center of Rex","Lake Boone Tr.","27607",35.81727154465685,-78.70173897991569
+"27607","Raleigh","NC","Dr. Joe Wilson : Shoulder Expert Of The Triangle","Shoulder Expert of Raleigh, Durham, Cary 3100 Duraleigh Road","27612",35.8236,-78.70582399999999
+"27607","Raleigh","NC","Women's Center for GI Health","2418 Duraleigh Road Suite 250","27612",35.8209668,-78.704848
+"27608","Raleigh","NC","The Pain Clinic aka Duke ER","123 BS Lane","not_available",35.81250688,-78.63036611
+"27609","Raleigh","NC","Duke Vascular Specialists of Raleigh","3300 Executive Drive","27609",35.82879605,-78.61760374
+"27609","Raleigh","NC","Holistic Med Spa","3727 Benson Dr","27609",35.834861,-78.619542
+"27609","Raleigh","NC","Duke Urology Men's Health Center","3480 Wake Forest Road","27609",35.82999,-78.61803708
+"27609","Raleigh","NC","Duke Women's Health Associates Navaho","1200 Navaho Dr","27609",35.8266733,-78.6202267
+"27609","Raleigh","NC","Duke Raleigh Outpatient Rehabilitation","3325 Executive Dr Ste 222","27609",35.82727,-78.618388
+"27609","Raleigh","NC","FastMed Urgent Care","1311 E Millbrook Rd","27609",35.851252,-78.615415
+"27609","Raleigh","NC","Dr. Glenn Lyle Plastic Surgery","1112 Dresser Court","27609",35.83245,-78.61827
+"27610","Raleigh","NC","UNC Health Care Addiction Treatment Center at WakeBrook","107 Sunnybrook Rd","27610",35.78290011936166,-78.58124881767675
+"27610","Raleigh","NC","Raleigh Urgent Care","2600 New Bern Ave","27610",35.78326,-78.591481
+"27613","Raleigh","NC","Heritage Urgent & Primary Care - Raleigh","13271 Strickland Rd #120","27613",35.90481580851235,-78.72589230537415
+"27613","Raleigh","NC","Heritage Urgent Care","not_available","27613",35.906747,-78.726696
+"27613","Raleigh","NC","Rex hospital main entrance","Lake bnoone trl","27612",35.86537010097225,-78.68054454239187
+"27613","Raleigh","NC","FamHealth Primary Care, PA","5720 Creedmoor Rd","27612",35.86109924316406,-78.68010711669922
+"27701","Durham","NC","Drug & Alcohol Rehab Durham","400 W Main St #112","27701",35.99761962890625,-78.9043960571289
+"27701","Durham","NC","Roadside Towing & Recovery","955 Bacon St","27703",35.97291946411133,-78.8846206665039
+"27701","Durham","NC","Drug & Alcohol Rehab Durham","116 W Main St","27701",35.995487213134766,-78.90105438232422
+"27704","Durham","NC","Duke Regional Hospital","3643 North Roxboro Street","27704",36.03675488,-78.90013358
+"27704","Durham","NC","Duke Children's Health Center","4020 N Roxboro St","27704",36.04604763661151,-78.9014960332922
+"27704","Durham","NC","Durham Center Access","309 Crutchfield St","27704",36.03873062133789,-78.90264129638672
+"27704","Durham","NC","EmergeOrtho - Durham","120 William Penn Plaza","27704",36.0424492,-78.8983227
+"27704","Durham","NC","Urgent Care","3901 N Roxboro St","27704",36.041847229003906,-78.9012680053711
+"27704","Durham","NC","Triangle Orthopaedic Center","not_available","27704",36.042381464236705,-78.89826141420743
+"27704","Durham","NC","New Hope Urgent Care","3610 N Roxboro St","27704",36.037202,-78.896132
+"27704","Durham","NC","NC Specialty Hospital","3916 Ben Franklin Blvd","27704",36.04338407284775,-78.89729195624109
+"27704","Durham","NC","Duke Regional Hospital: Emergency Room","3643 N Roxboro St","27704",36.0361504,-78.9009894
+"27705","Durham","NC","Duke Hospital South","200 Trent Dr","27710",36.004376431078974,-78.93629829195257
+"27705","Durham","NC","Duke Children's Hospital (Day Hospital)","Erwin Road & Fulton Street","27705",36.007304258267595,-78.9366773460763
+"27707","Durham","NC","Duke Urgent Care South","5716 Fayetteville Road","27713",35.92198016,-78.92864054
+"27707","Durham","NC","Duke Otolaryngology South Durham","234 Crooked Creek Parkway","27713",35.91173722,-78.93233425
+"27707","Durham","NC","Physician Revenue Services","6409,Fayetteville Road,Durham,27713","27713",35.91093826293945,-78.93379974365234
+"27707","Durham","NC","Duke Women's Health Associates at Patterson Place","5324 McFarland Drive","27707",35.9521196,-78.99274507
+"27707","Durham","NC","Chapel Hill Urgent Care","2238 NC Hwy 54 # 500","27517",35.91097538192475,-78.98662641217885
+"27707","Durham","NC","PruittHealth - Carolina Point","5935 Mount Sinai Rd","27705",35.989728,-78.99474599999999
+"27707","Durham","NC","Kaizen Physical Therapy","7010 NC-751, suite 102","27707",35.972238,-78.946587
+"27707","Durham","NC","FastMed Urgent Care","7010 NC-751","27707",35.91761637,-78.96203812
+"27801","Rocky Mount","NC","FastMed Urgent Care","2001 Sunset Ave","27804",35.95611172,-77.82336547
+"27801","Rocky Mount","NC","LifeCare Hospital","1700-1752 Jeffrey's Rd","27804",35.97500556148597,-77.81903404158113
+"27801","Rocky Mount","NC","PAM Specialty Hospital of Rocky Mount","1051 Noell Ln","27804",35.97510528564453,-77.81884002685547
+"27803","Rocky Mount","NC","Jmh Cat Scan department","509a brightleaf blvd.","27577",35.87097,-77.83764
+"27804","Rocky Mount","NC","Nash General Hospital","not_available","27804",35.97557165849424,-77.85226905883836
+"27804","Rocky Mount","NC","Carolina Quick Care","550 N Winstead Ave","27804",35.9732551574707,-77.8493423461914
+"27804","Rocky Mount","NC","Nash Nursing Home and Rehabilitation Center","7369 Hunter Hill Rd","27804",35.985323,-77.846017
+"27804","Rocky Mount","NC","Alpha Center","100 Medical Arts Mall","27804",35.97635228,-77.85338388
+"27805","Aulander","NC","Vidant Roanoke-Chowan Hospital Emergency Department","500 Academy St S","27910",36.28555679321289,-76.99503326416016
+"27817","Chocowinity","NC","Vidant - Beaufort Hospital","628 E 12th St","27889",35.549189,-77.037813
+"27817","Chocowinity","NC","Vidant Beaufort Hospital - Labor And Delivery","not_available","27889",35.549397477456516,-77.03736213300903
+"27820","Conway","NC","Ward 15 In Paolo Memorial Hospital","Room.1507","not_available",36.439168,-77.296844
+"27822","Elm City","NC","Wilson Medical Center","1705 Tarboro St SW","27893",35.717915534302925,-77.94445717474446
+"27822","Elm City","NC","wilmed radiology","not_available","27896",35.76407241821289,-77.93611907958984
+"27822","Elm City","NC","Brian Center Health & Rehabilitation/Wilson","2501 Downing St SW","27893",35.7100042,-77.94039799
+"27822","Elm City","NC","American Red Cross","2305 Wellington Dr SW #G","27893",35.717771,-77.946913
+"27828","Farmville","NC","Farmville EMS","not_available","27828",35.602602,-77.59149
+"27828","Farmville","NC","Farmville Health Care Center","Highway 258","27828",35.57831807,-77.59310545
+"27828","Farmville","NC","PruittHealth - Farmville","4351 South Main Street","27828",35.57808855,-77.59304773
+"27828","Farmville","NC","PruittHealth Hospice - Farmville","3723 West Wilson Street","27828",35.5970273,-77.58587267
+"27830","Fremont","NC","100 wing bathroom","not_available","27863",35.50897979736328,-77.97999572753906
+"27831","Garysburg","NC","FastMed Urgent Care","1261 Julian R Allsbrook Hwy","27870",36.43447573,-77.64219888
+"27831","Garysburg","NC","Halifax Works Healthcare Express","210 Smith Church Rd # 4942","27870",36.435265049787716,-77.64581953741464
+"27831","Garysburg","NC","Pitt memorial hospital","not_available","27870",36.4104074,-77.6390177
+"27831","Garysburg","NC","Halifax Regional Medical Center","250 Smith Church Rd","27870",36.432509727265575,-77.64614295633102
+"27834","Greenville","NC","Vidant Medical Center","2100 Stantonsburg Rd","27834",35.607513,-77.403884
+"27834","Greenville","NC","Vidant Emergency Department","2355 Heart Dr.","27834",35.60872359764557,-77.40395048850242
+"27834","Greenville","NC","South Tower @  Vidant Medical Center","not_available","27834",35.60696886028577,-77.40268585696747
+"27834","Greenville","NC","PCMH Occupational Health","Hospital Loop","27834",35.60635412937385,-77.40788430095647
+"27834","Greenville","NC","East Carolina Heart Institute","526 Moye Blvd","27834",35.608166,-77.4010838
+"27834","Greenville","NC","VA Hospital","401 Moye Blvd","27834",35.61671829223633,-77.39988708496094
+"27834","Greenville","NC","Regional Rehabilitation Center At VMC","2202-2252 Stantonsburg R,","27834",35.60687374707598,-77.40536974112466
+"27834","Greenville","NC","Go Beyond Relief Wellness Center","3100 S. Memorial Dr.","27834",35.576805114746094,-77.39867401123047
+"27834","Greenville","NC","MacGregor Downs Health and Rehabilitation Center","2910 Macgregor Downs Rd","27834",35.612056732177734,-77.42139434814453
+"27834","Greenville","NC","ECU Physicians— Physical Medicine and Rehab","604 Medical Dr","27834",35.607566999999996,-77.40992299999999
+"27834","Greenville","NC","University Health Systems","2190 Beasley Dr","27834",35.608430848002534,-77.40867376676276
+"27858","Greenville","NC","pitt county morgue","not_available","27858",35.586605072021484,-77.37017822265625
+"27858","Greenville","NC","East Carolina Home Care","323 Clifton St #9","27858",35.590475798068695,-77.37517476081848
+"27858","Greenville","NC","Physicians East, PA - Urgent Care","1711 E Arlington Blvd","27858",35.56890994886517,-77.3563546502422
+"27858","Greenville","NC","FastMed Urgent Care","315 Greenville Boulevard Southeast","27858",35.581463,-77.377413
+"27874","Scotland Neck","NC","Our Community Hospital","not_available","27874",36.12951146921361,-77.42930439255922
+"27880","Sims","NC","National Medical Testing Center","5150 NC HWY 42 West","27893",35.70857280619641,-78.01790714263916
+"27886","Tarboro","NC","Edgecombe Health and Rehabilitation Center","1000 Western Blvd","27886",35.89559234,-77.55912562
+"27889","Washington","NC","Urgent Care Down East","1412 Carolina Ave","27889",35.56005,-77.0615558
+"27892","Williamston","NC","Martin General Hospital","310 S McCaskey Rd","27892",35.839855439377395,-77.07216024398804
+"27909","Elizabeth City","NC","Sentara Albemarle Medical Center","1144 N Road St","27909",36.323311,-76.21805
+"27909","Elizabeth City","NC","NextCare Urgent Care","615 S Hughes Blvd","27909",36.29149873762808,-76.25120745074994
+"27909","Elizabeth City","NC","The Sleep Center at Elizabeth City","1805 W City Dr","27909",36.298349,-76.259896
+"27909","Elizabeth City","NC","Perquimans EMS","600-798 S Edenton Rd St","27944",36.17838643333333,-76.47436398333333
+"27910","Ahoskie","NC","Vidant Adult Behavioral Health","not_available","27910",36.37560268152834,-76.93837618407892
+"27927","Corolla","NC","Shark Attack Rehabilitation Center","HWY 12","27927",36.3086397,-75.8080863
+"27927","Corolla","NC","The Bathroom At Heavenly Daze","1305 Sandcastle Dr","27927",36.39418,-75.829373
+"27932","Edenton","NC","Brian Center Health and Rehabilitation/Hertford","1300 Don Juan Rd","27944",36.20239515,-76.49254927
+"27932","Edenton","NC","Chowan County EMS","208 W Hicks St","27932",36.06875991821289,-76.6113510131836
+"27936","Frisco","NC","Hatteras Hospital","Highway 12","not_available",35.26519123319665,-75.58967113494873
+"27949","Kitty Hawk","NC","The Outer Banks Hospital Urgent Care Center","5112 N Croatan Hwy","27949",36.0951945,-75.7118754
+"27959","Nags Head","NC","The Outer Banks Hospital","4800 S Croatan Hwy","27959",35.9400759,-75.6179526
+"27962","Plymouth","NC","Washington County Hospital","958 US Highway 64 E","27962",35.862804491162876,-76.72980555617843
+"27962","Plymouth","NC","Washington County EMS","958 US HWY 64E","27962",35.86223666666667,-76.72937248333334
+"27972","Salvo","NC","The Burn Ward","not_available","27972",35.537006,-75.472477
+"27983","Windsor","NC","Brian Center Health & Rehabilitation/Windsor","1306 S King St","27983",35.990353999999996,-76.930357
+"27983","Windsor","NC","Vidant Bertie Memorial Hospital","1403 S King St","27983",35.988634999999995,-76.928311
+"28001","Albemarle","NC","Stanly Regional Medical Center","1040 N 2nd St.","28001",35.36413653898013,-80.19479941541135
+"28001","Albemarle","NC","Atrium Health Stanly Emergency Department","301 Yadkin St","28001",35.3644974,-80.19500370000002
+"28001","Albemarle","NC","Hospice Of Stanly & The Uwharrie","960 N 1st St","28001",35.364937,-80.197532
+"28001","Albemarle","NC","forest oaks","not_available","28001",35.3556727808283,-80.15810250420743
+"28001","Albemarle","NC","Atrium Health Urgent Care","703 Leonard Ave","28001",35.34285352,-80.1766223
+"28012","Belmont","NC","Atrium Health Urgent Care","420 Park St","28012",35.24934768676758,-81.02964782714844
+"28012","Belmont","NC","Belmont Urgent Care","420","28012",35.24918339,-81.02978396
+"28012","Belmont","NC","Belmont Dialysis","not_available","28056",35.283817291259766,-81.04304504394531
+"28016","Bessemer City","NC","Gaston Memorial Hospital","not_available","28054",35.28232551,-81.28870664
+"28018","Bostic","NC","Hospice of the Carolina Foothills","374 Hudlow Rd","28043",35.353215999999996,-81.884575
+"28021","Cherryville","NC","CCEMS M08","not_available","28169",35.36073303222656,-81.43213653564453
+"28025","Concord","NC","Carolinas Medical Center-NorthEast (CMC-NorthEast)","920 Church St N","28025",35.43645031873427,-80.60209906988901
+"28025","Concord","NC","Northeast Imaging Center","1085 NE Gateway Ct NE","28025",35.453565000000005,-80.591848
+"28025","Concord","NC","Scouting For The Cure","not_available","28025",35.45500686792885,-80.59499071275124
+"28025","Concord","NC","Northeast Medical Surgery Center","not_available","28083",35.43698328399005,-80.60070021991869
+"28025","Concord","NC","Doctors + Plus Urgent Care","205 Branchview Dr.","28025",35.42134475708008,-80.57516479492188
+"28025","Concord","NC","Gateway Surgery Center","1070 Vinehaven Dr NE","28025",35.463294,-80.582756
+"28025","Concord","NC","Carolinas HealthCare Urgent Care","1090 NE Gateway Ct NE Ste 202","28025",35.45504785841656,-80.59105401201553
+"28027","Concord","NC","Cabarrus Pediatrics - Kannapolis","201 Dale Earnhardt Blvd","28081",35.49867739,-80.62966042
+"28027","Concord","NC","FastMed Urgent Care","391 George W Liles Pkwy NW","28027",35.41621880766039,-80.66954622196732
+"28027","Concord","NC","Tucker Hospice House","5005 Hospice Lane","not_available",35.485801696777344,-80.67610931396484
+"28027","Concord","NC","ExpressMed Urgent Care","8520 Pit Stop Ct NW Ste 30","28027",35.37369155883789,-80.72308349609375
+"28027","Concord","NC","Hospice of Kannapolis","5005 Hospice Lane","28081",35.485801696777344,-80.67610931396484
+"28031","Cornelius","NC","Carolinas HealthCare System Huntersville Surgery Center","16455 Statesville Rd","28078",35.43868108,-80.86706948
+"28031","Cornelius","NC","Urgent Care","19620 W Catawba Ave","28031",35.4791145324707,-80.88896179199219
+"28031","Cornelius","NC","Atrium Health Sanger Heart & Vascular Institute Pediatric Cardiology","9625 Northcross Center Ct","28078",35.44841766357422,-80.86517333984375
+"28031","Cornelius","NC","Novant Health-GoHealth Urgent Care","9121 Sam Furr Rd Ste 108","28078",35.44377780000001,-80.8724345
+"28031","Cornelius","NC","Carolinas HealthCare Urgent Care","705 Griffith St","28036",35.50262553,-80.86421273
+"28034","Dallas","NC","Robin Johnson Hospice House","not_available","28034",35.32376576,-81.19979
+"28036","Davidson","NC","Davidson Behavioral Health","16740 Davidson Concord Rd","28036",35.44956970214844,-80.78533935546875
+"28037","Denver","NC","Carolinas HealthCare Urgent Care","275 N Highway 16 Ste 104","28037",35.450897216796875,-80.99497985839844
+"28037","Denver","NC","Med Closet","not_available","28673",35.54571,-80.988274
+"28043","Forest City","NC","Rutherford Occupational Medicine","212 Allendale Dr","28043",35.33099039984578,-81.8922589870312
+"28043","Forest City","NC","Atrium Health Urgent Care","181 Daniel Rd","28043",35.3407291,-81.9010435
+"28054","Gastonia","NC","CaroMont Regional Medical Center","2525 Court Dr","28054",35.2717527,-81.13903619999999
+"28054","Gastonia","NC","NextCare Urgent Care","3680 Robinwood Rd","28054",35.21525757304534,-81.16602605654803
+"28054","Gastonia","NC","Brian Center Health and  Rehabilitation/Gastonia","969 Cox Rd","28054",35.27674493,-81.13620189
+"28054","Gastonia","NC","Atrium Health Urgent Care","3320 Robinwood Rd","28054",35.216713,-81.15895400000001
+"28054","Gastonia","NC","CaroMont Urgent Care","1895 Hoffman Rd","28054",35.226463317871094,-81.13487243652344
+"28054","Gastonia","NC","Carolinas HealthCare Urgent Care","603 Cox Rd","28054",35.26911453,-81.134735
+"28054","Gastonia","NC","Gaston Memorial Hospital - Main OR","2525 Court Dr, Gastonia, NC 28054","28054",35.27260208129883,-81.13947296142578
+"28054","Gastonia","NC","OrthoCarolina Urgent Care Gastonia","870 Summit Crossing Pl","28054",35.276161,-81.1421052
+"28056","Gastonia","NC","Lineberger Vet","3735 S New Hope Rd","28056",35.222976,-81.098961
+"28073","Grover","NC","CCEMS Medic 16","not_available","28152",35.222019,-81.528913
+"28075","Harrisburg","NC","Fastmed Urgent Care","4415 School House Cmns","28075",35.321708,-80.650611
+"28075","Harrisburg","NC","Novant Health-GoHealth Urgent Care","9550 Rocky River Rd., Suite 150","28215",35.28418458769223,-80.66255270796512
+"28075","Harrisburg","NC","Atrium Health Harrisburg Emergency Department (Atrium Health Harrisburg)","9592 Rocky River Rd","28215",35.28524697,-80.66675894
+"28075","Harrisburg","NC","PruittHealth - Town Center","6300 Roberta Rd","28075",35.329125,-80.648423
+"28078","Huntersville","NC","Novant Health Huntersville Medical Center","10030 Gilead Rd","28078",35.40589026646139,-80.86043540394373
+"28078","Huntersville","NC","Concentra Urgent Care","9200 Harris Corners Pkwy Ste K","28269",35.34710784745704,-80.84407083690735
+"28078","Huntersville","NC","Cape Fear Valley Hospital","not_available","28269",35.345696,-80.811954
+"28078","Huntersville","NC","CMC Huntersville ER","not_available","28078",35.354761172864585,-80.8453984316857
+"28078","Huntersville","NC","Atrium Health Urgent Care","5727 Prosperity Crossing Dr","28269",35.367366790771484,-80.78868103027344
+"28078","Huntersville","NC","Atrium Health Urgent Care","12905 Rosedale Hill Ave","28078",35.408297,-80.860973
+"28078","Huntersville","NC","H/K/B Cosmetic Surgery","11208 Statesville Rd #300","28078",35.3733053,-80.8415342
+"28078","Huntersville","NC","CHS Urgent Care - Prosperity Crossing","5435 Prosperity Church Rd","28269",35.36753252664129,-80.78864210951537
+"28079","Indian Trail","NC","Carolina's Medical Center","not_available","28134",35.07154578879475,-80.65567112948283
+"28079","Indian Trail","NC","Shady Acres Mental Hospital","4390 Minute Man Way","28208",35.03242649913615,-80.65031767086364
+"28079","Indian Trail","NC","Indian Trail Pediatrics","6030 W Hwy 74","28079",35.06961077,-80.6437957
+"28079","Indian Trail","NC","The Sanitarium","not_available","28110",35.04429872788363,-80.56894316612872
+"28079","Indian Trail","NC","Pruitt Health - Union Pointe","3510 W Highway 74","28110",35.031028747558594,-80.592041015625
+"28079","Indian Trail","NC","Med 51 Base","not_available","28079",35.07195062151235,-80.68153400275506
+"28079","Indian Trail","NC","Presbyterian Urgent Care","1994 Wellness Blvd","28110",35.02458190917969,-80.57743072509766
+"28079","Indian Trail","NC","Atrium Health Levine Children's Urgent Care","3193 W Highway 74","28110",35.02364747,-80.58338652
+"28079","Indian Trail","NC","AMANDA PEAY","1000 Van Buren Ave Ste E","28079",35.088043212890625,-80.6551513671875
+"28079","Indian Trail","NC","Family Urgent Care","3007 Wesley Chapel Stouts Rd Ste B","28110",35.0498023,-80.6439207
+"28079","Indian Trail","NC","Carolinas HealthCare System Pulmonary and Sleep Medicine","1550 Faulk St","28112",35.0696265,-80.6438088
+"28079","Indian Trail","NC","CHS Urgent Care - Union West/Indian Trail","6030 W Highway 74 Ste A","28079",35.069358857802605,-80.64376805665547
+"28083","Kannapolis","NC","Atrium Health Kannapolis","2711 Lane St","28083",35.500146,-80.567515
+"28083","Kannapolis","NC","Promed Concord","900 Copperfield Blvd NE","28025",35.457042,-80.587682
+"28083","Kannapolis","NC","Brian Center Health & Retirement/Cabarrus","250 Bishop Ln","28025",35.45176092,-80.60406079
+"28083","Kannapolis","NC","Orthopedic Urgent Care","354 Copperfield Blvd NE","28025",35.44715881347656,-80.59709167480469
+"28086","Kings Mountain","NC","Kings Mountain Hospital","706 W King St","28086",35.24195163998761,-81.35644434644084
+"28086","Kings Mountain","NC","Atrium Health Levine Children's Shelby Children's Clinic","2202 Carolina Pl","28086",35.24501176,-81.40645902
+"28086","Kings Mountain","NC","CCEMS medic 17","not_available","28086",35.24225772327581,-81.40264873050826
+"28086","Kings Mountain","NC","Kings Clinic & Urgent Care, PLLC","502 W King St","28086",35.24079132080078,-81.34906005859375
+"28090","Lawndale","NC","Upper Cleveland Rescue","not_available","28090",35.41582147848536,-81.57507760507433
+"28092","Lincolnton","NC","Carolinas Medical Center-Lincoln","385 McAlister Rd","28092",35.48955519137756,-81.20354533195496
+"28092","Lincolnton","NC","Atrium Health Urgent Care","1802 E Main St","28092",35.477684020996094,-81.22832489013672
+"28092","Lincolnton","NC","CMC Orthopaedic Surgery Lincoln","441 McAlister Rd","28092",35.48878860473633,-81.20144653320312
+"28092","Lincolnton","NC","CMC Lincoln Hopsital","433 McAlister Rd","28092",35.48891647265857,-81.20410091269191
+"28092","Lincolnton","NC","Kindred at Home","308 S Academy St","28092",35.46999061,-81.25498076
+"28092","Lincolnton","NC","Radiology Breakroom","not_available","28092",35.489360683836516,-81.20435920242728
+"28092","Lincolnton","NC","Brian Center Health and Retirement/Lincolnton","515 S Generals Blvd","28092",35.45634869,-81.24137706
+"28092","Lincolnton","NC","CMC-Lincoln ER","433 McAlister Rd, Lincolnton, NC 28092","28092",35.489023588910854,-81.20398240142248
+"28092","Lincolnton","NC","LCEMS M6","Reepsville Rd","28168",35.488882182527725,-81.23969372150678
+"28103","Marshville","NC","Autumn Care of Marshville","311 W Phifer St","28103",34.988812420503066,-80.3716903214264
+"28103","Marshville","NC","carolina medical center-pineville","not_available","28103",34.98876441059396,-80.30174812860417
+"28104","Matthews","NC","Novant Health Matthews Medical Center","1500 Matthews Township Pkwy","28105",35.12014825207932,-80.71415695212488
+"28104","Matthews","NC","Carolinia Medical Center","not_available","28104",35.09755353231572,-80.71179216730367
+"28104","Matthews","NC","CMC-Main ER","not_available","28203",35.162845059072474,-80.71238100665262
+"28104","Matthews","NC","Novant Health Oncology And Hematology","1700 Matthews Township Pkwy","28105",35.121864318847656,-80.70996856689453
+"28104","Matthews","NC","Carolinas HealthCare Urgent Care","7810 Providence Rd Ste 102","28226",35.10045412,-80.78040115
+"28104","Matthews","NC","Novant Health Urgent Care","Independence Blvd","not_available",35.135783186205366,-80.71528855563834
+"28104","Matthews","NC","BetterMed Urgent Care","2304 Matthews Township Parkway","28105",35.1269608,-80.7002317
+"28104","Matthews","NC","Presbyterian Urgent Care - Matthews","1450 Matthews Township Pkwy","28105",35.12066911834967,-80.71431302227465
+"28104","Matthews","NC","Emergency Veternary Clinic","not_available","28270",35.08583,-80.7332137
+"28104","Matthews","NC","Atrium Health Urgent Care","11115 Golf Links Dr","28277",35.05278778076172,-80.7726821899414
+"28104","Matthews","NC","CHS Urgent Care - Matthews","332 Sam Newell Rd","28105",35.11928367747245,-80.71862444505486
+"28105","Matthews","NC","Carolinas Natural Health Center","1114 Sam Newell Rd Suite A","28105",35.129642,-80.719117
+"28105","Matthews","NC","41 OUTLOOK BEHAVIORAL HEALTH","1254 Mann Dr","28105",35.123287200927734,-80.71866607666016
+"28105","Matthews","NC","Novant Health–GoHealth Urgent Care","11840 Southmore Dr","28277",35.047682,-80.768613
+"28105","Matthews","NC","Presbyterian Hospital Mathews- Operating Room","not_available","28105",35.120128,-80.714335
+"28110","Monroe","NC","Carolinas Medical Center Union","600 Hospital Dr","28112",34.97520076541909,-80.52259796405755
+"28110","Monroe","NC","Atrium Health Levine Children's Union Pediatrics","1653 Campus Park Dr","28112",34.974732,-80.5136726
+"28110","Monroe","NC","The Wound Care Center","not_available","28112",34.974025,-80.521118
+"28110","Monroe","NC","FastMed Urgent Care","2242 W Roosevelt Blvd","28110",35.0090987,-80.5611935
+"28110","Monroe","NC","Brian Center Health & Retirement/Monroe","204 E Old Highway 74","28112",34.976071,-80.49585
+"28110","Monroe","NC","CMC-Mercy","2001 Vail Ave","28207",34.98508404031743,-80.52883888432605
+"28110","Monroe","NC","Carolinas HealthCare Urgent Care","613 E Roosevelt Blvd","28112",34.97636,-80.51952
+"28115","Mooresville","NC","LNRMC Metting Room A","not_available","28117",35.548969259418655,-80.85292267592047
+"28115","Mooresville","NC","Lake Norman Regional Medical Center - Emergency Room","171 Fairview Rd","28117",35.5490837097168,-80.85420989990234
+"28115","Mooresville","NC","FastMed Urgent Care","107 Commons Dr , Ste A","28117",35.5891614218852,-80.84033862871281
+"28115","Mooresville","NC","Special Care Nursery - LKN Regional Medical Center","not_available","28115",35.54828463343895,-80.84318210431802
+"28115","Mooresville","NC","Brian Center Health & Retirement/Mooresville","752 E Center Ave","28115",35.578818,-80.797946
+"28117","Mooresville","NC","Mooresville Sports & Physical Therapy","120 SOUTH PARK DR STE 403","28117",35.5810867,-80.8742294
+"28117","Mooresville","NC","Atrium Health Urgent Care","119 Market Place Ave","28117",35.5862578,-80.8753534
+"28120","Mount Holly","NC","CaroMont Regional Medical Center - Mount Holly","451 E Charlotte Ave","28120",35.2974493,-81.0098038
+"28120","Mount Holly","NC","CLiC Immediate Care","3605 Mt Holly Hntrsvl Rd","28216",35.32490373507977,-80.94651644653374
+"28120","Mount Holly","NC","Ascension Our Lady of Victory Hospital","1120 Pine St","54768",35.357608704831115,-81.09591811896735
+"28120","Mount Holly","NC","Carolinas HealthCare Urgent Care","10210 Couloak Dr Ste E","28216",35.324330632402756,-80.9476770593577
+"28124","Mount Pleasant","NC","Life Essentials Health Center","1501 N Highway 17 Unit H","29464",35.39919533845271,-80.43557524681091
+"28134","Pineville","NC","Carolinas Medical Center-Pineville (CMC-Pineville)","10628 Park Rd","28210",35.0913097897337,-80.87205956759604
+"28134","Pineville","NC","South Charlotte General and Vascular Surgery","10512 Park Road","28210",35.09305317,-80.8709849
+"28134","Pineville","NC","Heart Failure & Transplant Clinic - Pineville","10650 Park Rd","28210",35.0920588,-80.8718799
+"28134","Pineville","NC","Carolina Dermatology","10650 Park Rd #310","28210",35.09193577380646,-80.87217450141907
+"28134","Pineville","NC","My Clinic","8700 Pineville Matthews Rd Ste 350","28226",35.08952331542969,-80.86627960205078
+"28134","Pineville","NC","Carolinas Specialty Hospital","10648 Park Dr","28210",35.094212498668355,-80.87276231598851
+"28134","Pineville","NC","Carolinas Biofeedback Clinic","106 Oakley Ave Ste 300","28134",35.08454895019531,-80.88873291015625
+"28134","Pineville","NC","Urgent Care Monroe","Hwy 74","28110",35.085185,-80.8744552
+"28134","Pineville","NC","Life Systems International","428 Crompton St","28273",35.117340087890625,-80.91633605957031
+"28139","Rutherfordton","NC","Rutherford Regional Medical Center","288 S Ridgecrest Ave","28139",35.3626958,-81.9661339
+"28139","Rutherfordton","NC","Rutherford Hospital ER","Ridgecrest st","28139",35.36226158432762,-81.96538474070135
+"28139","Rutherfordton","NC","Atrium Health Levine Children's Rutherford Pediatrics","141 Tryon Rd","28139",35.36386712,-81.96638739
+"28139","Rutherfordton","NC","CBS - Health Lodge","not_available","28139",35.45289410416774,-81.92578686470968
+"28144","Salisbury","NC","Novant Health-Rowan Medical Center","612 Mocksville Ave","28144",35.68150496685604,-80.47064981917609
+"28144","Salisbury","NC","Salisbury VA Medical Center","1601 Brenner Ave","28144",35.68419912103593,-80.48778669784409
+"28144","Salisbury","NC","Rowan Regional Medical Center - Radiology Center","514 Corporate Center Dr","28147",35.64455042916097,-80.49341440200806
+"28144","Salisbury","NC","Novant Health Urgent Care (Salisbury)","1904 Jake Alexander Blvd","28144",35.69239130404951,-80.5004090341826
+"28144","Salisbury","NC","Carolinas HealthCare Urgent Care Salisbury","340 Jake Alexander Boulevard West","28144",35.6572827,-80.4996583
+"28144","Salisbury","NC","ER Waiting Area","not_available","28144",35.680896,-80.470758
+"28144","Salisbury","NC","Atrium Health Urgent Care","340 Jake Alexander Blvd W","28147",35.65724,-80.49965
+"28144","Salisbury","NC","Va Hospital","201-299 prescott dr","not_available",35.695782725799674,-80.47800238630046
+"28144","Salisbury","NC","Rowen Outpatient Surgery Center","522 Corporate Cir","28147",35.644416,-80.49124499999999
+"28146","Salisbury","NC","FastMed Urgent Care","1361 Klumac Rd","28147",35.63782968,-80.48768425
+"28150","Shelby","NC","Cleveland Regional Medical Center","201 E Grover St","28150",35.302846457373185,-81.53631632220446
+"28150","Shelby","NC","NextCare Urgent Care","419 Earl Rd","28150",35.277046,-81.534063
+"28150","Shelby","NC","Wound Healing Center","Groves Street","not_available",35.30190658569336,-81.53678894042969
+"28150","Shelby","NC","Kindred at Home","1405 North Lafayette St","28150",35.31837184,-81.53845134
+"28150","Shelby","NC","Surgery pavillion","not_available","28150",35.304261308606876,-81.53581805756771
+"28150","Shelby","NC","St. Vincent's Primary Care Cahaba Heights","3140 Cahaba Heights Rd","35243",35.3287461533398,-81.50221467018127
+"28150","Shelby","NC","Cardiac Rehabilitation at Carolinas HealthCare System Cleveland","201 East Grover St","28150",35.30195314,-81.53714987
+"28150","Shelby","NC","Chs Cleveland","200-398 Crawford Street","28150",35.303085,-81.53617
+"28150","Shelby","NC","CCEMS station 3","Kings Rd Ext","28152",35.276000581276854,-81.48852707337964
+"28152","Shelby","NC","Atrium Health Urgent Care","1010 E Dixon Blvd","28152",35.273227,-81.526563
+"28152","Shelby","NC","CHS Urgent Care - Shelby","1010 E Dixon Blvd, Shelby, NC 28152","28152",35.273109436035156,-81.52631378173828
+"28166","Troutman","NC","Ashley Redmond","589 N Main St","28166",35.71327590942383,-80.89643859863281
+"28168","Vale","NC","Medic 13","Cedar Grove Church Rd","28092",35.5025489298667,-81.43117384139107
+"28170","Wadesboro","NC","Atrium Health Anson","2301 U.S. 74","28170",34.97769319,-80.10999023
+"28170","Wadesboro","NC","CHS Anson Community Hospital","500 Morven Rd","28170",34.96174240112305,-80.07584381103516
+"28173","Waxhaw","NC","Atrium Health Levine Children's Waxhaw Pediatrics","2700 Providence Rd S","28173",34.9639425,-80.76385233
+"28173","Waxhaw","NC","Presbyterian Urgent Care","9886 Rea Rd","28277",35.033235,-80.806855
+"28173","Waxhaw","NC","Work Ems8","not_available","29720",34.908827,-80.810827
+"28173","Waxhaw","NC","CHS Children's Urgent Care - Blakeney","6025 Blakeney Park Dr","28277",35.03196847,-80.80693248
+"28202","Charlotte","NC","BetterMed Urgent Care","1431 South Blvd","28203",35.2147235,-80.8537578
+"28202","Charlotte","NC","Presbyterian Cardiovascular Waiting Room","not_available","28204",35.21791076660156,-80.83003997802734
+"28202","Charlotte","NC","Drug & Alcohol Rehab Charlotte","601 E 5th St #100","28202",35.22334289550781,-80.83595275878906
+"28202","Charlotte","NC","Alcohol & Drug Rehab Charlotte","122 N McDowell St","28204",35.22085952758789,-80.83406829833984
+"28202","Charlotte","NC","My Clinic","901 E 4th St","28204",35.219451904296875,-80.83565521240234
+"28203","Charlotte","NC","Carolinas Medical Center","1000 Blythe Blvd","28203",35.20315604500042,-80.83832140018758
+"28203","Charlotte","NC","Levine Cancer Institute","Morehead Medical Dr","28204",35.20606902832695,-80.83854474370172
+"28203","Charlotte","NC","Concentra Urgent Care","1614 South Blvd","28203",35.2133948,-80.8561622
+"28203","Charlotte","NC","Sanger Heart and Vascular Institute","1001 Blythe Blvd Ste 300","28203",35.20456523642174,-80.83839718871819
+"28203","Charlotte","NC","Transplant Center At Cmc","1437 Scott Ave","28203",35.203784000000006,-80.839277
+"28203","Charlotte","NC","Atrium Health Urgent Care","2041 South Blvd","28203",35.20859,-80.85966
+"28203","Charlotte","NC","cmc ultrasound dept","Blythe Blvd, Charlotte, NC 28203","28203",35.20450987111035,-80.83809434251039
+"28203","Charlotte","NC","Carolina Transplant Center","not_available","28207",35.20350638993187,-80.84104139822827
+"28203","Charlotte","NC","American Red Cross Blood Drive","200 Hawthorne Ln","28204",35.20162513798354,-80.84430108701686
+"28203","Charlotte","NC","CMC Main- Neurology Department","Charlotte","not_available",35.20254463526786,-80.83867898701759
+"28203","Charlotte","NC","Psychiatric Ward","not_available","28217",35.20629724566116,-80.87746344324019
+"28204","Charlotte","NC","Presbyterian Orthopaedic Hospital","1901 Randolph Rd","28207",35.210540344647356,-80.82384880734374
+"28204","Charlotte","NC","Atrium Health Urgent Care","1426 E Morehead St","28204",35.2049352,-80.83641649999998
+"28204","Charlotte","NC","Carolina Sports Concussion Center","225 Baldwin Ave, Charlotte, NC 28204","28204",35.21137237548828,-80.82894897460938
+"28204","Charlotte","NC","Orthopedic Urgent Care","2001 Randolph Road","28207",35.209203038581315,-80.82263301351729
+"28204","Charlotte","NC","Carolinas HealthCare System Digestive Health","1025 Morehead Medical Dr","28204",35.20493429,-80.83641032
+"28204","Charlotte","NC","Cancer Wellness And Rehabilitation @ Presbyterian Hospital","125 Baldwin Ave","28204",35.211997985839844,-80.82826232910156
+"28205","Charlotte","NC","Hemby ICN Special Care","Hawthorne Lane","28204",35.186846498578916,-80.80954046714943
+"28205","Charlotte","NC","Presbyterian Urgent Care","1918 Randolph Rd","28207",35.20983234079289,-80.82486919587372
+"28205","Charlotte","NC","Carolinas HealthCare Urgent Care","5717 Albemarle Rd","28212",35.204139852379754,-80.74925931991432
+"28205","Charlotte","NC","Brian Center Health and Rehabilitation/Charlotte","5939 Reddman Rd","28212",35.200639,-80.749261
+"28205","Charlotte","NC","CMC Randoloh Partial Hospitalization","not_available","28211",35.189572934863335,-80.80700406696513
+"28205","Charlotte","NC","Mercy Horizions","1921 Vail Ave","28207",35.209072,-80.820536
+"28205","Charlotte","NC","Presbyterian Phlebotomy Lab","Elizabeth St","not_available",35.21205,-80.824386
+"28208","Charlotte","NC","FastMed Urgent Care","3250 Wilkinson Blvd , Unit I","28208",35.224832,-80.894609
+"28208","Charlotte","NC","CMC-Biddle Point","1801 Rozzelles Ferry Rd","28208",35.24186879111065,-80.85946182174717
+"28208","Charlotte","NC","StarMed Family & Urgent Care","4001 Tuckaseegee Rd","28208",35.24616,-80.89217
+"28208","Charlotte","NC","CHS EMPLOYEE HEALTH","not_available","28208",35.224436046370414,-80.92273611109418
+"28209","Charlotte","NC","South Park Surgery Center","6035 Fairview Rd","28210",35.15168380737305,-80.83810424804688
+"28209","Charlotte","NC","11th floor CMC Main","1100 Blythe Blvd","28203",35.201827,-80.83864200000001
+"28209","Charlotte","NC","Autarchic Spec Shop","1600 E. Woodlawn Rd Suite 362","28209",35.1719914,-80.8483334
+"28209","Charlotte","NC","Atrium Health Myers Park Emergency Department","1350 S Kings Dr","28207",35.1961713,-80.8373464
+"28210","Charlotte","NC","Carolinas imaging services","4525 Cameron Valley Pkwy","28211",35.1473783,-80.82444565
+"28210","Charlotte","NC","Novant Health-GoHealth Urgent Care","8450 Park Rd","28210",35.1162499,-80.8566548
+"28210","Charlotte","NC","Atrium Health Levine Children's Charlotte Pediatric Clinic","4501 Cameron Valley Pkwy","28211",35.14818998,-80.82413323
+"28210","Charlotte","NC","AFC Urgent Care","10102 Johnston Rd","28210",35.0933723449707,-80.8583984375
+"28210","Charlotte","NC","Novant Urgent Care","Park Rd","28210",35.116329197272776,-80.8565872907775
+"28210","Charlotte","NC","Carolinas HealthCare Urgent Care","4525 Cameron Valley Pkwy Ste 1500","28211",35.14721226344067,-80.82422929612494
+"28211","Charlotte","NC","Atrium Health Levine Children's Cotswold Pediatrics","3030 Randolph Rd","28211",35.19633628,-80.81134978
+"28211","Charlotte","NC","Voci Plastic Surgery","2620 E 7th St","28204",35.2038821,-80.8108626
+"28211","Charlotte","NC","Carolinas Medical Doctors","3451 Randolph Road #303","28211",35.189539888259596,-80.81092357635498
+"28213","Charlotte","NC","Carolinas Hospitalist Group at Carolinas HealthCare System University","8800 North Tryon St","28262",35.30675099,-80.74714659
+"28213","Charlotte","NC","University Hospital ER","N Tryon","28262",35.30652433846477,-80.74822416792115
+"28213","Charlotte","NC","Atrium Health Urgent Care","9325 Jw Clay Blvd","28262",35.311248,-80.745933
+"28213","Charlotte","NC","University Breast Cancer Center","1001 E W T Harris Blvd","28213",35.305748,-80.747121
+"28213","Charlotte","NC","Atrium Health University City Emergency Department","8800 N Tryon St","28262",35.3066306,-80.7472512
+"28213","Charlotte","NC","Allcare Medical center & Internal  Medicine & Pediatrics","7401 The Plaza Ste A","28215",35.258706,-80.73428249999999
+"28213","Charlotte","NC","CMC Emergency Room","not_available","28262",35.31374495659936,-80.75234660386424
+"28214","Charlotte","NC","holisticoneness.com","9817 Dillard Valley Rd","28214",35.215555,-80.978109
+"28215","Charlotte","NC","Novant Health Mint Hill Medical Center","8110 Healthcare Loop","28215",35.22275,-80.648022
+"28215","Charlotte","NC","Atrium Health Levine Children's University Pediatrics - Mint Hill","10545 Blair Rd","28227",35.21299716,-80.63330933
+"28215","Charlotte","NC","Brian Center Nursing Care/Shamrock","2727 Shamrock Dr","28205",35.238834000000004,-80.779225
+"28215","Charlotte","NC","Mint Hill Urgent Care","not_available","28227",35.21279485469512,-80.63317665645842
+"28217","Charlotte","NC","Mecklenburg Healthcare Center","2415 Sandy Porter Rd","28273",35.13605523531599,-80.94160956945667
+"28226","Charlotte","NC","Sleep Well Center","not_available","28226",35.08712,-80.851915
+"28262","Charlotte","NC","FastMed Urgent Care","2728 W Mallard Creek Church Rd , Ste 300","28262",35.34155966836036,-80.76551914215088
+"28262","Charlotte","NC","zMax Dragway West Side Care Center","not_available","28027",35.362422943115234,-80.68580627441406
+"28262","Charlotte","NC","EasyLyfe Life Assistants, LLC","9711 David Taylor Dr Apt 111 #470","28262",35.32567375867978,-80.75624942779541
+"28262","Charlotte","NC","Atrium Health Urgent Care","8815 Christenbury Pkwy","28027",35.37446,-80.73176
+"28262","Charlotte","NC","NextCare Urgent Care","3210 Prosperity Church Rd","28269",35.34356865798965,-80.7708963155582
+"28273","Charlotte","NC","In my bed",":-)","not_available",35.15563069044028,-80.9728255954697
+"28273","Charlotte","NC","Charlotte Foot Care Associates","13425 Hoover Creek Blvd, Suite 201","28273",35.1000749,-80.9902041
+"28273","Charlotte","NC","Network Imaging Systems","8100 Arrowridge Blvd Ste C","28273",35.13348,-80.90983299999999
+"28273","Charlotte","NC","Novant Health-GoHealth Urgent Care","13129 S Tryon St Ste 120","28278",35.100587495241534,-80.99193838671994
+"28273","Charlotte","NC","Atrium Health Urgent Care","9332 S Tryon St","28273",35.13139724731445,-80.9417724609375
+"28273","Charlotte","NC","Novant Health-GoHealth Urgent Care","4815 Berewick Town Center Dr Ste C","28278",35.1603839,-80.9723386
+"28273","Charlotte","NC","Concentra","646 Westinghouse Blvd","28273",35.116059,-80.92533900000001
+"28277","Charlotte","NC","CHS Urgent Care - Ballantyne","14214 Ballantyne Lake Rd Ste 100","28277",35.0513042458549,-80.84845862661257
+"28277","Charlotte","NC","Novant Health-GoHealth Urgent Care","15235 John J Delaney Dr","28277",35.053419,-80.84895300000001
+"28277","Charlotte","NC","Urgent Care","John J Delaney Dr, Charlotte, NC 28277","28277",35.04203228441905,-80.84751739954818
+"28277","Charlotte","NC","Atrium Health Providence","11516 Providence Rd","28277",35.05255035699102,-80.7706979219818
+"28278","Charlotte","NC","MED 1 Mobile Hospital","not_available","29710",35.11250686645508,-81.04744720458984
+"28278","Charlotte","NC","Nurse Next Door York County","2764 Pleasant Rd","29708",35.060211181640625,-80.96430969238281
+"28301","Fayetteville","NC","Veterans Affairs Medical Center","2300 Ramsey St","28301",35.08783101582227,-78.87664813410302
+"28301","Fayetteville","NC","Highsmith-Rainey Memorial Hospital","150 Robeson St","28301",35.05374540149229,-78.89198116212151
+"28301","Fayetteville","NC","V A Emergency Room","not_available","28301",35.087647,-78.876904
+"28301","Fayetteville","NC","Cross Creek Urgent Care and Family Medicine","726 Ramsey St","28301",35.065036,-78.87745699999999
+"28301","Fayetteville","NC","Learn & Cook with Irene","130 Bow Street","28301",35.05258,-78.8772
+"28301","Fayetteville","NC","Haymount Urgent Care","not_available","28303",35.068740000000005,-78.91107199999999
+"28303","Fayetteville","NC","QwikMed Pharmacy & Clinic","204 Westwood Shopping Center","28314",35.065937,-78.953128
+"28303","Fayetteville","NC","NextCare Urgent Care","217 Glensford Dr","28314",35.066085236463024,-78.96061644121815
+"28303","Fayetteville","NC","Physician Urgent Care","5511 Raeford Rd","28304",35.043781,-78.975306
+"28303","Fayetteville","NC","Carolina Urgent & Family Care, P.A.","5511 Raeford Rd Ste 150","28304",35.043779,-78.975286
+"28303","Fayetteville","NC","Womack Blue Ribbon Bistro","not_available","28307",35.106769980541166,-78.99642652188645
+"28303","Fayetteville","NC","Josiah Medical","6201 Raeford Rd","28304",35.043651000000004,-78.98294399999999
+"28304","Fayetteville","NC","CAROLINA HEART AND LEG CENTER,","3637 Cape Center Drive","28304",35.03624972,-78.93725563
+"28304","Fayetteville","NC","6 South Onc","not_available","28304",35.031885044391515,-78.93268870522314
+"28304","Fayetteville","NC","Carrol S. Roberson","not_available","28306",35.013511657714844,-78.90665435791016
+"28304","Fayetteville","NC","Statcare Urgent Care","9525 Cliffdale Road","28304",35.030528000000004,-79.05991999999999
+"28304","Fayetteville","NC","Cape Fear Valley Radiology","1638 Owen Dr","28304",35.031960999999995,-78.933252
+"28304","Fayetteville","NC","Cape Fear Valley Human Resources","1320 Medical Dr","28304",35.033840000000005,-78.935794
+"28304","Fayetteville","NC","Haymount Urgent Care","420 Owen Dr","28304",35.036943,-78.933441
+"28304","Fayetteville","NC","Medex Urgent Care","Owen Drive","not_available",35.036505,-78.933182
+"28304","Fayetteville","NC","71st Animal Hosp","7103 Raeford Rd","28304",35.034726,-79.019166
+"28304","Fayetteville","NC","Medics Primary and Urgent Care PC","504 Owen Dr","28304",35.036505,-78.93328199999999
+"28304","Fayetteville","NC","Children's Urgent Care","510 Sandhurst Dr","28304",35.035733,-78.93330300000001
+"28304","Fayetteville","NC","Angels Urgent Care","2356 John Smith Rd","28306",35.00454330444336,-78.96549224853516
+"28306","Fayetteville","NC","FastMed Urgent Care","3007 Town Center Dr , Ste 100-101","28306",34.981520592091215,-79.01348461770512
+"28306","Fayetteville","NC","Elitecare of Fayetteville","3622 N Main St","28348",34.97283768556184,-78.94720060433211
+"28306","Fayetteville","NC","Hope Mills Urgent Care","not_available","28348",34.970439,-78.94633499999999
+"28307","Fort Bragg","NC","Womack Army Medical Center","2817 Reilly St","28310",35.145529438524505,-79.0021276473999
+"28307","Fort Bragg","NC","Radiology","Womack","28307",35.14600461028454,-79.00050086592691
+"28307","Fort Bragg","NC","Ft. Bragg EMS","Ft. Bragg","28307",35.144750846524694,-79.00321699959504
+"28307","Fort Bragg","NC","2/319 Battalion Aid Station","Hhb 2 319 Afar","28310",35.12737142755827,-79.02265830466281
+"28311","Fayetteville","NC","FastMed Urgent Care","4401 Ramsey St","28311",35.12072849,-78.88035362
+"28311","Fayetteville","NC","Northside Urgent Care","5397 Ramsey St","28311",35.133514,-78.877425
+"28315","Aberdeen","NC","Sandhills Urgent Care","10935 S US Highway 15 501","28387",35.161303833730805,-79.41995030741553
+"28315","Aberdeen","NC","dnd hospital","Mackall Auxiliary Airfield Airport (HFF), Hoffman, NC 28347","28347",35.0363883972168,-79.49749755859375
+"28315","Aberdeen","NC","FastMed Urgent Care","1800 N Sandhills Blvd","28315",35.1545294,-79.4146421
+"28315","Aberdeen","NC","Sandhills urgent care","not_available","28315",35.146687,-79.429759
+"28315","Aberdeen","NC","Aid Station","not_available","28347",35.03014373779297,-79.50141906738281
+"28328","Clinton","NC","Med First Urgent Care & Family Practice of Clinton","1515 Sunset Ave","28328",34.99150085449219,-78.35279083251953
+"28328","Clinton","NC","Sampson Regional Medical Center","607 Beaman St","28328",35.007373804197364,-78.32430367643988
+"28328","Clinton","NC","Clinton Urgent Care","1004 Beaman St","28328",35.01367452,-78.32575539
+"28328","Clinton","NC","SRMC","not_available","28328",34.9910336,-78.3289016
+"28328","Clinton","NC","OB @ SRMC","607 Beaman St, Clinton, NC 28328","28328",35.0074577331543,-78.32421875
+"28334","Dunn","NC","Betsy Johnson Regional Hospital","800 Tilghman Dr","28334",35.30727569425962,-78.63439632814828
+"28337","Elizabethtown","NC","Bladen County Hospital","501 S Poplar St","28337",34.622445,-78.60781899999999
+"28340","Fairmont","NC","Chiropractic Urgent Care","208 Iona St","28340",34.4964599609375,-79.11522674560547
+"28340","Fairmont","NC","South Robeson Rescue","not_available","28358",34.47152578387305,-79.12826353539508
+"28345","Hamlet","NC","Sandhills Medical Center","1000 W Hamlet Ave","28345",34.901778,-79.708508
+"28345","Hamlet","NC","PruittHealth - Rockingham","804 S Long Dr","28379",34.93137576,-79.75203525
+"28345","Hamlet","NC","ENT/Urgent Care","not_available","28345",34.913359867958405,-79.73671505493608
+"28345","Hamlet","NC","First Health Richmond Memorial Hospital","not_available","28379",34.928832,-79.749661
+"28345","Hamlet","NC","FastMed Urgent Care","1262 E Broad Ave","28379",34.92117068,-79.74972456
+"28345","Hamlet","NC","Richmond Pines Nursing and Rehabilitation Center","769 Cheraw Rd","28345",34.868072,-79.732611
+"28349","Kenansville","NC","Kenansville Health and Rehabilitation Center","209 Beasley St","28349",34.964644,-77.95746
+"28349","Kenansville","NC","Vidant Duplin Sleep Lab","not_available","28349",34.964908599853516,-77.96216583251953
+"28349","Kenansville","NC","Vidant Duplin Hospital","401 N Main St","28349",34.965036,-77.962005
+"28352","Laurinburg","NC","Scotland Memorial Hospital","500 Lauchwood Dr","28352",34.753147728205306,-79.46955078865251
+"28352","Laurinburg","NC","Scotland Memorial Specialty Clinics","not_available","28352",34.73761,-79.48461
+"28352","Laurinburg","NC","FastMed Urgent Care","907 McColl Rd","28352",34.76277244,-79.48223582
+"28352","Laurinburg","NC","FastMed Urgent Care","907 U.S. 401","28352",34.78518834310117,-79.45611834526062
+"28358","Lumberton","NC","Southeastern Regional Medical Center","300 W 27th St","28358",34.636996,-79.011465
+"28358","Lumberton","NC","FastMed Urgent Care","5080 Kahn Dr","28358",34.66773629,-79.00567966
+"28358","Lumberton","NC","Next Care Urgent Care","100-198 W 26th St","28358",34.635732,-79.008516
+"28358","Lumberton","NC","Lumberton Health and Rehabilitation Center","1555 Willis Ave","28358",34.628814,-78.992584
+"28358","Lumberton","NC","Lumberton Radiological Association","202-298 W 27th St","28358",34.63726951412836,-79.0096813105001
+"28360","Lumberton","NC","Urgent Care","812 Candy Park Rd","28372",34.665195000000004,-79.175543
+"28376","Raeford","NC","First Health Urgent Care","not_available","28376",35.008064,-79.173796
+"28376","Raeford","NC","Hoke Hospital","210 Medical Pavilion Dr","28376",35.029412,-79.107254
+"28398","Warsaw","NC","Johnston Ambulance Service-Duplin division","Hwy 24","28398",35.01,-78.0370138888889
+"28401","Wilmington","NC","New Hanover Regional Medical Center","2131 S 17th St","28401",34.205023394780575,-77.92134761810303
+"28401","Wilmington","NC","Dawson Street Urgent Care","608 Dawson St","28401",34.224385323567596,-77.94015763218523
+"28401","Wilmington","NC","FastMed Urgent Care","202 Village Rd NE","28451",34.234322999999996,-77.998463
+"28401","Wilmington","NC","Beach2Battleship Medical Tent","not_available","28401",34.237144470214844,-77.9505844116211
+"28401","Wilmington","NC","The Oaks Behavioral Health Hospital","2131 S 17th St, Wilmington, NC 28401","28401",34.207942670283096,-77.92405180572023
+"28401","Wilmington","NC","NHRMC 8F","not_available","28403",34.205543,-77.921136
+"28401","Wilmington","NC","Lower Cape Fear Hospice","Physicians Drive","not_available",34.19723571083331,-77.92960670902312
+"28401","Wilmington","NC","Bariatric Center Of Excellence - NHRMC","inside Betty Cameron Women's and Children's Hospital wing","28403",34.20652486666667,-77.92345536666667
+"28401","Wilmington","NC","Brunswick Urgent Care","105 Draeger Dr","28451",34.216713,-78.021179
+"28401","Wilmington","NC","NHRMC OR Frozen Lab","not_available","28405",34.20452177254047,-77.92144511331979
+"28403","Wilmington","NC","PT By The Sea","1721 Allen's Lane, Suite 101","28403",34.224247,-77.82853399999999
+"28403","Wilmington","NC","Cape Fear Hospital","5301 Wrightsville Ave","28403",34.21249514952233,-77.86233344814516
+"28403","Wilmington","NC","Scott W. Tunis, M.D., F.A.C.S.","1001 Military Cutoff Road Suite 200","28405",34.2414979,-77.8266351
+"28403","Wilmington","NC","Four Oaks Pet Hospital","5725 Oleander Dr","28403",34.209497999999996,-77.84871899999999
+"28403","Wilmington","NC","Port City Urgent Care And Family Practice","706 S College Rd","28403",34.22301007448764,-77.88260033146632
+"28403","Wilmington","NC","Kenneth S. White, MD, FACS","1404 Commonwealth Dr","28403",34.228174,-77.831746
+"28403","Wilmington","NC","Medac-Convenient Medical Care","1442 Military Cutoff Rd","28403",34.22509002685547,-77.83087158203125
+"28403","Wilmington","NC","NHRMC Urgent Care","190 Military Cutoff Rd","28405",34.24693,-77.82739
+"28403","Wilmington","NC","NHRMC Urgent Care","1135 Military Cutoff Rd","28405",34.234262,-77.828131
+"28403","Wilmington","NC","Oleander Rehabilitation","5220 Oleander Dr","28403",34.207573873346995,-77.86459218928205
+"28403","Wilmington","NC","Summit Podiatry, Dr. Paul Glaser","4113 Oleander Dr","28403",34.212315000000004,-77.895081
+"28405","Wilmington","NC","Medac Urgent Care- Porter's Neck","8115 Market St","28411",34.29677430258161,-77.79393196105956
+"28405","Wilmington","NC","FastMed Urgent Care","5214 Market St","28405",34.24447336,-77.87602533
+"28405","Wilmington","NC","GoNow Doctors","8115 Market Street","28411",34.2970217,-77.7947588
+"28405","Wilmington","NC","Medac Urgent Care - Murrayville","2600 New Village Way","28405",34.29745864868164,-77.87523651123047
+"28405","Wilmington","NC","GoNow Doctors","1442 Military Cutoff Road","28403",34.224855,-77.83046999999999
+"28405","Wilmington","NC","Charles R. Kays, DMD, MD, FACS","1404 Commonwealth Dr. #101","28403",34.2282503,-77.8316804
+"28405","Wilmington","NC","Chirothin Wilmington","265 Racine Drive suite100","28403",34.2380965,-77.8667862
+"28409","Wilmington","NC","Wilmington Urgent Care","5245 S College Rd","28412",34.14307403564453,-77.89203643798828
+"28409","Wilmington","NC","GoNow Doctors","5245 South College Road","28412",34.1429636,-77.89215279999999
+"28409","Wilmington","NC","NextCare Urgent Care","4815 Oleander Dr","28403",34.210387483646656,-77.88229618636284
+"28409","Wilmington","NC","GoNow Doctors","4402 Shipyard Boulevard","28403",34.19939129999999,-77.8903906
+"28409","Wilmington","NC","Animal Emergency And Trauma","5333 Oleander Dr","28403",34.20903,-77.860824
+"28411","Wilmington","NC","New Hanover North ER","151 Scotts Hill Medical Dr","28411",34.31549072265625,-77.76883697509766
+"28412","Wilmington","NC","Masonboro Urgent Care","6132 Carolina Beach Rd Ste 8","28412",34.116436,-77.901445
+"28412","Wilmington","NC","Med First Urgent Care & Family Practice","1328 Lake Park Blvd N","28428",34.050357818603516,-77.89884948730469
+"28420","Ash","NC","Novant Health Urgent Care","5145 Sellers Rd","28470",33.9622852030305,-78.39716765534284
+"28420","Ash","NC","Novant Urgent Care","4503 Main St","28470",33.98267223036416,-78.37079276309608
+"28420","Ash","NC","Urgent Care Medical Center","not_available","28470",33.94833326339722,-78.40196192264557
+"28422","Bolivia","NC","Brunswick Novant Medical Center","240 Hospital Dr NE","28422",34.03138839204808,-78.26005936312005
+"28422","Bolivia","NC","Hospice Center of Brunswick","not_available","28422",34.03575236126766,-78.24569836536116
+"28425","Burgaw","NC","Pender Memorial Hospital","507 E Fremont St","28425",34.54968313513618,-77.91950903844749
+"28436","Delco","NC","Kindred at Home","27385 Andrew Jackson Hwy E","28436",34.30771089,-78.19669584
+"28443","Hampstead","NC","Surf City Urgent Care","13520 NC Highway 50","28445",34.44850158691406,-77.56185913085938
+"28443","Hampstead","NC","Columbus Regional Medical","not_available","28443",34.32715277777778,-77.68756944444445
+"28443","Hampstead","NC","Family Urgent Care","502 US Highway 17","28445",34.499687,-77.547512
+"28453","Magnolia","NC","Medic Seven","305 W Charity Rd","28458",34.822607,-78.02288
+"28453","Magnolia","NC","Changing Paths Of NC II LLC","150 Cedar Lane","28458",34.8304598,-77.9258962
+"28457","Rocky Point","NC","us1mfg","not_available","08057",34.41871709281979,-77.8345513343811
+"28460","Sneads Ferry","NC","Med First Immediate Care & Family Practice of Sneads Ferry","200 Cape Fear Cir","28460",34.550059999999995,-77.437499
+"28460","Sneads Ferry","NC","New Hanover Regional Medical Center","17th st","28407",34.54974716,-77.37048784
+"28461","Southport","NC","Fast Med Urgent Care","5130 Southport Supply Rd SE","28461",33.95212173461914,-78.044189453125
+"28461","Southport","NC","Dosher Hospital","not_available","28461",33.93006720277822,-78.02164369583836
+"28461","Southport","NC","Brunswick Ear Nose & Throat","900 N Howe St","28461",33.928892,-78.02157199999999
+"28462","Supply","NC","Brunswick Community Hospital","not_available","28462",34.0103834410035,-78.29092715549248
+"28462","Supply","NC","Chicora Urgent Care","20 Medical Campus Dr NW","28462",34.01578140258789,-78.28275299072266
+"28463","Tabor City","NC","Loris Community Hospital","3655 Mitchell St","29569",34.057485004267576,-78.89861285165098
+"28463","Tabor City","NC","McLeod Loris Hospital","3655 Mitchell At","29569",34.05742263793945,-78.89862060546875
+"28466","Wallace","NC","Brian Center Health & Rehabilitation/Wallace","647 S East Railroad St","28466-2091",34.72708959,-77.99212088
+"28467","Calabash","NC","Seacoast Emergancy Room","not_available","29566",33.87595772995289,-78.61111471365638
+"28472","Whiteville","NC","Columbus Regional Hospital","500 Jefferson St","28472",34.33727525030795,-78.69536287617903
+"28472","Whiteville","NC","Columbus Regional Medical Center","not_available","28472",34.33787159021975,-78.69528199369387
+"28501","Kinston","NC","Lenoir Memorial Hospital - ED","not_available","28501",35.290390410515435,-77.58407465808511
+"28501","Kinston","NC","Lenoir Memorial Hospital","100 Airport Rd","28501",35.290390625924644,-77.58354226187016
+"28501","Kinston","NC","Neuse Room","not_available","28504",35.29836565657761,-77.58190886816958
+"28501","Kinston","NC","FastMed Urgent Care","2908 N Herritage St","28501",35.29264831542969,-77.5857925415039
+"28512","Atlantic Beach","NC","Onslow Urgent Care","600 Atlantic Beach Cswy","28512",34.708028000000006,-76.73696600000001
+"28512","Atlantic Beach","NC","Carteret Emergency Room","not_available","28557",34.72347021666667,-76.73502758333333
+"28515","Bayboro","NC","Pamlico County Rescue Squad","911 Grace Daniels Road","28515",35.14204788208008,-76.78195190429688
+"28515","Bayboro","NC","Nova Urgent Care","not_available","28515",35.14367390015959,-76.7913811607669
+"28516","Beaufort","NC","PruittHealth - Sea Level","468 Highway 70 East","28577",34.8819316,-76.39290819
+"28532","Havelock","NC","Cherry Point Naval Hospital","4389 Beaufort Road","28533",34.895509081127905,-76.90800282710974
+"28532","Havelock","NC","Emergency Pet Hospital","1301A E Main St","28532",34.8597297668457,-76.89631652832031
+"28539","Hubert","NC","Swansboro Animal Hospital Emergency And Trauma Center","130 Phillips Loop Rd","28584",34.696327209472656,-77.1418228149414
+"28539","Hubert","NC","Med First Urgent Care & Family Practice of Swansboro","718 W Corbett Ave","28584",34.694575,-77.131858
+"28540","Jacksonville","NC","Onslow Memorial Hospital","317 Western Blvd","28546",34.7633286507507,-77.38514842887064
+"28540","Jacksonville","NC","Coastal Carolina Neuropsychiatric Center, PA","200 Tarpon Trl","28546",34.792894310399895,-77.41073034495297
+"28540","Jacksonville","NC","Physicians Immediate Care","1899 N Marine Blvd","28546",34.776396000000005,-77.395314
+"28540","Jacksonville","NC","VA Hospital","Ramset Street","28540",34.6881266,-77.5230587
+"28540","Jacksonville","NC","Surgitech","Memorial","28546",34.765432,-77.385945
+"28540","Jacksonville","NC","Med First Urgent Care & Occupational Medicine","325 Western Blvd","28546",34.76484876066312,-77.38383293151855
+"28540","Jacksonville","NC","Sleep Lab","not_available","28540",34.76506172855449,-77.3861294820645
+"28540","Jacksonville","NC","Onslow Memorial Hospital ER","not_available","28546",34.76367608356337,-77.38623405048278
+"28540","Jacksonville","NC","Med First Immediate Care & Family Practice","308 Dolphin Drive","28546",34.7928375,-77.40978539999999
+"28543","Tarawa Terrace","NC","3rd floor Navy Hospitial","not_available","28543",34.74025344848633,-77.36785888671875
+"28546","Jacksonville","NC","Brynn Marr Hospital","192 Village Drive","28546",34.7460613,-77.37442275
+"28546","Jacksonville","NC","Shalom Medical PC","29 Office Park Dr","28546",34.764168,-77.376659
+"28547","Camp Lejeune","NC","Naval Hospital Camp Lejeune","100 Brewster Blvd","28547",34.7221636984067,-77.35840452373529
+"28547","Camp Lejeune","NC","Radiology Naval Hospital","not_available","28547",34.721753584019105,-77.35770921213793
+"28547","Camp Lejeune","NC","Naval Hospital Camp Lejeune ER","Camp Lejeune","not_available",34.72197951602777,-77.35875217797341
+"28551","La Grange","NC","Rex Hospital Holly Springs","N Carolina 55, NC","28578",35.22498321533203,-77.84280395507812
+"28557","Morehead City","NC","Carteret General Hospital","3500 Arendell St","28557",34.726196,-76.75489429999999
+"28557","Morehead City","NC","The Infirmary At Cloud City","Bay street","not_available",34.724084,-76.714005
+"28557","Morehead City","NC","FastMed Urgent Care","3722 Bridges St","28557",34.7265957,-76.7584049
+"28557","Morehead City","NC","Sitter central","not_available","28512",34.726211155938266,-76.75524059481585
+"28560","New Bern","NC","CarolinaEast Medical Center","2000 Neuse Blvd","28560",35.11350046666112,-77.0668487978073
+"28560","New Bern","NC","CCHC","3231 Wellons Blvd","28562",35.105549873690705,-77.09370457490061
+"28560","New Bern","NC","PruittHealth - Trent","836 Hospital Dr","28560",35.11348734,-77.06449729
+"28560","New Bern","NC","Care 2 U Medical Services","1230 US Highway 70 E","28560",35.07742,-77.02869
+"28560","New Bern","NC","PruittHealth","1303 Health Dr","28560",35.115038,-77.069096
+"28560","New Bern","NC","CarolinaEast ER","not_available","28560",35.06821845748158,-77.07016524508914
+"28560","New Bern","NC","NHCCP URGENT CARE","not_available","28562",35.096863,-77.103532
+"28560","New Bern","NC","Carolina Home Care Services","1300 Helen Ave","28560",35.11481,-77.070327
+"28574","Richlands","NC","Med First Urgent Care & Family Practice of Richlands","154 Beulaville Hwy","28574",34.914390563964844,-77.59182739257812
+"28574","Richlands","NC","Para Exams","not_available","28574",34.906821341079265,-77.56070852279663
+"28584","Swansboro","NC","Med First Urgent Care Center","not_available","28594",34.664943,-77.032579
+"28601","Hickory","NC","Frye Regional Medical Center","420 N Center St","28601",35.737525,-81.337137
+"28601","Hickory","NC","Emergeortho","160 River Bend, Suite C","28630",35.778244,-81.39242
+"28601","Hickory","NC","Moms Hospital Room @ Frye.","not_available","28601",35.7370647859684,-81.336807067393
+"28601","Hickory","NC","Alpine’s Hemp Co.","7 14th st SW","28602",35.7308867,-81.3619831
+"28601","Hickory","NC","Piedmont Urgent Care","2972 N Center St","28601",35.771832,-81.327446
+"28601","Hickory","NC","CVMC/ Professional Sleep Diagnostics","not_available","28602",35.730397518694666,-81.31276995378646
+"28602","Hickory","NC","Catawba Valley Medical Center","810 Fairgrove Church Rd","28602",35.7138325,-81.26728399999999
+"28602","Hickory","NC","CVMCER","Fairgrove Church Rd, Hickory, NC 28602","28602",35.713331259776446,-81.26650489607621
+"28602","Hickory","NC","Mash unit!","716 32nd St SE","28613",35.715692,-81.26890300000001
+"28602","Hickory","NC","Mamaws Room","Robinson Rd","28658",35.643344,-81.291363
+"28602","Hickory","NC","FryeCare Urgent Care","1105 Fairgrove Church Rd SE","28613",35.7126784,-81.2644553
+"28602","Hickory","NC","The Situation Room-eat at your own risk","610 Fairgrove Church Rd","28602",35.714259,-81.265122
+"28604","Banner Elk","NC","Cannon Memorial Hospital","not_available","28604",36.154319,-81.867162
+"28605","Blowing Rock","NC","Blowing Rock Rehab & Davant Extended Care","418 Chestnut Dr","28605",36.128927000000004,-81.677109
+"28607","Boone","NC","Watauga Medical Center","336 Deerfield Rd","28607",36.19807381825846,-81.65139090688479
+"28607","Boone","NC","FastMed Urgent Care","178 Highway 105 Ext , Ste 101","28607",36.21510765478179,-81.66925191879272
+"28607","Boone","NC","Watauga Red Cross","not_available","28607",36.220654,-81.686182
+"28607","Boone","NC","AppUrgent Care","2146 Blowing Rock Rd","28607",36.19555804532757,-81.65378206183263
+"28612","Connelly Springs","NC","Valdese Emergency Department","720 Malcolm Blvd","28671",35.74761962890625,-81.5234603881836
+"28612","Connelly Springs","NC","Broughton Hospital","1000 S Sterling St","28655",35.73081802493613,-81.67330962191195
+"28612","Connelly Springs","NC","Psalms Care Center","304 S Green St","28655",35.744076,-81.684898
+"28612","Connelly Springs","NC","Carolinas HealthCare System Blue Ridge Morganton","2201 S Sterling St","28655",35.7266135,-81.65440679999999
+"28612","Connelly Springs","NC","Carolinas Healthcare System Blue Ridge Valdese","720 Malcolm Blvd","28612",35.74759,-81.52341
+"28612","Connelly Springs","NC","VGH OPS","not_available","28612",35.748194423351435,-81.5235034212224
+"28612","Connelly Springs","NC","College Pines Health & Rehab Center","95 Locust St","28612",35.74639670942672,-81.5217042709972
+"28612","Connelly Springs","NC","CCRP Recovery Program","1201 S Sterling St","28655",35.73456573486328,-81.67295837402344
+"28612","Connelly Springs","NC","CMC-Morganton","not_available","28655",35.72618614794327,-81.65406990422669
+"28612","Connelly Springs","NC","Valdese Hospital","720 Malcom Blvd.","28690",35.747709521573,-81.52335034648635
+"28613","Conover","NC","Baptist Hospital","not_available","28613",35.818660736083984,-81.19080352783203
+"28624","Ferguson","NC","331-01 South Wing Sime Darby Medical Center","Sime Darby Medical Center","28697",36.148646,-81.323512
+"28625","Statesville","NC","OR 4","not_available","28677",35.800688,-80.878015
+"28625","Statesville","NC","Davis Regional Medical Center - Emergency Room","218 Old Mocksville Rd","28625",35.818754,-80.828965
+"28625","Statesville","NC","Piedmont Healthcare Urgent Care","619 Sullivan Rd","28677",35.802459999999996,-80.876189
+"28625","Statesville","NC","Iredell Memorial Hospital","557 Brookdale Dr","28677",35.799858,-80.87863
+"28625","Statesville","NC","Forsyth EMS","911 Fourth St","28677",35.78323745727539,-80.90289306640625
+"28625","Statesville","NC","Maple Leaf Health Care","1101 Maple Care Ln","28625",35.8095,-80.843343
+"28625","Statesville","NC","DRMC ER","not_available","28625",35.818750842133895,-80.8285365865924
+"28625","Statesville","NC","FastMed Urgent Care","252 Turnersburg Hwy","28625",35.8151804,-80.8761315
+"28625","Statesville","NC","Iredell County EMS, Statesville Base","400 S Meeting St, Statesville, NC 28677","28677",35.78066707035719,-80.88848015797244
+"28625","Statesville","NC","Brian Center Health & Rehabilitation/Statesville","520 Valley St","28677",35.797727,-80.867861
+"28630","Granite Falls","NC","Frye Urgent Care","not_available","28638",35.84703482068347,-81.47296786308289
+"28630","Granite Falls","NC","Carolinas HealthCare System Blue Ridge - Cajah’s Mountain Express Care","1766 Connelly Springs Rd","28645",35.84906768798828,-81.5428466796875
+"28640","Jefferson","NC","Ashe Memorial Hospital","Hospital St","28640",36.42349635496761,-81.45778935429522
+"28645","Lenoir","NC","FastMed Urgent Care","825 Blowing Rock Blvd","28645",35.9252756,-81.5266853
+"28645","Lenoir","NC","Caldwell Memorial Community Pharmacy","321 Mulberry St SW, Lenoir, NC 28645","28645",35.9105339050293,-81.53544616699219
+"28645","Lenoir","NC","CMH Security Dept.","not_available","28645",35.911057002538364,-81.53528228545531
+"28645","Lenoir","NC","Caldwell Memorial Hospital","321 Mulberry St SW","28645",35.91102935991896,-81.5352213948676
+"28655","Morganton","NC","Carolinas HealthCare Blue Ridge Urgent Care","695 W Fleming Dr","28655",35.730004,-81.704661
+"28657","Newland","NC","Blue Ridge Regional Hospital","125 Hospital Dr","28777",35.910967,-82.063088
+"28657","Newland","NC","The Rehabilitation Center of ARHS - Linville NC","434 Hospital Drive","28657",36.06272888183594,-81.88790130615234
+"28657","Newland","NC","Mission My Care Now - Spruce Pine","189 Hospital Dr","28777",35.9105242,-82.06155969999999
+"28657","Newland","NC","Charles A. Cannon, Jr. Memorial Hospital","434 Hospital Drive","28646",36.0605965934924,-81.88926389357192
+"28657","Newland","NC","Avery County EMS","456 A Street","28657",36.08887481689453,-81.92884063720703
+"28658","Newton","NC","Urgent Care of Mountain View - Newton","1366 S NC 16 HWY","28658",35.6563191,-81.1944637
+"28658","Newton","NC","Urgent Care of Mountain View","2872 S NC Hwy 127","28602",35.6862375,-81.3644527
+"28658","Newton","NC","Family Room","3975 Robinson Rd","28658",35.643825,-81.289759
+"28658","Newton","NC","FastMed Urgent Care","2280 US Highway 70 SE","28602",35.70240228,-81.2954751
+"28659","North Wilkesboro","NC","Wake Forest Baptist Health - Wilkes Medical Center","1370 W D St","28659",36.16004,-81.1584
+"28659","North Wilkesboro","NC","wilkes urgent care","not_available","28697",36.15349197387695,-81.13105010986328
+"28659","North Wilkesboro","NC","Urgent Care-West Park","not_available","28669",36.15266036987305,-80.99737548828125
+"28659","North Wilkesboro","NC","FastMed Urgent Care","1903 Addison Ave","28697",36.149611,-81.19647900000001
+"28659","North Wilkesboro","NC","Wake at Home","126 Executive Dr","28697",36.13711568,-81.14731436
+"28659","North Wilkesboro","NC","Urgent Care - Wilkes | Wake Forest Baptist Health","1900 W Park Dr","28659",36.155023,-81.161672
+"28675","Sparta","NC","Sparta ER","not_available","28675",36.501289,-81.11555
+"28675","Sparta","NC","Alleghany Memorial Hospital","233 Doctors St","28675",36.509544,-81.114531
+"28681","Taylorsville","NC","urgent care","60 2nd Ave SW","28681",35.91916275024414,-81.1771469116211
+"28694","West Jefferson","NC","ashe memioral hospital","not_available","28694",36.332088470458984,-81.38563537597656
+"28704","Arden","NC","Pardee Urgent Care Fletcher Arden","not_available","28704",35.444343,-82.507746
+"28704","Arden","NC","Sisters of mercy urgent care","1833 Hendersonville Rd","28803",35.50321686044503,-82.52430744389633
+"28704","Arden","NC","Asheville Orthopedic Associates","310 Long Shoals Rd Ste 201","28704",35.4816764,-82.55032849999999
+"28704","Arden","NC","Mission My Care Now - Arden","310 Long Shoals Rd Ste 110","28704",35.4816764,-82.55032849999999
+"28704","Arden","NC","Sisters of Mercy Urgent Care","Airport Rd","28704",35.455577173420004,-82.52247070266387
+"28704","Arden","NC","Aphasia Friends","not_available","28732",35.44080423745147,-82.51671195030212
+"28711","Black Mountain","NC","Black Mountain Center","not_available","28778",35.6030970970545,-82.36314492107631
+"28711","Black Mountain","NC","Ameri Hospital","The old one","28762",35.6291222,-82.18647539999999
+"28712","Brevard","NC","The Oaks - Brevard","300 Morris Road","28712",35.26142661,-82.71020931
+"28712","Brevard","NC","Transylvania Hospital","Hospital Rd","28712",35.25625180326181,-82.71173809342474
+"28712","Brevard","NC","MRI @ Transylvania Regional Hospital","Hospital Dr, Brevard, NC 28712","28712",35.25661849975586,-82.71128845214844
+"28712","Brevard","NC","Urgent Care","not_available","28712",35.223702,-82.725351
+"28712","Brevard","NC","Transylvania Regional Hospital","260 Hospital Dr","28712",35.2568533,-82.71392259999999
+"28713","Bryson City","NC","Swain Family Care","45 Plateau St Ste 250","28713",35.43452580951963,-83.44476431608206
+"28713","Bryson City","NC","Swain Community Hospital","45 Plateau St","28713",35.434481,-83.4440541
+"28713","Bryson City","NC","Med West","509 Center St","28713",35.43497851666667,-83.44481695
+"28714","Burnsville","NC","Mercy Urgent Care","41 Charlie Brown Rd","28714",35.91341,-82.32235
+"28714","Burnsville","NC","Blue Ridge Medical Center - Yancey Campus","800 Medical Campus Dr","28714",35.91646533,-82.33281767
+"28715","Candler","NC","Mission Hospital - Trauma Room","not_available","28715",35.5421142578125,-82.7608871459961
+"28715","Candler","NC","Mission Hospital - Service Centet","not_available","28806",35.6007992333209,-82.63380749906217
+"28715","Candler","NC","FastMed Urgent Care","511 Smokey Park Hwy","28715",35.55306583,-82.64423775
+"28716","Canton","NC","medwest emergency room (Haywood Regional Medical Center)","750 Hospital Dr","28721",35.52541919132868,-82.9432315211856
+"28716","Canton","NC","Haywood Regional Urgent Care","not_available","28721",35.52402320590269,-82.94186601985793
+"28716","Canton","NC","Mountain projects: Certified Application Counselors","2177 Asheville Road","28786",35.5055373,-82.9648741
+"28716","Canton","NC","Urgent Care Canton","55 Buckeye Cove Rd","28716",35.55834397849087,-82.8517813887629
+"28716","Canton","NC","Medwest Urgent Care","not_available","28716",35.55831527709961,-82.85155487060547
+"28716","Canton","NC","Junaluska Internal Medicine, P.C.","627 N Main St","28786",35.495274,-82.98151999999999
+"28716","Canton","NC","Mission My Care Now - Haywood","362 Hospital Drive","28721",35.525249046142925,-82.95210877005928
+"28716","Canton","NC","Haywood Nursing and Rehabilitation Center","516 Wall St","28786",35.492988000000004,-82.982285
+"28716","Canton","NC","MedWest-Haywood","262 Leroy George Dr","28721",35.52564672480175,-82.94101182399771
+"28719","Cherokee","NC","Cherokee Indian Hospital Authority","Hospital Road","28719",35.48456700408937,-83.32293474173767
+"28721","Clyde","NC","Sisters Of Mercy Urgent Care - Waynesville","not_available","28786",35.505604,-82.99289
+"28722","Columbus","NC","Tryon Urgent & Family Care","3919 Lynn Rd","28782",35.21516,-82.24104
+"28722","Columbus","NC","Nurses Station On GP","not_available","28722",35.239977594656835,-82.21356203498742
+"28723","Cullowhee","NC","Urgent Care","Sylva","28734",35.36216091117529,-83.20381782563935
+"28730","Fairview","NC","Spiritual Connections","Cedarwood Road","28803",35.55555208442665,-82.47543811798096
+"28730","Fairview","NC","Kindred at Home","9 Olde Eastwood Village Blvd","28803",35.55262578,-82.47158159
+"28731","Flat Rock","NC","Pardee Hospital - Day Surgery","not_available","28791",35.32012723177511,-82.46641990813778
+"28731","Flat Rock","NC","Pardee Hospital - Brandi's Desk","not_available","28739",35.32009851434081,-82.46766280235721
+"28731","Flat Rock","NC","Pardee Hospital - Orthopedic Floor","800 N Justice St","28791",35.320804595947266,-82.46746063232422
+"28731","Flat Rock","NC","Pardee Hospital","Fleming St.","28792",35.320097077878835,-82.46761651166594
+"28731","Flat Rock","NC","FastMed Urgent Care","825 Spartanburg Hwy","28792",35.305566,-82.451411
+"28731","Flat Rock","NC","Franny's Farmacy","128 Henderson Crossing Plaza","28792",35.3320084,-82.4470728
+"28732","Fletcher","NC","Park Ridge Hospital","Naples Rd","28792",35.39010356225651,-82.48815940066584
+"28732","Fletcher","NC","Pardee Urgent Care - Mills River","3334 Boylston Hwy, Suite 10","28759",35.3998685,-82.5701605
+"28732","Fletcher","NC","Park Ridge Health ER","Naples Rd","28732",35.38994488749899,-82.48758837036392
+"28734","Franklin","NC","Angel Medical Center","not_available","28734",35.18449804248329,-83.37847747936917
+"28734","Franklin","NC","Mission Women's Care - Franklin","56 Medical Park Dr","28734",35.183253,-83.377931
+"28734","Franklin","NC","Uptowne Blossoms by Nicholas, LLC","37 Palmer Street Cir","28734",35.1790885925293,-83.38455200195312
+"28734","Franklin","NC","Harris Medical Park of Franklin","55 Holly Springs Park Dr","28734",35.18467551282802,-83.35377538343892
+"28734","Franklin","NC","Mission WorkWell - Franklin","190 Riverview St","28734",35.185784999999996,-83.377832
+"28739","Hendersonville","NC","Brian Center Health & Rehabilitation/Hendersonville","1870 Pisgah Dr","28791",35.32515105,-82.49373145
+"28739","Hendersonville","NC","Blue Ridge Health and Rehabilitation Center","1510 Hebron Rd","28739",35.30608207,-82.47514301
+"28740","Green Mountain","NC","Urgent Care of Erwin","800 Mohawk Dr","37650",36.13213,-82.4123
+"28740","Green Mountain","NC","Unicoi County Hospital","100 Greenway Circle","37650",36.1335124,-82.4130576
+"28752","Marion","NC","McDowell Hospice","not_available","28752",35.693144000000004,-82.01276800000001
+"28752","Marion","NC","The McDowell Hospital","430 Rankin Dr","28752",35.663409,-82.028308
+"28752","Marion","NC","Mission My Care Now - McDowell","472 Rankin Dr","28752",35.663409,-82.028308
+"28752","Marion","NC","Brian Center Health & Rehabilitation/Spruce Pine","218 Laurel Creek Ct","28777",35.90585156,-82.08827863
+"28753","Marshall","NC","Sisters Of Mercy Urgent Care","78 Weaver Blvd, Weaverville, NC 28787","28787",35.70724868774414,-82.56640625
+"28753","Marshall","NC","Brian Center Health & Rehabilitation/Weaverville","78 Weaver Blvd","28787-9322",35.706995,-82.56653299999999
+"28754","Mars Hill","NC","Emergency Restoration Today","not_available","28754",35.85333526856193,-82.52607822418213
+"28779","Sylva","NC","Harris Regional Hospital","68 Hospital Rd","28779",35.385678,-83.20293
+"28779","Sylva","NC","HRH Emergency Room","not_available","28779",35.385791883491365,-83.20231649056946
+"28786","Waynesville","NC","Medwest Urgent Care West","556 Hazelwood Ave","28786",35.4784774,-83.0048828
+"28791","Hendersonville","NC","Apple Creek Medical","38 Apple Creek Ln","28792",35.359281,-82.476451
+"28791","Hendersonville","NC","Beystone","not_available","28792",35.3855603629777,-82.48737158910528
+"28801","Asheville","NC","Mission Hospital","509 Biltmore Ave","28801",35.57662968599489,-82.54941721659321
+"28801","Asheville","NC","Owen Heart Center","513-543 Biltmore Ave","28803",35.57763609004812,-82.54939175169969
+"28801","Asheville","NC","Mission Hospital - Cancer Center","21 Hospital Dr Fl 2","28801",35.5792224,-82.5522451
+"28801","Asheville","NC","Copestone Pediatric","428 Biltmore Avnenue","28801",35.58119,-82.55061543333333
+"28801","Asheville","NC","Copestone IOP Offices","5 Hospital Drive","28801",35.57664108276367,-82.54985046386719
+"28801","Asheville","NC","Mission Hospital- Memorial Campus Surgical Waiting","not_available","28803",35.57625009151085,-82.54987151823099
+"28801","Asheville","NC","Mission Hospital - Maintenance Shop","not_available","28801",35.57589920691713,-82.54933735221643
+"28801","Asheville","NC","Stone Creek Health And Rehabilitation","445 victoria rd","not_available",35.566488644185185,-82.55761699469234
+"28801","Asheville","NC","Asheville Pulmonary & Critical Care Associates","30 Choctaw St Ste A","28801",35.5823408,-82.55244139999999
+"28801","Asheville","NC","FastMed Urgent Care","160 Hendersonville Rd.","28803",35.564308000000004,-82.541881
+"28801","Asheville","NC","Waverly Hematology oncology","301 Ashville Ave","27518",35.57977051666667,-82.55139101666667
+"28801","Asheville","NC","Asheville Specialty Hospital","428 Bilmore Avenue, 4th Floor","28801",35.581238,-82.5501239
+"28801","Asheville","NC","Mission Hospital - St. Joseph Campus","428 Biltmore Ave","28801",35.581238,-82.5501239
+"28801","Asheville","NC","Mission Hospital's Patient Registration","Biltmore Ave","28803",35.57598153222632,-82.54934032543636
+"28803","Asheville","NC","CarePartners Health Services","68 Sweeten Creek Rd","28803",35.5624928312598,-82.5328603161561
+"28803","Asheville","NC","V A Hospital","not_available","28805",35.576312939166215,-82.4911043615899
+"28803","Asheville","NC","Missions St Joseph's Health","980 Hendersonville Rd","28803",35.538990999999996,-82.53019
+"28804","Asheville","NC","Range Urgent Care","201 NC Highway 9","28711",35.6219213,-82.5549015
+"28804","Asheville","NC","Franny's Farmacy","211 Merrimon Ave #111","28801",35.6065152,-82.5527006
+"28805","Asheville","NC","VA Medical Center ER","1100 Tunnel Rd","28805",35.588597,-82.48339
+"28806","Asheville","NC","Sisters Of Mercy Urgent Care","1201 Patton Ave","28806",35.58600554312201,-82.6010164896302
+"28806","Asheville","NC","NextCare","136 Mimosa Dr","28806",35.57378387451172,-82.6147232055664
+"28901","Andrews","NC","Smoky Mountain Urgent Care","not_available","28901",35.202081,-83.838306
+"28904","Hayesville","NC","Good Shepard Home Health & Hospice Of Murphy Medical Center","not_available","28904",35.0347005,-83.8237832
+"28906","Murphy","NC","Murphy Medical Center","3990 E US Hwy 64 Alt","28906",35.07300836715864,-83.96633618067526
+"28906","Murphy","NC","Bartın Devlet Hastahanesi-Fizik Tedavi","D 100","not_available",35.0246467590332,-84.28990936279297
+"28906","Murphy","NC","Urgent Care Of Murphy Medical Center","not_available","28906",35.084916,-84.025273

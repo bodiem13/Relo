@@ -1,0 +1,902 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"29003","Bamberg","SC","Piggly Wiggly","3386 Railroad Ave","29003",33.2985725402832,-81.03704833984375
+"29003","Bamberg","SC","Piggly Wiggly","not_available","29042",33.32547952205386,-81.13309785530977
+"29006","Batesburg","SC","Walmart Supercenter","115 E Church St","29070",33.91704793225947,-81.52882057303913
+"29006","Batesburg","SC","KJ's Market IGA of Batesburg","217 W Columbia Ave","29006",33.91004943847656,-81.53343963623047
+"29006","Batesburg","SC","IGA","4760 Augusta Hwy","29054",33.9536018371582,-81.41967010498047
+"29006","Batesburg","SC","The Monkey Store (Sandhill Grocery)","not_available","not_available",33.71486705318746,-81.65813622701533
+"29006","Batesburg","SC","Bi-Lo","not_available","29006",33.90896311636397,-81.5356625916476
+"29006","Batesburg","SC","1 Grocery and Grille","4420 Columbia Highway North","29129",33.7796584,-81.6410428
+"29010","Bishopville","SC","Piggly Wiggly","110 S Main St","29010",34.21781384185908,-80.2493850396633
+"29016","Blythewood","SC","Walmart Supercenter","321 Killian Rd","29203",34.137089,-80.966125
+"29016","Blythewood","SC","Kroger Marketplace","1028 Roberts Branch Pkwy","29203",34.1427634,-80.9512741
+"29016","Blythewood","SC","Publix","4611 Hard Scrabble Rd","29229",34.15323385876114,-80.91299016778592
+"29016","Blythewood","SC","ALDI","1240 Longreen Pkwy","29229",34.140556,-80.9429483
+"29016","Blythewood","SC","Super Bi-Lo","120 Forum Dr","29229",34.13377860759966,-80.88130762930871
+"29016","Blythewood","SC","IGA","135B Blythewood Rd","29016",34.21317132103126,-80.97717026856886
+"29016","Blythewood","SC","Food Lion","740 University Village Dr","29016",34.21554974554579,-80.98597218069763
+"29018","Bowman","SC","Bowman IGA","not_available","29018",33.35247907388602,-80.68636545135129
+"29020","Camden","SC","Walmart Supercenter","2240 W Dekalb St","29020",34.250641669217494,-80.64987413647785
+"29020","Camden","SC","Piggly Wiggly","DeKalb Street","29020",34.24803268388381,-80.59241471750086
+"29033","Cayce","SC","Walmart Neighborhood Market","1355 Knox Abbott Drive","29033",33.977539558879265,-81.07402153385148
+"29033","Cayce","SC","Walmart Supercenter","2401 Augusta Rd","29169",33.97998851511985,-81.09991306543233
+"29033","Cayce","SC","Bi-Lo","Augusta Rd","29169",33.98248079607695,-81.09878418302573
+"29033","Cayce","SC","Bi-Lo","300 Knox Abbott Dr","29033",33.98777354864258,-81.05570453298019
+"29033","Cayce","SC","Bi-Lo","2453 Charleston Hwy","29033",33.945887638416465,-81.07802868856328
+"29033","Cayce","SC","La Estrella","1921 Airport Blvd","29033",33.958972041020736,-81.0897520818833
+"29033","Cayce","SC","Reids","2245 Charleston Hwy","29033",33.95388935782598,-81.0595511001748
+"29033","Cayce","SC","Save-A-Lot","1618 Airport Blvd","29169",33.97052001953125,-81.07965850830078
+"29033","Cayce","SC","Harvest Hope Food Bank's Emergency Food Pantry","not_available","29033",33.97122887082468,-81.06498423120362
+"29036","Chapin","SC","Publix","1235 Chapin Road","29036",34.16469894572069,-81.35163936786385
+"29036","Chapin","SC","Publix Pharmacy","not_available","29036",34.164788,-81.351472
+"29036","Chapin","SC","Bi-Lo","1419 Chapin Rd","29036",34.166055312096596,-81.35775043430378
+"29040","Dalzell","SC","Shaw AFB Commissary","531 Shaw Dr","29152",33.976810818299825,-80.47707384839356
+"29044","Eastover","SC","Px","not_available","29061",34.01168859910852,-80.716552734375
+"29044","Eastover","SC","Bi-Lo","not_available","29044",34.05251,-80.788599
+"29045","Elgin","SC","Kroger","10136 Two Notch Rd","29229",34.1151736,-80.8827075
+"29045","Elgin","SC","Walmart Supercenter","10060 Two Notch Rd","29223",34.11040079515228,-80.8868494007632
+"29045","Elgin","SC","Publix","10128 Two Notch Rd","29223",34.114711628265106,-80.88475050740482
+"29045","Elgin","SC","The Fresh Market","10286 Two Notch Rd,","29229",34.12341233429125,-80.87313072301986
+"29045","Elgin","SC","IGA","2530 Main St","29045",34.168296337342554,-80.79822085903508
+"29045","Elgin","SC","European Market","not_available","29229",34.132397,-80.87745
+"29048","Eutawville","SC","Eutawville IGA","225 Branchdale Hwy","29048",33.392114887815815,-80.35274438876785
+"29053","Gaston","SC","Gaston IGA","185 N Main St","29053",33.82083325852695,-81.09989901167017
+"29058","Heath Springs","SC","Kershaw IGA","513 S Hampton St","29067",34.540661,-80.58173000000001
+"29058","Heath Springs","SC","Small's Food Center","610 N Matson St","29067",34.55358123779297,-80.58707427978516
+"29058","Heath Springs","SC","Small's Grocery","4517 Kershaw Camden Hwy","29058",34.61336898803711,-80.6839828491211
+"29059","Holly Hill","SC","Dollar General Market","8318 Old State Rd","29059",33.32583727180773,-80.4193918604744
+"29059","Holly Hill","SC","Piggly Wiggly","8506 Old State Rd.","29059",33.323152097979126,-80.41473888034824
+"29061","Hopkins","SC","Walmart Supercenter","7520 Garners Ferry Rd","29209",33.96412427745429,-80.93902679110715
+"29061","Hopkins","SC","Bi-Lo","7830 Garners Ferry Rd","29209",33.9567028430966,-80.92583602236115
+"29061","Hopkins","SC","Aldi","7610 Garners Ferry Rd","29209",33.9604494824079,-80.93878716230392
+"29061","Hopkins","SC","DCP Food Mart","2933-3199 Padgett Rd","29061",33.977670695209675,-80.87529123261196
+"29061","Hopkins","SC","Spinx","7232 Garners Ferry Rd","29209",33.9716369,-80.9498086
+"29061","Hopkins","SC","Spinx","7467 Garners Ferry Rd","29209",33.9658673,-80.944446
+"29063","Irmo","SC","Walmart Supercenter","1180 Dutch Fork Rd","29063",34.127073972650194,-81.22030416911933
+"29063","Irmo","SC","Kroger","7467 Saint Andrews Rd Ste 6","29063",34.0859527,-81.186119
+"29063","Irmo","SC","Publix","2732 N Lake Dr","29212",34.09788632996468,-81.22117450391607
+"29063","Irmo","SC","Publix","7320 Broad River Rd","29063",34.09678913108629,-81.15789310511937
+"29067","Kershaw","SC","IGA","not_available","29718",34.678432128958356,-80.41003426072271
+"29069","Lamar","SC","Piggly Wiggly","100 N Railroad Ave","29069",34.1701,-80.063194
+"29069","Lamar","SC","Tommys","W. Lydia Hwy","29079",34.282889,-80.114313
+"29070","Leesville","SC","Lowes Foods","2440 Augusta Hwy","29072",33.98117813165046,-81.30632873665843
+"29070","Leesville","SC","Publix","847 Highway 378","29072",33.99148672163225,-81.30622232401738
+"29070","Leesville","SC","Publix","not_available","29072",33.92647406989816,-81.3018932894819
+"29072","Lexington","SC","Walmart Supercenter","5556 Sunset Blvd","29072",33.99772942,-81.2245946
+"29072","Lexington","SC","Target","5119 Sunset Blvd","29072",34.006579585615626,-81.19375074218141
+"29072","Lexington","SC","Publix","100 Old Cherokee Rd","29072",33.999712520808046,-81.21975982134896
+"29072","Lexington","SC","Walmart Supercenter","1780 S Lake Dr","29073",33.9109510196907,-81.22968355488281
+"29072","Lexington","SC","Lowes Foods","5222 Sunset Blvd","29072",34.00646681693243,-81.20375224461259
+"29072","Lexington","SC","Publix At Lake Crossing","5441 Platt Springs Rd","29073",33.906265,-81.220825
+"29072","Lexington","SC","Lidl","5215 Sunset Blvd","29072",34.004715438447654,-81.2024244851491
+"29072","Lexington","SC","GreenWise Market","5336 Sunset Blvd Ste A","29072",34.003429,-81.209146
+"29072","Lexington","SC","Walmart Neighborhood Market","1019 Old Barnwell Rd","29170",33.943881,-81.169105
+"29072","Lexington","SC","KJ's Market","4360 Augusta Rd","29073",33.974797,-81.154473
+"29072","Lexington","SC","Aldi","6075 Saint Andrews Rd","29212",34.0537975,-81.1609026
+"29072","Lexington","SC","ALDI","5182 Sunset Blvd","29072",34.00637241235225,-81.20174959301949
+"29072","Lexington","SC","Bi-Lo","6021 Saint Andrews Rd","29212",34.05203272030162,-81.15925749043954
+"29072","Lexington","SC","Smart","not_available","29210",34.05105,-81.144903
+"29072","Lexington","SC","ALDI","5548 Platt Springs Rd","29073",33.908418,-81.2268636
+"29072","Lexington","SC","Fresh Seafood Market","Andrew corley","29072",33.998853,-81.237054
+"29072","Lexington","SC","Walmart Grocery Pickup","1019 Old Barnwell Road","29170",33.94473621,-81.16916302
+"29072","Lexington","SC","La Villa Supermarket","4866 Sunset Blvd","29072",34.01142484970688,-81.18361794936641
+"29073","Lexington","SC","Thomas & Howard Discount Center","3236 Augusta Rd","29170",33.9773063659668,-81.12784576416016
+"29073","Lexington","SC","Tienda Latina Pasabien","3254 Augusta Rd","29170",33.9773414,-81.1280106
+"29080","Lynchburg","SC","IGA Timmonsville","not_available","29161",34.13267347048196,-79.93664585263086
+"29080","Lynchburg","SC","IGA Olanta","not_available","29114",33.93696573088771,-79.9334334386259
+"29081","Ehrhardt","SC","Jeff's IGA","not_available","29081",33.09941,-81.013736
+"29102","Manning","SC","Walmart Supercenter","2010 Paxville Hwy","29102",33.700301,-80.226193
+"29102","Manning","SC","Piggly Wiggly","Sunset Dr.","29102",33.69103802064702,-80.21260229697404
+"29102","Manning","SC","Piggly Wiggly","9 N Church St","29148",33.61115646362305,-80.35182189941406
+"29108","Newberry","SC","Walmart Supercenter","2812 Main St","29108",34.280508188966515,-81.5924505498018
+"29108","Newberry","SC","Bi-Lo","518 North Wheeler Avenue","29127",34.218096534762886,-81.53849731999523
+"29108","Newberry","SC","NFL","not_available","29108",34.28269696309897,-81.63720287661678
+"29108","Newberry","SC","Harvey's Supermarket","1937 Wilson Rd","29108",34.294031213964,-81.60735068504862
+"29112","North","SC","Grocer","not_available","29112",33.695696,-80.973402
+"29112","North","SC","Piggly Wiggly","514 Partridge Lane and Hwy 321","29112",33.623809814453125,-81.10334777832031
+"29115","Orangeburg","SC","Walmart Supercenter","2795 North Rd","29118",33.52484975,-80.89033842
+"29115","Orangeburg","SC","Piggly Wiggly","Edisto Drive","not_available",33.51692131251406,-80.86481994764465
+"29115","Orangeburg","SC","Bi-Lo","1370 Chestnut St","29115",33.514130484184385,-80.86126235384333
+"29115","Orangeburg","SC","Walmart Neighborhood Market","332 Stone Wall Jackson Blvd","29115",33.48228567971417,-80.87023820855342
+"29115","Orangeburg","SC","Big Lots","1371 Chestnut St","29115",33.513322910432386,-80.86223629068655
+"29115","Orangeburg","SC","Tienda Mexicana Los Tres Potrilllos","1500 Wingate St","29118",33.518253326416016,-80.86432647705078
+"29115","Orangeburg","SC","Giant Food World","2526 Old Edisto Dr","29115",33.48109817504883,-80.89852142333984
+"29115","Orangeburg","SC","ALDI","2690 North Rd","29118",33.52535525274924,-80.88654980824685
+"29115","Orangeburg","SC","Piggly Wiggly","not_available","29118",33.577222222222225,-80.90055555555556
+"29115","Orangeburg","SC","Save-A-Lot","1050 Chestnut St","29115",33.51176071166992,-80.8555908203125
+"29115","Orangeburg","SC","BI-LO","not_available","29115",33.50470318428908,-80.77413720756897
+"29123","Pelion","SC","Pelion IGA","861 Pine St.","29123",33.762027740478516,-81.24712371826172
+"29123","Pelion","SC","Shumpert's Food Mart","Main St","29123",33.763384654992734,-81.24648555547867
+"29128","Rembert","SC","Rembert Grocery & Grill","35 Horatio-Hagood Rd.","29128",34.097683305232096,-80.58018101355485
+"29135","Saint Matthews","SC","Piggly Wiggly","615 Harry C Raysor Dr","29135",33.660850524902344,-80.7781982421875
+"29137","Salley","SC","Piggly Wiggly","123 Earle St S","29164",33.649761,-81.360933
+"29138","Saluda","SC","Reid's Grocery Store","605 Travis Ave","29138",34.012379921448456,-81.75677455160626
+"29142","Santee","SC","IGA","9092 Old #6 Highway","29142",33.481676,-80.46698
+"29150","Sumter","SC","Walmart Supercenter","1283 Broad St","29150",33.95940387315667,-80.38950562477112
+"29150","Sumter","SC","ALDI","829 Broad St","29150",33.94396073054988,-80.36876142024994
+"29150","Sumter","SC","Walmart Neighborhood Market","343 Pinewood Rd","29150",33.906164,-80.378092
+"29150","Sumter","SC","Sumter IGA","325 W Wesmark Blvd","29150",33.951932477245755,-80.38872002258857
+"29150","Sumter","SC","Piggly Wiggly","1011 Broad St","29150",33.9463088121254,-80.37261967917611
+"29150","Sumter","SC","Bi-Lo","2055 Wedgefield Rd","29154",33.914985367859735,-80.38607572410247
+"29150","Sumter","SC","Piggly Wiggly","s guinard pkwy","29044",33.87410887210074,-80.34881996514677
+"29150","Sumter","SC","Sumter Cash & Carry","21 Cuttino Rd","29150",33.957459,-80.394972
+"29150","Sumter","SC","Walmart Grocery Pickup","343 Pinewood Road","35470",33.90632247924805,-80.37782287597656
+"29150","Sumter","SC","IGA","not_available","29150",33.904284082210026,-80.38074214084031
+"29150","Sumter","SC","Walmart Grocery Pickup","615 Bultman Drive","29150",33.9383328888264,-80.3714195308503
+"29154","Sumter","SC","Queens Caribbean Cuisine LLC","1217B Peach Orchard Rd","29154",33.953931,-80.49756
+"29154","Sumter","SC","Fil-Am Oriental grocery","not_available","29154",33.953825,-80.497573
+"29160","Swansea","SC","Swansea Bi-Rite","230 West Second St","29160",33.73762813333333,-81.10209003333334
+"29161","Timmonsville","SC","KJs Market","5125 Ebenezer Road","29501",34.178163872607044,-79.8545787590468
+"29161","Timmonsville","SC","Food Lion","not_available","29501",34.18409,-79.871836
+"29162","Turbeville","SC","IGA","Hwy 378","29162",33.89400843205931,-80.0111852213219
+"29169","West Columbia","SC","Food Lion Grocery Store","1013 Broad River Rd","29210",34.0251466216448,-81.08093830477061
+"29169","West Columbia","SC","Aldi","2930 Augusta Rd","29170",33.9794575,-81.1163802
+"29169","West Columbia","SC","Bi-Lo","chestnut","29115",33.9918067552392,-81.05227743275138
+"29169","West Columbia","SC","El Mariachi","1078 Sunset Blvd","29169",33.99837069174942,-81.07589954525913
+"29178","Whitmire","SC","Piggly Wiggly","PO Box 368","29178",34.50672683107803,-81.60148009228924
+"29178","Whitmire","SC","Piggly Wiggly","26460 SC 121 Whitmire Plaza","29178",34.506432,-81.601197
+"29180","Winnsboro","SC","Bi-Lo","1126 US Highway 321 Bus S Unit 1","29180",34.34907679171415,-81.08787609813668
+"29180","Winnsboro","SC","KJ’s Market","133 US Highway 321 Byp S","29180",34.369203,-81.099106
+"29201","Columbia","SC","Publix","501 Gervais St","29201",33.998129015502435,-81.04448328560952
+"29201","Columbia","SC","Piggly Wiggly","3818 Devine St","29205",33.996536925199585,-80.9869155607015
+"29201","Columbia","SC","Publix","2800 Rosewood Dr","29205",33.9874511297282,-81.00300000309208
+"29201","Columbia","SC","Earth Fare","3312B Devine St","29205",33.99698064035666,-80.99419815775292
+"29201","Columbia","SC","Kroger","3403 Forest Dr","29204",34.0198275,-80.9916454
+"29201","Columbia","SC","Rosewood Market","2803 Rosewood Dr","29205",33.987622642609345,-81.00399821738036
+"29201","Columbia","SC","Harvest Hope Food Bank","2220 Shop Rd","29201",33.96246976173819,-80.9900658466764
+"29203","Columbia","SC","Publix","150 Harbison Blvd","29212",34.06834455639773,-81.16243895630156
+"29203","Columbia","SC","Walmart Supercenter","5420 Forest Dr","29206",34.02145087379663,-80.95179085125486
+"29203","Columbia","SC","Trader Joe's","4516 Forest Drive","29206",34.02025743663629,-80.97278525786129
+"29203","Columbia","SC","Food Lion Grocery Store","2312 Decker Blvd","29206",34.055115328664655,-80.94686623732686
+"29203","Columbia","SC","Walmart Supercenter","360 Harbison Blvd","29212",34.07367662880317,-81.15158924521265
+"29203","Columbia","SC","Walmart Supercenter","1326 Bush River Rd","29210",34.0291422,-81.10832927
+"29203","Columbia","SC","Lowes Foods","4711 Forest Dr","29206",34.02071316258439,-80.968646024198
+"29203","Columbia","SC","Piggly Wiggly","6325 N Main St","29203",34.063366,-81.009174
+"29203","Columbia","SC","88 Oriental Market","6795 st. Andrews road.","29212",34.071089782976244,-81.17504238748937
+"29203","Columbia","SC","Asian Market","1221 Bakersfield Rd","29210",34.035455999999996,-81.091749
+"29203","Columbia","SC","Halal International","not_available","29223",34.032091,-81.089684
+"29203","Columbia","SC","Spinx","495 Piney Grove Rd","29210",34.0686198,-81.1396658
+"29203","Columbia","SC","Oriental international market","2205 Decker Blvd Ste H","29206",34.050622,-80.94497
+"29203","Columbia","SC","Spices Of India & Groceries","544 Saint Andrews Rd","29210",34.045186083333334,-81.1281655
+"29203","Columbia","SC","Walmart Grocery Pickup & Delivery","3603 Broad River Rd","29210",34.05598068237305,-81.11198425292969
+"29203","Columbia","SC","Subh Laxmi Indian Grocery Store","133 Fox Glove Ln","29210",34.03361533,-81.12472374
+"29205","Columbia","SC","Whole Foods Market","702 Cross Hill Rd","29205",33.99288472140514,-80.97533530197711
+"29205","Columbia","SC","Bi-Lo","4464 Devine St","29205",33.991103633309535,-80.97681201430593
+"29206","Columbia","SC","Publix","4840 Forest Dr Ste 10","29206",34.016829098470765,-80.9651030061238
+"29206","Columbia","SC","El Mariachi","1735 Decker Blvd","not_available",34.04447368266133,-80.94214873656036
+"29206","Columbia","SC","Hyundai Oriental Grocery","1807 Decker Blvd #1","29206",34.046392,-80.94335799999999
+"29206","Columbia","SC","Tienda Guadalajara","1807 Decker Blvd","29206",34.04643249511719,-80.9433364868164
+"29206","Columbia","SC","The Fresh Market","4840 Forest Dr,","29206",34.017787,-80.964076
+"29206","Columbia","SC","Dream Dinners","not_available","29206",34.020465,-80.96907357825272
+"29206","Columbia","SC","Asia (아시아) Asian Grocery Store","1943 Decker Blvd","29206",34.048233,-80.944179
+"29206","Columbia","SC","Fort Jackson Commissary","4716 Commissary Way","29207",34.006704280412784,-80.93104561147237
+"29207","Columbia","SC","Food Lion","9003 Two Notch Rd","29223",34.0921630859375,-80.9266128540039
+"29210","Columbia","SC","Indian Grocery Store","125 Outlet Pointe Blvd","29210",34.03099666360896,-81.12435560089287
+"29210","Columbia","SC","Harvey's Supermarket","3315 Broad River Rd","29210",34.05149288701273,-81.10965599087885
+"29301","Spartanburg","SC","Walmart Supercenter","141 Dorman Centre Dr","29301",34.933318278928446,-81.98481917381287
+"29301","Spartanburg","SC","Bi-Lo","2401 Reidville Rd","29301",34.919443702549096,-81.99370459866955
+"29301","Spartanburg","SC","Ingles Market","8004 Warren H Abernathy Hwy","29301",34.93629032973945,-82.00450359454062
+"29301","Spartanburg","SC","Lidl Spartanburg West Side","8180 Warren H Abernathy Highway","29301",34.93665899,-82.00784089
+"29301","Spartanburg","SC","ALDI","150 E Blackstock Rd Ste B","29301",34.93179358141293,-81.99058200000002
+"29301","Spartanburg","SC","The Breeze SC Events, LLC","112 Metro Dr","29303",34.9769947,-81.9501252
+"29301","Spartanburg","SC","Wise Buys Discount Groceries","369B Whitney Rd","29303",34.9726432346694,-81.93854570388794
+"29301","Spartanburg","SC","Food Lion","2430 Reidville Rd","29301",34.920799255371094,-81.99527740478516
+"29301","Spartanburg","SC","Wise Buys","not_available","29303",34.974125,-81.935394
+"29301","Spartanburg","SC","European Market","8149 Warren H Abernathy Hwy","29301",34.934818,-82.005914
+"29302","Spartanburg","SC","Walmart Neighborhood Market","203 Cedar Springs Road","29302",34.920902,-81.88437799999997
+"29302","Spartanburg","SC","Ingles Market","2000 S Pine St","29302",34.932833421983766,-81.89411718242873
+"29302","Spartanburg","SC","Save-A-Lot","550 S Church St","29306",34.93806838989258,-81.92943572998047
+"29302","Spartanburg","SC","Hub City Co-op Market","not_available","29306",34.95180959661949,-81.92917633484527
+"29302","Spartanburg","SC","Bi-Lo","Hwy 295","29302",34.922192536408865,-81.88900505724163
+"29303","Spartanburg","SC","Publix","1905 E Main St","29307",34.96771484411742,-81.89092228941243
+"29303","Spartanburg","SC","Ingles Market","8620 Asheville Hwy.","29316",35.001799802261225,-82.00430443835052
+"29303","Spartanburg","SC","Ingles Market","2120 Boiling Springs Rd","29316",35.022937117137225,-81.96239915753782
+"29303","Spartanburg","SC","ALDI","1605 E Main St","29307",34.96390073506391,-81.89741536974907
+"29303","Spartanburg","SC","The Fresh Market","1200 E Main St,","29307",34.963474,-81.901372
+"29303","Spartanburg","SC","Ingles Market","2375 Chesnee Hwy","29303",35.026949852323355,-81.89710279173377
+"29303","Spartanburg","SC","foodlion","95 Garner Rd","29303",34.967491149902344,-81.93106842041016
+"29303","Spartanburg","SC","Battambang Market","8038 Asheville Hwy","29303",34.992374420166016,-81.99295043945312
+"29303","Spartanburg","SC","Garner's Natural Foods","not_available","29307",34.96717139080326,-81.89269971880519
+"29303","Spartanburg","SC","Save A Lot","11090 Asheville Hwy","29349",35.038482666015625,-82.0748291015625
+"29303","Spartanburg","SC","Bi-Lo","100 N Town Dr","29303",34.98315834627631,-81.96861893675215
+"29303","Spartanburg","SC","Bi-Lo","140 Fernwood Dr","29307",34.96804704863117,-81.89412818354036
+"29307","Spartanburg","SC","Walmart Supercenter","2151 E Main St","29307",34.97295972752588,-81.87754154205322
+"29307","Spartanburg","SC","Ingles Market","2795 E Main St","29307",34.98023697207265,-81.86767272882898
+"29316","Boiling Springs","SC","Walmart Supercenter","4000 Hwy #9","29316",35.05256275275242,-81.98622465133667
+"29316","Boiling Springs","SC","Ingles Market","4600 Highway 9","29349",35.06428067830817,-81.99875404406346
+"29316","Boiling Springs","SC","ALDI","4031 Highway 9","29316",35.050779,-81.9886802
+"29316","Boiling Springs","SC","Bi-Lo","3720 Boiling Springs Rd","29316",35.0478068556216,-81.98260804957592
+"29316","Boiling Springs","SC","European Market","not_available","29349",35.072785,-82.017206
+"29322","Campobello","SC","Bi-Lo","1750 Highway 14 E","29356",35.17970517454735,-82.1619130023417
+"29322","Campobello","SC","Ingles","1851 Highway 14 E","29356",35.18304131339646,-82.16106994056601
+"29322","Campobello","SC","inman bilos","not_available","29322",35.07182312011719,-82.17781829833984
+"29322","Campobello","SC","Ingles","Hwy 9 lake bowen","29349",35.13325485324366,-82.02519860464282
+"29323","Chesnee","SC","Bi-Lo","712 S Alabama Ave","29323",35.136578223917425,-81.86256875448967
+"29325","Clinton","SC","Ingles in Clinton","312 Jacobs Hwy","29325",34.44797181471532,-81.87481641769409
+"29325","Clinton","SC","Bi-Lo","927 S Broad St","29325",34.4561954282352,-81.87830053025839
+"29334","Duncan","SC","Publix","2153 E Main St Ste B9","29334",34.88829762007003,-82.06723428235979
+"29334","Duncan","SC","Bi-Lo","12189 Greenville Hwy","29365",34.95394530468229,-82.12806236960033
+"29334","Duncan","SC","Ingles Market","2150 E Main St","29334",34.88711524086561,-82.07130397101075
+"29334","Duncan","SC","Bi-lo","Wade Hampton","29651",34.95453643333333,-82.1706059
+"29334","Duncan","SC","Grand Foodstuff","Main St","29334",34.937466,-82.140919
+"29334","Duncan","SC","Neel Food Mart","not_available","29334",34.95447142803939,-82.16851557755972
+"29334","Duncan","SC","Food Lion","not_available","29385",34.936800913492135,-82.13696175063629
+"29340","Gaffney","SC","ALDI","1560 W Floyd Baker Blvd","29341",35.092442902081146,-81.6620837228129
+"29340","Gaffney","SC","Walmart Supercenter","165 Walton Dr","29341",35.08740147118068,-81.66569089875784
+"29340","Gaffney","SC","Ingles","W. Floyd Baker Blvd.","29341",35.09243579713177,-81.664986892103
+"29340","Gaffney","SC","Bi-Lo","1013 W Floyd Baker Blvd","29341",35.08212248030911,-81.6576844458262
+"29349","Inman","SC","Bi-Lo","11153 Asheville Hwy","29349",35.03707660004044,-82.07801154254635
+"29353","Jonesville","SC","M&R Grocery","100-198 S Main St","29353",34.835686233333334,-81.68097243333334
+"29353","Jonesville","SC","L&M Grocery Store","672-698 S Main St","29353",34.83716531643243,-81.68125609853362
+"29353","Jonesville","SC","Jonesville Mini Mart","Forrest St","29353",34.8290085,-81.69737728333334
+"29360","Laurens","SC","Walmart Supercenter","922 E Main St","29360",34.48988630273286,-81.98349280021182
+"29360","Laurens","SC","Ingles","901 E Main St","29360",34.49443838339809,-81.98313515176693
+"29360","Laurens","SC","Bi-Lo","1518 West Main Street","29360",34.5008478002706,-82.04948562220089
+"29360","Laurens","SC","Save A Lot","917 E Main St","29360",34.4936063,-81.9788783
+"29360","Laurens","SC","Food Lion","241 Hillcrest Dr","29360",34.504019,-82.015182
+"29360","Laurens","SC","ALDI","401 Exchange Dr","29360",34.4958108,-81.9849345
+"29360","Laurens","SC","Save A Lot","E Main St","29360",34.479613000718174,-82.01273837077996
+"29365","Lyman","SC","Bi-Lo","14154 E Wade Hampton Blvd","29651",34.94855867793949,-82.2120292011733
+"29365","Lyman","SC","Walmart Grocery Pickup","14055 E Wade Hampton Blvd","29651",34.947366,-82.20728
+"29379","Union","SC","Walmart Supercenter","513 N Duncan Byp","29379",34.727524995010164,-81.64170334865274
+"29379","Union","SC","Fresh Air Galaxy","not_available","29379",34.71587962324855,-81.60620129710345
+"29379","Union","SC","Save-A-Lot","410 E North Duncan Bypass","29379",34.720973982122054,-81.63880799309034
+"29388","Woodruff","SC","Bi-Lo","351 S Main St","29388",34.736738938828836,-82.03358292229781
+"29401","Charleston","SC","Publix","10 WestEdge","29403",32.786533,-79.955795
+"29401","Charleston","SC","Harris Teeter","290 E Bay St","29401",32.78456691687496,-79.92842920725823
+"29401","Charleston","SC","J & W Grocery","28 Pitt St","29401",32.781611084168,-79.93933839711781
+"29401","Charleston","SC","Vegetable bin","not_available","29401",32.78540627244155,-79.92870380268879
+"29401","Charleston","SC","Spring Market","96 Spring St","29403",32.791055,-79.946058
+"29401","Charleston","SC","Coming Street Grocery","72-74 Spring St.","29403",32.79152355179003,-79.9434833559344
+"29401","Charleston","SC","King Market","King Street","not_available",32.791094,-79.940339
+"29403","Charleston","SC","Us Foods Chef’store","1510 Meeting Street Rd","29405",32.81827926635742,-79.95037841796875
+"29403","Charleston","SC","Five Star Deli & Grocery","614 Rutledge Ave","29403",32.7982,-79.95071300000001
+"29404","Charleston Afb","SC","Charleston AFB Commissary","103 Lawson Dr","29404",32.89312161104994,-80.06955777425483
+"29404","Charleston Afb","SC","African Market Groceries","6585 Dorchester Rd","29418",32.8801155090332,-80.06505584716797
+"29404","Charleston Afb","SC","Spinx","6899 Rivers Ave","29406",32.92008972167969,-80.03057861328125
+"29405","North Charleston","SC","Walmart Supercenter","4920 Centre Pointe Dr","29418",32.87746249939209,-80.0180477049804
+"29405","North Charleston","SC","Publix","1401 Sam Rittenberg Blvd","29407",32.8145066781794,-79.99538453084038
+"29405","North Charleston","SC","H&L Asian Market","5300 Rivers Ave","29406",32.89114467819683,-80.01077370929852
+"29405","North Charleston","SC","Save-A-Lot","4411 Durant Ave","29405",32.8729282037452,-79.9955433948854
+"29405","North Charleston","SC","BI-LO","1200 Sam Rittenberg Blvd","29407",32.81669854785885,-79.99554578237287
+"29405","North Charleston","SC","Save-A-Lot","5060 Dorchester Rd Unit 360","29418",32.85807800292969,-80.03447723388672
+"29405","North Charleston","SC","Euro Foods Bakery & Cafe","not_available","29407",32.81588,-79.99328
+"29405","North Charleston","SC","Jelisco","5335 Dorchester Rd","29418",32.857191,-80.044776
+"29405","North Charleston","SC","BiLo","4391 Dorchester Rd","29405",32.85327725991102,-80.01032800322928
+"29405","North Charleston","SC","East Montague Supermarket","1910 E Montague Ave","29405",32.880130767822266,-80.00191497802734
+"29405","North Charleston","SC","India Spice","1694 Old Towne Rd","29407",32.81651306152344,-79.99331665039062
+"29405","North Charleston","SC","Lucky Oriental Market","5341 Dorchester Rd","29418",32.85662616081038,-80.04411220550537
+"29406","Charleston","SC","Walmart Supercenter","7400 Rivers Ave","29406",32.93921639873784,-80.03617882461359
+"29406","Charleston","SC","Charleston NWS Commissary","1797 Red Bank Rd Bldg 764","29445",32.966469102896795,-79.98807559518193
+"29406","Charleston","SC","Walmart Neighborhood Market","1635 Red Bank Road","29445",32.96965336836793,-80.00327613607361
+"29406","Charleston","SC","Piggly Wiggly","8780-A Rivers Ave","29406",32.96756481469382,-80.04387058012684
+"29406","Charleston","SC","Super Bi-Lo","1000 Tanner Ford Blvd","29410",32.9346606712046,-79.99883712416741
+"29406","Charleston","SC","Food Lion","1213 Remount Rd","29406",32.901817155541764,-79.98657353630009
+"29406","Charleston","SC","ALDI","7620 Rivers Ave Ste 100","29406",32.9427812,-80.0399404
+"29406","Charleston","SC","Piggly Wiggly","1270 Yeamans Hall Rd","29410",32.901373,-80.011096
+"29406","Charleston","SC","Brazilian Market","not_available","29445",32.98646126209467,-80.03302777638001
+"29406","Charleston","SC","Bi Lo","remount road","29406",32.9003652212438,-80.01135993989529
+"29406","Charleston","SC","pricewise Foods","not_available","29406",32.905670065671266,-80.00726488093198
+"29406","Charleston","SC","Bi Lo","Goose Creek","not_available",32.98170501933339,-80.05989077260521
+"29406","Charleston","SC","Doscher’s IGA-Hanahan","1750 Remount Rd","29406",32.90100860595703,-80.00871276855469
+"29407","Charleston","SC","Harris Teeter","1812 Sam Rittenberg Blvd.","29407",32.802504158808446,-80.01930966748559
+"29407","Charleston","SC","Whole Foods Market","1125 Savannah Highway","29407",32.782899261577896,-79.99617111185597
+"29407","Charleston","SC","Harris Teeter","975 Savannah Hwy Suite 135","29407",32.78117545578738,-79.98957256183992
+"29407","Charleston","SC","Earth Fare","74 Folly Road Blvd","29407",32.77658043056371,-79.97477132019822
+"29407","Charleston","SC","Piggly Wiggly","630 Skylark Dr","29407",32.791198,-80.02887
+"29407","Charleston","SC","Doscher’s IGA-Charleston","1133 Savannah Hwy","29407",32.78304570079756,-79.99701546754686
+"29407","Charleston","SC","Doscher’s IGA - Charleston","Savannah Hwy","not_available",32.783725595729784,-79.99501131217858
+"29407","Charleston","SC","Nelli Grocery Indian Spices & Vegetables","1901 Ashley River Rd","29407",32.8058,-80.022483
+"29412","Charleston","SC","Walmart Supercenter","1231 Folly Rd","29412",32.72100807250057,-79.96794099708228
+"29412","Charleston","SC","Merchant's Village","not_available","29412",32.7537846,-79.9713202
+"29412","Charleston","SC","Bert's Market","202 E. Ashley Ave.","29439",32.65661230560963,-79.93849744743808
+"29412","Charleston","SC","Super Bi-Lo","860 Folly Rd","29412",32.73665602691472,-79.96577964854255
+"29412","Charleston","SC","Publix","1411 Folly Rd Ste 100","29412",32.714317321777344,-79.96682739257812
+"29412","Charleston","SC","Harris Teeter","1985 Folly Rd","29412",32.68600301689167,-79.9609311729915
+"29412","Charleston","SC","Publix","520 Folly Rd","29412",32.75354551167739,-79.97131507403164
+"29412","Charleston","SC","Harris Teeter","675 Folly Rd","29412",32.746318083005335,-79.97148416690179
+"29412","Charleston","SC","Harris Teeter","1739 Maybank Highway","29412",32.76196021657189,-79.97667683350538
+"29412","Charleston","SC","Harris Teeter","1005 Harborview Rd","29412",32.74262164,-79.93646825
+"29412","Charleston","SC","Li'l Cricket","1029 Harbor View Rd","29412",32.74338268792336,-79.93811120946575
+"29412","Charleston","SC","Camp Market","1238 Camp Rd","29412",32.72804641723633,-79.94923400878906
+"29414","Charleston","SC","Walmart Supercenter","3951 W Ashley Cir","29414",32.821587452092224,-80.08133053779602
+"29414","Charleston","SC","Publix","3642 Savannah Hwy Ste 132","29455",32.80507009228035,-80.11154294013977
+"29414","Charleston","SC","Harris Teeter","3865 West Ashley Circle","29414",32.826475,-80.084621
+"29414","Charleston","SC","Lowes Foods West Ashley","3125 Bees Ferry Rd","29414",32.842276,-80.059159
+"29414","Charleston","SC","Piggly Wiggly","North Park Ext","29406",32.896572987530696,-80.09676603509163
+"29418","North Charleston","SC","Publix","8409 Dorchester Rd Ste 104","29420",32.91323998799518,-80.10946221881933
+"29418","North Charleston","SC","Piggly Wiggly","5101 Ashley Phosphate Rd","29418",32.91472006222618,-80.10457992553711
+"29418","North Charleston","SC","Panaderia Tlaxcalita","not_available","29420",32.920296,-80.100647
+"29420","North Charleston","SC","Harris Teeter","9500 Dorchester Rd","29485",32.93587634994437,-80.14038025865592
+"29420","North Charleston","SC","maliko's kennel","not_available","29485",32.938807,-80.150466
+"29420","North Charleston","SC","Wilsondebriano, Chevalo","4206 Sawgrass Dr","29420",32.939523,-80.112229
+"29426","Adams Run","SC","Elijahs","not_available","29449",32.69824814490137,-80.34837401327742
+"29429","Awendaw","SC","Publix","1125 Park West Blvd","29466",32.87379428584296,-79.77912418983311
+"29429","Awendaw","SC","Walmart Supercenter","3000 Proprietors Pl","29466",32.861786564586815,-79.78801651660537
+"29429","Awendaw","SC","Food Lion","3365 S Morgans Point Rd","29466",32.873647616666666,-79.77163288333334
+"29431","Bonneau","SC","Walmart Supercenter","511 N Highway 52","29461",33.21003879,-79.98549777
+"29431","Bonneau","SC","Spinx","426 N Hwy 52","29461",33.204370000000004,-79.986901
+"29437","Dorchester","SC","Vaughan's","N Main St","29472",33.09412197877542,-80.31547582421459
+"29438","Edisto Island","SC","Woodmans","1099 S Grand Ave","53590",32.52850646283234,-80.22650241851807
+"29440","Georgetown","SC","Lowes Foods","9160 Ocean Hwy","29585",33.42830357793653,-79.14654847360248
+"29440","Georgetown","SC","Walmart Supercenter","1310 N Fraser St","29440",33.39353936865024,-79.28718338938762
+"29440","Georgetown","SC","Piggly Wiggly","1620 Highmarket St","29440",33.37564673573543,-79.29137103297285
+"29440","Georgetown","SC","piggly wiggly","not_available","29440",33.39375305175781,-79.2870864868164
+"29440","Georgetown","SC","Piggly Wiggly","12 W Ashland St","29510",33.45500183105469,-79.56095123291016
+"29445","Goose Creek","SC","Walmart Supercenter","605 Saint James Ave","29445",33.03377975,-80.06419659
+"29445","Goose Creek","SC","Publix","208 Saint James Ave Ste C","29445",33.00652036934639,-80.04292366797769
+"29445","Goose Creek","SC","Walmart Neighborhood Market","215 St James Avenue","29445",33.0080693162506,-80.04673854474011
+"29445","Goose Creek","SC","Bi-Lo","142 Saint James Ave","29445",33.00321540721532,-80.04137461560565
+"29445","Goose Creek","SC","Save-A-Lot","205 N Goose Creek Blvd","29445",33.00299542604913,-80.03873369376383
+"29446","Green Pond","SC","Bi-Lo","2127 Boundary St","29902",32.443680181681344,-80.69102961252756
+"29449","Hollywood","SC","Piggly Wiggly","6251 Highway 162","29449",32.734086,-80.23745500000001
+"29451","Isle Of Palms","SC","Harris Teeter","1513 Palm Blvd","29451",32.78956274711482,-79.786901734108
+"29451","Isle Of Palms","SC","Marina Market","50 41st Ave","29451",32.80513670981649,-79.75958781569862
+"29451","Isle Of Palms","SC","Boone Hall Farms","2521 N Highway 17","29466",32.85103254006972,-79.80511913974152
+"29455","Johns Island","SC","Village Market by Harris Teeter","515 Freshfields Dr # F-100","29455",32.6068153810814,-80.14772011797481
+"29455","Johns Island","SC","Harris Teeter Village Market","515 Freshfields Dr","29455",32.60703857,-80.14814
+"29455","Johns Island","SC","BI-LO","3575 Maybank Hwy","29455",32.72110870905123,-80.07894533850504
+"29456","Ladson","SC","Walmart Supercenter","1317 N Main St Ste A1","29483",33.03524967290826,-80.15362739020776
+"29456","Ladson","SC","Walmart Neighborhood Market","not_available","29456",32.97920167594979,-80.12845534453983
+"29456","Ladson","SC","Walmart Supercenter","9880 Dorchester Rd","29485",32.949877385166076,-80.1553716768278
+"29456","Ladson","SC","Publix","1575 Old Trolley Rd","29485",32.96671784431062,-80.16627885973944
+"29456","Ladson","SC","Piggly Wiggly","9616 Highway 78","29456",32.98967742919922,-80.0984115600586
+"29456","Ladson","SC","Earth Fare","1101 N Main St","29483",33.03192122300008,-80.16286688204383
+"29456","Ladson","SC","ALDI","10015 Dorchester Rd","29485",32.9512726,-80.1642908
+"29456","Ladson","SC","Walmart Neighborhood Market","3685 Ladson Road","29456",32.978824615478516,-80.12824249267578
+"29456","Ladson","SC","Food Lion","Ladson Road","29485",32.98749231591076,-80.1521065613215
+"29461","Moncks Corner","SC","Publix","1724 State Rd","29486",33.10615009192388,-80.12559961124538
+"29461","Moncks Corner","SC","Bi-Lo","1625 N Main St","29486",33.03946166456066,-80.13756342770425
+"29461","Moncks Corner","SC","Bi-Lo","110 S Hwy 52","29461",33.18938500463045,-79.99640374638983
+"29461","Moncks Corner","SC","Piggly Wiggly","404 N Cedar St","29483",33.02595046748948,-80.1740460638401
+"29461","Moncks Corner","SC","ALDI","1001 N Main St","29483",33.0310771,-80.1664984
+"29461","Moncks Corner","SC","Piggly Wiggly","100 W Main St","29461",33.19655401340747,-80.0135925996185
+"29461","Moncks Corner","SC","Spinx","2160 N Main St","29486",33.0470171,-80.1094327
+"29464","Mount Pleasant","SC","Walmart Supercenter","1481 N Highway 17","29464",32.81436010391853,-79.84502784650545
+"29464","Mount Pleasant","SC","Trader Joe's","401 Johnnie Dodds Blvd","29464",32.80497476857283,-79.8873028233433
+"29464","Mount Pleasant","SC","Whole Foods Market","923 Houston Northcutt Blvd","29464",32.802582671827004,-79.88930293193171
+"29464","Mount Pleasant","SC","Publix","1000 Johnnie Dodds Blvd Ste 106","29464",32.81333381998568,-79.86753934973132
+"29464","Mount Pleasant","SC","Publix","1435 Ben Sawyer Blvd","29464",32.79181349798715,-79.85445037035517
+"29464","Mount Pleasant","SC","Publix","162 Seven Farms Dr Ste 100","29492",32.86340925686759,-79.90371826661936
+"29464","Mount Pleasant","SC","Harris Teeter","2195 Tea Planter Ln","29466",32.83958056757336,-79.81688290383227
+"29464","Mount Pleasant","SC","Harris Teeter","1220 Ben Sawyer Blvd Suite C","29464",32.7952194637205,-79.85978523222914
+"29464","Mount Pleasant","SC","Harris Teeter","920 Houston Northcutt Blvd","29464",32.802024853162166,-79.89153614755581
+"29464","Mount Pleasant","SC","Harris Teeter","1981 Riviera Dr","29464",32.820883106219114,-79.81571152528501
+"29464","Mount Pleasant","SC","Harris Teeter","620 Long Point Rd.","29464",32.839941291141635,-79.85671743972375
+"29464","Mount Pleasant","SC","ALDI","613 Johnnie Dodds Blvd","29464",32.8062633,-79.8814738
+"29464","Mount Pleasant","SC","GreenWise Market","1720 Shoremeade Road","29464",32.828256,-79.836735
+"29464","Mount Pleasant","SC","GreenWise Market Mount Pleasant Demo #2","1720 Shoremeade Road","not_available",32.8308264,-79.8368299
+"29464","Mount Pleasant","SC","Indigo Square","US 17 and NC 517","29464",32.8280973,-79.8366796
+"29464","Mount Pleasant","SC","Whole Foods","New Parrish Way","29464",32.80631652599151,-79.86298534466435
+"29464","Mount Pleasant","SC","Bilo","not_available","29464",32.79269151934339,-79.81421381760602
+"29466","Mount Pleasant","SC","Lowes Foods #265 Mt Pleasant","2110 SC Highway 41","not_available",32.9055438,-79.82360799999998
+"29466","Mount Pleasant","SC","Harris Teeter","2035 Hwy 41","29466",32.897992767615264,-79.82132369120059
+"29471","Reevesville","SC","Shumans","not_available","29477",33.196634429002785,-80.62091616060756
+"29472","Ridgeville","SC","Walmart Neighborhood Market","10635 Dorchester Road","29485",32.967601010603794,-80.20359796309837
+"29472","Ridgeville","SC","Bi-Lo","975 Bacons Bridge Rd","29485",32.99638163202668,-80.18431402727946
+"29472","Ridgeville","SC","Publix","1585 Central Ave Unit A","29483",33.011770874063366,-80.23490292481134
+"29472","Ridgeville","SC","Spinx","10696 Dorchester Rd","29485",32.97042,-80.20865
+"29472","Ridgeville","SC","Walmart Neighborhood Market","1616 Central Ave","29483",33.01204133334607,-80.23968549018886
+"29472","Ridgeville","SC","Spell's Grocery","not_available","29483",33.02984048463834,-80.19496286503865
+"29472","Ridgeville","SC","God's Green Acre","1240 Central Ave Unit C","29483",33.01735292710693,-80.21387714595336
+"29472","Ridgeville","SC","Mr K's Piggly Wiggly","1605 Central Ave","29483",33.01066161443908,-80.23835216073023
+"29472","Ridgeville","SC","Bi-Lo","Bacon's Bridge Road","29483",32.97021365733404,-80.1875746290809
+"29472","Ridgeville","SC","Bi-Lo","1452 Boone Hill Rd","29483",32.98894940591439,-80.22487665040678
+"29472","Ridgeville","SC","Spinx","930 W 5th North Street","29483",33.03361892700195,-80.18814086914062
+"29475","Ruffin","SC","BiLo","not_available","29488",33.042959083333336,-80.78585356666666
+"29477","Saint George","SC","Reid's","5982 W Jim Bilton Blvd","29477",33.196044921875,-80.59928894042969
+"29479","Saint Stephen","SC","St. Stephen IGA","3931 Byrnes Dr.","29479",33.406951904296875,-79.92524719238281
+"29482","Sullivans Island","SC","The Co-Op","2019 Middle St","29482",32.76096744114358,-79.84035054027187
+"29483","Summerville","SC","Bi-Lo","10150 Dorchester Rd","29485",32.95378979,-80.16771376132965
+"29488","Walterboro","SC","Walmart Supercenter","2110 Bells Hwy","29488",32.93411558,-80.68999968
+"29488","Walterboro","SC","BI-LO","550 Robertson Blvd","29488",32.92065949952696,-80.66822462833206
+"29488","Walterboro","SC","Save-A-Lot","299 Bells Hwy","29488",32.91649627685547,-80.67449951171875
+"29492","Charleston","SC","Publix","730 Hopewell Dr","29492",32.921854,-79.870749
+"29501","Florence","SC","Walmart Supercenter","230 N Beltline Dr","29501",34.193331625636546,-79.82121775956631
+"29501","Florence","SC","Harris Teeter","1930 W Palmetto St","29501",34.1881575324091,-79.80563808235736
+"29501","Florence","SC","Piggly Wiggly","1945 W Palmetto St","29501",34.1887774560933,-79.80956972252838
+"29501","Florence","SC","Walmart Neighborhood Market","804 S. Cashua Drive","29501",34.174788307390465,-79.81109060859379
+"29501","Florence","SC","Walmart Supercenter","2014 S Irby St","29505",34.15512416,-79.7653985
+"29501","Florence","SC","ALDI","2367 David H McLeod Blvd","29501",34.1898804,-79.823111
+"29501","Florence","SC","Food Lion","not_available","29505",34.161068,-79.75908
+"29501","Florence","SC","Walmart Supercenter","251 Andover Place","29532",34.28542526393812,-79.85677209644096
+"29501","Florence","SC","ALDI","1814 S Irby St","29505",34.15881746942999,-79.76578742265701
+"29501","Florence","SC","chinatown market","1358 S Irby St, Florence, SC 29505","29505",34.16918182373047,-79.76386260986328
+"29501","Florence","SC","Healthy Food Store","2051 Elijah Ludd Rd #3","29501",34.19278431040179,-79.80383237935293
+"29501","Florence","SC","Piggly Wiggly","221 Cherokee Rd","29501",34.18393599963039,-79.7683061817729
+"29501","Florence","SC","Food Lion","500 Pamplico Hwy","29505",34.161678314208984,-79.7580795288086
+"29501","Florence","SC","KJ's Market IGA","2300 Pamplico Hwy","29505",34.14557066562386,-79.72978089628452
+"29511","Aynor","SC","Clover Farm Store","not_available","29544",34.009268062760874,-79.0222829844069
+"29511","Aynor","SC","IGA","715 South Main Street","29411",33.998940000000005,-79.202702
+"29511","Aynor","SC","Trévo By Kellie","1896 Dixon Road","29511",33.985535,-79.1385279
+"29512","Bennettsville","SC","Walmart Supercenter","1250 Bennettsville Square, Hwy 9 West","29512",34.63903772177103,-79.70414638217399
+"29520","Cheraw","SC","Walmart Supercenter","1040 Chesterfield Hwy","29520",34.70072474,-79.93091958
+"29520","Cheraw","SC","Cheraw IGA","not_available","29520",34.68792429255964,-79.89808216975854
+"29526","Conway","SC","Walmart Supercenter","151 Myrtle Ridge Dr","29526",33.777778456638956,-78.98905980122841
+"29526","Conway","SC","Publix","7925 N Kings Hwy","29572",33.75074217573548,-78.81563753400815
+"29526","Conway","SC","Lowes Foods","215 International Dr.","29579",33.759675935647955,-78.85523143184076
+"29526","Conway","SC","Publix Supermarket","2170 Oakheart Rd","29579",33.75882455609746,-78.95902598959483
+"29526","Conway","SC","Walmart Supercenter","2709 Church St Ste A","29526",33.85800547750259,-79.09119562761234
+"29526","Conway","SC","Kroger","3735 Renee Dr","29579",33.760744,-78.9663302
+"29526","Conway","SC","Kroger","9610 N Kings Hwy","29572",33.777031588486864,-78.79310578107834
+"29526","Conway","SC","The Fresh Market","7747 N Kings Hwy,","29572",33.74931038362492,-78.81798612871361
+"29526","Conway","SC","ALDI","101 Wild Wing Blvd","29526",33.783621,-78.989179
+"29526","Conway","SC","Laurie's IGA","1800 Main St","29526",33.852379,-79.05702600000001
+"29526","Conway","SC","Harvey's Supermarket","901 Church St","29527",33.837907,-79.061102
+"29526","Conway","SC","ALDI","2904 Church St","29526",33.862383,-79.0924474
+"29526","Conway","SC","Mount Vernon Farm Market & The Nut House","4008 Highway 366","29569",33.947343,-78.867428
+"29526","Conway","SC","Morelo's","not_available","29526",33.811376,-79.015864
+"29526","Conway","SC","Foodlion","not_available","29527",33.80161017881229,-79.0806000665651
+"29526","Conway","SC","FoodLine","not_available","29579",33.750576853009356,-78.89483266391984
+"29527","Conway","SC","Xplore Enterprises","4230 Old Pee Dee Rd","29554",33.680912017822266,-79.2186279296875
+"29532","Darlington","SC","IGA","207 S Main St","29532",34.301466,-79.869109
+"29536","Dillon","SC","Walmart Supercenter","805 Enterprise Rd","29536",34.43616969,-79.37584408
+"29536","Dillon","SC","Save A Lot","234 Radford Blvd","29536",34.43139720653778,-79.36477436448386
+"29536","Dillon","SC","Latta IGA","412 S Richardson St","29565",34.332820892333984,-79.43415832519531
+"29536","Dillon","SC","Cotton's Meat Center","1320 E Main St, Dillon, SC 29536","29536",34.40971755981445,-79.35843658447266
+"29536","Dillon","SC","Piggly Wiggly","1420 U.S. 301","29536",34.40222868297944,-79.37876938530562
+"29546","Gresham","SC","Nettles IGA","117 E Broadway","29538",33.817878,-79.448746
+"29546","Gresham","SC","KJ's Market","Highway 41","29555",33.81446499757375,-79.44180594765018
+"29546","Gresham","SC","Piggly Wiggly","365 S. Georgetown Highway","29555",33.810832134345446,-79.44382177489899
+"29550","Hartsville","SC","Walmart Supercenter","1150 S 4th St","29550",34.35790785057511,-80.06366140328137
+"29550","Hartsville","SC","Bi-Lo","819 W Carolina Ave","29550",34.366040372498915,-80.09121075248497
+"29550","Hartsville","SC","Hartsville IGA","331 W Carolina Ave","29550",34.371840903595405,-80.0786058875684
+"29550","Hartsville","SC","IGA","1202 N 5th St","29550",34.39457702636719,-80.06830596923828
+"29550","Hartsville","SC","Piggy Wiggly","not_available","29550",34.36406158830389,-80.06825578440409
+"29550","Hartsville","SC","Piggly Wiggly","842 S 5th St","29550",34.363679,-80.068274
+"29556","Kingstree","SC","Bi-Lo","1319 N Longstreet St","29556",33.68020953802059,-79.82887321960139
+"29556","Kingstree","SC","Kingstree IGA","522 E Main St","29556",33.665507102515754,-79.82088513304555
+"29560","Lake City","SC","Piggly Wiggly","not_available","29560",33.881080094621275,-79.7576531243906
+"29560","Lake City","SC","Walmart Grocery Pickup","900 Us 52 Hwy","29560",33.89249038696289,-79.75169372558594
+"29560","Lake City","SC","Lake City IGA","233 Kelley St.","29560",33.87803586044165,-79.75770594902195
+"29566","Little River","SC","Lowes Foods","111 Pavilion Dr","29566",33.89085019798947,-78.59196049068143
+"29566","Little River","SC","Walmart Supercenter","550 Highway 17 N","29582",33.829781814618165,-78.6715583157002
+"29566","Little River","SC","Publix Super Market at Coastal North Town Center","1576 Highway 17 N","29582",33.84225016552849,-78.6584920912036
+"29566","Little River","SC","Kroger","781 Main St","29582",33.826527092560774,-78.67995777865872
+"29566","Little River","SC","Food Lion Grocery Store","1000 Highway 17 N","29582",33.8366238210943,-78.66879340028154
+"29566","Little River","SC","ALDI","244 N Kings Hwy","29582",33.830999,-78.675362
+"29566","Little River","SC","Lowe's Food Of Little River","not_available","29566",33.89115,-78.5917
+"29566","Little River","SC","Boulineau's IGA","212 Sea Mountain Hwy","29582",33.828937331073746,-78.6433450944216
+"29566","Little River","SC","BAY NATURAL","556 Highway 17 N","29582",33.83234786987305,-78.67400360107422
+"29566","Little River","SC","Bi-Lo","720 Main St","29582",33.82686622027302,-78.67745560258554
+"29568","Longs","SC","Walmart Supercenter","10820 Kings Rd","29572",33.7871199762313,-78.7686848028894
+"29568","Longs","SC","Super Bi-Lo at the Beach","3924 Highway 17 S","29582",33.80349801917218,-78.72977614402771
+"29568","Longs","SC","Publics","Coney Drive","29568",33.98418045043945,-78.7419662475586
+"29568","Longs","SC","Griffin's IGA","9052 Highway 90","not_available",33.856630435448686,-78.7578319730754
+"29569","Loris","SC","Loris IGA","3030 Broad Street","29569",34.05055821730385,-78.89516426520234
+"29570","Mc Coll","SC","Walmart Supercenter","901 Us Highway 401 S","28352",34.76205953381291,-79.48366172890073
+"29570","Mc Coll","SC","Big Lots","1664 S Main St Ste B","28352",34.75313287832836,-79.4752630100021
+"29570","Mc Coll","SC","Save A Lot","900 S 401 Bypass Hwy","28352",34.7635762,-79.4794408
+"29570","Mc Coll","SC","Carlie C's","1688 S Main St","28352",34.75273,-79.477486
+"29570","Mc Coll","SC","Save-A-Lot","900 US Hwy 401 S","28352",34.76364899,-79.47986603
+"29570","Mc Coll","SC","Wylies IGA","not_available","29570",34.66718822829601,-79.55298736864547
+"29570","Mc Coll","SC","Save-A-Lot","1681 S Main St","28352",34.752657,-79.476141
+"29571","Marion","SC","Walmart Supercenter","305 Commerce Dr","29574",34.18319278,-79.34472084
+"29571","Marion","SC","Pamplico IGA","S Walnut St","29583",33.98921203613281,-79.56510162353516
+"29571","Marion","SC","Parmar IGA Foodliner","625 S Main St","29571",34.172005250876325,-79.40029394249888
+"29575","Myrtle Beach","SC","Walmart Supercenter","2751 Beaver Run Blvd","29575",33.64739944251928,-78.98100854182138
+"29575","Myrtle Beach","SC","Lowes Foods","1399 S Commons Dr","29588",33.65072696330115,-78.98680362484264
+"29575","Myrtle Beach","SC","Walmart Neighborhood Market","125 Maryport Drive","29575",33.632353037529995,-78.96117901820976
+"29575","Myrtle Beach","SC","Piggly Wiggly","122 Highway 17","29575",33.613732731054945,-78.98112065454848
+"29575","Myrtle Beach","SC","ALDI","2625 Beaver Run Blvd","29575",33.642022,-78.986655
+"29575","Myrtle Beach","SC","Food Lion","1610 Highway 17 S","29575",33.60187454413426,-78.99381387261991
+"29575","Myrtle Beach","SC","J & J Takeaway & Butcher Shop","2464 US-17 BUS","29576",33.59285678,-79.00371644
+"29575","Myrtle Beach","SC","indomaret","Sunrise garden","29575",33.5952899,-78.9922941
+"29575","Myrtle Beach","SC","Lowes Food","not_available","29588",33.65023,-78.998436
+"29576","Murrells Inlet","SC","Lowes Foods","11903 Highway 707","29576",33.58726454614361,-79.05293805115974
+"29576","Murrells Inlet","SC","Kroger","2939 S Highway 17","29576",33.58375310638783,-79.01257753372192
+"29576","Murrells Inlet","SC","Walmart Supercenter","545 Garden City Connector","29576",33.588299600301795,-79.01158179999479
+"29576","Murrells Inlet","SC","Publix Food & Pharmacy","not_available","29576",33.586137,-79.054329
+"29576","Murrells Inlet","SC","Walmart Neighborhood Market","11980 Highway 17 Bypass","29576",33.5840109859475,-79.02852651352855
+"29576","Murrells Inlet","SC","Bi-Lo","4430 Highway 17","29576",33.553892971340645,-79.0467899139623
+"29577","Myrtle Beach","SC","Walmart Neighborhood Market","3650 Walton Drive","29577",33.68452109878337,-78.95732886637585
+"29577","Myrtle Beach","SC","Walmart Supercenter","541 Seaboard St","29577",33.70297150222516,-78.91201202339877
+"29577","Myrtle Beach","SC","Walmart Neighborhood Market","3915 N Kings Hwy","29577",33.71728378284946,-78.85651135261668
+"29577","Myrtle Beach","SC","Walmart Neighborhood Market","1705 South Kings Hwy","29577",33.67370335358125,-78.90454888343811
+"29577","Myrtle Beach","SC","Food Lion","1241 38th Ave N","29577",33.7248574,-78.8694708
+"29577","Myrtle Beach","SC","Cj's Variety Store And Big Ray's Meat","1705 N Kings Hwy","29577",33.69995,-78.87544
+"29577","Myrtle Beach","SC","Piggly Wiggly","1700 North Kings Hwy","29577",33.69968714935177,-78.87479705207681
+"29577","Myrtle Beach","SC","Pulaski Deli & European Market","27th Ave. North","29577",33.707496143519926,-78.86491206327896
+"29577","Myrtle Beach","SC","Cash Grocery","not_available","29577",33.6889762878418,-78.88327026367188
+"29577","Myrtle Beach","SC","Al's Food Mart","1500 Highway 15","29577",33.691525,-78.91376600000001
+"29577","Myrtle Beach","SC","Hong Kong Supermarket","614 Broadway St","29577",33.69306828633162,-78.88710948348675
+"29585","Pawleys Island","SC","Publix Food & Pharmacy","10225 Ocean Hwy","29585",33.438242600778224,-79.13153163227678
+"29585","Pawleys Island","SC","The Fresh Market","11421-A Ocean Hwy","29585",33.45020193063674,-79.12014044085035
+"29585","Pawleys Island","SC","BI-LO","115 Willbrook Blvd","29585",33.483440239672184,-79.09866632094658
+"29588","Myrtle Beach","SC","BI-LO","5020 Dick Pond Rd","29588",33.67410379651073,-78.9983397986189
+"29588","Myrtle Beach","SC","Food Lion Grocery Store","5413 Dick Pond Rd","29588",33.68151553697899,-79.00151304770282
+"29588","Myrtle Beach","SC","Oriental Food Market","4501 Socastee Blvd","29588",33.684025,-78.993298
+"29601","Greenville","SC","Harris Teeter","1720 Augusta St.","29605",34.82690133447978,-82.39929203151478
+"29601","Greenville","SC","Publix","400 E McBee Ave Ste 100","29601",34.84768421993871,-82.39525823685513
+"29601","Greenville","SC","Harris Teeter","100 Wade Hampton Blvd.","29609",34.86107886,-82.38564998
+"29601","Greenville","SC","Spinx","1414 E Washington St Ste N","29607",34.85099873466658,-82.37981285320294
+"29601","Greenville","SC","BI-LO","505 N Main St Ste A","29601",34.858041546681726,-82.39634835769718
+"29601","Greenville","SC","Save-A-Lot","1 E Stone Ave","29609",34.861911,-82.39364
+"29601","Greenville","SC","Brolo","not_available","29601",34.85821371732466,-82.39624222249611
+"29601","Greenville","SC","Drop-In Store","709 N Main St","29609",34.8622374762261,-82.39421670012901
+"29605","Greenville","SC","Publix","235 S Pleasantburg Dr","29607",34.83633133748763,-82.36470843880697
+"29605","Greenville","SC","Super Bi-Lo","101 Verdae Blvd","29607",34.8207478158857,-82.33817219666714
+"29605","Greenville","SC","BI-LO","6 K Mart Plz","29605",34.81879621682232,-82.41964378707274
+"29605","Greenville","SC","Ingles Market","7616 Augusta Rd","29673",34.72025877976238,-82.38835457639046
+"29605","Greenville","SC","ALDI","100 Chalmers Rd","29605",34.798235025337945,-82.37567335367203
+"29605","Greenville","SC","Bilo","not_available","29607",34.833749129556494,-82.32488077727943
+"29605","Greenville","SC","BI-LO","494 S Pleasantburg Dr","29607",34.8321418762207,-82.37042236328125
+"29605","Greenville","SC","Marita Bakery Outlet Store","979 Mauldin Rd","29607",34.77554702758789,-82.3407974243164
+"29605","Greenville","SC","BI-LO","1315 S Pleasantburg Dr","29605",34.802431053083026,-82.37490542997244
+"29607","Greenville","SC","Walmart Supercenter","1451 Woodruff Rd","29607",34.82282273,-82.28214741
+"29607","Greenville","SC","Whole Foods Market","1140 Woodruff Road","29607",34.8258097859166,-82.30077690276892
+"29607","Greenville","SC","Publix","215 Pelham Rd","29615",34.8676583037608,-82.34714220812216
+"29607","Greenville","SC","Lidl","1866 Woodruff Road","29607",34.81911982,-82.26626613
+"29607","Greenville","SC","Publix","111 W Butler Rd","29662",34.77714932007805,-82.31014619249534
+"29607","Greenville","SC","The Fresh Market","27 S Pleasantburg Dr, Ste 10","29607",34.841501,-82.362815
+"29607","Greenville","SC","Walmart Neighborhood Market","115 Highway 14","29681",34.75747904598364,-82.26704617883716
+"29607","Greenville","SC","Walmart Supercenter","3925 Pelham Rd","29615",34.86172378400864,-82.26409363641382
+"29607","Greenville","SC","BI-LO","3715 E North St","29615",34.87403866665375,-82.32818828272606
+"29607","Greenville","SC","CVS pharmacy","2401 E North St","29615",34.8691486771403,-82.35802743005796
+"29607","Greenville","SC","Publix","1750 Woodruff Rd","29607",34.81853376276233,-82.27176846616054
+"29607","Greenville","SC","Ingles","116 -1 W Butler Rd","29662",34.77799500629559,-82.31336793530937
+"29607","Greenville","SC","Super BI-LO","3619 Pelham Rd","29615",34.86125026545373,-82.26860818578301
+"29607","Greenville","SC","BI-LO","2435 E North St","29615",34.869991545378056,-82.35553813239655
+"29607","Greenville","SC","Earth Fare","3620 Pelham Rd","29615",34.858790406784664,-82.26833836805343
+"29607","Greenville","SC","Trader Joe's","59 Woodruff Industrial Ln","29607",34.829382474310506,-82.30536121840044
+"29607","Greenville","SC","BI-LO","253 W Butler Rd","29662",34.7758705416219,-82.3130118342301
+"29607","Greenville","SC","Publix","411 The Pkwy","29650",34.871505699872884,-82.25588670522593
+"29607","Greenville","SC","Sprouts Farmers Market","2200 Woodruff Rd","29681",34.8185272,-82.255383
+"29607","Greenville","SC","The Fresh Market","1601 Woodruff Rd, Ste E","29607",34.82056370896143,-82.27714126254912
+"29607","Greenville","SC","Super BI-LO","120 Highway 14","29681",34.75576641118768,-82.26583595955793
+"29607","Greenville","SC","ALDI","1725 Woodruff Rd","29607",34.8203263,-82.2717761
+"29607","Greenville","SC","Ingles","not_available","29681",34.76499924266848,-82.28734868564048
+"29609","Greenville","SC","Walmart Neighborhood Market","5009 Old Buncombe Road","29617",34.912574487273716,-82.42938506997612
+"29609","Greenville","SC","Walmart Supercenter","9 Benton Rd","29690",34.96046392718618,-82.43123134308088
+"29609","Greenville","SC","Publix Super Market at University Square SC","5000 Old Buncombe Rd","29617",34.91090642896205,-82.42760729163072
+"29609","Greenville","SC","Ingles","1500 Poinsett Hwy","29609",34.88816629242654,-82.40422160332321
+"29609","Greenville","SC","Publix","2801 Wade Hampton Blvd Ste 120","29687",34.901995197920854,-82.33694577156616
+"29609","Greenville","SC","Walmart Neighborhood Market","2014 Wade Hampton Blvd","29615",34.88305021814608,-82.35509557570485
+"29609","Greenville","SC","Ingles","1335 Stallings Rd","29609",34.90401360100195,-82.34937073954731
+"29609","Greenville","SC","Saigon Market","1560 Wade Hampton Blvd","29609",34.873228000000005,-82.368321
+"29609","Greenville","SC","Los Chavez Market","101 E Lee Rd","29687",34.90123407547091,-82.33431100845337
+"29609","Greenville","SC","ALDI","510 Worley Rd","29609",34.88693020101361,-82.392104364418
+"29609","Greenville","SC","Tomato Vine","4120 Old Buncombe Rd","29617",34.89669653951082,-82.43213103207628
+"29609","Greenville","SC","La Especial","2846 Wade Hampton Blvd","29687",34.902339935302734,-82.33393859863281
+"29609","Greenville","SC","BI-LO","2111 N Pleasantburg Dr","29609",34.8882247036699,-82.37443989370351
+"29609","Greenville","SC","Sav-Mor Food & Dollar","2400 Wade Hampton Blvd","29615",34.886654487372155,-82.35381744814738
+"29611","Greenville","SC","Walmart Supercenter","11410 Anderson Rd","29611",34.788869954299315,-82.47813289415656
+"29611","Greenville","SC","Walmart Supercenter","6134 White Horse Rd","29611",34.85638176456154,-82.45394212884908
+"29611","Greenville","SC","Bi-Lo","7 Farrs Bridge Rd","29617",34.882689038357356,-82.45636411832005
+"29611","Greenville","SC","Ingles","10903 Anderson Rd","29673",34.78270094782997,-82.48631508755538
+"29611","Greenville","SC","Ingles","6605 White Horse Rd","29611",34.867757302575725,-82.46619865288275
+"29611","Greenville","SC","Bi-Lo","3518 Highway 153","29611",34.79061935836603,-82.48404682617286
+"29611","Greenville","SC","ALDI","6169 White Horse Rd","29611",34.85456761840048,-82.45711562575408
+"29611","Greenville","SC","Supermercado El Sol","not_available","29617",34.861272,-82.461386
+"29611","Greenville","SC","Bi-Lo","2720 Anderson Rd.","29611",34.814776178810604,-82.44280067706251
+"29611","Greenville","SC","Save-A-Lot","7912 White Horse Rd","29617",34.89129132306146,-82.46720226273474
+"29611","Greenville","SC","Westside grocery","1605 Easley Bridge Rd","29611",34.83494,-82.43797592
+"29611","Greenville","SC","Spinx","7853 White Horse Rd","29611",34.8900717,-82.4689718
+"29611","Greenville","SC","ALDI","6149 White Horse Rd","29611",34.85425759,-82.45708243
+"29611","Greenville","SC","Save-A-Lot","3050 White Horse Rd","29611",34.8152025,-82.4405708
+"29611","Greenville","SC","Supermercado El Rey","3225 W Blue Ridge Dr","29611",34.85277557373047,-82.44873046875
+"29611","Greenville","SC","Bi-Lo","3216 W Blue Ridge Dr","29611",34.85335514744597,-82.45136478623034
+"29611","Greenville","SC","La Unica","not_available","29611",34.866212,-82.4699934
+"29615","Greenville","SC","BI-LO","2460 Hudson Rd","29650",34.89490229011221,-82.28974030754762
+"29615","Greenville","SC","Lowes Foods","850 East Suber Road","29650",34.900482,-82.25483
+"29615","Greenville","SC","Sushi-Masa Japanese Restaurant","8590 Pelham Rd","29615",34.85119215863973,-82.23156284703238
+"29615","Greenville","SC","Spinx","3100 S Hwy 14","29615",34.851458379001,-82.23109857948063
+"29615","Greenville","SC","Deal Mart / Dollar Mart","30 Orchard Park Dr","29615",34.855661,-82.333393
+"29615","Greenville","SC","Save-A-Lot","1400 Woodruff Rd","29607",34.820934,-82.284373
+"29615","Greenville","SC","Tanpopo Japanese Food Store","8590 Pelham Rd Ste 7","29615",34.85145739177195,-82.23156486168868
+"29615","Greenville","SC","Asian Supermarket","not_available","29615",34.855804292386594,-82.33360452226715
+"29615","Greenville","SC","Earth Fare","Pelham Rd","29615",34.8624442442567,-82.27944212347887
+"29620","Abbeville","SC","Pantry Shoppe","2163 Highway 20","29620",34.255889892578125,-82.3849868774414
+"29620","Abbeville","SC","Bi Lo","809 W Greenwood St","29620",34.16276168823242,-82.38102722167969
+"29620","Abbeville","SC","Ingles Markets #53","1503 N Main St","29620",34.18768064229675,-82.40057008498455
+"29620","Abbeville","SC","Bi-Lo","Highway 72","29620",34.162851223038146,-82.3815013016093
+"29621","Anderson","SC","Walmart Supercenter","3812 Liberty Hwy","29621",34.555345650629526,-82.67888136369041
+"29621","Anderson","SC","Ingles","1900 N Main St","29621",34.521221410716585,-82.65424015667135
+"29621","Anderson","SC","Walmart Neighborhood Market","2003 E Greenville St","29621",34.54516929015308,-82.63251770797604
+"29621","Anderson","SC","Publix","1611 E Greenville St","29621",34.530670628375944,-82.63618164330369
+"29621","Anderson","SC","Publix","3801E Clemson Blvd","29621",34.553917821857254,-82.68497924103713
+"29621","Anderson","SC","Walmart Supercenter","651 Highway 28 Byp","29624",34.48835951201628,-82.6772843788359
+"29621","Anderson","SC","Ingles","2404 N Highway 81","29621",34.56010299684091,-82.6260301075094
+"29621","Anderson","SC","ALDI","4115 Clemson Blvd","29621",34.55968661530275,-82.69359693692422
+"29621","Anderson","SC","Spinx","3221 S Murray Ave","29624",34.46691909733195,-82.65876377765909
+"29621","Anderson","SC","Quality Foods","208-211 Highway 28 Byp","29624",34.474796295166016,-82.65530395507812
+"29621","Anderson","SC","Swami Food Mart #1","not_available","29625",34.55169677734375,-82.68638610839844
+"29621","Anderson","SC","Leika's Asian Market","not_available","29621",34.5468737258391,-82.6682463449401
+"29621","Anderson","SC","bi-lo","1704 E Greenville St, Anderson, SC 29621","29621",34.535552978515625,-82.63037109375
+"29621","Anderson","SC","ALDI","Clemson blvd.","29625",34.53781477098469,-82.6764354664833
+"29621","Anderson","SC","Save-A-Lot","302 Pearman Dairy Rd","29621",34.503700256347656,-82.68376922607422
+"29621","Anderson","SC","Bi Lo","3223 Martin Luther King Jr Blvd","29625",34.5431620967056,-82.67035040532903
+"29621","Anderson","SC","BiLo","3233 Martin Luther King Jr Blvd","29625",34.543160041174126,-82.67038333239176
+"29621","Anderson","SC","Bi-Lo","Greenville St","not_available",34.53587531980561,-82.62988795655967
+"29621","Anderson","SC","Save-A-Lot","302 Pearman Dairy Rd","29625",34.50312,-82.681844830513
+"29621","Anderson","SC","Bloom","3750 N Highway 81","29621",34.59817220858109,-82.61476414770031
+"29621","Anderson","SC","ALDI","624 Hwy 28 Bypass","29624",34.488698,-82.6732775
+"29625","Anderson","SC","Ingles","4396 Hig. 24","29626",34.511337515064426,-82.75725245230305
+"29625","Anderson","SC","Super Bi-Lo","not_available","29626",34.510837593982174,-82.76191556692984
+"29625","Anderson","SC","Super Bi-Lo","4405 Highway 24","29626",34.51089859008789,-82.76248931884766
+"29627","Belton","SC","Ingles","414 S Main St","29627",34.51615076387834,-82.48432258549411
+"29627","Belton","SC","Bi-Lo","500 E Greer St","29654",34.44505184892263,-82.38650859454508
+"29630","Central","SC","Walmart Supercenter","1286 Eighteen Mile Rd","29630",34.705874022043446,-82.76216542200878
+"29630","Central","SC","Walmart Neighborhood Market","680 Old Greenville Hwy","29631",34.69758562779652,-82.80135185495459
+"29630","Central","SC","Publix Super Market at Gateway Village","1390 Tiger Blvd","29631",34.686077325466364,-82.81737450098517
+"29630","Central","SC","Ingles Market","854 Old Greenville Hwy","29631",34.70156226676188,-82.79557534702806
+"29630","Central","SC","Clemson Bi Lo Shopping Center","501 Old Greenville Hwy","29631",34.6902012531311,-82.81122244357029
+"29630","Central","SC","TigerQuick Mart","215 Pendleton Rd","29631",34.67206439784367,-82.8093160802431
+"29630","Central","SC","Super BI LO","not_available","29631",34.68301691939669,-82.84622178503709
+"29630","Central","SC","ALDI","13190 Clemson Blvd","29678",34.6897154,-82.8588979
+"29635","Cleveland","SC","F Mart","4418-4436 Geer Hwy","29635",35.078889167365375,-82.53764130399836
+"29635","Cleveland","SC","IGA Hometown Grocery","Geer Hwy","29661",35.02178367559687,-82.50186799710467
+"29638","Donalds","SC","Piggly Wiggly","800 N Greenwood Ave","29692",34.403583294779295,-82.25251284492667
+"29640","Easley","SC","Ingles","410 Pelzer Hwy","29642",34.80368494773356,-82.60319744272395
+"29640","Easley","SC","Ingles Supermarket","5251 Calhoun Memorial Hwy","29640",34.8243014885439,-82.56103004024371
+"29640","Easley","SC","Walmart Supercenter","115 Rolling Hills Cir","29640",34.828328240272356,-82.54944059849498
+"29640","Easley","SC","Publix","6525 Calhoun Memorial Hwy","29640",34.820284935175806,-82.58485048940098
+"29640","Easley","SC","Spinx","3785 Farrs Bridge Rd","29640",34.89114560799479,-82.53471418270021
+"29640","Easley","SC","Spinx","4283 Calhoun Memorial Highway","29640",34.829189,-82.518709
+"29640","Easley","SC","Aldi's of Easley","4835 Calhoun Memorial Hwy","29640",34.8254508,-82.544548
+"29640","Easley","SC","Bi-lo","1021 S Pendleton St","29642",34.81749844512959,-82.59961662277163
+"29640","Easley","SC","Deal Mart","5284 Calhoun Memorial Hwy Ste A","29640",34.826446533203125,-82.56275177001953
+"29640","Easley","SC","Stand Tall Install","111 Odom Rd","29642",34.82999038696289,-82.50395202636719
+"29640","Easley","SC","Bi-Lo","not_available","29640",34.82322884755385,-82.55753566194512
+"29640","Easley","SC","Save-A-Lot","5591 Calhoun Memorial Hwy","29640",34.82429463031231,-82.57377622000692
+"29644","Fountain Inn","SC","Walmart Supercenter","3950 Grandview Dr","29680",34.71219638652407,-82.25124835968018
+"29644","Fountain Inn","SC","Walmart Neighborhood Market","1401 West Georgia Rd.","29680",34.72295234600135,-82.29364277846166
+"29644","Fountain Inn","SC","Publix Martin Square","704 Fairview Rd","29680",34.70286341693592,-82.2595409402452
+"29644","Fountain Inn","SC","Bi-Lo","699 Fairview Rd","29680",34.70640904685255,-82.25572386534212
+"29644","Fountain Inn","SC","ALDI","655 Fairview Rd","29680",34.7120476033756,-82.25487279629516
+"29644","Fountain Inn","SC","Bi-Lo","1103 N Main St","29644",34.700545666705075,-82.21710240663978
+"29644","Fountain Inn","SC","Spinx","1301 Fairview Rd","29680",34.6615131,-82.2615974
+"29644","Fountain Inn","SC","Save-A-Lot","930 NE Main St","29681",34.75541007206242,-82.2672703256894
+"29644","Fountain Inn","SC","Supermercado Los Arcos #1","119 E Butler Rd","29662",34.780983,-82.302093
+"29644","Fountain Inn","SC","cutting coupons","not_available","29644",34.69482421875,-82.19300079345703
+"29646","Greenwood","SC","Walmart Supercenter","300 Bypass 25 Ne","29646",34.19022115255022,-82.133592692983
+"29646","Greenwood","SC","Walmart Supercenter","508 Nw Bypass 72","29649",34.20775759871561,-82.19208215065184
+"29646","Greenwood","SC","Bi-Lo","2010 Montague Ave","29649",34.228260316226354,-82.1968678352343
+"29646","Greenwood","SC","Corley's Market and Grill","1220 Highway 72 W","29649",34.1949482066884,-82.19198360206809
+"29646","Greenwood","SC","ALDI","1322 Montague Avenue Ext","29649",34.217003423782316,-82.1818220615387
+"29646","Greenwood","SC","Colonial Bread Store","910 Montague Ave","29649",34.208797454833984,-82.17504119873047
+"29646","Greenwood","SC","Harvey's Supermarket","712 Bypass 25 NE","29646",34.20351203269277,-82.13473521462012
+"29646","Greenwood","SC","Price Wise Foods","1160 Main St S","29646",34.17957305908203,-82.15576171875
+"29646","Greenwood","SC","Save-A-Lot","1344 SC-72","29649",34.19449997,-82.19351959
+"29646","Greenwood","SC","Walmart Grocery Pickup","508 Bypass 72 Nw","29649",34.20577,-82.19158
+"29646","Greenwood","SC","Shops at Publix Pavilion","479 Bypass 72 NW Ste 100","29649",34.20623016357422,-82.18608856201172
+"29646","Greenwood","SC","Food Bank Of Greenwood County","222 East Ave","29646",34.182929418338986,-82.15393746199473
+"29646","Greenwood","SC","Bi Lo","By-pass 25 NE","29646",34.20361832670184,-82.13484940249195
+"29646","Greenwood","SC","the bread store","not_available","29646",34.192161560058594,-82.19676208496094
+"29650","Greer","SC","BI-LO","1365 W Wade Hampton Blvd","29650",34.93912124808059,-82.26455292015913
+"29650","Greer","SC","Spinx","1233 W Wade Hampton Blvd","29650",34.941612049784204,-82.2581152864009
+"29650","Greer","SC","Walmart Neighborhood Market","805 W Wade Hampton Blvd Ste B","29650",34.94405085287403,-82.24793684615369
+"29650","Greer","SC","Quality Foods Of Greer","508 N Main St","29650",34.94569097362763,-82.22340204258386
+"29650","Greer","SC","La Unica Abarrotes","5101 Wade Hampton Blvd","29687",34.93265328822063,-82.28673358594769
+"29650","Greer","SC","Spinx","1321 S Suber Rd","29650",34.901673565290515,-82.25723014647635
+"29650","Greer","SC","ALDI","1050 W Wade Hampton Blvd","29650",34.94458512656399,-82.25423074748505
+"29650","Greer","SC","Ingles","not_available","29651",34.9078,-82.23406
+"29650","Greer","SC","BI-LO","1365 Wade Gapton Blvd","29650",34.927181,-82.24556
+"29650","Greer","SC","Save-A-Lot","1100 W Wade Hampton Blvd","29650",34.943995,-82.255167
+"29651","Greer","SC","Walmart Grocery Pickup and Delivery","3027 Wade Hampton Blvd","29687",34.908031,-82.331969
+"29651","Greer","SC","Publix","2700 Woodruff Rd","29681",34.80443914082354,-82.22750381935893
+"29651","Greer","SC","Super BI-LO","2607 Woodruff Rd","29681",34.806649863441336,-82.22938544902867
+"29651","Greer","SC","Ingles","1524 Locust Hill Rd","29651",34.94960220274311,-82.27338032775971
+"29651","Greer","SC","Spinx","2601 Locust Hill Rd","29687",34.95972602213742,-82.3069692054866
+"29651","Greer","SC","Bi-Lo","3039 Wade Hampton Blvd","29687",34.908908085015,-82.32977095656568
+"29651","Greer","SC","Pereira Bakery","1100 E. Lee Road","29687",34.903108230052716,-82.32536835022448
+"29654","Honea Path","SC","Walmart Supercenter","1825 Downs Dr","16509",34.47045895196406,-82.27283477783203
+"29654","Honea Path","SC","Bi-Lo","hwy 72","29620",34.39254388251522,-82.22349281697608
+"29655","Iva","SC","IGA Drennon's Market","815 W Front St","29655",34.30813217163086,-82.66317749023438
+"29657","Liberty","SC","Ingles","not_available","29657",34.79107397987394,-82.68987104758334
+"29661","Marietta","SC","Ingles Grocery","1500 Geer Hwy","29690",34.99276231996034,-82.46840284263683
+"29662","Mauldin","SC","Publix","Butler Road","not_available",34.797133,-82.287026
+"29662","Mauldin","SC","BI-LO Corporate Office","208 Bi Lo Blvd","29607",34.799390044067614,-82.30501998294895
+"29662","Mauldin","SC","El Carretero","615 N Main St","29662",34.78999328613281,-82.31426239013672
+"29664","Mountain Rest","SC","Fairfield Grocery","1515 Pickens Hwy","29691",34.788293,-83.05336
+"29669","Pelzer","SC","Bi-Lo","330 Lebby St","29669",34.64420192470256,-82.46465373483191
+"29669","Pelzer","SC","Bargain Foods","349 Highway 8","29669",34.642424807105634,-82.44698993163416
+"29670","Pendleton","SC","Bi Lo","7701 Highway 76","29670",34.63465262809364,-82.78571286834232
+"29671","Pickens","SC","Walmart Supercenter","2637 Gentry Memorial Hwy","29671",34.8693063,-82.69274749
+"29671","Pickens","SC","Ingles","502 Ann St","29671",34.89312204355829,-82.70935783411124
+"29671","Pickens","SC","Save-A-Lot","529 Hampton Ave","29671",34.876225658473814,-82.7007333626972
+"29671","Pickens","SC","Bi Lo","2700 Gentry Memorial Hwy A","29671",34.87361293029802,-82.69290667929255
+"29671","Pickens","SC","BI-LO","not_available","29671",34.88393622730293,-82.70741125496211
+"29671","Pickens","SC","Spinx","310 Jewel St","29671",34.888853000000005,-82.698904
+"29672","Seneca","SC","Walmart Supercenter","1636 Sandifer Blvd","29678",34.68958692461013,-82.99880370195227
+"29672","Seneca","SC","Spinx","507 By Pass 123","29678",34.69667339696382,-82.95214259107726
+"29672","Seneca","SC","ALDI","249 Applewood Center Pl","29678",34.689972984980635,-82.98975871643052
+"29672","Seneca","SC","BI-LO","11481 N Radio Station Rd.","29678",34.690777512097405,-82.98415929891355
+"29672","Seneca","SC","Bi-Lo","119 Rochester Hwy","29678",34.7022144377375,-82.93866351726179
+"29672","Seneca","SC","H & H Home Town Food Store","106 N Walnut St","29678",34.684982,-82.94941999999999
+"29672","Seneca","SC","The Healthy Olive","111 Ram Cat Aly","29678",34.685095,-82.954194
+"29672","Seneca","SC","Bountyland Red Light","not_available","29672",34.707231521891856,-82.99157839911034
+"29673","Piedmont","SC","Save-A-Lot","910 Anderson St","29673",34.701608,-82.47662346
+"29678","Seneca","SC","wilson processing","not_available","29693",34.676120000000004,-83.02918299999999
+"29678","Seneca","SC","Blake's (Walnut Street Grocery)","not_available","29678",34.67732730859027,-82.94873000572407
+"29681","Simpsonville","SC","Save-A-Lot","202 Scuffletown Rd","29681",34.80471420288086,-82.22927856445312
+"29681","Simpsonville","SC","Krishna Grocery","1288 Woodruff Rd","29607",34.820972999999995,-82.28537
+"29681","Simpsonville","SC","Bi-Lo","2611 Woodruff Rd","29681",34.80796897090953,-82.28249137251382
+"29681","Simpsonville","SC","European Market","1635 Woodruff Rd","29607",34.819834,-82.274027
+"29681","Simpsonville","SC","U.S. Waffle Company Inc.","2131 Woodruff Rd","29607",34.820953369140625,-82.25788116455078
+"29687","Taylors","SC","Aldi","3034 Wade Hampton Blvd","29687",34.9071463,-82.3280428
+"29687","Taylors","SC","Asian Market","245 Wade Hampton Boulevard","29687",34.917782,-82.317973
+"29687","Taylors","SC","Oneal Grocery","Highland, SC","29651",35.00621274866783,-82.28189213923092
+"29689","Townville","SC","L&J Hardware","not_available","30643",34.4454104034992,-82.92394383941203
+"29690","Travelers Rest","SC","Bi-Lo","148 Walnut Ln","29690",34.973483766479774,-82.4275693771823
+"29691","Walhalla","SC","Ingles","172 Scenic Plaza Dr","29696",34.754518231819546,-83.0458308796956
+"29691","Walhalla","SC","Save-A-Lot","134 Foothills Center Dr Suite A","29696",34.7571180085994,-83.04778801384309
+"29691","Walhalla","SC","Five Forks Grocery","1204 Coffee Rd","29691",34.72459098229809,-83.1248330386937
+"29691","Walhalla","SC","Spinx","180 S Hwy 11","29696",34.75741958618164,-83.04585266113281
+"29691","Walhalla","SC","Save-A-Lot","134 Foothills Dr","29696",34.7558,-83.046434
+"29693","Westminster","SC","Ingles","100 Ayers Dr","30577",34.57005390615883,-83.30410520963905
+"29693","Westminster","SC","Walmart Grocery Pickup","3886 Highway 17 S","30538",34.5504589717201,-83.2814978183523
+"29693","Westminster","SC","Quality Foods","Big A Rd","not_available",34.56579078189155,-83.30239629569256
+"29693","Westminster","SC","Quality Foods","S Big A Rd","30577",34.557654,-83.341217
+"29693","Westminster","SC","Save A Lot","575 Collins St Big A Shopping Cente","30577",34.5720596,-83.3117938
+"29693","Westminster","SC","Spinx","1008 E Main St","29693",34.658714294433594,-83.08857727050781
+"29693","Westminster","SC","Save-A-Lot","575 Collins Street","30577",34.570965,-83.313762
+"29693","Westminster","SC","Save-A-Lot","575 Collins St Big A Shopping Center","30577",34.57153468015194,-83.31271035447632
+"29702","Blacksburg","SC","piggly wiggly","not_available","29702",35.12013244628906,-81.5203628540039
+"29706","Chester","SC","Walmart Supercenter","1691 J A Cochran Bypass","29706",34.69952115,-81.19158897
+"29706","Chester","SC","Bi-Lo","1436 J a Cochran Byp","29706",34.6927030061528,-81.19586931093762
+"29706","Chester","SC","Save-A-Lot","599 Lancaster Highway","29706",34.70671803883149,-81.1902219548361
+"29707","Fort Mill","SC","Harris Teeter","15007 John J. Delaney Dr","28277",35.05318343424042,-80.84867001789884
+"29707","Fort Mill","SC","Walmart Supercenter","10048 Charlotte Hwy","29707",35.01098542686391,-80.84956539352105
+"29707","Fort Mill","SC","Publix at Ballantyne Town Center","11222 Providence Road West","28277",35.04269277161482,-80.8491368849788
+"29707","Fort Mill","SC","Walmart Supercenter","2377 Dave Lyle Blvd","29730",34.94350307,-80.96305847
+"29707","Fort Mill","SC","Harris Teeter","9720 Rea Rd","28277",35.036405011279,-80.80651742684182
+"29707","Fort Mill","SC","Publix","8360 Charlotte Hwy","29707",34.95591427623045,-80.85017143583515
+"29707","Fort Mill","SC","Harris Teeter","7852 Rea Rd","28277",35.06034247547205,-80.81639543429412
+"29707","Fort Mill","SC","Harris Teeter","500 Mercantile Place","29715",35.057637864265836,-80.93518470704105
+"29707","Fort Mill","SC","Publix","928 Gold Hill Rd","29708",35.06252466652839,-80.96410526195932
+"29707","Fort Mill","SC","Harris Teeter","6271 Carolina Commons Dr","29707",34.93681828598155,-80.83811362542815
+"29707","Fort Mill","SC","Lidl","9990 Charlotte Hwy","29707",35.00919145333518,-80.85238489877132
+"29707","Fort Mill","SC","Sprouts Farmers Market","15121 Ballancroft Pkwy, Ste A","28277",35.04027455299019,-80.84682762622833
+"29707","Fort Mill","SC","Walmart Neighborhood Market","500 N. Dobys Bridge Road","29715",35.00619385362783,-80.9305859468772
+"29707","Fort Mill","SC","Sushi Counter","11222 Providence Rd W","not_available",35.042605,-80.84959599999999
+"29707","Fort Mill","SC","ALDI","9553 Charlotte Hwy","29707",34.99410499549678,-80.85542521099342
+"29707","Fort Mill","SC","Camfield Corners","not_available","28277",35.05328164392245,-80.8151169380491
+"29707","Fort Mill","SC","Earth Fare","12235 N Community House Rd","28277",35.06918176290871,-80.84113561488812
+"29708","Fort Mill","SC","Walmart Supercenter","1151 Stonecrest Blvd","29708",35.046651925879374,-80.9936227442773
+"29708","Fort Mill","SC","Harris Teeter","1750 Highway 160 W","29708",35.03495333786714,-80.97085513822542
+"29708","Fort Mill","SC","Publix","12810 S Tryon St","28273",35.10485853855583,-80.98779367477658
+"29708","Fort Mill","SC","Harris Teeter","13000 South Tryon St","28278",35.10319400699507,-80.99040565859859
+"29708","Fort Mill","SC","Harris Teeter","867 Stockbridge Dr","29708",35.06180858610754,-80.99435502098049
+"29708","Fort Mill","SC","Aldi","3665 Vandora Springs Rd","29708",35.05200503677222,-80.99128067493433
+"29708","Fort Mill","SC","Earth Fare","2351 Len Patterson Rd Ste 103","29708",35.040453346371606,-80.98643321768685
+"29708","Fort Mill","SC","Earth Fare","14124 Steele Creek Rd","28273",35.101680608789444,-80.99183839355123
+"29708","Fort Mill","SC","Food Lion","825 Crossroads Plz","29708",35.05919647216797,-80.9906005859375
+"29708","Fort Mill","SC","A&S Natural Health","1741 Gold Hill Rd","29708",35.06010055541992,-80.99299621582031
+"29708","Fort Mill","SC","Bi-Lo","12810 S Tryon St (Hwy 49)","28273",35.104480086897915,-80.98759958824552
+"29709","Chesterfield","SC","Piggly Wiggly","1303 West Main Street","29709",34.73740005493164,-80.11165618896484
+"29710","Clover","SC","Walmart Supercenter","175 Highway 274","29710",35.12138652,-81.08435046
+"29710","Clover","SC","Walmart Supercenter","970 E Liberty St","29745",34.984075747051406,-81.21345260455377
+"29710","Clover","SC","BI-LO","1095 Filbert Hwy","29745",35.016035800375775,-81.25030946048523
+"29710","Clover","SC","Piggly Wiggly","136 S Main St","29710",35.10989586593883,-81.22894981940131
+"29710","Clover","SC","Bi-lo","not_available","29745",34.987613,-81.222634
+"29710","Clover","SC","Bi Lo","131 S. Main Street","29710",35.11010058866169,-81.22912410913774
+"29710","Clover","SC","Walmart Grocery Pickup","970 Liberty St E","29745",34.98552,-81.21297
+"29710","Clover","SC","Bi Lo","1131 Hwy 321 S.","29745",35.045806996138914,-81.27316805377662
+"29715","Fort Mill","SC","Aldi","10629 Park Rd","28210",35.09206964829805,-80.86860179901123
+"29715","Fort Mill","SC","Lidl","1260 Herrons Ferry Rd","29730",34.978188,-80.980356
+"29715","Fort Mill","SC","Patel Brothers","Centrum Pkwy","28134",35.08799748646305,-80.87748535691246
+"29715","Fort Mill","SC","India Grocers","509 South Blvd","not_available",35.09022150395801,-80.88610306933566
+"29715","Fort Mill","SC","El Tabasqueno","Park Rd","not_available",35.090056,-80.869153
+"29720","Lancaster","SC","Walmart Supercenter","805 Hwy 9 Bypass Wes","29720",34.734311141732,-80.78500398783875
+"29720","Lancaster","SC","Bi-Lo #181","1256 Highway 9 Byp W","29720",34.73451304744041,-80.7997411036766
+"29720","Lancaster","SC","FOOD LION","937 Lancaster Square S/C","29720",34.72058033162229,-80.74998700031148
+"29720","Lancaster","SC","Bi-Lo #41","571 E. By-Pass 9","not_available",34.73059841219348,-80.75914372906404
+"29720","Lancaster","SC","ALDI","1225 State Road S-29-56","29720",34.73644110917273,-80.7759782238205
+"29728","Pageland","SC","T & L Food Shop","222 W McGregor St","29728",34.77186776301059,-80.39341949352702
+"29728","Pageland","SC","Bi-Lo","501 S Pearl St","29728",34.76632717602938,-80.3887791200102
+"29730","Rock Hill","SC","Walmart Supercenter","4875 Old York Rd","29732",34.9795071252209,-81.08991735457693
+"29730","Rock Hill","SC","Publix","2186 Cherry Rd Ste 101","29732",34.96465171542945,-80.99730665643933
+"29730","Rock Hill","SC","Walmart Neighborhood Market","1225 Cherry Rd","29732",34.95295624735696,-81.01752638971324
+"29730","Rock Hill","SC","Harris Teeter","2750 Celanese Rd","29730",34.97678663216137,-81.02774745412952
+"29730","Rock Hill","SC","Bi-Lo","not_available","29730",34.9183215859875,-80.99951993448492
+"29730","Rock Hill","SC","Aldi","182 N Anderson Rd.","29730",34.9685510616933,-80.99172967634804
+"29730","Rock Hill","SC","Earth Fare","725 Cherry Rd Ste 110","29732",34.9450798700305,-81.02856560283453
+"29730","Rock Hill","SC","Save-A-Lot","1102 Cherry Rd","29732",34.93222809,-81.05687714
+"29730","Rock Hill","SC","Compare Foods","1807 Cherry Rd","29732",34.961426,-81.006936
+"29730","Rock Hill","SC","Long Huynh Place Of Work.","2535-2699 S Carolina 121","29730",34.87877055,-81.05206801666667
+"29730","Rock Hill","SC","Discount Grocery Safari","1122 India Hook Rd","29732",34.946115016937256,-81.03211462497711
+"29730","Rock Hill","SC","Food Lion","2260 Crosspointe Dr","29730",34.918244831174924,-81.01384264166963
+"29730","Rock Hill","SC","Bi Lo","Heckle Blvd","29732",34.95797860333808,-81.06514055999968
+"29801","Aiken","SC","Walmart Supercenter","2035 Whiskey Rd","29803",33.5184707418489,-81.71891273375695
+"29801","Aiken","SC","Walmart Supercenter","3581 Richland Ave W","29801",33.56155121,-81.76651204
+"29801","Aiken","SC","Kroger","1795 Whiskey Rd","29803",33.5236718,-81.7217438
+"29801","Aiken","SC","Publix","250 Eastgate Dr","29803",33.51123613889792,-81.71605411090563
+"29801","Aiken","SC","The Fresh Market","1400 Whiskey Rd,","29803",33.53400880779922,-81.72335664896241
+"29801","Aiken","SC","Feaster's Wholesale Foods","not_available","29801",33.557127714157104,-81.70680355
+"29801","Aiken","SC","Bi-Lo","1048 York St NE","29801",33.57550297620492,-81.70261859893799
+"29801","Aiken","SC","OpenLeaf CBD","127 Laurens Street, SW","29801",33.5608722,-81.7231617
+"29801","Aiken","SC","BI-LO","1016 Pine Log Rd","29803",33.52289014561232,-81.72485614783402
+"29801","Aiken","SC","Save-A-Lot","522 York St","29801",33.56845133311557,-81.71302279790252
+"29801","Aiken","SC","foods for better living","1619 Whiskey Rd","29803",33.531288146972656,-81.72463989257812
+"29801","Aiken","SC","Gurley's IGA","Hwy 421","29851",33.53543012814673,-81.81151312114402
+"29801","Aiken","SC","Ridgecrest","90 Pipeline Rd","29801",33.605841,-81.718817
+"29801","Aiken","SC","Bi-Lo","York Street","not_available",33.579132558843355,-81.70392957208364
+"29803","Aiken","SC","ALDI","2510 Whiskey Rd","29803",33.50787123165973,-81.70953656842357
+"29803","Aiken","SC","Reid's","603 Main St N","29809",33.42677444989056,-81.68674571359628
+"29810","Allendale","SC","GOODSON GROCERY","not_available","29810",33.050060031173075,-81.31547397651309
+"29812","Barnwell","SC","Barnwell IGA","9690 Marlbororo Avenue","29812",33.244659423828125,-81.35845184326172
+"29812","Barnwell","SC","Walmart Supercenter","11391 Dunbarton Blvd","29812",33.238693514150626,-81.39205913540592
+"29821","Clarks Hill","SC","Publix","5119 Washington Rd","30809",33.5731929698092,-82.19322450694176
+"29824","Edgefield","SC","Bi-Lo","200-350 Apple Square Plaza","29824",33.79793579339922,-81.8925408269756
+"29827","Fairfax","SC","Bi-Lo","2000 Elm St W, Hampton, SC 29924","29924",32.880865917186206,-81.12639473697527
+"29829","Graniteville","SC","Bilo","2587 Jefferson Davis Hwy","29834",33.52639755884267,-81.84682080138008
+"29829","Graniteville","SC","Reid's","2587 Jefferson Davis Hwy","29851",33.52641909998052,-81.84683931773742
+"29832","Johnston","SC","Johnston IGA","53-D Lee St.","29832",33.819358825683594,-81.79979705810547
+"29841","North Augusta","SC","Kroger","1284 Knox Ave","29841",33.5063682,-81.960062
+"29841","North Augusta","SC","Walmart Supercenter","1201 Knox Ave","29841",33.50128747348207,-81.95751164583761
+"29841","North Augusta","SC","Publix","334 E Martintown Rd","29841",33.49600944214844,-81.96226504699972
+"29841","North Augusta","SC","Walmart Supercenter","1041 Edgefield Rd","29860",33.57249,-81.935064
+"29841","North Augusta","SC","Bi-Lo","4435 Jefferson Davis Hwy","29822",33.50294559755479,-81.89977291421054
+"29841","North Augusta","SC","OpenLeaf CBD - Augusta, GA","224 8th Street","30901",33.4744665,-81.9656681
+"29841","North Augusta","SC","Laney Supermarket","843 Laney Walker Blvd","30901",33.463785,-81.973232
+"29841","North Augusta","SC","Du Jour Fine Foods","1128 Broad St","30901",33.476829528808594,-81.97199249267578
+"29841","North Augusta","SC","Bi-Lo","Edgefield Rd.","not_available",33.52673623768478,-81.95231190362433
+"29841","North Augusta","SC","Pauls IGA","2 Greene St","30901",33.466815999999994,-81.949438
+"29841","North Augusta","SC","OpenLeaf CBD- North Augusta, SC (OpenLeaf CBD)","509 Belvedere-Clearwater Road Ste. A Suite A","29841",33.53030014038086,-81.93848419189453
+"29841","North Augusta","SC","Save-a-lot","211edgefield rd","29841",33.525871,-81.952081
+"29841","North Augusta","SC","tasty kake bakery outlet","4535 Jefferson Davis Hwy","29842",33.50218,-81.90375
+"29841","North Augusta","SC","Bilo","Augusta Rd","29826",33.49293403,-81.92287456
+"29841","North Augusta","SC","Bluebell Mini Mart","632 E Buena Vista Ave","29841",33.487848375939855,-81.95729855964201
+"29841","North Augusta","SC","ALDI","1360 Knox Ave","29841",33.508487860889666,-81.95926063558198
+"29841","North Augusta","SC","the west end market and bakery","1808 Broad St","30904",33.48425721702883,-81.99361535675902
+"29853","Williston","SC","IGA","Powell St","29853",33.40269951256389,-81.4227179098571
+"29853","Williston","SC","Price Wise Foods","12889 Main St","29853",33.401093302263824,-81.42155717608492
+"29902","Beaufort","SC","Walmart Supercenter","350 Robert Smalls Pkwy","29906",32.425169911593684,-80.73395502700713
+"29902","Beaufort","SC","Bi-Lo","860 Parris Island Gtwy","29906",32.37788885881258,-80.72594352269553
+"29902","Beaufort","SC","Piggly Wiggly","1347 Ribaut Rd","29935",32.39931272393469,-80.68320882601829
+"29902","Beaufort","SC","Lowcountry Produce Market & Cafe","302 Carteret St","29902",32.43178956756841,-80.67013133549122
+"29902","Beaufort","SC","Herban Marketplace","not_available","29902",32.44024990615777,-80.67365249291575
+"29902","Beaufort","SC","Parris Island MCRD Commissary","BUILDING 407 WAKE BOULEVARD","29905",32.35116166442809,-80.69246554076648
+"29902","Beaufort","SC","sprout","1209 D Boundry St","29902",32.43984337848377,-80.67562971312822
+"29907","Beaufort","SC","Publix","61 Ladys Island Dr","29907",32.41242114717003,-80.65079295145615
+"29907","Beaufort","SC","Walmart Supercenter","265 Sea Island Parkway","29907",32.40768358658119,-80.63307639011563
+"29907","Beaufort","SC","Publix","163 Sea Island Pkwy","29907",32.414124184645566,-80.6489141247088
+"29909","Okatie","SC","Kroger","27 Discovery Dr","29910",32.2725494,-80.9160806
+"29909","Okatie","SC","Walmart Supercenter","4 Bluffton Rd","29910",32.25990999444961,-80.85433088346237
+"29909","Okatie","SC","Publix","101 Buckwalter Place Blvd","29910",32.270270004108234,-80.9167742729187
+"29909","Okatie","SC","Publix","80 Baylor Dr","29910",32.27706965276138,-80.87271617622552
+"29909","Okatie","SC","Kroger","125 Towne Dr","29910",32.26817022804508,-80.85825653390208
+"29909","Okatie","SC","Publix Super Market at New River Crossing","112 Nickle Plate Rd","29927",32.30831759039775,-80.9733259677887
+"29909","Okatie","SC","Walmart Supercenter","4400 Highway 278","29927",32.310947226788976,-80.97845435142517
+"29909","Okatie","SC","Daufuskie Grocery","234 Lombards Mill Ln","29909",32.25632095336914,-80.97916412353516
+"29909","Okatie","SC","foodlion","not_available","31408",32.249674526141554,-80.83945745515301
+"29909","Okatie","SC","Cyber Valet Grocery","2 Sagebrook Dr","29910",32.2600146,-80.92438279999999
+"29909","Okatie","SC","The Farmacy","320 Moss Creek Dr","29926",32.25581741333008,-80.80401611328125
+"29909","Okatie","SC","Super Mercado","not_available","29926",32.27365337223782,-80.86836894364286
+"29909","Okatie","SC","Circle of Health","70 Pennington Dr Ste 19","29910",32.26137161254883,-80.85708618164062
+"29909","Okatie","SC","El Super Internacional","not_available","29910",32.264707,-80.85888100000001
+"29910","Bluffton","SC","Publix","11 Palmetto Bay Rd","29928",32.15767099047272,-80.76585351573128
+"29910","Bluffton","SC","Harris Teeter","33 Office Park Rd Suite 100","29928",32.153231777623816,-80.76736867798353
+"29910","Bluffton","SC","Harry & David","1414 Fording Island Rd #C240","29910",32.23937092357643,-80.819005335888
+"29910","Bluffton","SC","Food Lion","6 Bow Circle","29928",32.162227630615234,-80.76660919189453
+"29920","Saint Helena Island","SC","Spring Tide Market","1 Tarpon Blvd","29920",32.335223,-80.466459
+"29926","Hilton Head Island","SC","Kroger","42 Shelter Cove Ln","29928",32.18582683583246,-80.72022771305427
+"29926","Hilton Head Island","SC","Walmart Supercenter","25 Pembroke Dr","29926",32.21161568052246,-80.72799873765722
+"29926","Hilton Head Island","SC","Whole Foods Market","50 Shelter Cove Lane","29928",32.187314953122026,-80.71652089178255
+"29926","Hilton Head Island","SC","Publix","45 Pembroke Dr","29926",32.210561637113564,-80.72567578494328
+"29926","Hilton Head Island","SC","The Fresh Market","890 William Hilton Pkwy, Ste 110","29928",32.17029802732103,-80.7388042336856
+"29926","Hilton Head Island","SC","Harris Teeter","301 Main St","29926",32.21509708285932,-80.72222069544206
+"29926","Hilton Head Island","SC","Bi-Lo","95 Mathews Dr","29926",32.212186556053055,-80.7020247732694
+"29927","Hardeeville","SC","Kroger","311 E Gwinnett St","31401",32.0661071,-81.0925013
+"29927","Hardeeville","SC","Jones Red & White","3310 Ogeechee Rd","31405",32.054544855383675,-81.13658529280652
+"29927","Hardeeville","SC","Whole Foods Market","1815 E. Victory Drive","31404",32.04339101206114,-81.07136077184026
+"29927","Hardeeville","SC","Jones Red & White Food Market","4607 Habersham St","31405",32.035592743510406,-81.10317036508445
+"29927","Hardeeville","SC","Walmart","4725 Us Highway 80 E","31410",32.042031528478304,-81.00390214351366
+"29927","Hardeeville","SC","Publix","4717 US Highway 80 E Ste B","31410",32.0419210347602,-81.00702734003977
+"29927","Hardeeville","SC","Kroger","1900 E Victory Dr, Suite 12","31404",32.0454358,-81.0677176
+"29927","Hardeeville","SC","Piggly Wiggly","7 Main St","29927",32.287151,-81.080079
+"29927","Hardeeville","SC","Brighter Day","1102 Bull St","31401",32.064788502503134,-81.0970491073985
+"29927","Hardeeville","SC","Hong Tan Oriental Grocery","816 Pennsylvania Ave","31404",32.056721,-81.061698
+"29927","Hardeeville","SC","Piggly Wiggly - Garden CIty","Augusta Rd","not_available",32.10530326808193,-81.15325052330785
+"29927","Hardeeville","SC","Polks Fresh Market","530 E Liberty St","31401",32.073421478271484,-81.08743286132812
+"29927","Hardeeville","SC","Shyam Food Market","Bay Street","31415",32.089858,-81.124364
+"29927","Hardeeville","SC","Serenity House Tea Society & Shoppe","141 Bull St","31401",32.076603999999996,-81.089964
+"29927","Hardeeville","SC","chu's","not_available","31401",32.06309921963251,-81.10213320272116
+"29927","Hardeeville","SC","Coastal Coffee & Equipment","104 C Central Jct Blvd","31405",32.055234,-81.129307
+"29927","Hardeeville","SC","Chu's","1336 W Bay St","31415",32.087899,-81.115412
+"29927","Hardeeville","SC","Foodfresh","not_available","30417",32.07527777777778,-81.09861111111111
+"29928","Hilton Head Island","SC","Piggly Wiggly","1 N Forest Beach Rd","29928",32.14436359416485,-80.75090378522872
+"29928","Hilton Head Island","SC","BI-LO","70 Pope Ave","29928",32.14471771444239,-80.75585938758384
+"29936","Ridgeland","SC","Piggly Wiggly","North Jacob Smart Blvd","not_available",32.48146285,-80.980363
+"29936","Ridgeland","SC","Harvey's Supermarket","8205 E Main St","29936",32.47983235814038,-80.9743168465803

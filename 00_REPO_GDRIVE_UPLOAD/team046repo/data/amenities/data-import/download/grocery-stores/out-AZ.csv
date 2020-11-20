@@ -1,0 +1,948 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"85003","Phoenix","AZ","Yaun Ah Gim Groceries​","1002 S. 4th Ave","85003",33.43800837707023,-112.07978081298623
+"85003","Phoenix","AZ","VegCo","1300 N Central Ave","85004",33.4628,-112.07415900000001
+"85004","Phoenix","AZ","Fry's Food and Drug","100 E Jefferson St","85004",33.4472987,-112.0723818
+"85004","Phoenix","AZ","Safeway","340 E McDowell Rd","85004",33.4660937,-112.0671474
+"85004","Phoenix","AZ","Phoenix Public Market","721 N. Central Ave.","85004",33.45574620631791,-112.07323753068445
+"85006","Phoenix","AZ","Los Altos Ranch Markets","1602 E Roosevelt St","85006",33.45968015386531,-112.0463514370255
+"85006","Phoenix","AZ","Sunshine Market","2302 N 12th St","85006",33.473245404297536,-112.05675646777664
+"85006","Phoenix","AZ","Foodway Market","1188-1198 E Moreland St","85006",33.461037,-112.05658899999999
+"85006","Phoenix","AZ","Food City #12","2124 E McDowell Rd","85006",33.46619415283203,-112.03544616699219
+"85006","Phoenix","AZ","American Way Market","928 E Pierce St","85006",33.456044,-112.06085300000001
+"85006","Phoenix","AZ","Food City","not_available","not_available",33.46674297789049,-112.03630528735034
+"85007","Phoenix","AZ","Busters Market","15th Ave","85007",33.455239,-112.091094
+"85007","Phoenix","AZ","Bati Bazaar","1510 W McDowell Rd","85007",33.466253739546005,-112.09193852068614
+"85008","Phoenix","AZ","Fry's Food Store","4505 E Thomas Rd","85018",33.479322,-111.9845016
+"85008","Phoenix","AZ","Walmart Supercenter","3721 E Thomas Rd","85018",33.47893514259096,-112.00085855622378
+"85008","Phoenix","AZ","Halal Ranch Market","3401 E McDowell Rd","85008",33.465309000000005,-112.00766999999999
+"85008","Phoenix","AZ","Haat Bazaar","4107 E McDowell Rd","85008",33.465340999999995,-111.992602
+"85008","Phoenix","AZ","Sultan Market","2722 E McDowell Rd","85008",33.466195464134216,-112.02283501625061
+"85008","Phoenix","AZ","Food City","4430 E McDowell Rd","85008",33.46621750600224,-111.98556739114753
+"85008","Phoenix","AZ","Frys Stores Thomas Rd","44th Street","85018",33.479042,-111.98402
+"85008","Phoenix","AZ","Zest Market","not_available","85008",33.47878767305142,-112.01823588956496
+"85008","Phoenix","AZ","Discount Food Box","5536 E Thomas Rd","85018",33.480262756347656,-111.9618911743164
+"85008","Phoenix","AZ","Fry's Food & Drug","6080 E Thomas Rd","85251",33.4804685,-111.9500875
+"85009","Phoenix","AZ","Fry's Mercado","4230 W McDowell Rd","85009",33.467861,-112.1511227
+"85009","Phoenix","AZ","Food City","4239 W McDowell Rd","85009",33.465076,-112.15018899999998
+"85009","Phoenix","AZ","Smart & Final Extra!","1450 N. 43rd Ave.","85009",33.46402859990997,-112.15256784809829
+"85009","Phoenix","AZ","Food City","3442 W Van Buren St","85009",33.45234833315254,-112.13360509342122
+"85009","Phoenix","AZ","Yerberia y Envios Tamayo","3324 W Van Buren St","85009",33.45176315307617,-112.13262176513672
+"85009","Phoenix","AZ","Pba Produce Brokers of Az., Inc.","625 S 27th Ave","85009",33.44153594970703,-112.11636352539062
+"85009","Phoenix","AZ","Value Marketplace","3003 W Thomas Rd","85017",33.47989273071289,-112.12416076660156
+"85009","Phoenix","AZ","Food City","2715 W Van Buren St","85009",33.45058295346861,-112.11791953188447
+"85009","Phoenix","AZ","Fry's Fuel Center","4260 W. McDowell Road","85009",33.466356,-112.150565
+"85013","Phoenix","AZ","Safeway","520 W Osborn Rd","85013",33.4885441,-112.0816908
+"85013","Phoenix","AZ","Sprouts Farmers Market","3320 N 7th Ave","85013",33.4869813,-112.0842076
+"85013","Phoenix","AZ","Fry's Food Store","744 W Camelback Rd","85013",33.51138822979975,-112.08547265860034
+"85013","Phoenix","AZ","Natural Grocers","655 W Indian School Rd","85013",33.49457113145034,-112.08281142654168
+"85014","Phoenix","AZ","Bashas'","5555 N 7th St","85014",33.517670091831704,-112.06350456242026
+"85014","Phoenix","AZ","Healthy Habit Health Foods","6029 N 7th St","85014",33.525115,-112.0644594
+"85015","Phoenix","AZ","Food City #95","1940 W Indian School Rd","85015",33.49684081732564,-112.10157768590784
+"85015","Phoenix","AZ","Walmart Supercenter","1607 W Bethany Home Rd","85015",33.52238182,-112.0930272
+"85015","Phoenix","AZ","Fry's Marketplace","1815 W Glendale Ave","85021",33.5373336,-112.0980908
+"85015","Phoenix","AZ","Phoenix Farms","3353 N 19th Ave","85015",33.48627251843541,-112.09911084752518
+"85015","Phoenix","AZ","Minh Water & Ice","N 17th Ave, Phoenix, AZ","85015",33.50952132673464,-112.09900037198486
+"85015","Phoenix","AZ","Aziz Food Store","4424 N 19th Ave","85015",33.501428961753845,-112.10014700889587
+"85015","Phoenix","AZ","El Super","2211 W Camelback Rd","85015",33.5085943882761,-112.10725690429916
+"85015","Phoenix","AZ","Namaste Market","4801 N 19th Ave","85015",33.508161,-112.099223
+"85015","Phoenix","AZ","Loi Phat Oriental Market","1702 W Camelback Rd","85015",33.51337989301477,-112.09492792051842
+"85015","Phoenix","AZ","Loi Nam","not_available","85015",33.492678000000005,-112.100373
+"85016","Phoenix","AZ","Fry's Food Store","4724 N 20th St","85016",33.5067315,-112.0410774
+"85016","Phoenix","AZ","Safeway","3132 E Camelback Rd","85016",33.5115084,-112.0146458
+"85016","Phoenix","AZ","Trader Joe's","4821 N 20th St","85016",33.50722703794009,-112.03773875402634
+"85016","Phoenix","AZ","Whole Foods Market","4701 N. 20th Street","85016",33.50643857990166,-112.03790656135357
+"85016","Phoenix","AZ","Sprouts Farmers Market","1625 E Glendale Ave","85020",33.53744653406137,-112.045958340168
+"85016","Phoenix","AZ","Sprouts Farmers Market","2824 E Indian School Rd, #126","85016",33.4959774,-112.0197914
+"85016","Phoenix","AZ","Fry's Food Store","3036 E Thomas Rd","85016",33.4815523,-112.0169185
+"85016","Phoenix","AZ","Smart & Final","2742 E. Indian School Road","85016",33.495497680624815,-112.02234919180684
+"85016","Phoenix","AZ","El Super - Phoenix - 32nd","3130 E Thomas Rd","85016",33.480985103626004,-112.01494966503219
+"85016","Phoenix","AZ","Guate Mercado","3136 N 26th Pl","85016",33.485343,-112.025152
+"85016","Phoenix","AZ","Sunnyside Smoke & Vape","2314 East Indian School Road","85016",33.495114,-112.031858
+"85017","Phoenix","AZ","Walmart Supercenter","6145 N 35th Ave","85017",33.52635234,-112.1325052
+"85017","Phoenix","AZ","Lams Super Market","3446 W Camelback Rd","85017",33.51044464111328,-112.13289642333984
+"85017","Phoenix","AZ","Los Altos Ranch Markets","3223 W Indian School Rd","85017",33.493325997248284,-112.1289767870831
+"85017","Phoenix","AZ","Food City","27th Ave and Bethany Home","not_available",33.525093009886604,-112.11602906831055
+"85017","Phoenix","AZ","TwillightZone Meeting Spot","2700-2748 W Rovey Ave","85017",33.52495243811936,-112.11626473471213
+"85017","Phoenix","AZ","Juicy Vapes","2609 W Bethany Home Rd","85017",33.523644,-112.114655
+"85017","Phoenix","AZ","Carniceria Los Reyes","2647 W Glendale Ave","85051",33.537756,-112.116144
+"85017","Phoenix","AZ","Herd Stop","not_available","85017",33.512014,-112.122564
+"85017","Phoenix","AZ","Los Altos Ranch Markets","3415 W Glendale Ave","85051",33.53753145422705,-112.13287348934085
+"85018","Phoenix","AZ","Safeway","4750 E Indian School Rd","85018",33.4959552,-111.9792697
+"85018","Phoenix","AZ","AJ's Fine Foods","4430 E Camelback Rd","85018",33.5106060811561,-111.98559713348507
+"85018","Phoenix","AZ","Red Star Vapor & CBD","3636 E Indian School Rd","85018",33.4954879,-112.0026186
+"85018","Phoenix","AZ","The MARKET RESTAURANT+BAR","3603 E. Indian School Rd. Ste A","85018",33.49489974975586,-112.00289154052734
+"85018","Phoenix","AZ","Pizza On 40th - 2 Slices of Pizza and A Drink for $4.50","3937 E Indian School Rd","85018",33.4940588,-111.9958268
+"85019","Phoenix","AZ","Chi & Hing Food Service, Inc.","4545 N 43rd Ave","85031",33.5045431,-112.1508792
+"85020","Phoenix","AZ","Safeway","810 E Glendale Ave","85020",33.5393924,-112.0624304
+"85020","Phoenix","AZ","Walmart Neighborhood Market","115 E Dunlap Ave","85020",33.56669872842761,-112.07225593035312
+"85020","Phoenix","AZ","Fry's Marketplace","850 E Hatcher Rd","85020",33.572644743390306,-112.06095457077026
+"85020","Phoenix","AZ","Orange Food store","not_available","85020",33.565735288812306,-112.07371112507214
+"85021","Phoenix","AZ","Albertsons","8035 N 19th Ave","85021",33.5545258,-112.098173
+"85021","Phoenix","AZ","Sprouts Farmers Market","8040 N 19th Ave","85021",33.5545904,-112.1011538
+"85021","Phoenix","AZ","El Rancho Market","8901 N 19th Ave","85021",33.566301611898744,-112.09822705265195
+"85022","Phoenix","AZ","Fry's Marketplace","1311 E Bell Rd","85022",33.6387557,-112.0537567
+"85022","Phoenix","AZ","Target","16806 N 7th St","85022",33.63840110452616,-112.06919840426035
+"85022","Phoenix","AZ","Sprouts Farmers Market","245 E Bell Road, #15","85022",33.63932036339067,-112.07195162773132
+"85022","Phoenix","AZ","WinCo Foods","330 W Bell Rd","85023",33.64151324923608,-112.079614765019
+"85022","Phoenix","AZ","Bashas'","731 E Union Hls Dr","85024",33.65393059747936,-112.0642556324627
+"85022","Phoenix","AZ","Albertsons","18411 N Cave Creek Rd","85032",33.6534026753694,-112.0292911085744
+"85022","Phoenix","AZ","Safeway","13440 N 7th St","85022",33.608899548778545,-112.06695333884454
+"85022","Phoenix","AZ","Safeway","550 E Bell Rd","85022",33.6415421,-112.0669963
+"85022","Phoenix","AZ","Turmeric Indian Cash N Carry","Bell & 12th","85022",33.640778,-112.05641
+"85022","Phoenix","AZ","Wimco","not_available","85023",33.642539978027344,-112.07813262939453
+"85022","Phoenix","AZ","Indo-Euro Foods","1601 E Bell Rd","85022",33.63967334105562,-112.04730808224225
+"85023","Phoenix","AZ","Walmart Supercenter","1825 W Bell Rd","85023",33.63757614,-112.0979874
+"85023","Phoenix","AZ","Fry's Food Store","18420 N 19th Ave","85023",33.65397238862271,-112.10139691829681
+"85023","Phoenix","AZ","New Tokyo Food Market","not_available","85027",33.65306854248047,-112.11454010009766
+"85023","Phoenix","AZ","Brian's Discount Market","13648 N 19th Ave","85029",33.609809000000006,-112.101096
+"85023","Phoenix","AZ","أسواق وحلويات المنار | Al-Manar Food & Market (Al-Manar Food & Market)","1930 W Thunderbird Rd #108","85023",33.611846923828125,-112.10157012939453
+"85024","Phoenix","AZ","Misha's European Food Market","814 E Union Hls Dr Ste C4","85024",33.656129,-112.06341100000002
+"85024","Phoenix","AZ","Carniceria Ponderosa","2340 E Union Hls Dr","85024",33.65576,-112.03143
+"85027","Phoenix","AZ","Walmart Supercenter","2501 W Happy Valley Rd Ste 34","85085",33.70932924,-112.1129894
+"85027","Phoenix","AZ","Walmart Grocery Pickup","2501 W Happy Valley Rd","85085",33.7128,-112.11174
+"85028","Phoenix","AZ","Fry's Marketplace","4707 E Shea Blvd","85028",33.580870566576586,-111.97899162769318
+"85028","Phoenix","AZ","Walmart Supercenter","4747 E Cactus Rd","85032",33.596595122557396,-111.97856599728716
+"85028","Phoenix","AZ","Bashas'","10631 N 32nd St","85028",33.58365090845505,-112.0118271557945
+"85028","Phoenix","AZ","Trader Joe's","4726 East Shea Blvd","85028",33.58325928275885,-111.97908550500868
+"85028","Phoenix","AZ","Whole Foods Market","10810 N Tatum Blvd","85028",33.58464208048394,-111.9791047025359
+"85028","Phoenix","AZ","Ship-rite","10810 N Tatum Blvd Ste 102","85028",33.584485,-111.979013
+"85029","Phoenix","AZ","Walmart Supercenter","9600 N Metro Pkwy W","85051",33.57297833967669,-112.12146563429698
+"85029","Phoenix","AZ","Fry's Food Store","3421 W Thunderbird Rd","85053",33.60931667896053,-112.1322932991643
+"85029","Phoenix","AZ","Frys","3511 W Peoria Ave","85029",33.5810408,-112.135488
+"85029","Phoenix","AZ","Fry's Food Store","4202 W Cactus Rd","85029",33.5976285,-112.1502008
+"85029","Phoenix","AZ","Hi-Health","4261 W Thunderbird Rd.","85023",33.61042148394433,-112.15060420197285
+"85029","Phoenix","AZ","Fry's Grocery Pickup and Delivery","4204 W Cactus Rd","85029",33.5980073,-112.1502158
+"85029","Phoenix","AZ","Food City","2806 W Cactus Rd","85029",33.59722707326322,-112.11838571349595
+"85031","Phoenix","AZ","Walmart Supercenter","5250 W Indian School Rd","85031",33.49608089,-112.1722555
+"85031","Phoenix","AZ","El Super","5127 W. Indian School Rd.","85031",33.49369838811394,-112.17050691901545
+"85031","Phoenix","AZ","Los Altos Ranch Markets","5802 W Thomas Rd","85033",33.48181934785735,-112.18498559528264
+"85032","Phoenix","AZ","Fry's Marketplace","3246 E Bell Rd","85032",33.6414908,-112.0111187
+"85032","Phoenix","AZ","Fry's Food Store","4025 E Thunderbird Rd","85032",33.610996031265636,-111.99418898206204
+"85032","Phoenix","AZ","Walmart Supercenter","4617 E Bell Rd","85032",33.63863951627532,-111.98178749308258
+"85032","Phoenix","AZ","Fry's Food Store","4842 E Bell Rd","85254",33.64273287397371,-111.97603046894079
+"85032","Phoenix","AZ","Sprouts Farmers Market","12415 N Tatum Blvd","85032",33.5995334,-111.9785285
+"85032","Phoenix","AZ","Safeway","4747 E Greenway Rd","85032",33.6247355,-111.9786361
+"85032","Phoenix","AZ","Food City","3202 E Greenway Rd","85032",33.62834256358295,-112.01225647774372
+"85032","Phoenix","AZ","Smart & Final Extra!","13823 N. Tatum Blvd.","85032",33.612513,-111.976417
+"85032","Phoenix","AZ","Aladdin & Company","3802 E Kings Ave","85032",33.636537,-112.000258
+"85032","Phoenix","AZ","Malani World Mercato","4550 E Cactus Rd","85032",33.602154,-111.98165
+"85033","Phoenix","AZ","Safeway","4811 N 83rd Ave","85033",33.507865,-112.2360871
+"85033","Phoenix","AZ","Fry's Food & Drug","6601 W Indian School Rd","85033",33.4932143,-112.2016967
+"85033","Phoenix","AZ","Frys","8325 W Indian School Rd","85037",33.4924924,-112.2384884
+"85033","Phoenix","AZ","El Super Super Market","7502 W Thomas Rd","85033",33.48128860566142,-112.22141210763093
+"85033","Phoenix","AZ","Food City","6544 W Thomas Rd","85033",33.48131245800537,-112.20200852343035
+"85033","Phoenix","AZ","Juicy Vapes","2929 N 75th Ave Ste #9","85033",33.48138,-112.219246
+"85034","Phoenix","AZ","FreeLife International, Inc.","4717 E Hilton Ave Ste 100","85034",33.42616653442383,-111.98075866699219
+"85034","Phoenix","AZ","Custom Food Service","719 E Jackson St, Phoenix, AZ 85034","85034",33.444679260253906,-112.064697265625
+"85034","Phoenix","AZ","Royal Cup Coffee and Tea","1710 E Grant St","85034",33.4419876,-112.0440041
+"85034","Phoenix","AZ","Bigeye Fish Co","not_available","85034",33.446989,-112.044632
+"85035","Phoenix","AZ","Walmart Supercenter","2020 N 75th Ave","85035",33.4706139,-112.2228956
+"85035","Phoenix","AZ","Food City","5114 W McDowell Rd","85035",33.467214495355336,-112.17015547407111
+"85037","Phoenix","AZ","Fry's Food Store","10675 W Indian School Rd","85392",33.4920852,-112.2883314
+"85037","Phoenix","AZ","Walmart Supercenter","5010 N 95th Ave","85305",33.51020902770212,-112.26701081131935
+"85037","Phoenix","AZ","Food City","9020 W Thomas Rd","85037",33.481033331350865,-112.25369558616946
+"85037","Phoenix","AZ","Warsaw Village Worlds Foods","10720 W Indian School Rd Ste 79","85037",33.49463653564453,-112.2917709350586
+"85040","Phoenix","AZ","Safeway","6202 S 16th St","85042",33.3905794,-112.0494767
+"85040","Phoenix","AZ","Food City","4727 E Southern Ave","85042",33.39191606844394,-111.97946503116722
+"85040","Phoenix","AZ","Pro's Ranch Markets","5833 S Central Ave","85040",33.392993817912675,-112.07185586740042
+"85040","Phoenix","AZ","Carniceria Castillo","4426 S Central Ave","85040",33.40595535483285,-112.07361727952957
+"85040","Phoenix","AZ","Carniceria Los Amigos","not_available","85042",33.392494,-111.98025
+"85040","Phoenix","AZ","Marketville","1632 E Southern Ave","85040",33.39333724975586,-112.04619598388672
+"85040","Phoenix","AZ","Rancho Grande","4227 S Central Ave","85040",33.40750957481588,-112.07284871359077
+"85041","Phoenix","AZ","Safeway","5035 W Baseline Rd","85339",33.3762559,-112.1661856
+"85041","Phoenix","AZ","Walmart Supercenter","6150 S 35th Ave","85041",33.39034233613547,-112.13662743794188
+"85041","Phoenix","AZ","Food City","845 S Southern Ave","85041",33.39109975076932,-112.0839229874307
+"85041","Phoenix","AZ","Del Monte Market","2659 W Dobbins Rd","85041",33.36298344156602,-112.11744957607664
+"85042","Phoenix","AZ","Fry's Food Store","2250 E Baseline Rd","85042",33.3793258,-112.0318298
+"85042","Phoenix","AZ","Bashas'","4855 E Warner Rd","85044",33.330463915461095,-111.97869803460702
+"85042","Phoenix","AZ","Safeway","4747 E Elliot Rd","85044",33.3482121,-111.982084
+"85042","Phoenix","AZ","Walmart Neighborhood Market","2435 E Baseline Rd","85042",33.376423911837456,-112.02920553621391
+"85042","Phoenix","AZ","Fry's Food & Drug","2700 W Baseline Rd","85283",33.3792137,-111.9770705
+"85042","Phoenix","AZ","Fry's Grocery Pickup and Delivery","520 E Baseline Rd","85042",33.37896728515625,-112.06602478027344
+"85042","Phoenix","AZ","Food City","7227 S Central Ave","85042",33.38036386341317,-112.07144309271322
+"85043","Phoenix","AZ","Walmart Supercenter","7575 W Lower Buckeye Rd","85043",33.42060934949677,-112.22327206374324
+"85043","Phoenix","AZ","Sysco Arizona","611 S 80th Ave","85353",33.44197975254204,-112.23114367931136
+"85043","Phoenix","AZ","Phoenix Meats Carniceria","5131 W Latham St","85043",33.4599494934082,-112.1706314086914
+"85043","Phoenix","AZ","Kellogg Supply Co.","405 N 75th Ave Ste 144","85043",33.453746,-112.21918400000001
+"85043","Phoenix","AZ","Carniceria Mana","8240 W Lower Buckeye Rd #110","85043",33.423506,-112.237127
+"85044","Phoenix","AZ","Fry's Food Store","3616 E Ray Rd","85044",33.3168263,-112.005154
+"85044","Phoenix","AZ","Sprouts Farmers Market","4735 E Ray Rd, Ste 100","85044",33.31767502219091,-111.98150485754007
+"85048","Phoenix","AZ","Fry's Marketplace","3949 E Chandler Blvd","85048",33.303461427386054,-111.99867367744446
+"85048","Phoenix","AZ","Safeway","4005 E Chandler Blvd","85048",33.3030388,-111.9963435
+"85048","Phoenix","AZ","Trader Joe's","4025 E Chandler Blvd","85048",33.304019962240616,-111.99453081666131
+"85048","Phoenix","AZ","Safeway","1334 E Chandler Blvd","85048",33.307029,-112.0539249
+"85048","Phoenix","AZ","Above all Health LLC","4354 E Mountain Vista Dr","85048",33.3014346,-111.9892076
+"85050","Phoenix","AZ","Albertsons","21001 N Tatum Blvd Ste 76","85050",33.67862831103052,-111.97470279086701
+"85050","Phoenix","AZ","Sprouts Farmers Market Support Office","5455 E High St, Ste 111","85054",33.6752052,-111.9634848
+"85051","Phoenix","AZ","Romanelli's Italian Deli","3437 W Dunlap Ave","85051",33.567111,-112.13331799999999
+"85051","Phoenix","AZ","New Tokyo Food Market","3435 W Northern Ave","85051",33.552865625062026,-112.13330808476792
+"85051","Phoenix","AZ","Food City","3514 W Glendale Ave","85051",33.539714980856104,-112.13522011041167
+"85051","Phoenix","AZ","Seoul Market","8935 N 43rd Ave","85051",33.566599,-112.151211
+"85051","Phoenix","AZ","International 88 Market","not_available","85051",33.56713905926008,-112.1359335602285
+"85053","Phoenix","AZ","Fry's Marketplace","2727 W Bell Rd","85053",33.6384146,-112.1200376
+"85053","Phoenix","AZ","Safeway","3450 W Bell Rd","85053",33.6407219,-112.1336532
+"85053","Phoenix","AZ","South Indian Market","3515 W Union Hills Dr","85308",33.65374465601667,-112.13528394699097
+"85053","Phoenix","AZ","Smart & Final Extra!","3434 W. Greenway Rd.","85053",33.626346588134766,-112.13249206542969
+"85054","Phoenix","AZ","Whole Foods Market","7111 E. Mayo Blvd.","85054",33.65382941990208,-111.92721226794293
+"85083","Phoenix","AZ","Safeway","3800 W Happy Valley Rd","85310",33.71440466834217,-112.14109006137699
+"85083","Phoenix","AZ","Fry's Food Store","6625 W Happy Valley Rd","85310",33.7107422,-112.2018891
+"85083","Phoenix","AZ","Walmart Neighborhood Market","6550 West Happy Valley Rd","85310",33.71350674828158,-112.20127171882899
+"85083","Phoenix","AZ","4 Sons Food Stores","3610 W Pinnacle Peak Rd","85310",33.698745277029325,-112.13970294089093
+"85085","Phoenix","AZ","Fry's Marketplace","2800 W Dove Valley Rd","85085",33.78605378647799,-112.1194052696228
+"85085","Phoenix","AZ","Albertsons","3130 W Carefree Hwy","85086",33.7998807,-112.1270473
+"85086","Phoenix","AZ","Fry's Marketplace","39508 N Daisy Mountain Dr","85086",33.8442801,-112.1342092
+"85086","Phoenix","AZ","Walmart Supercenter","4435 W Anthem Way","85086",33.86960679149193,-112.15478517945826
+"85086","Phoenix","AZ","Safeway","3655 W Anthem Way","85086",33.86519260610813,-112.13898809286547
+"85086","Phoenix","AZ","OOVAPE","3668 W Anthem Way B150","85086",33.8688516,-112.1387508
+"85086","Phoenix","AZ","4 Sons Food Stores","4266 W Honda Bow Rd","85086",33.871820800721515,-112.15162396430969
+"85086","Phoenix","AZ","Westland Water LLC","35802 N 3rd St","85086",33.8103212,-112.0705753
+"85087","New River","AZ","Jackass Acres","not_available","85087",33.9148961435673,-112.14277405045426
+"85118","Gold Canyon","AZ","Bashas'","5311 S Superstition Mountain Dr","85118",33.366533044849156,-111.47509059587529
+"85118","Gold Canyon","AZ","Bashas","60 hwy","85218",33.300323027951194,-111.39637267300465
+"85119","Apache Junction","AZ","Fry's Food Store","150 E Old West Hwy","85119",33.4136023,-111.5438625
+"85119","Apache Junction","AZ","The Good Apple","100 N Plaza Dr","85120",33.416737,-111.55077299999999
+"85120","Apache Junction","AZ","Fry's Marketplace","2724 S Signal Butte Rd","85209",33.36584030633922,-111.60399738051638
+"85120","Apache Junction","AZ","Walmart Supercenter","1606 S Signal Butte Rd","85209",33.38472949810031,-111.5999738909981
+"85120","Apache Junction","AZ","Safeway","4316 S Signal Butte Rd","85212",33.3368669,-111.6023325
+"85120","Apache Junction","AZ","Sprouts Farmers Market","1240 S Signal Butte Rd","85209",33.39207117488372,-111.59923339444276
+"85120","Apache Junction","AZ","Walmart Supercenter","2555 W Apache Trl","85120",33.41385081065369,-111.57499940956994
+"85120","Apache Junction","AZ","Fry's Marketplace Sushi Bar","not_available","85209",33.36541,-111.60378
+"85120","Apache Junction","AZ","Safeway","3185 W Apache Trl","85120",33.4137583,-111.5796708
+"85120","Apache Junction","AZ","Bashas'","10715 E Apache Trl","85120",33.413850428643826,-111.59953274651997
+"85120","Apache Junction","AZ","Schwan's Truck Load Sale!","SW Corner","85212",33.36409792336237,-111.60124317063644
+"85122","Casa Grande","AZ","Walmart Supercenter","1741 E Florence Blvd","85122",32.877809074696444,-111.7119557212745
+"85122","Casa Grande","AZ","Fry's Marketplace","2858 N Pinal Ave","85122",32.9400672,-111.7547892
+"85122","Casa Grande","AZ","Food City","1170 E Florence Blvd","85122",32.880660260826545,-111.73642423430759
+"85122","Casa Grande","AZ","Safeway","1637 N Trekell Rd","85122",32.8954328,-111.7415593
+"85122","Casa Grande","AZ","Fry's Food Store","1385 E Florence Blvd","85122",32.87864593284239,-111.72775717112017
+"85122","Casa Grande","AZ","Food City","Florence St","85122",32.87728299165343,-111.7533934153888
+"85122","Casa Grande","AZ","frys","not_available","85222",32.87929379222257,-111.72920155415673
+"85122","Casa Grande","AZ","Big Lots","1346 E Florence Blvd Ste 3","85122",32.88093711846275,-111.72871616544023
+"85122","Casa Grande","AZ","Albertsons","1116 E Florence Blvd","85122",32.88079071044922,-111.73902130126953
+"85122","Casa Grande","AZ","Food City","Florence Blvd","85122",32.877424,-111.75298500000001
+"85128","Coolidge","AZ","Safeway","3325 N Hunt Hwy","85132",33.0625793,-111.4835732
+"85128","Coolidge","AZ","Walmart Supercenter","1695 N Arizona Blvd","85128",32.99994464464413,-111.52056867047463
+"85128","Coolidge","AZ","Safeway","1449 N Arizona Blvd","85128",32.9939378,-111.5215426
+"85128","Coolidge","AZ","Shope's IGA","1940 S Arizona Blvd","85128",32.9604,-111.525456
+"85128","Coolidge","AZ","Shope's Market","South Arizona Ave.","85128",32.9605709772323,-111.52522625385694
+"85131","Eloy","AZ","Food Town IGA","13 N Santa Cruz Ave","85231",32.74950148035715,-111.54873847961426
+"85132","Florence","AZ","IGA Gordon's","345 Alden","not_available",33.05892049197432,-110.90614074890463
+"85137","Kearny","AZ","Leo's Grocery Store","not_available","85273",33.292291,-111.105052
+"85138","Maricopa","AZ","Fry's Marketplace","20797 N John Wayne Pkwy","85139",33.0675626,-112.045014
+"85138","Maricopa","AZ","Walmart Supercenter","41650 W Maricopa Casa Grande Hwy","85138",33.03911010699013,-112.01452726596062
+"85138","Maricopa","AZ","Bashas'","21044 N John Wayne Pkwy","85139",33.07114768861914,-112.0462421572065
+"85138","Maricopa","AZ","Micheal's Foodmart","36622 West Highway 84","85172",32.8797954,-111.9608585
+"85138","Maricopa","AZ","Fry’s Clicklist","John Wayne Parkway","85139",33.068292,-112.044472
+"85138","Maricopa","AZ","Barajas Market","37650 W. Hwy 84","85272",32.87938422630441,-111.96385546816481
+"85140","San Tan Valley","AZ","Fry's Marketplace","155 W Combs Rd","85140",33.218109114589836,-111.56573028878483
+"85140","San Tan Valley","AZ","Safeway","not_available","85140",33.251179936445546,-111.56515559702785
+"85140","San Tan Valley","AZ","Walmart Grocery Pickup and Delivery","1725 W Hunt Hwy","85143",33.17789483,-111.5822745
+"85140","San Tan Valley","AZ","Fryes Combs Rd","not_available","85242",33.23280112849759,-111.56321720558128
+"85142","Queen Creek","AZ","Fry's Marketplace","6470 S Higley Rd","85298",33.2324322,-111.7232648
+"85142","Queen Creek","AZ","Walmart Supercenter","21055 E Rittenhouse Rd","85142",33.251138028841815,-111.62959207931958
+"85142","Queen Creek","AZ","Sprouts Farmers Market","21181 S Ellsworth Loop Rd","85142",33.25615053202592,-111.63639843463892
+"85142","Queen Creek","AZ","Bashas'","23760 S Power Rd","85142",33.23301337320275,-111.68713394216081
+"85142","Queen Creek","AZ","Safeway","18495 E Queen Creek Rd","85142",33.2648329,-111.6839415
+"85142","Queen Creek","AZ","Fry's","3261 Higley Rd","85242",33.222566062017165,-111.72060193036741
+"85142","Queen Creek","AZ","CRYSTAL CANYON VAPES","22424 S Ellsworth Loop","85142",33.2447717,-111.6385106
+"85143","San Tan Valley","AZ","Fry's Food Store","542 E Hunt Hwy","85143",33.1605491,-111.5603332
+"85147","Sacaton","AZ","Sacaton Super Mart","not_available","85247",33.07572041576531,-111.75524681547488
+"85201","Mesa","AZ","Walmart Supercenter","857 N Dobson Rd","85201",33.432351643126054,-111.86553077756231
+"85201","Mesa","AZ","Mekong Plaza","66 S Dobson Rd","85202",33.41340736434412,-111.87576390665295
+"85201","Mesa","AZ","AZ International Marketplace","1920 W Broadway Rd","85202",33.40898223589747,-111.87275713381116
+"85201","Mesa","AZ","Princess Market","2620 W Broadway Rd","85202",33.408277,-111.887791
+"85201","Mesa","AZ","Fry's Food Store","1245 W Main St","85201",33.413046241221146,-111.85802668333054
+"85201","Mesa","AZ","Safeway","1902 W Main St","85201",33.41646434952021,-111.87315934157886
+"85201","Mesa","AZ","Bashas'","339 E Brown Rd","85201",33.43468232819678,-111.82353482901428
+"85201","Mesa","AZ","Fairway Market","340 W Brown Rd","85201",33.435621000000005,-111.838968
+"85201","Mesa","AZ","Tortilleria Y Carniceria Linda","not_available","85201",33.426163,-111.839324
+"85201","Mesa","AZ","El Potrero","206 W Broadway","85210",33.408169,-111.845478
+"85201","Mesa","AZ","Yerberia La Mexicana San Juan","606 E Main St","85203",33.415565490722656,-111.81802368164062
+"85201","Mesa","AZ","wing lee","111 S Dobson Rd","85202",33.412517,-111.873797
+"85201","Mesa","AZ","Sunshine Market","2531 E University Dr","85281",33.422407796805594,-111.88253866707451
+"85202","Mesa","AZ","Baiz Fresh Foods","1858 W Baseline Rd","85202",33.37958198608009,-111.87547320938266
+"85202","Mesa","AZ","Albertsons","1951 W Baseline Rd","85202",33.3774698,-111.8761869
+"85202","Mesa","AZ","Asiana Market","1116 S Dobson Rd","85202",33.39474223215096,-111.8757274837022
+"85202","Mesa","AZ","Safeway","1225 W Guadalupe Rd","85202",33.3630438,-111.8598293
+"85202","Mesa","AZ","Red Star Vapor & CBD","1731 West Baseline Road","85202",33.37769222,-111.8721902
+"85202","Mesa","AZ","Food City","not_available","85210",33.39862,-111.8584
+"85202","Mesa","AZ","Bharat Bazaar","2110 W Southern Ave","85202",33.393665999999996,-111.87716100000002
+"85202","Mesa","AZ","Kerala Store","5082 S Price Rd Tempe AZ 85282","85282",33.3788948059082,-111.8939437866211
+"85202","Mesa","AZ","Tia Juanita Awesome Sauce LLC","not_available","85202",33.37848,-111.8762
+"85203","Mesa","AZ","Fry's Marketplace","1935 N Stapley Dr","85203",33.4504689,-111.8034185
+"85203","Mesa","AZ","Sprouts Farmers Market","1933 E Brown Rd, Ste 1","85203",33.436248,-111.789424
+"85203","Mesa","AZ","Walmart Neighborhood Market","730 E Mckellips Rd","85203",33.452730075498266,-111.81247611556665
+"85203","Mesa","AZ","Nature's Sunshine Products Inc","1341 E Hale St","85203",33.443295,-111.801572
+"85203","Mesa","AZ","Bashas'","1954 E McKellips Rd","85203",33.453029853958896,-111.78901067434356
+"85203","Mesa","AZ","Arizona Salsa and Spice Co","909 E Main Street","85203",33.414685,-111.81154140000001
+"85203","Mesa","AZ","Food City","1342 E Main St","85203",33.41596609708987,-111.80177498130695
+"85204","Mesa","AZ","Walmart Supercenter","1955 S Stapley Dr","85204",33.380450752802574,-111.80309306617458
+"85204","Mesa","AZ","Safeway","3622 E Southern Ave","85206",33.39520742249078,-111.75219745966388
+"85204","Mesa","AZ","AJ's Fine Foods","1836 S Val Vista Dr","85204",33.38192646155563,-111.75665765238108
+"85204","Mesa","AZ","Trader Joe's","2050 E Baseline Rd","85204",33.38100060503574,-111.7871570705046
+"85204","Mesa","AZ","Sprouts Farmers Market","2060 E Baseline Rd","85204",33.38091880086744,-111.78678587079048
+"85204","Mesa","AZ","Fry's Food Store","2727 E Broadway Rd","85204",33.4067383,-111.7722953
+"85204","Mesa","AZ","Walmart Neighborhood Market","1916 S Lindsay Rd","85204",33.38037693531183,-111.77257722663133
+"85204","Mesa","AZ","Los Altos Ranch Markets","1118 E Southern Ave","85204",33.39437002741885,-111.80695130795544
+"85204","Mesa","AZ","Water Mart","not_available","85204",33.393091685148576,-111.79060404238919
+"85204","Mesa","AZ","Frys Marketplace","Stapley","85201",33.40440665271396,-111.80543332725527
+"85204","Mesa","AZ","El Super","1251 E Southern Ave","85204",33.392323909700096,-111.80396242185724
+"85205","Mesa","AZ","Fry's Food Store","5941 E McKellips Rd","85215",33.45026445547503,-111.70275628566742
+"85205","Mesa","AZ","Walmart Supercenter","4505 E Mckellips Rd","85215",33.4493637148531,-111.73372922923991
+"85205","Mesa","AZ","Fry's Marketplace","4432 E. Main Street","85205",33.41590750855167,-111.73519760370249
+"85205","Mesa","AZ","Walmart Grocery Pickup","4505 E McKellips Rd","85215",33.449221,-111.733746
+"85205","Mesa","AZ","Bashas'","1122 N Higley Rd","85205",33.4359488227203,-111.72087580313114
+"85205","Mesa","AZ","Albertsons","441 N Val Vista Dr","85213",33.423972,-111.7520696
+"85205","Mesa","AZ","Fry's Grocery Pickup and Delivery","4440 E Main St","85205",33.41724878657096,-111.73498159946165
+"85205","Mesa","AZ","Walmart Grocery Pickup","5122 E University Dr","85205",33.423770904541016,-111.72053527832031
+"85205","Mesa","AZ","Fry's","not_available","85215",33.450220533842426,-111.74602815014214
+"85205","Mesa","AZ","Fry's Food and Drug","not_available","85205",33.43775088112415,-111.70237210489573
+"85206","Mesa","AZ","Walmart Supercenter","1710 S Greenfield Rd","85206",33.38436719342977,-111.73994357639977
+"85206","Mesa","AZ","Walmart Supercenter","6131 E Southern Ave","85206",33.39188954538541,-111.69916980147485
+"85206","Mesa","AZ","Sprouts Farmers Market","5225 E Southern Ave","85206",33.391957,-111.718163
+"85206","Mesa","AZ","Fry's Food Store","1915 S Power Rd","85206",33.3803702,-111.685646
+"85206","Mesa","AZ","WinCo Foods","1235 S Power Rd","85206",33.392589085845884,-111.68289701499273
+"85206","Mesa","AZ","Albertsons","325 S Power Rd","85206",33.4092941,-111.6824188
+"85206","Mesa","AZ","Majestic Beverages","6001 E Southern Ave #56","85206",33.3911648,-111.70037400000001
+"85207","Mesa","AZ","Albertsons","2727 N Power Rd","85215",33.46515890679728,-111.6817368865668
+"85207","Mesa","AZ","Bashas'","1133 N Ellsworth Rd","85207",33.4354843464122,-111.63152301961006
+"85207","Mesa","AZ","Safeway","1855 N Power Rd","85205",33.4499002,-111.682468
+"85208","Mesa","AZ","Fry's Food Store","435 S Ellsworth Rd","85208",33.40668098005975,-111.63072739893778
+"85209","Mesa","AZ","Bashas'","9925 E Baseline Rd","85209",33.37789545276712,-111.62066693193975
+"85209","Mesa","AZ","Albertsons","9243 E Baseline Rd","85209",33.3779248,-111.6336121
+"85209","Mesa","AZ","Walmart Neighborhood Market","8335 E Guadalupe Rd","85212",33.363304506757636,-111.65433276762141
+"85209","Mesa","AZ","Safeway","9101 E Baseline Rd","85209",33.37728233542379,-111.63823782804457
+"85210","Mesa","AZ","WinCo Foods","1363 N Arizona Ave","85233",33.37411793621456,-111.84056759746757
+"85210","Mesa","AZ","Fry's Food Store","554 W Baseline Rd","85210",33.3803002,-111.8436251
+"85210","Mesa","AZ","Walmart Supercenter","240 W Baseline Rd","85210",33.3809636,-111.8370008
+"85210","Mesa","AZ","Shamy Market","1110 W Southern Ave Ste 8","85210",33.3944631,-111.8556875
+"85212","Mesa","AZ","Walmart Supercenter","5290 S Power Rd","85295",33.31958731843298,-111.68936464384353
+"85212","Mesa","AZ","Bashas","not_available","85296",33.35183162668553,-111.69579864858507
+"85213","Mesa","AZ","Walmart Neighborhood Market","2725 E Mckellips Rd","85213",33.44965230030001,-111.7722731356647
+"85213","Mesa","AZ","WalMart","not_available","85213",33.4155318444508,-111.77146012172382
+"85213","Mesa","AZ","Walmart Grocery Pickup and Delivery","2725 E McKellips Rd","85213",33.45180493,-111.7720673
+"85215","Mesa","AZ","Sprouts Farmers Market","5918 E Longbow Pkwy","85215",33.47381267735117,-111.70264775463102
+"85215","Mesa","AZ","Bashas'","2864 N Power Rd","85215",33.46814819799295,-111.68531103477969
+"85215","Mesa","AZ","Fry's Food Store","14845 E Shea Blvd","85268",33.5786902,-111.760343
+"85224","Chandler","AZ","Fry's Food Store","1950 W Ray Rd","85224",33.3215835,-111.8751125
+"85224","Chandler","AZ","Whole Foods Market","2955 West Ray Road","85224",33.318404,-111.892927
+"85224","Chandler","AZ","Walmart Supercenter","800 W Warner Rd","85225",33.337277214921045,-111.85485278948238
+"85224","Chandler","AZ","Safeway","1159 W Chandler Blvd","85224",33.3040668,-111.8630172
+"85224","Chandler","AZ","Sprouts Farmers Market","1959 W Ray Rd","85224",33.3190311,-111.8755441
+"85224","Chandler","AZ","Fry's Food Store","981 W Elliot Rd","85225",33.34806004705038,-111.85801295583587
+"85224","Chandler","AZ","Lee Lee International Supermarket","2025 N Dobson Rd","85224",33.33616550503117,-111.87468941014771
+"85224","Chandler","AZ","Cloves Indian Market","Chandler Blvd","85224",33.304348,-111.87302
+"85224","Chandler","AZ","East African Market","3029 N Alma School Rd","85224",33.35122525691986,-111.85784697532654
+"85224","Chandler","AZ","My Store","3000 N Alma School Rd","85224",33.350393,-111.860326
+"85224","Chandler","AZ","Red Star Vapor & CBD","1250 N Alma School Rd #32","85224",33.3228645324707,-111.85971069335938
+"85225","Chandler","AZ","Fry's Food Store","855 W Warner Rd","85233",33.33395739814261,-111.80837282539642
+"85225","Chandler","AZ","Walmart Supercenter","1175 S Arizona Ave","85286",33.28954385321764,-111.83857958388873
+"85225","Chandler","AZ","Safeway","1060 E Ray Rd","85225",33.3222516,-111.8219876
+"85225","Chandler","AZ","Walmart Neighborhood Market","1900 E Chandler Blvd","85225",33.30759336910792,-111.80835788894741
+"85225","Chandler","AZ","Food City","1005 N Arizona Ave","85225",33.32151393438156,-111.83969158710951
+"85225","Chandler","AZ","El Rancho Market","1076 N Arizona Ave","85225",33.322217134464985,-111.84259785786386
+"85225","Chandler","AZ","Bhavya's Int'l Market","1915 East Chandler Blvf","85225",33.33607686391347,-111.80569533072841
+"85225","Chandler","AZ","Schwan's Truck Load Sale","SE Corner Elliot Rd/Arizona Ave","85225",33.349413,-111.841426
+"85225","Chandler","AZ","Carniceria El Herradero","101 W Frye Rd","85225",33.298704,-111.843052
+"85226","Chandler","AZ","Fry's Marketplace","9900 S Rural Rd","85284",33.3215495,-111.9300192
+"85226","Chandler","AZ","Walmart Supercenter","3460 W. Chandler Boulevard","85226",33.30738173385051,-111.90158584189246
+"85226","Chandler","AZ","Albertsons","4060 W Ray Rd","85226",33.3217387,-111.9127073
+"85226","Chandler","AZ","AJ's Fine Foods","7131 W Ray Rd #37","85226",33.31811107874255,-111.9642150497353
+"85226","Chandler","AZ","Natural Grocers","5805 W Ray Rd","85226",33.31952105267487,-111.94158869323401
+"85226","Chandler","AZ","Basha's Warehouse","200 S 56th St","85226",33.299581515259945,-111.96332493067219
+"85226","Chandler","AZ","Ashoka Indian Groceries","6170 W Chandler Blvd","85226",33.30595587646895,-111.94872740894313
+"85226","Chandler","AZ","Hi Health","2967-2999 W Frye Rd","85224",33.29738259315491,-111.89883649349213
+"85226","Chandler","AZ","Honeyville Farms","33 S 56th St","85226",33.303851,-111.96217800000001
+"85233","Gilbert","AZ","Fry's Marketplace","1845 E Baseline Rd","85233",33.37696424710873,-111.7910572886467
+"85233","Gilbert","AZ","Smart & Final","750 N Gilbert Rd","85234",33.36396424683089,-111.79218377504728
+"85234","Gilbert","AZ","Fry's Food And Drug","1455 N Higley Rd","85234",33.3767262,-111.7204032
+"85234","Gilbert","AZ","Bashas'","99 S Higley Rd","85296",33.34860070387224,-111.71978813608945
+"85234","Gilbert","AZ","Safeway","5137 E Baseline Rd","85234",33.3777118,-111.7239269
+"85234","Gilbert","AZ","Safeway","90 S Val Vista Dr","85296",33.3487111,-111.7570976
+"85234","Gilbert","AZ","Fry's Food Store","3751 E Baseline Rd","85234",33.3767262,-111.7204032
+"85234","Gilbert","AZ","Natural Grocers","2151 E Baseline Rd","85234",33.37878016523498,-111.78533222262192
+"85234","Gilbert","AZ","Stew Leonards","100 Wesport Ave.","06851",33.35560172366868,-111.7685838908456
+"85248","Chandler","AZ","Bashas'","10325 E Riggs Rd","85248",33.21790015875598,-111.85810779466857
+"85248","Chandler","AZ","Safeway","4970 S Alma School Rd","85248",33.233711558973006,-111.86043798923492
+"85248","Chandler","AZ","Albertsons","3145 S Alma School Rd","85248",33.260758,-111.8569772
+"85248","Chandler","AZ","Fry's Marketplace","2929 E Ocotillo Rd","85249",33.24582568588832,-111.79159104824066
+"85248","Chandler","AZ","Bashas'","4940 S Gilbert Rd","85249",33.23497970322547,-111.79140918781175
+"85248","Chandler","AZ","Fry's Marketplace","985 E Riggs Rd","85249",33.217372776693395,-111.8252044916153
+"85248","Chandler","AZ","Albertsons","2935 E Riggs Rd","85249",33.2176639,-111.7908573
+"85248","Chandler","AZ","Bashas'","22402 S Basha Rd","85248",33.253501362756786,-111.85820640228465
+"85248","Chandler","AZ","Tumeric Express","not_available","85249",33.246765,-111.82449
+"85248","Chandler","AZ","Spice Hut International Market","995 E Ocotillo Rd","85249",33.24665069580078,-111.82469177246094
+"85249","Chandler","AZ","Sprouts Farmers Market","4065 S Gilbert Rd","85249",33.24733086107017,-111.78801298141485
+"85250","Scottsdale","AZ","Target","9000 E Indian Bend Rd","85250",33.54026176304715,-111.88754699123166
+"85250","Scottsdale","AZ","Safeway","7920 E Chaparral Rd","85250",33.5105038,-111.9104323
+"85250","Scottsdale","AZ","Walmart Supercenter","4915 N Pima Rd","85251",33.507663320690845,-111.8899608020112
+"85250","Scottsdale","AZ","Sprouts Farmers Market","8787 N Scottsdale Rd","85253",33.56576582489693,-111.92451596260071
+"85250","Scottsdale","AZ","Albertsons","6965 N Hayden Rd","85250",33.5375595,-111.9062764
+"85250","Scottsdale","AZ","Bashas'","8423 E McDonald Dr","85250",33.522963665548964,-111.89909000324029
+"85250","Scottsdale","AZ","Maui Pasta","7704 E Doubletree Ranch Rd","85258",33.564945592392746,-111.91548228263855
+"85251","Scottsdale","AZ","Fry's Food Store","7628A E Indian School Rd","85251",33.4957501,-111.9160515
+"85251","Scottsdale","AZ","Sprouts Farmers Market","4402 N Miller Rd","85251",33.500953524502705,-111.91911399364471
+"85251","Scottsdale","AZ","Albertsons","2785 N Scottsdale Rd","85257",33.4790249,-111.9242042
+"85251","Scottsdale","AZ","Bashas'","8035 E Indian School Rd","85251",33.494195471404346,-111.90720724504796
+"85251","Scottsdale","AZ","Cactus Food Mart","8040 E Thomas Rd","85251",33.480709000000004,-111.90718899999999
+"85251","Scottsdale","AZ","Provisions Local Market","not_available","85251",33.491238,-111.932359
+"85251","Scottsdale","AZ","House of Rice","3221 N Hayden Rd","85251",33.48547708280107,-111.90845597793623
+"85251","Scottsdale","AZ","Super L Ranch Market","7919 E Thomas Rd","85251",33.478973,-111.91042
+"85253","Paradise Valley","AZ","AJ's Fine Foods","7141 E Lincoln Dr","85253",33.53075082484466,-111.92737816154143
+"85253","Paradise Valley","AZ","Trader Joe's","6202 N Scottsdale Rd","85253",33.5290530431621,-111.92742507480416
+"85253","Paradise Valley","AZ","Hi-Health","10300 N Scottsdale Rd","85253",33.579392999999996,-111.92753799999998
+"85253","Paradise Valley","AZ","Harp's","not_available","85253",33.54225540161133,-111.9286880493164
+"85253","Paradise Valley","AZ","Red Star Vapor","6969 E. Shea Blvd Ste 155","85254",33.5816727,-111.930753
+"85254","Scottsdale","AZ","Fry's Food Store","6321 E Greenway Rd","85254",33.6249013,-111.94484
+"85254","Scottsdale","AZ","Trader Joe's","7555 E Frank Lloyd Wright","85260",33.63589703016143,-111.91731959581375
+"85254","Scottsdale","AZ","Safeway","6501 E Greenway Pkwy Bldg 4","85254",33.6241041,-111.9416231
+"85254","Scottsdale","AZ","Safeway","10773 N Scottsdale Rd","85254",33.5843321,-111.9245641
+"85254","Scottsdale","AZ","Natural Grocers","13802 N Scottsdale Rd Ste 110","85254",33.611859665408154,-111.92722459083141
+"85254","Scottsdale","AZ","Double 8 Cattle Company","7575 E Redfield Rd Ste 235","85260",33.6125877,-111.9192726
+"85254","Scottsdale","AZ","Andy Food","7000 E Shea Blvd","85254",33.583648636915875,-111.92993883414476
+"85255","Scottsdale","AZ","Walmart Supercenter","15355 N Northsight Blvd","85260",33.624272001858174,-111.89309896720442
+"85255","Scottsdale","AZ","Fry's Marketplace","20427 N Hayden Rd","85255",33.671116,-111.9047733
+"85255","Scottsdale","AZ","Safeway","13733 N Fountain Hills Blvd","85268",33.6097092,-111.7277407
+"85255","Scottsdale","AZ","Safeway","14696 N Frank Lloyd Wright Blvd","85260",33.619372453704706,-111.87515258789057
+"85255","Scottsdale","AZ","Bashas'","10111 E Bell Rd","85260",33.63913911035719,-111.86414334671042
+"85255","Scottsdale","AZ","AJ's Fine Foods","15031 N Thompson Peak Pkwy","85260",33.62194792784852,-111.87348356749182
+"85255","Scottsdale","AZ","Sprouts Farmers Market","23269 N Scottsdale Rd","85255",33.697583230631615,-111.92340016365057
+"85255","Scottsdale","AZ","Bashas'","16605 E Palisades Blvd","85268",33.607919707048964,-111.72167047671888
+"85255","Scottsdale","AZ","AJ's Fine Foods","23251 N Pima Rd","85255",33.697019899434686,-111.88870441662748
+"85255","Scottsdale","AZ","Safeway","23565 N Scottsdale Rd","85255",33.69998433155652,-111.92299622303835
+"85255","Scottsdale","AZ","Safeway","20901 N Pima Rd","85255",33.6757719,-111.8881996
+"85255","Scottsdale","AZ","AJ's Fine Foods","18271 N Pima Rd","85255",33.65309788640751,-111.88588182068678
+"85255","Scottsdale","AZ","Bashes Scottsdale road","not_available","85255",33.67540781221214,-111.92324995994568
+"85255","Scottsdale","AZ","frys.com PGA scottsdale az","grayhawk country club","not_available",33.678595983605796,-111.90734003545425
+"85255","Scottsdale","AZ","Natures Finest Health Foods","16838 E Parkview Ave","85268",33.60587425360585,-111.71617693523767
+"85255","Scottsdale","AZ","Swiss Chard","14455 North Hayden Rd.","85260",33.61763,-111.90581
+"85255","Scottsdale","AZ","Bashas'","20745 N Scottsdale Rd","85255",33.675527759616045,-111.92359528623534
+"85257","Scottsdale","AZ","Fry's Food & Drug Store","7770 E McDowell Rd","85257",33.46726516716467,-111.91292390232775
+"85257","Scottsdale","AZ","Food City","1845 N Scottsdale Rd","85281",33.44991718493751,-111.9251403100198
+"85257","Scottsdale","AZ","Quick Mart Groceries","1806 N Scottsdale Rd","85281",33.449274,-111.92693600000001
+"85257","Scottsdale","AZ","Carniceria El Rancho","7607 E McDowell Rd #122","85257",33.464808000000005,-111.916707
+"85258","Scottsdale","AZ","Fry's Food Store","10450 N 90th St","85258",33.58085492462502,-111.88964992761606
+"85258","Scottsdale","AZ","Fry's Marketplace","8900 E Via Linda","85258",33.5696196,-111.8892317
+"85258","Scottsdale","AZ","Sprouts Farmers Market","9301 E Shea Blvd, Ste 132","85260",33.58138228028543,-111.88050091266632
+"85258","Scottsdale","AZ","Fry's Marketplace","not_available","85258",33.58239011082888,-111.84586905494828
+"85259","Scottsdale","AZ","Albertsons","11475 E Via Linda","85259",33.5890258,-111.8341614
+"85259","Scottsdale","AZ","Grocery Station","10810 E Via Linda","85259",33.58650983908596,-111.84973153879555
+"85263","Rio Verde","AZ","Tonto Basin IGA","45994 N Arizona Hwy 88","not_available",33.85597,-111.31119
+"85264","Fort Mcdowell","AZ","Tk.Surya Swalayan","Jln.Jend.Sudirman No.30","85119",33.5199031,-111.3083499
+"85266","Scottsdale","AZ","Safeway","32551 N Scottsdale Rd","85266",33.78112257191418,-111.92228436470026
+"85266","Scottsdale","AZ","AJ's Fine Foods","31311 N Scottsdale Rd","85266",33.76867082154987,-111.92422352677539
+"85266","Scottsdale","AZ","Albertsons","34442 N SCOTTSDALE ROAD","85262",33.7979819322426,-111.9298358144546
+"85281","Tempe","AZ","Whole Foods Market","750 S Ash Ave","85281",33.42216,-111.94275
+"85281","Tempe","AZ","El Paisano Market","1035 E Lemon St","85281",33.416433631172296,-111.92256331443787
+"85281","Tempe","AZ","Safeway","926 E Broadway Rd","85282",33.40901629270651,-111.92516152912958
+"85281","Tempe","AZ","Food City","1328 E Apache Blvd","85281",33.415311729778466,-111.91562413772299
+"85281","Tempe","AZ","Trader Joe's","940 E. University Drive","85281",33.4223923,-111.9250249
+"85281","Tempe","AZ","Haji-Baba","1513 E Apache Blvd","85281",33.414290787676734,-111.9135104985523
+"85281","Tempe","AZ","Fujiya Japanese Market","1335 W University Dr #5","85281",33.42128691942136,-111.96015499741704
+"85281","Tempe","AZ","AKE International Market","not_available","85281",33.408573898541725,-111.91048400934405
+"85281","Tempe","AZ","ASU Palo Verde Market","500 E University Dr","85281",33.42311961112703,-111.93289971466591
+"85281","Tempe","AZ","Rollins Market","1090 W 5th St","85281",33.42605782128221,-111.95623346193133
+"85281","Tempe","AZ","Sonora Market","401 E Adelphi Dr","85281",33.412422,-111.929581
+"85281","Tempe","AZ","Ako International Market","1400 S McClintock Dr #14","85281",33.413149,-111.9095379
+"85281","Tempe","AZ","Bharat Bazaar","933 E University Dr #114","85281",33.421350356786306,-111.92487531221323
+"85282","Tempe","AZ","Fry's Food Store","3255 S Rural Rd","85282",33.3939847233513,-111.92444355818225
+"85282","Tempe","AZ","Walmart Supercenter","800 E Southern Ave","85282",33.39377381977283,-111.92793922155072
+"85282","Tempe","AZ","Fry's Food Store","3232 S Mill Ave","85282",33.3938702,-111.9411121
+"85282","Tempe","AZ","Sprouts Farmers Market","1706 E Southern Ave","85282",33.39434045509679,-111.91133290529251
+"85282","Tempe","AZ","Fry's Marketplace","5100 S McClintock Dr","85282",33.3793734,-111.9109405
+"85283","Tempe","AZ","Walmart Supercenter","1380 W Elliot Rd","85284",33.350572771294964,-111.96096189090291
+"85283","Tempe","AZ","Fry's Food Store","1835 E Guadalupe Rd","85283",33.36225083400309,-111.90916230669245
+"85283","Tempe","AZ","Trader Joe's","6460 S McClintock Dr","85283",33.361964091696926,-111.9122434767444
+"85283","Tempe","AZ","Food City","825 W Baseline Rd","85283",33.37730273639346,-111.95053896977792
+"85284","Tempe","AZ","Sprouts Farmers Market","931 E Elliot Rd, Ste 110","85284",33.34772865927785,-111.9273591041565
+"85284","Tempe","AZ","Bashas'","1761 E Warner Rd","85284",33.333446615827725,-111.91215224434515
+"85284","Tempe","AZ","Safeway","1515 E Elliot Rd","85284",33.3482025,-111.9136415
+"85286","Chandler","AZ","Walmart Supercenter","2750 E Germann Rd","85286",33.28085984608337,-111.79330546567371
+"85286","Chandler","AZ","Fry's Food Store","2010 S Alma School Rd","85286",33.27565367700674,-111.86092033985005
+"85286","Chandler","AZ","WinCo Foods","222 W. Willis Road","85286",33.28545997670806,-111.84524243866879
+"85286","Chandler","AZ","Sprouts Farmers Market","2855 S Alma School Rd","85286",33.26465088537725,-111.85616267532492
+"85286","Chandler","AZ","El Sol Foods LLC","566 E Germann Rd Ste 109","85297",33.278939,-111.777363
+"85286","Chandler","AZ","ALDI","2844 S. Alma School Rd.","85286",33.2639925,-111.8586975
+"85295","Gilbert","AZ","Walmart Supercenter","2501 S Market St","85295",33.30493477956474,-111.74141823687827
+"85295","Gilbert","AZ","Fry's Food Store","3261 E Pecos Rd","85295",33.2909787,-111.7197537
+"85295","Gilbert","AZ","Fry's Food Store","87 E Williams Field Rd","85295",33.305031738858816,-111.78821012377738
+"85295","Gilbert","AZ","Trader Joe's","1779 E. Williams Field Rd.","85295",33.306228507934335,-111.75161004066466
+"85295","Gilbert","AZ","Sprouts Farmers Market","2582 S Val Vista Dr","85295",33.303331407467,-111.75759136676788
+"85295","Gilbert","AZ","WinCo Foods","1967 E Pecos Rd","85295",33.294044066069176,-111.74875056141481
+"85295","Gilbert","AZ","Natural Grocers","1625 E Williams Field Rd","85295",33.30631058487555,-111.7548154535915
+"85295","Gilbert","AZ","CDS","2787 Market St.","not_available",33.29563971921177,-111.74623193226579
+"85296","Gilbert","AZ","Fry's Food Store","714 S Val Vista Dr","85296",33.337292520661144,-111.7572995864428
+"85296","Gilbert","AZ","Albertsons","861 E Warner Rd","85296",33.33395,-111.7716903
+"85301","Glendale","AZ","Walmart Supercenter","5605 W Northern Ave","85301",33.55081228738313,-112.17976396036048
+"85301","Glendale","AZ","Fry's Food Store","4329 W Northern Ave","85301",33.5525039,-112.1531345
+"85301","Glendale","AZ","Los Altos Ranch Markets","6730 W Camelback Rd","85303",33.51073203657913,-112.20431994402617
+"85301","Glendale","AZ","Fry's Food Store","6710 W Bethany Home Rd","85303",33.5250543,-112.2042134
+"85301","Glendale","AZ","Fry's Food & Drug","4353 W Bethany Home Rd","85301",33.5224886523097,-112.15331022793634
+"85301","Glendale","AZ","GS Supermarket","5127 W Glendale Ave","85301",33.53712,-112.16956200000001
+"85301","Glendale","AZ","Fry's Food and Drug","not_available","85302",33.56317792962731,-112.16181087408286
+"85301","Glendale","AZ","Food City","6020 N 59th Ave","85301",33.52537155151367,-112.18670654296875
+"85301","Glendale","AZ","Sprouts Produce Warehouse","5445 W Missouri Ave","85301",33.515396,-112.17523200000001
+"85301","Glendale","AZ","Veggie Rebellion","5717 West Glendale Avenue","85301",33.538340999999996,-112.182079
+"85302","Glendale","AZ","Walmart Neighborhood Market","6645 W Peoria Ave","85302",33.58058421734832,-112.20190079516394
+"85302","Glendale","AZ","Fry's Food Store","5116 W Olive Ave","85302",33.568872356930896,-112.1698871254921
+"85302","Glendale","AZ","Walmart Neighborhood Market","5137 W Olive Ave","85302",33.565086009799835,-112.17006052013397
+"85302","Glendale","AZ","Sprouts Farmers Market","5130 W Peoria Ave","85302",33.583289,-112.1701882
+"85302","Glendale","AZ","Safeway","5080 W Olive Ave","85302",33.56852968280549,-112.16829061144294
+"85303","Glendale","AZ","Walmart Neighborhood Market","7450 W Glendale Ave","85303",33.5390758569975,-112.21879268789647
+"85304","Glendale","AZ","Fry's Food Store","5771 W Thunderbird Rd","85306",33.609300712219095,-112.18398481607437
+"85304","Glendale","AZ","Albertsons","5040 W Cactus Rd","85304",33.5977991,-112.1671026
+"85306","Glendale","AZ","Walmart Supercenter","5845 W Bell Rd","85308",33.63682824,-112.184701
+"85306","Glendale","AZ","Fry's Marketplace","6611 W Bell Rd","85308",33.6371053,-112.2006401
+"85306","Glendale","AZ","Sprouts Farmers Market","5665 W Bell Rd, Suite B","85308",33.6374241,-112.1809829
+"85306","Glendale","AZ","Fry's Food Store","4325 W Bell Rd","85308",33.6389585,-112.1534922
+"85306","Glendale","AZ","Fry's Grocery Pickup and Delivery","4315 W Bell Rd","85308",33.63816833496094,-112.15328979492188
+"85306","Glendale","AZ","Frys","6655 W Bell Rd","853083607",33.636881,-112.200538
+"85306","Glendale","AZ","Ur Market & Eden's Juice Bar","4925 West Bell Road Ste. D-2","85306",33.6377910147429,-112.16675099999998
+"85306","Glendale","AZ","hana's international Foods","not_available","85308",33.63821029663086,-112.1657943725586
+"85306","Glendale","AZ","Fry's Food And Drug","not_available","85306",33.625127166666665,-112.16860073333334
+"85307","Glendale","AZ","Fry's Marketplace","13730 W Camelback Rd","85340",33.510030028128284,-112.35572095514976
+"85307","Glendale","AZ","Safeway","10641 W Olive Ave","85345",33.5638918,-112.2885427
+"85307","Glendale","AZ","Bashas'","5115 N Dysart Rd","85340",33.50964575607601,-112.33960121870041
+"85307","Glendale","AZ","Luke AFB Commisary","7175 N 138th Ave","85307",33.53985302951126,-112.35567484534522
+"85307","Glendale","AZ","Value $","not_available","85345",33.56435,-112.287745
+"85307","Glendale","AZ","Luke Air Force Base Commissary","not_available","85323",33.53369720739551,-112.35577753216599
+"85308","Glendale","AZ","Walmart Neighborhood Market","4230 W Union Hills Dr","85308",33.65577861015404,-112.15021273746818
+"85308","Glendale","AZ","Walmart Supercenter","18551 N 83rd Ave","85308",33.65059950451508,-112.2343423327913
+"85308","Glendale","AZ","Fry's Food Store","20220 N 59th Ave","85308",33.6696661,-112.1882783
+"85308","Glendale","AZ","WinCo Foods","5850 W Bell Rd","85308",33.641118968686555,-112.18296707863281
+"85308","Glendale","AZ","Trader Joe's","7720 West Bell Rd","85308",33.63918638030463,-112.2262591123581
+"85308","Glendale","AZ","AJ's Fine Foods","20050 N 67th Ave","85308",33.666621924120385,-112.2053099114531
+"85308","Glendale","AZ","Asiana Market","4410 W Union Hills Dr Ste 1","85308",33.65521777755079,-112.1537882312826
+"85308","Glendale","AZ","Sprouts Farmers Market","6760 W Deer Valley Rd","85310",33.6829569,-112.2053888
+"85308","Glendale","AZ","Safeway","20205 N 67th Ave #100","85308",33.66934964305926,-112.20031142234802
+"85308","Glendale","AZ","Albertsons","8240 W Deer Valley Rd","85382",33.6831723,-112.2365778
+"85308","Glendale","AZ","Glendale Grocery outlet","4308 W Bell Rd","85308",33.64036678804829,-112.15263751393725
+"85308","Glendale","AZ","Smart & Final","7720 W Bell Rd","85308",33.63924789428711,-112.2264404296875
+"85321","Ajo","AZ","Olsen's IGA Supermarket","1961 N Ajo Gila Bend Hwy","85321",32.392146000000004,-112.872895
+"85323","Avondale","AZ","Fry's Food & Drug","1575 N Dysart Rd","85392",33.46303353315233,-112.33891995267186
+"85323","Avondale","AZ","Walmart Supercenter","13055 W Rancho Santa Fe Blvd","85392",33.45965478,-112.3378138
+"85323","Avondale","AZ","Fry's Food Store","11425 W Buckeye Rd","85323",33.4339012219797,-112.30444206872562
+"85323","Avondale","AZ","Food City","1450 N Dysart Rd","85323",33.44844981223189,-112.3427101013798
+"85323","Avondale","AZ","Food City","323 E Main St","85323",33.43112795538508,-112.34573006629944
+"85324","Black Canyon City","AZ","Ron's Market","34360 S Old Black Canyon Hwy","85324",34.06712760423021,-112.1511846040827
+"85325","Bouse","AZ","Wenden US 60 Country Market & Hardware","70948 U.S 60","85357",33.80419486420054,-113.56421550751445
+"85326","Buckeye","AZ","Walmart Supercenter","1060 S Watson Rd","85326",33.43714914922018,-112.56007144415013
+"85326","Buckeye","AZ","Safeway","14175 W Indian School Rd","85395",33.4837645,-112.3641418
+"85326","Buckeye","AZ","Walmart Supercenter","1100 N Estrella Pkwy","85338",33.459280616325586,-112.3953678420505
+"85326","Buckeye","AZ","Fry's Marketplace","16380 W Yuma Rd","85338",33.4376969,-112.4113238
+"85326","Buckeye","AZ","Safeway","9890 S Estrella Pkwy","85338",33.357712122685776,-112.42843866348261
+"85326","Buckeye","AZ","Bashas'","21064 W Main St","85396",33.49604001004349,-112.51263851895143
+"85326","Buckeye","AZ","Walmart Grocery Pickup","14200 W Indian School Rd","85395",33.48701858520508,-112.36420440673828
+"85326","Buckeye","AZ","Fry's Marketplace","1300 S Watson Rd","85326",33.434271321011344,-112.55867067044159
+"85326","Buckeye","AZ","Safeway","440 N Estrella Pkwy","85338",33.4514813,-112.3941849
+"85326","Buckeye","AZ","Ambrosia Water and Ice","500 N Estrella Pkwy","85338",33.4520369074145,-112.39415484092704
+"85326","Buckeye","AZ","Elliot Market","17750 W Elliot Rd #110","85338",33.3558996803979,-112.43177801370621
+"85326","Buckeye","AZ","Bashas'","7602 S. 115Th Avenue","85323",33.47401727404257,-112.38214057388086
+"85326","Buckeye","AZ","Butcher & Farmer Market IGA","224 E Monroe Ave","85326",33.3705899284506,-112.5883412361145
+"85326","Buckeye","AZ","ALDI","845 N Estrella Pkwy","85338",33.456433,-112.391697
+"85331","Cave Creek","AZ","Fry's Food Store","4815 E Carefree Hwy Ste 100","85331",33.797278874990496,-111.9769522738444
+"85331","Cave Creek","AZ","Fry's Food Store","29455 N Cave Creek Rd","85331",33.7523542,-111.9908972
+"85331","Cave Creek","AZ","Walmart Supercenter","34399 N Cave Creek Rd","85331",33.796628929894325,-111.96238716173077
+"85331","Cave Creek","AZ","Safeway","29834 N Cave Creek Rd","85331",33.7576405,-111.9915544
+"85331","Cave Creek","AZ","Sprouts Farmers Market","5355 E Carefree Hwy","85331",33.79824684547865,-111.96584343910217
+"85331","Cave Creek","AZ","Bashas'","36889 Tom Darlington","85377",33.82169665038149,-111.92304844542967
+"85332","Congress","AZ","Congress Grocery","22595 W AZ-71","85332",34.161763,-112.852636
+"85333","Dateland","AZ","Dateland Date Gardens","1737 S Avenue 64 E","85333",32.79959487915039,-113.54046630859375
+"85334","Ehrenberg","AZ","Smart & Final Extra!","701 E. Hobson Way","92225",33.611363,-114.58903899999999
+"85334","Ehrenberg","AZ","Albertsons","840 E Hobson Way","92225",33.60923179347479,-114.58725044843959
+"85334","Ehrenberg","AZ","Blythe Ranch Market","385 W Hobsonway","92225",33.611916,-114.612794
+"85335","El Mirage","AZ","Walmart Supercenter","12900 W Thunderbird Rd","85335",33.61053302895873,-112.3368300876994
+"85335","El Mirage","AZ","Food City","12321 NW Grand Ave.","85335",33.61871906780883,-112.32601341444796
+"85335","El Mirage","AZ","Cindy's Mini Mart","12865 W Grand Ave","85374",33.62539317950584,-112.32965852186385
+"85335","El Mirage","AZ","The Fry's (New & Improved)","W Shaw Butte Dr, El Mirage, AZ 85335","85335",33.5937397311154,-112.31424420285931
+"85339","Laveen","AZ","Sprouts Farmers Market","7700 S 59th Ave","85339",33.3761094,-112.1877574
+"85339","Laveen","AZ","Fry's Food Store","5140 W Baseline Rd","85339",33.379426911483264,-112.17034487055571
+"85340","Litchfield Park","AZ","Albertsons","12970  W Indian School Rd","85340",33.4947998,-112.3379088
+"85340","Litchfield Park","AZ","Sprouts Farmers Market","1813 N Dysart Road","85392",33.46838875853277,-112.33961865305895
+"85342","Morristown","AZ","Safeway","1999 W Wickenburg Way","85390",33.96097706015601,-112.77086289259387
+"85342","Morristown","AZ","Bashas'","275 N Tegner St #17","85390",33.97109858450904,-112.73127192076032
+"85344","Parker","AZ","Walmart Supercenter","100 W Riverside Dr","85344",34.157151455237326,-114.27779095783667
+"85344","Parker","AZ","Safeway","121 W Riverside Dr","85344",34.1546322,-114.2756929
+"85344","Parker","AZ","Bashas'","1020 W Arizona Ave","85344",34.146997999999996,-114.288944
+"85344","Parker","AZ","Aha Quin Store","not_available","92225",33.86154593874942,-114.52904077567389
+"85344","Parker","AZ","Quartzite General Store","410 E Main St","85346",33.66738510131836,-114.21041870117188
+"85345","Peoria","AZ","Fry's Food Store","9043 W Olive Ave","85345",33.56463493009124,-112.25373566150671
+"85345","Peoria","AZ","Lee Lee International Supermarket","7575 W Cactus Rd","85381",33.59502381809951,-112.22163107809213
+"85345","Peoria","AZ","Walmart Supercenter","7975 W Peoria Ave","85345",33.57872699075359,-112.23027203760338
+"85345","Peoria","AZ","Fry's Food Store","7455 W Cactus Rd","85381",33.5947303,-112.2189254
+"85345","Peoria","AZ","Discount Grocery","8200 W Peoria Ave","85345",33.583595275878906,-112.23516082763672
+"85349","San Luis","AZ","Walmart Supercenter","1613 North Main Street","85349",32.50766266,-114.7847271
+"85349","San Luis","AZ","Calimax","Av. I. Zaragoza","not_available",32.47607550989703,-114.77901968800079
+"85349","San Luis","AZ","Abarrotes Los Gemelos","Guadalupe Victoria Y 14","83400",32.46752,-114.769814
+"85349","San Luis","AZ","Abarrotes Gemelos","Guadalupe Victoria y 14","not_available",32.4664,-114.7731
+"85349","San Luis","AZ","Soriana Súper","Calle 26 y 16 De Septiembre","not_available",32.466971169712664,-114.74591408712858
+"85349","San Luis","AZ","Oxxo","Ruiz Cortinez","not_available",32.46104834494968,-114.7975692826108
+"85349","San Luis","AZ","Del Sol","Juan Sanchez Blvd","85349",32.49168139985109,-114.7558387684349
+"85350","Somerton","AZ","Abarrotes Lupita","Nayarit B y 37","not_available",32.45020143295279,-114.76070245813413
+"85350","Somerton","AZ","Abarrotes El Yaqui","Puebla 37 y 38","Son",32.4532498,-114.7963052
+"85350","Somerton","AZ","Abarrotes Alicia","Quintana Roo 16","not_available",32.44914,-114.76722
+"85350","Somerton","AZ","Fruteria Nuevo San Luis","Libertad 47","not_available",32.45581,-114.72514
+"85350","Somerton","AZ","Fruteria welton","Cjon revolucion y 34","not_available",32.450300995161584,-114.7605981126805
+"85350","Somerton","AZ","casa grano de oro","Chihuahua y 34","not_available",32.452335357666016,-114.74640655517578
+"85350","Somerton","AZ","Del Sol Market","415 W Main St","85350",32.59632873535156,-114.71360778808594
+"85350","Somerton","AZ","King Market","E Main St","85350",32.596380745184305,-114.71030009823467
+"85351","Sun City","AZ","Fry's Food Store","10660 Grand Ave","85351",33.6008768,-112.288679
+"85353","Tolleson","AZ","Fry's Food & Drug","2626 S 83rd Ave","85043",33.424199857872004,-112.24033565347133
+"85353","Tolleson","AZ","Gulf Arizona Packaging Corporation","8399 W Van Buren St Ste 203","85353",33.450501,-112.241098
+"85354","Tonopah","AZ","Wintersburg General Store","2614 S Wintersburg Rd","85354",33.422481536865234,-112.86893463134766
+"85355","Waddell","AZ","Walmart Supercenter","14111 N Prasada Gateway Ave","85388",33.61229314619732,-112.42070629129742
+"85355","Waddell","AZ","Fry's Marketplace","15215 N Cotton Ln","85388",33.622718601812124,-112.42462725969739
+"85355","Waddell","AZ","Safeway","13828 W Waddell Rd","85379",33.6103517,-112.3571975
+"85355","Waddell","AZ","Safeway","17049 W Bell Rd","85374",33.6375672,-112.4253703
+"85355","Waddell","AZ","Fry's Marketplace","13982 W Waddell Rd","85379",33.6108932,-112.3611029
+"85355","Waddell","AZ","Winco Foods","16925 W Bell Rd","85388",33.637613180952464,-112.42287000067311
+"85355","Waddell","AZ","Bashas'","15367 W Waddell Rd","85379",33.60833919352666,-112.39183285232542
+"85355","Waddell","AZ","Sprouts Farmers Market","13759 W Bell Rd","85374",33.6369723,-112.3561262
+"85355","Waddell","AZ","Walmart Neighborhood Market","15431 W Greenway Rd","85374",33.62294298154729,-112.39241239324951
+"85355","Waddell","AZ","Walmart Grocery Pickup and Delivery","13770 W Bell Rd","85374",33.63870851,-112.3555279
+"85364","Yuma","AZ","Fry's Food Store","500 W 24th St","85364",32.6852023,-114.6260576
+"85364","Yuma","AZ","Sprouts Farmers Market","1590 S 4th Ave, Unit A","85364",32.698883770445235,-114.62492376565933
+"85364","Yuma","AZ","Albertsons","252 W 32nd St","85364",32.6712408,-114.620975
+"85364","Yuma","AZ","Walmart Supercenter","2900 S Pacific Ave","85365",32.674810055736955,-114.60133805801061
+"85364","Yuma","AZ","Walmart Supercenter","2501 S Avenue B","85364",32.681703337558744,-114.6476206410139
+"85364","Yuma","AZ","Albertsons","2378 W 24th St","85364",32.6851419,-114.6482935
+"85364","Yuma","AZ","Walmart Neighborhood Market","2675 W. 8th Street","85364",32.712913513183594,-114.65302276611328
+"85364","Yuma","AZ","Food City","1250 w. 8th st.","85364",32.71354289711969,-114.6352170610858
+"85364","Yuma","AZ","Asian Store","698 W Catalina Dr","85364",32.674259185791016,-114.62761688232422
+"85364","Yuma","AZ","Smart & Final","276 E. 16th Street","85364",32.698946467464204,-114.61835449014092
+"85364","Yuma","AZ","Del Sol","367 W 16th St #1","85364",32.697277639805684,-114.6240751450002
+"85364","Yuma","AZ","Food City","2600 W 16th St","85364",32.69968988419327,-114.65176649720338
+"85364","Yuma","AZ","Green Tree's","not_available","85364",32.709222974262126,-114.61660776338653
+"85364","Yuma","AZ","Kings Market","not_available","85350",32.66940278363247,-114.60262553894017
+"85364","Yuma","AZ","Yuma Queen","700 E 32nd St","85365",32.669855,-114.61341099999999
+"85364","Yuma","AZ","Del Sol","295 S 4th Ave","85364",32.72201471781182,-114.62476437548969
+"85364","Yuma","AZ","Yuma PG Commissary","Bldg 536","85365",32.656475556938176,-114.58956084048913
+"85364","Yuma","AZ","Yuma MCAS Commissary","BLDG 590","85369-9108",32.679771414105225,-114.59042909141766
+"85365","Yuma","AZ","Fry's Marketplace","11203 S Frontage Rd","85367",32.66777050130233,-114.44060504436493
+"85365","Yuma","AZ","Walmart Supercenter","8151 E 32nd St","85365",32.66848726359983,-114.49327283534478
+"85365","Yuma","AZ","Hank's Market","not_available","85367",32.65925167156853,-114.4103432600754
+"85365","Yuma","AZ","Tamarack Grocery Store","not_available","85365",32.68388268666953,-114.49996724630596
+"85365","Yuma","AZ","Frys","11274 S Fortuna Rd","85367",32.66771224423663,-114.49795429418748
+"85365","Yuma","AZ","THE Grocery Store","11720 S Foothills Blvd","85367",32.6591,-114.410223
+"85373","Sun City","AZ","Walmart Supercenter","21655 N Lake Pleasant Pkwy","85382",33.680440235202326,-112.2764894617116
+"85373","Sun City","AZ","Target","24890 N Lake Pleasant Pkwy","85383",33.70944451230225,-112.27530239091766
+"85373","Sun City","AZ","Safeway","10926 W Bell Rd","85351",33.63868,-112.2920346
+"85373","Sun City","AZ","Greek Palace","10006 W Happy Valley Pkwy","85383",33.7129291,-112.2747658
+"85373","Sun City","AZ","Sprouts Farmers Market","10134 W Happy Valley Pkwy","85383",33.713017389719234,-112.27758318185806
+"85373","Sun City","AZ","Bashas'","20351 N Lake Pleasant Rd","85382",33.66850776947712,-112.2783735198567
+"85374","Surprise","AZ","Trader Joe's","14095 W Grand Ave","85374",33.65143706659361,-112.3675505502153
+"85374","Surprise","AZ","Bashas'","13940 W Meeker Blvd","85375",33.66056989420438,-112.36076237808803
+"85374","Surprise","AZ","Fry's Food Store","15510 W Bell Rd","85374",33.6402418,-112.3949951
+"85374","Surprise","AZ","Albertsons","14551 W Grand Ave","85374",33.65615607676148,-112.3761127965281
+"85374","Surprise","AZ","Safeway","13503 W Camino del Sol","85375",33.65501,-112.3503044
+"85374","Surprise","AZ","Fry's Food Store","19403 N R H Johnson Blvd","85375",33.661226156546654,-112.35328285543551
+"85381","Peoria","AZ","Bashas'","7586  West  Thunderbird Road","85381",33.61083087074035,-112.2222089767456
+"85381","Peoria","AZ","Walmart Neighborhood Market","7421 West Thunderbird Road","85381",33.609374556246635,-112.21821786875742
+"85381","Peoria","AZ","Sprouts Farmers Market","8375 W Thunderbird Rd","85381",33.60851216736905,-112.23931610584259
+"85381","Peoria","AZ","Safeway","12320 N 83rd Ave","85381",33.5963385,-112.2395713
+"85382","Peoria","AZ","Fry's Food Store","8375 W Deer Valley Rd","85382",33.68002,-112.2396471
+"85382","Peoria","AZ","Fry's","9245 W Union Hills Dr","85382",33.6515084,-112.2563425
+"85382","Peoria","AZ","Albertsons","8950 W Bell Rd","85382",33.639516,-112.251865
+"85383","Peoria","AZ","Safeway","28455 N Vistancia Blvd","85383",33.74076634270369,-112.3205468210835
+"85383","Peoria","AZ","Fry's Marketplace","25401 N Lake Pleasant Pkwy","85383",33.7141911,-112.2681171
+"85501","Globe","AZ","Walmart Supercenter","100 South Ragus Rd","85532",33.4129231,-110.8360219
+"85501","Globe","AZ","Safeway","240 S Hill St","85501",33.394759549344506,-110.78572244974566
+"85501","Globe","AZ","Fry's Food Store","2115 Highway 60 #200","85539",33.420366,-110.816756
+"85501","Globe","AZ","Safeway","4567 E. US Hwy 60","85539",33.41268705439667,-110.83700589285148
+"85501","Globe","AZ","Circle K","not_available","85501",33.42921185387387,-110.72610743936609
+"85533","Clifton","AZ","Bashas'","Morenci Shopping Center, 172 Plaza","85540",33.05109759474293,-109.32726388394676
+"85541","Payson","AZ","Safeway","401 E State Highway 260","85541",34.2397055,-111.3174847
+"85541","Payson","AZ","Walmart Supercenter","300 N Beeline Hwy","85541",34.244391541209424,-111.32513542446895
+"85541","Payson","AZ","Bashas'","142 E State Highway 260","85541",34.24190713021927,-111.3212936193802
+"85541","Payson","AZ","Ponderosa Market","not_available","85544",34.38509798106412,-111.45512947392665
+"85541","Payson","AZ","Vita Mart","516 S Beeline Hwy","85541",34.23427963256836,-111.32386016845703
+"85542","Peridot","AZ","Bashas'","Us Hwy 70 & Sr 170","85542",33.29972215648363,-110.45984745025635
+"85543","Pima","AZ","Walmart Supercenter","755 S 20th Ave","85546",32.832715379101465,-109.73044061028895
+"85543","Pima","AZ","Bashas'","2323 W US Highway 70","85552",32.83923383538194,-109.73962075378198
+"85543","Pima","AZ","Safeway","2125 W US Highway 70","85552",32.8350779,-109.73448
+"85601","Arivaca","AZ","Arivaca Mercantile","not_available","85601",31.575041514524912,-111.33029645332238
+"85602","Benson","AZ","Walmart Supercenter","201 S Prickly Pear Ave","85602",31.969407998610706,-110.31419847050171
+"85602","Benson","AZ","Safeway","599 W 4th St","85602",31.969117,-110.3067618
+"85603","Bisbee","AZ","Safeway","101 Naco Rd","85603",31.401251151082597,-109.91726618212222
+"85607","Douglas","AZ","Walmart Supercenter","199 W 5th St","85607",31.33825987,-109.5647557
+"85607","Douglas","AZ","Douglas Meat Market","not_available","85607",31.33937,-109.554777
+"85607","Douglas","AZ","Safeway","90 5th St","85607",31.339702,-109.562724
+"85613","Fort Huachuca","AZ","Fort Huachuca Commissary","2170 Arizona St Bldg 61610","85613",31.55821972373243,-110.35103059937887
+"85614","Green Valley","AZ","Sprouts Farmers Market","18755 S Nogales Hwy","85614",31.9084924,-110.9793055
+"85614","Green Valley","AZ","Safeway","260 W Continental Rd","85622",31.8527304,-110.9963263
+"85614","Green Valley","AZ","Walmart Supercenter","18680 S Nogales Hwy","85614",31.912029818821257,-110.98233527652796
+"85614","Green Valley","AZ","Safeway","1305 W Duval Mine Rd","85614",31.900868969371462,-110.99268168210983
+"85614","Green Valley","AZ","Amado Market","28770 S. Old Nogales Hwy","85645",31.728032000000002,-111.06159
+"85619","Mount Lemmon","AZ","Safeway","4752 E Sunrise Dr","85718",32.30723397664501,-110.89134782552719
+"85619","Mount Lemmon","AZ","Whole Foods Market","5555 E. River Road","85750",32.274726639780354,-110.87424180289102
+"85619","Mount Lemmon","AZ","Natural Grocers","5600 E River Rd","85750",32.273835092194915,-110.87381958961487
+"85621","Nogales","AZ","Nogales Market 2","not_available","85621",31.372435,-110.924369
+"85621","Nogales","AZ","Harold Busboom","522 Camino Ramanote","85648",31.4772774,-111.0444518
+"85621","Nogales","AZ","Sigma Sales, Inc.","3 Ojo Ct Unit B","85648",31.436054,-110.9645188
+"85621","Nogales","AZ","Grower Alliance, L.L.C.","42 Kipper St Ste C","85648",31.456605,-110.982648
+"85621","Nogales","AZ","Royal Roads Market","Highway 82","85621",31.350018306098494,-110.92567626923183
+"85621","Nogales","AZ","Garrette's Supermarket","1060 Yavapai Dr","85648",31.464159340539656,-110.99739874185276
+"85621","Nogales","AZ","Walmart Supercenter","100 W White Park Dr","85621",31.360478431176904,-110.93251869814691
+"85621","Nogales","AZ","Safeway","465 W Mariposa Rd","85621",31.3645875,-110.9404221
+"85624","Patagonia","AZ","Patagonia Market","not_available","85624",31.541351,-110.753251
+"85624","Patagonia","AZ","Red Mountain Foods","347 McKeown Ave","85624",31.539478446388753,-110.75449906003175
+"85629","Sahuarita","AZ","Fry's Marketplace","15950 S Rancho Sahuarita Blvd","85629",31.9599908,-110.9857315
+"85629","Sahuarita","AZ","Frys","15970 S Rancho Sahuarita Blvd","85629",31.960140228271484,-110.98404693603516
+"85629","Sahuarita","AZ","Legends Garage Door Repair Sahuarita","1625 E Sahuarita Rd #18","85629",31.960176467895508,-110.95075225830078
+"85634","Sells","AZ","Bashas'","111 Main St.","85634",31.907675327118234,-111.88787063131379
+"85635","Sierra Vista","AZ","Walmart Supercenter","500 N Highway 90 Byp","85635",31.560254875679465,-110.26016500029685
+"85635","Sierra Vista","AZ","Fry's Food Store","4351 E Highway 90","85635",31.5562511,-110.2535763
+"85635","Sierra Vista","AZ","Food City","85 S Highway 92","85635",31.553583442551233,-110.25515112014209
+"85635","Sierra Vista","AZ","Safeway","2190 E Fry Blvd","85635",31.5531021,-110.2756957
+"85641","Vail","AZ","Trader Joe's","1101 N Wilmot Rd","85712",32.2371660566744,-110.85854172706604
+"85641","Vail","AZ","Walmart Supercenter","2711 S. Houghton Rd","85730",32.19078474345105,-110.77048948870076
+"85641","Vail","AZ","Walmart Supercenter","7150 E Speedway Blvd","85710",32.23403451312932,-110.83992006680475
+"85641","Vail","AZ","Safeway","9460 E Golf Links Rd","85730",32.1902766,-110.791055
+"85641","Vail","AZ","Fry's Food Store","7050 E 22nd St","85710",32.2048656,-110.8423269
+"85641","Vail","AZ","Sprouts Farmers Market","7877 E Broadway Blvd","85710",32.22261546648337,-110.82477539777756
+"85641","Vail","AZ","Safeway","13380 E Mary Ann Cleveland Way","85641",32.0503292,-110.7086843
+"85641","Vail","AZ","Fry's Food Store","7812 E Speedway Blvd","85710",32.2343667,-110.8257011
+"85641","Vail","AZ","Safeway","7177 E Tanque Verde Rd","85715",32.251984253232955,-110.83908498287201
+"85641","Vail","AZ","Walmart Neighborhood Market","8640 E Broadway Blvd","85710",32.22010466178383,-110.80777703627021
+"85641","Vail","AZ","Fry's Food Store","9401 E 22nd St","85710",32.20778113269372,-110.79183250665665
+"85641","Vail","AZ","Safeway","10380 E Broadway Blvd","85748",32.2197267,-110.7716641
+"85641","Vail","AZ","Fry's Food Store","8080 S Houghton Rd","85747",32.10538432073042,-110.7739958319325
+"85641","Vail","AZ","Albertsons","6600 E Grant Rd","85715",32.2478426,-110.8520239
+"85641","Vail","AZ","Safeway","6360 E Golf Links Rd","85730",32.1902082,-110.8560089
+"85641","Vail","AZ","Safeway","9050 E Valencia Rd","85747",32.1179095,-110.7989389
+"85641","Vail","AZ","Safeway","9125 E Tanque Verde Rd","85749",32.2590327436321,-110.79702392981744
+"85641","Vail","AZ","Walmart Supercenter","9260 S. Houghton Rd","85747",32.08494534289322,-110.77593384271267
+"85641","Vail","AZ","Albertsons","9595 E Broadway","85748",32.2213515,-110.7879424
+"85641","Vail","AZ","Walmart Neighborhood Market","2550 S. Kolb Rd","85710",32.19295551657922,-110.84146503094838
+"85641","Vail","AZ","Fry's Food Store","7050 E Golf Links Rd","85730",32.190170588818525,-110.84258258342743
+"85641","Vail","AZ","The Happy Coyote Grocery Delivery","not_available","85641",32.01058690873732,-110.69665431976318
+"85641","Vail","AZ","Natural Grocers","3016 E Broadway Blvd","85716",32.2198477941085,-110.83860466357952
+"85641","Vail","AZ","Quik Mart","8494 E Speedway Blvd","85710",32.234963,-110.81098
+"85641","Vail","AZ","Walmart Grocery Pickup","2711 S Houghton Rd","85730",32.190893,-110.770299
+"85643","Willcox","AZ","Safeway","650 N Bisbee Ave","85643",32.263180568334974,-109.84233053060962
+"85645","Amado","AZ","Tubac Olive Oil Company","2 Plaza Rd","85646",31.613052981001413,-111.051457
+"85653","Marana","AZ","Safeway","9100 N Silverbell Rd","85743",32.3724399,-111.1368243
+"85653","Marana","AZ","Family Dollar","11825 W Grier Rd","85653",32.45274678333333,-111.21780436666667
+"85653","Marana","AZ","Marana Grocery Store","13865 N Sandario Rd","85653",32.458371,-111.217808
+"85658","Marana","AZ","Fry's Marketplace","12100 N Thornydale Rd","85658",32.4263444,-111.0451313
+"85701","Tucson","AZ","Food Conspiracy Co-op","412 N 4th Ave","85705",32.22687874457027,-110.96545702515292
+"85701","Tucson","AZ","Rae's Place","25 N. Congress","85701",32.22267592871124,-110.97139007924595
+"85701","Tucson","AZ","Empire Food Market","526 E 9th St","85705",32.223774790763855,-110.96293695
+"85704","Tucson","AZ","Albertsons","5085 N La Canada Dr","85704",32.2987787,-110.9965513
+"85704","Tucson","AZ","Whole Foods Market","7133 N. Oracle Road","85704",32.3365466209555,-110.97821391191523
+"85704","Tucson","AZ","Bashas'","2000 W River Rd","85704",32.30667818729785,-111.01023585187497
+"85704","Tucson","AZ","Sprouts Farmers Market","7665 N Oracle Rd","85704",32.34668684061218,-110.97801268100739
+"85704","Tucson","AZ","Trader Joe's","7912 N Oracle","85704",32.350469013451054,-110.9732278406824
+"85704","Tucson","AZ","Safeway","7110 N Oracle Rd","85704",32.33580728650679,-110.974706866009
+"85704","Tucson","AZ","Albertsons","7300 N La Cholla Blvd","85741",32.3394297,-111.0112964
+"85704","Tucson","AZ","Walmart Neighborhood Market","7951 N Oracle Rd","85704",32.35094588961044,-110.97699034157671
+"85704","Tucson","AZ","Quick Mart","4611 N Flowing Wells Rd","85705",32.29046566666667,-110.99553676666666
+"85704","Tucson","AZ","Natural Grocers","6320 N Oracle Rd","85704",32.32164354369597,-110.9736894826711
+"85704","Tucson","AZ","Walmart Neighborhood Market","2175 W Ruthrauff Rd","85705",32.293700281128594,-111.01278562658744
+"85704","Tucson","AZ","Joy Asian Market","6261 N Oracle Rd Ste 111","85704",32.320013,-110.975629
+"85705","Tucson","AZ","Walmart","455 E Wetmore Rd","85705",32.288073040568534,-110.9649625131258
+"85705","Tucson","AZ","Fry's Food Store","4036 N 1st Ave","85719",32.2806628,-110.9599462
+"85705","Tucson","AZ","Fry's Food Store","555 E Grant Rd","85705",32.25167575449514,-110.96233248710632
+"85705","Tucson","AZ","Safeway","1551 W Saint Marys Rd","85745",32.2275776,-110.9979842
+"85705","Tucson","AZ","Albertsons","1350 N Silverbell Rd","85745",32.2387309,-111.0039518
+"85705","Tucson","AZ","Safeway","2140 W Grant Rd","85745",32.2523408,-111.0124587
+"85705","Tucson","AZ","Grantstone Supermarket","8 W Grant Rd","85705",32.25101169527092,-110.97270746027252
+"85705","Tucson","AZ","quik mart","900 W Roger Rd","85705",32.279748,-110.98688200000001
+"85705","Tucson","AZ","Food City","1225 W Saint Marys Rd","85745",32.22871773365573,-110.99079449577151
+"85705","Tucson","AZ","El Herradero Supermarket","1310 W Prince Rd","85705",32.27282960160364,-110.99342676290703
+"85705","Tucson","AZ","Food City","719 E Fort Lowell Rd","85719",32.26533419358459,-110.95945360602461
+"85705","Tucson","AZ","Coronado Market","not_available","85705",32.26434588432312,-110.97167193889618
+"85706","Tucson","AZ","Walmart Neighborhood Market","2565 E. Commerce Center Place","85706",32.14757404607649,-110.93345540056451
+"85706","Tucson","AZ","Food City","2000 E Irvington Rd","85714",32.161390999999995,-110.941827
+"85706","Tucson","AZ","Food City","428 W Valencia Rd","85706",32.134949217567225,-110.97645183470446
+"85707","Tucson","AZ","Davis-Monthan AFB Commissary","5455 E Comanche St","85707",32.18646441576685,-110.87637797396071
+"85711","Tucson","AZ","Babylon Market","3954 E Speedway Blvd","85712",32.235873,-110.907896
+"85711","Tucson","AZ","Fry's Food Store","4150 E 22nd St","85711",32.20514430228029,-110.90414197775317
+"85711","Tucson","AZ","G & L Imports","4828 E 22nd St","85711",32.206246,-110.888949
+"85711","Tucson","AZ","Walmart Neighborhood Market","5500 E 22nd St","85711",32.206041994781486,-110.874052271945
+"85711","Tucson","AZ","Kimpo Market","5595 E 5th St","85711",32.229283,-110.87352
+"85711","Tucson","AZ","INCENSE AND CHEMICALS","4433 E COOPER ST","85711",32.219687,-110.89715
+"85711","Tucson","AZ","Frys","4150 E 22nd St","857115335",32.205175740592885,-110.90415000915527
+"85712","Tucson","AZ","Bashas'","3275 N Swan Rd","85712",32.26640169705793,-110.89335944168751
+"85712","Tucson","AZ","Sprouts Farmers Market","4645 E Speedway Blvd","85712",32.2375401,-110.8935599
+"85712","Tucson","AZ","Fry's Food Store","2480 N Swan Rd","85712",32.2525564,-110.8913835
+"85712","Tucson","AZ","Trader Joe's","4766 E Grant Rd","85712",32.24984487876608,-110.89119760641705
+"85712","Tucson","AZ","Walmart Neighborhood Market","3925 E Grant Rd","85712",32.25161719709534,-110.90896309007474
+"85712","Tucson","AZ","Sandyi Oriental Market","4270 E Pima St","85712",32.243152,-110.90144199999999
+"85712","Tucson","AZ","Carniceria ""La Noria"" III","5224 E Pima St","85712",32.24293518066406,-110.8809814453125
+"85712","Tucson","AZ","Fry's Food Store","3920 E Grant Rd","85712",32.249266390928895,-110.90850458596833
+"85713","Tucson","AZ","Safeway","1940 E Broadway Blvd","85719",32.2203243,-110.9429475
+"85713","Tucson","AZ","Walmart Supercenter","1260 East Tucson Marketplace Blvd","85713",32.18578341852898,-110.95329311360452
+"85713","Tucson","AZ","Food City","3030 E 22nd St","85713",32.20630948263299,-110.9270851738689
+"85713","Tucson","AZ","El Super","3372 S 6th Ave","85713",32.18585277308248,-110.96940739511491
+"85713","Tucson","AZ","Food City","1740 W Ajo Way","85713",32.17946278366724,-111.00195407867432
+"85713","Tucson","AZ","Natural Grocers","7220 E. Broadway Blvd.","85710",32.22108051663249,-110.92732674264934
+"85713","Tucson","AZ","Tina's Country Market","not_available","85713",32.1859822897286,-111.09158583224598
+"85713","Tucson","AZ","la primavera market","1600 S 9th Ave","85713",32.202814000000004,-110.97326499999998
+"85713","Tucson","AZ","Food City","2950 S 6th Ave","85713",32.18931482793128,-110.97080826759338
+"85713","Tucson","AZ","Frys","3640 S 16th Ave","85713",32.180471999999995,-110.983594
+"85713","Tucson","AZ","Mi Ranchito Market","1777 W 36th St","85713",32.191767999999996,-111.003069
+"85713","Tucson","AZ","Walmart Grocery Pickup and Delivery","3435 East Broadway Blvd","85716",32.22167,-110.91877
+"85713","Tucson","AZ","La Tortilla","not_available","85719",32.21940612792969,-110.95120239257812
+"85713","Tucson","AZ","Fry's Food Store","902 W Irvington Rd","85714",32.1788445,-110.9838681
+"85714","Tucson","AZ","Fry's Food Store","2001 E Irvington Rd","85714",32.16489194400403,-110.94201476904345
+"85714","Tucson","AZ","Cardenas Markets","902 W. Irvington Rd.","85714",32.16524467,-110.98196983
+"85714","Tucson","AZ","mercado y carniceria mexicana","not_available","85714",32.169007,-110.96858300000001
+"85714","Tucson","AZ","Food City","1221 W Irvington Rd","85714",32.16139944755704,-110.99050641059875
+"85716","Tucson","AZ","Whole Foods Market","3360 E. Speedway Blvd.","85716",32.235665946708565,-110.92152980943342
+"85716","Tucson","AZ","Carniceria El Aguajito","2800 E Fort Lowell Rd","85716",32.264669,-110.93070800000001
+"85716","Tucson","AZ","Aqua Vita","not_available","85716",32.25795509486024,-110.92721141280357
+"85716","Tucson","AZ","Caravan Mideastern Foods","2817 N Country Club Rd","85716",32.258082,-110.927158
+"85716","Tucson","AZ","Nur Market International Grocery & Deli","3565 E Speedway Blvd Ste 171","85716",32.23644629,-110.91646134853363
+"85718","Tucson","AZ","Fry's Food Store","10661 N Oracle Rd","85737",32.4009809,-110.9573211
+"85718","Tucson","AZ","Sprouts Farmers Market","4282 N 1st Ave","85719",32.28529594652704,-110.95941424369812
+"85718","Tucson","AZ","Trader Joe's","4209 N Campbell Ave","85719",32.28364940567143,-110.94476270185754
+"85718","Tucson","AZ","AJ's Fine Foods","2805 E Skyline Dr","85718",32.32432158019721,-110.93126876923398
+"85718","Tucson","AZ","Safeway","1767 E Prince Rd","85719",32.27364476233235,-110.94526206309183
+"85718","Tucson","AZ","City Wide Produce","N Campbell","not_available",32.278682708740234,-110.94412231445312
+"85719","Tucson","AZ","Albertsons","2854 N Campbell Ave","85719",32.258698712886954,-110.94241710039569
+"85719","Tucson","AZ","Walmart Neighborhood Market","831 E Fort Lowell Road","85719",32.265482,-110.958532
+"85719","Tucson","AZ","India Dukaan","2754 N Campbell Ave","85719",32.256949,-110.94349199999999
+"85737","Tucson","AZ","Walmart Supercenter","2150 E Tangerine Rd","85755",32.425820222145,-110.94085426674275
+"85737","Tucson","AZ","Safeway","12122 N Rancho Vistoso Blvd","85755",32.4268018,-110.9594661
+"85737","Tucson","AZ","Fry's Food Store","10450 N La Canada Dr","85737",32.39643904758869,-110.99378138780588
+"85739","Tucson","AZ","Bashas'","15310 N Oracle Rd","85739",32.483580797464086,-110.9206594370264
+"85741","Tucson","AZ","Walmart Supercenter","8280 N Cortaro Rd","85743",32.35602999166153,-111.08948439125416
+"85741","Tucson","AZ","Fry's Food Store","3770 W Ina Rd","85741",32.3387944,-111.0461422
+"85741","Tucson","AZ","Walmart Supercenter","7635 No. La Cholla B","85741",32.34429301861934,-111.01596553389854
+"85741","Tucson","AZ","Bashas'","8360 N Thornydale Rd","85741",32.358252619768415,-111.04467557173648
+"85741","Tucson","AZ","Sprouts Farmers Market","3860 W River Rd","85741",32.32227192638184,-111.04333519935608
+"85741","Tucson","AZ","Walmart Neighborhood Market","3900 W Ina Rd","85741",32.33873025867501,-111.04914289792735
+"85742","Tucson","AZ","Fry's Food Store","7870 N Silverbell Rd","85743",32.3502854,-111.1002275
+"85746","Tucson","AZ","Walmart Supercenter","1650 W Valencia Rd","85746",32.136313398751696,-111.00060728305338
+"85746","Tucson","AZ","Walmart Neighborhood Market","2823 W Valencia Rd","85746",32.13293935413536,-111.02655794741385
+"85746","Tucson","AZ","Safeway","2940 W Valencia Rd","85746",32.1352614,-111.0297194
+"85746","Tucson","AZ","Fry's Food And Drug","1795 W Valencia Rd","85746",32.13215947647576,-111.0044968737202
+"85746","Tucson","AZ","Super Carniceria Del Valle","2611 W Drexel Rd","85746",32.14799880981445,-111.02259826660156
+"85901","Show Low","AZ","Walmart Supercenter","5401 S White Mountain Rd","85901",34.20050850982381,-110.01607074117598
+"85901","Show Low","AZ","Safeway","900 W Deuce of Clubs","85901",34.2466621,-110.0521621
+"85901","Show Low","AZ","Linden Market","7150 Smith Ranch Rd","85901",34.274524188938365,-110.09807109832764
+"85920","Alpine","AZ","Alpine Country Store","42651 US 180","85920",33.8486838,-109.144432
+"85924","Concho","AZ","The Bull Market at Concho Creek","7 County Rd 5100","85924",34.435719003964614,-109.63370896875858
+"85925","Eagar","AZ","Bashas'","150 North  Main Street","85925",34.11371406284334,-109.29279603826691
+"85928","Heber","AZ","Overgaard Food Center","not_available","85933",34.39114322762864,-110.5520010183875
+"85928","Heber","AZ","Heber IGA","Heber, AZ 85928","85928",34.430028262812264,-110.59802854227492
+"85929","Lakeside","AZ","Safeway","20 W White Mountain Blvd","85935",34.14305412688772,-109.95433220370482
+"85929","Lakeside","AZ","Eddie's Country Store","1753 E. White Mountain Blvd","85935",34.125650525750935,-109.93520377576377
+"85929","Lakeside","AZ","Bashas'","1753 E. White Mountain Blvd.","85935",34.125526428222656,-109.93509674072266
+"85936","Saint Johns","AZ","Wilbur's","not_available","85936",34.50713048916669,-109.38126296396696
+"85937","Snowflake","AZ","Walmart Supercenter","715 N. Main Street","85939",34.473915655962024,-110.08568118174486
+"85937","Snowflake","AZ","Bashas'","650 N.  Main","85939",34.475358964014426,-110.0881576538086
+"85938","Springerville","AZ","Safeway","203 S Mountain Ave","85938",34.13044767425795,-109.28952991962433
+"85941","Whiteriver","AZ","Bashas","not_available","85941",33.82409050465194,-109.97897982248352
+"85941","Whiteriver","AZ","Bashas'","Hwy 73 & Main St.","85941",33.834865,-109.964912
+"86001","Flagstaff","AZ","Walmart Supercenter","2601 E Huntington Dr","86004",35.199498582529294,-111.61441696005875
+"86001","Flagstaff","AZ","Walmart","2750 S Woodlands Village Blvd","86001",35.17616471708764,-111.664993157778
+"86001","Flagstaff","AZ","Safeway","1201 S Plaza Way","86001",35.1894482,-111.6635973
+"86001","Flagstaff","AZ","Safeway","4910 N US Highway 89","86004",35.2258133,-111.5786203
+"86001","Flagstaff","AZ","Whole Foods Market","320 S. Cambridge Ln","86001",35.19144993728842,-111.64135090528573
+"86001","Flagstaff","AZ","Fry's Food Store","201 N Switzer Canyon Dr","86001",35.19516215861177,-111.63519128227563
+"86001","Flagstaff","AZ","Safeway","1500 E Cedar Ave","86004",35.21989059783979,-111.62197786829483
+"86001","Flagstaff","AZ","Bashas'","2700 S Woodlands Village Blvd","86001",35.17655317233959,-111.66739209429346
+"86001","Flagstaff","AZ","Bashas'","1000 N Humphreys St #112","86001",35.20748268794215,-111.6467568621844
+"86001","Flagstaff","AZ","Sprouts Farmers Market","1560 S Riordan Ranch St","86001",35.18538368239665,-111.65904700756073
+"86001","Flagstaff","AZ","التميمي فرع فلاق","not_available","86001",35.189826,-111.661989
+"86001","Flagstaff","AZ","Lake Mary Country Store And Trailer Park","8510 Lake Mary Rd","86005",35.113975524902344,-111.59141540527344
+"86001","Flagstaff","AZ","Natural Grocers","503 W Clay Ave","86001",35.19545693381478,-111.65650210589214
+"86001","Flagstaff","AZ","Frys","1100 Switzer Canyon","86001",35.20339356387348,-111.63476263980061
+"86001","Flagstaff","AZ","Mountain View Market","6990 Lumberjack Blvd","86004",35.238757,-111.482325
+"86001","Flagstaff","AZ","O'Leary Street Market","322 S O Leary St","86001",35.191695,-111.646856
+"86020","Cameron","AZ","Bashas'","Hwy 160 & Hwy 264","86045",36.122722123402944,-111.22400110780787
+"86021","Colorado City","AZ","Dairy Country Store","385 N Juniper St","86021",36.997202,-112.992717
+"86023","Grand Canyon","AZ","General Store at Market Plaza","100 Mather Business Ctr","86023",36.05326256260144,-112.12126135826111
+"86023","Grand Canyon","AZ","Tusayan General Store","236 Highway 64","86023",35.975677423557485,-112.12484622131169
+"86023","Grand Canyon","AZ","Desert View Marketplace","not_available","86023",36.04290431839631,-111.82502533289778
+"86025","Holbrook","AZ","Safeway","702 W Hopi Dr","86025",34.9032296,-110.167096
+"86030","Hotevilla","AZ","rocky ridge trading post","not_available","86030",36.058673564151015,-110.5968229487185
+"86031","Indian Wells","AZ","Bashas'","Ne Corner Navajo Routes 15 And 60","86047",35.526635,-109.862249
+"86033","Kayenta","AZ","Bashas'","Hwy 160 & Hwy 163","86033",36.70923302057685,-110.25089787915803
+"86033","Kayenta","AZ","Totsoh Trading Post","not_available","86507",36.80189947894399,-109.92199826249913
+"86040","Page","AZ","Walmart Supercenter","1017 West Haul Road","86040",36.904660282333055,-111.4870619533719
+"86040","Page","AZ","Safeway","650 Elm St","86040",36.9158505,-111.457642
+"86046","Williams","AZ","Safeway","637 W Route 66","86046",35.2481612,-112.1943061
+"86047","Winslow","AZ","Walmart Supercenter","700 Mikes Pike St","86047",35.042589845897886,-110.70135406260898
+"86047","Winslow","AZ","Safeway","1601 N Park Dr","86047",35.0369439,-110.6995208
+"86047","Winslow","AZ","Bashas","Nec Navajo Rte 15 & 60","86047",35.39137033994553,-110.329471325761
+"86301","Prescott","AZ","Walmart Supercenter","1280 Gail Gardner Way","86305",34.565210539143195,-112.4860156292755
+"86301","Prescott","AZ","Fry's Food Store","950 Fair St","86305",34.5542163,-112.4824622
+"86301","Prescott","AZ","Walmart Supercenter","3050 E State Route 69","86301",34.55396743,-112.4088049
+"86301","Prescott","AZ","Fry's Food Store","3198 Willow Creek Rd","86301",34.60054317558521,-112.45842039585108
+"86301","Prescott","AZ","Trader Joe's","252 N Lee Blvd","86303",34.548579426592504,-112.4052095657277
+"86301","Prescott","AZ","Sprouts Farmers Market","174 E Sheldon St","86301",34.54675236724689,-112.4676176905632
+"86301","Prescott","AZ","Safeway","1044 Willow Creek Rd","86301",34.5614943,-112.4844373
+"86301","Prescott","AZ","Fry's","Lorraine Dr","86305",34.59491988112472,-112.47321129230569
+"86301","Prescott","AZ","Cinnabar Specialty Foods","1134 Haining St #C","86305",34.560132,-112.486595
+"86301","Prescott","AZ","albertsons","not_available","86301",34.54891586303711,-112.44902801513672
+"86301","Prescott","AZ","Natural Grocers","1470 Gail Gardner Way","86305",34.568627133167574,-112.48300717264635
+"86303","Prescott","AZ","Safeway","450 White Spar Rd","86303",34.531131586805174,-112.4748033285141
+"86305","Prescott","AZ","Safeway","1031 N State Route 89","86323",34.7611574,-112.4518564
+"86305","Prescott","AZ","Bashas'","105 Main St.","86321",34.573227286458724,-113.17903872701736
+"86305","Prescott","AZ","Almacen Chabely","abra","86334",34.91835021972656,-112.46432495117188
+"86305","Prescott","AZ","Copper Plaza","not_available","86321",34.57453823166876,-113.17802090763199
+"86314","Prescott Valley","AZ","Walmart Supercenter","3450 N Glassford Hill Rd","86314",34.59241803992527,-112.34125554453048
+"86314","Prescott Valley","AZ","Fry's Food Store","3170 North Glassford Hills Road","86314",34.58862561608303,-112.33977935745088
+"86314","Prescott Valley","AZ","Safeway","7720 E Hwy 69","86314",34.5874955,-112.3298691
+"86314","Prescott Valley","AZ","Sprouts Farmers Market","5645 E State Route 69","86314",34.574602,-112.3640374
+"86314","Prescott Valley","AZ","Discount Grocery Bargain Mart","not_available","86314",34.586789,-112.31638500000001
+"86314","Prescott Valley","AZ","Best Deals A to Z","6301 E Copper Hill Dr","86314",34.581802,-112.35426399999999
+"86314","Prescott Valley","AZ","Albertsons","7450 E HWY 69","86314",34.58637872719166,-112.33481739569508
+"86314","Prescott Valley","AZ","Haggen Food & Pharmacy","7450 E. Highway 69","86314",34.5863051279348,-112.33475778793493
+"86314","Prescott Valley","AZ","Fry's Grocery Pickup and Delivery","3100 N Glassford Hill Rd","86314",34.58812713623047,-112.34187316894531
+"86314","Prescott Valley","AZ","Prescott Valley Grocery Outlet","8100 E Spouse Dr","86314",34.609849,-112.32281
+"86320","Ash Fork","AZ","Seligman Grocery","100 N Main St","86337",35.32832770955365,-112.87610552712488
+"86322","Camp Verde","AZ","Bashas'","650 W Finnie Flat Rd","86322",34.56683968224838,-111.86493913951476
+"86322","Camp Verde","AZ","Healthy Thyme Health Food Store","545 S Main St","86322",34.561621,-111.85304099999999
+"86324","Clarkdale","AZ","Twin Star","not_available","86331",34.75033,-112.116015
+"86326","Cottonwood","AZ","Fry's Food Store","1100 Highway 89-260","86326",34.718355732840394,-112.00325448492276
+"86326","Cottonwood","AZ","Walmart Supercenter","2003 E Rodeo Dr","86326",34.71311659985391,-112.00113306857996
+"86326","Cottonwood","AZ","Safeway","1635 E Cottonwood St","86326",34.7274175064061,-112.00774224134875
+"86326","Cottonwood","AZ","Mt. Hope Foods","853 S Main St","86326",34.723809,-112.00466499999999
+"86326","Cottonwood","AZ","Food City","1501 89A","86326",34.727534618302506,-112.01050007548696
+"86326","Cottonwood","AZ","Fry's Grocery Pickup and Delivery","1100 S State Route 260","86326",34.71831640374741,-112.00324427116394
+"86333","Mayer","AZ","Mayer Market","not_available","86333",34.41058469280224,-112.24409793573555
+"86333","Mayer","AZ","Wagners General Store","15970 S Cordes Lakes Dr","86333",34.31119155883789,-112.10523986816406
+"86335","Rimrock","AZ","Clark's Market And Pharmacy","100 Verde Valley School Rd","86351",34.778767,-111.76465
+"86336","Sedona","AZ","Safeway","2300 W State Route 89A","86336",34.8645443,-111.800253
+"86336","Sedona","AZ","Whole Foods Market","1420 West State Route 89 A","86336",34.863459357381416,-111.78490364878257
+"86336","Sedona","AZ","Bashas'","160 Coffee Pot Dr","86336",34.866038191701406,-111.79481948679735
+"86336","Sedona","AZ","Natural Grocers","1915 W State Route 89A","86336",34.86354574859986,-111.79383657702948
+"86336","Sedona","AZ","AJ Bayless","not_available","86336",34.859792246795976,-111.80875203708645
+"86401","Kingman","AZ","Walmart Supercenter","3396 Stockton Hill Rd","86409",35.22246125294703,-114.0329637195697
+"86401","Kingman","AZ","Safeway","3970 N Stockton Hill Rd","86409",35.2382089,-114.0360964
+"86401","Kingman","AZ","Bashas'","3360 E Andy Devine Ave","86401",35.221390918877425,-114.00471733940903
+"86401","Kingman","AZ","Safeway","3125 N Stockton Hill Rd","86401",35.214612905891066,-114.03692722320557
+"86401","Kingman","AZ","Smith's","3490 N Stockton Hill Rd","86409",35.2241247,-114.0345967
+"86401","Kingman","AZ","Asian Pacific Market","4055 Stockton Hill Rd Ste 5","86409",35.427896,-113.867582
+"86401","Kingman","AZ","Sam's Gas Plus","2266 Kingman Ave","86401",35.2027014,-114.02494430000002
+"86401","Kingman","AZ","Oops Cans","not_available","86401",35.25394264835258,-114.02592866237991
+"86403","Lake Havasu City","AZ","Smith's","80 Acoma Blvd N","86403",34.47730902132744,-114.32206276338547
+"86403","Lake Havasu City","AZ","Albertsons","1980 Mcculloch Blvd","86403",34.4762935,-114.3343085
+"86403","Lake Havasu City","AZ","Safeway","1650 McCulloch Blvd N","86403",34.47419634277911,-114.34192040565904
+"86403","Lake Havasu City","AZ","Food City","1799 Kiowa Ave","86403",34.5065685000396,-114.35104186322343
+"86403","Lake Havasu City","AZ","Super Carniceria El Corral","537 Lake Havasu Ave N #103","86403",34.4906377784715,-114.34831769088505
+"86403","Lake Havasu City","AZ","Living Well Health Food Store","1963 McCulloch Blvd N","86403",34.477728,-114.333316
+"86403","Lake Havasu City","AZ","Oak Barrel Jerky","1990 McCulloch Blvd N","86403",34.476043701171875,-114.33330535888672
+"86403","Lake Havasu City","AZ","Neighbors Texaco","2890 Jamaica Blvd S","86406",34.47193442407788,-114.29715946195273
+"86403","Lake Havasu City","AZ","Kiowa Drive Thru","2680 Kiowa Blvd N","86403",34.51110433202718,-114.32323899204276
+"86404","Lake Havasu City","AZ","Walmart Supercenter","5695 Highway 95 N","86404",34.57158971193959,-114.36784673898892
+"86406","Lake Havasu City","AZ","Bashas'","3269 Maricopa Ave","86406",34.4588951261104,-114.27902177374631
+"86413","Golden Valley","AZ","Walmart Supercenter","2840 Highway 95","86442",35.08242893,-114.5947498
+"86413","Golden Valley","AZ","Safeway","1751 Highway 95","86442",35.1216994,-114.5881761
+"86413","Golden Valley","AZ","Smith's","1775 Lakeside Dr","86442",35.10648497149917,-114.61371678393334
+"86413","Golden Valley","AZ","Walmart Supercenter","5210 S. Hwy 95","86426",35.005831554708344,-114.59485573771201
+"86413","Golden Valley","AZ","Safeway","4823 S Highway 95","86426",35.0171575,-114.5988565
+"86413","Golden Valley","AZ","Smith's","4747 S Highway 95","86426",35.0191499,-114.5993779
+"86413","Golden Valley","AZ","Smart & Final Extra!","2250 Highway 95","86442",35.10637283325195,-114.59740447998047
+"86413","Golden Valley","AZ","Bashas'","1010 E Broadway St","92363",34.82440948486328,-114.59625244140625
+"86435","Supai","AZ","Havasupai Trading Company","not_available","86435",36.236719,-112.6885
+"86441","Dolan Springs","AZ","Double D Market","15976 Pierce Ferry Rd.","86441",35.589265,-114.27613198757172
+"86503","Chinle","AZ","Bashas'","Hwy 91 & Route 7","86503",36.16293884901947,-109.58551863980934
+"86505","Ganado","AZ","Bashas'","not_available","86511",35.718937,-109.373571
+"86510","Pinon","AZ","Bashas'","BIA Route 4 & BIA Route 41","86510",36.097890128526736,-110.21648117015633
+"86511","Saint Michaels","AZ","Bashas'","Hwy 264 & Navajo Route 12","85615",35.6614575206333,-109.06208832133241
+"86515","Window Rock","AZ","T&R Market","667 N. Hwy 491","87301",35.605027212907046,-108.77894997596741

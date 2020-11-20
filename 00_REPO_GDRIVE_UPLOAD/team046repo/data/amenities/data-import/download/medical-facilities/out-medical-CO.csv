@@ -1,0 +1,680 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"80002","Arvada","CO","AMR | American Medical Response","6100 W 54th Ave","80002",39.793886,-105.06496000000001
+"80002","Arvada","CO","NextCare Urgent Care","7380 W. 52nd Ave. Ste. I","80002",39.788785937151985,-105.07852077484131
+"80002","Arvada","CO","First Choice Emergency Room","9505 Ralston Road","not_available",39.80251693725586,-105.1024169921875
+"80003","Arvada","CO","Exempla Laboratory","not_available","not_available",39.855875,-105.053663
+"80004","Arvada","CO","denver health Pavilion M","not_available","80004",39.80891799926758,-105.1290054321289
+"80004","Arvada","CO","CareNow Urgent Care - Arvada","6413 Fig St","80004",39.81302261352539,-105.15914916992188
+"80004","Arvada","CO","Children's Hospital Colorado Oncology","13123 E 16th Ave","80045",39.82557585656388,-105.15731415349332
+"80005","Arvada","CO","Metro Urgent Care","9960 N Wadsworth Pkwy","80021",39.87758,-105.09349
+"80005","Arvada","CO","Exempla Urgent Care","not_available","80021",39.864174,-105.082244
+"80007","Arvada","CO","Arvada Neighborhood Health Center","16280 W 64th Ave","80007",39.812124,-105.182521
+"80007","Arvada","CO","Emergency & Urgent Care Arvada","16320 W 64th Ave","80007",39.812053999999996,-105.183071
+"80010","Aurora","CO","VA Medical Center","1700 Wheeling St","80045",39.74045079514436,-104.8301826665559
+"80010","Aurora","CO","University of Colorado Hospital","12605 E 16th Ave","80045",39.74249846828463,-104.84221381951038
+"80010","Aurora","CO","Leprino Building","12401 E 17th Ave","80045",39.743908943252045,-104.8426273970757
+"80010","Aurora","CO","Anschutz Inpatient Pavilion","not_available","80010",39.7424094626695,-104.8424948786266
+"80010","Aurora","CO","UC Hospital ER","University of Colorado Hospital","80045",39.743017831332764,-104.84299524708905
+"80010","Aurora","CO","The University Of Colorado Hospital NICU","not_available","80045",39.74168651858992,-104.84254048120486
+"80010","Aurora","CO","UCHealth Anschutz Inpatient Pavilion 2 - Anschutz Medical Campus","12505 E. 16th Avenue","80045",39.742402687472776,-104.84148543034854
+"80010","Aurora","CO","UCH 11th Floor Oncology","not_available","80011",39.74192593695902,-104.84211865786044
+"80010","Aurora","CO","CareNow Urgent Care - Stapleton","3001 Havana St","80238",39.7602653,-104.8661958
+"80011","Aurora","CO","The Medical Center of Aurora Main Campus","1501 S Potomac St","80012",39.6901471,-104.8319627
+"80011","Aurora","CO","Rocky Mountain Urgent Care","13650 E Mississippi Ave","80012",39.694486192841744,-104.83357676190185
+"80011","Aurora","CO","The Medical Center of Aurora - Emergency Room","Potomac","not_available",39.688751667752236,-104.83142296424244
+"80011","Aurora","CO","Aurora South Hospital And Medical Center","1421 S Potomac St","80012",39.69027823461362,-104.8319496376801
+"80012","Aurora","CO","Concentra Urgent Care","10355 E Iliff Ave","80247",39.6754242,-104.8670254
+"80012","Aurora","CO","Trash Can","not_available","80012",39.69546810638965,-104.86132986745373
+"80012","Aurora","CO","Metro Urgent Care","1677 S Havana St","80012",39.686277000000004,-104.868384
+"80012","Aurora","CO","The Medical Center of Aurora","1501 S. Potomac Street","80012",39.6901471,-104.8319627
+"80012","Aurora","CO","Health Images at South Potomac","1300 S Potomac St. #110","80012",39.6934875,-104.8309723
+"80012","Aurora","CO","Drug & Alcohol Rehab Aurora","12203 E 2nd Ave","80011",39.71870422363281,-104.84571075439453
+"80013","Aurora","CO","NextCare Urgent Care","18890 E Hampden Ave","80013",39.65217265554331,-104.76850146910675
+"80014","Aurora","CO","Urgent Care","Iliff Ave","80231",39.671282172203064,-104.87469434738159
+"80014","Aurora","CO","Eby's Holistic Healing Center","2323 South Troy St, Suite 3-107","80014",39.6742631,-104.8398144
+"80014","Aurora","CO","Aurora Behavioral Health – Glendale","6015 W Peoria Ave","85302",39.64218135034433,-104.86692667007446
+"80014","Aurora","CO","Colorado Access","10065 E Harvard Ave Ste 600","80231",39.67316436767578,-104.87059783935547
+"80014","Aurora","CO","Peyton Manning Children's Hospital - Pediatric Endocrinology & Diabetes Center","8402 Harcourt Rd","46260",39.65824843787098,-104.86170172691344
+"80015","Aurora","CO","Urgent Care","Smoky Hill Auto Services, 16695 E Smoky Hill Rd, Aurora, CO 80015-1764","80015-1764",39.627689361572266,-104.79481506347656
+"80015","Aurora","CO","CareNow Urgent Care - Aurora","5620 S Parker Rd","80015",39.614744,-104.814953
+"80015","Aurora","CO","The Little Clinic","19711 E Smoky Hill Rd","80015",39.6149867,-104.7587416
+"80015","Aurora","CO","Mile High Recovery","5420 South Parker Rd","80015",39.616592,-104.817327
+"80015","Aurora","CO","MedExpress Urgent Care","15490 E Smoky Hill Rd","80015",39.631539000000004,-104.809267
+"80016","Aurora","CO","Centura Health Southlands","6159 S Southlands Pkwy","80016",39.6041,-104.711606
+"80016","Aurora","CO","Metro Urgent Care","6482 S Parker Rd.","80016",39.598549,-104.803699
+"80016","Aurora","CO","Rocky Mountain Urgent Care Smokey Hill","not_available","80016",39.59412703178689,-104.7437508742859
+"80016","Aurora","CO","Health Images at Southlands","6159 South Southlands Parkway, Unit B","80016",39.604032000000004,-104.711766
+"80016","Aurora","CO","Saint Joseph Emergency - Aurora","23770 E Smoky Hill Rd","80016",39.5993137,-104.7126685
+"80016","Aurora","CO","Saddle Rock ER","22500 E Dry Creek Rd","80016",39.57961220798115,-104.72613081336016
+"80016","Aurora","CO","R&A Home Care","7255 S Havana St Ste 130","80112",39.58488464355469,-104.86796569824219
+"80016","Aurora","CO","Concentra","7245 S Havana St","80112",39.585961,-104.86914217472076
+"80016","Aurora","CO","PeakMed Direct Primary Care","195 Inverness Dr Ste 100","80112",39.5674914,-104.8699529
+"80016","Aurora","CO","OnPoint Urgent Care","24300 E Smoky Hill Rd Unit 120","80016",39.5952233,-104.7057043
+"80016","Aurora","CO","Medsurg Center","135 East Inverness","80112",39.58118316,-104.86672193
+"80016","Aurora","CO","Metro Urgent Care","7460 S Gartrell Rd","80016",39.58142,-104.72422900000001
+"80017","Aurora","CO","jim first add","E Carolina Pl","80017",39.690280594818034,-104.77972269058228
+"80017","Aurora","CO","DaVita East Aurora Dialysis","482 S Chambers Rd","80017",39.707106,-104.80706500000001
+"80017","Aurora","CO","Citywide Ambulance LLC","16678 E 2nd Ave","80011",39.71885,-104.79471600000001
+"80020","Broomfield","CO","Good Samaritan Medical Center","200 Exempla Cir","80026",39.9699702,-105.086874
+"80020","Broomfield","CO","Good Samaritan Hospital","not_available","80026",39.97096591498049,-105.08615898189798
+"80020","Broomfield","CO","Kaiser Permanente Hospital","Exempla Cir","80026",39.9694889446423,-105.08628341582695
+"80020","Broomfield","CO","Centura Health Church Ranch ER","7233 Church Ranch Blvd","80021",39.88409368552008,-105.07701784801486
+"80020","Broomfield","CO","MedExpress urgent care","not_available","80020",39.914985,-105.0461
+"80020","Broomfield","CO","Nextcare Urgent Care","4557-4569 Colorado 128","80020",39.914960861206055,-105.08261382579803
+"80020","Broomfield","CO","Kaiser Permanente-2nd Floor Surgery & Procedures","280 Exempla Cir","80026",39.9695,-105.08623999999999
+"80020","Broomfield","CO","Double Black Imaging","11005 Dover St #500","80021",39.895299,-105.093892
+"80020","Broomfield","CO","NextCare Urgent Care","4590 W 121st Ave","80020",39.91494947707495,-105.04593994030576
+"80020","Broomfield","CO","Mountain Dental Anesthesia","11001 West 120th Avenue Ste 400","80021",39.9148173,-105.1206877
+"80020","Broomfield","CO","Metro Urgent Care","6450 W 120th Ave","80020",39.913765999999995,-105.06876299999999
+"80020","Broomfield","CO","SCL Health Community Hospital","6500 W 104th Ave","80020",39.887384000000004,-105.068303
+"80020","Broomfield","CO","BoulderCentre for Orthopedics - Lafayette","1000 W. South Lafayette Rd, Suite 218","80026",39.97396625136701,-105.08323073387146
+"80020","Broomfield","CO","North Suburban Medical Center - Northwest ER","11230 Benton St","80020",39.9002919,-105.0540603
+"80020","Broomfield","CO","Allay Home Care","80 Garden Ctr Ste A6","80020",39.923404693603516,-105.08944702148438
+"80020","Broomfield","CO","Health Images at Church Ranch","7233 Church Ranch Boulevard #150","80021",39.88407897949219,-105.07696533203125
+"80020","Broomfield","CO","Good Sam","Exempla Cir, Lafayette, CO 80026","80026",39.97076264105334,-105.08599913020268
+"80020","Broomfield","CO","Metro Urgent Care","3950 W 144th Ave","80023",39.95732,-105.03763
+"80020","Broomfield","CO","The Little Clinic","12167 Sheridan Blvd","80020",39.916914,-105.054826
+"80021","Broomfield","CO","Rocky Mountain Urgent Care & Family Medicine","6080 W 92nd Ave Ste 1000","80031",39.8630702,-105.0645311
+"80021","Broomfield","CO","Peak ENT and Voice Center","403 Summit Blvd #204","80021",39.927583,-105.1418397
+"80021","Broomfield","CO","Hospice of CovenantCare - Colorado","9101 Harlan St Unit 135","80031",39.861507415771484,-105.06431579589844
+"80022","Commerce City","CO","Platte Valley Medical Center","not_available","80601",39.964714003341726,-104.76913751787731
+"80022","Commerce City","CO","Northglenn Ambulance","6550 E 72nd Ave","80022",39.8267822265625,-104.91166687011719
+"80022","Commerce City","CO","PVMC Imaging","1600 Prairie Center Pkwy","80601",39.964603424072266,-104.76851654052734
+"80022","Commerce City","CO","Northeast ER","not_available","80241",39.81678204590733,-104.90505690762957
+"80022","Commerce City","CO","Rose Stapleton ER","4930 Wabash St","80238",39.786064,-104.8886982
+"80022","Commerce City","CO","Platte Valley Ambulance Station 2","1616 Prairie Center Pkwy","80601",39.96482499235877,-104.76790683080526
+"80022","Commerce City","CO","OnPoint Urgent Care","aurora colorado","80016",39.90799801666667,-104.77663633333333
+"80022","Commerce City","CO","Thornton Neighborhood Health Center","4075 E 128th Ave","80241",39.928809,-104.9395978
+"80022","Commerce City","CO","AfterOurs Urgent Care","3212 E 104th Ave","80233",39.88452,-104.94856
+"80022","Commerce City","CO","First Choice Emergency Room","12020 Colorado Blvd","80241",39.914849,-104.939793
+"80022","Commerce City","CO","North Suburban Medical Center - Northeast ER","12793 Holly St","80241",39.927909,-104.92318300000001
+"80022","Commerce City","CO","The Little Clinic","13700 Colorado Blvd","80602",39.94469496252785,-104.93793815374374
+"80022","Commerce City","CO","Rocky Mountain Urgent Care","18240 E 104th Ave #205","80022",39.88482708585778,-104.77474410445139
+"80022","Commerce City","CO","Green Valley Ranch Medical Clinic & Urgent Care","4809 Argonne St. Suite #100","80249",39.78456497192383,-104.765625
+"80023","Broomfield","CO","St. Anthony","400 W 144th Ave","80023",39.956766827740914,-104.99099847977706
+"80023","Broomfield","CO","The Little Clinic","2355 W 136th Ave","80023",39.94462123745867,-105.01435966822106
+"80023","Broomfield","CO","Orchard Neighborhood Health Center","14300 Orchard Pkwy","80023",39.95551300048828,-104.99138641357422
+"80026","Lafayette","CO","Community Medical Center - Emergency Department","1000 W South Boulder Rd","80026",39.9866462,-105.1025351
+"80026","Lafayette","CO","Urgent Care","1000 South boulder road, lafayette,co","80026",39.98638,-105.10236
+"80026","Lafayette","CO","boulder community urgent care","2811 s. Boulder rd.","not_available",39.98689657527433,-105.10227055026584
+"80026","Lafayette","CO","AFC Urgent Care Louisville","1335 E South Boulder Rd Ste C","80027",39.98716839225812,-105.12513202331354
+"80026","Lafayette","CO","The Wellshire Skilled Nursing Facility","1855 plaza","not_available",39.98927007930326,-105.12516745836658
+"80026","Lafayette","CO","Metro Urgent Care","97 US-287","80026",39.999062,-105.103621
+"80027","Louisville","CO","Avista Adventist Hospital","100 Health Park Dr","80027",39.952010880533244,-105.1519265491321
+"80027","Louisville","CO","Centennial Peaks Hospital","2255 South 88th Street","80027",39.9520207,-105.1480533
+"80027","Louisville","CO","Boulder Community Health Urgent Care","not_available","80027",39.953089,-105.159673
+"80027","Louisville","CO","Nutrition Care for Children","400 McCaslin Blvd, Suite 210","80027",39.9648563,-105.1629026
+"80027","Louisville","CO","Ross M. Leibovitz, M.D.","90 Health Park Dr Ste 370","80027",39.951561,-105.1525
+"80027","Louisville","CO","AMR Boulder Station 4","4720 Table Mesa Dr, Boulder, CO 80305","80305",39.985015869140625,-105.2386703491211
+"80027","Louisville","CO","Rocky Mountain Urgent Care","4800 Baseline Rd Ste D106","80303",39.999048757533586,-105.23452251905415
+"80027","Louisville","CO","Rocky Mountain Urgent Care","not_available","80303",39.99897988667851,-105.23484853271717
+"80027","Louisville","CO","Allergy and Asthma Center of Colorado","400 S McCaslin Blvd #211","80027",39.96474075317383,-105.162841796875
+"80030","Westminster","CO","Metro Urgent Care","7320 N Federal Blvd","80030",39.82969,-105.02448
+"80031","Westminster","CO","Panorama Othopedics & Spine Center Westminster","8510 N Bryant Street, Suite 120","80031",39.8508579,-105.0190477
+"80031","Westminster","CO","St. Anthony North Emergency Room","2551 W 84th Ave, Westminster, CO 80031","80031",39.85070396071396,-105.01810393902338
+"80031","Westminster","CO","St. Anthony North Nurse Staffing Office","not_available","80031",39.84960174560547,-105.01820373535156
+"80031","Westminster","CO","Centura Health 84th Avenue ER","2551 W 84th Ave","80031",39.85012407525973,-105.01801273016338
+"80033","Wheat Ridge","CO","Lutheran Medical Center","8300 W 38th Ave","80033",39.76814119138283,-105.09006998280336
+"80033","Wheat Ridge","CO","Mom & Baby Ward at Lutheran Medical Center","not_available","80205",39.768190618387564,-105.08977852282888
+"80033","Wheat Ridge","CO","Lutheran Cardiac Rehabilitation","Exempla Lutheran Medical Center, 8300 W. 38th Avenue, 3rd Floor","80033",39.76805877685547,-105.08988189697266
+"80033","Wheat Ridge","CO","Denver Neurological Surgery & Spine Associates","3455 Lutheran Pkwy Ste 280","80033",39.76520538330078,-105.09217834472656
+"80033","Wheat Ridge","CO","Denver Holistic Skin Clinic","4045 Wadsworth Blvd","80033",39.772675017341136,-105.08186817169188
+"80033","Wheat Ridge","CO","Childrens Hospital at Lutheran Medical","not_available","80033",39.76649701649335,-105.0898127775421
+"80033","Wheat Ridge","CO","Lutheran Breast Care Center","3455 Lutheran Pkwy","80033",39.765846,-105.089303
+"80033","Wheat Ridge","CO","Klara N Brown LLC I Certified Therapist & Coach","7651 W 41st Ave","80033",39.7732967,-105.0824515
+"80033","Wheat Ridge","CO","Medical Center","9085 W 44th Ave","80033",39.778589000000004,-105.099092
+"80033","Wheat Ridge","CO","The Little Clinic","3400 Youngfield St","80033",39.76441743773857,-105.13990286460961
+"80045","Aurora","CO","University Of Colorado-Infusion Center","12631 E 17th ave","80045",39.744047,-104.840758
+"80104","Castle Rock","CO","Castle Rock Adventist Health Campus","2145-2455 Meadows Blvd","80109",39.40526652491011,-104.88385535284024
+"80104","Castle Rock","CO","Castle Rock Adventist Hospital - Emergency Department","2350 Meadows Blvd","80109",39.40525436401367,-104.88468170166016
+"80104","Castle Rock","CO","Health Images at Castle Rock","820 New Memphis Ct. Unit 100","80108",39.412147521972656,-104.871826171875
+"80104","Castle Rock","CO","Castle Rock Advintist Hospital","not_available","80109",39.36528555187093,-104.8010533137711
+"80106","Elbert","CO","New Clinic","not_available","80106",38.982819998023906,-104.59319778071635
+"80108","Castle Rock","CO","AFC Urgent Care Castle Rock","5700 New Abbey Ln #D300","80108",39.416831970214844,-104.88011169433594
+"80108","Castle Rock","CO","Castle Pines Urgent Care and Family Practice","7280 Lagae Rd Ste J","80108",39.4685602,-104.8796112
+"80108","Castle Rock","CO","Parker Adventist ER","not_available","80134",39.49978533500732,-104.76921728496815
+"80108","Castle Rock","CO","The Little Clinic","5544 Promenade Pkwy","80108",39.4151413,-104.8796306
+"80110","Englewood","CO","CMHI-Ft. Logan","3525 W Oxford Ave","80236",39.64300042064302,-105.03374703074542
+"80110","Englewood","CO","AFC Urgent Care Englewood","901 W Hampden Ave Unit 103","80110",39.653566,-104.9986266
+"80110","Englewood","CO","Dexter's Lab","105 W Belleview Ave","80110",39.624411,-104.989457
+"80110","Englewood","CO","Paul Battle PA-C Physician Assistant","770 W Hampden Ave #205","80110",39.65293884277344,-104.9966812133789
+"80110","Englewood","CO","AFC Urgent Care - Englewood","901 W Hampden Ave.","80110",39.65361785888672,-104.99899291992188
+"80110","Englewood","CO","Metro Urgent Care","500 W Hampden Ave","80110",39.65297,-104.99386
+"80110","Englewood","CO","Home Helpers","4251 S. Natches Ct., Unit B","80110",39.64077685162773,-105.00922322273254
+"80110","Englewood","CO","The CBDistillery","1500 W. Hampden Ave, #5G","80110",39.6523036,-105.0055359
+"80111","Englewood","CO","Centrum Surgical Center","8200 E Belleview Ave Ste 300E","80111",39.623459,-104.8937888
+"80111","Englewood","CO","Colorado Dermatology Specialists","7000 E. Belleview Avenue, Suite 209","80111",39.62316131591797,-104.90696716308594
+"80111","Englewood","CO","Kaiser permanente after hours","not_available","80122",39.59534118655128,-104.92506851478603
+"80111","Englewood","CO","Centrum surgical center recovery lounge5","not_available","80237",39.630694444444444,-104.89701388888889
+"80111","Englewood","CO","Cherry Creek Surgery Center","5060 S Syracuse St","80237",39.625571,-104.89899399999999
+"80111","Englewood","CO","Boone Heart Institute","7355 E Orchard Road Suite 100","80111",39.6096971,-104.9034718
+"80111","Englewood","CO","Restorations Health & Wellness","6950 E Belleview Ave","80111",39.623415,-104.90838899999999
+"80111","Englewood","CO","Peyton Manning Children's Hospital at St. Vincent - Pediatric Neurology","8414 Naab Rd","46260",39.63060577749591,-104.91800665855408
+"80111","Englewood","CO","The Little Clinic","6000 S Holly St","80111",39.6081673,-104.9205862
+"80111","Englewood","CO","MediCode","4950 S Yosemite St Ste F2","80111",39.625347999999995,-104.883389
+"80111","Englewood","CO","Primary care 2 after hours kaiser permanente","5555 E Arapahoe Rd","80122",39.596406,-104.925128
+"80111","Englewood","CO","Dishler Laser Institute","8400 E Prentice Ave, #1200","80111",39.6194555,-104.8911176
+"80111","Englewood","CO","R2 Medical Clinic (R2 Medical Clinic - Denver Health and Wellness Center)","7447 East Berry Avenue","80111",39.6174269,-104.9021116
+"80111","Englewood","CO","Holistic Healing & Coaching","10061 E Peakview Ave","80111",39.597381591796875,-104.87165832519531
+"80111","Englewood","CO","The Colorado Center for Health and Longevity","8200 East Belleview Avenue Suite 300-C","80111",39.62334,-104.8936
+"80112","Englewood","CO","OnPoint Urgent Care","9695 S. Yosemite Street, Suite 150","80124",39.5403573,-104.8862367
+"80112","Englewood","CO","Centura Health Corporate","9100 E Mineral Cir","80112",39.575365000000005,-104.88247700000001
+"80112","Englewood","CO","Highlands Behavioral Health","8565 Poplar Way","80130",39.5628936,-104.9076396
+"80112","Englewood","CO","Greenwood Pediatrics Southeast","9094 E Mineral Cir #100","80112",39.573769,-104.883888
+"80112","Englewood","CO","CareNow Urgent Care - Highlands Ranch","7120 E County Line Rd","80126",39.565495242681514,-104.90545376205773
+"80112","Englewood","CO","Zynex Medical","9555 Maroon Circle","80112",39.54156,-104.85796
+"80112","Englewood","CO","The Children's Hospital South Surgery Center","9218 Kimmer Dr","80124",39.55210494995117,-104.88243103027344
+"80112","Englewood","CO","AFC Urgent Care Centennial","8006 E Arapahoe Rd Unit 100","80112",39.5946534,-104.8960442
+"80112","Englewood","CO","Urgent Care | Kaiser Permanente Lone Tree Medical Office","10240 Park Meadows Dr","80124",39.54506,-104.87302
+"80112","Englewood","CO","Weber Facial Plastic Surgery","10463 Park Meadows Drive Suite 110","80124",39.53888,-104.8728286
+"80112","Englewood","CO","Concentra Medical Centers","7160 S. Fulton St","80111",39.586490631103516,-104.8687973022461
+"80113","Englewood","CO","HAMPDEN FAMILY PET HOSPITAL","3540 S Logan St","80113",39.652379,-104.982554
+"80113","Englewood","CO","AFC Urgent Care Broadway","5102 S Broadway","80113",39.622903,-104.986766
+"80113","Englewood","CO","Rocky Mountain Hospital for Children at Swedish","501 E Hampden Ave","80113",39.65408276381762,-104.98162686011898
+"80113","Englewood","CO","Swedish Hospital Emergancy Room","not_available","80110",39.654621059996494,-104.98119124400947
+"80113","Englewood","CO","Surgery Waiting Room","799 E Hampden Ave","80113",39.65398,-104.980502
+"80113","Englewood","CO","Craig Hospital","3425 S Clarkson St","80113",39.65436048975529,-104.97851451213887
+"80113","Englewood","CO","Urology Associates","799 E Hampden Ave Ste 430","80113",39.65398,-104.980502
+"80113","Englewood","CO","Rocky Mountain Urgent Care","3601 S Clarkson St Ste 100","80113",39.650478372684226,-104.9786713769669
+"80113","Englewood","CO","Pearl Street Health and Rehabilitation Center","3636 S Pearl St","80113",39.650309,-104.980268
+"80113","Englewood","CO","Samir Witta MD, PhD - Mountain Blue Cancer Care Center","701 E Hampden Ave Ste 540","80113",39.6535641,-104.9794558
+"80113","Englewood","CO","Health Images at Cherry Hills","3601 S Pearl St #100","80113",39.65076446533203,-104.98088836669922
+"80113","Englewood","CO","The Billing Office Inc","3311 S Logan St","80113",39.65689382502813,-104.98318433761595
+"80120","Littleton","CO","HealthSouth Rehab","1001 W Mineral Ave","80120",39.5746955871582,-105.00020599365234
+"80120","Littleton","CO","Health Images at Southpark","991 Southpark Drive #100","80120",39.567886190743394,-104.99996712341498
+"80120","Littleton","CO","Bionuu","129 W County Line Rd Ste 129","80129",39.5662764,-104.9906584
+"80121","Littleton","CO","Metro Urgent Care","241 E Arapahoe Rd","80122",39.5951463179256,-104.984515784481
+"80121","Littleton","CO","CareNow Urgent Care - Greenwood Village","5990 S University Blvd","80121",39.60736139999999,-104.9596991
+"80122","Littleton","CO","Littleton Adventist Hospital","7700 S Broadway","80122",39.57607526104485,-104.98610508729388
+"80122","Littleton","CO","Littleton Hospital Medical Complex","7750 S Broadway","80122",39.57530201609846,-104.98644776207536
+"80123","Littleton","CO","West Littleton Emergency Room","9670 W Coal Mine Ave","80123",39.59630827422107,-105.10893813678604
+"80123","Littleton","CO","West Littleton Adventist Hospital","not_available","80123",39.59719,-105.10858
+"80123","Littleton","CO","Health Images at West Littleton","9670 West Coal Mine Avenue, Suite #150","80123",39.5961205,-105.1089023
+"80123","Littleton","CO","Saint Joseph Emergency - Littleton","8515 W Coal Mine Ave","80123",39.59833526611328,-105.09186553955078
+"80123","Littleton","CO","CareNow Urgent Care - Quincy & Wadsworth","7600 W Quincy Ave","80123",39.63824878996449,-105.08233623921114
+"80123","Littleton","CO","Urgent Care Of Colorado","9116 W Bowles Ave","80123",39.608901,-105.10078899999999
+"80123","Littleton","CO","Swedish Southwest ER","6196 S Ammons Way","80123",39.603145,-105.0905026
+"80123","Littleton","CO","RS.Sanglah","Jl. P. Nias III No. 10","80123",39.616279,-105.065856
+"80124","Lone Tree","CO","Colorado Orthopaedics","10103 RidgeGate Parkway #112","80124",39.52972700000001,-104.8719079
+"80124","Lone Tree","CO","Or prep room 9","not_available","80124",39.530117,-104.87026
+"80124","Lone Tree","CO","Skyridge Room 4204","10101 Ridgegate Pkwy","80124",39.529727,-104.869901
+"80125","Littleton","CO","CU Specialty Care At Highlands Ranch- Orthopedics","1500 Park Central Dr","80129",39.552348,-105.005711
+"80125","Littleton","CO","After Hours Urgent Care","not_available","80129",39.564400913237414,-104.99137166910413
+"80125","Littleton","CO","OnPoint Urgent Care","9205 S Broadway","80129",39.54892441542327,-104.99311413356018
+"80125","Littleton","CO","Emergency & Urgent Care Highlands Ranch","9205 South Broadway","80129",39.54889199481379,-104.99325294477461
+"80125","Littleton","CO","Panorama Othopedics & Spine Center Highlands Ranch","1060 Plaza Drive, Suite 200","80129",39.55616760253906,-105.0004653930664
+"80125","Littleton","CO","Omega Technical Consulting","9249 S Broadway Ste 200-73","80129",39.54771905763531,-104.99206781387328
+"80125","Littleton","CO","Urgent Care","not_available","80126",39.56189420192067,-104.9856318800965
+"80125","Littleton","CO","THE EYE COMPANY","9181 Commerce Center Circle","80129",39.54888916015625,-105.03204345703125
+"80125","Littleton","CO","The Little Clinic","9551 S University Blvd","80126",39.5422235349412,-104.9442158639431
+"80127","Littleton","CO","The Little Clinic","11747 W Ken Caryl Ave","80127",39.5819037,-105.1310988
+"80127","Littleton","CO","Lutheran Southwest Urgent Care","not_available","80127",39.60444611111111,-105.15267666
+"80127","Littleton","CO","Urgent Care","Bowles and C470","80127",39.60433429,-105.15281987
+"80127","Littleton","CO","Northwest Surgery Center","13402 Coal Mine Ave","80127",39.6042496,-105.1528507
+"80132","Monument","CO","Tri-Lakes Health Pavilion","17230 Jackson Creek Pkwy","80132",39.0824751,-104.8575217
+"80132","Monument","CO","PENRAD Imaging ( Tri-Lakes Health Pavilion in Monument)","17230 Jackson Creek Pkwy #160","80132",39.082414,-104.85921699999999
+"80132","Monument","CO","Centura Health Urgent Care Tri-Lakes","17230 Jackson Creek Pkwy, #120","80132",39.08246282480187,-104.85912943966025
+"80132","Monument","CO","Urgent Care","15854 jackson creek pkwy","80921",39.06396074715316,-104.84863994517443
+"80132","Monument","CO","Premier Urgent Care","15854 Jackson Creek Pkwy Unit 120","80132",39.063834,-104.85067099999999
+"80132","Monument","CO","Texas Holdem DAUGHTER","not_available","80132",39.114377,-104.92125
+"80132","Monument","CO","CSHP Urgent Care","15909 Jackson Creek Pkwy","80132",39.065024,-104.848088
+"80132","Monument","CO","The Little Clinic","1070 W Baptist Rd","80921",39.0577335,-104.8431516
+"80134","Parker","CO","Parker Adventist Hospital","9395 Crown Crest Blvd","80138",39.54840179736394,-104.7710322650297
+"80134","Parker","CO","Wife Giving Birth","not_available","80138",39.548289419668855,-104.77006053957427
+"80134","Parker","CO","Health Images at South Denver","9949 S. Oswego St. Suite #150","80134",39.5357516,-104.8533515
+"80134","Parker","CO","Front Range Foot and Ankle Clinic","10259 South Parker Road #200A","80134",39.530964,-104.7675199
+"80134","Parker","CO","Med Express Urgent Care","18951 E Mainstreet","80134",39.51900100708008,-104.76899719238281
+"80134","Parker","CO","Colorado's Best Colonics","19731 E Pikes Peak Ave Ste G1","80138",39.517154693603516,-104.76145935058594
+"80134","Parker","CO","Mainstreet Pediatrics","9235 Crown Crest Blvd #100","80138",39.5496658,-104.7720576
+"80137","Watkins","CO","Concentra urgent care","not_available","80249",39.85873676,-104.67776752
+"80138","Parker","CO","Sky Ridge South Parker ER","12223 Pine Bluffs Way","80134",39.494209,-104.755823
+"80138","Parker","CO","CareNow Urgent Care - Parker","11339 S Pikes Peak Dr","80138",39.5105836,-104.7624451
+"80138","Parker","CO","The Bariatric & Metabolic Center Of Colorado","9695 S. Yosemite St.","80124",39.548553999999996,-104.77055
+"80138","Parker","CO","Vista Partners, LLC","5645 Saddle Creek Trl","80134",39.44466,-104.750296
+"80138","Parker","CO","Parker Square Urgent Care","6526-6698 E Hilltop","80134",39.509563,-104.76080358
+"80138","Parker","CO","The Little Clinic","12959 S Parker Rd","80134",39.47964484941395,-104.7606253623963
+"80138","Parker","CO","The Little Clinic","17761 Cottonwood Dr","80134",39.5596882,-104.7827707
+"80138","Parker","CO","Parker animal hospital","South Parker Road","80134",39.53161,-104.76763
+"80202","Denver","CO","Denver Health Downtown Urgent Care","1545 California St","80202",39.74468717290081,-104.99331156685463
+"80202","Denver","CO","Concentra Urgent Care","not_available","80202",39.751755995699824,-104.99753047349004
+"80202","Denver","CO","Downtown Denver Sleep Solutions","999 18th Street","80202",39.74919175,-104.99139169
+"80203","Denver","CO","Peak Dispensary","260 Broadway","80203",39.72051274,-104.98720035
+"80203","Denver","CO","AFC Urgent Care Denver Speer","777 E Speer Blvd Ste 100","80203",39.720581,-104.977801
+"80203","Denver","CO","Guardian Urgent Care","1 Broadway, Ste 100","80203",39.71734734445525,-104.98767967565192
+"80203","Denver","CO","Denver Paramedics","not_available","80204",39.7263667530114,-104.98643064562772
+"80203","Denver","CO","Cece Huffnagle, RN, CNP","700 E 9th Ave","80203",39.730228000000004,-104.978427
+"80203","Denver","CO","Hospital","not_available","80203",39.741902,-104.981249
+"80203","Denver","CO","Denver Health Pediatric Primary Care Clinic | Wellington E. Webb Center Building","301 W 6th Ave","80204",39.7256279,-104.9832952
+"80203","Denver","CO","Crazy Town","In your mind","not_available",39.737597,-104.980064
+"80204","Denver","CO","Denver Health Behavioral Health Center","667 Bannock St, #9","80204",39.727032977785804,-104.99080589186562
+"80204","Denver","CO","Denver Health Emergency Department","777 Bannock St, Pavilion A","80204",39.72822268998138,-104.99104868216808
+"80204","Denver","CO","Dever Health.Med.Ctr.Hos.Phcy","790 Delaware St","80204",39.72868728637695,-104.99269104003906
+"80204","Denver","CO","PAM Specialty Hospital of Denver","1690 Meade St","80204",39.74266815185547,-105.03549194335938
+"80204","Denver","CO","Denver Health Audiology","700 Delaware St","80204",39.727509000000005,-104.99202199999999
+"80204","Denver","CO","Denver Health NICU","760 Delaware St, 3rd Floor","not_available",39.72750805917421,-104.99239869071198
+"80204","Denver","CO","Denver Health OB Screening","790 Delaware St #1","80204",39.72822470090756,-104.9924309781626
+"80204","Denver","CO","St. Anthony's Central Hospital","4231 W 16th Ave","80204",39.74199399153284,-105.04135525922908
+"80204","Denver","CO","Denver Health Orthopedics","780 Delaware St","80204",39.72831435000905,-104.99247008183167
+"80204","Denver","CO","Pediatric Emergency Department and Urgent Care at Denver Health","777 Bannock St","80204",39.72822289287122,-104.99103689875928
+"80204","Denver","CO","Labor and Delivery Unit at Denver Health","790 Delaware St #3","80204",39.72825578786639,-104.99239456252468
+"80205","Denver","CO","Saint Joseph Hospital","1375 E 19th Ave","80218",39.7464014,-104.9715551
+"80205","Denver","CO","Presbyterian- St. Luke's Medical Center","1719 E 19th Ave","80218",39.7472051,-104.9665466
+"80205","Denver","CO","Denver Midtown Surgical Center","1919 E 18th Ave","80206",39.74532,-104.96385
+"80205","Denver","CO","Exempla Saint Joseph Hospital ER","1599 E 20th Ave","80205",39.74609681384029,-104.96972750156095
+"80205","Denver","CO","Presbyterian/St. Luke's Emergency Department","not_available","80218",39.74785361100159,-104.96806574752493
+"80205","Denver","CO","Bonfils Blood Center at Saint Joseph Hospital","1835 Franklin St, Fl 1","80218",39.74479768447904,-104.96842145919798
+"80205","Denver","CO","St. Joes RT Department","1835 Franklin St","80218",39.74518385427478,-104.96977150077684
+"80205","Denver","CO","Saint Joseph's East Ortho Neuro","1830 franklin","80218",39.74508168054228,-104.96849361034897
+"80206","Denver","CO","AFC Urgent Care - Denver East","1295 Colorado Blvd","80206",39.73653,-104.94104
+"80206","Denver","CO","St. Paul health center","not_available","80206",39.743044347591336,-104.95165142516318
+"80206","Denver","CO","Veterans Administration Hospital (VA)","1055 Clermont St","80220",39.7366296827867,-104.94093962597516
+"80206","Denver","CO","B'nai B'rith Building","1447 Albion St","80220",39.7391,-104.93999099999999
+"80206","Denver","CO","MedExpress Urgent Care","3600 E Alameda Ave","80209",39.7113755169618,-104.9447167300005
+"80206","Denver","CO","P/SL Volunteer Services","1719 19th Street","not_available",39.73888888888889,-104.96333333333334
+"80206","Denver","CO","National Jewish Health for Kids Department of Pediatrics","1400 Jackson St","80206",39.738417,-104.943222
+"80206","Denver","CO","Shah Aesthetic Surgery","101 University Blvd Ste #220","80206",39.7186677,-104.9597398
+"80207","Denver","CO","Metro Urgent Care","3890 Quebec St Ste A-B","80207",39.769585,-104.900077
+"80207","Denver","CO","The Little Clinic","2810 Quebec St","80207",39.756507018476576,-104.9013796600957
+"80207","Denver","CO","EPNERGENETICS","2934 Eudora St","80207",39.75906,-104.930276
+"80210","Denver","CO","Porter Adventist Hospital","2525 S Downing St","80210",39.67000556661495,-104.97477658465576
+"80210","Denver","CO","Craig Hospital","not_available","80210",39.674497291885764,-104.98688137935636
+"80210","Denver","CO","Kindred Hospital Denver South","2525 South Downing St","80210",39.67010467,-104.97482486
+"80210","Denver","CO","CareNow Urgent Care - DU Neighborhood","1405 E Evans Ave","80210",39.67878341674805,-104.97077941894531
+"80210","Denver","CO","Dr Adam Wolff Denver Neurological Clinic","950 E Harvard Ave #570","80210",39.6704418,-104.9764435
+"80210","Denver","CO","Justin Moon, M.D., M.P.H.","950 E Harvard Ave Ste 570","80210",39.6704418,-104.9764435
+"80211","Denver","CO","AFC Urgent Care","3800 Irving St","80211",39.769683,-105.02976100000001
+"80211","Denver","CO","Urban Dispensary","2675 W 38th Ave","80211",39.769506,-105.02031699999999
+"80211","Denver","CO","Remedy Skin And Body","3440 W 32nd Ave","80211",39.761931,-105.0333
+"80211","Denver","CO","Health Images at Diamond Hill","2490 W. 26th Avenue, Suite 55A","80211",39.75429916381836,-105.01738739013672
+"80212","Denver","CO","AfterOurs Urgent Care","not_available","80212",39.76908,-105.045332
+"80215","Denver","CO","Catherine's Assisted Living","1975 Owens Ct","80215",39.746726989746094,-105.12100219726562
+"80215","Denver","CO","Hospice of st. John","1320 Everett ct.","80010",39.7370491027832,-105.09693908691406
+"80215","Denver","CO","Metro Urgent Care","10590 W Colfax Ave","80215",39.739693,-105.11624199999999
+"80215","Denver","CO","MedExpress Urgent Care","not_available","80215",39.72636172045593,-105.11976101715653
+"80215","Denver","CO","Metro Urgent Care","2595 S Lewis St Ste A","80227",39.739614,-105.116314
+"80216","Denver","CO","Concentra Medical","770 Simmer St. Ste 100","80401",39.80176146770928,-104.98227140284745
+"80218","Denver","CO","Alcohol & Drug Rehab Denver","1600 Ogden St","80218",39.741811336659275,-104.97460126876831
+"80218","Denver","CO","Your Midwife at the End of Life","844 N Ogden St apt 10","80218",39.72990417480469,-104.97493743896484
+"80218","Denver","CO","Childrens Hospital","1830 Franklin St","80218",39.745298,-104.96780700000001
+"80218","Denver","CO","Colorado Dermatology Specialists","1960 N. Ogden St. Suite 555","80218",39.74690349999999,-104.9744788
+"80219","Denver","CO","Federico F. Peña Southwest Urgent Care","1339 S Federal Blvd","80219",39.692582155476615,-105.02573957116394
+"80220","Denver","CO","Rose Medical Center Physical Medicine","not_available","80220",39.732381,-104.934591
+"80220","Denver","CO","Rose Medical Center-Healthone Emergency Room","4567 E 9th Ave","80220",39.7316894,-104.934267
+"80220","Denver","CO","Firehouse Animal Health Center","5304 E Colfax Ave","80220",39.73975372314453,-104.9253921508789
+"80220","Denver","CO","Rose MRI","4700 Hale Pkwy Ste 100","80220",39.73240661621094,-104.93204498291016
+"80221","Denver","CO","Gabinete Radiologico","4884 Lowell Blvd","80221",39.785325,-105.03426699999999
+"80221","Denver","CO","Urgent Care","526-598 E 84th Ave","80229",39.84691464940026,-104.9987036057364
+"80222","Denver","CO","Jewell Care Center of Denver","4450 E Jewell Ave","80222",39.68177702,-104.93617875
+"80222","Denver","CO","Unified Manual Therapy: Joseph Shindoll","1776 South Jackson St. Suite 702","80210",39.6853451,-104.9369727
+"80222","Denver","CO","Namaste Hospice and Palliative Care","6000 E Evans Ave Ste 3-111-A","80222",39.67788314819336,-104.9176254272461
+"80222","Denver","CO","Berenbeim Osteopathic","1780 South Bellaire Street Suite 701","80222",39.684606,-104.9370145
+"80222","Denver","CO","Afc Urgent Care University Hills","not_available","80222",39.674902,-104.940246
+"80223","Denver","CO","St. Anthony North Hospital","Valley Hwy","80223",39.71450537,-105.00096184
+"80223","Denver","CO","Rocky Mountain High - Bud Cellar","1450 S Santa Fe Dr","80223",39.690123,-104.991731
+"80224","Denver","CO","Metro Urgent Care","850 S Monaco Pkwy Ste 10-11","80224",39.701786,-104.91191
+"80224","Denver","CO","AfterOurs Urgent Care","not_available","80224",39.65349382322421,-104.90946679442384
+"80224","Denver","CO","ManorCare Health Services-Denver","290 S Monaco Pkwy","80224",39.711830139160156,-104.9113998413086
+"80224","Denver","CO","Monaco Parkway Health and Rehabilitation Center","895 S Monaco Pkwy","80224",39.700842,-104.913407
+"80224","Denver","CO","After Hours Urgent Care","9393 S. University Blvd.","80126",39.65325573500298,-104.90945365646053
+"80224","Denver","CO","Southmoor Emergency & Urgent Care","7000 E Hampden Ave","80224",39.6528837,-104.9077155
+"80224","Denver","CO","Foot Associates, P.C.","2121 S. Oneida St. Ste 270","80224",39.6772934,-104.9088634
+"80226","Denver","CO","St. Anthony Hospital","11600 W 2nd Pl","80228",39.71614086117836,-105.12898846129019
+"80226","Denver","CO","St Anthonys Medical Plaza 2","11700 W 2nd Pl","80228",39.715509197095784,-105.13010143355926
+"80226","Denver","CO","OrthoColorado Hospital","11650 W 2nd Pl","80228",39.7170565,-105.1292035
+"80226","Denver","CO","St. Anthony Hospital Cancer Center","W 2nd Place","80228",39.71551552609888,-105.13019264308646
+"80226","Denver","CO","St Anthony's Hospital ER","not_available","80226",39.71559260142927,-105.12898499123135
+"80226","Denver","CO","Swedish Medical Center - Belmar ER","260 S Wadsworth Boulevard","80226",39.7121843,-105.0811499
+"80226","Denver","CO","SDU St. Anthony hospital","not_available","80228",39.71683060633319,-105.1297072492325
+"80226","Denver","CO","CHPG Primary Care - Belmar","7551 W Alameda Ave","80226",39.711853,-105.080881
+"80226","Denver","CO","The Little Clinic","7984 W Alameda Ave","80226",39.7096839,-105.0856516
+"80227","Denver","CO","Concentra Urgent Care","Wadsworth","80227",39.655865,-105.08057
+"80227","Denver","CO","Emergency & Urgent Care Lakewood","3280 S Wadsworth Blvd","80227",39.656409000000004,-105.080748
+"80227","Denver","CO","Rocky Mountain Urgent Care & Family Medicine","2595 South Lewis Way, Suite A","80227",39.6690011,-105.1128142
+"80227","Denver","CO","The Little Clinic","3100 S Sheridan Blvd","80227",39.6548201,-105.0517505
+"80227","Denver","CO","Azura of Lakewood","7395 W Eastman Pl","80227",39.65872879631007,-105.07926266518496
+"80228","Denver","CO","Red Rocks Medical Center","not_available","80401",39.722618643365955,-105.16372501131144
+"80228","Denver","CO","AFC Urgent Care Lakewood","12105 W. Alameda Pkwy, Ste 100","80228",39.7073944,-105.1362659
+"80228","Denver","CO","Strasburg Pharms LLC","225 Union Blvd, Ste. 350","80228",39.718902587890625,-105.1334228515625
+"80228","Denver","CO","Rocky Mountain Urgent Care","255 Union Blvd Ste 300","80228",39.719918,-105.13381499999998
+"80228","Denver","CO","Samir Witta MD, PhD - Mountain Blue Cancer Care Center","400 indiana St Suite #270","80401",39.7223076,-105.1635551
+"80228","Denver","CO","St. Anthony Prehospital Services","34 Van Gordon St","80228",39.71540832519531,-105.13710021972656
+"80229","Denver","CO","NextCare Urgent Care","9720 Grant St","80229",39.87282468171468,-104.98161792755127
+"80229","Denver","CO","Health Images at North Denver","9005 Grant Street #400","80229",39.8602944,-104.9836093
+"80229","Denver","CO","North Suburban ER","9191 Grant St","80229",39.863453,-104.98546699999999
+"80229","Denver","CO","Vibra Hospital of Denver","8451 Pearl Street","80229",39.8502597,-104.9804143
+"80229","Denver","CO","Alpine Living Center","501 Thornton Pkwy","80229",39.87123117,-104.98051828
+"80231","Denver","CO","Nature's Herbs and Wellness - DTC","3435 South Yosemite Street","80231",39.65437,-104.88488
+"80231","Denver","CO","Childerens Hospital","not_available","80014",39.6941987031908,-104.8723717162373
+"80231","Denver","CO","Northglenn Ambulance Denver","not_available","80247",39.691957,-104.891278
+"80233","Denver","CO","SCL Health Community Hospital","11900 Grant St, Northglenn, CO 80233","80233",39.9123420715332,-104.98419189453125
+"80233","Denver","CO","Saint Joseph Emergency - Northglenn","11900 Grant St","80233",39.9123420715332,-104.98419189453125
+"80233","Denver","CO","Avamere Transitional Care And Rehabilitation – Malley","401 Malley Dr","80233",39.90420238473291,-104.98142131022519
+"80233","Denver","CO","Drug & Alcohol Rehab Denver","12249 Pennsylvania St","80241",39.91875076293945,-104.9813003540039
+"80234","Denver","CO","Advanced Urgent Care & Occupational Medicine","1050 W 104th Ave","80234",39.884578000000005,-104.999448
+"80234","Denver","CO","MedExpress Urgent Care","not_available","80234",39.88465,-104.999394
+"80234","Denver","CO","St. Anthony North Hospital","84th ave","80221",39.91179189198283,-104.99567379224762
+"80246","Denver","CO","AFC Urgent Care Denver","760 S Colorado Blvd","80246",39.70253,-104.93951
+"80246","Denver","CO","Eating Recovery Center Business Services","600 S. Cherry Street, Suite 600","80246",39.705264,-104.932069
+"80246","Denver","CO","Holistic Transcendence","4596 East Mississippi Avenue","80246",39.69734730414717,-104.9341294169426
+"80246","Denver","CO","Doctors Express Family Care","760 S Colorado Blvd Unit B","80246",39.70261834185091,-104.94038830349068
+"80246","Denver","CO","Cherry Creek Eye Center","4999 E Kentucky Ave, Denver, CO 80246","80246",39.70053525296647,-104.92947152005613
+"80260","Denver","CO","The Cancer Care Center of Thornton","The Cancer Care Center of Thornton is located at 9","not_available",39.867916990378106,-104.99816725042366
+"80301","Boulder","CO","Boulder Community Hospital","4747 Arapahoe Ave","80303",40.01629006829618,-105.23566334842029
+"80301","Boulder","CO","14er Boulder","2897 Mapleton Avenue","80301",40.0259339,-105.2564641
+"80301","Boulder","CO","Beacon Center for Infectious Diseases","4800 Riverbend Rd Ste 200","80301",40.0157968,-105.2345
+"80301","Boulder","CO","ManorCare Health Services-Boulder","2800 Palo Pkwy","80301",40.042882,-105.25751076
+"80301","Boulder","CO","The Green Room","2750 Glenwood Drive, Unit #8","80304",40.032336,-105.25968400000001
+"80301","Boulder","CO","Urgent Care Center - Gunbarrel","6685 Gunpark Drive, Suite 102","80301",40.0723451,-105.1985475
+"80301","Boulder","CO","Mapleton Med. Center","not_available","80503",40.0831531297767,-105.19197493574596
+"80301","Boulder","CO","Warby Parker","1750 29th Street Space 1046","80301",40.0177359,-105.2554118
+"80301","Boulder","CO","Pace West Physical Therapy","1800 30th St","80301",40.017578,-105.251894
+"80301","Boulder","CO","Jennifer Dossett, Homebirth Midwife","2300 Canyon Blvd","80302",40.01704576,-105.26437759
+"80302","Boulder","CO","Boulder Community Hospital Surgical Waiting Room","1100 Balsam Ave","80304",40.02631378173828,-105.2839584350586
+"80302","Boulder","CO","Boulder Community Employee Health","1100 Alpine St. 118","not_available",40.02635617367486,-105.28401974571932
+"80302","Boulder","CO","Lorraine Fairmont, CNM, RN, MS","745 Poplar Ave","80304",40.0469449,-105.287441
+"80302","Boulder","CO","Medical Pavilion","1155 Alpine Ave, Boulder, CO 80304","80304",40.0257568359375,-105.28255462646484
+"80302","Boulder","CO","Rocky Mountain Regenerative Medicine","2260 Baseline Rd #102","80302",39.9998146,-105.2640071
+"80302","Boulder","CO","Mapleton Center (Boulder Community Hospital)","311 Mapleton Ave","80304",40.02139247765625,-105.29337676132728
+"80302","Boulder","CO","Clincoln","1090 Lincoln Pl","80302",40.007110595703125,-105.28076171875
+"80401","Golden","CO","Golden Neighborhood Health Center","750 Warner Dr","80401",39.729748,-105.210512
+"80401","Golden","CO","Centura Health Emergency & Urgent Care","760 Warner Dr","80401",39.7300658,-105.21108231
+"80401","Golden","CO","Colorado Rocky Mountain Talk Therapy","1992 Sugarbush Dr","80439",39.6783764,-105.3412474
+"80401","Golden","CO","NextCare Urgent Care","17121 S Golden Rd Ste 290","80401",39.73412635468747,-105.2000585413193
+"80401","Golden","CO","Physician House Calls","1526 Cole Blvd","80401",39.739416999999996,-105.15283000000001
+"80403","Golden","CO","Health Images at Denver West","1819 Denver West Drive #100, Building 26, Suite 100","80401",39.739443,-105.164541
+"80424","Breckenridge","CO","St. Anthony Summit Medical Center","340 Peak One Dr","80424",39.569216,-106.078277
+"80424","Breckenridge","CO","St. Anthony Breckenridge Mountain Clinic","555 S Park Ave Breckenridge, Colorado 80424","80424",39.4769073,-106.0472819
+"80424","Breckenridge","CO","Vail Valley Medical","not_available","80443",39.57717581766665,-106.10685567939436
+"80435","Dillon","CO","St. Anthony Keystone Mountain Clinic","1252 Co Rd 8","80435",39.604697900235266,-105.95277199890852
+"80442","Fraser","CO","Denver Health Winter Park Medical Center","145 Parsenn Rd","80468",39.88722641084791,-105.76341581906196
+"80442","Fraser","CO","Mary Jane Medical Center","not_available","80482",39.880846117747055,-105.75930429494588
+"80446","Granby","CO","Middle Park Health","1000 Granby Park Drive South","80446",40.0764423,-105.9257061
+"80446","Granby","CO","Middle Park Medical Center","not_available","80446",40.075912226970715,-105.92602743744327
+"80446","Granby","CO","Centura Health Granby","480 E Agate Ave","80446",40.08447265625,-105.93446350097656
+"80459","Kremmling","CO","Middle Park Health - Kremmling Campus","214 4th St","80459",40.056993,-106.390401
+"80459","Kremmling","CO","Kremmling Memorial Hospital","not_available","80459",40.057156595475746,-106.39105413542909
+"80461","Leadville","CO","St. Vincent Hospital","822 W 4th St","80461",39.24517309,-106.30364533
+"80468","Parshall","CO","Colorado Cannabis School","28 GCR 3080","80468",39.9236043,-106.1189991
+"80480","Walden","CO","Yampa Valley Medical Center","940 Central Park Dr","80487",40.463248770532324,-106.81508467622712
+"80480","Walden","CO","Roponggi Hills Clinic","Roponggi Hills","80487",40.453624,-106.800338
+"80480","Walden","CO","North Park Family Practice","350 McKinley Street","80480",40.7325048,-106.2812223
+"80498","Silverthorne","CO","Vail hospital","not_available","81657",39.64700734368998,-106.31788766547945
+"80498","Silverthorne","CO","Vail Valley Medical Center","181 W Meadow Dr","81657",39.643416864944534,-106.38204905328901
+"80501","Longmont","CO","Longmont United Hospital","1950 Mountain View Ave","80501",40.1824103,-105.1261953
+"80501","Longmont","CO","LUH Emergency Department","1900-1922 Mountain View Ave","80501",40.181738942211815,-105.12532734824413
+"80501","Longmont","CO","Longs Peak Hospital","not_available","80504",40.16190012811775,-105.05834993600425
+"80501","Longmont","CO","UCHealth Urgent Care","2101 Main St","80501",40.196335,-105.102822
+"80501","Longmont","CO","Longmont Emergency Unit","663 17th Ave","80501",40.187633,-105.10381699999999
+"80501","Longmont","CO","BioLife Plasma Services","478 S Martin St.","80501",40.15406799316406,-105.0906982421875
+"80501","Longmont","CO","Urgent Care","Professional Pkwy","80501",40.13895,-105.10163819
+"80501","Longmont","CO","John Hughes Memorial Service","817 Incorrigible Cir","80504",40.137535,-105.106151
+"80501","Longmont","CO","NextCare Urgent Care","2144 Main St #8","80501",40.19710237257797,-105.10101445323474
+"80501","Longmont","CO","the ER lounge","not_available","80501",40.18203602818501,-105.12512748592147
+"80501","Longmont","CO","Applewood Living Center","1800 Stroh Pl","80501",40.1826891,-105.12197753
+"80501","Longmont","CO","Rocky Mountain Urgent Care & Family Medicine","1551 Professional Ln","80501",40.139563,-105.101459
+"80501","Longmont","CO","Longmont Urgent Care","1925 Mountain View Ave","80501",40.18068322,-105.12463867664337
+"80501","Longmont","CO","Health Images at Longmont","1551 Professional Lane, Ste. 155","80501",40.1396097,-105.1015223
+"80501","Longmont","CO","LUH (Birthing Suite 2005)","Mountain View Drive","not_available",40.171732,-105.110617
+"80501","Longmont","CO","NextCare Urgent Care","1011 39th Ave","80634",40.19703805446625,-105.10105669498444
+"80503","Longmont","CO","Sage Birth & Wellness Collective","10456 N Foothills Hwy","80503",40.16444965,-105.26872222
+"80504","Longmont","CO","Centura Health Emergency & Urgent Care","4943 State Highway 52 #100","80514",40.08861102876598,-104.96581554984942
+"80510","Allenspark","CO","2th Floor Operating Theatre","Opposite The Lift","80510",40.251096,-105.608892
+"80514","Dacono","CO","St Anthony Hospital","84th","80260",40.03432905190457,-104.958618827283
+"80517","Estes Park","CO","Estes Park Health","555 Prospect Avenue","80517",40.37163,-105.5159
+"80517","Estes Park","CO","Estes Park Emergency Department","not_available","80517",40.37126541137695,-105.51533508300781
+"80517","Estes Park","CO","Estes Park Health Urgent Care Center","420 Steamer Dr, Ste 101","80517",40.3806751298666,-105.512938506398
+"80517","Estes Park","CO","Estes Park Health Urgent Care Center","420 Steamer Ct Unit 101","80517",40.3806751298666,-105.512938506398
+"80521","Fort Collins","CO","Poudre valley hospital","Lemay","not_available",40.56731738403957,-105.11508899950235
+"80521","Fort Collins","CO","CSU Health Center","not_available","80521",40.57305648649848,-105.08742638301418
+"80524","Fort Collins","CO","Poudre Valley Hospital","1024 S Lemay Ave","80524",40.57143321265733,-105.05637788819986
+"80524","Fort Collins","CO","Prospect Medical Plaza","1106 E Prospect Rd","80525",40.567776,-105.057409
+"80524","Fort Collins","CO","Masha Gregori LLC","1330 Oakridge Dr #30","80525",40.52305221557617,-105.0540771484375
+"80524","Fort Collins","CO","Centre Avenue","815 Centre Ave","80526",40.55525588989258,-105.09151458740234
+"80524","Fort Collins","CO","Poudre Valley Ambulance West Side","City Park","80526",40.53954651137616,-105.07938825775419
+"80524","Fort Collins","CO","David A Fohrman M.D.","2629 Redwing road Sute 240","80526",40.55118942260742,-105.08269500732422
+"80524","Fort Collins","CO","PVHS Corporate Offices","1622-1764 E Harmony Rd","80525",40.523693561553955,-105.04729986190796
+"80524","Fort Collins","CO","Urgent Care","3519 Richmond Dr","80526",40.53854751586914,-105.09789276123047
+"80524","Fort Collins","CO","Cetya Therapeutics","4605 Valley Ridge Ct","80526",40.52302551269531,-105.13147735595703
+"80524","Fort Collins","CO","Urgent Care General Clinic","620 S Lemay Ave","80524",40.57857,-105.057194
+"80524","Fort Collins","CO","Banner Urgent Care","3617 S. College Ave., Suite C.","80525",40.53755333614396,-105.07873494146435
+"80524","Fort Collins","CO","Presbyterian St. Lukes Hospital","not_available","80524",40.60981369018555,-105.00112915039062
+"80524","Fort Collins","CO","UCHealth - Walk-In and Employee Health Clinic - AFM - Fort Collins","2211 S College Ave","80525",40.557369232177734,-105.07842254638672
+"80524","Fort Collins","CO","Stitches Acute Care Center","7950 6th St","80549",40.701211,-104.999758
+"80525","Fort Collins","CO","Cancer Center Of The Rockies","2121 E Harmony Rd Unit 150","80528",40.52212957752387,-105.03643553617322
+"80525","Fort Collins","CO","Harmony Urgent Care","2127 E Harmony Rd","80528",40.521629892226244,-105.03611241842835
+"80525","Fort Collins","CO","Harmony Urgent Care","not_available","80528",40.49674766963479,-105.03993411740957
+"80525","Fort Collins","CO","Pathways Hospice","305 Carpenter Rd","80525",40.479591,-105.073045
+"80525","Fort Collins","CO","Poudre Valley Health System","2315 E Harmony Rd Ste 200","80528",40.521289168746954,-105.03486893753245
+"80525","Fort Collins","CO","Banner Fort Collins Medical Center - Emergency Care","4700 Lady Moon Dr","80528",40.521234114834655,-105.00869690671709
+"80525","Fort Collins","CO","Pediatric Urgent Care","not_available","80547",40.519777,-104.991246
+"80526","Fort Collins","CO","BioLife Plasma Services","251 Street,W. 65th","80538",40.4585369,-105.0792364
+"80528","Fort Collins","CO","Daniel D. Hampton MD","3702 S Timberline Rd","80525",40.5364708,-105.0387099
+"80534","Johnstown","CO","Northern Colorado Rehabilitation Hospital","1601 Union Street","80537",40.40618568719557,-104.9713974028632
+"80534","Johnstown","CO","Thompson River Pediatrics and Urgent Care","not_available","80537",40.35766379338479,-104.91308212280273
+"80537","Loveland","CO","Medical Center of the Rockies","2500 Rocky Mountain Ave","80538",40.41574239979206,-104.99763463242451
+"80537","Loveland","CO","McKee Medical Center","2000 Boise Ave","80538",40.41303717491626,-105.05131889121651
+"80537","Loveland","CO","Mckee Medical Center - Pathways Hospice","not_available","80538",40.41374,-105.05124
+"80537","Loveland","CO","McKee Emergency Room","2000","not_available",40.41339111328125,-105.05169677734375
+"80537","Loveland","CO","The Ultrasound Solution","4105 Plum Creek Dr","80538",40.412949,-105.018182
+"80537","Loveland","CO","NOCO/Loveland Community Urgent Care","1159 Eagle Dr","80537",40.3807373046875,-105.09944152832031
+"80537","Loveland","CO","Banner Urgent Care - Non-Respiratory Clinic","2555 E 13th St, Ste 110","80537",40.406478,-105.040752
+"80537","Loveland","CO","Invision Wellness","2216 Scotch Pine Ct","80538",40.41466522216797,-105.06184387207031
+"80537","Loveland","CO","Sierra Vista Health Care Center","821 Duffield Ct","80537",40.40027749,-105.09330513
+"80537","Loveland","CO","Daniel A. Langer MD","2555 E 13th St Suite 220","80537",40.4064612,-105.0408559
+"80543","Milliken","CO","Banner North Colorado Emergency Care","2000 70th Ave","80634",40.4063761,-104.7923429
+"80543","Milliken","CO","Banner Urgent Care","2015 35th Ave","80634",40.40320259783418,-104.79346632957458
+"80543","Milliken","CO","Greeley Hospital","not_available","80634",40.390643,-104.79096
+"80550","Windsor","CO","Medical Arts Center Of Windsor","1300 Main St","80550",40.48048782348633,-104.92345428466797
+"80550","Windsor","CO","Concentra Urgent Care - Windsor","not_available","80550",40.465653,-104.884591
+"80550","Windsor","CO","Associates In Family Medicine Windsor Office & Urgent Care","1683 Main St Ste A","80550",40.478994,-104.924888
+"80550","Windsor","CO","Windsor Healthcare Center","710 3rd St","80550",40.47293,-104.9013
+"80601","Brighton","CO","Silk & Company Medical Aesthetics and Spa - Alle T","121 N Main St","80601",39.9887178,-104.8213396
+"80601","Brighton","CO","Advanced Urgent Care & Occupational Medicine","2801 Purcell St","80601",39.97648600000001,-104.78932
+"80601","Brighton","CO","Platte Valley Ambulance","1750 E Egbert St","80601",39.983482360839844,-104.80118560791016
+"80601","Brighton","CO","Avamere Transitional Care and Rehab - Brighton","2025 E Egbert St","80601",39.984177,-104.79656800000001
+"80603","Brighton","CO","Advanced Urgent Care & Occupational Medicine","112 S Denver Ave","80621",40.080033,-104.809976
+"80620","Evans","CO","NCMC","not_available","80631",40.38366954948631,-104.7085263969921
+"80621","Fort Lupton","CO","Fort Lupton Medical Center","not_available","80621",40.0924188009597,-104.84125791373532
+"80631","Greeley","CO","Centennial Healthcare Center","1637 29th Avenue Pl","80634",40.41399465,-104.72870863
+"80631","Greeley","CO","Green Earth Commercial Sanitation","23595 Co Rd 62","80631",40.435903,-104.610159
+"80631","Greeley","CO","Greeley Medical Clinic -  Urgent Care","10th St.","80634",40.413215926660754,-104.71025781341851
+"80631","Greeley","CO","North Colorado Spine & Orthopaedics , Scott Dhupar, M.D.","6200 W 9th St Unit 1B","80634",40.421912,-104.7816961
+"80631","Greeley","CO","Nature's Herbs and Wellness - MED/REC - Greeley","540 27th St","80631",40.39429054669577,-104.68633353710175
+"80631","Greeley","CO","Nature's Herbs and Wellness - Greeley Med","522 27th St","80631",40.39436612944424,-104.6859285235405
+"80631","Greeley","CO","NextCare Urgent Care","1011 39th Ave Ste. A","80634",40.42089,-104.744909
+"80631","Greeley","CO","North Colorado Medical Center","1801 16th St","80631",40.41363037545779,-104.71812347306125
+"80631","Greeley","CO","Poudre Valley ER","10th St","80634",40.42837517271068,-104.7695933303762
+"80631","Greeley","CO","Nextcare Urgent Care","2928 10th St, Greeley, CO 80634","80634",40.42226664822869,-104.72860404821007
+"80631","Greeley","CO","Inova Urgent Care - Woodbridge","14605 Potomac Branch Drive","22191",40.42124,-104.73956
+"80631","Greeley","CO","Allergy Partners of Northern Colorado","2121 E Harmony Ste 3501130 38th Avenue A","80634",40.4207865388702,-104.73924080839076
+"80634","Greeley","CO","The Little Clinic","2100 35th Ave","80634",40.40516337670773,-104.73314613103867
+"80634","Greeley","CO","Urgent Care Greeley","1012-1098 30th Ave","80634",40.42231915,-104.72863991
+"80634","Greeley","CO","Noah N. Settergren DO","8225 W 20th St 20th St","80634",40.4068472,-104.811097
+"80645","La Salle","CO","BPO Parts LLC","400 S 2nd St Unit A","80645",40.34540939331055,-104.70726776123047
+"80701","Fort Morgan","CO","Colorado Plains Medical Center","1000 Lincoln St","80701",40.2597187,-103.795364
+"80723","Brush","CO","East Morgan County Hospital","2400 Edison St","80723",40.25576431887415,-103.64916410491082
+"80723","Brush","CO","Sunset Manor","2200 Edison St","80723",40.25633239746094,-103.64696502685547
+"80731","Haxtun","CO","Haxton Hospital","not_available","80731",40.641844,-102.63147
+"80734","Holyoke","CO","Melissa Memorial Hospital","not_available","80734",40.579193115234375,-102.29033660888672
+"80751","Sterling","CO","Sterling Regional MedCenter ER","615 Fairhurst St","80751",40.61262525939972,-103.22088301103884
+"80751","Sterling","CO","Sterling Living Center","1420 S 3rd Ave","80751",40.611358,-103.215193
+"80758","Wray","CO","Wray Hospital","not_available","80758",40.07598825885285,-102.23501962844831
+"80759","Yuma","CO","Yuma District Hospital","CRE","80759",40.120174407958984,-102.73698425292969
+"80759","Yuma","CO","Yuma Life Care Center","323 W 9th Ave","80759",40.11704387,-102.72735816
+"80807","Burlington","CO","Kit Carson County Memorial Hospital","16th St","80807",39.30287170410156,-102.27033996582031
+"80808","Calhan","CO","Hemp Depot CBD","2226 Liahona Point","80864",38.8029326,-104.1889231
+"80817","Fountain","CO","Centura Health Urgent Care Fountain","7955 Fountain Mesa Rd","80817",38.716711988211195,-104.70110006721643
+"80817","Fountain","CO","fort carson,","not_available","80817",38.68331527709961,-104.70231628417969
+"80821","Hugo","CO","lincoln community hospital","not_available","80821",39.13358626366659,-103.46786059238802
+"80821","Hugo","CO","Hugo/Lincoln County Hospital","6th Street","not_available",39.13788920000611,-103.4735907466214
+"80831","Peyton","CO","BioLife Plasma Services","6310 Source Center Point","80923",38.9237535,-104.6733762
+"80831","Peyton","CO","Falcon Urgent Care","not_available","80831",38.93994422145711,-104.60406820289067
+"80840","Usaf Academy","CO","Urgent Care","13445 Voyager Pkwy","80921",39.02638442501277,-104.81685122601178
+"80840","Usaf Academy","CO","Premier Urgent Care & Occupational Medicine","8115 Voyager Parkway","80920",38.948673135728356,-104.80217814445497
+"80840","Usaf Academy","CO","USAFA Radiology","not_available","80840",38.991985,-104.885135
+"80840","Usaf Academy","CO","Timberview Animal Hospital","11550 Ridgeline Drive #110","80921",39.00236511230469,-104.7990951538086
+"80840","Usaf Academy","CO","Complete Care","8115 Voyager Pkwy","80920",38.9488005,-104.8020079
+"80840","Usaf Academy","CO","Colorado Springs Oral and Facial Surgery North","13540 Meadowgrass Dr Ste 215","80921",39.028138,-104.82322
+"80863","Woodland Park","CO","langstaff-brown","not_available","80863",38.993259,-105.06119
+"80863","Woodland Park","CO","Langstaff Brown Urgent Care","81 N Hwy 67","80863",38.99327496358729,-105.06108402683485
+"80902","Colorado Springs","CO","Evans Radiology","not_available","80913",38.71904591068873,-104.79683054916526
+"80903","Colorado Springs","CO","Memorial Hospital Main","1400 E Boulder St","80909",38.84046077319466,-104.79946905134346
+"80903","Colorado Springs","CO","Memorial Cancer Center","525 N Foote Ave","80909",38.840248107910156,-104.79915618896484
+"80903","Colorado Springs","CO","Drug & Alcohol Rehab CO Springs","102 S Tejon St","80903",38.831952147204525,-104.82521295547485
+"80903","Colorado Springs","CO","Rocky Mountain Diagnostics","703 N Tejon St. Ste. C","80903",38.8439998,-104.8226163
+"80903","Colorado Springs","CO","Memorial Hospital Outpatient Laboratory","1400 Olympic Plz","80950",38.829685599417274,-104.79359374348547
+"80903","Colorado Springs","CO","Memorial Health Women's Pavillion","not_available","80909",38.84000778785278,-104.79897326025865
+"80903","Colorado Springs","CO","Pikes Peak Hospice And Palliative Care Volunteer Services","not_available","80903",38.83198747143881,-104.80858732834022
+"80903","Colorado Springs","CO","Encompass Health Rehabilitation Hospital of Colorado Springs","325 S Parkside Dr","80910",38.828042754261666,-104.79137152433395
+"80903","Colorado Springs","CO","Alcohol & Drug Colorado Springs","19 E Cimarron St","80903",38.82668685913086,-104.8245849609375
+"80903","Colorado Springs","CO","Healthsouth Rehab","325 S Parkside Dr, Colorado Springs, CO 80910","80910",38.828163146972656,-104.791259765625
+"80903","Colorado Springs","CO","Memorial Star","1400 E Boulder St Bldg 7","80909",38.840278,-104.798197
+"80903","Colorado Springs","CO","Whisper of Change","not_available","80916",38.820568132866285,-104.81470942497253
+"80904","Colorado Springs","CO","Kissing Camels Surgery Center","not_available","80904",38.874703000000004,-104.853813
+"80904","Colorado Springs","CO","Strawberry Fields Medical Dispensary","3404 W Colorado Ave","80904",38.855944,-104.87829199999999
+"80904","Colorado Springs","CO","The Little Clinic","1750 W Uintah St","80904",38.84876226359691,-104.84713718650818
+"80906","Colorado Springs","CO","PENRAD Imaging (Broadmoor Area at Centura Neighborhood Health Center)","1263 Lake Plaza Dr #100","80906",38.794490814208984,-104.80413818359375
+"80906","Colorado Springs","CO","Memorial Urgent Care","2767 Janitell Rd","80906",38.79440397917737,-104.78797619366865
+"80906","Colorado Springs","CO","Colorado Dermatology Institute","1220 Lake Plaza Drive","80906",38.794973999999996,-104.807335
+"80906","Colorado Springs","CO","Aspen Living Center","1795 Monterey Rd","80910",38.8056451,-104.77770974
+"80906","Colorado Springs","CO","Shappy's Healing Hands","Ellis Street","80916",38.777467,-104.810167
+"80906","Colorado Springs","CO","Family Support Center","155 Printers Pkwy Ste 120","80910",38.830528259277344,-104.78692626953125
+"80906","Colorado Springs","CO","Terrace Gardens Healthcare Center","2438 E Fountain Blvd","80910",38.817762,-104.784283
+"80906","Colorado Springs","CO","Resurgence Ketamine Clinic","830 Tenderfoot Hill Rd Suite #350","80906",38.7942766,-104.8123573
+"80906","Colorado Springs","CO","Anywhere UrgentCare","1670 East Cheyenne Mountain Boulevard","80906",38.794715000000004,-104.802573
+"80906","Colorado Springs","CO","Bauer Eyecare","3625 Star Ranch Road","80906",38.7753516,-104.8153894
+"80907","Colorado Springs","CO","Penrose Hospital","2222 N Nevada Ave","80907",38.865923724470086,-104.82212078868758
+"80907","Colorado Springs","CO","Rocky Mountain Cancer Center","2222 S. Nevada Rd.","not_available",38.866044588050755,-104.82073095582467
+"80907","Colorado Springs","CO","Penrose Hospital Emergency Room","not_available","80907",38.867734540198306,-104.82297991514163
+"80907","Colorado Springs","CO","Endoscopy Center of Colorado Springs","2940 N Circle Dr","80909",38.872376,-104.791804
+"80907","Colorado Springs","CO","Penrose Community Urgent Care","3027 N Circle Dr","80909",38.874378873375974,-104.79363030759316
+"80907","Colorado Springs","CO","A Cut Above - Fillmore","1150 E Fillmore St","80907",38.8740625,-104.8058646
+"80907","Colorado Springs","CO","Colonial Columns Nursing Center","1340 E Fillmore St","80907",38.874161,-104.800637
+"80908","Colorado Springs","CO","St. Francis Medical Center","6001 E Woodmen Rd","80923",38.93847584513528,-104.71758787121598
+"80908","Colorado Springs","CO","Kaiser Permanente Hospital","4145 Briargate Pkwy","80920",38.964229583740234,-104.75176239013672
+"80908","Colorado Springs","CO","Children’s Hospital Colorado - Colorado Springs","4090 Briargate Parkway","80920",38.967864990234375,-104.75210571289062
+"80908","Colorado Springs","CO","Briargate Medical Campus","8890 N Union Blvd","80920",38.960692924592514,-104.76577535261119
+"80908","Colorado Springs","CO","Alliance Family Practice & Urgent Care","9320 Grand Cordera Pkwy Ste 100","80924",38.966183,-104.738849
+"80908","Colorado Springs","CO","Colorado Dermatology Institute","8580 Scarborough Drive Ste 225","80920",38.955441,-104.73200200000001
+"80908","Colorado Springs","CO","ER Specialists Urgency Center","4194 Royal Pine Dr, Suite 100","80920",39.036652971199196,-104.74761128425597
+"80908","Colorado Springs","CO","Memorial Hospital North","4050 Briargate Pkwy","80920",38.9670419,-104.7549197
+"80908","Colorado Springs","CO","Memorial North NICU","not_available","80920",38.96702263220718,-104.75491114246118
+"80908","Colorado Springs","CO","Memorial Urgent Care","Union","80908",38.964768815208814,-104.75547515896056
+"80908","Colorado Springs","CO","Audubon ASC @ St. Francis","6011 E Woodmen Rd Ste 200","80923",38.938045501708984,-104.71591186523438
+"80908","Colorado Springs","CO","Domus","not_available","80921",39.03433133983845,-104.77919434248997
+"80908","Colorado Springs","CO","PENRAD Imaging (Briargate MRI Campus)","4105 Briargate Pkwy #115","80920",38.96504211425781,-104.75312042236328
+"80908","Colorado Springs","CO","Alliance Urgent Care & Family Practice","7621 Austin Bluffs Pkwy #200","80920",38.94232177734375,-104.73995208740234
+"80908","Colorado Springs","CO","Pikes Peak Urology","6071 East Woodmen Road","80923",38.939605,-104.716857
+"80908","Colorado Springs","CO","The Institute of Plastic Surgery","2438 Research Parkway Suite 100","80920",38.961284,-104.782159
+"80908","Colorado Springs","CO","MD Boutiques at Pine Creek","8680 N Union Blvd","80920",38.95992603504547,-104.76312518119812
+"80909","Colorado Springs","CO","Memorial Administrative Center","2420 E Pikes Peak Ave","80909",38.83396,-104.785715
+"80909","Colorado Springs","CO","Memorial Urgent Care","2502 E Pikes Peak Ave","80909",38.833538,-104.784039
+"80915","Colorado Springs","CO","First Choice ER","2770 N Powers Blvd","80922",38.873375,-104.720878
+"80917","Colorado Springs","CO","Integrity Urgent Care East","4323 Integrity Center Point","80917",38.89426437144257,-104.72077562483719
+"80917","Colorado Springs","CO","Powers Pointe Urgent Care","5607 Barnes Rd","80917",38.89391572420839,-104.72350837499745
+"80917","Colorado Springs","CO","Quick Care MD Urgent Care","5799 Stetson Hills Blvd","80917",38.910346000000004,-104.72066099999999
+"80917","Colorado Springs","CO","EC+ Emergicare","4083 Austin Bluffs Pkwy","80918",38.890757,-104.754927
+"80917","Colorado Springs","CO","The Little Clinic","3620 Austin Bluffs Pkwy","80918",38.8920291,-104.7606584
+"80918","Colorado Springs","CO","St. Francis Emergency Department","not_available","80922",38.922966206170905,-104.75730395383253
+"80922","Colorado Springs","CO","Geoff Memorial Hospital","Sterward Way","80923",38.907154,-104.689119
+"80922","Colorado Springs","CO","A+ Hospital","5216 Sternward Way","80922",38.906863,-104.689203
+"81001","Pueblo","CO","Pueblo Surgery Center","25 Montebello Rd","81001",38.306836,-104.600573
+"81001","Pueblo","CO","Emergi Medical Care Center","1080 Chinook Ln","81001",38.288279,-104.600663
+"81001","Pueblo","CO","Belmont Lodge","1601 Constitution Rd","81001",38.288804,-104.57563499999999
+"81003","Pueblo","CO","Parkview Medical Center","400 W 16th St","81003",38.28227317008532,-104.61241722106934
+"81003","Pueblo","CO","parkview emergency department","not_available","81007",38.25435660348215,-104.63575622712305
+"81003","Pueblo","CO","Parkview Same Day Surgery","not_available","81003",38.28197670928689,-104.61301554360399
+"81003","Pueblo","CO","Parkview EAP","Club Manor Dr","not_available",38.30638311731483,-104.62040375810274
+"81003","Pueblo","CO","CMHIP HSFI","1600 W 24th St","81003",38.290185995186604,-104.63126417432588
+"81003","Pueblo","CO","Parkview medical center emergency room","North Greenwood","81005",38.281335995918596,-104.61243497495525
+"81004","Pueblo","CO","St. Mary Corwin Hospital","Minnequa Avenue","81004",38.23361139560244,-104.62419028069553
+"81004","Pueblo","CO","Joni Fair Hospice House","1107 Pueblo Boulevard Way","81005",38.246575520451294,-104.6635961273786
+"81004","Pueblo","CO","St. Mary Corwin Anticoagulation Clinic","1925 E Orman Ave","81004",38.233751,-104.621262
+"81004","Pueblo","CO","Minnequa Medicenter","2701 California St","81004",38.22289435,-104.62699154
+"81004","Pueblo","CO","St. Mary Corwin ER","1101-1181 Minnequa Ave","81004",38.233369987759,-104.62437859605994
+"81004","Pueblo","CO","Urgent care","3937 Ivywood Ln","81005",38.23311996459961,-104.66183471679688
+"81004","Pueblo","CO","Gordon P. Rheaume, DPM, FASPS","1513 Moore Avenue","81005",38.24261000000001,-104.648559
+"81004","Pueblo","CO","RIPE Dispensary","1239 Southgate Pl","81004",38.2172986,-104.623497
+"81004","Pueblo","CO","Dorcy Cancer Center","not_available","81004",38.23443791562722,-104.62276032119614
+"81005","Pueblo","CO","Urgent Care","not_available","81008",38.30983985540204,-104.65941697200931
+"81005","Pueblo","CO","Southern Colorado Clinic Urgent care","Parker","81008",38.32431905856232,-104.73345155472877
+"81005","Pueblo","CO","Touchstone West","729 E Spaulding Ave","81007",38.325229,-104.710936
+"81005","Pueblo","CO","Parkwest Surgery Center LLC","3676 Parker Blvd #165","81008",38.309017181396484,-104.66145324707031
+"81005","Pueblo","CO","Parkview West","899 E Industrial Blvd","81007",38.32865253273786,-104.70172906713782
+"81005","Pueblo","CO","St. Tomas More Hospital Canon City Colorado","Hwy 50","not_available",38.32827114203037,-104.72023092286172
+"81007","Pueblo","CO","St. Mary Corwin Health At Home","4025 Club Manor Dr","81008",38.309689,-104.621859
+"81007","Pueblo","CO","Veterans Hospital","4776 Eagleridge Cir","81008",38.322854,-104.619467
+"81020","Aguilar","CO","Spanish Peaks Veterans Community Living Center","23500 US Highway 160","81089",37.60053253173828,-104.83116149902344
+"81020","Aguilar","CO","Spanish Peaks Regional Health Center","not_available","81089",37.603426966993226,-104.7979132984371
+"81036","Eads","CO","Weisbrod Memorial County Hospital","1208 Luther St","81036",38.48029327392578,-102.78482818603516
+"81050","La Junta","CO","Arkansas Valley Regional Medical Center","1100 Carson Ave","81050",37.97800310816197,-103.54894185649464
+"81082","Trinidad","CO","Mt. San Rafael Hospital","410 Benedicta Ave","81082",37.17311096191406,-104.48751068115234
+"81101","Alamosa","CO","SLV Regional Medical Center","106 Blanca Ave","81101",37.4724787,-105.882886
+"81101","Alamosa","CO","San Luis Valley Medical Center","not_available","81101",37.4718929,-105.8832524
+"81101","Alamosa","CO","Children's Garden","1304 San Juan Ave","81101",37.458831846459816,-105.86700439453125
+"81147","Pagosa Springs","CO","RSU Surya Husada kamar 424","JL. Pulau Searangan","81147",37.1604318,-107.0067031
+"81201","Salida","CO","Hacettepe Onkoloji","Ank.","81201",38.5361129,-106.0503406
+"81212","Canon City","CO","St. Thomas More Hospital","1338 Phay Ave","81212",38.4551858,-105.2299587
+"81212","Canon City","CO","Bruce McCandless Colorado State Veterans Nursing Home","903 Moore Dr","81226",38.371161,-105.122157
+"81212","Canon City","CO","Gordon P. Rheaume, DPM, FASPS Canon City","109 Latigo Lane Suite E","81212",38.4483038,-105.1836032
+"81212","Canon City","CO","Centura Health Urgent Care Canon City","3245 U.S. 50","81212",38.4480338,-105.1874938
+"81224","Crested Butte","CO","CB Medical Center","not_available","81225",38.89890457291693,-106.9658857949365
+"81224","Crested Butte","CO","Gunnison Valley Health Mountain Clinicl","12 Snowmass Road, Axtel 100 PO Box 1906","81225",38.898311614990234,-106.96613311767578
+"81230","Gunnison","CO","Gunnison Valley Hospital","not_available","81230",38.55180899383789,-106.92465200657598
+"81230","Gunnison","CO","Alpine Orthopaedics","112 West Spencer Avenue Suite A","81230",38.5556755065918,-106.92798614501953
+"81230","Gunnison","CO","Colorado Cannabis Cabin","650 S 11th Street Suite B","81230",38.53831481933594,-106.9357681274414
+"81230","Gunnison","CO","Gunnison Valley Health","711 N Taylor St","81230",38.551809999999996,-106.924922
+"81252","Westcliffe","CO","Sangre de Cristro Wellness Center","500 Rosita Avenue","81252",38.1347897,-105.4649732
+"81301","Durango","CO","Animas Surgical Hospital","575 Rivergate","81301",37.248332,-107.870995
+"81301","Durango","CO","Four Corners Health Care Center","2911 Junction St","81301",37.29940609,-107.87981976
+"81301","Durango","CO","Riverview Animal Hospital","670 South Camino del Rio","81301",37.24508174891617,-107.87201407513697
+"81301","Durango","CO","Mercy Regional Medical Center",".","81301",37.23592167004325,-107.82633678380448
+"81301","Durango","CO","Mercy Medical Center","not_available","81301",37.23593199647421,-107.82514572143555
+"81301","Durango","CO","Mercy Urgent Care at Durango Mountain Resort","10 Purgatory Blvd","81301",37.62868075360401,-107.8106664065927
+"81321","Cortez","CO","Southwest Health System","1311 N Mildred Rd","81321",37.36224,-108.57415
+"81401","Montrose","CO","Montrose Memorial Hospital","800 S 3rd St","81401",38.480112,-107.868883
+"81401","Montrose","CO","San Juan Living Center","1043 Ridge St","81401",38.4781237,-107.8612562
+"81401","Montrose","CO","Montrose Memorial Hospital","not_available","81401",38.480128,-107.868808
+"81401","Montrose","CO","Emergency Management Solutions ""EMS""","601 Miami Rd","81401",38.4822883605957,-107.86015319824219
+"81401","Montrose","CO","San Juan Cancer Center","600 S 5th St","81401",38.4772559,-107.869506
+"81416","Delta","CO","Delta County Memorial Hospital","1501 E 3rd St","81416",38.745811610780756,-108.05811737035917
+"81416","Delta","CO","PeopleCare Health Services - Delta, CO","1565 US-50","81416",38.76101062860254,-108.06933403015137
+"81501","Grand Junction","CO","Grand Valley Surgical Center, LLC","not_available","81501",39.090841,-108.560969
+"81501","Grand Junction","CO","1st floor pre-op preppin'","not_available","81506",39.089805603027344,-108.56230163574219
+"81501","Grand Junction","CO","St. Mary's Pavillion","790 Wellington Ave","81501",39.090936516633924,-108.5597357078918
+"81501","Grand Junction","CO","VA Medical Center","2122 North Ave","81501",39.077945,-108.540051
+"81501","Grand Junction","CO","SummitWest Care","1131 N 21st St","81501",39.078074,-108.540952
+"81504","Grand Junction","CO","St Mary's Life Center","1100-1198 Patterson Rd","81506",39.09238113051873,-108.55428093605956
+"81504","Grand Junction","CO","Larchwood Inns","2845 N 15th St","81506",39.093110954013945,-108.5486795656831
+"81504","Grand Junction","CO","Hospice Care Center","3090 N 12th St","81506",39.09498977661133,-108.55191802978516
+"81504","Grand Junction","CO","PARC Rehabilitation Center","2841 North 15th Street","81506",39.09231185913086,-108.54873657226562
+"81505","Grand Junction","CO","Community Hospital Emergency Department","2351 G Rd","81505",39.105136,-108.614733
+"81505","Grand Junction","CO","Redlands After Hours Clinic","2237 Redlands Pkwy","81507",39.0766609,-108.6354227
+"81505","Grand Junction","CO","St Mary's Hospital","not_available","81505",39.07266812339021,-108.60648458262035
+"81505","Grand Junction","CO","Community Hospital","2351 G Road","81505",39.1055313,-108.6204017
+"81520","Clifton","CO","Palisades Living Center","151 East 3rd St","81526",39.1097665,-108.349815
+"81521","Fruita","CO","Colorado Canyons Hospital & Medical Center: Outpatient Procedure Center","300 W Ottley Ave","81521",39.1636273538693,-108.73662073801135
+"81521","Fruita","CO","Colorado Canyons Hospital & Medical Center: Infusion Center","576 Kokopelli Blvd","81521",39.150077096932215,-108.73721901165675
+"81521","Fruita","CO","Colorado Canyons Hospital & Medical Center: Wound Healing Center","551 Kokopelli Blvd Unit H","81521",39.15105512003305,-108.73559922036166
+"81601","Glenwood Springs","CO","Valley View Hospital","1906 Blake Avenue","81601",39.532695942950134,-107.32199299754004
+"81601","Glenwood Springs","CO","Personal Rehabilitation Center, PC","1378 Main St","81623",39.4009759182037,-107.22226023674011
+"81601","Glenwood Springs","CO","Alpine Animal Hospital","not_available","81623",39.402331150765505,-107.11776325818634
+"81601","Glenwood Springs","CO","Spider Rose Tattoo","821 Grand Ave","81601",39.54590411866687,-107.32478739992489
+"81601","Glenwood Springs","CO","Brain And Spine Center","not_available","81601",39.532648,-107.321243
+"81601","Glenwood Springs","CO","Imaging at Valley View Hospital","1906 Blake Ave","81601",39.53255081176758,-107.32158660888672
+"81601","Glenwood Springs","CO","Women's Health at Valley View Hospital","1830 Blake Ave, Suite 208","81601",39.5332873,-107.321967
+"81611","Aspen","CO","Aspen Valley Hospital","401 Castle Creek Rd","81611",39.19072716547783,-106.83926224425704
+"81611","Aspen","CO","Mount Sinai Health Concourse","1000 N 3rd St","81611",39.199951171875,-106.82806396484375
+"81611","Aspen","CO","OrthoAspen","0401 Castle Creek Road, Suite 2100","81611",39.191538,-106.839706
+"81611","Aspen","CO","Snowmass Urgent Care","not_available","81611",39.20655127551289,-106.95242477745535
+"81620","Avon","CO","Emergency & Urgent Care Avon","50 Buck Creek Rd, #100","81620",39.639679843311505,-106.52233228404407
+"81620","Avon","CO","Vail Valley Medical Center At Beaver Creek","not_available","81620",39.60329255,-106.518650525
+"81620","Avon","CO","Beaver Creek Medical Center","1284-1298 Village Rd","81620",39.603598179873266,-106.5186038799758
+"81620","Avon","CO","Avon Urgent Care","236-238 Chapel Pl","81620",39.63315291,-106.51889701666667
+"81621","Basalt","CO","OrthoAspen","1450 E. Valley Rd., Suite 201,","81621",39.3756291,-107.077279
+"81625","Craig","CO","TMH","County Road 7","81625",40.52557807,-107.57859386
+"81631","Eagle","CO","iV Bars of Edwards","27 Main Street Suite C-104 E","81632",39.64453,-106.5923399
+"81631","Eagle","CO","Vail Valley Surgery Center Edwards Campus","not_available","81632",39.65207,-106.59229
+"81631","Eagle","CO","Gypsum Urgent Care","not_available","81637",39.64425114955378,-106.88137972652254
+"81641","Meeker","CO","Pioneers Medical Center Advanced Orthopedics","100 Pioneers Medical Center Drive","81641",40.0470026,-107.8822968
+"81648","Rangely","CO","rangely district hospital","not_available","81648",40.08063507080078,-108.8048095703125

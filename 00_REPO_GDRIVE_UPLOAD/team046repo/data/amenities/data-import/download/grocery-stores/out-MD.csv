@@ -1,0 +1,938 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"20601","Waldorf","MD","Giant Food","3297 Crain Highway","20603",38.62322017945176,-76.91708564758301
+"20601","Waldorf","MD","Target","3300 Western Pkwy","20603",38.6211937854933,-76.92271525051495
+"20601","Waldorf","MD","Walmart","11930 Acton Ln","20601",38.63862134263577,-76.89519579014073
+"20601","Waldorf","MD","Walmart","40 Drury Dr","20646",38.550760581725825,-76.98292538121403
+"20601","Waldorf","MD","MOM's Organic Market","3301 Plaza Way","20603",38.62206889477994,-76.91758070818278
+"20601","Waldorf","MD","Safeway","15916 Crain Hwy","20613",38.6746159,-76.8728064
+"20601","Waldorf","MD","Nick's of Clinton","3953 Saint Charles Pkwy","20602",38.61342454458905,-76.88185784167199
+"20601","Waldorf","MD","Giant Food","200 Rosewick Rd","20646",38.5575394,-76.9852999
+"20601","Waldorf","MD","Safeway","10 King St","20602",38.6023898,-76.9019441
+"20601","Waldorf","MD","Safeway","3051 Waldorf Market Pl","20603",38.62699652183416,-76.91712687123982
+"20601","Waldorf","MD","Shoppers By McKay’s","1170 Smallwood Dr W","20603",38.609639,-76.929559
+"20601","Waldorf","MD","Aldi","7500 Albert Rd","20613",38.6704967,-76.8778839
+"20601","Waldorf","MD","ALDI","3286 Crain Hwy","20603",38.6209696,-76.91382340000001
+"20601","Waldorf","MD","Weis Markets","100 Drury Dr","20646",38.547624758061495,-76.9829919068166
+"20601","Waldorf","MD","Lidl","3461 Promenade Place","20603",38.629337310791016,-76.9675064086914
+"20601","Waldorf","MD","Los Compadres Latin Market","2419 Crain Hwy","20601",38.6449089050293,-76.8924789428711
+"20601","Waldorf","MD","Giant Pharmacy","not_available","20603",38.622967,-76.916923
+"20601","Waldorf","MD","Masagana Market","11850 Park Waldorf Ln","20601",38.6337776184082,-76.90005493164062
+"20601","Waldorf","MD","Gateway Vape And Tobacco","3969 SAINT CHARLES PKWY","20602",38.613731384277344,-76.8815689086914
+"20601","Waldorf","MD","Baden Grocery","16757-16799 Brandywine Rd","20613",38.660187,-76.778582
+"20601","Waldorf","MD","Utz","not_available","20602",38.608594711178085,-76.91970958817205
+"20601","Waldorf","MD","Tobacco King of Vape, CBD, Kratom","3615 LEONARDTOWN RD","20601",38.6174078,-76.8929671
+"20601","Waldorf","MD","Country Nutrition","3725 Leonardtown Rd","20601",38.616513,-76.890047
+"20603","Waldorf","MD","Berry Country Market","7485 Bensville Rd","20603",38.615303838555015,-77.01038647263445
+"20606","Abell","MD","Murphy's Town & Country","21270 Oakley Road","20609",38.26221087955962,-76.76362586583055
+"20607","Accokeek","MD","Giant Food","7025 Berry Rd","20607",38.660118,-77.0168309
+"20607","Accokeek","MD","Weis Markets","15789 Livingston Rd","20607",38.67093912315628,-77.00873958088252
+"20609","Avenue","MD","Market Place","A Venue","20609",38.25624,-76.767745
+"20613","Brandywine","MD","Aldi's","not_available","not_available",38.698532364190044,-76.86896285969539
+"20619","California","MD","Walmart Supercenter","45485 Miramar Way","20619",38.29346654762039,-76.5035332009975
+"20619","California","MD","Giant Food","45101 First Colony Way","20619",38.2981202,-76.5151194
+"20619","California","MD","Harris Teeter","44900 St. Andrews Church Rd.","20619",38.30232741041704,-76.52325723314922
+"20619","California","MD","Aldi","44755 Oak Crest Rd","20619",38.3083954,-76.5289441
+"20619","California","MD","Weis Markets","45315 Alton Ln","20619",38.29456988,-76.50720979
+"20619","California","MD","McKays Grocery","not_available","20636",38.302713394035536,-76.5259237310877
+"20620","Callaway","MD","Weis Markets","20995 Point Lookout Rd","20620",38.236646,-76.52463399999999
+"20622","Charlotte Hall","MD","McKays Food & Drug","37670 Mohawk Dr","20622",38.50844767216206,-76.77440529850747
+"20629","Dowell","MD","Weis Markets","13300 H G Trueman Road","20688",38.34805365,-76.45908599
+"20634","Great Mills","MD","Weis Markets","19 St. Marys Square","20653",38.25856658,-76.46474555
+"20634","Great Mills","MD","Patuxent River NAS Commissary","22155 Cuddihy Rd","20670",38.27407604595981,-76.45612277797882
+"20636","Hollywood","MD","McKay's Food & Drug","40845 Merchants Ln","20650",38.307111585507194,-76.6631146763438
+"20636","Hollywood","MD","McKays Food Store","Hollywood Rd","20636",38.32244023386723,-76.61720987979318
+"20636","Hollywood","MD","Good Earth Natural Foods","41675 Park Ave","20650",38.29013646462491,-76.63452973737758
+"20639","Huntingtown","MD","Giant Food","655 Solomons Island Rd N","20678",38.5544613,-76.5934982
+"20639","Huntingtown","MD","Nick's of Calvert","930 Costley Way","20678",38.557195502981884,-76.60048317751263
+"20639","Huntingtown","MD","Weis Markets","750 Prince Frederick Blvd","20678",38.55290597,-76.59743998
+"20646","La Plata","MD","Safeway","40 Shining Willow Way","20646",38.54224123392013,-76.98207020759588
+"20646","La Plata","MD","Joes Grocery","not_available","20675",38.58686675,-77.02703711666666
+"20646","La Plata","MD","Scott's General Store","7050 Port Tobacco Rd","20693",38.48282824168731,-77.10440964191032
+"20657","Lusby","MD","Weis Markets","210 H G Trueman Road","20657",38.373367,-76.436586
+"20657","Lusby","MD","Giant","11740 Rousby Hall Rd","20657",38.3740781,-76.4424
+"20657","Lusby","MD","Safeway","not_available","20657",38.35715441780096,-76.39984105562031
+"20657","Lusby","MD","Woodburns of Solomons","70 Holiday Dr","20688",38.337276458740234,-76.46565246582031
+"20676","Port Republic","MD","Buehler's Market","not_available","20685",38.47394416422985,-76.50656910154711
+"20678","Prince Frederick","MD","Walmart","150 Solomons Island Rd N","20678",38.5410059209021,-76.59093781486582
+"20678","Prince Frederick","MD","Safeway","80 W Dares Beach Rd","20678",38.545423658221,-76.59008601311143
+"20680","Ridge","MD","Ridge Market","13270 Point Lookout Rd","20680",38.108928000000006,-76.365729
+"20684","Saint Inigoes","MD","St. Inigoes General Store","15094 Point Lookout Rd","20684",38.152573,-76.393423
+"20701","Annapolis Junction","MD","Giant Foods","8580 Dorsey Run Rd","20794",39.13454818725586,-76.79556274414062
+"20705","Beltsville","MD","Target","12000 Cherry Hill Rd","20904",39.0516267747599,-76.9567877054214
+"20705","Beltsville","MD","Shoppers Food Market","4720 Cherry Hill Rd","20740",39.01660550049768,-76.92872376772362
+"20705","Beltsville","MD","ALDI","14100 Baltimore Ave","20707",39.0838649,-76.864717
+"20705","Beltsville","MD","Shoppers Food Market","13600 Baltimore Ave Ste 100","20707",39.0786249,-76.8693745
+"20705","Beltsville","MD","Giant Food","11701 Beltsville Dr","20705",39.04863143474976,-76.93749189376831
+"20705","Beltsville","MD","ALDI","10912 Baltimore Ave","20705",39.03296126573409,-76.91200128416313
+"20705","Beltsville","MD","ShopRite","12028 Cherry Hill Rd","20904",39.05474040910751,-76.9561818716883
+"20705","Beltsville","MD","Global Food","13814 Outlet Dr","20904",39.083764,-76.94684
+"20705","Beltsville","MD","Manila Mart","10609 Montgomery Rd","20705",39.041238668993735,-76.9056478985133
+"20705","Beltsville","MD","Super Best Market","13600 Laurel Bowie Rd","20708",39.07621873231932,-76.84965663564095
+"20705","Beltsville","MD","Tropical Grocery","13842 Outlet Dr Ste B","20904",39.08250427246094,-76.94688415527344
+"20705","Beltsville","MD","Jin Mi Oriental Market","10800 Rhode Island Ave","20705",39.033633,-76.913889
+"20705","Beltsville","MD","Beltsville Asian Food Market","11000 Beltsville Avenue","20705",39.034196,-76.909152
+"20705","Beltsville","MD","International Food Market","11118 Baltimore Av","20707",39.035308837890625,-76.90727233886719
+"20705","Beltsville","MD","Iroko Int'l Foods","11000","20705",39.034386,-76.90944300000001
+"20705","Beltsville","MD","Giant","Route 1","20724",39.07609298594145,-76.8712306022644
+"20705","Beltsville","MD","ShopRite of White Oak, MD","12028 Cherry Hill Road","20904",39.0550732,-76.9564927
+"20706","Lanham","MD","Wegmans","9001 McHugh Dr","20706",38.921705971689235,-76.8499760211945
+"20706","Lanham","MD","ALDI","9343 Annapolis Rd","20706",38.9643156,-76.846994
+"20706","Lanham","MD","Giant Food","7546 Annapolis Rd","20784",38.9513097,-76.8874686
+"20706","Lanham","MD","Shoppers Food Market","10501 Martin Luther King Jr Hwy","20720",38.953633000129955,-76.82353289457751
+"20706","Lanham","MD","Giant Food","10501 Greenbelt Rd","20706",38.9889799,-76.8233664
+"20706","Lanham","MD","Safeway","7595 Greenbelt Rd","20770",38.992872474553415,-76.87666878865457
+"20706","Lanham","MD","Shoppers Food Market","7790 Riverdale Rd","20784",38.95778612788778,-76.87253415584559
+"20706","Lanham","MD","Eko Aftican Food Store","not_available","20784",38.94815,-76.887746
+"20706","Lanham","MD","One Stop International Market","7705 Annapolis Rd","not_available",38.95212936401367,-76.8788833618164
+"20706","Lanham","MD","Ami Market International Foods","7525 Landover Rd","20785",38.926134999999995,-76.885837
+"20706","Lanham","MD","Periyar","not_available","20785",38.942324935520425,-76.88400048184742
+"20706","Lanham","MD","PGM Halal Market & Carryout","9356 Lanham Severn Rd","20706",38.9722785949707,-76.847900390625
+"20707","Laurel","MD","Harris Teeter","14702 Baltimore Ave","20707",39.09310043203954,-76.85846106395717
+"20707","Laurel","MD","Giant Food","1009 Fairlawn Ave","20707",39.096708158719316,-76.85593262314796
+"20707","Laurel","MD","Weis Markets","9270 All Saints Rd","20723",39.120306065586426,-76.85183061992235
+"20707","Laurel","MD","Jake's Pickles And Olives","not_available","20707",39.094509,-76.837787
+"20707","Laurel","MD","Covenant Pharmarcy & Grocery","14633 Baltimore Ave","20707",39.090314,-76.857178
+"20707","Laurel","MD","3rd Eye Divine","912 Montgomery St Apt 101","20707",39.10713577270508,-76.85963439941406
+"20707","Laurel","MD","Baria Halal Meats and Spices","7709 Sandy Spring Rd","20707",39.103375,-76.871913
+"20710","Bladensburg","MD","Save-A-Lot","5416 Annapolis Rd","20710",38.94021275830105,-76.9241613715514
+"20710","Bladensburg","MD","Americana grocery","4900 Kennilworth Ave","20710",38.940203000000004,-76.93304599999999
+"20712","Mount Rainier","MD","Glut Food Co-op","4005 34th St","20712",38.9384444,-76.9605385
+"20712","Mount Rainier","MD","Megamart","not_available","20782",38.950939,-76.96915
+"20712","Mount Rainier","MD","Price Rite Of Hyattsville","3104 Queens Chapel Rd.","20782",38.950371963914534,-76.96821337519332
+"20712","Mount Rainier","MD","PanAm Supermarket","1901 Michigan Ave NE","20018",38.94549,-76.977935
+"20712","Mount Rainier","MD","El Toro International Mart","not_available","20018",38.945814061822745,-76.97804097858412
+"20715","Bowie","MD","Giant","15520 Annapolis Rd","20715",38.9816445,-76.7355927
+"20715","Bowie","MD","Lidl","13401 Annapolis Rd","20720",38.971486785406015,-76.77292366745195
+"20715","Bowie","MD","ALDI","2109 Concord Blvd","21114",39.0194417,-76.6973988
+"20715","Bowie","MD","Harris Teeter","15501 Annapolis Rd","20715",38.97816693201723,-76.73377638175882
+"20715","Bowie","MD","Aldi's Food Mart","6810 Race Track Rd","20715",38.98192427370558,-76.73014507462995
+"20715","Bowie","MD","MOM's Organic Market","6824 Race Track Rd","20715",38.98241742003591,-76.73025063815116
+"20715","Bowie","MD","Palawan Oriental Market","13623 Old Annapolis Rd","20720",38.970209999999994,-76.768365
+"20715","Bowie","MD","Goshen Foods","13611 Old Annapolis Rd","20720",38.970814000000004,-76.768411
+"20716","Bowie","MD","Walmart","3300 Crain Hwy","20716",38.9361275659977,-76.72010813041145
+"20716","Bowie","MD","Safeway","4101 Northview Dr","20716",38.9460856,-76.7368743
+"20716","Bowie","MD","Giant Food & Pharmacy","3500 Crain Hwy","20716",38.9377914,-76.7202298
+"20720","Bowie","MD","Safeway","12410 Fairwood Pkwy","20720",38.9653774,-76.7892527
+"20721","Bowie","MD","Giant Food","10480 Campus Way S","20774",38.89487404346211,-76.82712972164154
+"20721","Bowie","MD","Shoppers Food Market","806 Largo Center Dr","20774",38.9012723,-76.8369719
+"20721","Bowie","MD","Weis Markets","12100 Central Ave","20721",38.90003940633332,-76.79603327815522
+"20722","Brentwood","MD","Compare Foods","not_available","20722",38.934803,-76.94957
+"20722","Brentwood","MD","Mexican Fruits","4301 Bladensburg Rd","20722",38.937235,-76.94478000000001
+"20723","Laurel","MD","Harris Teeter","8184 Westside Blvd","20759",39.14956359411922,-76.91089534539861
+"20723","Laurel","MD","Harris Teeter","8620 Guilford Rd","21046",39.170312593450205,-76.86456865339693
+"20723","Laurel","MD","Weis Markets","9250 Washington Blvd N","20723",39.130139590786364,-76.82115154602249
+"20723","Laurel","MD","Kings Contrivance Harris Teeter","9201 Guilford Road","21046",39.16627502441406,-76.84281158447266
+"20723","Laurel","MD","Nazar Produce Market","6955 Oakland Mills Rd","21045",39.179885,-76.827492
+"20723","Laurel","MD","Howard County Food Bank","9385 Gerwig Ln","21046",39.169453000000004,-76.838307
+"20723","Laurel","MD","7 Star Food Mart","Baltimore St.","20763",39.13808795,-76.82440233
+"20724","Laurel","MD","Walmart Supercenter","3549 Russett Grn","20724",39.09932678,-76.80293083
+"20724","Laurel","MD","Shoppers Food Market","3441 Laurel Fort Meade Rd","20724",39.098445931718956,-76.81322248296055
+"20724","Laurel","MD","Aldi","3331 Corridor Marketplace","20724",39.09817123413086,-76.80770111083984
+"20724","Laurel","MD","Amazon Drop Box","not_available","20724",39.098849,-76.813175
+"20732","Chesapeake Beach","MD","Roland's","7875 Bayside Rd","20732",38.68815545148528,-76.53599972486148
+"20733","Churchton","MD","Christopher's Fine Foods","5570 Shady Side Rd Ste B","20733",38.81538827401774,-76.53859142236355
+"20733","Churchton","MD","Giant","3030-3068 Solomons Island Rd","21037",38.80246169531529,-76.51849952927043
+"20735","Clinton","MD","Walmart","8745 Branch Ave","20735",38.772056890008955,-76.88923209739485
+"20735","Clinton","MD","Safeway","6235 Oxon Hill Rd","20745",38.8046303,-76.9853922
+"20735","Clinton","MD","Safeway","8785 Branch Ave","20735",38.7688992,-76.8897308
+"20735","Clinton","MD","Giant Food","7074 Allentown Rd","20748",38.7922983,-76.9266742
+"20735","Clinton","MD","Shoppers Food Market","6300 Coventry Way","20735",38.78340034740526,-76.89731510015918
+"20735","Clinton","MD","Jumbo International Market","3201 Brinkley Rd","20748",38.80352318526666,-76.95293684017183
+"20735","Clinton","MD","ALDI","8827 Woodyard Rd","20735",38.7710017,-76.8831532
+"20735","Clinton","MD","ALDI","6400 Allentown Rd","20748",38.800731766407495,-76.90825448199348
+"20735","Clinton","MD","Noahs Super Market","not_available","20735",38.785410999999996,-76.898485
+"20735","Clinton","MD","Gmart","8899 Mike Shapiro Dr","20735",38.77262311985168,-76.88450151669417
+"20735","Clinton","MD","Covenant Int. African Grocery.","6329 Old Branch Ave, Temple Hills, MD 20748","20748",38.802059173583984,-76.90650177001953
+"20736","Owings","MD","Harris Teeter","10125 Ward Road","20754",38.71781566312168,-76.6584336158921
+"20736","Owings","MD","Walmart","10600 Towne Center Blvd","20754",38.72256123634961,-76.65718626640897
+"20736","Owings","MD","Giant","10790 Town Center Blvd","20754",38.7237692,-76.657128
+"20736","Owings","MD","Safeway","10276 Southern Maryland Blvd","20754",38.7187224,-76.6627365
+"20737","Riverdale","MD","Whole Foods Market","6621-B Baltimore Ave","20737",38.96913263659026,-76.936792175288
+"20737","Riverdale","MD","MegaMart","5801 Riverdale Rd","20737",38.959351200178745,-76.91817313941888
+"20737","Riverdale","MD","Yes Organic Market","5331 Baltimore Ave","20781",38.95491976544217,-76.94005060108444
+"20737","Riverdale","MD","La Grande Supermercado","5821 Riverdale Rd","20737",38.95833219263351,-76.91834760892674
+"20737","Riverdale","MD","Dumm Corner Market And Beer","4700 Riverdale Rd","20737",38.96319823461769,-76.9275055501587
+"20740","College Park","MD","Lidl","8601 Baltimore Avenue","20740",38.99599589,-76.93185455
+"20740","College Park","MD","MOM's Organic Market","9801 Rhode Island Ave.","20740",39.013902,-76.920057
+"20740","College Park","MD","Giant Food","6000 Greenbelt Rd","20770",38.9990335,-76.9110323
+"20740","College Park","MD","Giant Food","not_available","20740",38.99595188747178,-76.90498027538922
+"20740","College Park","MD","Maryland Food Collective","B0203 Stamp Student Union","20740",38.98850368764224,-76.94470611833482
+"20740","College Park","MD","D-Con 24hr Store","Stadium Dr","20740",38.992232524707624,-76.94905539548157
+"20740","College Park","MD","South Campus Commons Shop","1109 S Campus Dining Hall","20742",38.98315282507837,-76.9431188001553
+"20740","College Park","MD","24 Shop","251 Denton Dr.","not_available",38.99267648266202,-76.94974302982517
+"20743","Capitol Heights","MD","Shoppers Food Market","5820 Silver Hill Rd","20747",38.856306317716346,-76.90744310617447
+"20743","Capitol Heights","MD","K & Y Grocery","6622 Seat Pleasant Dr","20743",38.899716999999995,-76.892247
+"20743","Capitol Heights","MD","Save-A-Lot","5600 Silver Hill Rd","20747",38.856010999999995,-76.910772
+"20743","Capitol Heights","MD","Save-A-Lot","5933 Martin Luther King Hwy","20743",38.897773619763576,-76.9045880541653
+"20743","Capitol Heights","MD","Price Rite Of District Heights","5800 Silver Hill Road","20747",38.85510778363599,-76.90766266435828
+"20743","Capitol Heights","MD","Compare Foods","4801 Marlboro Pike","20743",38.872811,-76.930913
+"20744","Fort Washington","MD","Aldi","6301B Livingston Rd","20745",38.802507,-76.989797
+"20744","Fort Washington","MD","Safeway","990 E Swan Creek Rd","20744",38.726917,-76.9918475
+"20744","Fort Washington","MD","Giant Food","9580 Livingston Rd","20744",38.7579366,-76.995101
+"20744","Fort Washington","MD","Salinas Oriental Store","9205 Oxon Hill Rd","20744",38.763194,-77.006281
+"20744","Fort Washington","MD","Save-A-Lot","6309 Livingston Rd","20745",38.80214325908773,-76.98968276848653
+"20744","Fort Washington","MD","Murry's","6151 Livingston Rd","20745",38.804429999999996,-76.992407
+"20745","Oxon Hill","MD","Giant","20 Audrey Ln","20745",38.8170958,-77.0026087
+"20745","Oxon Hill","MD","Murry's","4001-4045 South Capitol St SW","20032",38.830783520220315,-77.0079188897113
+"20745","Oxon Hill","MD","Tiger Market-IGA","823 Southern Ave","20745",38.828071,-76.990847
+"20745","Oxon Hill","MD","Chesapeake Big Market","Chesapeake and 6th SE","not_available",38.828941345214844,-76.99820709228516
+"20745","Oxon Hill","MD","Everergreen Supermarket","not_available","20748",38.835479736328125,-76.96499633789062
+"20746","Suitland","MD","Giant Food","5500 Silver Hill Rd","20747",38.8541068,-76.9127095
+"20746","Suitland","MD","ALDI","6301 Marlboro Pike","20747",38.853553364890054,-76.89883857965475
+"20746","Suitland","MD","Shoppers Food Market","2950 Donnell Dr","20747",38.8491659,-76.8839196
+"20746","Suitland","MD","Andrews AFB Commissary","1684 Starkey Ave","20762",38.816170063093885,-76.88283235112809
+"20746","Suitland","MD","Giant Food","4119 Branch Ave","20748",38.8326597,-76.9442811
+"20746","Suitland","MD","Dollar General","3300 Walters Ln","20747",38.84390702414203,-76.8913356537847
+"20746","Suitland","MD","La Poderosa Supermarket","4662 Suitland Rd","20746",38.84980010986328,-76.92594909667969
+"20746","Suitland","MD","Fresh World","6451 Marlboro Pike","20747",38.85124969482422,-76.89768981933594
+"20746","Suitland","MD","Save-A-Lot","7782 Marlboro Pike","20747",38.84323501586914,-76.87176513671875
+"20746","Suitland","MD","Shoppette","Brookley Ave","20762",38.81647402117067,-76.88400233265371
+"20746","Suitland","MD","Safeway Grocery Store","not_available","20747",38.8468081921685,-76.90104578110525
+"20746","Suitland","MD","Suitland Market","4708 Suitland Rd","20746",38.849409,-76.925135
+"20748","Temple Hills","MD","Save-A-Lot","2346 Iverson St","20748",38.835337,-76.95930899999999
+"20748","Temple Hills","MD","People's Market","3041 Naylor Rd SE","20020",38.853312,-76.96494100000001
+"20755","Fort George G Meade","MD","Fort Meade Commissary","2786 Mapes Rd","20755-5210",39.105400288851875,-76.73658022724975
+"20755","Fort George G Meade","MD","Weis Markets","2294 Blue Water Blvd","21113",39.1015877904223,-76.71874574243519
+"20755","Fort George G Meade","MD","the store","not_available","21113",39.10147476196289,-76.71858978271484
+"20770","Greenbelt","MD","Greenbelt Co-Op Supermarket & Pharmacy","121 Centerway","20770",39.001853630034034,-76.87574666136078
+"20772","Upper Marlboro","MD","Giant Food","5700 Crain Hwy","20772",38.8114932,-76.7375113
+"20772","Upper Marlboro","MD","Safeway","7605 Crain Hwy","20772",38.7865626,-76.7942653
+"20772","Upper Marlboro","MD","Dutch Village Farmers Market","5030 Brown Station Rd","20772",38.82083354424294,-76.76354256841748
+"20772","Upper Marlboro","MD","Weis Markets","5715 Crain Hwy","20772",38.81104928108559,-76.74215913137323
+"20776","Harwood","MD","Sam's Supermarket","945 Central Ave E","21037",38.903627,-76.520126
+"20781","Hyattsville","MD","District Vape DMV","2345 Belleview Ave","20785",38.921801,-76.91518
+"20781","Hyattsville","MD","Super Selecto","6211 Belcrest Rd","20782",38.965526000000004,-76.953295
+"20782","Hyattsville","MD","Giant Food","3521 East West Hwy","20782",38.965661334898755,-76.95850968360907
+"20782","Hyattsville","MD","ALDI","3025 Hamilton St","20782",38.9557599,-76.9642481
+"20782","Hyattsville","MD","Giant Food","5815 Eastern Ave","20782",38.9613383,-76.9951821
+"20782","Hyattsville","MD","Safeway","3702 East West Hwy","20782",38.9667299,-76.9513236
+"20782","Hyattsville","MD","New Grand Mart","1535 University Blvd E","20783",38.984056735631896,-76.98186806797767
+"20782","Hyattsville","MD","Patel Brothers","2074 University Blvd E","20783",38.983963658823846,-76.97719112295064
+"20782","Hyattsville","MD","Bestway","Hamilton Street","20782",38.95411053923958,-76.95952099322056
+"20782","Hyattsville","MD","Shoppers Food Warehouse","2400 University Blvd E","20783",38.984787385498926,-76.96765623683717
+"20782","Hyattsville","MD","Takoma Park Shopping Center","6875 New Hampshire Ave","20912",38.9743926,-76.994534
+"20782","Hyattsville","MD","Bonivia International Foods","5418 Queens Chapel Rd, Hyattsville, MD 20782","20782",38.956851959228516,-76.96232604980469
+"20782","Hyattsville","MD","Save-A-Lot","5615 Sargent Rd","20782",38.95895525096225,-76.9855533423527
+"20782","Hyattsville","MD","Eko Food Stores","6580 Ager Rd, Hyattsville, MD 20782","20782",38.97133,-76.979333
+"20783","Hyattsville","MD","Safeway","10101 New Hampshire Ave","20903",39.0206676,-76.9760494
+"20783","Hyattsville","MD","Aldi","1300-1350 Holton Ln","20912",38.98620738966921,-76.98654243739239
+"20783","Hyattsville","MD","Indian Food Warehouse","1355 Holton Ln","20912",38.985307,-76.985644
+"20783","Hyattsville","MD","Halal Meat & Grocery","1335 University Blvd E","20912",38.986907,-76.985647
+"20783","Hyattsville","MD","Expo E Mart","1101 University Blvd E","20912",38.98987017749677,-76.9896735381348
+"20783","Hyattsville","MD","Americana Grocery","1500 University Blvd E","20783",38.985782623291016,-76.980712890625
+"20783","Hyattsville","MD","Eko Food Store","1167 University Blvd E","20912",38.989182,-76.989755
+"20783","Hyattsville","MD","Mega Market","not_available","20903",38.99922872507451,-76.9940945190787
+"20783","Hyattsville","MD","ALDI","7609 New Hampshire Ave","20783",38.98619229,-76.98640467
+"20783","Hyattsville","MD","Bismillah Halal Meat Market","1401 University Blvd E","20783",38.985939025878906,-76.98434448242188
+"20783","Hyattsville","MD","Mega International Super Market","Adelphi Plaza Shopping Center","20783",38.98505767154989,-76.97001074974078
+"20783","Hyattsville","MD","Best Way Market","Metzerott Plaza","not_available",39.00391271617587,-76.96945084644798
+"20784","Hyattsville","MD","Walmart","6210 Annapolis Rd","20784",38.942838406328114,-76.9075381062992
+"20784","Hyattsville","MD","ALDI","6524 Landover Rd","20785",38.93237344176184,-76.90027356147766
+"20784","Hyattsville","MD","GrandMart International Market","4600 Cooper Ln","20784",38.94177778409495,-76.90514651697127
+"20794","Jessup","MD","MOM's Organic Market","7351 Assateague Dr #190","20794",39.16945383117466,-76.78509655269377
+"20794","Jessup","MD","El Patio","7968 Washington Blvd","20794",39.16989671666666,-76.78770988333333
+"20814","Bethesda","MD","Balducci's Food Lover's Market","10323 Old Georgetown Rd","20814",39.025061790288404,-77.12437655512335
+"20814","Bethesda","MD","Harris Teeter","4805 Battery Ln.","20814",38.992881940352916,-77.09682383539577
+"20814","Bethesda","MD","Giant Food","7142 Arlington Rd","20814",38.981248,-77.0989277
+"20814","Bethesda","MD","Trader Joe's","6831 Wisconsin Ave","20815",38.97838495172841,-77.09055483341217
+"20814","Bethesda","MD","Safeway","5000 Bradley Blvd","20815",38.9775639,-77.0989436
+"20814","Bethesda","MD","Grosvenor Market","10401 Grosvenor Pl","20852",39.02700871517856,-77.10669077664407
+"20814","Bethesda","MD","1 Plus Convenience","7704 Norfolk Ave","20814",38.987911,-77.09630600000001
+"20814","Bethesda","MD","Woodmont Deli","8225 Woodmont Ave","20814",38.99225552138174,-77.0969517672593
+"20815","Chevy Chase","MD","Whole Foods Market","5269 River Rd","20816",38.96624470298392,-77.10445585561025
+"20815","Chevy Chase","MD","Whole Foods Market","4420 Willard Ave.","20815",38.961783755149305,-77.08721417757037
+"20815","Chevy Chase","MD","Giant Food","5400 Westbard Ave","20816",38.9638883,-77.1073011
+"20815","Chevy Chase","MD","Safeway","5545 Connecticut Ave NW","20015",38.9645225,-77.0749237
+"20815","Chevy Chase","MD","Magruder's","5626 Connecticut Ave NW","20015",38.96554974865714,-77.07639767774528
+"20815","Chevy Chase","MD","Broad Branch Market","5608 Broad Branch Rd NW","20015",38.96563005270433,-77.06863045692444
+"20815","Chevy Chase","MD","Talbert's","5236 River Rd","not_available",38.9651949960906,-77.10456895933069
+"20815","Chevy Chase","MD","Brookville Market","not_available","20815",38.98093382093203,-77.0712627441497
+"20815","Chevy Chase","MD","Zivaara","2341 Distribution Cir","20910",39.007080078125,-77.04962921142578
+"20815","Chevy Chase","MD","Takoma Park Silver Spring Co-op","8309 Grubb Rd","20910",38.992595,-77.049008
+"20815","Chevy Chase","MD","Bahamas Wholesale Agencies LTD","East West HighWay","not_available",38.9925638,-77.0607533
+"20815","Chevy Chase","MD","Forest Glen Commissary (Walter Reed Army Medical Center)","9100 Brookville Rd","20910",39.00810669662581,-77.05377522477359
+"20816","Bethesda","MD","Safeway","4701 Sangamore Rd","20816",38.9500438,-77.1192358
+"20816","Bethesda","MD","Spring Valley Shopping Center","4851 Massachusetts Avenue","20016",38.9458119,-77.0960445
+"20817","Bethesda","MD","Giant Food","10400 Old Georgetown Rd","20814",39.0262581,-77.1276208
+"20817","Bethesda","MD","Bethesda Co-Op","6500 Seven Locks Rd","20818",38.9750093256605,-77.16199891472525
+"20832","Olney","MD","Safeway","3333 Spartan Rd","20832",39.1502373,-77.0649369
+"20832","Olney","MD","Harris Teeter","18169 Towncenter Dr","20832",39.153466427998566,-77.06235454297953
+"20832","Olney","MD","Giant Food","18140 Village Center Dr","20832",39.15327,-77.06443167
+"20837","Poolesville","MD","Whole Foods Market","19800 Belmont Chase Dr","20147",39.0684768947504,-77.48434058086374
+"20837","Poolesville","MD","Harris Teeter","19350 Winmeade Dr","20176",39.080919674984166,-77.49586789072265
+"20841","Boyds","MD","Wegmans","20600 Seneca Meadows Pkwy","20876",39.19960654601631,-77.25622860092574
+"20841","Boyds","MD","Walmart Supercenter","20910 Frederick Rd","20876",39.19874557527404,-77.25178435816319
+"20841","Boyds","MD","Giant Food","18331 Leaman Farm Rd","20874",39.1597612239127,-77.27873593568802
+"20841","Boyds","MD","Shoppers Food Market","18066 Mateny Rd","20874",39.14781815301135,-77.2733398269719
+"20841","Boyds","MD","Giant","20944 Frederick Rd","20876",39.2033972,-77.2468852
+"20841","Boyds","MD","ALDI","20904 Frederick Rd","20876",39.19862938531822,-77.24724411964411
+"20841","Boyds","MD","Lotte Plaza Market","13069 Wisteria Dr","20874",39.17844531406406,-77.27112417873235
+"20841","Boyds","MD","Safeway","19718 Germantown Rd","20874",39.1807089,-77.2667868
+"20841","Boyds","MD","Harris Teeter","22700 Sweetshrub Dr","20871",39.229990876920304,-77.250486448126
+"20841","Boyds","MD","Giant","13060 Middlebrook Rd","20874",39.1818824,-77.2712004
+"20841","Boyds","MD","Green Earth Goods","23341 Frederick Rd","20871",39.23921585083008,-77.27949523925781
+"20841","Boyds","MD","Food World","13220 Wisteria Dr #N7","20874",39.180519104003906,-77.27629089355469
+"20841","Boyds","MD","Halal house","not_available","20874",39.195898799939776,-77.26599268260378
+"20841","Boyds","MD","Water Factory","13025 Wisteria Dr","20874",39.178787,-77.271288
+"20841","Boyds","MD","El Rey Latino Market","13531 Clopper Rd","20874",39.161925,-77.28112209999999
+"20841","Boyds","MD","Dana Bazaar","12829 Wisteria Dr","20874",39.178279876708984,-77.26982116699219
+"20841","Boyds","MD","Amigo Supermarket","12851 Clopper Rd","20874",39.158075,-77.265619
+"20850","Rockville","MD","Harris Teeter","323 Copley Place","20878",39.115224111081815,-77.20756447673847
+"20850","Rockville","MD","Safeway","403 Redland Blvd","20850",39.1128672,-77.1716547
+"20850","Rockville","MD","Harris Teeter","12525 Park Potomac Ave","20854",39.061196820804525,-77.15706130706936
+"20850","Rockville","MD","Great Wall Supermarket (大中華)","700 Hungerford Dr","20850",39.093228336117676,-77.15398567074897
+"20850","Rockville","MD","Giant","842 Muddy Branch Rd","20878",39.114770107042425,-77.2177237272262
+"20850","Rockville","MD","Trader Joe’s","10095 Darnestown Road","20850",39.09661532721723,-77.20693355534945
+"20850","Rockville","MD","Safeway","14939 Shady Grove Rd","20850",39.0979657509453,-77.19214449045467
+"20850","Rockville","MD","Giant","9719 Traville Gateway Dr","20850",39.091244,-77.2032517
+"20850","Rockville","MD","Mom’s Organic Market","10 Upper Rock Cir","20850",39.113602894511175,-77.18454531409124
+"20850","Rockville","MD","Dawson's Market","225 N Washington St","20850",39.0862939,-77.1527134
+"20850","Rockville","MD","Giant Food","625 Hungerford Dr","20850",39.0923391,-77.1520089
+"20850","Rockville","MD","ALDI","not_available","20852",39.064631,-77.12908
+"20850","Rockville","MD","The Fresh Market","1649 Rockville Pike","20852",39.06214045580788,-77.12674231880816
+"20850","Rockville","MD","Maruichi Grocery","1047 Rockville Pike","20852",39.07166442370594,-77.13282977288019
+"20850","Rockville","MD","Matreshka","15209 Frederick Rd","20850",39.105873,-77.157398
+"20850","Rockville","MD","Sarangani Market","15855 Redland Rd","20855",39.11614990234375,-77.16535186767578
+"20850","Rockville","MD","Shah And Patel Grocery Grocery","836 Rockville Pike","20852",39.07613,-77.13747
+"20850","Rockville","MD","Patel Brothers","15110 Frederick Rd","20850",39.103408,-77.158553
+"20850","Rockville","MD","Zam Zam Market","9017 Gaither Rd","20877",39.118132,-77.184612
+"20850","Rockville","MD","Giant","Wootton Pkwy","not_available",39.08050168847377,-77.18354938205557
+"20850","Rockville","MD","Family Market","420 Lincoln St","20850",39.092724,-77.14296
+"20850","Rockville","MD","Zamzam","not_available","20877",39.117724,-77.184784
+"20850","Rockville","MD","Kampampangan Cuisine","16041 Frederick Rd","20855",39.11866646962642,-77.17086847527105
+"20850","Rockville","MD","Kam Sam Supermarket","300 N Washington St","20850",39.089357231128126,-77.15361179593134
+"20851","Rockville","MD","Asian Market","Veirs Mill Road","not_available",39.075424667404974,-77.11505542333589
+"20851","Rockville","MD","Bell Street Burritos","112 Krog St NE","30307",39.075645,-77.115055
+"20852","Rockville","MD","Giant Food","12051 Rockville Pike","20852",39.0552378,-77.1153866
+"20852","Rockville","MD","Whole Foods Market","11355 Woodglen Drive","20852",39.04320877094071,-77.11319547192629
+"20852","Rockville","MD","Safeway","1800 Rockville Pike","20852",39.0608033,-77.1213739
+"20852","Rockville","MD","MOM's Organic Market","5566 Randolph Rd","20852",39.05300757525415,-77.11218172683114
+"20852","Rockville","MD","Harris Teeter","11845 Old Georgetown Rd","20852",39.04974627343717,-77.10909812379748
+"20852","Rockville","MD","Giant Food","7919 Tuckerman Ln","20854",39.0409352,-77.1564839
+"20852","Rockville","MD","Trader Joe's","12268-H Rockville Pike","20852",39.05738368620621,-77.12325694561424
+"20852","Rockville","MD","Moti's Market","4860 Boiling Brook Pkwy","20852",39.046370795352544,-77.0995489577166
+"20852","Rockville","MD","MD International Mart Halal Meat & Grocery","12213 Nebel St","20852",39.05229949951172,-77.10993957519531
+"20852","Rockville","MD","Dana Bazaar","12215 Nebel St","20852",39.052316999999995,-77.109879
+"20853","Rockville","MD","Safeway","5510 Norbeck Rd","20853",39.0944276,-77.1100387
+"20853","Rockville","MD","Giant Food","13781 Connecticut Ave","20906",39.0800152,-77.0788785
+"20853","Rockville","MD","Korean Korner","12207 Veirs Mill Rd","20906",39.060143822842335,-77.08358194085174
+"20853","Rockville","MD","Giant","3860 International Dr","20906",39.10168720803231,-77.07502216100693
+"20854","Potomac","MD","Safeway","9881 Georgetown Pike","22066",38.9961484,-77.2876296
+"20854","Potomac","MD","Giant Food","9812 Falls Rd","20854",39.0181475,-77.211244
+"20854","Potomac","MD","Safeway","10104 River Rd","20854",39.0166532,-77.2084417
+"20854","Potomac","MD","Potomac Express Market","12960 Travilah Rd","20854",39.06853446814899,-77.2636432957049
+"20855","Derwood","MD","Giant","16837 Crabbs Branch Way","20855",39.13114840367968,-77.16804519295692
+"20855","Derwood","MD","Giant","18250 Flower Hill Way","20879",39.1552839,-77.1656984
+"20855","Derwood","MD","European Market","17605 Redland Rd","20855",39.14426040649414,-77.14434051513672
+"20855","Derwood","MD","Spice Lanka","17517 Redland Rd","20855",39.14415740966797,-77.14424896240234
+"20855","Derwood","MD","Indonesian & Asian Market","17613 Redland Rd","20855",39.144264,-77.14447
+"20866","Burtonsville","MD","Giant","15618 Old Columbia Pike","20866",39.1131937,-76.9352092
+"20866","Burtonsville","MD","Sangam Spices","13822 Old Columbia Pike","20904",39.08688442165255,-76.94391904472732
+"20872","Damascus","MD","Safeway","9807 Main St","20872",39.2900917,-77.2022372
+"20872","Damascus","MD","Weis Markets","26075 Ridge Rd","20872",39.285375276452946,-77.20842299725203
+"20874","Germantown","MD","Whole Foods Market","316 Kentlands Blvd","20878",39.12270831193614,-77.23742892450201
+"20874","Germantown","MD","Safeway","12251 Darnestown Rd","20878",39.11924236515247,-77.25529477761484
+"20874","Germantown","MD","Giant Food","229 Kentlands Blvd","20878",39.125507674631834,-77.23874151706696
+"20874","Germantown","MD","Harris Teeter","14101 Darnestown Rd","20874",39.10389353460117,-77.29161551767072
+"20874","Germantown","MD","Giant Foods","not_available","20876",39.183944020054795,-77.23420697661624
+"20876","Germantown","MD","Global Food Inc","19227 Watkins Mill Rd","20886",39.171674876906934,-77.20661829532533
+"20876","Germantown","MD","ALDI","19150 Montgomery Village Ave","20886",39.1714173,-77.2052213
+"20877","Gaithersburg","MD","H Mart","9639 Lost Knife Rd","20877",39.15393627950775,-77.19719791551216
+"20877","Gaithersburg","MD","Weis Markets","883 Russell Ave","20879",39.15745709668808,-77.21226245550726
+"20877","Gaithersburg","MD","Lotte Plaza","221 Muddy Branch Rd","20878",39.12835729451976,-77.2057685962251
+"20877","Gaithersburg","MD","El Salvadoreño Latin Market","441 S Frederick Ave","20877",39.135996999999996,-77.19134
+"20877","Gaithersburg","MD","Latino Market","12 JK East Diamond Avenue","20877",39.142216,-77.197751
+"20877","Gaithersburg","MD","Honeybaked Ham","564 S Frederick Ave","20877",39.13510322570801,-77.190247
+"20877","Gaithersburg","MD","Ismet's Market","460 N Frederick Ave","20877",39.148384163812835,-77.2079582776212
+"20877","Gaithersburg","MD","Caribbean Corner","18286 Contour Rd","20877",39.154807,-77.198628
+"20877","Gaithersburg","MD","Caravan Deli","615 S Frederick Ave","20877",39.12931121103444,-77.18575716018677
+"20877","Gaithersburg","MD","India Bazaar","383 Muddy Branch Rd","20878",39.12868342444342,-77.20722526664974
+"20878","Gaithersburg","MD","Giant","46 Bureau Dr","20878",39.14419879008445,-77.21765667200089
+"20878","Gaithersburg","MD","ALDI","608 Quince Orchard Rd","20878",39.1420127,-77.2235983
+"20878","Gaithersburg","MD","Firstfield Shopping Center","505 Quince Orchard Rd","20878",39.14404901458034,-77.2196039557457
+"20879","Gaithersburg","MD","Safeway","20211 Goshen Rd","20879",39.1885718,-77.1851082
+"20879","Gaithersburg","MD","Giant Food","20044 Goshen Rd","20879",39.186899421332924,-77.18836355952453
+"20879","Gaithersburg","MD","Int’l Market","18525 N Frederick Ave","20879",39.161725,-77.22164599999999
+"20895","Kensington","MD","Giant Food","2900 University Blvd W","20902",39.0374789,-77.0585577
+"20895","Kensington","MD","Safeway","10541 Connecticut Ave","20895",39.0279918,-77.0753271
+"20895","Kensington","MD","Mercado Latino","2519 Ennalls Ave","20902",39.04011154174805,-77.05339050292969
+"20895","Kensington","MD","Wheaton Tropical Market","11406 Georgia Ave Ste H","20902",39.041969299316406,-77.05233764648438
+"20895","Kensington","MD","Plaza Market","2511 Ennalls Ave","20902",39.04021072387695,-77.05317687988281
+"20895","Kensington","MD","Kubo","10414 Knowles Ave","not_available",39.027828,-77.078082
+"20901","Silver Spring","MD","Whole Foods Market","833 Wayne Ave","20910",38.996262470308494,-77.02434697932178
+"20901","Silver Spring","MD","Trader Joe's","10741 Columbia Pike","20901",39.03141791169342,-77.00390718012594
+"20901","Silver Spring","MD","Giant Food","8750 Arliss St","20901",38.99960063021364,-77.00242817401886
+"20901","Silver Spring","MD","Safeway","116 University Blvd W","20901",39.0208953,-77.0152471
+"20901","Silver Spring","MD","Giant Food","11221 New Hampshire Ave","20904",39.04097795160938,-76.98895275592798
+"20901","Silver Spring","MD","Magruder's","1150 Lamberton dr","not_available",39.040838110083904,-77.03159888372046
+"20901","Silver Spring","MD","Shalom Strictly Kosher","1361 Lamberton Dr","20902",39.040736882446225,-77.03194666743158
+"20901","Silver Spring","MD","Grocery Mela Market Beer & Wine","8711 1st Ave","20910",38.997779846191406,-77.03186798095703
+"20901","Silver Spring","MD","Bud Miller Associates, Inc.","1105 Spring St Ste F","20910",38.999813,-77.0282424
+"20901","Silver Spring","MD","Universal Supermarket","8639 Flower Ave","20912",38.9976806640625,-77.00312805175781
+"20902","Silver Spring","MD","Safeway","11201 Georgia Ave","20902",39.0389524,-77.0500864
+"20902","Silver Spring","MD","H Mart","12015 Georgia Ave","20902",39.05252571427524,-77.05021504607343
+"20902","Silver Spring","MD","Country Boy Market","2211 Randolph Rd","20902",39.060018096834426,-77.04824895991804
+"20902","Silver Spring","MD","Ethiopia Plus","11303 Georgia Ave","20902",39.04065255,-77.05140885
+"20902","Silver Spring","MD","International Market Inc","12335 Georgia Ave","20906",39.05976867675781,-77.05018615722656
+"20902","Silver Spring","MD","Filipino Home Baking & Grocery Store","not_available","20902",39.039109,-77.05148299999999
+"20904","Silver Spring","MD","Giant Food","13490 New Hampshire Ave","20904",39.0771763,-77.0036319
+"20905","Silver Spring","MD","Safeway","15411 New Hampshire Ave","20905",39.1080372,-76.996241
+"20905","Silver Spring","MD","Indus Food","15513 New Hampshire Ave","20905",39.110321044921875,-76.99552154541016
+"20906","Silver Spring","MD","ALDI","2223 Bel Pre Rd","20906",39.0920136,-77.0473591
+"20906","Silver Spring","MD","Lotte Plaza Market","13625 Georgia Ave","20906",39.07989092185423,-77.0720963748292
+"20906","Silver Spring","MD","Rodman's","4301 Randolph Rd","20906",39.05597583230159,-77.08365619182587
+"20910","Silver Spring","MD","Giant Food","1280 East West Hwy","20910",38.991920628258704,-77.03153460978695
+"20910","Silver Spring","MD","Safeway","909 Thayer Ave","20910",38.9932438,-77.0249258
+"20910","Silver Spring","MD","ALDI","9440 Georgia Ave","20910",39.00985344273865,-77.04180836677551
+"20910","Silver Spring","MD","Snider's Super Market","1936 Seminary Rd","20910",39.00909173819113,-77.0415311806044
+"20910","Silver Spring","MD","Lenox Beer, Wine and Deli","1400 E West Hwy","20910",38.993597074092186,-77.03294634819031
+"20910","Silver Spring","MD","Giant Deli Counter","not_available","20910",38.992176,-77.031796
+"20910","Silver Spring","MD","Wesenyelesh International Market","901 Silver Spring Ave","20910",38.9919319152832,-77.02433013916016
+"20910","Silver Spring","MD","United Desi Market","948 Wayne Ave","20910",38.994335,-77.025823
+"20910","Silver Spring","MD","La Fonda Bakery & Grocer","7914 Georgia Ave","20910",38.98559,-77.027001
+"20910","Silver Spring","MD","Nazret Market","8120 Georgia Ave","20910",38.9911994934082,-77.02716064453125
+"20910","Silver Spring","MD","International Progreso Market","7719 Georgia Ave NW","20012",38.98344,-77.026064
+"20912","Takoma Park","MD","Safeway","6500 Piney Branch Rd NW","20012",38.96959474743706,-77.02658148142291
+"20912","Takoma Park","MD","Takoma Park-Silver Spring Food Co-Op (TPSS)","201 Ethan Allen Ave","20912",38.97805530161212,-77.0059222116205
+"21001","Aberdeen","MD","Walmart Supercenter","645 S Philadelphia Blvd","21001",39.49546702,-76.17689368
+"21001","Aberdeen","MD","Shoprite","not_available","21018",39.48018698446784,-76.24799095073293
+"21001","Aberdeen","MD","ShopRite of Riverside","1321 Riverside Parkway","21017",39.4797673,-76.2473004
+"21001","Aberdeen","MD","Shoprite","949 Beards Hill Rd","21001",39.52501199133202,-76.1814446791252
+"21001","Aberdeen","MD","Aberdeen PG Commissary","Bldg 3400 Aberdeen Blvd & Springfield St.","21005-0387",39.486219707887614,-76.14011252727587
+"21001","Aberdeen","MD","Aldi Market","746 S Philadelphia Blvd","21001",39.49676648828438,-76.17893544907378
+"21001","Aberdeen","MD","ShopRite of Aberdeen, MD","949 Beard'S Hill Road","21001",39.5253454,-76.1813665
+"21009","Abingdon","MD","Wegmans","21 Wegmans Blvd","21009",39.46658378511028,-76.30960777618415
+"21009","Abingdon","MD","Walmart","401 Constant Friendship Blvd","21009",39.462711558715846,-76.31496804403761
+"21009","Abingdon","MD","Giant Foods","3299 Emmorton Rd","21009",39.47278365483326,-76.30816385149956
+"21009","Abingdon","MD","ShopRite","5 Bel Air South Pkwy","21015",39.49670155389275,-76.32578521500406
+"21009","Abingdon","MD","ShopRite of Festival","5 Bel Air South Parkway","21014",39.4972364,-76.3267325
+"21010","Gunpowder","MD","Mercy International Food & Clothing","1018 Edgewood Rd","21040",39.416015625,-76.29891204833984
+"21012","Arnold","MD","Green Valley Marketplace","1238 Bay Dale Dr","21012",39.03882513885724,-76.48031960391805
+"21012","Arnold","MD","Safeway","1451 Ritchie Hwy","21012",39.030256,-76.5039722
+"21012","Arnold","MD","Fresh & Green's","1290 Bay Dale Dr","21012",39.038928817545624,-76.48055965084262
+"21014","Bel Air","MD","Walmart Supercenter","303 Fallston Blvd","21047",39.49822015414508,-76.3847741808106
+"21014","Bel Air","MD","Safeway","225 Brierhill Dr","21015",39.5418277,-76.3241515
+"21014","Bel Air","MD","Redner's","2126 N Fountain Green Rd","21015",39.57693096421314,-76.34588877081995
+"21014","Bel Air","MD","ShopRite","2101 Rock Spring Rd","21050",39.574997267731185,-76.3854771379871
+"21014","Bel Air","MD","Klein's Shop Rite","223 N Main St","21014",39.53943308865482,-76.35349811167374
+"21014","Bel Air","MD","Giant","1401 Rock Spring Rd","21014",39.5570535,-76.3674669
+"21014","Bel Air","MD","Sprouts Farmers Market","680 Marketplace Drive","21014",39.5223379,-76.3515777
+"21014","Bel Air","MD","ALDI","599 Baltimore Pike","21014",39.5258083,-76.3522288
+"21014","Bel Air","MD","Weis Markets","550 W Macphail Rd","21014",39.52306125653342,-76.34599968509819
+"21014","Bel Air","MD","ShopRite of Forest Hill","2101 Rockspring Road","21050",39.57504520000001,-76.38498539999999
+"21014","Bel Air","MD","ShopRite of Forest Hill","2101 Rock Spring Road","21050",39.5750783,-76.3849966
+"21014","Bel Air","MD","Davids Natural Market","1523 Rock Spring Rd","21050",39.561183440013934,-76.37076711343697
+"21014","Bel Air","MD","ShopRite of Main Street","223 N. Main Street","21014",39.5395085,-76.35324849999999
+"21015","Bel Air","MD","A 2nd Set of Hands","3304 Conowingo Rd","21154",39.62978630000001,-76.2775769
+"21029","Clarksville","MD","Giant","6050 Daybreak Cir","21029",39.2115911,-76.935605
+"21029","Clarksville","MD","Roots Market - Clarksville","5805 Clarksville Square Dr","21029",39.212570135629,-76.93851551473652
+"21030","Cockeysville","MD","Wegmans","122 Shawan Rd","21030",39.497682614448216,-76.65622583418713
+"21030","Cockeysville","MD","Walmart Supercenter","1 Frankel Way","21030",39.47049574564436,-76.64294973856549
+"21030","Cockeysville","MD","Giant Food","11399 York Rd","21030",39.495291,-76.6484158
+"21030","Cockeysville","MD","The Pennsylvania Dutch Market","11121 York Rd","21030",39.490939822985105,-76.64693328536423
+"21030","Cockeysville","MD","Graul's Market","12218 Tullamore Rd","21093",39.457641173777034,-76.6652339428706
+"21030","Cockeysville","MD","Green Valley Marketplace","not_available","21093",39.455593,-76.63144
+"21030","Cockeysville","MD","Price's Groceries and Spirits","14821 York Rd","21152",39.53122,-76.645705
+"21030","Cockeysville","MD","Mccormick Company Store","not_available","21030",39.494356,-76.651943
+"21032","Crownsville","MD","Safeway","2635 Housley Rd","21401",38.987292791996,-76.55490911020024
+"21034","Darlington","MD","Dublin Market","3269 Dublin Rd","21154",39.650636281565035,-76.26693023253843
+"21034","Darlington","MD","Rich's Market","311 Conowingo Rd","21918",39.67706985250902,-76.162269115448
+"21035","Davidsonville","MD","Davidsonville Country Market","801 W Central Ave","21035",38.922715873795035,-76.62845244084805
+"21037","Edgewater","MD","Safeway","52 Central Ave W","21037",38.9282324,-76.5723358
+"21037","Edgewater","MD","Giant","948 Bay Ridge Rd","21403",38.94862926511866,-76.48658841848373
+"21037","Edgewater","MD","Giant Food & Pharmacy","13 Lee Airpark Dr","21037",38.943105373596026,-76.56378775835032
+"21037","Edgewater","MD","Safeway","1781 Forest Dr","21401",38.9699172,-76.5227122
+"21037","Edgewater","MD","The Fresh Market","2504 Solomons Island Rd,","21401",38.975973413544665,-76.54460712359021
+"21037","Edgewater","MD","Weis Markets","3261 Solomons Island Rd","21037",38.928663,-76.565331
+"21037","Edgewater","MD","Lucky's","not_available","21037",38.92625139648228,-76.55730955179173
+"21040","Edgewood","MD","Aldi","woodbridge ctr way","21040",39.434602171060895,-76.32718971456627
+"21040","Edgewood","MD","ALDI","1312 Business Center Way","21040",39.4346736,-76.3272055
+"21040","Edgewood","MD","Save-A-Lot","1901 Pulaski Hwy","21040",39.43408717130384,-76.31341344002543
+"21042","Ellicott City","MD","Walmart Supercenter","3200 North Ridge Rd","21043",39.282421185099764,-76.82020583660358
+"21042","Ellicott City","MD","Harris Teeter","11075 Resort Rd","21042",39.29783104369376,-76.89738763701516
+"21042","Ellicott City","MD","Giant","9200 Baltimore National Pike","21042",39.2799522,-76.8302963
+"21042","Ellicott City","MD","Safeway","10000 Baltimore National Pike","21042",39.2799687,-76.8555914
+"21042","Ellicott City","MD","Giant","4715 Dorsey Hall Dr","21042",39.2433417,-76.8429061
+"21042","Ellicott City","MD","Safeway","4370 Montgomery Rd","21043",39.251079626853425,-76.8187210116048
+"21042","Ellicott City","MD","Giant Food #300","8805 Centre Park Dr","21045",39.2277922,-76.8169075
+"21042","Ellicott City","MD","Safeway","5485 Harpers Farm Rd","21044",39.2233337,-76.8894453
+"21042","Ellicott City","MD","Sprouts Farmers Market","9150 Baltimore National Pike","21042",39.278184,-76.827329
+"21042","Ellicott City","MD","Weis Markets","10825 Birmingham Way","21163",39.30802714517023,-76.89074377837665
+"21042","Ellicott City","MD","Food Cravings Indian-Pak Store","9050 Red Branch Rd","not_available",39.22907257080078,-76.81696319580078
+"21042","Ellicott City","MD","Desi Bazaar","9179 Red Branch Rd #H","21045",39.230702,-76.822223
+"21043","Ellicott City","MD","Giant","6020 Marshalee Dr","21075",39.2100649,-76.7785802
+"21043","Ellicott City","MD","H Mart","800 N Rolling Rd","21228",39.28238934114606,-76.75492196772885
+"21043","Ellicott City","MD","Aldi Food Market","6503A Baltimore National Pike","21228",39.28464539468589,-76.7628613114357
+"21043","Ellicott City","MD","Lotte Plaza","6600 Baltimore National Pike","21228",39.28786156799108,-76.7641974745586
+"21043","Ellicott City","MD","Family Market","not_available","21045",39.20708424907168,-76.81598194946328
+"21043","Ellicott City","MD","Ganesh Groceries","8000 Locust Mill St","21043",39.279897,-76.809608
+"21043","Ellicott City","MD","Tere's Latin Market","8525 Baltimore National Pike","21043",39.28382,-76.807066
+"21043","Ellicott City","MD","Patel Brothers Grocery","6402 Baltimore National Pike","21228",39.28529582274766,-76.75687605143048
+"21043","Ellicott City","MD","International Mart","8722 Town and Country Blvd","21043",39.287882,-76.81352700000001
+"21043","Ellicott City","MD","S. J. Yates Grocery","8249 Main St, Ellicott City, MD 21043","21043",39.26744842529297,-76.7988052368164
+"21044","Columbia","MD","Whole Foods Market","10275 Little Patuxent Parkway","21044",39.21388677893844,-76.856355969146
+"21044","Columbia","MD","Giant Food","7200 Cradlerock Way","21045",39.1864367,-76.8425446
+"21044","Columbia","MD","La Mart","5865 Robert Oliver Pl","21045",39.210479736328125,-76.84684753417969
+"21044","Columbia","MD","Giant Food","6480 Freetown Rd","21044",39.1945374,-76.8839633
+"21044","Columbia","MD","Columbia  Groceries","Shaker Drive","21046",39.18472315717361,-76.87098975199535
+"21044","Columbia","MD","David's Natural Market","5430 Lynx Ln","21044",39.22015793492965,-76.87559517801935
+"21044","Columbia","MD","Sam's Mart","5801 Stevens Forest Rd","21045",39.21086713751909,-76.84742331504822
+"21045","Columbia","MD","Wegmans","8855 McGaw Rd","21045",39.18605678835812,-76.82006817099617
+"21045","Columbia","MD","Trader Joe's","6610 Marie Curie Dr","21075",39.18816425455717,-76.79546651078637
+"21045","Columbia","MD","Walmart","6405 Dobbin Rd","21045",39.195810656418644,-76.81949763981517
+"21045","Columbia","MD","ALDI","8231 Gateway Overlook","21075",39.18519616458408,-76.79424583911896
+"21045","Columbia","MD","Lily's Mexican Market","6490 Dobbin Rd","21045",39.192644,-76.820418
+"21045","Columbia","MD","Afia International Market","6528 Old Waterloo Rd","21075",39.191014,-76.79345500000001
+"21045","Columbia","MD","SS Indian Grocery Store","8865 Stanford Blvd","21045",39.1911506652832,-76.81825256347656
+"21045","Columbia","MD","Weis Markets","6551 Waterloo Rd","21075",39.19083492,-76.79431814
+"21046","Columbia","MD","Rana Market","6590 Old Waterloo Rd","21075",39.18913650512695,-76.79241943359375
+"21054","Gambrills","MD","Giant","1155 Annapolis Rd","21113",39.08007,-76.689942
+"21054","Gambrills","MD","Wegmans","1413 S Main Chapel Way","21054",39.03181991015048,-76.68766464212526
+"21054","Gambrills","MD","Safeway","2644 Chapel Lake Dr","21054",39.0403765,-76.6803053
+"21054","Gambrills","MD","Shoppers Food Market","1649 Crofton Ctr","21114",39.015545102693885,-76.69384002685541
+"21054","Gambrills","MD","Giant Food and Pharmacy","1161 State Route 3 N","21054",39.01980469054608,-76.69382929801941
+"21054","Gambrills","MD","David's Natural Market III","871 Annapolis Rd","21054",39.066879865252616,-76.66892349826509
+"21054","Gambrills","MD","Lucky's Superette","1101 Odenton Rd","21113",39.07808566126142,-76.68545539357416
+"21060","Glen Burnie","MD","Walmart Supercenter","6721 Chesapeake Center Dr","21060",39.19054293861764,-76.60623017922849
+"21060","Glen Burnie","MD","Giant","6626 Ritchie Hwy","21061",39.19688768088992,-76.61564700446407
+"21060","Glen Burnie","MD","Geresbeck's Market","7931 Baltimore Annapolis Blvd","21060",39.1364085402953,-76.58518952383963
+"21060","Glen Burnie","MD","Arundel plaza","not_available","21060",39.1967468424832,-76.59879222435433
+"21060","Glen Burnie","MD","Aldi","6639D Ritchie Hwy","21061",39.194264182058326,-76.61190122365952
+"21060","Glen Burnie","MD","Jalapenos Market","7128 Ritchie Hwy, Glen Burnie, MD 21061","21061",39.179694,-76.615596
+"21060","Glen Burnie","MD","ShopRite","6716 Ritchie Hwy","21061",39.191950479909735,-76.61621760160422
+"21060","Glen Burnie","MD","American food mart","11 Vernon Ave","21061",39.189728,-76.614812
+"21060","Glen Burnie","MD","Asian Grocery","not_available","21061",39.160291400733996,-76.62120341046692
+"21061","Glen Burnie","MD","Walmart Supercenter","407 George Claus Blvd","21144",39.146210916935225,-76.64700469454516
+"21061","Glen Burnie","MD","Giant Food","7940 Crain Hwy S","21061",39.1333963,-76.6381367
+"21061","Glen Burnie","MD","Shoppers Food Market","670 Old Mill Rd","21108",39.11819010579332,-76.63173750804157
+"21061","Glen Burnie","MD","R&N Philippine Market","7460 Baltimore Annapolis Blvd","21061",39.16536331176758,-76.62591552734375
+"21061","Glen Burnie","MD","wagner and sons showroom","7204 8th Ave","21061",39.17897013595962,-76.62967655548387
+"21061","Glen Burnie","MD","S&J SUPER MARKET","1701 Crain Hwy S","21061",39.143026,-76.631259
+"21071","Glyndon","MD","Santoni's - Glyndon","4854 Butler Rd","21071",39.47611685825235,-76.82019082831118
+"21074","Hampstead","MD","Weis","4201-4225 N Woods Trail","21074",39.5942904832478,-76.84389828376023
+"21074","Hampstead","MD","Walmart Supercenter","2320 No. Hanover Pike","21074",39.63649383524601,-76.86922529404356
+"21074","Hampstead","MD","Millers Food Market","3075 Manchester Rd","21102",39.66316909409195,-76.88731670503363
+"21074","Hampstead","MD","Weis Markets","2205 Hanover Pike","21074",39.635898963237985,-76.8644212768014
+"21074","Hampstead","MD","Weis Markets","720 Hanover Pike","21074",39.594162,-76.843424
+"21076","Hanover","MD","Walmart","7081 Arundel Mills Cir","21076",39.15540512532589,-76.73256963537666
+"21076","Hanover","MD","Safeway","7643 Arundel Mills Blvd","21076",39.1518713,-76.7222446
+"21076","Hanover","MD","ALDI Grocery Delivery","7667 Arundel Mills Blvd","21076",39.15167562081821,-76.72973998436532
+"21076","Hanover","MD","The Chefs' Warehouse Mid-Atlantic Llc","7477 Candlewood Rd","21076",39.1609756,-76.70260119999999
+"21076","Hanover","MD","Beef Jerky Outlet","not_available","21076",39.15771,-76.72551
+"21078","Havre De Grace","MD","Weis Markets","943 Pulaski Hwy","21078",39.54824759768097,-76.10630304896948
+"21078","Havre De Grace","MD","Save-A-Lot","1000 Pulaski Hwy","21078",39.545524001717936,-76.10627138744701
+"21084","Jarrettsville","MD","Lombardo's Market","4074-4080 Norrisville Rd","21084",39.61319505182172,-76.51534340861231
+"21085","Joppa","MD","Redner's","1002 Joppa Farm Rd","21085",39.42072364931597,-76.36989338383468
+"21085","Joppa","MD","Amrein Foods","704 Pulaski Hwy","21085",39.430426663316986,-76.35162846198752
+"21087","Kingsville","MD","Safeway","9645 Belair Rd","21236",39.4136593,-76.4608228
+"21087","Kingsville","MD","Save A Lot","Nine Mile Rd","not_available",39.44052505493164,-76.41863250732422
+"21090","Linthicum Heights","MD","Caribbean Crescent","815 Central Ave","21090",39.22628402709961,-76.65509796142578
+"21093","Lutherville Timonium","MD","Safeway","1017 York Rd","21204",39.411698746721505,-76.60879790782928
+"21093","Lutherville Timonium","MD","Trader Joe's","800 Kenilworth Drive","21204",39.41049,-76.61864
+"21093","Lutherville Timonium","MD","ALDI","1811 York Rd","21093",39.4318672,-76.6206028
+"21093","Lutherville Timonium","MD","The Fresh Market","838 Dulaney Valley Rd,","21204",39.40523416726636,-76.60214832155191
+"21093","Lutherville Timonium","MD","Giant Food","2145 York Rd","21093",39.44359635098373,-76.62460416555405
+"21093","Lutherville Timonium","MD","ShopRite","37 W Aylesbury Rd","21093",39.43761846577228,-76.6274310097282
+"21093","Lutherville Timonium","MD","Sprouts Farmers Market","803 Goucher Commons","21286",39.3975954,-76.5843562
+"21093","Lutherville Timonium","MD","Graul's Market","7713 Bellona Ave","21204",39.39884576286457,-76.64494159624918
+"21093","Lutherville Timonium","MD","MOM's Organic Market","20 W Ridgely Rd","21093",39.43084337682421,-76.62331691079247
+"21093","Lutherville Timonium","MD","ShopRite of Timonium, MD","37 W. Aylesbury Road","21093",39.4374259,-76.6278121
+"21093","Lutherville Timonium","MD","Medicare Supplement Exchange","3502 Anton Farms Rd","21208",39.39942,-76.714202
+"21108","Millersville","MD","Walmart Supercenter","8107 Governor Ritchie Highway","21122",39.127108305164924,-76.58746135902118
+"21108","Millersville","MD","Weis Markets","8115 Ritchie Hwy","21122",39.12556124576709,-76.58614199195266
+"21108","Millersville","MD","Safeway","540 Benfield Rd","21146",39.0830559,-76.5833335
+"21108","Millersville","MD","Aldi","8124 Ritchie Hwy","21122",39.1236533,-76.5889656
+"21108","Millersville","MD","FRESH EXPRESS ORGANIC MARKET","661-671 Old Mill Rd","21108",39.117,-76.631919
+"21111","Monkton","MD","Graul's Market","214 Mount Carmel Rd","21120",39.59245614077355,-76.67009932242163
+"21117","Owings Mills","MD","Wegmans","10100 Reisterstown Rd","21117",39.413263417076855,-76.77461796073953
+"21117","Owings Mills","MD","Giant Food","10210 Mill Run Circle","21117",39.405605,-76.79106
+"21117","Owings Mills","MD","Walmart","9750 Reistertown Road A","21117",39.40630825550593,-76.76706738792426
+"21117","Owings Mills","MD","ALDI","9616 Reisterstown Rd Ste 101","21117",39.40379460263156,-76.76133781671524
+"21117","Owings Mills","MD","Giant Food","11604 Reisterstown Rd","21136",39.440841,-76.807974
+"21117","Owings Mills","MD","Aldi","11716 Reisterstown Rd Ste B","21136",39.443716641411676,-76.81109414265848
+"21117","Owings Mills","MD","Weis Market","not_available","21136",39.46917249783432,-76.83100387948156
+"21117","Owings Mills","MD","Trader Joe's","1809 Reisterstown Rd","21208",39.387863609798174,-76.73610030046108
+"21117","Owings Mills","MD","Weis Markets","9251 Lakeside Blvd","21117",39.39767815629797,-76.79049157941347
+"21117","Owings Mills","MD","Safeway","10335 Reisterstown Rd","21117",39.4181623,-76.7763496
+"21117","Owings Mills","MD","Weis Markets","10 Village Center Rd","21136",39.4687598,-76.8311228
+"21117","Owings Mills","MD","That Korean Place","not_available","21117",39.3950919813485,-76.80016961463804
+"21117","Owings Mills","MD","Giant Food","9730 Groffs Mill Dr","21117",39.406360335443026,-76.81072533130646
+"21122","Pasadena","MD","Royal Farms","2500 Mountain Rd","21122",39.13101204871944,-76.55347087099027
+"21122","Pasadena","MD","Harris Teeter","143 Ritchie Highway N.","21146",39.10123646094677,-76.56542855689453
+"21122","Pasadena","MD","Lauer's Supermarket","8105-A Edwin Raynor Blvd","21122",39.12647729891768,-76.52985658451972
+"21122","Pasadena","MD","Safeway","4211 Mountain Rd","21122",39.1203332,-76.5144506
+"21122","Pasadena","MD","Lauer's Supermarket & Bakery","8479 Fort Smallwood Rd","21122",39.158467273876724,-76.51643134535855
+"21122","Pasadena","MD","Giant Food","4315 Mountain Rd","21122",39.1201603,-76.5116369
+"21122","Pasadena","MD","Giant Food Market","573 Gov Ritchie Hwy","21146",39.076721,-76.5432581
+"21122","Pasadena","MD","Angel's Food Market","4681 Mountain Rd","21122",39.103708970341216,-76.47293250320462
+"21122","Pasadena","MD","Green Valley Marketplace","not_available","21122",39.126557,-76.529875
+"21122","Pasadena","MD","Fit Noodles","8487 Fort Smallwood Rd","21122",39.157921,-76.516132
+"21122","Pasadena","MD","Listman's Country Store","45 W Earleigh Heights Rd","21146",39.09762822692392,-76.56911194324493
+"21128","Perry Hall","MD","Weis Markets","9400 Scott Moore Way","21128",39.40565568283465,-76.44254870010398
+"21128","Perry Hall","MD","Nature's Fresh","11550 Philadelphia Rd","21162",39.40704345703125,-76.4136962890625
+"21131","Phoenix","MD","Safeway","3499 Sweet Air Rd","21131",39.5154911,-76.5575683
+"21131","Phoenix","MD","ShopRite of Jacksonville","14330 Jarrettsville Pike","21131",39.5201779,-76.5602231
+"21132","Pylesville","MD","ShopRite of Cardiff","1606 Dooley Road","21160",39.720042289674716,-76.34241821710606
+"21132","Pylesville","MD","Saubel's Market","2902 Whiteford Rd","21160",39.717758446843355,-76.39248337674125
+"21133","Randallstown","MD","Walmart Supercenter","8730 Liberty Rd","21133",39.36586220406468,-76.78171519880361
+"21133","Randallstown","MD","Aldi","8608A Liberty Rd","21133",39.3630362,-76.7786695
+"21133","Randallstown","MD","Heritage Int'l","not_available","21133",39.36220353795268,-76.78859453354895
+"21133","Randallstown","MD","Esteban African Grocery Store","9808 Liberty Rd","21133",39.380593,-76.82033
+"21144","Severn","MD","Luckies Market Severn","8290 Portsmouth Dr","21144",39.11661313235852,-76.68121280637062
+"21144","Severn","MD","Orchard Food Market / Front Store","not_available","21144",39.12075766666667,-76.70863113333333
+"21157","Westminster","MD","Walmart","280 Woodward Rd","21157",39.58555652110156,-76.98471115420564
+"21157","Westminster","MD","Safeway","444 Wmc Dr #116","21158",39.58597168389368,-77.01328410540827
+"21157","Westminster","MD","Aldi","401 Englar Rd","21157",39.5850994,-76.9901394
+"21157","Westminster","MD","Weis Markets","630 Baltimore Blvd","21157",39.56429722390038,-76.97201602560614
+"21157","Westminster","MD","Giant Food","405 N Center St","21157",39.5734651,-76.9826662
+"21157","Westminster","MD","Shoppers Food Market","551 Jermor Ln","21157",39.5643281,-76.9774259
+"21157","Westminster","MD","Aldi Westminster","not_available","21157",39.585262,-76.98997
+"21157","Westminster","MD","Hahns Of Westminster","468-488 Hahn Rd","21157",39.58500246551565,-76.9787103871519
+"21157","Westminster","MD","Little George's","3405 Ridge Rd","21157",39.4812008662019,-77.06461154958527
+"21201","Baltimore","MD","Save-A-Lot","234-250 McMechen St","21217",39.30715403916785,-76.62837976705168
+"21201","Baltimore","MD","Eddie's Market of Mt.Vernon","7 W Eager St","21201",39.30090202226086,-76.61669084329597
+"21201","Baltimore","MD","Save-A-Lot","1101 Pennsylvania Ave","21201",39.299121,-76.628591
+"21201","Baltimore","MD","Dimitri Olive Oil","not_available","21201",39.303318,-76.616935
+"21201","Baltimore","MD","Saint Paul Food Mart","813 Saint Paul St","21202",39.29930251736646,-76.61417844564207
+"21201","Baltimore","MD","Awassa Food Mart","401 N Eutaw St","21201",39.29403305053711,-76.6210708618164
+"21201","Baltimore","MD","Dipal Food Market","1001 W Cross St","21230",39.280573726869115,-76.62942235964366
+"21201","Baltimore","MD","Potung","321 Park Ave","21201",39.293677,-76.61793399999999
+"21201","Baltimore","MD","Stop Shop & Save","1600 Harford Ave","21213",39.29591929223768,-76.63289456632123
+"21201","Baltimore","MD","Obama Express Grocery","700 North Fremont Ave","21223",39.29591881487753,-76.63291128992758
+"21201","Baltimore","MD","Abinet Ethiopian market and carry out","332 Park Ave","21201",39.2939106,-76.61836089999997
+"21201","Baltimore","MD","George Grocery Store","606 N Eutaw St","21201",39.296,-76.62135
+"21201","Baltimore","MD","Food Mart","789 Washington Blvd","21230",39.282835,-76.62864499999999
+"21202","Baltimore","MD","Whole Foods Market","1001 Fleet St.","21202",39.28414918793346,-76.60018318128753
+"21202","Baltimore","MD","Casa Do Pasta","not_available","21202",39.286926,-76.60301
+"21205","Baltimore","MD","Aldi","3250 E Fayette St","21224",39.2951558327414,-76.57157019541955
+"21205","Baltimore","MD","Save A Lot","2509 E Monument St","21205",39.2983894348145,-76.5818328857422
+"21205","Baltimore","MD","Save A Lot","929 North Caroline St","21205",39.30126953,-76.59697723
+"21205","Baltimore","MD","Mama's Grocery","847 N Montford Ave","21205",39.300808,-76.583605
+"21205","Baltimore","MD","Save-A-Lot","4001 Erdman Ave","21213",39.313949,-76.568732
+"21206","Baltimore","MD","Safeway","4401 Harford Rd","21214",39.3396518,-76.5714371
+"21206","Baltimore","MD","Bi Rite Supermarket","5950 Belair Rd","21206",39.346872647947485,-76.54021413025231
+"21206","Baltimore","MD","Harvest Fare","2905 Hamilton Ave","21214",39.35282109816147,-76.5624820717956
+"21206","Baltimore","MD","Aldi food market","4212 Frankford Ave","21206",39.33778471832159,-76.55049741268158
+"21206","Baltimore","MD","Giant Food","5150 Sinclair Ln","21206",39.32359,-76.5448789
+"21206","Baltimore","MD","Price Rite Of Rosedale Plaza","1753 Chesaco Ave.","21237",39.33012568120021,-76.52007018966259
+"21206","Baltimore","MD","HaHa Food","7501 Pulaski Hwy","21237",39.31124283384103,-76.52502042891355
+"21206","Baltimore","MD","Apna Desh Indian Groceries","8300-A Highway 40 West","not_available",39.323541,-76.503449
+"21206","Baltimore","MD","Jack's Fine Food","4517 Kenwood Ave","21206",39.35670663906385,-76.52079957748622
+"21206","Baltimore","MD","Charis Superstore","6326 Kenwood Ave","21237",39.338423,-76.504664
+"21206","Baltimore","MD","B. Green","2401 Belair Rd","21213",39.317894,-76.575583
+"21206","Baltimore","MD","Green Onion","Harford Rd","21214",39.35233897351644,-76.56162824623658
+"21206","Baltimore","MD","Philippine Oriental Store","1224 Chesaco Ave","21237",39.321199,-76.513614
+"21206","Baltimore","MD","Jamal's","3200 Belair Rd","21213",39.320838928222656,-76.57476806640625
+"21206","Baltimore","MD","All-In-One International Market","6521 Harford Rd","21214",39.36231231689453,-76.55243682861328
+"21207","Gwynn Oak","MD","Giant","6620 Reisterstown Rd","21215",39.3575143,-76.7067078
+"21207","Gwynn Oak","MD","Giant","4624 Edmondson Ave","21229",39.2938859,-76.6955914
+"21207","Gwynn Oak","MD","ShopRite of Howard Park","4601 Liberty Heights Ave.","21207",39.330572749010614,-76.69535742314419
+"21207","Gwynn Oak","MD","Food King","5708 Wabash Ave","21215",39.34593405042177,-76.70088999504054
+"21207","Gwynn Oak","MD","Price Rite Of Security Blvd.","6606 Security Blvd.","21207",39.313443182572826,-76.73626390241742
+"21207","Gwynn Oak","MD","Murray's Steaks","5431 Reisterstown Rd","21215",39.347679138183594,-76.68888092041016
+"21207","Gwynn Oak","MD","Al-Makkah","not_available","21207",39.31513,-76.739485
+"21207","Gwynn Oak","MD","Murry's 8054","4424 Edmondson ave","21229",39.29397677880165,-76.69048067776946
+"21207","Gwynn Oak","MD","Sunsplash Market","850 Neapolitan Way","34103",39.3625977,-76.71249210834503
+"21207","Gwynn Oak","MD","Sam's Deli & Grocery","6712 Windsor Mill Rd","21207",39.326289,-76.73296500000001
+"21207","Gwynn Oak","MD","Save-A-Lot","6836 Reistertown Rd","21215",39.359890721776615,-76.70912511948593
+"21208","Pikesville","MD","Giant Food","3757 Old Court Rd","21208",39.3774272,-76.7237823
+"21208","Pikesville","MD","The Fresh Market","2510 Quarry Lake Dr,","21209",39.38539450254011,-76.68699065430866
+"21208","Pikesville","MD","Shoppers Food Market","2801 Smith Ave","21209",39.37456938598094,-76.69029417698766
+"21208","Pikesville","MD","Seven Mile Market","201 Reisterstown Rd","21208",39.365625942524794,-76.71303565828201
+"21208","Pikesville","MD","Market Maven","1630 Reisterstown Rd","21208",39.37897,-76.72878
+"21208","Pikesville","MD","Caribbean Supermarket","8040 Liberty Rd","21244",39.353562323592705,-76.7572524882888
+"21208","Pikesville","MD","West Indian African Grocery & Fish","8016 Liberty Rd","21244",39.353294372558594,-76.75567626953125
+"21208","Pikesville","MD","Martinez Grocery & Bakery","not_available","21208",39.365743,-76.714377
+"21209","Baltimore","MD","Whole Foods Market","1330 Smith Ave","21209",39.36862097771394,-76.64997245967594
+"21209","Baltimore","MD","Stop Shop And Save","2701 W Cold Spring Ln","21215",39.33914831289876,-76.66695551128963
+"21209","Baltimore","MD","JT's Market & Deli","4300 Falls Rd","21211",39.341066999999995,-76.639825
+"21209","Baltimore","MD","Yummy's Deli & Grocery","4804 Park Heights Ave","21215",39.345295,-76.671749
+"21209","Baltimore","MD","Save A Lot","2705 W Cold Spring Ln","21215",39.33958054,-76.66650391
+"21210","Baltimore","MD","Giant Food","1020 W 41st St","21211",39.33873482388465,-76.63516938686371
+"21210","Baltimore","MD","Eddie's of Roland Park","6213 N Charles St","21212",39.37810126229918,-76.62625519216513
+"21210","Baltimore","MD","Eddie's of Roland Park","5113 Roland Ave","21210",39.3560037931363,-76.63431874678083
+"21211","Baltimore","MD","Shoppers Food Market","2000 Gwynns Falls Pkwy","21216",39.3169413,-76.6524343
+"21211","Baltimore","MD","Remington Grocery & Deli","2900 Huntingdon Ave","21211",39.3220904923025,-76.62389780912775
+"21211","Baltimore","MD","Ron's Market","2745 Miles Ave","21211",39.3203010559082,-76.62315368652344
+"21212","Baltimore","MD","Giant Food","6340-50 York Rd","21212",39.3731722,-76.6118704
+"21213","Baltimore","MD","Rightway Food Express","2910 Harford Rd","21218",39.32345403564516,-76.58816438478155
+"21214","Baltimore","MD","Murray's Steaks","2317 E Northern Pkwy","21214",39.367210388183594,-76.56580352783203
+"21215","Baltimore","MD","ALDI","3601 W Cold Spring Ln","21215",39.335328425559176,-76.67600767454132
+"21216","Baltimore","MD","Save A Lot","3427 Clifton Ave","21216",39.310234,-76.67555
+"21216","Baltimore","MD","Bentalou Food Market","1000 N Bentalou St","21216",39.2996,-76.6535
+"21217","Baltimore","MD","H & Z grocery store","1633 W North Ave","21217",39.309809,-76.64329599999999
+"21217","Baltimore","MD","Stop N Go","1670 W North Ave","21217",39.309967,-76.64461
+"21217","Baltimore","MD","A & M Grocery","2422 Pennsylvania Ave","21217",39.309674,-76.642413
+"21217","Baltimore","MD","Stop Shop Save","1400 N Monroe St","21217",39.30470098583625,-76.6480690081157
+"21218","Baltimore","MD","Giant Food","601 E 33rd St","21218",39.3281922,-76.6076728
+"21218","Baltimore","MD","Safeway","2401 N Charles St","21218",39.3169421,-76.6158765
+"21218","Baltimore","MD","Eddie's Market of Charles Village","3117 Saint Paul St","21218",39.32647198171337,-76.615852665483
+"21218","Baltimore","MD","Crestlyn Market","3838 Crestlyn Rd","21218",39.335682,-76.59865
+"21218","Baltimore","MD","University Market","3201 Saint Paul St","21218",39.32784495161654,-76.61604945255074
+"21218","Baltimore","MD","Greenish Grocery","not_available","21218",39.318524,-76.614369
+"21218","Baltimore","MD","Mini Mart & Beauty Supply","2011 Maryland Ave","21218",39.31278470245038,-76.61806109573038
+"21218","Baltimore","MD","Baltimore Halal Meat & Grocery","2024 N Charles St","21218",39.313101,-76.616952
+"21218","Baltimore","MD","Save-A-Lot","2008 Maryland Ave","21218",39.312655827572335,-76.61838830621856
+"21219","Sparrows Point","MD","Chesapeake Terrace Groceries","2231 Lincoln Ave","21219",39.224586486816406,-76.45099639892578
+"21220","Middle River","MD","Walmart","112 Carroll Island Rd","21220",39.336793351372314,-76.40055527163814
+"21220","Middle River","MD","Giant","7944 Honeygo Blvd","21236",39.37354,-76.4721121
+"21220","Middle River","MD","Geresbeck's","2109 Eastern Blvd","21220",39.32783493242892,-76.44049742367477
+"21220","Middle River","MD","Shoppers Food Market","1200 Eastern Blvd","21221",39.315505399017184,-76.46349728107447
+"21220","Middle River","MD","ALDI","1600 Old Eastern Ave","21221",39.31662596638015,-76.45051136612898
+"21220","Middle River","MD","Weis Markets","165 Orville Rd","21221",39.32500361525956,-76.44966793817481
+"21220","Middle River","MD","El Piquin Mexican Restaurant and Market","1520 Country Ridge Ln","21221",39.3097244,-76.448116
+"21220","Middle River","MD","Millennium International Grocery","201 Back Neck River Road","not_available",39.308253,-76.443603
+"21220","Middle River","MD","Save-A-Lot","116 Stemmers Run","21221",39.32102509069007,-76.45486929504132
+"21220","Middle River","MD","Weis Markets","165 Orville Rd","not_available",39.3252067565918,-76.4499282836914
+"21221","Essex","MD","Walmart Supercenter","6420 Petrie Way Rd","21237",39.337154454193104,-76.48808675669943
+"21221","Essex","MD","Giant","8665 Philadelphia Rd","21237",39.3375192,-76.4861096
+"21221","Essex","MD","Aldi - Golden Ring","8670 Pulaski Hwy","21237",39.3368447,-76.4842604
+"21221","Essex","MD","Walmart Grocery Pickup","6420 Petrie Way","21237",39.337266,-76.487847
+"21221","Essex","MD","Punjab Supermarket & Halal Meat","8767 Philadelphia Rd","21237",39.339838,-76.484711
+"21222","Dundalk","MD","Giant Food","1400 Merritt Blvd","21222",39.2777619,-76.5058108
+"21222","Dundalk","MD","Weis Markets","7848 Wise Ave","21222",39.2686298646675,-76.4961944855911
+"21222","Dundalk","MD","Aldi","1401 Merritt Blvd # A1","21222",39.27728954068559,-76.50314301252371
+"21222","Dundalk","MD","Walmart","2399 North Point Blvd","21222",39.28551476095892,-76.49766024143929
+"21222","Dundalk","MD","Weis Markets","7200 Holabird Ave","21222",39.273029486175105,-76.51702515745059
+"21222","Dundalk","MD","Save A Lot","1744 Merritt Blvd","21222",39.2683271,-76.50431
+"21222","Dundalk","MD","Lost Clouds Vape Bar","7014 German Hill Rd Suite C","21222",39.283059,-76.522434
+"21222","Dundalk","MD","Genesis Grocery","20 N Dundalk Ave","21222",39.259122999999995,-76.52498299999999
+"21222","Dundalk","MD","Zam Zam Halal Meats and Grocery","not_available","21224",39.282381,-76.536606
+"21223","Baltimore","MD","Food Depot","Westside shopping center","not_available",39.28299964256181,-76.6539365933187
+"21223","Baltimore","MD","Fayette Street Market","1852 W Fayette St","21223",39.28968,-76.646877
+"21223","Baltimore","MD","Price Rite of Baltimore","1205 West Pratt St.","21223",39.28415425887518,-76.6357291931327
+"21223","Baltimore","MD","Price Rite of Baltimore","1205 West Pratt Street","21201",39.2841911315918,-76.6366195678711
+"21223","Baltimore","MD","B. Green Wholesale","1300 S Monroe St","21230",39.27349211186639,-76.6404627479098
+"21224","Baltimore","MD","Harris Teeter","3779 Boston St","21224",39.27497238013192,-76.5648740530014
+"21224","Baltimore","MD","Safeway","2610 Boston St","21224",39.2806522,-76.578759
+"21224","Baltimore","MD","Lucky Corner","2330 E Fairmount Ave","21224",39.293120820809136,-76.58418547731614
+"21224","Baltimore","MD","Redner's","7938 Eastern Ave","21224",39.29848424380587,-76.50801612806124
+"21224","Baltimore","MD","Rooftop Hot","339 S Conkling St","21224",39.287771,-76.566786
+"21224","Baltimore","MD","Kousouris Brothers","934 S Lakewood Ave","21224",39.281684000000006,-76.578684
+"21224","Baltimore","MD","Lucky Corner Grocery","2238 Eastern Ave","21231",39.286061,-76.584616
+"21224","Baltimore","MD","Hazlo International Foods","3800 E Lombard St","21224",39.291786193847656,-76.56510162353516
+"21224","Baltimore","MD","Rodriguez Grocery & Deli","101 S Potomac St","21224",39.291038513183594,-76.57445526123047
+"21224","Baltimore","MD","Prima Foods","51 Kane St","21224",39.295606188085635,-76.5316034748692
+"21225","Brooklyn","MD","Save-A-Lot","5007 Ritchie Hwy","21225",39.22506360195796,-76.6128741560979
+"21225","Brooklyn","MD","Jetro Cash & Carry","3405 Annapolis Rd","21227",39.24780140118872,-76.63989209483846
+"21225","Brooklyn","MD","Food King","3400 Annapolis Rd","21227",39.248265,-76.64129
+"21227","Halethorpe","MD","Walmart Supercenter","3601 Washington Blvd","21227",39.24846299025809,-76.66778586042915
+"21227","Halethorpe","MD","Giant Food","4622 Wilkens Ave","21229",39.2661524,-76.6986248
+"21227","Halethorpe","MD","ALDI","3140 Washington Blvd","21230",39.259247942893474,-76.66225299239164
+"21227","Halethorpe","MD","L A Mart","2159 W Patapsco Ave","21230",39.25050119046703,-76.64630388703753
+"21227","Halethorpe","MD","Save-A-Lot","5101 East Dr","21227",39.252457,-76.69260899999999
+"21227","Halethorpe","MD","Amigos Market, Llc","604 Frederick Rd","21228",39.27294,-76.72935
+"21227","Halethorpe","MD","Weis Markets","not_available","21229",39.26122199751522,-76.695854077272
+"21228","Catonsville","MD","Giant Food","6223 Baltimore National Pike","21228",39.2816709,-76.7529246
+"21228","Catonsville","MD","Walmart","6205 Baltimore National Pike","21228",39.28233712569942,-76.7516083753393
+"21228","Catonsville","MD","Shoppers Food Market","5457 Baltimore National Pike","21229",39.2896659,-76.7185405
+"21228","Catonsville","MD","Safeway","5660 Baltimore National Pike","21228",39.289750384604375,-76.73028503710611
+"21228","Catonsville","MD","Little India","5754 Baltimore National Pike","21228",39.289221999999995,-76.734674
+"21229","Baltimore","MD","Kims Liquors n Grocery","2863 W North Ave","21229",39.28935178302535,-76.67490976324719
+"21230","Baltimore","MD","Harris Teeter","1801 Whetstone Way","21230",39.26792246193049,-76.59983512257251
+"21230","Baltimore","MD","Whole Foods Market","711 S Central Ave","21202",39.2829,-76.5985
+"21230","Baltimore","MD","Shoppers Food Market","857 E Fort Ave","21230",39.270412582374014,-76.60380363464355
+"21230","Baltimore","MD","Lucky's Deli & Market","445 E Fort Ave","21230",39.27290646533045,-76.60689587932272
+"21230","Baltimore","MD","Hi's Variety","1727-1729 Fleet St","21231",39.28487795999914,-76.59211398977293
+"21230","Baltimore","MD","Kwon's Fresh Produce (@Cross St. Market)","1065 S Charles St","21230",39.2767921925175,-76.61343917127778
+"21230","Baltimore","MD","Fresh foods","517 S Broadway","21231",39.285084000000005,-76.592826
+"21231","Baltimore","MD","Neima halal grocery","226 S Broadway","21231",39.288419,-76.594037
+"21231","Baltimore","MD","el tesoro supermarket","206 S Broadway","21231",39.289491970577686,-76.593828262198
+"21231","Baltimore","MD","Broadway Mart","248 S Broadway","21231",39.287801,-76.594078
+"21231","Baltimore","MD","Ronnie's Food Market","123 S Chester St","21231",39.28953425115642,-76.58731006576915
+"21231","Baltimore","MD","Penny Saver Grocery","not_available","21231",39.28784430027008,-76.59021019935608
+"21231","Baltimore","MD","Ann’s Grocery","140 S Ann St","21231",39.289419,-76.591872
+"21234","Parkville","MD","Giant","7709 Harford Rd","21234",39.3724593516165,-76.54170781373978
+"21234","Parkville","MD","Weis Markets","4126 E Joppa Rd","21236",39.3993196,-76.48375868
+"21234","Parkville","MD","Giant Food","7920-30 Belair Rd","21236",39.3742738,-76.5114265
+"21234","Parkville","MD","Giant Food","8100 Loch Raven Blvd","21286",39.3871918,-76.5774056
+"21234","Parkville","MD","Walmart Supercenter","8118 Perry Hills Ct","21236",39.378909206080934,-76.50952770115933
+"21234","Parkville","MD","Weis Markets","7927 Belair Rd","21236",39.3726489,-76.508158
+"21234","Parkville","MD","Giant Food","8905 Belair Rd","21236",39.3972224,-76.4796704
+"21234","Parkville","MD","Aldi Food Market","903 Taylor Ave","21286",39.3853284,-76.5794906
+"21234","Parkville","MD","Safeway","8858 Waltham Woods Rd","21234",39.4002438,-76.5441038
+"21234","Parkville","MD","Shoppers Food Market","1955 E Joppa Rd","21234",39.3976418,-76.5456364
+"21234","Parkville","MD","ShopRite of Parkville","2401 Cleanleigh Drive","21234",39.37286563631222,-76.56418488194423
+"21234","Parkville","MD","ALDI","8808 Belair Rd","21236",39.39431477921954,-76.48740381002426
+"21234","Parkville","MD","Weis Markets","9613 Harford Rd","21234",39.39528502265771,-76.52146130468718
+"21234","Parkville","MD","Pastore's Italian Food Stores","8646 Loch Raven Blvd","21286",39.39657089724401,-76.56331778830314
+"21234","Parkville","MD","Speedy Mart","not_available","21234",39.37030523670583,-76.54520207872986
+"21234","Parkville","MD","Mount Everest Groceries","6835 Loch Raven Blvd","21286",39.38360595703125,-76.57733917236328
+"21234","Parkville","MD","Save-A-Lot","7100 Darlington Dr","21234",39.372650384902954,-76.55915935
+"21234","Parkville","MD","A-Mart","2025 E Joppa Rd","21234",39.39708315747114,-76.54250522480305
+"21239","Baltimore","MD","Fresh Food Point","5830 Hillen Rd","21239",39.35934829711914,-76.58273315429688
+"21244","Windsor Mill","MD","Weis Markets","not_available","21244",39.31210673555254,-76.75330037356478
+"21244","Windsor Mill","MD","Alquds Jerusalem Market","2015 Lord Baltimore Dr","21244",39.31459045410156,-76.75196838378906
+"21286","Towson","MD","Weis Market","1238 Putty Hill Ave","21286",39.39493786116184,-76.58260941460809
+"21401","Annapolis","MD","Whole Foods Market","Annapolis Towne Centre At Parole","21401",38.98200713425313,-76.53972413508788
+"21401","Annapolis","MD","Trader Joe's","160 F Jennifer Rd","21401",38.989425667300935,-76.54003860070281
+"21401","Annapolis","MD","Graul's Market","607 Taylor Ave","21401",38.98783495910771,-76.50284185133647
+"21401","Annapolis","MD","Giant","2323 Forest Dr","21401",38.9780588,-76.545635
+"21402","Annapolis","MD","DECA Commisary","not_available","21402",38.994314069647054,-76.47242608857131
+"21402","Annapolis","MD","Annapolis NSA Commissary","Kinkaid Rd","21402",38.994277623158,-76.47280450061788
+"21409","Annapolis","MD","Graul's","1388 Cape St Claire Rd","21409",39.037087273487316,-76.43957927393288
+"21502","Cumberland","MD","Martin's","12101 Winchester Rd","21502",39.63213684013599,-78.8407371190491
+"21502","Cumberland","MD","Martin's","739 Park St","21502",39.64607042367061,-78.75860452651978
+"21502","Cumberland","MD","Walmart Supercenter","12500 Country Club Mall Rd","21502",39.624968809550616,-78.83530532751294
+"21502","Cumberland","MD","ALDI","12405 Winchester Rd SW","21502",39.62639617919922,-78.83988952636719
+"21502","Cumberland","MD","Fruit Bowl","10325 National Hwy","21502",39.66599452589513,-78.78161912324693
+"21502","Cumberland","MD","Weis Markets","15300 McMullen Hwy SW","21502",39.58645204,-78.83852739
+"21502","Cumberland","MD","Save-A-Lot","66 Queen City Dr","21502",39.653613499043736,-78.7608457479787
+"21502","Cumberland","MD","Bauer Premium Cuts & Deli","11506 Bedford Rd NE","21502",39.68122100830078,-78.73471069335938
+"21502","Cumberland","MD","Blankenship's Country Store","not_available","26767",39.62041190774209,-78.77436993079658
+"21502","Cumberland","MD","Bakery Outlet","931 National Hwy","21502",39.64561080932617,-78.8216781616211
+"21502","Cumberland","MD","Save-A-Lot","1050 W Industrial Blvd","21502",39.631423999999996,-78.750433
+"21502","Cumberland","MD","Aldu","12405 Winchester Road","21502",39.67077664096115,-78.80587870259666
+"21520","Accident","MD","Shop 'n Save - Deep Creek Fresh","24586 Garrett Hwy","21541",39.562690531148036,-79.35636383521116
+"21520","Accident","MD","Harvest Moon Market and Catering","1550 Deep Creek Dr","21541",39.550766,-79.350731
+"21521","Barton","MD","Food Lion","not_available","21521",39.551135301589966,-79.0532398223877
+"21521","Barton","MD","Food Lion","North East Station","21901",39.57034757099291,-78.97635593357485
+"21531","Friendsville","MD","S&S Market","not_available","21531",39.66382300059207,-79.40620888173004
+"21532","Frostburg","MD","Weis Markets","17600 Old National Pike SW","21532",39.6515824954065,-78.90893697738647
+"21532","Frostburg","MD","Save-A-Lot","10601 New Georges Creek Rd","21532",39.649394436342384,-78.91182025041583
+"21532","Frostburg","MD","FoodLand","3249 Chestnut Ridge Rd","21536",39.696669,-79.100094
+"21532","Frostburg","MD","Hill Top Fruit Market","12579 National Pike","21536",39.69476812611699,-79.10132463635152
+"21532","Frostburg","MD","Li'l Corner Market","217 E Main St","21532",39.6539306640625,-78.9211654663086
+"21541","Mc Henry","MD","Yoders","20294 Garrett Hwy","21550",39.51122950377634,-79.3224190135368
+"21550","Oakland","MD","Walmart Supercenter","13164 Garrett Hwy","21550",39.42242932856206,-79.39131154715696
+"21550","Oakland","MD","Brownings Shop 'n Save","406 Weber Rd","21550",39.4015068241021,-79.39144486089101
+"21550","Oakland","MD","Stop N Save","4137 Maryland Hwy","21550",39.42308680619388,-79.33896189970993
+"21550","Oakland","MD","Valley View Country Store","5705-6061 Garrett Hwy","21550",39.405665846017776,-79.40344385969453
+"21550","Oakland","MD","Martins","not_available","21550",39.4217005,-79.3975555
+"21555","Oldtown","MD","Forest Hills Foods","not_available","21555",39.544585966666666,-78.64873565
+"21557","Rawlings","MD","Save A Lot","220 Keyser Mall","26726",39.4409272,-78.9744276
+"21557","Rawlings","MD","Martin's Food Market","100 Keyser Mall","26726",39.442125686228714,-78.9767861366272
+"21562","Westernport","MD","Kenny's Market","not_available","21562",39.48459960498537,-79.04498169988327
+"21601","Easton","MD","Harris Teeter","28528 Marlboro Ave","21601",38.784841419541266,-76.08631453024078
+"21601","Easton","MD","Walmart","8155 Elliott Rd","21601",38.77292563481782,-76.05480469077796
+"21601","Easton","MD","Giant Food & Pharmacy","8223 Elliott Rd","21601",38.7750509,-76.0555931
+"21601","Easton","MD","ALDI","8147 Ocean Gtwy","21601",38.772822,-76.059502
+"21601","Easton","MD","ACME Markets","210 Marlboro Ave","21601",38.77970471021947,-76.08284801250187
+"21601","Easton","MD","Weis Markets","219 Marlboro Ave","21601",38.78456266,-76.07896659
+"21601","Easton","MD","Graul's Market","S Talbot St.","21663",38.77050252131986,-76.20851450045677
+"21601","Easton","MD","Oxford Market","203 N Morris St","21654",38.688515021287834,-76.17243326117054
+"21601","Easton","MD","Coghenours Store","2642 Choptank Main St","21655",38.68109130859375,-75.94854736328125
+"21601","Easton","MD","Earth Origins Market","108 Marlboro Ave","21601",38.779808287815975,-76.07915653229284
+"21613","Cambridge","MD","Walmart Supercenter","2775 Dorchester Sq","21613",38.553654105893095,-76.0527701904836
+"21613","Cambridge","MD","Fresh & Green's","780 Cambridge Plz","21613",38.55972804298704,-76.06113734249591
+"21613","Cambridge","MD","Save-A-Lot","628 Sunburst Hwy","21613",38.56267773726237,-76.0646781371102
+"21613","Cambridge","MD","Katie Mae's Country Shoppe","516 Poplar St","21613",38.57062638271108,-76.07742424268545
+"21617","Centreville","MD","ACME Markets","611 Railroad Ave","21617",39.0399446,-76.0561111
+"21617","Centreville","MD","Rhodes Store","620 Main St","21623",39.147106,-75.9795
+"21617","Centreville","MD","Tri-Me Warehouse Foods","11 Central Ave","21660",38.94691166384906,-75.88405035690037
+"21617","Centreville","MD","Trailways Truck Stop","610 Ruthsburg Rd","21617",39.026501977526685,-76.02509021759032
+"21617","Centreville","MD","Food Lion","not_available","21601",39.00887035701802,-75.90058486923235
+"21619","Chester","MD","Safeway","1925 Main St","21619",38.9741057,-76.2750833
+"21620","Chestertown","MD","Chestertown Natural Foods","303 Cannon St","21620",39.20857655724856,-76.06761834368506
+"21620","Chestertown","MD","ACME Markets","711 Washington Ave #14","21620",39.2251401,-76.06929939999999
+"21620","Chestertown","MD","Fresh N Greens","Washington Ave","21620",39.22995021171047,-76.07057718171379
+"21629","Denton","MD","Walmart Supercenter","610 Legion Rd","21629",38.87460562747501,-75.82154578385419
+"21631","East New Market","MD","Hurlock Goose Creek Market","105 Delaware Ave","21643",38.628995455061435,-75.8593015422243
+"21635","Galena","MD","Otwells market","120 E Cross St","21635",39.34103012084961,-75.87799835205078
+"21639","Greensboro","MD","Save-A-Lot","13263 Greensboro Rd","21639",38.97108569347445,-75.79773265600562
+"21639","Greensboro","MD","Sandtown Store","Sandtown delaware","21639",38.96183005905436,-75.79736997876965
+"21651","Millington","MD","Millington Market","not_available","21651",39.25825254038186,-75.8373064959998
+"21651","Millington","MD","TALE GATE MARKET","198 Sassafras St","21651",39.258649,-75.837095
+"21701","Frederick","MD","Walmart Supercenter","7400 Guilford Dr","21704",39.396033581159735,-77.4113720849878
+"21701","Frederick","MD","Wegmans","7830 Wormans Mill Rd","21701",39.44562676193186,-77.39951054698872
+"21701","Frederick","MD","Giant Eagle Supermarket","1305 W 7th St","21702",39.43116685660086,-77.41863843088686
+"21701","Frederick","MD","Weis Markets","6093 Spring Ridge Pkwy","21701",39.39901692943626,-77.34636756195701
+"21701","Frederick","MD","The Common Market","5728 Buckeystown Pike","21704",39.39259526422202,-77.41190456302702
+"21701","Frederick","MD","Weis Markets","199 Thomas Johnson Dr","21702",39.4412922089104,-77.409509722037
+"21701","Frederick","MD","Giant Food","1700 Kingfisher Dr","21701",39.4481893,-77.3835699
+"21701","Frederick","MD","Weis Markets","448 Prospect Blvd","21701",39.4043385957617,-77.42940613668215
+"21701","Frederick","MD","Safeway","151 Walkers Village Way","21793",39.4851073,-77.341715
+"21701","Frederick","MD","Asian Supermarket","467 W Patrick St.","21701",39.413793,-77.42312700000001
+"21701","Frederick","MD","$ave $mart","not_available","21704",39.395499,-77.408476
+"21701","Frederick","MD","Walmart Grocery Pickup and Delivery","2421 Monocacy Blvd","21701",39.4487778484677,-77.3866166657857
+"21701","Frederick","MD","Fort Detrick Commissary","1510 Porter St Bldg 1520A","21702",39.43628264405322,-77.42240023714638
+"21701","Frederick","MD","Maaz Natural Foods","5813 Buckeystown Pike","21704",39.394028999999996,-77.408411
+"21701","Frederick","MD","Common Market","927 W 7th St","21701",39.427666,-77.41527
+"21702","Frederick","MD","Giant Eagle Supermarket","1275 W Patrick St","21702",39.41919514396751,-77.44801062141025
+"21702","Frederick","MD","Weis Markets","2 Old Camp Rd","21702",39.42110013541749,-77.46810835814298
+"21702","Frederick","MD","Aldi","1080 W Patrick St","21703",39.4150031,-77.4446419
+"21702","Frederick","MD","Frederick Bazaar","45 Waverley Dr","21702",39.42211151123047,-77.46110534667969
+"21702","Frederick","MD","Manantial Grocery","not_available","21702",39.420862,-77.453312
+"21703","Frederick","MD","Giant Food","5316 New Design Rd","21703",39.38105949687033,-77.42258012294769
+"21703","Frederick","MD","ALDI","5600 Urbana Pike Ste B","21704",39.386036,-77.404341
+"21703","Frederick","MD","Giant Pickup (Peapod)","5316 New Design Rd","21701",39.380623,-77.42265
+"21703","Frederick","MD","Stups market","5550 mountville rd","21710",39.310922026634216,-77.474457
+"21704","Frederick","MD","Giant","3530 Sugarloaf Pkwy","21704",39.3307102,-77.3520469
+"21713","Boonsboro","MD","Weis Markets","700 Chase Six Blvd","21713",39.51918233194055,-77.65710580409966
+"21722","Clear Spring","MD","Valley Market","13722 National Pike","21722",39.65975570678711,-77.89743041992188
+"21722","Clear Spring","MD","Ernst Market","not_available","21722",39.633444747342025,-77.89510256365745
+"21727","Emmitsburg","MD","Jubilee Foods","515 E Main St","21727",39.70333226549665,-77.31825680050677
+"21733","Fairplay","MD","Downsville General Store","not_available","21795",39.550495,-77.800272
+"21740","Hagerstown","MD","Martin's Food Market","18726 North Pointe Dr","21742",39.6847475,-77.7190482
+"21740","Hagerstown","MD","Martin's Food Market","1650C Wesel Blvd","21740",39.63249179431563,-77.76431769132614
+"21740","Hagerstown","MD","Walmart Supercenter","10420 Walmart Drive","21740",39.599874,-77.733887
+"21740","Hagerstown","MD","Walmart Supercenter","17850 Garland Groh Blvd","21740",39.65757467532196,-77.74886554856658
+"21740","Hagerstown","MD","Weis Markets","31 Eastern Blvd N","21740",39.633504824410885,-77.70053373543396
+"21740","Hagerstown","MD","Martin's Food Market","1729 Dual Hwy","21740",39.6136905,-77.6925318
+"21740","Hagerstown","MD","Martin's Food","22401 Jefferson Blvd","21783",39.6412821,-77.59032839999999
+"21740","Hagerstown","MD","Save-A-Lot","9822 Prosperity Ln","21795",39.583866119384766,-77.8090591430664
+"21740","Hagerstown","MD","Weis Markets","12817 Shank Farm Way","21742",39.6656603499357,-77.69782716577178
+"21740","Hagerstown","MD","Martin's Direct (Peapod)","not_available","21742",39.68507,-77.71886
+"21740","Hagerstown","MD","Save-A-Lot","1161 Maryland Ave","21740",39.62178414298218,-77.73550217702834
+"21740","Hagerstown","MD","Congo Market International","3 E Oak Ridge Dr","21740",39.611738648853596,-77.73026168346405
+"21740","Hagerstown","MD","Shop N Save","not_available","21740",39.622947692871094,-77.75511932373047
+"21740","Hagerstown","MD","Gordon's Grocery","101 Cypress St","21742",39.657987271204135,-77.70630423672246
+"21740","Hagerstown","MD","Healthway","13026 Pennsylvania Ave","21742",39.671950010449955,-77.71990299224854
+"21740","Hagerstown","MD","ALDI","10447 Sharpsburg Pike","21740",39.59937,-77.729651
+"21740","Hagerstown","MD","Martin's Farm Market","13613 Pennsylvania Ave","21742",39.687118,-77.720016
+"21740","Hagerstown","MD","Aldi","565 Dual Hwy","21740",39.6360196,-77.7094193
+"21740","Hagerstown","MD","Byers Market","152 N Burhans Blvd","21740",39.6470069,-77.7250662
+"21740","Hagerstown","MD","Grand Union","1501 Potomac Ave","21742",39.662078857421875,-77.7018814086914
+"21740","Hagerstown","MD","El Eden Latino Grocery","1201 Dual Hwy","21740",39.62992194028025,-77.7012729333427
+"21750","Hancock","MD","Save-A-Lot","214 W Main St","21750",39.70010572541425,-78.18550205329129
+"21750","Hancock","MD","Food Lion","345 N Pennsylvania Ave","21750",39.71262331900706,-78.17769940092376
+"21755","Jefferson","MD","Weis Markets","1201 Dutchman's Creek Dr","21716",39.334534789199,-77.63913922021996
+"21755","Jefferson","MD","Jefferson Market","3703 Jefferson Pike","21755",39.361175,-77.54102900000001
+"21758","Knoxville","MD","Himes Store","not_available","21758",39.351991999999996,-77.678487
+"21769","Middletown","MD","Safeway","815 E Main St","21769",39.43863739381571,-77.52540367848269
+"21769","Middletown","MD","Martin's Farm Market","307A Main St","21773",39.50651879999999,-77.56610429999999
+"21771","Mount Airy","MD","Walmart","209 E Ridgeville Blvd","21771",39.36680297529057,-77.16238724135086
+"21771","Mount Airy","MD","Weis Markets","1001 Twin Arch Rd","21771",39.36828896043059,-77.14489911466131
+"21771","Mount Airy","MD","Safeway","337 E Ridgeville Blvd","21771",39.3660487,-77.1605502
+"21780","Sabillasville","MD","Sanders Market","Military Rd","21719",39.715657738887884,-77.42886168369517
+"21784","Sykesville","MD","Walmart Supercenter","6400a Ridge Road, Suite 1","21784",39.39678781852611,-76.93452616130674
+"21784","Sykesville","MD","Martin's","1320 Londontown Blvd","21784",39.4108097,-76.948416
+"21784","Sykesville","MD","Walmart Grocery Pickup & Delivery","6400A Ridge Road, Suite 1","21784",39.3965368,-76.9347117
+"21784","Sykesville","MD","Weis Markets","6375 Monroe Ave","21784",39.39785,-76.92411
+"21784","Sykesville","MD","Safeway","1313 Londontown Blvd","21784",39.40713987612318,-76.94891641248432
+"21784","Sykesville","MD","ALDI","1320 Liberty Rd Ste B","21784",39.4050577,-76.9485191
+"21787","Taneytown","MD","Kennie's Market","520 E Baltimore St","21787",39.64905525824177,-77.15978383770934
+"21788","Thurmont","MD","Weis Markets","2 Thurmont Blvd","21788",39.61253115486784,-77.41741971250511
+"21788","Thurmont","MD","Market Basket","not_available","21788",39.603671048948286,-77.42720291130104
+"21798","Woodsboro","MD","Trout's Market","3 N Main St","21798",39.535159658006066,-77.31516759283421
+"21801","Salisbury","MD","Walmart Supercenter","2702 N Salisbury Blvd","21801",38.416979108604494,-75.56872386704148
+"21801","Salisbury","MD","ACME Markets","751 S Salisbury Blvd","21801",38.3549387,-75.5994201
+"21801","Salisbury","MD","ALDI","30248 Dagsboro Rd.","21804",38.42116928100586,-75.56366729736328
+"21801","Salisbury","MD","Walmart Supercenter","409 N Fruitland Blvd","21801",38.32860065226064,-75.61055860090629
+"21801","Salisbury","MD","Hebron Food Rite","100 Main St","21830",38.41859197103778,-75.68971518451525
+"21801","Salisbury","MD","Japanese Outlet","not_available","21801",38.4062704750067,-75.56738221132373
+"21801","Salisbury","MD","Save-A-Lot","220 Cypress St","21801",38.36796055866116,-75.60774592567162
+"21801","Salisbury","MD","Superfresh","125 W College Ave","21804",38.34955,-75.599486
+"21801","Salisbury","MD","Fiesta Mex Restaurant","202 Newton St","21801",38.3591828971248,-75.59999349519393
+"21804","Salisbury","MD","Store 4","not_available","21804",38.36105835389013,-75.5454683303833
+"21811","Berlin","MD","Walmart Supercenter","11416 Ocean Gtwy","21811",38.339418583578194,-75.16244114579635
+"21811","Berlin","MD","Superfresh","12741 Ocean Gtwy","21842",38.3390797207863,-75.10705295475279
+"21811","Berlin","MD","Save-A-Lot","10452 Old Ocean City Blvd","21811",38.33995819091797,-75.19819641113281
+"21842","Ocean City","MD","ACME Markets","9507 Coastal Hwy","21842",38.4106401,-75.0603133
+"21842","Ocean City","MD","Mitchell's Market","401 Philadelphia Ave","21842",38.33603814109968,-75.0852652939047
+"21842","Ocean City","MD","Montego Bay Superthrift","12903 Coastal Hwy","21842",38.434432370479456,-75.05549504110196
+"21842","Ocean City","MD","Rick's Market","64th Street","21842",38.38691638716574,-75.06589698031912
+"21842","Ocean City","MD","Minit Market","3101-3199 Philadelphia Ave","21842",38.360686319158546,-75.0738304097868
+"21842","Ocean City","MD","OC Party Market","not_available","21842",38.329881,-75.087077
+"21842","Ocean City","MD","64thStreet Market","64th Street Market","21842",38.387137556700154,-75.06622359774443
+"21851","Pocomoke City","MD","Walmart Supercenter","2132 Old Snow Hill Rd","21851",38.07282746534079,-75.55426993004876
+"21863","Snow Hill","MD","Snow Hill FoodRite","not_available","21863",38.17995119279575,-75.38848537220414
+"21901","North East","MD","Walmart Supercenter","75 North East Plz","21901",39.61007466274099,-75.95132908033193
+"21911","Rising Sun","MD","Martin's Food Market","24 Rising Sun Town Ctr","21911",39.69676325483861,-76.05751007795334
+"21911","Rising Sun","MD","Benjamin’s Grocery","598 Rising Sun Rd","21911",39.695479999999996,-76.083424
+"21919","Earleville","MD","The Galley Market & Deli","1748 Crystal Beach Rd","21919",39.42918,-75.92690400000001
+"21921","Elkton","MD","Walmart Supercenter","1000 E Pulaski Hwy","21921",39.603453771921636,-75.79266751294782
+"21921","Elkton","MD","Redner's","311 Augustine Herman Hwy","21921",39.589570995471604,-75.82564877018089
+"21921","Elkton","MD","Aldi","98 Chesapeake Blvd","21921",39.6054133322352,-75.78644067049026
+"21921","Elkton","MD","ACME Markets","101 Big Elk Mall","21921",39.60166694258115,-75.82616517652241
+"21921","Elkton","MD","Stateline","not_available","21921",39.69550058631365,-75.78977527020675

@@ -1,0 +1,835 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"80002","Arvada","CO","Target","5071 Kipling St","80033",39.787996461986324,-105.1124536426519
+"80002","Arvada","CO","Walmart Supercenter","9400 Ralston Road","80002",39.800576052330214,-105.10297492332629
+"80002","Arvada","CO","King Soopers","9731 W 58th Ave","80002",39.8032306,-105.1065549
+"80002","Arvada","CO","Natural Grocers","4900 Kipling St","80033",39.78601535003701,-105.10928319350181
+"80002","Arvada","CO","Overseas European Grocery and Bakery","10372 Ralston Ed","not_available",39.802194,-105.104849
+"80002","Arvada","CO","The Friday Store, Inc.","5636 Newland Way","80002",39.799438,-105.06986299999998
+"80003","Arvada","CO","King Soopers Marketplace","8031 Wadsworth Blvd","80003",39.8433098,-105.083773
+"80003","Arvada","CO","King Soopers","8055 Sheridan Blvd","80003",39.8436164,-105.0565523
+"80003","Arvada","CO","Walmart Supercenter","7155 Sheridan Blvd","80003",39.82536813915031,-105.05610329728444
+"80003","Arvada","CO","Safeway","7561 W 80th Ave","80003",39.8435016,-105.0807886
+"80003","Arvada","CO","King Soopers","6350 Sheridan Blvd","80003",39.8109834,-105.0516517
+"80003","Arvada","CO","Sprouts Farmers Market","7725 Wadsworth Blvd","80003",39.83659,-105.083777
+"80003","Arvada","CO","Natural Grocers","7745 N Wadsworth Blvd","80003",39.83803234079172,-105.0829012041067
+"80004","Arvada","CO","King Soopers","12350 W 64th Ave","80004",39.81122280424314,-105.13659060001379
+"80004","Arvada","CO","Sprouts Farmers Market","15050 W 64th Ave","80007",39.81199337480881,-105.16790002584452
+"80004","Arvada","CO","Ukraine Market","not_available","80004",39.811529,-105.114111
+"80004","Arvada","CO","Safeway","12680 W 64th Ave","80004",39.8117632829319,-105.14124287826553
+"80005","Arvada","CO","King Soopers","9983 Wadsworth Pkwy","80021",39.8766802,-105.0978099
+"80007","Arvada","CO","King Soopers","14967 Candelas Pkwy","80007",39.8614302,-105.1674927
+"80007","Arvada","CO","King Soopers","15200 W 64th Ave","80007",39.8106208,-105.1718689
+"80010","Aurora","CO","King Soopers","10406 E. Martin Luther King Junior Blvd.","80238",39.759553360680435,-104.86636757847009
+"80010","Aurora","CO","Walmart Neighborhood Market","10400 E Colfax Avenue","80010",39.739364,-104.867543
+"80010","Aurora","CO","King Soopers","655 Peoria St","80011",39.7265071,-104.8496105
+"80010","Aurora","CO","Lowe's Mercado","10809 E Colfax Ave","80010",39.7408661769796,-104.86283195323554
+"80010","Aurora","CO","El Mercado @ Westerly Creek Village","not_available","not_available",39.74760455687741,-104.87496725619073
+"80010","Aurora","CO","Save-A-Lot","698 Peoria St","80011",39.72708076947243,-104.84475222212222
+"80010","Aurora","CO","Angel Market","3133 Peoria St","80010",39.761138,-104.848121
+"80010","Aurora","CO","Fashion Trend & Grocery","not_available","80220",39.73344,-104.884378
+"80011","Aurora","CO","Walmart Supercenter","3301 Tower Rd","80011",39.76183078617152,-104.77442220326945
+"80011","Aurora","CO","Walmart Supercenter","14000 E Exposition Ave","80012",39.70238998325447,-104.8262746327836
+"80011","Aurora","CO","Safeway","1200 S Buckley Rd","80017",39.6944986,-104.7892795
+"80011","Aurora","CO","Pacific Ocean Marketplace","12303 East Mississippi Avenue","80012",39.6978804,-104.8455615
+"80011","Aurora","CO","King Soopers","15250 E Mississippi Ave","80012",39.6953962,-104.8109747
+"80011","Aurora","CO","King Soopers","15109 E Colfax Ave","80011",39.7415222,-104.8123195
+"80011","Aurora","CO","Kroger","1933 Tower Rd","80011",39.745548248291016,-104.77912902832031
+"80011","Aurora","CO","Safeway","12200 E Mississippi Ave","80012",39.6959277207943,-104.84539220441548
+"80011","Aurora","CO","Lotus Asian market","844 S Buckley Rd","80017",39.701057,-104.789938
+"80011","Aurora","CO","at SAVE alot","not_available","80011",39.721126556396484,-104.8273696899414
+"80011","Aurora","CO","Buckley AFB Commissary","365 N Telluride St Bldg 1","80011",39.72329084010663,-104.7832829249191
+"80011","Aurora","CO","Save-A-Lot","15220 E 6th Ave","80011",39.72437,-104.81225699999999
+"80011","Aurora","CO","E-Mart","14301 E Exposition Ave","80012",39.70424338265858,-104.82205624583233
+"80011","Aurora","CO","Shelby's Sugar Shop","14200 E Alameda Ave","80012",39.7107351,-104.8236271
+"80011","Aurora","CO","Safeway Pharmacy","not_available","80012",39.695634,-104.84555
+"80012","Aurora","CO","Sprouts Farmers Market","1150 S Ironton St, Unit 130","80012",39.6950711,-104.8627541
+"80012","Aurora","CO","Safeway","1677 S Havana St","80012",39.6862742,-104.8683021
+"80012","Aurora","CO","King Soopers","1155 S Havana St","80012",39.69571308399279,-104.86801834420476
+"80012","Aurora","CO","European Market","not_available","80247",39.68412399291992,-104.86843872070312
+"80012","Aurora","CO","Gulzar Halal Market","10315 E Iliff Ave","80247",39.6754072,-104.8674071
+"80013","Aurora","CO","Walmart Neighborhood Market","not_available","80015",39.639908870590666,-104.73760261237402
+"80013","Aurora","CO","King Soopers","18211 E Hampden Ave","80013",39.65501,-104.7762357
+"80013","Aurora","CO","King Soopers","4271 S Buckley Rd","80013",39.63938089154387,-104.79343684033665
+"80013","Aurora","CO","King Soopers","17000 E Iliff Ave","80013",39.6717768947426,-104.7897514853139
+"80013","Aurora","CO","Safeway","18730 E Hampden Ave","80013",39.651310903677484,-104.76966172456747
+"80013","Aurora","CO","Walmart Grocery Pickup","21475 E Quincy Avenue","80015",39.63998031616211,-104.73784637451172
+"80013","Aurora","CO","Cariceria Y Panaderia Lylys","16794 E Iliff Ave","80013",39.6722,-104.79310699999999
+"80013","Aurora","CO","Buckley Square","17000 E IIiff Ave","80013",39.6717683316634,-104.7897219657898
+"80014","Aurora","CO","Walmart Supercenter","9400 E Hampden Ave","80231",39.65170208568417,-104.87873262983372
+"80014","Aurora","CO","H Mart","2751 S Parker Rd","80014",39.6661138179845,-104.86321331989048
+"80014","Aurora","CO","King Soopers","3190 S Parker Rd","80014",39.6611207,-104.844715
+"80014","Aurora","CO","Arash International Market","2720 S Parker Rd","80014",39.66710541580768,-104.8612118884325
+"80014","Aurora","CO","King Soopers","3050 S Peoria St","80014",39.6610904,-104.8471209
+"80014","Aurora","CO","Walmart Neighborhood Market","15240 E Iliff Avenue","80014",39.67365203321751,-104.81115484070328
+"80014","Aurora","CO","Bombay Bazaar","not_available","80014",39.660019918866276,-104.8485391045739
+"80014","Aurora","CO","Haat Bazar","2648 S Parker Rd","80014",39.668524,-104.862025
+"80014","Aurora","CO","Diyar International Market","not_available","80231",39.67654615764612,-104.873764245199
+"80014","Aurora","CO","Natural Grocers","3440 S Tower Road","80013",39.65183847237909,-104.81164776922944
+"80015","Aurora","CO","Walmart Supercenter","5650 S Chambers Rd","80015",39.61411076038623,-104.81176988364221
+"80015","Aurora","CO","Sprouts Farmers Market","20831 E Smoky Hill Rd","80015",39.60848617337753,-104.74546015262604
+"80015","Aurora","CO","King Soopers","19711 E Smoky Hill Rd","80015",39.6152005,-104.7585216
+"80015","Aurora","CO","Walmart Neighborhood Market","16746 E Smoky Hill Rd","80015",39.62553497733751,-104.79357094931727
+"80015","Aurora","CO","Europa Grocery","13728 E Quincy Ave","80015",39.637512,-104.82755
+"80016","Aurora","CO","Walmart Supercenter","10900 E Briarwood Ave","80112",39.59074366835846,-104.86198877930663
+"80016","Aurora","CO","King Soopers","6412 S Parker Rd","80016",39.6002594,-104.8028728
+"80016","Aurora","CO","King Soopers Marketplace","25701 E Smoky Hill Rd","80016",39.58739278605676,-104.68711537362299
+"80016","Aurora","CO","Walmart Supercenter","6101 S Aurora Pkwy","80016",39.60639541448905,-104.7050770790692
+"80016","Aurora","CO","King Soopers","17761 Cottonwood Dr","80134",39.5599341,-104.7827312
+"80016","Aurora","CO","Safeway","6100 S Gun Club Rd","80016",39.604721,-104.714835
+"80016","Aurora","CO","Natural Grocers","11753 East Arapahoe Rd","80112",39.59530526473043,-104.85218524932861
+"80016","Aurora","CO","Coscto","not_available","80124",39.56585350643637,-104.87753295002663
+"80016","Aurora","CO","Tony's Market Headquarters","12001 E Caley Ave","80111",39.600045,-104.849202
+"80019","Aurora","CO","Rockies Marketplace","6700 N Gaylord Rockies Blvd","80019",39.817313,-104.752813
+"80020","Broomfield","CO","King Soopers","1150 US Highway 287","80020",39.93308492795318,-105.08791310185245
+"80020","Broomfield","CO","King Soopers","12167 Sheridan Blvd","80020",39.9172539,-105.0554742
+"80020","Broomfield","CO","Walmart Supercenter","500 Summit Blvd","80021",39.92617091554352,-105.13639302711744
+"80020","Broomfield","CO","King Soopers","10351 Federal Blvd","80260",39.88311853309982,-105.02760976552963
+"80020","Broomfield","CO","Whole Foods Market","4451 Main St.","80031",39.913222737117934,-105.04477433909997
+"80020","Broomfield","CO","Walmart Supercenter","4651 W 121st Ave","80020",39.91644594077995,-105.04647868363327
+"80020","Broomfield","CO","Safeway","10300 Federal Blvd","80260",39.88351923268652,-105.02264657600233
+"80020","Broomfield","CO","Sprouts Farmers Market","5150 W 120th Ave","80020",39.91226268115349,-105.0507840514183
+"80020","Broomfield","CO","Pacific Ocean Marketplace","6600 W 120th Ave","80020",39.913114410068005,-105.07003962993622
+"80020","Broomfield","CO","Safeway","3602 W 144th Ave","80023",39.956522091369344,-105.0354659557342
+"80020","Broomfield","CO","Beef Jerky Outlet","not_available","80020",39.916515,-105.085266
+"80020","Broomfield","CO","Hooked On Espresso","7249 W. 116th Ave. #24","80020",39.908078,-105.07858700000001
+"80020","Broomfield","CO","Save-A-Lot","3045 W 7th Ave.","80030",39.924866,-105.081668
+"80020","Broomfield","CO","Su Mercadito","1495 US Highway 287","80020",39.9174972,-105.086362
+"80021","Broomfield","CO","Safeway","1601 Coalton Rd","80027",39.9302879,-105.1489606
+"80022","Commerce City","CO","King Soopers","15051 E 104th Ave","80022",39.88773081339342,-104.81163024902344
+"80022","Commerce City","CO","King Soopers","13700 Colorado Blvd","80602",39.94463327186382,-104.93791401386261
+"80022","Commerce City","CO","King Soopers","3801 E 120th Ave","80233",39.9147532,-104.9436569
+"80022","Commerce City","CO","Walmart Supercenter","7101 E 128th Ave","80602",39.93090016734536,-104.90569986135512
+"80022","Commerce City","CO","King Soopers","18605 Green Valley Ranch Blvd","80249",39.7853222,-104.7701545
+"80022","Commerce City","CO","King Soopers","4850 E 62nd Ave","80022",39.8087077,-104.9305488
+"80022","Commerce City","CO","Walmart Supercenter","5990 Dahlia St","80022",39.80454759833949,-104.92846631550331
+"80022","Commerce City","CO","Walmart Neighborhood Market","5141 Chambers Rd","80239",39.785907562388196,-104.81136403775116
+"80022","Commerce City","CO","Natural Grocers","18471 Green Valley Ranch Blvd","80249",39.78370736442643,-104.77225542068481
+"80022","Commerce City","CO","Haraf Foods Market","10774 Belle Creek Blvd","80640",39.89204973700426,-104.87762341527333
+"80022","Commerce City","CO","Safeway","3904 E 120th Ave","80233",39.91284775090865,-104.94166530638732
+"80022","Commerce City","CO","Yorktown Mart & Laundromat","not_available","80229",39.838909151262555,-104.95949161721838
+"80022","Commerce City","CO","Hilltop Village","4243 E 136th Ave","80602",39.94413237197326,-104.93699804717835
+"80022","Commerce City","CO","Save-A-Lot","4874 Chambers Rd","80239",39.786097999999996,-104.80847
+"80022","Commerce City","CO","Safway Group","6435 Colorado Blvd","80022",39.814170837402344,-104.94102478027344
+"80022","Commerce City","CO","Walmart Grocery Pickup","1650 E. 104th Avenue","80233",39.884433,-104.966017
+"80022","Commerce City","CO","Skye's grocery store","10100 Ehler St","80602",39.9650169516287,-104.88441467285156
+"80022","Commerce City","CO","Carniceria La Pradera","5650 East 64th Avenue","80022",39.81257,-104.92153
+"80022","Commerce City","CO","Save-A-Lot","7290 Monaco St","80022",39.829052,-104.911395
+"80022","Commerce City","CO","Mi Pueblo Market","6941 E 80th Ave","80022",39.842024,-104.907155
+"80022","Commerce City","CO","Skye's","Hanover St","80602",39.966313,-104.868527
+"80023","Broomfield","CO","Walmart Grocery Pickup and Delivery","200 W 136th Ave","80234",39.94301,-104.99298
+"80023","Broomfield","CO","King Soopers","2355 W 136th Ave","80023",39.944666477292365,-105.01438112589312
+"80023","Broomfield","CO","King Soopers Clicklist","not_available","80234",39.94496,-105.015045
+"80026","Lafayette","CO","King Soopers","1375 E South Boulder Rd","80027",39.98833538459617,-105.12422561645508
+"80026","Lafayette","CO","King Soopers","480 N US Highway 287","80026",40.00186437865905,-105.10165648302063
+"80026","Lafayette","CO","Walmart Supercenter","745 Us Highway 287","80026",40.006015298710395,-105.10499671698547
+"80026","Lafayette","CO","Safeway","3333 Arapahoe Rd #B","80516",40.016812631641436,-105.10070579186925
+"80026","Lafayette","CO","Safeway","910 W Cherry St","80027",39.9636873143969,-105.16004615211489
+"80026","Lafayette","CO","Sprouts Farmers Market","555 W South Boulder Rd","80026",39.9886497,-105.0964278
+"80026","Lafayette","CO","Alfalfa's","795 East South Boulder","not_available",39.98731156876463,-105.1339441121292
+"80026","Lafayette","CO","Natural Grocers","100 W South Boulder Rd","80026",39.98656337662967,-105.09096569753457
+"80026","Lafayette","CO","ALL in ONE GROCERS","not_available","80026",39.98742000848849,-105.09311268187284
+"80026","Lafayette","CO","All The Best","901 Front St Ste 110","80027",39.97911834716797,-105.13114166259766
+"80026","Lafayette","CO","Krishna Groceries","550 W South Boulder Rd","80026",39.98599650601699,-105.09500033950083
+"80027","Louisville","CO","Whole Foods Market","303 Marshall Rd.","80027",39.95656676261394,-105.16792883294107
+"80027","Louisville","CO","Safeway","4800 Baseline Rd","80303",39.998087948135456,-105.23446977138519
+"80030","Westminster","CO","Walmart Neighborhood Market","7170 N Federal Blvd","80030",39.82671135014163,-105.02362647049753
+"80030","Westminster","CO","Overseas Oriental Market","not_available","80030",39.825925,-105.030351
+"80030","Westminster","CO","Rancho Liborio","7200 Federal Blvd.","not_available",39.82758331298828,-105.02452850341797
+"80030","Westminster","CO","Save-A-Lot","3045 W 74th Ave","80030",39.83135876124551,-105.02748111015262
+"80030","Westminster","CO","Red Star Vapor & CBD","7236 Federal Blvd #800","80030",39.8284336,-105.0240085
+"80031","Westminster","CO","Walmart Supercenter","9499 Sheridan Blvd","80031",39.867674106789174,-105.05629450741951
+"80031","Westminster","CO","Mi Pueblo Market #7","8430 Federal Blvd","80031",39.849996000000004,-105.02308700000002
+"80033","Wheat Ridge","CO","King Soopers","3400 Youngfield St","80033",39.7645661,-105.1399987
+"80033","Wheat Ridge","CO","Sprouts Farmers Market","3725 Kipling St","80033",39.7676901,-105.1099645
+"80033","Wheat Ridge","CO","Edwards Meats","12280 W 44th Ave","80033",39.77797206567961,-105.13671476732286
+"80033","Wheat Ridge","CO","Heinie's Market","11801 W 44th Ave","80033",39.77848637299325,-105.13122131941428
+"80033","Wheat Ridge","CO","Safeway","3900 Wadsworth Blvd","80033",39.7710634,-105.0799306
+"80033","Wheat Ridge","CO","Lucky’s Market","3545 Wadsworth Blvd","80033",39.76714911533384,-105.08285564985734
+"80033","Wheat Ridge","CO","Walmart Grocery Pickup","5957 W 44th Ave","80212",39.7766,-105.062173478261
+"80033","Wheat Ridge","CO","Wardle Feed & Pet Supply","7610 W 42nd Ave","80033",39.7736547,-105.0820579
+"80102","Bennett","CO","King Soopers","1045 S 1st St","80102",39.7429666,-104.4354204
+"80104","Castle Rock","CO","King Soopers","750 N Ridge Rd","80104",39.3755621,-104.8275473
+"80104","Castle Rock","CO","Walmart Supercenter","133 Sam Walton Lane","80104",39.40617923761381,-104.86111655979182
+"80104","Castle Rock","CO","Safeway","880 S Perry St","80104",39.3620687,-104.8610534
+"80104","Castle Rock","CO","King Soopers","4901 Castleton Dr","80109",39.409976959228516,-104.87210083007812
+"80104","Castle Rock","CO","Natural Grocers","4510 Trail Boss Dr","80104",39.40727512247794,-104.85910677695847
+"80107","Elizabeth","CO","Walmart Supercenter","2100 Legacy Cir","80107",39.36026952,-104.6228799
+"80107","Elizabeth","CO","Safeway","220 Elizabeth St","80107",39.3611466,-104.6098047
+"80108","Castle Rock","CO","King Soopers","5544 Promenade Pkwy","80108",39.4154812,-104.8796038
+"80108","Castle Rock","CO","Whole Foods Market","6384 Promenade Pkwy","80108",39.424686,-104.877228
+"80108","Castle Rock","CO","Sprouts Farmers Market","5650 Allen Way","80108",39.4150519,-104.8643135
+"80108","Castle Rock","CO","Tony's Market","874 W Happy Canyon Rd","80108",39.42642650968424,-104.90178477706459
+"80108","Castle Rock","CO","King Soopers","7284 Lagae Rd","80108",39.4685082,-104.8793805
+"80110","Englewood","CO","Walmart Supercenter","601 Englewood Pkwy","80110",39.65596177182848,-104.99492735566766
+"80110","Englewood","CO","King Soopers","5050 S Federal Blvd","80110",39.6250094,-105.0241406
+"80110","Englewood","CO","Sprouts Farmers Market","5001 S Broadway","80113",39.624722,-104.988541
+"80110","Englewood","CO","King Soopers","101 Englewood Pkwy","80110",39.6555776,-104.9890857
+"80110","Englewood","CO","Walmart Supercenter","2770 W Evans Ave","80219",39.67761225820274,-105.02156331466199
+"80110","Englewood","CO","Super Carniceria Compare","2796 S Federal Blvd","80236",39.6654669642848,-105.02480810534564
+"80110","Englewood","CO","KingSoopers","not_available","80214",39.66999732724461,-104.98781708378648
+"80111","Englewood","CO","King Soopers","4910 S Yosemite St","80111",39.6263251,-104.8837422
+"80111","Englewood","CO","Sprouts Farmers Market","8557 E Arapahoe Rd, #B","80112",39.59643167119107,-104.89052206277847
+"80111","Englewood","CO","King Soopers","6000 S Holly St","80111",39.6076185749504,-104.92072911576537
+"80111","Englewood","CO","Safeway","7375 E Arapahoe Rd","80112",39.596367600856205,-104.90346908569336
+"80111","Englewood","CO","Kung Ship","not_available","80111",39.62389800736646,-104.88783035325525
+"80112","Englewood","CO","Walmart Supercenter","6675 Business Center Dr","80130",39.56205250236922,-104.9112713809104
+"80112","Englewood","CO","Safeway","9229 E Lincoln Ave","80124",39.5376429,-104.8832633
+"80112","Englewood","CO","King Soopers","8673 S Quebec St","80130",39.5587217,-104.9076415
+"80112","Englewood","CO","King Soopers","8200 S Holly St","80122",39.567782,-104.9212618
+"80113","Englewood","CO","King Soopers","2750 S Colorado Blvd","80222",39.6667424,-104.9368448
+"80113","Englewood","CO","King Soopers","3495 S University Blvd","80113",39.653732270126085,-104.96070742607117
+"80113","Englewood","CO","Safeway","201 E Jefferson Ave","80113",39.65185262708615,-104.98463230484981
+"80113","Englewood","CO","Sprouts Farmers Market","2880 S Colorado Blvd","80222",39.66424682350624,-104.93943214416504
+"80113","Englewood","CO","Kent Place","3945 S University Blvd","80113",39.654539,-104.959989
+"80120","Littleton","CO","King Soopers","100 W Littleton Blvd","80120",39.6123337485414,-104.98985767364502
+"80120","Littleton","CO","King Soopers","7901 S Broadway","80122",39.5727271,-104.9905744
+"80120","Littleton","CO","Safeway","181 W Mineral Ave","80120",39.5745224,-104.9914882
+"80120","Littleton","CO","Bert's All American Market","5856 S. Lowell Blvd., Units 31-32","80123",39.61015701293945,-105.03668212890625
+"80120","Littleton","CO","Littleton Square","100 Littleton Blvd.","80120",39.612407,-104.9888833
+"80121","Littleton","CO","Trader Joe's","5910 S University Blvd, Suite E1","80121",39.609086146921925,-104.95738232362099
+"80121","Littleton","CO","King Soopers","5050 E Arapahoe Rd","80122",39.5947087,-104.928492
+"80121","Littleton","CO","India's Market","8170 S University Blvd #120","80122",39.607862654435344,-104.97270954638152
+"80122","Littleton","CO","King Soopers","7575 S University Blvd","80122",39.5787208,-104.9609303
+"80122","Littleton","CO","Tony's Market","4991 E Dry Creek Rd","80122",39.58086911412049,-104.92981462656077
+"80122","Littleton","CO","Whole Foods Market","6853 South York Street, Suite 119","80122",39.59197701263335,-104.96179483189032
+"80122","Littleton","CO","Natural Grocers","6774 S University Blvd","80122",39.593909254755594,-104.959408813465
+"80122","Littleton","CO","India's Mart","8130 S University Blvd #120","80122",39.569527,-104.958555
+"80123","Littleton","CO","Walmart Supercenter","7700 W Quincy Ave","80123",39.6365270888127,-105.08353360495902
+"80123","Littleton","CO","King Soopers","9820 W Belleview Ave","80123",39.6231532,-105.1074819
+"80123","Littleton","CO","Trader Joe's","8055 West Bowles Ave","80123",39.611950977630215,-105.0894795015139
+"80123","Littleton","CO","Sprouts Farmers Market","8601 W Cross Dr, Unit P4","80123",39.6150402,-105.0924331
+"80123","Littleton","CO","King Soopers","6760 S Pierce St","80128",39.59352199150264,-105.07207193971908
+"80123","Littleton","CO","Whole Foods Market","5155 S. Wadsworth Blvd.","80123",39.623446482191596,-105.09229008416253
+"80123","Littleton","CO","Natural Grocers by Vitamin Cottage","not_available","80123",39.59871907775783,-105.109440735473
+"80123","Littleton","CO","K Stop Gas & Groceries","4305 S Lowell Blvd","80236",39.638177,-105.035227
+"80124","Lone Tree","CO","Sprouts Farmers Market","10018 Commons St","80124",39.53425870159146,-104.87987503409391
+"80125","Littleton","CO","King Soopers","4000 Red Cedar Dr","80126",39.5252913,-104.9401598
+"80125","Littleton","CO","King Soopers","9551 S University Blvd","80126",39.542488,-104.9444856
+"80125","Littleton","CO","Safeway","9255 S Broadway","80129",39.547747,-104.9939082
+"80125","Littleton","CO","Safeway","8355 N Rampart Range Rd","80125",39.48333810304173,-105.07542550563812
+"80125","Littleton","CO","Whole Foods Market","9366 S. Colorado Blvd","80126",39.545138,-104.942265
+"80125","Littleton","CO","Safeway","8434 S Kipling Pkwy","80127",39.5635115,-105.1078257
+"80125","Littleton","CO","King Soopers","2205 W Wildcat Reserve Pkwy","80129",39.5364347,-105.014025
+"80125","Littleton","CO","Sprouts Farmers Market","1980 E County Line Rd","80126",39.5646531,-104.9634576
+"80125","Littleton","CO","Natural Grocers","1265 Sgt Jon Stiles Dr Suite M","80129",39.55002672674024,-105.00307238830048
+"80125","Littleton","CO","Jenny's Market/Conoco","3650 E Highlands Ranch Pkwy","80126",39.543128306682625,-104.94638638798867
+"80127","Littleton","CO","Walmart Supercenter","13420 W Coal Mine Ave","80127",39.60820455899823,-105.15041327833399
+"80127","Littleton","CO","Safeway","12442 W Ken Caryl Ave","80127",39.5790166,-105.1347198
+"80127","Littleton","CO","Safeway","5025 S Kipling Pkwy","80127",39.625582990812696,-105.11120204222034
+"80127","Littleton","CO","King Soopers","11747 W Ken Caryl Ave","80127",39.5820038,-105.1308899
+"80127","Littleton","CO","Natural Grocers","6475 S Kipling Parkway","80123",39.58204510285867,-105.12769436595725
+"80128","Littleton","CO","King Soopers","8126 S Wadsworth Blvd","80128",39.5683716,-105.0814311
+"80128","Littleton","CO","Safeway","7500 S Pierce","80128",39.58009650814283,-105.07151217686386
+"80132","Monument","CO","Walmart Supercenter","16218 Jackson Creek Pkwy","80132",39.06685689415617,-104.85375098924392
+"80132","Monument","CO","King Soopers","1070 W Baptist Rd","80921",39.0577418,-104.8428801
+"80132","Monument","CO","Safeway","624 W Highway 105","80132",39.0983167,-104.8658246
+"80132","Monument","CO","Natural Grocers","1216 W Baptist Road","80132",39.09716181268137,-104.86728182704648
+"80134","Parker","CO","Walmart Supercenter","11101 S Parker Rd","80134",39.5136075551905,-104.76826194529416
+"80134","Parker","CO","King Soopers","17031 Lincoln Ave","80134",39.5360492,-104.7906774
+"80134","Parker","CO","King Soopers","12959 S Parker Rd","80134",39.4797927,-104.7606695
+"80134","Parker","CO","Safeway","11051 S Parker Rd","80134",39.5160731,-104.7664971
+"80134","Parker","CO","Sprouts Farmers Market","9751 S Parker Rd","80134",39.5389731,-104.7715668
+"80134","Parker","CO","Natural Grocers","11402 S Parker Rd","80134",39.50968980042883,-104.76249293070862
+"80134","Parker","CO","Spices N Beyond","11153 S Parker Rd #R","80134",39.512142982534414,-104.76485821401673
+"80134","Parker","CO","Spices N Beyond","not_available","80134",39.51214,-104.765121
+"80134","Parker","CO","Western Gas & Convenience Store","11515 N Parker Road","80134",39.52985993078204,-104.76712371232514
+"80202","Denver","CO","Whole Foods Market","1701 Wewatta Street","80202",39.75443642885084,-105.00167482857749
+"80202","Denver","CO","King Soopers","1950 Chestnut Pl","80202",39.7568618,-104.9988979
+"80202","Denver","CO","Pacific Mercantile","1925 Lawrence St","80202",39.75163502438047,-104.99265671509613
+"80202","Denver","CO","Western Daughters Butcher Shop","3326 Tejon St","80211",39.763787416011496,-105.01112340612855
+"80202","Denver","CO","Russell's Convenience Store","1200 17th St","80202",39.74961686282896,-104.9959373730828
+"80202","Denver","CO","The Local(Ish) Market","not_available","80202",39.75314096037498,-105.00103603118804
+"80202","Denver","CO","Russell's Convenience Store","999 18th St","80202",39.748735085099476,-104.99404455407739
+"80203","Denver","CO","Trader Joe's","661 Logan Street","80203",39.726879842824935,-104.98254517879928
+"80203","Denver","CO","Marczyk Fine Foods","770 E 17th Ave","80203",39.743138681216045,-104.97792791894467
+"80203","Denver","CO","Natural Grocers","1433 Washington St","80203",39.73933481500926,-104.97918823380881
+"80203","Denver","CO","City Store Mini Market","1100 Broadway","80203",39.733948744328075,-104.98726882543924
+"80203","Denver","CO","Small Planet Foods","665 Grant St","80203",39.726675,-104.983956
+"80204","Denver","CO","King Soopers","1331 Speer Blvd","80204",39.7374469,-104.9974197
+"80204","Denver","CO","Santa Fe Convenience Store","698 Santa Fe Dr","80204",39.727134704589844,-104.99830627441406
+"80204","Denver","CO","La Potranca","2311 Federal Blvd","80211",39.751459000000004,-105.02551100000001
+"80204","Denver","CO","Red Star Vapor & CBD","1355 N Santa Fe Dr Suite E","80204",39.7375076,-104.9991743
+"80204","Denver","CO","My Market","The Children's Museum of Denver","80211",39.74875100502501,-105.01728314135288
+"80204","Denver","CO","The Cake Depot","not_available","80211",39.751033,-105.025603
+"80204","Denver","CO","Mr. G's","709 W 8th Ave","80204",39.729156494140625,-104.9966812133789
+"80204","Denver","CO","Rio Grand Grocery","1135 W 8th Ave","80204",39.729116999999995,-105.002397
+"80204","Denver","CO","Muy Pronto Grocery Srore","131 knox ct","80219",39.722758435535745,-105.03226929808467
+"80204","Denver","CO","Mi Pueblo Market","not_available","80204",39.73971939086914,-105.0277099609375
+"80205","Denver","CO","Safeway","757 E 20th Ave","80205",39.7486925,-104.9775013
+"80205","Denver","CO","Park Hill Supermarket","3770 East 40th Avenue","80205",39.77219355,-104.94345376
+"80205","Denver","CO","Natural Grocers","3757 North Brighton Blvd","80216",39.77293476781296,-104.97589945793152
+"80205","Denver","CO","Ben's Super Market","2301 E 28th Ave","80205",39.757164,-104.95953300000001
+"80205","Denver","CO","Safeway","not_available","80205",39.74857620118155,-104.97750055462065
+"80205","Denver","CO","Lincoln Market","1704 E 25th Ave","80205",39.753040999999996,-104.96683300000001
+"80206","Denver","CO","Trader Joe's","750 N Colorado Blvd","80206",39.728677,-104.940433
+"80206","Denver","CO","Whole Foods Market","2375 E. 1st Ave","80206",39.71859147830316,-104.95817084689605
+"80206","Denver","CO","Sprouts Farmers Market","3625 E Colfax Ave","80206",39.7404353,-104.9448141
+"80206","Denver","CO","Trader Joe's Wine Shop","790 N Colorado Blvd","80206",39.72876774323448,-104.94036710948293
+"80206","Denver","CO","12th Avenue Market & Deli","2620 E 12th Ave","80206",39.73513552563648,-104.95587337161835
+"80207","Denver","CO","Walmart Supercenter","7800 Smith Rd","80207",39.769686480077105,-104.89765408867876
+"80207","Denver","CO","King Soopers","2810 Quebec St","80207",39.7565984,-104.902054
+"80207","Denver","CO","Spinelli's Market","4621 E 23rd Ave","80207",39.751158922828836,-104.93333405787395
+"80207","Denver","CO","Organo Gold Coffee","6767 E 39th Ave Suite #106","80207",39.772081298296285,-104.90925192832947
+"80207","Denver","CO","Altamira","not_available","80207",39.76940925872619,-104.93174151067947
+"80207","Denver","CO","Mondo Market","3886 Niagara St","80207",39.770790999999996,-104.910523
+"80209","Denver","CO","Safeway","323 S Broadway","80209",39.7103637,-104.9884632
+"80209","Denver","CO","King Soopers","825 S Colorado Blvd","80246",39.702164823313986,-104.94150490674588
+"80209","Denver","CO","Whole Foods Market","1111 S. Washington St.","80210",39.695815121297066,-104.97983166979162
+"80209","Denver","CO","Sprouts Farmers Market","197 E Mississippi Ave","80209",39.69697582459363,-104.98562514781958
+"80209","Denver","CO","Natural Grocers","368 S Broadway","80209",39.70995694356441,-104.98725896154839
+"80210","Denver","CO","Safeway","2150 S Downing St","80210",39.6776382,-104.9724994
+"80210","Denver","CO","Safeway","1653 S Colorado Blvd","80222",39.6872572,-104.9423608
+"80210","Denver","CO","Boulevard Center","1685 S Colorado Blvd","80222",39.686259,-104.94245900000001
+"80210","Denver","CO","Natural Grocers","2053 S Colorado Blvd","80222",39.67904927815705,-104.94191813605555
+"80211","Denver","CO","Leevers Locavore","2630 W 38th Ave","80211",39.76911,-105.01976
+"80211","Denver","CO","Safeway","2660 Federal Blvd","80211",39.755634,-105.0242664
+"80211","Denver","CO","Safeway","3800 W 44th Ave","80211",39.7761908,-105.0367947
+"80211","Denver","CO","Salwan Market","2227 W 32nd Ave","80211",39.762256,-105.013318
+"80211","Denver","CO","Sunnyside Natural Market","4401 Tejon St","80211",39.77679443359375,-105.01148986816406
+"80211","Denver","CO","Leprino Foods","1830 W 38th Ave","80211",39.769001027686954,-105.00930095136829
+"80212","Denver","CO","King Soopers","1725 Sheridan Blvd","80214",39.7449269,-105.0557326
+"80212","Denver","CO","Walmart Supercenter","5957 W. 44th Ave","80212",39.779090252664865,-105.06121526120612
+"80212","Denver","CO","King Soopers","5301 W 38th Ave","80212",39.7703543988857,-105.05427852275716
+"80212","Denver","CO","Sprouts Farmers Market","4700 W 38th Ave","80212",39.768960066043206,-105.04828155040741
+"80212","Denver","CO","Natural Grocers","3825 Tennyson St","80212",39.769887618031774,-105.0444310439597
+"80212","Denver","CO","Wheat Ridge Poultry and Meats","5650 W 29th Ave","80214",39.758174,-105.05824
+"80212","Denver","CO","Sunmart","4400 Tennyson St","80212",39.77669906616211,-105.0438003540039
+"80212","Denver","CO","Joy Fill","3843 Tennyson St","80212",39.77024,-105.04427
+"80214","Denver","CO","Walmart Supercenter","7455 W Colfax Ave","80214",39.74195901,-105.0797137
+"80214","Denver","CO","chicago market","1444 Carr St","80214",39.739756,-105.091451
+"80214","Denver","CO","glens Supermarket","M88 Hwy","49615",39.73580551147461,-105.05401611328125
+"80214","Denver","CO","Kingsoopers","Sloans Lake","80214",39.74276592881838,-105.06690368737674
+"80214","Denver","CO","Save-A-Lot","6601 W Colfax Ave","80214",39.741477966308594,-105.07015991210938
+"80215","Denver","CO","King Soopers","1555 Quail St","80215",39.7420552,-105.1253914
+"80215","Denver","CO","Safeway","9160 W Colfax Ave","80215",39.7394024,-105.0988874
+"80215","Denver","CO","Natural Grocers","9030 W Colfax Ave","80215",39.73985273010504,-105.09813811992971
+"80215","Denver","CO","Vitamin Cottage","not_available","80215",39.73987221994778,-105.09784061923892
+"80216","Denver","CO","Safeway Beverage","6405 E Stapleton Dr N","80216",39.779241,-104.91446200000001
+"80216","Denver","CO","Safeway","4600 E Stapleton Dr S","80216",39.77928453261081,-104.93341835868088
+"80216","Denver","CO","Shorty's Produce","7005 E 46th Avenue Dr Unit B","80216",39.781275,-104.906577
+"80216","Denver","CO","Safeway - Stapleton","not_available","80216",39.779454388704494,-104.90596932280258
+"80218","Denver","CO","King Soopers","1155 E 9th Ave","80218",39.7309,-104.9734776
+"80218","Denver","CO","Safeway","560 Corona St","80218",39.7250143,-104.9732681
+"80218","Denver","CO","King Soopers Cheese Shop","9th Ave","80218",39.731119,-104.973709
+"80219","Denver","CO","King Soopers","2727 W Evans Ave","80219",39.6798988,-105.0211484
+"80219","Denver","CO","King Soopers","5125 W Florida Ave","80219",39.6907691,-105.0523062
+"80219","Denver","CO","Cheatin' Wheat","4986 Morrison Rd","80219",39.698034,-105.050901
+"80219","Denver","CO","Indus Mart","not_available","80219",39.69454049931328,-105.02520405971643
+"80219","Denver","CO","Save-A-Lot","1951 S Federal Blvd","80219",39.68151850488462,-105.02578045291499
+"80219","Denver","CO","Ana's Meat Market","1411 S Federal Blvd","80219",39.690752,-105.02602900000001
+"80219","Denver","CO","Little Saigon Supermarket","375 S Federal Blvd","80219",39.709859965773475,-105.0256688467765
+"80219","Denver","CO","Save-A-Lot","4255 W Florida Ave","80232",39.69041061401367,-105.04279327392578
+"80219","Denver","CO","Lowe""s Mercado","Federal","80204",39.692441383080215,-105.02434654530978
+"80219","Denver","CO","Tienda de Sandoval","2925 Morrison Rd Unit A","80219",39.71124884102962,-105.03248616811051
+"80219","Denver","CO","Avanza Supermarket","1320 S Federal Blvd","80219",39.69256948395959,-105.0242908027654
+"80219","Denver","CO","Abbarrotes Gloria Market","4845 Morrison Rd","80219",39.69981667,-105.0492945
+"80219","Denver","CO","Save-A-Lot","4255 W Florida Ave","80219",39.690692,-105.042621
+"80219","Denver","CO","88 Asian Market","421 S Federal Blvd","80219",39.708869,-105.02546399999999
+"80220","Denver","CO","Safeway","200 Quebec St Bldg 400","80230",39.720372,-104.9011205
+"80220","Denver","CO","King Soopers","1355 Krameria St","80220",39.7374907,-104.9176658
+"80220","Denver","CO","Safeway","6220 E 14th Ave","80220",39.7372303,-104.9155637
+"80220","Denver","CO","Monaco Grocery","6622 E Colfax Ave","80220",39.739945,-104.910852
+"80220","Denver","CO","Lowry Alterations","200 Quebec St","80230",39.72051351131126,-104.90209729699389
+"80221","Denver","CO","Mercado","not_available","80221",39.82950064145318,-105.00658937593334
+"80221","Denver","CO","Save-A-Lot","4860 Pecos St","80221",39.78490256869204,-105.00609293764172
+"80221","Denver","CO","Avanza Supermarket","7305 Pecos St","80221",39.829750061035156,-105.00662994384766
+"80221","Denver","CO","Save-A-Lot","630 W 84th Ave","80260",39.848388522770215,-104.99501895684355
+"80221","Denver","CO","Carniceria El Tarasco","7575 Broadway","80221",39.833932,-104.988001
+"80222","Denver","CO","King Soopers","6470 E Hampden Ave","80222",39.6520898,-104.9142711
+"80222","Denver","CO","Safeway","6460 E Yale Ave","80222",39.6668055,-104.9142866
+"80222","Denver","CO","Middle East Market","2254 S Colorado Blvd","80222",39.67551365388789,-104.940402406512
+"80222","Denver","CO","King Soopers","2223 S Monaco Pkwy","802220000",39.676368713378906,-104.91325378417969
+"80222","Denver","CO","East Europe Market","Colorado Blvd","not_available",39.691203668724256,-104.94000044259253
+"80222","Denver","CO","Farm Crest Milk Store","1970 S Holly St","80222",39.680878,-104.92189199999999
+"80223","Denver","CO","Pacific Ocean International Supermarket","2200 West Alameda Avenue","80223",39.71036257,-105.01345455
+"80223","Denver","CO","Tortilleria Colorado","1774 W Mississippi Ave","80223",39.69645,-105.013369
+"80224","Denver","CO","Whole Foods Market","7400 E. Hampden Ave","80231",39.652112355132196,-104.90181070083302
+"80224","Denver","CO","King Soopers","890 S Monaco Pkwy","80224",39.7008697,-104.9112504
+"80224","Denver","CO","Petes Fruits and Vegetables","5600 E Cedar Ave","80224",39.71300202433522,-104.92185289483406
+"80224","Denver","CO","Arabic Market","2260 S Quebec St #7","80231",39.675481,-104.903049
+"80224","Denver","CO","Marhaba International Market","6879 Leetsdale Dr","80224",39.700679779052734,-104.90869140625
+"80224","Denver","CO","Save A Lot","7150 Leetsdale Dr","80224",39.698052,-104.905271
+"80226","Denver","CO","Walmart Supercenter","440 Wadsworth Blvd","80226",39.721856029994555,-105.0803331596921
+"80226","Denver","CO","King Soopers","7984 W Alameda Ave","80226",39.7096822,-105.0848195
+"80226","Denver","CO","Whole Foods Market","444 S.Wadsworth Blvd","80226",39.70839872610276,-105.08070702468396
+"80226","Denver","CO","Sprouts Farmers Market","98 Wadsworth Blvd, Unit 112","80226",39.71738312634118,-105.07966090674586
+"80226","Denver","CO","Lakewood Aborrotes y Carniceria","5989 W 1st Ave","80226",39.7188606262207,-105.06234741210938
+"80226","Denver","CO","Food Depot","not_available","80226",39.716037157832936,-105.08641017773496
+"80226","Denver","CO","Azteca Ranch Market","225 S Sheridan Blvd Ste A","80226",39.712561,-105.05488500000001
+"80227","Denver","CO","King Soopers","3100 S Sheridan Blvd","80227",39.6547365,-105.0514314
+"80227","Denver","CO","King Soopers","1927 S Wadsworth Blvd","80227",39.6816435,-105.0832028
+"80227","Denver","CO","Safeway","11088 W Jewell Ave","80232",39.6812823,-105.1226393
+"80227","Denver","CO","Natural Grocers","3333 S Wadsworth Blvd","80227",39.656225809442226,-105.08184012714575
+"80227","Denver","CO","King Soopers Click List","not_available","80227",39.65419,-105.0519
+"80228","Denver","CO","King Soopers","1545 S Kipling Pkwy","80232",39.6906192,-105.1194452
+"80228","Denver","CO","King Soopers","12043 W Alameda Pkwy","80228",39.7086938,-105.1370055
+"80228","Denver","CO","Safeway","13111 W Alameda Pkwy","80228",39.69836267139225,-105.14587640762329
+"80228","Denver","CO","Natural Grocers","12612 W Alameda Pkwy","80228",39.70252497261154,-105.13830266585751
+"80229","Denver","CO","King Soopers","750 E 104th Ave Unit A","80233",39.8840692,-104.9761388
+"80229","Denver","CO","Walmart Supercenter","9901 Grant St","80229",39.876342795382186,-104.98592154995075
+"80229","Denver","CO","Safeway","771 Thornton Pkwy","80229",39.8721305,-104.9759589
+"80229","Denver","CO","Walmart Neighborhood Market","850 E 88th Ave","80229",39.85507301704771,-104.97539197792725
+"80229","Denver","CO","Tejal India Grocery","10351 Grant St","80229",39.884325,-104.98276200000001
+"80229","Denver","CO","Mi Pueblo Market","648-698 Eppinger Blvd","80229",39.86311310804589,-104.9786283841805
+"80229","Denver","CO","Mi Pueblo Market","9171 Washington St","80229",39.86269,-104.97913700000001
+"80230","Denver","CO","Albertsons","not_available","80017",39.708069389870225,-104.88646188898126
+"80231","Denver","CO","Walmart Neighborhood Market","1442 S Parker Rd","80231",39.690169700953014,-104.88904481222052
+"80231","Denver","CO","Black Sea Market","7950 E Mississippi Ave","80247",39.696318,-104.89607
+"80231","Denver","CO","Nazar International Market","1842 S Parker Rd","80231",39.683355,-104.880407
+"80231","Denver","CO","Safeway Grocery","6440 E Yale","80022",39.68637734199448,-104.88731147582628
+"80233","Denver","CO","Safeway","500 E 120th Ave","80233",39.9122923,-104.9809468
+"80233","Denver","CO","Sprouts Farmers Market","1131 E 120th Ave","80233",39.916716653637245,-104.97338086366653
+"80233","Denver","CO","Walmart Neighborhood Market","10755 Washington Street","80233",39.8916783,-104.9791069
+"80233","Denver","CO","Natural Grocers","11465 Washington St","80233",39.905722901143754,-104.97826811377698
+"80234","Denver","CO","Safeway","12900 Zuni St","80234",39.929917731866944,-105.01376200837969
+"80234","Denver","CO","Save A Lot","1000 W 104th Ave","80234",39.8840446472168,-104.9983901977539
+"80239","Denver","CO","Chiguas Carniceria","4660 Peoria St","80239",39.780975,-104.845541
+"80246","Denver","CO","King Soopers","4600 Leetsdale Dr","80246",39.7081856,-104.9324964
+"80246","Denver","CO","Whole Foods Market","870 S. Colorado Blvd.","80246",39.70083156184173,-104.93948662344796
+"80246","Denver","CO","Natural Grocers","4500 E Alameda Ave","80246",39.710771261574514,-104.93534229407567
+"80246","Denver","CO","East Side Kosher Deli","499 S Elm St","80246",39.707737712192696,-104.93041378968735
+"80260","Denver","CO","King Soopers","1575 W 84th Ave","80260",39.8504403,-105.0049347
+"80260","Denver","CO","Top of the hill grocery and liquor","not_available","80260",39.87865600001711,-105.0066689392882
+"80301","Boulder","CO","Whole Foods Market","2905 Pearl St","80301",40.023893808458034,-105.25590141792627
+"80301","Boulder","CO","Trader Joe's","1906 28th St","80301",40.02023874816696,-105.25798613490682
+"80301","Boulder","CO","King Soopers","1650 30th St","80301",40.0157248,-105.2520876
+"80301","Boulder","CO","Safeway","3325 28th St","80301",40.0348885,-105.2598411
+"80301","Boulder","CO","King Soopers","6550 Lookout Rd","80301",40.0718004,-105.2010401
+"80301","Boulder","CO","Lucky's Market","3960 Broadway St","80304",40.04757853403424,-105.28101459796564
+"80301","Boulder","CO","Safeway","2798 Arapahoe Ave","80302",40.013365,-105.259586
+"80301","Boulder","CO","Ideal Market Boulder","1275 Alpine Ave.","80304",40.025937388240536,-105.2808809460525
+"80301","Boulder","CO","Sprouts Farmers Market","2525 Arapahoe Ave, Unit E65","80302",40.0157798,-105.2611651
+"80301","Boulder","CO","Alfalfa's Market","1651 Broadway","80302",40.01374708515047,-105.27892949279178
+"80301","Boulder","CO","Asian Seafood Market","2833 Valmont","not_available",40.028096999999995,-105.25916000000001
+"80301","Boulder","CO","Mile High Organics, Grocery Home Delivery","1048 Pearl St Ste B","80302",40.017189025878906,-105.28182983398438
+"80301","Boulder","CO","SproutFlower","not_available","80302",40.01591724215062,-105.26051231893197
+"80301","Boulder","CO","India's Grocery","2877 28th St","80301",40.028096999999995,-105.25916000000001
+"80301","Boulder","CO","Natural Grocers","2355 30th St","80301",40.024295173244454,-105.25409612527503
+"80301","Boulder","CO","Tres Reynas","2690 Bluff Street","80304",40.027064,-105.257529
+"80301","Boulder","CO","So Del","28th and Arapahoe","not_available",40.014693,-105.258514
+"80301","Boulder","CO","Red Star Vapor & CBD","3370 Arapahoe Ave","80303",40.014272999999996,-105.249522
+"80302","Boulder","CO","King Soopers","3600 Table Mesa Dr","80305",39.983410092735824,-105.25133925678801
+"80302","Boulder","CO","Lolita's Market & Deli","800 Pearl St","80302",40.01672534468782,-105.28498160175265
+"80302","Boulder","CO","Sprouts Farmers Market","2950 Baseline Rd","80303",39.9992835,-105.2543723
+"80302","Boulder","CO","B&F Mountain Market","60 E Lakeview Dr","80466",39.96035646309165,-105.50929430806718
+"80401","Golden","CO","King Soopers","17171 S Golden Rd","80401",39.7394648,-105.1929454
+"80401","Golden","CO","King Soopers","1173 Bergen Pkwy","80439",39.6933489,-105.3584421
+"80401","Golden","CO","Safeway","1701 Jackson St","80401",39.7520984,-105.2158477
+"80401","Golden","CO","Walmart Supercenter","952 Swede Gulch Rd","80439",39.700844180486584,-105.32767296052111
+"80401","Golden","CO","Natural Grocers By Vitamin Cottage","1291 Bergen Pkwy","80439",39.691928003558914,-105.36042901422239
+"80401","Golden","CO","Natural Grocers","2401 Ford St","80401",39.74686381311619,-105.20933148990176
+"80401","Golden","CO","Whole Foods Market","14357 W. Colfax Ave.","80401",39.736349958214255,-105.16129721732456
+"80401","Golden","CO","Golden Sunny Mart","17881 W Colfax Ave","80401",39.720417933737885,-105.20145998908065
+"80401","Golden","CO","Coleman Natural Foods","1667 Cole Blvd #300","80401",39.7417106628418,-105.15531921386719
+"80401","Golden","CO","Red Star Vapor & CBD","601 16th Street Unit G","80401",39.7529541,-105.2161441
+"80401","Golden","CO","Natural Grocers","1291 Bergen Pkwy.","80439",39.691933545014074,-105.3605553392433
+"80421","Bailey","CO","Bailey Country Store","149 Main St","not_available",39.40615617034185,-105.47508564470553
+"80424","Breckenridge","CO","City Market","400 North Pkwy","80424",39.488698801606574,-106.04674495146844
+"80424","Breckenridge","CO","Breckenridge Market and Liquor","311 S Ridge St","80424",39.479003,-106.0445183
+"80424","Breckenridge","CO","Safeway","not_available","80424",39.48608601026649,-106.04452684792756
+"80424","Breckenridge","CO","Wantit2go","16 Linden Ln","80424",39.53300857543945,-106.04143524169922
+"80424","Breckenridge","CO","King Soopers","400 N 400 N Park Park","80424",39.48530308478506,-106.04864244756713
+"80424","Breckenridge","CO","City Market","400 N Park Ave","80424",39.47797028347475,-106.04531896489374
+"80424","Breckenridge","CO","Alpine Natural Foods","not_available","80443",39.57564881328562,-106.10695747691953
+"80433","Conifer","CO","Safeway","27152 Main St","80433",39.5272902,-105.3035752
+"80433","Conifer","CO","King Soopers","25637 Conifer Rd","80433",39.5443512,-105.2921621
+"80433","Conifer","CO","Natural Grocers","27101 Main Street","80433",39.529621050566064,-105.30479422182664
+"80435","Dillon","CO","City Market","300 Dillon Ridge Road","80435",39.63053171510779,-106.05543763967944
+"80435","Dillon","CO","City Market","300 Dillon Ridge Road","80439",39.63053512573242,-106.05545806884766
+"80435","Dillon","CO","Gateway Grocery & Liquor","23110 US Highway 6","80435",39.60875,-105.94885
+"80435","Dillon","CO","Natural Grocers","970 N 10 Mile","80443",39.627324104068336,-106.06143455535869
+"80435","Dillon","CO","King Soopers","300 Us Hwy 6","80435",39.64188031912981,-106.03857459469512
+"80435","Dillon","CO","Loveland Pass Liquors and Market","22869 Us Highway 6, # 101-102, Mountain View Plaza","80435",39.6089776,-105.9535771
+"80435","Dillon","CO","General Nutrition Center","324 Dillon Ridge Way","80435",39.62921142578125,-106.05441284179688
+"80435","Dillon","CO","Dos Chiles","119 La Bonte St","80435",39.62759,-106.04577
+"80439","Evergreen","CO","Safeway","2425 Miner St","80452",39.7410168,-105.5062157
+"80439","Evergreen","CO","Safeway","3851 Evergreen Pkwy","80439",39.64593890545741,-105.33984279343264
+"80440","Fairplay","CO","Prather's Market","301 US Highway 285","80440",39.22093995207251,-105.99299227544061
+"80442","Fraser","CO","Safeway","40 County Road 804","80442",39.9456402,-105.8111218
+"80442","Fraser","CO","Fireside Market","not_available","80482",39.925394,-105.786891
+"80442","Fraser","CO","Safeway","40 County Rd. 804","80442",39.9925324464538,-105.92842527043928
+"80443","Frisco","CO","Whole Foods Market","261 Lusher Court","80443",39.5885214619626,-106.10038963778392
+"80443","Frisco","CO","Safeway","1008 N Summit Blvd","80443",39.5899043,-106.0967793
+"80443","Frisco","CO","Walmart","840 Summit Blvd.","80443",39.58684039074913,-106.09585920940266
+"80443","Frisco","CO","Natural Grocers","970 N Ten Mile Drive","80443",39.59036406240337,-106.09457246077888
+"80446","Granby","CO","City Market","1001 Thompson Road","80446",40.06285915171593,-105.9294471144949
+"80446","Granby","CO","Rocky Mountain Grocery","701 Grand Ave","80446",40.25283,-105.824094
+"80446","Granby","CO","King Soopers","1001 Thompson Rd","80446",40.06284713745117,-105.92913818359375
+"80449","Hartsel","CO","City Market","438 S. Hwy 24","81211",38.83690387599959,-106.13115906715393
+"80449","Hartsel","CO","The Lettucehead Food Company / Nature's Pantry","545 U S Hwy 24 North","81211",38.8467741,-106.135022
+"80449","Hartsel","CO","King Soopers","428 Us Highway 24 N","812119651",38.84511184692383,-106.13470458984375
+"80449","Hartsel","CO","Natures Pantry","401-499 U.S. 24","81211",38.84669076666667,-106.13516808333334
+"80449","Hartsel","CO","Lagree’s Good Store","not_available","81211",38.84521,-106.134007
+"80459","Kremmling","CO","Kremmling Mercantile","101 Martin Way","80459",40.059483211336065,-106.39866392308267
+"80461","Leadville","CO","Safeway","1900 N Poplar St","80461",39.2598812,-106.2928863
+"80461","Leadville","CO","El Mercadito","500 Harrison Ave","80461",39.248451,-106.29141399999999
+"80461","Leadville","CO","Safeway","1900 Hwy 24","80461",39.086111111111116,-106.2675
+"80461","Leadville","CO","Alco","401 Front St","80461",39.24129603867485,-106.29561581641862
+"80463","Mc Coy","CO","Sheets","Lincoln St, Yampa, CO","80483",40.060302734375,-106.80801391601562
+"80480","Walden","CO","City Market","1825 Central Park Plaza","80477",40.46304406746244,-106.82162660850281
+"80480","Walden","CO","Safeway","37500 E US Highway 40","80487",40.4658401,-106.824486
+"80480","Walden","CO","Walmart","1805 Central Park Drive","80487",40.46190898119493,-106.82285376491228
+"80480","Walden","CO","Natural Grocers","335 Lincoln Ave","80487",40.48300737038559,-106.82994834127183
+"80497","Silverthorne","CO","Peak Provisions","not_available","80498",39.631712,-106.073417
+"80498","Silverthorne","CO","City Market","2109 N Frontage Rd W","81657",39.6319106,-106.4159104
+"80498","Silverthorne","CO","Safeway","2131 N Frontage Rd W","81657",39.63115128960197,-106.41799584792346
+"80498","Silverthorne","CO","The Market at Vail","not_available","81657",39.643893,-106.386485
+"80501","Longmont","CO","King Soopers","995 S Hover St","80501",40.1505935,-105.1336737
+"80501","Longmont","CO","King Soopers","1611 Pace St","80504",40.1864996,-105.0759492
+"80501","Longmont","CO","King Soopers","2255 Main St","80501",40.198861279262765,-105.10417073965073
+"80501","Longmont","CO","Whole Foods Market","1250 South Hover Road","80501",40.14527306711969,-105.12938715245639
+"80501","Longmont","CO","Natural Grocers","1745 N Main St","80501",40.19032912695552,-105.10373147884813
+"80501","Longmont","CO","Safeway","1632 Hover St","80501",40.1879263,-105.1294348
+"80501","Longmont","CO","Simply Bulk Market","418 Main St","80501",40.166204,-105.102115
+"80501","Longmont","CO","Safeway","1050 Ken Pratt Blvd","80501",40.15363197422866,-105.1093708452301
+"80501","Longmont","CO","Longs Peak Grocery Store","not_available","80501",40.178527,-105.117105
+"80501","Longmont","CO","Red Star Vapor & CBD","1108 Main St","80501",40.178274,-105.10172800000001
+"80501","Longmont","CO","Sprouts Farmers Market","1101 S Hover St","80501",40.145919197198985,-105.13343273571468
+"80501","Longmont","CO","Tortilleria Las Americas","830 Lashley St","80504",40.17331324199583,-105.08766616270886
+"80501","Longmont","CO","Save A Lot","1750 Main St","80501",40.1909584,-105.1008524
+"80501","Longmont","CO","Lucky's Market","700 Ken Pratt Blvd Ste 200","80501",40.153227768624625,-105.10486902113891
+"80501","Longmont","CO","Save-A-Lot","1750 N Main St","80501",40.19005589880897,-105.10128850994771
+"80501","Longmont","CO","Food Emporium","804 Coffman St","80501",40.17269,-105.10351399999999
+"80503","Longmont","CO","Niwot Market","7180 Niwot Rd","80503-7149",40.10088619425682,-105.167069180454
+"80503","Longmont","CO","Mary's Market & Deli","11089 North 75th Street","not_available",40.188966132323394,-105.17831302811155
+"80504","Longmont","CO","Walmart Supercenter","2285 East Ken Pratt Blvd","80504",40.1576756,-105.0475853
+"80504","Longmont","CO","Walmart Supercenter","2514 Main St","80504",40.205294939812184,-105.0990765665416
+"80504","Longmont","CO","King Soopers","6110 Firestone Blvd","80504",40.15905780081897,-104.93952870368958
+"80504","Longmont","CO","Safeway","8134 Colorado Blvd","80504",40.11905474934837,-104.93973867479971
+"80512","Bellvue","CO","Red Feather Supermarket","not_available","80545",40.792029324867656,-105.57358599742062
+"80512","Bellvue","CO","Red Feather Trading Post","41 Main Street","80545",40.80122375488281,-105.58982849121094
+"80513","Berthoud","CO","Hays Market","919 Mountain Ave","80513",40.304962642178076,-105.08690778239273
+"80513","Berthoud","CO","Healthy Harvest Productions","246 Basher Dr Unit 7","80513",40.338865,-104.98542299999997
+"80516","Erie","CO","King Soopers","1891 State Highway 7","80516",40.00087135428732,-105.01920930519725
+"80517","Estes Park","CO","Safeway","451 E Wonder View Ave","80517",40.3801333,-105.5166529
+"80517","Estes Park","CO","Country Super Market","900 Moraine Ave","80517",40.363974454067254,-105.54323339804401
+"80517","Estes Park","CO","Buckwheat Organic Market","431 W Elkhorn Ave","80517",40.376773,-105.52956699999999
+"80521","Fort Collins","CO","King Soopers","1015 S Taft Hill Rd","80521",40.5743481,-105.1166798
+"80521","Fort Collins","CO","Lucky's Market","425 S College Ave","80524",40.581684,-105.07755
+"80521","Fort Collins","CO","Beaver's Market","1100 W Mountain Ave","80521",40.587367498819454,-105.0962370527979
+"80521","Fort Collins","CO","Carniceria Las Delicias","1705 S College Ave","80525",40.564703,-105.07764399999999
+"80521","Fort Collins","CO","Red Star Vapor & CBD","1015 S Taft Hill Rd #G-2","80521",40.574114,-105.1168282
+"80524","Fort Collins","CO","King Soopers","2602 S Timberline Rd","80525",40.55194091221721,-105.03798858092523
+"80524","Fort Collins","CO","Walmart Supercenter","4500 Weitzel St","80547",40.52606555,-104.990319
+"80524","Fort Collins","CO","King Soopers","4503 John F Kennedy Pkwy","80525",40.5250785,-105.0733009
+"80524","Fort Collins","CO","King Soopers","1842 N College Ave","80524",40.6116149,-105.0737156
+"80524","Fort Collins","CO","Whole Foods Market","2201 S College Ave","80525",40.55921394494421,-105.0784483551979
+"80524","Fort Collins","CO","Walmart Supercenter","1250 E Magnolia St","80524",40.586597350902196,-105.05520205485048
+"80524","Fort Collins","CO","Safeway","3657 S College Ave","80525",40.5369359,-105.0780505
+"80524","Fort Collins","CO","Safeway","2160 W Drake Rd Unit 6","80526",40.5543118,-105.1166024
+"80524","Fort Collins","CO","Safeway","1426 E Harmony Rd","80525",40.5249065,-105.0519397
+"80524","Fort Collins","CO","Safeway","731 S Lemay Ave","80524",40.5774667,-105.0593344
+"80524","Fort Collins","CO","Trader Joe's","3500 S College Ave, Ste 110","80525",40.53936767578125,-105.0753173828125
+"80524","Fort Collins","CO","King Soopers","2325 S College Ave","80525",40.5569178,-105.0786471
+"80524","Fort Collins","CO","Natural Grocers","4318 S College Ave","80525",40.52809600790796,-105.07545722283065
+"80524","Fort Collins","CO","Sprouts Farmers Market","2601 South Lemay Ave","80525",40.5506602,-105.0595947
+"80524","Fort Collins","CO","Sprouts Farmers Market","4345 Corbett Dr","80525",40.52591060096118,-105.02901792526245
+"80524","Fort Collins","CO","Oriental Grocery","710 E Magnolia St","80524",40.583106994628906,-105.06591796875
+"80524","Fort Collins","CO","KING SOOPERS MARKETPLACE","6922 W 10th St","not_available",40.564501940650814,-105.05500227818435
+"80524","Fort Collins","CO","Turmeric Indian Grocery","902 W Drake Rd #11","80526",40.553696,-105.092344
+"80524","Fort Collins","CO","The Fort Collins Food Cooperative","250 E Mountain Ave","80524",40.587175901390346,-105.07519692229513
+"80524","Fort Collins","CO","Walmart Grocery Pickup","4625 S Mason St","80525",40.5228024641932,-105.078904674072
+"80524","Fort Collins","CO","Main Street Market","7670 5th St","80549",40.69593749934297,-105.00179223043318
+"80525","Fort Collins","CO","Esh's Market","not_available","80537",40.46518859370481,-105.08096046695913
+"80525","Fort Collins","CO","FOCO Market - Online Farmer's Market","5748 S College Ave Unit C","80525",40.5065924,-105.0767041
+"80526","Fort Collins","CO","Walmart Supercenter","250 W 65th St","80538",40.45687285035797,-105.08062706236196
+"80526","Fort Collins","CO","Bangkok Asian Market","1107 W Drake Rd E-2","80526",40.551978999999996,-105.096497
+"80526","Fort Collins","CO","Sienna Tan","2561 S Shields St","80526",40.553200424676156,-105.09798273143085
+"80534","Johnstown","CO","Hays Market","201 Johnstown Center Dr","80534",40.33417461934876,-104.90735969330231
+"80537","Loveland","CO","King Soopers","253 E 29th St","80538",40.4250618,-105.0758067
+"80537","Loveland","CO","Walmart Supercenter","1325 Denver Ave","80537",40.40467176287804,-105.04678826982227
+"80537","Loveland","CO","King Soopers","1275 Eagle Dr","80537",40.3798639,-105.0994546
+"80537","Loveland","CO","Sprouts Farmers Market","1440 E Lincoln Avenue","80538",40.4079264,-105.0722115
+"80537","Loveland","CO","Safeway","860 Cleveland Ave","80537",40.4007599,-105.0738297
+"80537","Loveland","CO","Safeway","2321 W Eisenhower Blvd","80537",40.4086322,-105.1099575
+"80537","Loveland","CO","Safeway","1451 W Eisenhower Blvd","80537",40.4084936,-105.0981197
+"80537","Loveland","CO","Red Star Vapor & CBD","402 E Eisenhower Blvd","80538",40.40753257497441,-105.0713860988617
+"80537","Loveland","CO","The Bottled Olive Kitchen","5865 Sky Pond Dr Unit G168","80538",40.414666,-104.990325
+"80550","Windsor","CO","King Soopers","1520 Main St","80550",40.47990493875565,-104.928649888868
+"80550","Windsor","CO","Safeway","1535 Main St","80550",40.4781455,-104.9280548
+"80601","Brighton","CO","King Soopers","500 E Bromley Ln","80601",39.9705433,-104.8161712
+"80601","Brighton","CO","Safeway","1605 E Bridge St","80601",39.9879453,-104.801487
+"80601","Brighton","CO","Walmart Supercenter","60 W Bromley Ln","80601",39.97022297059926,-104.82362224783972
+"80601","Brighton","CO","Robs","301 S Main St","80601",39.981953000000004,-104.822649
+"80601","Brighton","CO","King Soopers Grocery Pickup and Delivery","100 N 50th Ave","80601",39.98898696899414,-104.75001525878906
+"80603","Brighton","CO","Safeway","1300 Dexter St","80621",40.07886773077312,-104.80241417884827
+"80615","Eaton","CO","Heritage Market","180 S Elm Ave","80615",40.522904289024844,-104.71266837216552
+"80620","Evans","CO","Walmart Supercenter","3103 S 23rd Ave","80631",40.386046127666965,-104.71854322489837
+"80620","Evans","CO","King Soopers","2712 11th Ave","80631",40.39244210884486,-104.69467254015399
+"80620","Evans","CO","Sprouts Farmers Market","4759 W 29th St, Unit B","80634",40.39099342207242,-104.75869417190552
+"80620","Evans","CO","Natural Grocers","2819 35th Ave","80634",40.38977767353783,-104.73565705802187
+"80620","Evans","CO","King Soopers","West lake","80634",40.36749091820864,-104.75016550910411
+"80631","Greeley","CO","King Soopers","6922 W 10th St","80634",40.4196336,-104.792314
+"80631","Greeley","CO","Walmart Supercenter","920 47th Ave","80634",40.4228972062939,-104.7542331859484
+"80631","Greeley","CO","King Soopers","2100 35th Ave","80634",40.4046208,-104.733189
+"80631","Greeley","CO","Safeway","3526 W 10th St","80634",40.42120710558968,-104.73630137168885
+"80631","Greeley","CO","Safeway","4548 Centerplace Dr","80634",40.3943551,-104.7526409
+"80631","Greeley","CO","Mfootah Market","not_available","80631",40.39743,-104.69002
+"80631","Greeley","CO","Lowe's Shop 'N Save","3635 W 10th St","80634",40.423536,-104.739099
+"80631","Greeley","CO","shop and save","not_available","80634",40.42051418449719,-104.73066037494657
+"80631","Greeley","CO","Centerplace of Greeley III","4578 Centerplace Drive","80634",40.3935733,-104.7488451
+"80631","Greeley","CO","Pieper Meat Co.","630 26th St","80631",40.3955874,-104.6895666
+"80631","Greeley","CO","Save A Lot","816 25th St","80631",40.39695792572839,-104.69247185451948
+"80631","Greeley","CO","Avanza","3601-3699 10th St","80634",40.42295881278384,-104.73881759697461
+"80631","Greeley","CO","La Tarahumara","Corner","80634",40.42135238647461,-104.69132995605469
+"80631","Greeley","CO","Red Star Vapor & CBD","2132 35th Ave","80634",40.4039976,-104.7340695
+"80631","Greeley","CO","Safeway","1122 11th Ave","80631",40.42029435768142,-104.69536891940892
+"80644","Kersey","CO","kersey supermarket","320 Hill","80644",40.39173700597261,-104.56116588285722
+"80651","Platteville","CO","Everyday Market","Hwy 85 and Hwy 66","not_available",40.20695852,-104.82137152
+"80651","Platteville","CO","La Huasteca","340 Justin Ave","80651",40.206971,-104.822515
+"80701","Fort Morgan","CO","Walmart Supercenter","1300 Barlow Rd","80701",40.261045110916534,-103.7700548194
+"80701","Fort Morgan","CO","Safeway","620 W Platte Ave","80701",40.2532626,-103.8101461
+"80701","Fort Morgan","CO","Edwards Right Price Market","not_available","80701",40.25426594857217,-103.78696544677437
+"80751","Sterling","CO","Walmart Supercenter","1510 W Main St","80751",40.62648803383932,-103.23631368140505
+"80751","Sterling","CO","Family Food Market","419 N 3rd St","80751",40.62786102294922,-103.20606231689453
+"80758","Wray","CO","Wray Market","333 W 2nd St","80758",40.079807,-102.22685
+"80759","Yuma","CO","Mustains Grocers","100 Blk S Main","80759",40.12444681,-102.72384584
+"80759","Yuma","CO","Shop-All Family Pharmacy","315 E 8th Ave","80759",40.1182324,-102.7200657
+"80759","Yuma","CO","Shop All","Highway 34","not_available",40.11820299100387,-102.71976448389833
+"80807","Burlington","CO","Safeway","111 18th St","80807",39.3012914,-102.2736905
+"80808","Calhan","CO","94 Kountry Store","23558-23798 Colorado 94","80808",38.83832611608983,-104.38877584405527
+"80808","Calhan","CO","Woolsey's Food Center Inc","474 Colorado Ave","80808",39.03639602661133,-104.30010986328125
+"80809","Cascade","CO","Local First Grocer","116 Canon Ave","80829",38.858361,-104.91643
+"80813","Cripple Creek","CO","LaGrees Venture Foods","1075 Teller County Road 1","not_available",38.751036,-105.19285098288364
+"80814","Divide","CO","Venture Foods","Hwy 24 & Hwy 67","not_available",38.94225149096372,-105.15709114300569
+"80817","Fountain","CO","Walmart Supercenter","6310 S Us Highway 85-87","80817",38.74084690160807,-104.73627126709638
+"80817","Fountain","CO","Safeway","6925 Mesa Ridge Pkwy","80817",38.71627218167407,-104.69893106821473
+"80819","Green Mountain Falls","CO","Walmart Supercenter","19600 E Us Highway 24","80863",38.971818898281974,-105.03846732947642
+"80825","Kit Carson","CO","Mary's Market","Main Street","not_available",38.76400304309919,-102.79208102412616
+"80831","Peyton","CO","King Soopers","7915 Constitution Ave","80951",38.8669712,-104.680185
+"80831","Peyton","CO","Safeway","7655 McLaughlin Rd","80831",38.94170377976243,-104.6016813289043
+"80831","Peyton","CO","Walmart Supercenter","11550 Meridian Market Vw","80831",38.93940325746941,-104.61276628330116
+"80831","Peyton","CO","Falcon","11550-11735 Meridian Market View","80831",38.9395278,-104.6103968
+"80840","Usaf Academy","CO","Walmart Supercenter","8250 Razorback Rd","80920",38.949383891005574,-104.7999803499571
+"80840","Usaf Academy","CO","Whole Foods Market","7635 North Academy Blvd","80920",38.941962131476735,-104.79797485386194
+"80840","Usaf Academy","CO","Sprouts Farmers Market","13415 Voyager Parkway","80921",39.02656865547658,-104.81445193290705
+"80840","Usaf Academy","CO","Air Force Academy Commissary","5126 Community Center Dr","80840",38.97806656479841,-104.86908148966128
+"80840","Usaf Academy","CO","Natural Grocers","7690 N Academy Blvd","80920",38.942627318396354,-104.80166010559316
+"80840","Usaf Academy","CO","US Air Force Academy Commisary","not_available","80903",38.97871831593513,-104.86231044305035
+"80863","Woodland Park","CO","City Market","777 Gold Hill Pl S","80863",38.9917519,-105.0599182
+"80863","Woodland Park","CO","Safeway","1101 E US Highway 24","80863",38.9825683,-105.0468964
+"80863","Woodland Park","CO","Natural Grocers","916 Paradise Lodge Lane","80863",38.983978271484375,-105.04488372802734
+"80863","Woodland Park","CO","King Soopers","770 Gold Hill Sq","808631295",38.99162158788857,-105.05860971176303
+"80902","Colorado Springs","CO","Fort Carson Commissary","1551 Prussman Blvd Bldg 1800","80913",38.73505900616673,-104.78957291793752
+"80903","Colorado Springs","CO","Natural Grocers","1604 South Nevada Ave","80905",38.811172024717855,-104.82285261154175
+"80903","Colorado Springs","CO","Sparrow Hawk Gourmet Cookware","120 N Tejon St","80903",38.836174,-104.823585
+"80903","Colorado Springs","CO","King Soopers","3750 Hartzel Rd","80920",38.85038779903979,-104.81776883051852
+"80903","Colorado Springs","CO","Bread & Butter Neighborhood Market","602 S Nevada Ave","80903",38.825265,-104.822452
+"80904","Colorado Springs","CO","King Soopers","3250 Centennial Blvd","80907",38.8772141,-104.8488981
+"80904","Colorado Springs","CO","King Soopers","1750 W Uintah St","80904",38.848948,-104.8474595
+"80904","Colorado Springs","CO","Safeway","3275 W Colorado Ave","80904",38.854877944744224,-104.87698765131427
+"80904","Colorado Springs","CO","Safeway","4405 Centennial Blvd","80907",38.895062,-104.849816
+"80904","Colorado Springs","CO","Ranch Steakhouse & Market","575 Garden of the Gods Rd","80907",38.896121978759766,-104.83433532714844
+"80904","Colorado Springs","CO","Mountain Mama Natural Foods","1625 W Uintah St #A","80904",38.84767760487211,-104.8440042125717
+"80905","Colorado Springs","CO","Walmart Supercenter","707 S 8th St","80905",38.82394713362858,-104.83806282942595
+"80905","Colorado Springs","CO","Safeway","1920 S Nevada Ave","80905",38.80613623110853,-104.82361332275389
+"80905","Colorado Springs","CO","Sammy Organics","1608 S 8th St","80905",38.809511,-104.841403
+"80906","Colorado Springs","CO","King Soopers","815 Cheyenne Meadows Rd","80906",38.7760148,-104.8120618
+"80906","Colorado Springs","CO","Walmart Supercenter","4425 Venetucci Boulevard","80906",38.768678688582895,-104.7814956636883
+"80906","Colorado Springs","CO","King Soopers","2910 S Academy Blvd","80916",38.790471,-104.7606319
+"80906","Colorado Springs","CO","Save-A-Lot","405 South Circle Dr","80910",38.82485249271714,-104.77968991965048
+"80906","Colorado Springs","CO","Safeway","6520 S Academy Blvd","80906",38.767404,-104.815007
+"80906","Colorado Springs","CO","Save A Lot","405 S Circle Dr","80910",38.8247638,-104.7793509
+"80906","Colorado Springs","CO","Saigon Market","not_available","80916",38.795442,-104.760204
+"80907","Colorado Springs","CO","Safeway","2210 N Wahsatch Ave","80907",38.8644506,-104.8171112
+"80907","Colorado Springs","CO","Walmart Neighborhood Market","1725 N Union Blvd","80909",38.857536805728394,-104.7931869688539
+"80907","Colorado Springs","CO","Cheapies","not_available","80907",38.88176,-104.833061
+"80908","Colorado Springs","CO","Walmart Supercenter","5550 E Woodmen Rd","80920",38.94243940786733,-104.72513691394717
+"80908","Colorado Springs","CO","King Soopers","9225 N Union Blvd","80920",38.9645554,-104.7550393
+"80908","Colorado Springs","CO","King Soopers","3570 Hartsel Dr","80920",38.9398727,-104.760563
+"80908","Colorado Springs","CO","Safeway","8750 N Union Blvd","80920",38.9587517,-104.7670256
+"80909","Colorado Springs","CO","Safeway","1121 N Circle Dr","80909",38.848435680819584,-104.77236646420351
+"80909","Colorado Springs","CO","Walmart Supercenter","3201 E Platte Ave","80909",38.83744896766215,-104.7697457889729
+"80909","Colorado Springs","CO","Carniceria Leonela","3736 E Pikes Peak Ave","80909",38.832319,-104.760634
+"80909","Colorado Springs","CO","Springs Korean Market","3830 E Pikes Peak Ave, Colorado Springs, CO 80909","80909",38.832407,-104.756039
+"80909","Colorado Springs","CO","Walmart Neighborhood Market","665 N Murray Blvd","80915",38.842741149239075,-104.74683814100847
+"80909","Colorado Springs","CO","The Lucky Ducky Marketplace","625 N Murray Blvd","80915",38.840855,-104.745851
+"80910","Colorado Springs","CO","Walmart Neighborhood Market","1622 S Academy Blvd","80916",38.80786749490462,-104.75828895905794
+"80910","Colorado Springs","CO","Seoul Oriental Grocery","2499 S Academy Blvd","80916",38.796862,-104.756926
+"80915","Colorado Springs","CO","Walmart Supercenter","1575 Space Center Dr","80915",38.85520947,-104.7218827
+"80915","Colorado Springs","CO","Asian Pacific Market","615 Wooten Rd Ste 160","80915",38.84096061340112,-104.736534299117
+"80915","Colorado Springs","CO","Ranch Foods Direct","4635 Town Center Dr","80916",38.838136,-104.742183
+"80916","Colorado Springs","CO","Safeway","1425 S Murray Blvd","80916",38.8125105,-104.7463599
+"80916","Colorado Springs","CO","Peterson AFB Commissary","1040 E Stewart Ave","80914",38.812422155914945,-104.6773602636098
+"80917","Colorado Springs","CO","King Soopers","3620 Austin Bluffs Pkwy","80918",38.89207665600443,-104.76097404956818
+"80917","Colorado Springs","CO","Safeway","5060 N Academy Blvd","80918",38.903781,-104.7773364
+"80917","Colorado Springs","CO","Safeway","2890 N Powers Blvd","80922",38.8740272,-104.7220866
+"80917","Colorado Springs","CO","Sprouts Farmers Market","5617 Barnes Rd","80917",38.89299312567244,-104.72314953804016
+"80917","Colorado Springs","CO","Walmart Neighborhood Market","4142 Austin Bluffs Pkwy","80918",38.89252394258369,-104.7553515957295
+"80917","Colorado Springs","CO","Save-A-Lot","3336 Academy Blvd North","80917",38.8809356689453,-104.756935119629
+"80917","Colorado Springs","CO","Al Rahman Market International","3332 Austin Bluffs Pkwy","80918",38.89101791381836,-104.76457977294922
+"80917","Colorado Springs","CO","Taste Of India Grocery","4836 Flintridge Dr","80918",38.90233425599661,-104.76780782156322
+"80917","Colorado Springs","CO","Colorado Ranch Market","3333 N Academy Blvd","80917",38.88070807100772,-104.75513971036104
+"80917","Colorado Springs","CO","Asiana Market","5740 N Carefree Cir #200","80917",38.8853630458398,-104.72228144218549
+"80917","Colorado Springs","CO","British Home Shoppe","4801-4813 Flintridge Dr","80918",38.901758,-104.766473
+"80918","Colorado Springs","CO","King Soopers","6930 N Academy Blvd","80918",38.9311502,-104.7968562
+"80918","Colorado Springs","CO","Trader Joe's","5342 N Nevada Ave","80918",38.907158712139605,-104.81745381122947
+"80918","Colorado Springs","CO","Albertsons","7055 Austin Bluffs Pkwy","80923",38.932616,-104.7387941
+"80918","Colorado Springs","CO","Sprouts Farmers Market","1730 Dublin Blvd","80918",38.9266467,-104.7950512
+"80918","Colorado Springs","CO","Sai MART","2316 Vickers Dr","80918",38.915977478027344,-104.78411102294922
+"80919","Colorado Springs","CO","Safeway","840 Village Center Dr","80919",38.9240105,-104.8440814
+"80922","Colorado Springs","CO","King Soopers","6030 Stetson Hills Blvd","80922",38.9125685,-104.716271
+"80922","Colorado Springs","CO","CockRoach Grocers","Sternward Way","80922",38.906754,-104.68923
+"80922","Colorado Springs","CO","King Soopers Grocery Pickup and Delivery","6030 Stetson Hills Blvd","80923",38.9122822,-104.7158196
+"81001","Pueblo","CO","King Soopers","102 W 29th St","81008",38.297495369897646,-104.60658520465586
+"81001","Pueblo","CO","Natural Grocers","101 W 29th St","81008",38.29884901370246,-104.60713423908699
+"81001","Pueblo","CO","Safeway","1322 E 8th St","81001",38.27435302734375,-104.58826446533203
+"81001","Pueblo","CO","Save-A-Lot","1110 Bonforte Blvd","81001",38.287372999999995,-104.59500899999999
+"81003","Pueblo","CO","J.R.'s Country Store","Elizabeth","81003",38.277484,-104.61512
+"81003","Pueblo","CO","Safeway","617 W 29th St","81008",38.29894925010644,-104.61661463950422
+"81004","Pueblo","CO","Walmart Grocery Pickup & Delivery","4080 W Northern Ave","81005",38.2337261563167,-104.665120579022
+"81004","Pueblo","CO","King Soopers","3050 W Northern Ave","81005",38.2426989,-104.6456424
+"81004","Pueblo","CO","Walmart Neighborhood Market","2730 S. Prairie Ave.","81005",38.219914467253446,-104.6420543076983
+"81004","Pueblo","CO","Safeway","1231 S Prairie Ave","81005",38.2449518,-104.6442216
+"81004","Pueblo","CO","Valley Market","4493 Bent Brothers Blvd","81019",37.944478000000004,-104.83717
+"81005","Pueblo","CO","Walmart Supercenter","78 N Mcculloch Blvd","81007",38.337013673210585,-104.74107913761272
+"81005","Pueblo","CO","First Choice Market","not_available","81089",38.317314,-104.675651
+"81005","Pueblo","CO","Safeway","1017 N Market Plz","81007",38.3257226,-104.6972744
+"81006","Pueblo","CO","La Grees","1158 27th Ln","81006",38.243190999999996,-104.533355
+"81007","Pueblo","CO","Albertsons","1601 Hwy 50 W","81008",38.31090092029302,-104.62795212867604
+"81007","Pueblo","CO","Walmart Grocery Pickup","78 N McCulloch Blvd","81007",38.3396056147059,-104.741993333056
+"81007","Pueblo","CO","Walmart Grocery Pickup & Delivery","4200 Dillon Dr","81008",38.3390090204066,-104.631950407001
+"81020","Aguilar","CO","Charlie's","Main St","not_available",37.50834009404892,-105.00916859714656
+"81020","Aguilar","CO","Safeway","222 W 7th St","81089",37.62260057768046,-104.78298970800398
+"81039","Fowler","CO","Jack's Grocery","214 S Main St","81039",38.130065,-104.024324
+"81050","La Junta","CO","Safeway","315 W 2nd St","81050",37.987246466314865,-103.54774117469788
+"81050","La Junta","CO","Walmart Supercenter","6 Conley Rd","81050",37.998407390893924,-103.59308962578358
+"81050","La Junta","CO","K J Foods Etc","207 Main St","81063",38.21937565421506,-103.75833376689732
+"81052","Lamar","CO","Walmart Supercenter","1432 E Olive St","81052",38.0873085,-102.6020817
+"81052","Lamar","CO","Safeway","906 E Olive St","81052",38.0876772,-102.6081498
+"81054","Las Animas","CO","Thaxton's Market","not_available","81054",38.072471618652344,-103.22040557861328
+"81073","Springfield","CO","Thriftway","165 W 11th Ave","81073",37.40328648792078,-102.61704031999699
+"81082","Trinidad","CO","Walmart Supercenter","2921 Toupal Dr","81082",37.138630962501075,-104.52301637581728
+"81082","Trinidad","CO","Safeway","457 W Main St","81082",37.1672395,-104.5098098
+"81101","Alamosa","CO","Walmart Supercenter","3333 Clark St","81101",37.48151498,-105.9035363
+"81101","Alamosa","CO","City Market","131 Market St","81101",37.4756076,-105.8918687
+"81101","Alamosa","CO","Safeway","1301 Main St","81101",37.4693137,-105.8763895
+"81101","Alamosa","CO","Safeway Fuel","not_available","81101",37.468366,-105.875562
+"81101","Alamosa","CO","Valley Food Co-op","3211 Main St","81101",37.47827911376953,-105.90089416503906
+"81101","Alamosa","CO","Продуктовый","Нежниская 14 Стр. 4","81146",37.564775,-105.750556
+"81120","Antonito","CO","Hometown Food Market","not_available","81120",37.07628088866748,-106.00850044791099
+"81120","Antonito","CO","Jacks Supermarket","301-399 1st St","81140",37.277447333333335,-105.96085961666667
+"81122","Bayfield","CO","Farmers Fresh Market • Deli • RX","535 Goddard Ave","81137",37.115413,-107.6336
+"81132","Del Norte","CO","Rainbow Grocery","30306 US Highway 160","81154",37.66988024469975,-106.63835418144704
+"81132","Del Norte","CO","Rainbow Express","30359 W Hwy 160","81154",37.67006402022214,-106.63759231567381
+"81144","Monte Vista","CO","Safeway","1200 2nd Ave","81144",37.5783959,-106.1421343
+"81147","Pagosa Springs","CO","City Market","165 Country Center Dr","81147",37.25708264903855,-107.07626011159846
+"81147","Pagosa Springs","CO","Walmart Supercenter","211 Aspen Village Drive","81147",37.25974029363291,-107.06333074168545
+"81147","Pagosa Springs","CO","Honest Food & Juice Co.","920 San Juan St","81147",37.26711080025343,-107.01936857233399
+"81147","Pagosa Springs","CO","King Soopers","755 San Juan St","811470000",37.265864,-107.016829
+"81147","Pagosa Springs","CO","King Soopers","63 N Pagosa Blvd","81147",37.255611419677734,-107.07809448242188
+"81149","Saguache","CO","Saguache Town Market","not_available","81149",38.088908,-106.139856
+"81201","Salida","CO","Walmart Supercenter","7865 W Us Highway 50","81201",38.52410003855618,-106.02273323995058
+"81201","Salida","CO","Natural Grocers","200 F St","81201",38.535586,-105.993358
+"81201","Salida","CO","Safeway","232 G St","81201",38.5361539,-105.994306
+"81201","Salida","CO","Sunshine Market","not_available","81201",38.535136,-105.992617
+"81212","Canon City","CO","Safeway","1414 Main St","81212",38.4458292,-105.2281062
+"81212","Canon City","CO","Walmart Supercenter","3105 E Us Highway 50","81212",38.448672697603804,-105.19184113644796
+"81212","Canon City","CO","City Market","1703 Fremont Dr","81212",38.4486835,-105.224137
+"81212","Canon City","CO","King Soopers","1703 Fremont Dr","812122405",38.447726,-105.223304
+"81212","Canon City","CO","Mother Nature's Health Foods","915 Main St","81212",38.443646466666664,-105.23505703333333
+"81220","Cimarron","CO","Whole Foods","N. Academy","81230",38.42452686,-107.35083469
+"81224","Crested Butte","CO","Clarks Market","gothic ave","81224",38.89930202555904,-106.96601262621236
+"81224","Crested Butte","CO","Clark's Market","500 Belleview Ave","81224",38.86675513036798,-106.98209794413862
+"81224","Crested Butte","CO","Mountain Earth","not_available","81224",38.86946084410804,-106.98435359740182
+"81230","Gunnison","CO","The Grocery Store","not_available","81235",38.034479010859876,-107.31010558557067
+"81230","Gunnison","CO","Walmart","900 N Main St","81230",38.554560431508115,-106.92583191139293
+"81230","Gunnison","CO","Safeway","112 S Spruce St","81230",38.543712,-106.9301024
+"81230","Gunnison","CO","City Market","880 N Main St","81230",38.553358,-106.9254521
+"81230","Gunnison","CO","King Soopers","401 W Goriga Av","81230",38.55488154533698,-106.92673859541158
+"81252","Westcliffe","CO","Westcliffe Supermarket","50 Main St","81252",38.13584,-105.471096
+"81301","Durango","CO","Walmart Supercenter","1155 S Camino Del Rio","81303",37.230104197191096,-107.86543140790533
+"81301","Durango","CO","Albertsons","311 W College Dr","81301",37.2717317,-107.885169
+"81301","Durango","CO","City Market","6 Town Plaza Shop Center","81301",37.27422726871424,-107.88237329695892
+"81301","Durango","CO","City Market","3130 Main Ave","81301",37.2998139,-107.8704097
+"81301","Durango","CO","Natural Grocers","1123 Camino del Rio","81301",37.27656356041576,-107.88213324847435
+"81301","Durango","CO","Nature's Oasis","300 S Camino del Rio","81301",37.253012709222254,-107.87569312693688
+"81301","Durango","CO","King Soopers","6 Town Plz","81301",37.274639,-107.88195800000001
+"81301","Durango","CO","Guido's Italian Market and Fine Foods","1201 Main Ave","81301",37.27676703493659,-107.87983693424047
+"81321","Cortez","CO","Walmart Supercenter","1835 E Main St","81321",37.34672013945212,-108.56194965158105
+"81321","Cortez","CO","City Market","508 E Main St","81321",37.3497376,-108.5779612
+"81321","Cortez","CO","Safeway","1580 E Main St","81321",37.3500992,-108.5656188
+"81326","Hesperus","CO","P & D Grocery Store And Deli","230 W Frontage Rd","81328",37.34788513183594,-108.28671264648438
+"81326","Hesperus","CO","Mancos P&D","280 Frontage Road","81328",37.347055737259545,-108.28704997903957
+"81401","Montrose","CO","Safeway","1329 S Townsend Ave","81401",38.4693379,-107.8654164
+"81401","Montrose","CO","Walmart Supercenter","16750 S Townsend Ave","81401",38.44919393,-107.8641921
+"81401","Montrose","CO","City Market","16400 S Townsend Ave","81401",38.4529422,-107.8649512
+"81401","Montrose","CO","City Market","128 S Townsend Ave","81401",38.4765839,-107.8776731
+"81401","Montrose","CO","Natural Grocers","3451 S Rio Grande Ave","81401",38.44646081947173,-107.86817806403039
+"81401","Montrose","CO","Vitamin Cottage","3451 S. Rio Grande Ave.","81401",38.446685791015625,-107.86827087402344
+"81403","Montrose","CO","Season's Harvest","521 clinton st","not_available",38.15262222290039,-107.75688171386719
+"81413","Cedaredge","CO","Cedaredge Food Town","not_available","81413",38.891584898387315,-107.92702792105402
+"81415","Crawford","CO","City Market","215 6th St","81419",38.79960073677122,-107.71249294281012
+"81416","Delta","CO","Walmart Supercenter","37 Stafford Ln","81416",38.74911014637637,-108.05343166628941
+"81416","Delta","CO","Safeway","1550 Highway 92","81416",38.751152,-108.0518035
+"81416","Delta","CO","City Market","122 Gunnison River Dr","81416",38.7477028,-108.0722298
+"81416","Delta","CO","La Esperanza Mexicana Store","460 Main St","81416",38.740923,-108.070594
+"81416","Delta","CO","King Soopers","122 Gunnison Rd","81416",38.75393,-108.035289
+"81425","Olathe","CO","Busy Corner Market/Olathe Grocery","not_available","81425",38.605983,-107.983541
+"81425","Olathe","CO","Moondancer Farm","5621 CO-348","81425",38.60501615759824,-108.02472352981567
+"81427","Ouray","CO","Duckett's Market","621 Main Street","81427",38.023362990940896,-107.67140464949291
+"81430","Placerville","CO","M&M Mercantile","240 Front St, Placerville, CO 81430","81430",38.016771,-108.053103
+"81432","Ridgway","CO","The Market at Mountain Village","Mountain Village Boulevard","81435",37.93243945657568,-107.85389085463055
+"81432","Ridgway","CO","Ridgway Mountain Market","490 Sherman St","81432",38.15121078775793,-107.75598273183586
+"81432","Ridgway","CO","Clark's Market (Telluride)","700 W Colorado Ave","81435",37.93970016816532,-107.81953999063887
+"81432","Ridgway","CO","Pantry","Aspen Ridge","81435",37.935161,-107.849135
+"81501","Grand Junction","CO","Walmart Supercenter","2545 Rimrock Ave","81505",39.07677595,-108.5815287
+"81501","Grand Junction","CO","Safeway","2512 Broadway","81507",39.06682488263275,-108.58839241276655
+"81501","Grand Junction","CO","City Market","2600 N 12th St","81501",39.0908658,-108.5511634
+"81501","Grand Junction","CO","Sprouts Farmers Market","1450 W Independent Ave","81505",39.0805513828055,-108.58631872945946
+"81501","Grand Junction","CO","Walmart Supercenter","2881 North Ave","81501",39.075534923647965,-108.51904341308163
+"81501","Grand Junction","CO","Vitamin Cottage","2464 Hwy 6","81505",39.08683775239589,-108.59203266203073
+"81501","Grand Junction","CO","King Soopers","1909 N 1st St","81501",39.08494186401367,-108.5718765258789
+"81501","Grand Junction","CO","La Mexicana Market","not_available","81501",39.077954,-108.523448
+"81501","Grand Junction","CO","King Soopers","200 Rood Ave","81501",39.0684928894043,-108.56996154785156
+"81501","Grand Junction","CO","Natural Grocers","2464 US Hwy 6 Unit 124","81505",39.08681443889728,-108.59206902787317
+"81501","Grand Junction","CO","Carniceria Sonora","644 North Ave","81501",39.077653000000005,-108.561272
+"81501","Grand Junction","CO","King Soopers","2830 N 2830 N Ave Av","815015367",39.077428,-108.527994
+"81503","Grand Junction","CO","City Market","2770 Highway 50","81503",39.0399389214403,-108.5389833076905
+"81504","Grand Junction","CO","Safeway","681 Horizon Dr","81506",39.1041113,-108.5513177
+"81504","Grand Junction","CO","City Market","569 32 Rd","81520",39.0874879,-108.4614556
+"81504","Grand Junction","CO","Safeway","2901 F Rd","81504",39.0907539,-108.5137592
+"81504","Grand Junction","CO","Walmart Neighborhood Market","541 Warrior Way","81504",39.08347638043238,-108.47402094656444
+"81504","Grand Junction","CO","City Market Grocery Pickup and Delivery","569 32 Rd","81504",39.08743841327889,-108.46145431847779
+"81505","Grand Junction","CO","City Market","630 24 Rd","81505",39.0967536,-108.607045
+"81505","Grand Junction","CO","Filipino/Asian Store","2490 F Rd","81505",39.09253857,-108.59129387
+"81505","Grand Junction","CO","Jenny Craig","not_available","81505",39.08770894986702,-108.59607656609691
+"81505","Grand Junction","CO","Safeway","2148 Broadway","81507",39.08790969848633,-108.65158081054688
+"81521","Fruita","CO","City Market","135 S Plum St","81521",39.1578798,-108.7351464
+"81601","Glenwood Springs","CO","Walmart","3010 Blake Ave","81601",39.521201202215124,-107.3197009178046
+"81601","Glenwood Springs","CO","City Market","1410 Grand Ave","81601",39.538638904196546,-107.32326149940485
+"81601","Glenwood Springs","CO","City Market","1051 Highway 133","81623",39.4031688,-107.2222007
+"81601","Glenwood Springs","CO","King Soopers","850 Castle Valley Blvd","81647",39.56843566894531,-107.51399993896484
+"81601","Glenwood Springs","CO","Vitamin Cottage","100 W Meadows Dr","81601",39.55619971494002,-107.34403594921467
+"81601","Glenwood Springs","CO","Natural Grocers","127 E Meadows Dr","81601",39.555739370531725,-107.34395067124946
+"81601","Glenwood Springs","CO","City Market","905 Highway 133","81623",39.38808059692383,-107.17652130126953
+"81611","Aspen","CO","City Market","711 E Cooper Ave","81611",39.1872372,-106.8160005
+"81611","Aspen","CO","Clark's Market","300 Puppy Smith St","81611",39.192871693637386,-106.8191244482365
+"81611","Aspen","CO","Clarks Market Snowmass Village","016 Kearns Rd","81615",39.211454732614726,-106.94529846660483
+"81611","Aspen","CO","orderfood Aspen -  Restaurant Delivery Service","601 Rio Grande Pl","81611",39.191218,-106.81629299999999
+"81620","Avon","CO","City Market","72 Beaver Creek Place","81620",39.63381930158904,-106.51751137975214
+"81620","Avon","CO","Walmart Supercenter","171 Yoder Avenue","81620",39.627924622178035,-106.50033080127129
+"81620","Avon","CO","King Soopers","260 Beavr Creek Pl","81620",39.634341,-106.518519
+"81620","Avon","CO","City Market Grocery Pickup and Delivery","0072 Beaver Creek Place","81620",39.6338996887207,-106.51793670654297
+"81620","Avon","CO","Health Nuts Natural Foods & Vitamins","not_available","81620",39.627925213414514,-106.50172968718468
+"81620","Avon","CO","R Market","51 Beaver Creek Pl","81620",39.634653,-106.518316
+"81620","Avon","CO","Castanedas Mexican Market","51 Beaver Creek Pl #51","81620",39.63461685180664,-106.51848602294922
+"81621","Basalt","CO","Whole Foods Market","340 Reed Street","81621",39.3867267314159,-107.0827504279398
+"81621","Basalt","CO","City Market","250 E Valley Rd","81623",39.3914438,-107.0870934
+"81621","Basalt","CO","City Market","19250 Colorado 82, Basalt, CO 81621","81621",39.351983355561224,-106.97276360871864
+"81621","Basalt","CO","Clark's Market Basalt","157 Basalt Center Cir","81621",39.367706298828125,-107.03356170654297
+"81624","Collbran","CO","Grand Mesa Corner Market","not_available","81643",39.16611141165366,-108.13896125243014
+"81625","Craig","CO","City Market","505 W Victory Way","81625",40.5150877,-107.5537657
+"81625","Craig","CO","Walmart Supercenter","2000 W Victory Way","81625",40.51223766,-107.5696851
+"81625","Craig","CO","Safeway","1295 Victory Way","81625",40.51510024,-107.56216205
+"81631","Eagle","CO","Edwards Village Market","34295 US Highway 6","81632",39.64315481067699,-106.59160167612967
+"81631","Eagle","CO","City Market","103 Market Street","81631",39.662762245734804,-106.82582437992096
+"81631","Eagle","CO","King Soopers","103 Market Dr","81631",39.661959,-106.826871
+"81631","Eagle","CO","The Supplement Boutique","105 Edwards Village Blvd, Suite G107","81632",39.6443509,-106.5963401
+"81635","Parachute","CO","Clark's Market","not_available","81635",39.44378383158877,-108.02466275242934
+"81635","Parachute","CO","Mi Pueblito Market","144 1st St Unit A","81635",39.45283167,-108.05196333
+"81635","Parachute","CO","TIENDITA EL PAISANO","144 E 1ST ST","81635",39.45289,-108.05216
+"81647","New Castle","CO","Walmart Supercenter","1000 Airport Rd","81650",39.52456091,-107.768395
+"81647","New Castle","CO","City Market","1320 Railroad Ave","81650",39.542327,-107.7826452
+"81647","New Castle","CO","Krogers","Garfield","not_available",39.658477783203125,-107.76361846923828
+"81648","Rangely","CO","Whiteriver Market","not_available","81648",40.086078,-108.803307

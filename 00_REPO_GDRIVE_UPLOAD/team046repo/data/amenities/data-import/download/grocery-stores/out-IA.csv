@@ -1,0 +1,641 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"50003","Adel","IA","Fareway","804 Nile Kinnick Dr S","50003",41.610048623289636,-94.0174147438064
+"50003","Adel","IA","Shugars Super Valu","Nile Kinnick","50003",41.61000717039371,-94.0172309246598
+"50006","Alden","IA","hhometown Foods","not_available","50122",42.44248963388937,-93.39370902365364
+"50009","Altoona","IA","Hy-Vee","108 8th St SW","50009",41.64293477639166,-93.46628440757195
+"50009","Altoona","IA","Walmart Supercenter","3501 8th St Sw","50009",41.646573414592446,-93.50496246991922
+"50009","Altoona","IA","BRICK STREET MARKET","not_available","not_available",41.68967128530428,-93.46209234862302
+"50009","Altoona","IA","Pepper Palace","739 Bass Pro Dr #550","50009",41.65746307373047,-93.51563262939453
+"50009","Altoona","IA","Fareway Grocery Store","620 8th St SE","50009",41.643590506042386,-93.45843560290176
+"50009","Altoona","IA","Fareway","5500 E University Ave","50327",41.599806,-93.505401
+"50010","Ames","IA","Hy-Vee","640 Lincoln Way","50010",42.02004,-93.619606
+"50010","Ames","IA","Walmart Supercenter","534 S Duff Ave","50010",42.01620535461208,-93.60745276289234
+"50010","Ames","IA","Walmart Supercenter","3105 Grand Ave","50010",42.0531034301746,-93.6219612370692
+"50010","Ames","IA","Fareway","3619 Stange Rd","50010",42.057060867286374,-93.64627379156266
+"50010","Ames","IA","Fareway","619 Burnett Ave","50010",42.02750952765469,-93.61612695981906
+"50010","Ames","IA","Wheatsfield Cooperative","413 Northwestern Ave","50010",42.02534218186326,-93.62157026947537
+"50010","Ames","IA","ALDI","108 S 5th St","50010",42.0170354,-93.6122219
+"50010","Ames","IA","John's Natural Foods","328 Main St","50010",42.024819,-93.614977
+"50010","Ames","IA","Fresh Thyme Farmers Market","215 SE 5th St","50010",42.018349634251706,-93.60822021961212
+"50010","Ames","IA","Ames Asian Market","823 Wheeler St","50010",42.05461502075195,-93.62259674072266
+"50014","Ames","IA","Hy-Vee","3800 Lincoln Way","50014",42.02160461799642,-93.66978010162711
+"50014","Ames","IA","Uni Mart","not_available","50014",42.02313995361328,-93.6644515991211
+"50014","Ames","IA","Pammel Grocery","113 Colorado Ave","50014",42.023451778612085,-93.6633617520354
+"50021","Ankeny","IA","Walmart Supercenter","1002 Se National Dr","50021",41.70527195,-93.5844183
+"50021","Ankeny","IA","Target","2135 SE Delaware Ave","50021",41.7094302534344,-93.57870625352164
+"50021","Ankeny","IA","Fareway","109 SE Oralabor Rd","50021",41.701938296452894,-93.59948532782468
+"50021","Ankeny","IA","ALDI","2075 N Ankeny Blvd","50023",41.749043,-93.599479
+"50021","Ankeny","IA","Fareway","3205 N Ankeny Blvd","50023",41.75744603758451,-93.59955299393035
+"50021","Ankeny","IA","Grand European Market","635 S Ankeny Blvd","50023",41.72414779663086,-93.59977722167969
+"50022","Atlantic","IA","Walmart Supercenter","1905 E 7th St","50022",41.40181414145986,-94.98570137667669
+"50022","Atlantic","IA","Hy-Vee","1630 E 7th St","50022",41.404527,-94.989408
+"50022","Atlantic","IA","Casey's General Store","701 Poplar St","50022",41.40367090336066,-95.01497499432942
+"50022","Atlantic","IA","Fareway","301 Poplar St","50022",41.40787858996095,-95.01523952966234
+"50023","Ankeny","IA","Hy-Vee","2510 SW State St","50023",41.70511,-93.623701
+"50023","Ankeny","IA","Hy-Vee","410 North Ankeny Boulevard","50023",41.73450197,-93.60253601
+"50025","Audubon","IA","Audubon Foods","104 Market St","50025",41.723472595214844,-94.9356918334961
+"50028","Baxter","IA","Hometown Foods","103 N Main St","50028",41.82672882080078,-93.15120697021484
+"50036","Boone","IA","Walmart Supercenter","1515 S.e. Marshall St","50036",42.03645422079056,-93.87007004520736
+"50036","Boone","IA","Fareway","1711 Hawkeye Dr","50036",42.03790494222317,-93.86721325139808
+"50036","Boone","IA","Hy-Vee","1111 8th St","50036",42.06480628123989,-93.87611791491508
+"50036","Boone","IA","Walmart Grocery Pickup","1515 SE Marshall St","50036",42.0350885140562,-93.8705689156626
+"50047","Carlisle","IA","Carlisle Foods","190 N 1st St","50047",41.499352,-93.48738399999999
+"50049","Chariton","IA","Hy-Vee","2001 Court Ave","50049",41.016031,-93.322952
+"50049","Chariton","IA","Schmucker's Bulk Foods","54359 State Highway 14","50049",41.107929,-93.254757
+"50054","Colfax","IA","Shugar's Supervalu","28 E Howard St","50054",41.67815241033552,-93.24431345589379
+"50058","Coon Rapids","IA","Frohlich's","403 Main St","50058",41.87116241455078,-94.67659759521484
+"50060","Corydon","IA","Hy-Vee Mainstreet","103 E Jackson St","50060",40.758867,-93.317624
+"50060","Corydon","IA","D And E Bent And Dent","County Road S50","52590",40.637767910957336,-93.18404495716095
+"50063","Dallas Center","IA","Hy-Vee","1005 Hickman Road","50263",41.6174161,-93.85433482
+"50065","Davis City","IA","Hy-Vee","101 East Main Street","50140",40.62350038,-93.933057
+"50070","Dexter","IA","Hometown Foods","607 S Division St","50250",41.497843345909885,-94.31786580752674
+"50071","Dows","IA","Dows Grocery","not_available","50071",42.66139221191406,-93.50987243652344
+"50111","Grimes","IA","Walmart Supercenter","2150 E 1st St","50111",41.685805484875694,-93.77140555628024
+"50111","Grimes","IA","Fareway","351 SE Gateway Dr","50111",41.68652438728147,-93.77904307911615
+"50111","Grimes","IA","ALDI","2055 East 1st St","50111",41.6888638,-93.772225
+"50112","Grinnell","IA","Walmart Supercenter","415 Industrial Ave","50112",41.72197765719734,-92.73062154969004
+"50112","Grinnell","IA","Hy-Vee","320 West St S","50112",41.728066,-92.725098
+"50112","Grinnell","IA","Fareway","727 West St","50112",41.74117607199919,-92.7280892161134
+"50112","Grinnell","IA","McNally's Foods","1026 Main St","50112",41.745750610596765,-92.72561789676446
+"50112","Grinnell","IA","Mcnally's Deli","not_available","50112",41.745697,-92.72533
+"50115","Guthrie Center","IA","Hometown Foods","200 Main Street","not_available",41.67463797749449,-94.50370464371146
+"50123","Humeston","IA","Front Street Market","105 S Front St","50123",40.858177185058594,-93.4996566772461
+"50125","Indianola","IA","Hy-Vee","910 N Jefferson Way","50125",41.36866075726128,-93.55650454759598
+"50125","Indianola","IA","Walmart Supercenter","1500 N Jefferson Way","50125",41.37297919808127,-93.55624066830265
+"50125","Indianola","IA","Fareway","1309 W 2nd Ave","50125",41.35606756841016,-93.57929559722433
+"50126","Iowa Falls","IA","Hy-Vee","632 S Oak St","50126",42.508619,-93.260919
+"50126","Iowa Falls","IA","Walmart","840 S Oak St","50126",42.50200338,-93.26105118
+"50129","Jefferson","IA","Fareway","1207 N Elm St","50129",42.026772060358,-94.37702461458017
+"50129","Jefferson","IA","Better for You Bakery","303 S Maple St","50129",42.0132535,-94.38002019999999
+"50131","Johnston","IA","Hy-Vee","5750 Merle Hay Rd","50131",41.665053,-93.69944
+"50131","Johnston","IA","Fareway","6005 Merle Hay Rd","50131",41.66994205999591,-93.6966518719957
+"50131","Johnston","IA","Hyvee Johnston","5740 Merle Hay Rd","50131",41.664162,-93.698895
+"50138","Knoxville","IA","Walmart Supercenter","814 W Bell Ave","50138",41.30514986,-93.10687827
+"50138","Knoxville","IA","Hy-Vee","809 W Rock Island St","50138",41.3260142203073,-93.10765336647007
+"50138","Knoxville","IA","Fareway","1308 S Lincoln St","50138",41.30804226506354,-93.11010343813125
+"50138","Knoxville","IA","SolarDrops Vapor Co.","903 N Highway 5 Business Suite 3","50225",41.38751220703125,-93.266357421875
+"50138","Knoxville","IA","Pleasantville Grocery","104 W Monroe St","50225",41.38698196411133,-93.26956176757812
+"50144","Leon","IA","Hy-Vee","1004 W 1st St","50144",40.740368,-93.757805
+"50144","Leon","IA","Beachy's General Store","not_available","50144",40.740454,-93.747218
+"50153","Lynnville","IA","Casey's General Store","807 1St St","50251",41.58138375920866,-92.84431373675037
+"50156","Madrid","IA","Market Of Madrid","301 Annex Rd","50156",41.87897145506447,-93.81515133378916
+"50158","Marshalltown","IA","Walmart Supercenter","2802 S Center St","50158",42.01199661,-92.91047573
+"50158","Marshalltown","IA","Hy-Vee","802 S Center St, Ste 2, Ste 2","50158",42.03901684,-92.91048554
+"50158","Marshalltown","IA","Fareway","102 W Anson St","50158",42.037402,-92.914709
+"50158","Marshalltown","IA","Casey's General Store","1402 S 12Th Ave","50158",42.031674469271486,-92.89272024190629
+"50158","Marshalltown","IA","Karen Grocery Store","not_available","50158",42.049441,-92.909695
+"50158","Marshalltown","IA","ALDI","2405 S Center St","50158",42.01698277805454,-92.91355601171739
+"50158","Marshalltown","IA","Casey's General Store","1201 Iowa Ave W","50158",42.00761642059795,-92.93226155727879
+"50158","Marshalltown","IA","Haley's Grocery","501 N 3rd Ave","50158",42.05550584410204,-92.90781174031135
+"50158","Marshalltown","IA","Abarrotes La Salud","17 N 1st St","50158",42.049942,-92.914752
+"50158","Marshalltown","IA","Abarrotes Villachuato","31 N 1st Ave","50158",42.05022968,-92.91132079
+"50170","Monroe","IA","Monroe Foods","216 N Monroe St","50170",41.522995,-93.102248
+"50170","Monroe","IA","PCM Food Pantry","113 N Main St","50170",41.522178649902344,-93.10018920898438
+"50170","Monroe","IA","prairie city foods","120 E Jefferson St","50228",41.59849154954504,-93.23530197143555
+"50171","Montezuma","IA","Montezuma Food Pantry","106 First Circle V Drive","50171",41.58992004394531,-92.52799987792969
+"50171","Montezuma","IA","SuperValu","201 S Front St.","50171",41.58414997408449,-92.52686428052799
+"50201","Nevada","IA","Fareway","1505 S B Ave","50201",42.01044615805724,-93.43978237207637
+"50207","New Sharon","IA","East Market Grocery & Deli","114 E Market St","50207",41.46968098694639,-92.65065072727008
+"50208","Newton","IA","Walmart Supercenter","300 Iowa Speedway Dr","50208",41.697198500159814,-93.01198962204403
+"50208","Newton","IA","Hy-Vee","1501 1st Ave E","50208",41.696795,-93.033943
+"50208","Newton","IA","Fareway","100 N 3rd Ave W","50208",41.70169878267984,-93.05287450758497
+"50211","Norwalk","IA","Fareway","1711 Sunset Dr","50211",41.483795100734056,-93.676443607782
+"50211","Norwalk","IA","Fareway grocery store","not_available","50211",41.48382113967278,-93.6767016717855
+"50212","Ogden","IA","Clark's Food Mart","302 W Walnut St","50212",42.038796999999995,-94.031196
+"50213","Osceola","IA","Walmart Supercenter","2400 College Dr","50213",41.02338398196428,-93.80011011386063
+"50213","Osceola","IA","Fareway","215 S Main St","50213",41.032398,-93.76475
+"50213","Osceola","IA","Hy-Vee Grocery","510 W McLane St","50213",41.029,-93.773138
+"50216","Panora","IA","Hometown Foods","not_available","50216",41.69174096723082,-94.35756925817503
+"50216","Panora","IA","Panora Hometown Foods","601 E Main St","not_available",41.69238008880797,-94.35734585211613
+"50219","Pella","IA","Hy-Vee","118 Southeast 9th Street","50219",41.396002,-92.902322
+"50219","Pella","IA","Walmart Supercenter","1650 Washington St","50219",41.41254036479498,-92.93360848363507
+"50219","Pella","IA","Fareway","2010 Washington St","50219",41.413033182210555,-92.94162925053813
+"50220","Perry","IA","Hy-Vee","1215 141st St","50220",41.828859,-94.103663
+"50220","Perry","IA","Fareway","1315 Willis Ave","50220",41.83803311305593,-94.10323795770546
+"50220","Perry","IA","Oasis Grocery Store","not_available","50220",41.837057,-94.105023
+"50220","Perry","IA","El Rey Market, Restaurant & Guns","210 Willis Ave","50220",41.838602391266555,-94.1205596923828
+"50226","Polk City","IA","Fareway","1101 S 5th St","50226",41.76396921445827,-93.71887138990542
+"50244","Slater","IA","Town & Country Market","308 Main St","50244",41.882554999999996,-93.681735
+"50248","Story City","IA","Harlan's Food Mart","306 Washington St","50248",42.18543,-93.599899
+"50263","Waukee","IA","ALDI","1030 E. Hickman Rd.","50263",41.61429977416992,-93.85498809814453
+"50263","Waukee","IA","Fareway","200 Laurel St","50263",41.613118492835184,-93.86790724021601
+"50265","West Des Moines","IA","Hy-Vee","555 S 51st St","50265",41.5611478143187,-93.77482053639142
+"50265","West Des Moines","IA","Hy-Vee","1990 Grand Avenue","50265",41.57095149,-93.72951625
+"50265","West Des Moines","IA","Walmart Supercenter","1001 73rd St","50324",41.597216312509076,-93.71447423699996
+"50265","West Des Moines","IA","Whole Foods Market","4100 University Ave","50266",41.59811503188591,-93.76106140178845
+"50265","West Des Moines","IA","Hy-Vee","1700 Valley West Dr","50266",41.597675469740246,-93.75393359169374
+"50265","West Des Moines","IA","Fareway","329","not_available",41.58367780958246,-93.70685718020434
+"50265","West Des Moines","IA","Fresh Thyme Farmers Market","2900 University Avenue","50266",41.5994068,-93.7444434
+"50265","West Des Moines","IA","Trusty African Market","not_available","50324",41.600132,-93.714477
+"50265","West Des Moines","IA","Lola's Fine Sauces","2041 Grand Ave Ste C","50265",41.568253,-93.734862
+"50265","West Des Moines","IA","European Flavors","1150 73rd St","50324",41.59990310668945,-93.71818542480469
+"50265","West Des Moines","IA","maria groceries indian supermarket","not_available","50311",41.599676,-93.717054
+"50265","West Des Moines","IA","La Michoacana","433 5th St","50265",41.575182,-93.708515
+"50266","West Des Moines","IA","Hy-Vee","1725 Jordan Creek Pkwy","50266",41.59792839160392,-93.80757952127169
+"50266","West Des Moines","IA","Walmart Supercenter","6365 Stagecoach Dr","50266",41.55874045,-93.79729986
+"50266","West Des Moines","IA","Trader Joe's","6305 Mills Civic Pkwy","50266",41.56184861267423,-93.79381952345922
+"50266","West Des Moines","IA","ALDI","6050 Mills Civic Pkwy","50266",41.558341051577955,-93.79246652126312
+"50266","West Des Moines","IA","Hy-Vee","7105 Mills Civic Pkwy","50266",41.564915,-93.805489
+"50266","West Des Moines","IA","ShoppingList","1221 65th St","50266",41.58911175815687,-93.79616260528564
+"50273","Winterset","IA","Hy-Vee","923 North 1st Avenue","50273",41.342595,-94.01210143
+"50273","Winterset","IA","Fareway","719 W Highway 92","50273",41.34566104312071,-94.0223479270935
+"50276","Woodward","IA","A.J.'s Grocery","209 S Main St","50276",41.85627365112305,-93.92160034179688
+"50309","Des Moines","IA","Hy-Vee","420 Court Ave","50309",41.584542202831,-93.62217111243133
+"50309","Des Moines","IA","Gateway Market & Cafe","2002 Woodland Ave","50312",41.587880194191484,-93.64413222024096
+"50309","Des Moines","IA","Graziano Bros","1601 South Union St","50315",41.575751,-93.614896
+"50309","Des Moines","IA","New Oriental Food Store","515 E Grand Ave","50309",41.590734436233305,-93.6108936634342
+"50309","Des Moines","IA","asian market","not_available","50314",41.59065701277343,-93.61076159583958
+"50309","Des Moines","IA","Des Moines Area Religious Council","1435 Mulberry St","50309",41.582894,-93.635427
+"50310","Des Moines","IA","Hy-Vee","3330 Martin Luther King Junior Parkway","50310",41.62560243,-93.65288783
+"50310","Des Moines","IA","La Tapatia 2","3424 Merle Hay Rd","50310",41.626034864960715,-93.69809706252813
+"50310","Des Moines","IA","Saigon Market","2501 Euclid Ave","50310",41.62834337477706,-93.65179269181496
+"50310","Des Moines","IA","Golden Land Food Mart","2740 Douglas Ave","50310",41.628582,-93.65574
+"50310","Des Moines","IA","New City Market","4721 University Ave","50311",41.60055122785114,-93.68237452012252
+"50310","Des Moines","IA","Spike's Spot","Drake University","50311",41.60298448057652,-93.65720591146261
+"50312","Des Moines","IA","Price Chopper","3425 Ingersoll Ave","50312",41.587500464012685,-93.66334393188568
+"50313","Des Moines","IA","Fareway","100 E Euclid Ave","50313",41.628938278925794,-93.6180926850861
+"50313","Des Moines","IA","Aldi","3940 E 14th St","50313",41.63252311194253,-93.60130390743507
+"50313","Des Moines","IA","Cash Saver Food Outlet","1320 E Euclid Ave","50313",41.628539319636715,-93.60243049890495
+"50313","Des Moines","IA","Linn's Supermarket","not_available","50313",41.62976628653155,-93.62464878254417
+"50313","Des Moines","IA","Food Bank Of Iowa","2220 E.17th S","50316",41.614391,-93.59231
+"50313","Des Moines","IA","Todd's Ltd.","4413 NE 14th St","50313",41.641166,-93.599147
+"50314","Des Moines","IA","C Fresh Market","801 University Ave","50314",41.60114172283848,-93.6277009038086
+"50314","Des Moines","IA","Double Dragon Food Market","1537 2nd Ave","50314",41.60701716727351,-93.6196380231426
+"50314","Des Moines","IA","Des Moines Asian Foods","1623 6th Ave","50314",41.60857642099754,-93.62535471286226
+"50314","Des Moines","IA","Mexican Market","1456 2nd Ave","50314",41.605340000000005,-93.620126
+"50314","Des Moines","IA","La Tapatia 4","1606 6th Ave","50314",41.608045000000004,-93.626009
+"50315","Des Moines","IA","Hy-Vee","4605 Fleur Dr","50321",41.542338,-93.642847
+"50315","Des Moines","IA","Hy-Vee","1107 East Army Post Road","50315",41.52526107,-93.60247547
+"50315","Des Moines","IA","Fareway","4313 Fleur Dr","50321",41.54532103239334,-93.64389437116212
+"50315","Des Moines","IA","B&B Grocery Meat & Deli","2001 SE 6th St","50315",41.56986760957209,-93.6050744420751
+"50315","Des Moines","IA","Cash Saver Food Outlet","4121 Fleur Dr","50321",41.54680761510547,-93.6439022381835
+"50315","Des Moines","IA","Save-A-Lot","3200 SW 9th St","50315",41.55504881340117,-93.62667771146656
+"50315","Des Moines","IA","Hot Tamale Catering LLC","400 Fleetwood Dr","50315",41.552157,-93.608915
+"50315","Des Moines","IA","ALDI","3490 NE 14th St","50313",41.53413009719963,-93.59731000082537
+"50315","Des Moines","IA","ALDI","5512 SE 14th St","50320",41.53432481304144,-93.59756255092617
+"50315","Des Moines","IA","Walmart Grocery Pickup","5101 SE 14th St","50320",41.5379912614591,-93.5968235836108
+"50316","Des Moines","IA","La Tapatia","1440 Des Moines St","50316",41.59548123730464,-93.59644571950693
+"50316","Des Moines","IA","Jung's Oriental Food Store","1140 E 9th St","50316",41.599716,-93.60708100000001
+"50316","Des Moines","IA","La Favorita","not_available","50316",41.595385,-93.589681
+"50317","Des Moines","IA","Hy-Vee","2540 East Euclid Avenue","50317",41.62880070606097,-93.56981366872787
+"50317","Des Moines","IA","Hy-Vee","4815 Maple Dr","50327",41.597251,-93.519583
+"50317","Des Moines","IA","Hy-Vee","3221 Southeast 14th Street","50320",41.55462754,-93.5947109
+"50317","Des Moines","IA","Dahls Parking Lot Hubbell Ave","not_available","50317",41.625266,-93.552491
+"50317","Des Moines","IA","ALDI","2543 E University Ave","50317",41.5999325,-93.5687939
+"50317","Des Moines","IA","Fareway","3000 SE 22nd St","50320",41.556329621401694,-93.57812259155935
+"50320","Des Moines","IA","Walmart Supercenter","5101 Se 14th St","50320",41.53692260761724,-93.59380427626996
+"50322","Urbandale","IA","Hy-Vee","8701 Douglas Ave","50322",41.630748744905254,-93.73911201953888
+"50322","Urbandale","IA","Aldi","8400 Douglas Ave","50322",41.62834094138463,-93.73304083943367
+"50322","Urbandale","IA","Fareway","8450 Meredith Dr","50322",41.64316140206536,-93.7346109981006
+"50322","Urbandale","IA","Natural Grocers","8650 Hickman Road","50325",41.61449819320368,-93.73677214863255
+"50322","Urbandale","IA","Konark Grocers","not_available","50322",41.630476,-93.756575
+"50322","Urbandale","IA","Ado Import","1985 NW 94th St","50325",41.611152000000004,-93.746617
+"50322","Urbandale","IA","Super Mercado de Bella","6808 Douglas Ave","50322",41.629038,-93.710114
+"50322","Urbandale","IA","La Preferida","1800 NW 86th St Ste 13","50325",41.608272,-93.737276
+"50324","Windsor Heights","IA","Hy-Vee","7101 University Ave","50324",41.600919,-93.71572
+"50325","Clive","IA","Fareway","10151 University Ave","50325",41.60275404743815,-93.75655946594706
+"50325","Clive","IA","Nutrition Marketplace","8812 Swanson Blvd","50325",41.60578536987305,-93.73858642578125
+"50401","Mason City","IA","Hy-Vee","2400 4th St SW","50401",43.14963018108826,-93.23547095060349
+"50401","Mason City","IA","Fareway","400 N Delaware Ave","50401",43.15596616409333,-93.20042252540588
+"50401","Mason City","IA","ALDI","520 Village Green Dr SW","50401",43.146530436857056,-93.2502231001854
+"50401","Mason City","IA","Walmart Supercenter","4151 4th St Sw","50401",43.14565362149368,-93.26253469371771
+"50401","Mason City","IA","MBM  Corporation","1811 19th St SW","50401",43.133033752441406,-93.22950744628906
+"50401","Mason City","IA","Martin Brothers","701-799 U.S. 65","50401",43.143982683333334,-93.20074596666667
+"50401","Mason City","IA","Hy-Vee","551 S Illinois Ave","50401",43.146768112263636,-93.16935436160357
+"50421","Belmond","IA","fareway","not_available","50421",42.84550977076693,-93.61399645029641
+"50424","Buffalo Center","IA","Johnson Food Center","N Main Street","50424",43.38235993995726,-93.94831671534381
+"50428","Clear Lake","IA","Fareway","910 US Highway 18 W","50428",43.1429504505862,-93.40048825558918
+"50428","Clear Lake","IA","Payless Foods","not_available","50428",43.13610675770445,-93.37978912166892
+"50428","Clear Lake","IA","Payless Foods","20 S 4th St","50428",43.13610443876509,-93.37980294866054
+"50430","Corwith","IA","Corwith Farm Service (CFS)","not_available","50430",42.993002868234484,-93.95761832586602
+"50430","Corwith","IA","Titonka Food Center","Main St, Titonka, IA 50480","50480",42.9954048097809,-93.9558156344159
+"50436","Forest City","IA","Forest City Foods","145 E L St","50436",43.26570396564456,-93.63726979238862
+"50436","Forest City","IA","Bill's Family Foods","315 Highway 69 N","50436",43.26590863779919,-93.63166386077434
+"50436","Forest City","IA","Hy-Vee","315 US Hwy 69","50436",43.26615680725264,-93.63136066235842
+"50438","Garner","IA","Hy-Vee","255 Highway 18 W","50438",43.10547095338828,-93.60394274295646
+"50438","Garner","IA","Bill's Family Foods","255 US 18","50438",43.10536121674659,-93.6033203840021
+"50441","Hampton","IA","Fareway","309 Central Ave W","50441",42.7421361474525,-93.21163416949311
+"50441","Hampton","IA","Hy-Vee","808 4th St SE","50441",42.74388122558594,-93.20574951171875
+"50441","Hampton","IA","El Valle Mexican Store","not_available","50441",42.742656096802286,-93.21053503522005
+"50441","Hampton","IA","Casey's General Store","719 4Th St Ne","50441",42.74888860249391,-93.20188961389104
+"50447","Kanawha","IA","kanawha grocery","not_available","50447",42.935970306396484,-93.79281616210938
+"50450","Lake Mills","IA","David's Grocery","main street","50450",43.41947614386017,-93.53365302841216
+"50459","Northwood","IA","Fallgatter's Market","98 7th St N","50459",43.44481727006709,-93.22269450756514
+"50459","Northwood","IA","Northwood Foods","1105 8th St N","50459",43.4562,-93.21923
+"50501","Fort Dodge","IA","Hy-Vee","115 South 29th Street","50501",42.50471045,-94.15596821
+"50501","Fort Dodge","IA","Fareway","1231 1st Ave S","50501",42.504663530009154,-94.18161476476969
+"50501","Fort Dodge","IA","Walmart Supercenter","3036 1st Ave S","50501",42.50654174,-94.15415817
+"50501","Fort Dodge","IA","ALDI","2736 1st Ave S","50501",42.5058097,-94.1590608
+"50501","Fort Dodge","IA","Sara Lee bread store","1924 Central Ave, Fort Dodge, IA 50501","50501",42.4931757260552,-94.17369690909825
+"50501","Fort Dodge","IA","Sun Market & Deli","2023 5th Ave S","50501",42.50068283081055,-94.1697998046875
+"50501","Fort Dodge","IA","Shaklee Product Distribution","721 B St","50501",42.494368,-94.205155
+"50511","Algona","IA","Hy-Vee","1500 U.S. 169","50511",43.08121988,-94.23451943
+"50511","Algona","IA","Fareway","1905 Highway 18 E","50511",43.083691535200465,-94.21378254890442
+"50517","Bancroft","IA","Bancroft Food Center","112 Ramsey Street","50517",43.29269790649414,-94.21724700927734
+"50517","Bancroft","IA","Hager Foods","112 E Ramsey St","50517",43.29269790649414,-94.21724700927734
+"50533","Eagle Grove","IA","Fareway","205 NW 1st St","50533",42.665573155891245,-93.90388256645655
+"50536","Emmetsburg","IA","Fareway","2008 12th St","50536",43.108849535121955,-94.6774320288302
+"50536","Emmetsburg","IA","Dollar Fresh","3402 Main St","50536",43.111106872558594,-94.69342041015625
+"50543","Gowrie","IA","Market On Market","1119 Market St","50543",42.28023910522461,-94.2894515991211
+"50548","Humboldt","IA","Hy-Vee","611 10th Ave N","50548",42.732748,-94.216975
+"50548","Humboldt","IA","Fareway","710 1st Ave N","50548",42.72137451171875,-94.21865844726562
+"50554","Laurens","IA","Laurens Food Pride","410 W Main St","50554",42.846835393870464,-94.85325614574111
+"50563","Manson","IA","Affiliated Food Stores of Manson","1101 Main St","50563",42.53025886237215,-94.534123284441
+"50574","Pocahontas","IA","Wood's Supermarket","108 W Elm Ave","50574",42.73300689143734,-94.67134490148597
+"50579","Rockwell City","IA","South Side Grocery","319 Court St","50579",42.39427947998047,-94.6324462890625
+"50588","Storm Lake","IA","Hy-Vee","1250 Lake Avenue North","50588",42.65376739,-95.2032714
+"50588","Storm Lake","IA","Walmart Supercenter","1831 Lake Ave","50588",42.66404583073738,-95.19733707890074
+"50588","Storm Lake","IA","Fareway","400-498 E 7th St","50588",42.64671003138856,-95.1962652629984
+"50588","Storm Lake","IA","Tienda Morelos","516 W Milwaukee Ave","50588",42.64764720079666,-95.20597689123134
+"50595","Webster City","IA","Fareway","942 2nd St","50595",42.46919,-93.827448
+"50595","Webster City","IA","Hy-Vee","823 2nd St","50595",42.47078984941582,-93.82552704846603
+"50601","Ackley","IA","Ackley Super Foods","301-399 Cerro Gordo St","50601",42.55394430468447,-93.05536286615691
+"50606","Arlington","IA","edgewood locker west","not_available","50606",42.75977261701336,-91.70809815208455
+"50613","Cedar Falls","IA","Walmart Supercenter","525 Brandilynn Blvd","50613",42.486055042749605,-92.43978023529053
+"50613","Cedar Falls","IA","Hy-Vee","6301 University Ave","50613",42.51083791,-92.43568421
+"50613","Cedar Falls","IA","Hy-Vee","2834 Ansborough Ave","50701",42.471499425262806,-92.3771721124649
+"50613","Cedar Falls","IA","Hy-Vee","2181 Logan Ave","50703",42.53029864227636,-92.33826759440083
+"50613","Cedar Falls","IA","Fareway","214 N Magnolia Dr","50613",42.53924328764033,-92.47560556823741
+"50613","Cedar Falls","IA","Fareway","not_available","50613",42.49733,-92.44466
+"50613","Cedar Falls","IA","Fareway","40 W San Marnan Dr","50701",42.45886819093123,-92.35832677956567
+"50613","Cedar Falls","IA","Hometown Foods","900-1098 Mitchell Ave","50702",42.476287498906494,-92.34302510838211
+"50613","Cedar Falls","IA","ALDI","6322 University Ave","50613",42.51426672497227,-92.4337293472214
+"50613","Cedar Falls","IA","byron ave hyvee","not_available","50702",42.47520865953409,-92.34483246345772
+"50613","Cedar Falls","IA","Schwan's","422 Performance Dr","50613",42.47459460719368,-92.44989064373475
+"50613","Cedar Falls","IA","Moment In Thyme","819 Longview St","50613",42.5547277,-92.4555768
+"50613","Cedar Falls","IA","Frugal Finds","not_available","50701",42.49334716796875,-92.34058380126953
+"50613","Cedar Falls","IA","Public Market","327 W 3rd St","50701",42.495069636330186,-92.34326127930046
+"50613","Cedar Falls","IA","Zabiha Market","2112 Kimball Ave","50702",42.470489501953125,-92.35709381103516
+"50613","Cedar Falls","IA","Byron Supermarket","306 Byron Ave","50702",42.48005,-92.35313
+"50613","Cedar Falls","IA","Hy-Vee","4000 University Ave","50701",42.506969,-92.40349
+"50616","Charles City","IA","Hy-Vee","901 Kelly St","50616",43.067072,-92.675046
+"50616","Charles City","IA","Fareway","210 11th St","50616",43.05226896632229,-92.67467568520456
+"50619","Clarksville","IA","K & S Grocery","402 N Main St","50619",42.78521954659272,-92.66663548817809
+"50627","Eldora","IA","Hy-Vee","1616 Edgington Ave","50627",42.361201,-93.103705
+"50629","Fairbank","IA","Carter Discount Groceries","1153 Carter Ave","50629",42.61947250366211,-92.04515075683594
+"50629","Fairbank","IA","Detweiler Grocery (Amish)","not_available","50641",42.559282242267024,-91.98427002726517
+"50635","Gladbrook","IA","Elwood Miller Grain Farms, Inc.","1669 110th St","50669",42.284347,-92.637744
+"50638","Grundy Center","IA","Family Foods","15th St","50638",42.36128632132564,-92.78221405121006
+"50643","Hudson","IA","Randall's Stop & Shop","320 5th St","50643",42.40620549723843,-92.45483803112087
+"50644","Independence","IA","Walmart Supercenter","302 Enterprise Dr","50644",42.45194214624259,-91.8931811043622
+"50644","Independence","IA","Fareway","1400 3rd Ave SE","50644",42.45613234348079,-91.8890874619167
+"50651","La Porte City","IA","Thriftway","300 4th St","50651",42.3165397644043,-92.19033813476562
+"50659","New Hampton","IA","Fareway","102 S Water Ave","50659",43.05820976213142,-92.312050355419
+"50662","Oelwein","IA","Fareway","102 2nd St SE","50662",42.67482481076143,-91.91123675620163
+"50662","Oelwein","IA","Hy-Vee","1345 S Frederick Ave","50662",42.677181243896484,-91.91288757324219
+"50665","Parkersburg","IA","Brothers Market","not_available","50665",42.57451185089995,-92.78644355652331
+"50666","Plainfield","IA","The Oak Tree, Inc.","708 Main St.","50666",42.84716367,-92.53724402
+"50666","Plainfield","IA","The Co-op","Badger Ave","not_available",42.77511125068008,-92.52142514582418
+"50669","Reinbeck","IA","Trunck's Country Foods","606 Grundy Ave","not_available",42.32539749145508,-92.60130310058594
+"50674","Sumner","IA","Schemmel's Family Foods","Second","not_available",42.8478530963631,-92.09870471508013
+"50675","Traer","IA","Traer supermart","not_available","50675",42.196503122502655,-92.46551197243828
+"50677","Waverly","IA","Hy-Vee","1311 4th St SW","50677",42.712063,-92.473485
+"50677","Waverly","IA","Walmart Supercenter","2700 4th St Sw","50677",42.701617565179966,-92.47940659043788
+"50677","Waverly","IA","Fareway","222 W Bremer Ave","50677",42.726612291438656,-92.47416359334707
+"50701","Waterloo","IA","Hy-Vee","1422 Flammang Dr","50702",42.458284,-92.327659
+"50701","Waterloo","IA","Walmart Supercenter","1334 Flammang Dr","50702",42.45901019630895,-92.33029236302694
+"50701","Waterloo","IA","ALDI","1918 Schukei Rd","50702",42.46226341842952,-92.33158931136131
+"50701","Waterloo","IA","Fareway","215 S Evans Rd","50707",42.475641003294676,-92.28692352116137
+"50701","Waterloo","IA","MoneyGram","1975 Franklin St","50703",42.49565124511719,-92.31520080566406
+"50701","Waterloo","IA","Waterloo General Market, Inc","822 Laporte Rd","50702",42.4776611328125,-92.32335662841797
+"50701","Waterloo","IA","Save More Food","not_available","50703",42.49502,-92.317955
+"50801","Creston","IA","Walmart Supercenter","806 Laurel St","50801",41.045601071799766,-94.37286177300398
+"50801","Creston","IA","Hy-Vee","600 Sheldon St","50801",41.052336,-94.373449
+"50801","Creston","IA","Fareway","105 E Adams St","50801",41.058223,-94.360589
+"50833","Bedford","IA","Hy-Vee","1604 Bent St","50833",40.676216,-94.72666
+"50841","Corning","IA","Hy-Vee Pharmacy","300 10th St","50841",40.99211572,-94.73258935
+"50849","Greenfield","IA","Fareway","212 SW Kent St","50849",41.30253,-94.463965
+"50854","Mount Ayr","IA","Hy-Vee Pharmacy","406 South Hayes Street","50854",40.71175696,-94.23277158
+"51001","Akron","IA","Maynards","not_available","51001",42.828674517716,-96.5594194635187
+"51003","Alton","IA","Fareway","512 8th St SE","51041",42.99719186838493,-96.05247346955679
+"51006","Battle Creek","IA","Colbert's Market","not_available","51019",42.315002911204196,-95.6032205457317
+"51012","Cherokee","IA","Hy-Vee","800 North 2nd Street","51012",42.76082858,-95.5507354
+"51012","Cherokee","IA","Hy-Vee Gas","1300 North 2nd Street","51012",42.76558396,-95.5510639
+"51012","Cherokee","IA","Fareway","205 W Bluff St","51012",42.754241943359375,-95.55189514160156
+"51012","Cherokee","IA","The Mother Hen","113 E Main St","51012",42.7493989,-95.550539
+"51019","Danbury","IA","Fiesta Foods","not_available","51034",42.16745225848836,-95.79237974299807
+"51023","Hawarden","IA","Fiesta foods","not_available","51023",42.99494183475203,-96.48744298939629
+"51031","Le Mars","IA","Hy-Vee","1201 12th Ave SW","51031",42.777959,-96.184669
+"51031","Le Mars","IA","Walmart Supercenter","1111 Holton Dr","51031",42.781768464124625,-96.18745149029186
+"51031","Le Mars","IA","Fareway","18 1st Ave NE","51031",42.79359919634198,-96.16415245027858
+"51031","Le Mars","IA","Sunshine Natural Foods","13 Central Ave NW, Le Mars, IA 51031","51031",42.793262912400074,-96.16619152189432
+"51035","Marcus","IA","Jeff's Food","110 E Cedar St","51035",42.82569009573713,-95.80858596765964
+"51040","Onawa","IA","Fiesta Foods","1002 11th St","51040",42.02639164213141,-96.09945058822632
+"51050","Remsen","IA","Majeres Foodtown","306 S Washington St","51050",42.81324958942163,-95.97331051717121
+"51053","Schaller","IA","Hometown Foods","not_available","51053",42.49948358949892,-95.2935613738104
+"51054","Sergeant Bluff","IA","Walmart Supercenter","3400 Singing Hills Blvd","51106",42.433846627917376,-96.36357793496865
+"51054","Sergeant Bluff","IA","Fareway","700 1st St","51054",42.39999332235819,-96.3531568614599
+"51101","Sioux City","IA","Great Wall Oriental Food Store","405 Perry St","51103",42.496778000000006,-96.412327
+"51101","Sioux City","IA","Tienda Internacional","416 5th St","51101",42.49494171142578,-96.40568542480469
+"51103","Sioux City","IA","Hy-Vee","2827 Hamilton Blvd","51104",42.5201407555846,-96.41930363221945
+"51103","Sioux City","IA","Fareway","4040 War Eagle Dr","51109",42.49456616885144,-96.46241234621517
+"51103","Sioux City","IA","Hy-Vee Mainstreet","2611 Pierce St","51104",42.51825218156165,-96.40558457152744
+"51103","Sioux City","IA","Hong Kong Supermarket","511 W 7th St, Sioux City, IA 51103","51103",42.501273,-96.4137
+"51103","Sioux City","IA","Save A Lot","1730 Pierce St","51105",42.509026,-96.405054
+"51103","Sioux City","IA","Hy-Vee","2827 Hamilton Boulevard","51104",42.520087,-96.41928938
+"51103","Sioux City","IA","Hy-Vee Food Store","not_available","51103",42.496194261726984,-96.44468547909064
+"51103","Sioux City","IA","The Hiv","2825-2911 Hamilton Blvd","51104",42.52030767,-96.41829143
+"51104","Sioux City","IA","Fareway","4016 Indian Hills Dr","51108",42.53876242894738,-96.37268041901929
+"51104","Sioux City","IA","Walmart Supercenter","3101 Floyd Blvd","51108",42.53166503487186,-96.37447136994783
+"51104","Sioux City","IA","Laurence's Market","2020 27th St","51104",42.51737134068663,-96.38392442271629
+"51105","Sioux City","IA","Hy-Vee","3301 Gordon Dr","51105",42.489007,-96.362868
+"51106","Sioux City","IA","Hy-Vee","4500 Sergeant Rd","51106",42.44593,-96.347771
+"51106","Sioux City","IA","Fareway","4267 Sergeant Rd","51106",42.45015391465104,-96.35366936474867
+"51106","Sioux City","IA","Fareway","2328 Transit Ave","51106",42.47704400562411,-96.37762462173518
+"51201","Sheldon","IA","Hy-Vee","1989 Park St","51201",43.187032,-95.83167
+"51201","Sheldon","IA","Fareway","2603 Park St","51201",43.1866310172701,-95.82055449485779
+"51237","George","IA","Total Stop Food Store","N Main St, George, IA 51237","51237",43.343471985985865,-95.99693538456853
+"51240","Inwood","IA","Sunshine Foods","715 E 5th St","57013",43.30059745072071,-96.58444300924326
+"51246","Rock Rapids","IA","Sunshine Foods","106 N Boone St","51246",43.432019863952775,-96.17037139378593
+"51249","Sibley","IA","Sibley Super Foods","900-908 5th Ave","51249",43.39893579483032,-95.74826896190643
+"51250","Sioux Center","IA","Walmart Supercenter","255 - 16th St Sw","51250",43.059925020661936,-96.18050228224214
+"51250","Sioux Center","IA","Hy-Vee","1951 S Main Ave","51250",43.056332,-96.177581
+"51250","Sioux Center","IA","Fareway","115 1st Ave NW","51250",43.0780810534301,-96.17755982248549
+"51250","Sioux Center","IA","Walmart Grocery Pickup","255 16th St SW","51250",43.0600788709431,-96.1721276326226
+"51301","Spencer","IA","Hy-Vee","819 Grand Ave","51301",43.14610148,-95.14712461
+"51301","Spencer","IA","Walmart Supercenter","500 11th St Sw","51301",43.125314917053146,-95.15248503514955
+"51301","Spencer","IA","Fareway","104 E 8th St","51301",43.14565736695267,-95.14305368427264
+"51301","Spencer","IA","Fareway","not_available","51301",43.13461242455119,-95.14432418092093
+"51301","Spencer","IA","Walmart Grocery Pickup","500 11th St SW","51301",43.1268116666667,-95.1521354166667
+"51334","Estherville","IA","Hy-Vee","1221 East Central Avenue","51334",43.40258737,-94.82897368
+"51334","Estherville","IA","Fareway","1108 Central Ave","51334",43.401498,-94.830139
+"51355","Okoboji","IA","Fareway","1906 Keokuk Ave","51360",43.4054382171543,-95.10359192319342
+"51360","Spirit Lake","IA","Walmart Supercenter","2200 17th St.","51360",43.42425568584917,-95.12487231566737
+"51360","Spirit Lake","IA","Hy-Vee","1500 18th St","51360",43.423501,-95.113407
+"51360","Spirit Lake","IA","Walmart Grocery Pickup","2200 17th St","51360",43.42287,-95.1239
+"51360","Spirit Lake","IA","The Market","1610 Hill Street","not_available",43.423999,-95.10232685
+"51360","Spirit Lake","IA","Wilder Thymes Organic Food","711 16th St","not_available",43.424400329589844,-95.10179138183594
+"51401","Carroll","IA","Hy-Vee","905 U.S. 30","51401",42.07035485,-94.87766395
+"51401","Carroll","IA","Walmart Supercenter","2014 Kittyhawk Rd","51401",42.081213230034365,-94.89310466476736
+"51401","Carroll","IA","Fareway","709 Monterey Dr","51401",42.065288819270535,-94.85111663562755
+"51442","Denison","IA","Walmart Supercenter","510 Avenue C","51442",42.02615329623905,-95.37149911116542
+"51442","Denison","IA","Hy-Vee","1426 Broadway","51442",42.01750074057579,-95.35247951745987
+"51442","Denison","IA","Fareway","609 Arrowhead Dr","51442",42.024504,-95.372646
+"51442","Denison","IA","Tienda El Mexicano","222 N 7th St","51442",42.019589,-95.361653
+"51450","Lake View","IA","Lake View Foods","223 Main St","51450",42.30585914948287,-95.05193770381443
+"51462","Scranton","IA","Casey's General Store","900 Locust St","51462",42.0225615830684,-94.55211914849681
+"51501","Council Bluffs","IA","Walmart Supercenter","3201 Manawa Centre Dr","51501",41.22735493968385,-95.84432414935053
+"51501","Council Bluffs","IA","Walmart Supercenter","1800 N. 16th St.","51501",41.279800455449056,-95.86899049859694
+"51501","Council Bluffs","IA","Hy-Vee","2323 W Broadway","51501",41.261359,-95.878977
+"51501","Council Bluffs","IA","Super Saver","1141 N Broadway","51503",41.2710234,-95.8353013
+"51501","Council Bluffs","IA","ALDI","3135 Manawa Centre Dr","51501",41.228884524348125,-95.84654565264827
+"51501","Council Bluffs","IA","Dollar General","3000 N 13th St","51510",41.28552289990514,-95.91389188670696
+"51503","Council Bluffs","IA","Hy-Vee","1745 Madison Avenue","51503",41.24446856,-95.82569366
+"51503","Council Bluffs","IA","Fareway","310 McKenzie Ave","51503",41.280092743186025,-95.81882124053251
+"51503","Council Bluffs","IA","Family Fare Supermarket","1801 Valley View Dr","51503",41.243934631347656,-95.81755065917969
+"51526","Crescent","IA","ALDI","4801 N 30th St","68111",41.30243176006516,-95.9559953212738
+"51527","Defiance","IA","Smitty Bee Honey Inc.","208 Main Ave","51527",41.8241371,-95.34031929999999
+"51529","Dunlap","IA","Smittys","not_available","51529",41.85422047430772,-95.59861821216806
+"51530","Earling","IA","Main Street Market","203 S 2nd St","51562",41.726242983113465,-95.47361612012965
+"51534","Glenwood","IA","No Frills Supermarket","423 Sharp St","51534",41.046152082688636,-95.74282944202423
+"51534","Glenwood","IA","Newmans Thriftway","900 locust street","51534",41.03820037841797,-95.74665069580078
+"51534","Glenwood","IA","Russ’s Market – Glenwood","900 S Locust St","51534",41.03911859999999,-95.7465227
+"51537","Harlan","IA","Hy-Vee","2003 Chatburn Ave","51537",41.645016,-95.336273
+"51537","Harlan","IA","Fareway","1910 23rd St","51537",41.65000861917658,-95.33861524121647
+"51546","Logan","IA","Super Foods","403 E 6th St","51546",41.64429064822083,-95.78630797224767
+"51546","Logan","IA","Foodland","407 W Huron St","51555",41.557987213134766,-95.89923858642578
+"51546","Logan","IA","Foodland","212 W Wood St","not_available",41.736970471274915,-95.70592490420425
+"51546","Logan","IA","Logan Super Foods","not_available","51546",41.66053599420962,-95.79588522796782
+"51553","Minden","IA","Minden Grocery","not_available","51553",41.466851,-95.541513
+"51559","Neola","IA","Blue Cow Market","209 Front St","51559",41.448824,-95.615466
+"51566","Red Oak","IA","Hy-Vee","1605 N Broadway St","51566",41.01945,-95.23483
+"51566","Red Oak","IA","Fareway","811 N Broadway St","51566",41.01226581198095,-95.2337546778222
+"51575","Treynor","IA","Pickel Barrel","not_available","51503",41.233084999999996,-95.6127
+"51601","Shenandoah","IA","Walmart Supercenter","705 S Fremont Street","51601",40.76171860078592,-95.38259779503049
+"51601","Shenandoah","IA","Fareway","1007 S Fremont St","51601",40.75641444762281,-95.38415001548074
+"51632","Clarinda","IA","Fareway","115 Essie Davidson Dr","51632",40.724188,-95.038955
+"51632","Clarinda","IA","Hy-Vee","1200 South 16th Street","51632",40.726801,-95.035674
+"51648","Percival","IA","Walmart Supercenter","2101 S 11th St","68410",40.65814857727551,-95.85621713538931
+"51648","Percival","IA","Fareway","1738 S 11th St","68410",40.66070120092171,-95.86083054542542
+"51648","Percival","IA","Central Appple Market","701 Central Ave","68410",40.67631530761719,-95.85395812988281
+"51652","Sidney","IA","Sidney Foods","2037 US Hwy 275","51652",40.75528706620701,-95.64937591552734
+"52001","Dubuque","IA","Eagle Country Market","1800 Elm St","52001",42.511319275350594,-90.66571278600584
+"52001","Dubuque","IA","Hy-Vee","2395 NW Arterial","52002",42.516926,-90.744502
+"52001","Dubuque","IA","Natural Grocers","3333 Asbury Rd","52002",42.51258850097656,-90.722412109375
+"52001","Dubuque","IA","Hy-Vee","3500 Dodge Street","52003",42.491095,-90.723193
+"52001","Dubuque","IA","ALDI","2160 Holliday Dr","52002",42.51398486817076,-90.74215366162865
+"52001","Dubuque","IA","Fareway","2050 John F Kennedy Rd","52002",42.50754041991012,-90.71967866698523
+"52001","Dubuque","IA","POD","not_available","52001",42.504008,-90.67609
+"52001","Dubuque","IA","Fairway","not_available","52002",42.5060524609314,-90.70907771665507
+"52002","Dubuque","IA","Walmart Supercenter","4200 Dodge St","52003",42.48831384,-90.73520365
+"52003","Dubuque","IA","Hy-Vee","400 S Locust St","52003",42.486759197136564,-90.66292968391963
+"52031","Bellevue","IA","Benders","400 S 2nd St","52031",42.25536346435547,-90.42333221435547
+"52033","Cascade","IA","Brother's Market","105 Nixon St SE","52033",42.306205565095624,-90.99302023222054
+"52037","Delmar","IA","Walmart Supercenter","103 E Carlisle","52060",42.04893084,-90.66355438
+"52040","Dyersville","IA","Fareway","1207 12th Ave SE","52040",42.474769798682956,-91.11220719882135
+"52040","Dyersville","IA","Finest Grains - Natural & Organic Products","635 16th Ave SE","52040",42.46955108642578,-91.11689758300781
+"52040","Dyersville","IA","Hy-Vee","1201 12th Ave SE","52040",42.48728942871094,-91.12466430664062
+"52040","Dyersville","IA","Payless Foods","733 16th Ave SE","52040",42.46994,-91.11629143
+"52043","Elkader","IA","Elkader General Store","107 N Main St","52043",42.85456085205078,-91.4049072265625
+"52043","Elkader","IA","Wilkes","Main street","52043",42.853137483333335,-91.40331533333334
+"52045","Epworth","IA","silkers","not_available","52045",42.44495375760273,-90.93202450712671
+"52052","Guttenberg","IA","Benders","619 s. hwy 52","52052",42.779703982195315,-91.10020964476325
+"52053","Holy Cross","IA","Okey's Market","213 W Amelia St","53806",42.71558,-90.9924
+"52057","Manchester","IA","Walmart Supercenter","1220 W Main St","52057",42.482365961729066,-91.47828272013982
+"52057","Manchester","IA","main street market","not_available","52057",42.49849051014169,-91.45900116894965
+"52057","Manchester","IA","Fareway","109 E Marion St","52057",42.481517,-91.457123
+"52060","Maquoketa","IA","Fareway","110 Westgate Dr","52060",42.067195892333984,-90.6813735961914
+"52060","Maquoketa","IA","ALDI","907 W Platt St","52060",42.06853485107422,-90.67677307128906
+"52060","Maquoketa","IA","Timber City Trading Post","105 N Main St","52060",42.069461822509766,-90.6651611328125
+"52068","Peosta","IA","Fareway","not_available","52068",42.444916,-90.84599
+"52070","Sabula","IA","Sullivan's Foods","217 Chicago Ave","61074",42.090315999999994,-90.152654
+"52101","Decorah","IA","Walmart Supercenter","1798 Old Stage Rd","52101",43.29147433896572,-91.75393631433832
+"52101","Decorah","IA","Quillin's","915 Short St","52101",43.289892,-91.795291
+"52101","Decorah","IA","Fareway","103 E Main St","52132",43.302890832913555,-91.78529699816467
+"52101","Decorah","IA","Hy-Vee","915 Short St. #107","52101",43.28940200805664,-91.79621124267578
+"52136","Cresco","IA","Hy-Vee","22422 Highway 9","52136",43.37457275390625,-92.11602783203125
+"52136","Cresco","IA","Fareway","not_available","52136",43.37182001712691,-92.11761612282423
+"52142","Fayette","IA","Gavins","152-198 W Madison St","52142",42.84429020560961,-91.8020165397622
+"52151","Lansing","IA","Moores IGA","Water street","52151",43.36203529068061,-91.21893148482302
+"52156","Luana","IA","Moore's","808 S Main St","52159",43.04329299926758,-91.39049530029297
+"52157","Mc Gregor","IA","The Sweet Tooth","127 West Blackhawk Avenue","53821",43.0518619,-91.1475628
+"52162","Postville","IA","moore's","not_available","52162",43.08440596884832,-91.56917429168998
+"52172","Waukon","IA","Hy-Vee","819 11th Ave SW","52172",43.27016067504883,-91.4779281616211
+"52172","Waukon","IA","Fareway","not_available","52172",43.22259227722931,-91.48449359751541
+"52175","West Union","IA","Moores IGA","Hwy 150","not_available",42.96530005200679,-91.8149623692804
+"52175","West Union","IA","Unionland Feed & Food Market","108 S Walnut St","52175",42.9611651,-91.8066048
+"52205","Anamosa","IA","Walmart Supercenter","101 115th St","52205",42.099389318800185,-91.26423470049815
+"52205","Anamosa","IA","Fareway","402 E Main St","52205",42.10855484008789,-91.28146362304688
+"52205","Anamosa","IA","Barnes Foodland","123","52336",42.07065888016085,-91.3678577391248
+"52208","Belle Plaine","IA","Country Foods","not_available","52208",41.89662705190754,-92.27860990148676
+"52211","Brooklyn","IA","Flag Foods","E Front St","52211",41.72889055798945,-92.44448130569351
+"52213","Center Point","IA","Center Point Foods","800 Ford Ln","52213",42.177283,-91.776103
+"52214","Central City","IA","Main Street Market","924 3rd St S","52218",42.268528469446814,-91.52950286865234
+"52214","Central City","IA","Hometown Market","9 South Ave","52214",42.198890999999996,-91.530353
+"52224","Dysart","IA","Terry's Food Center","not_available","52224",42.17159042273596,-92.30788205514413
+"52228","Fairfax","IA","Walmart Supercenter","3601 29th Ave Sw","52404",41.94692888582166,-91.71853425673721
+"52228","Fairfax","IA","Aldi","1860 Edgewood Rd SW","52404",41.9609042,-91.717433
+"52228","Fairfax","IA","Reinhart","4100 44th Ave SW","52404",41.937283,-91.724586
+"52228","Fairfax","IA","Don Miguel Tienda Mexicana & Carniceria","2127 Wiley Blvd SW","52404",41.958273,-91.725249
+"52233","Hiawatha","IA","Fareway","885 Miller Rd","52233",42.04625829566535,-91.701622681674
+"52240","Iowa City","IA","Hy-Vee","3285 Crosspark Road","52241",41.722454,-91.60503
+"52240","Iowa City","IA","Walmart Supercenter","2801 Commerce Dr","52241",41.69736191603831,-91.61251620485254
+"52240","Iowa City","IA","Walmart Dairy","not_available","52241",41.697746,-91.61191
+"52240","Iowa City","IA","Walmart Supercenter","919 Highway 1 W","52246",41.64429321312501,-91.55135161549349
+"52240","Iowa City","IA","Hy-Vee","1720 Waterfront Dr","52240",41.64248914363756,-91.5294430978247
+"52240","Iowa City","IA","Hy-Vee","1914 8th St","52241",41.681787,-91.591717
+"52240","Iowa City","IA","Hy-Vee","1125 N Dodge St","52245",41.6763263,-91.5187638
+"52240","Iowa City","IA","Trader Joe's","920 Ponseti Way","52241",41.68330448293833,-91.56477451893466
+"52240","Iowa City","IA","ALDI","2750 Heartland Dr","52241",41.70000722889224,-91.6107228398323
+"52240","Iowa City","IA","ALDI","760 Ruppert Rd","52246",41.64614373021889,-91.54933780431747
+"52240","Iowa City","IA","Hy-Vee","812 S 1st Ave","52245",41.651389,-91.501005
+"52240","Iowa City","IA","Natural Grocers","1404 S Gilbert St","52240",41.6450814340064,-91.53188467025757
+"52240","Iowa City","IA","New Pioneer Co-op","22 S Van Buren St","52240",41.66035792858195,-91.52848255210073
+"52240","Iowa City","IA","John's Grocery","401 E Market St","52245",41.6634264203832,-91.53007096160847
+"52240","Iowa City","IA","Stringtown Grocery","2208 540th St. SW","52247",41.54045815348804,-91.70855319717778
+"52240","Iowa City","IA","Fareway","615 Westwood Dr","52317",41.74067587176007,-91.60852253866564
+"52240","Iowa City","IA","Uncle Sun","100 S Linn St","52240",41.659738,-91.531351
+"52240","Iowa City","IA","Fareway","2530 Westwinds Dr","52246",41.6513058110591,-91.5759449843006
+"52240","Iowa City","IA","Asian Market","624 S Gilbert St","52240",41.65359711194192,-91.53027927669706
+"52240","Iowa City","IA","Central Discount","540th St. SW","not_available",41.54087166044031,-91.70580235397506
+"52240","Iowa City","IA","Asian Market","not_available","52240",41.65444792934555,-91.52817490778293
+"52240","Iowa City","IA","National Cooperative Grocers Association","Linn St","not_available",41.66089,-91.5309
+"52240","Iowa City","IA","Chong's Supermarket","905 2nd St","52241",41.672954,-91.57732
+"52240","Iowa City","IA","Hy-Vee Tiffin","not_available","52340",41.668880445353295,-91.5729753159259
+"52241","Coralville","IA","ICM City Grocery","Coral Ridge Mall","52241",41.689931160622805,-91.6001844406128
+"52241","Coralville","IA","New Pioneer Co-op","1101 2nd St","52241",41.67439555437196,-91.58046060313987
+"52247","Kalona","IA","JW's Foods","122 E Ave","52247",41.48546337405081,-91.71231758848268
+"52248","Keota","IA","Freeman Foods","268 8th Ave","52356",41.464761172201,-91.83780775903259
+"52254","Lost Nation","IA","Groceries & Things","265 Mill St","52777",41.904937744140625,-90.86425018310547
+"52301","Marengo","IA","Big ""G"" Food Store","310 W Dillon St","52301",41.79110325262298,-92.07309818633951
+"52302","Marion","IA","Hy-Vee","5050 Edgewood Rd NE","52411",42.029446,-91.698508
+"52302","Marion","IA","Hy-Vee","3600 U.S. 151 Business","52302",42.03738194,-91.57221712
+"52302","Marion","IA","Walmart Supercenter","2645 Blairs Ferry Rd Ne","52402",42.03235567277728,-91.68210284215972
+"52302","Marion","IA","Walmart Supercenter","5491 Highway 151","52302",42.03370703,-91.55315499
+"52302","Marion","IA","Hy-Vee","279 Collins Rd NE","52402",42.025093,-91.631115
+"52302","Marion","IA","Hy-Vee Drugstore","2001 Blairs Ferry Rd NE","52402",42.034232,-91.669101
+"52302","Marion","IA","Hy-Vee","3235 Oakland Rd NE","52402",42.01137829877908,-91.65984481573105
+"52302","Marion","IA","Aldi","5425 Blairs Forest Blvd NE","52402",42.03331500397395,-91.68587565422058
+"52302","Marion","IA","ALDI","180 Collins Rd NE Ste D","52402",42.0295295,-91.6275787
+"52302","Marion","IA","Hy-Vee","1556 1st Ave NE","52402",41.989458,-91.651486
+"52302","Marion","IA","Aldi","1001 50th St","52302",42.036861214175175,-91.55602029185616
+"52302","Marion","IA","CVS pharmacy","2711 Mount Vernon Rd SE","52403",41.976417512470185,-91.62750548153289
+"52302","Marion","IA","Fareway","3300 Linden Dr.","52302",42.03660188707247,-91.57594273916732
+"52302","Marion","IA","Saigon Market","200 8th Ave SW","52404",41.981716,-91.660278
+"52302","Marion","IA","Hy Vee","3600 Highway 151","52302",42.037078857421875,-91.57252502441406
+"52302","Marion","IA","CarePro Advance Health","not_available","52402",41.981072999999995,-91.656305
+"52302","Marion","IA","Aaron's Market","707 3rd Ave SE","52401",41.980222999999995,-91.660699
+"52302","Marion","IA","kaffe international market","1507 1st Ave SE","52402",41.988033294677734,-91.65167236328125
+"52302","Marion","IA","JoJo Oriental Store","3655 1st Ave SE Ste B","52402",42.01582437604284,-91.63382524617317
+"52310","Monticello","IA","Fareway","420 N. Farley Street","52310",42.24182730156598,-91.19191543711689
+"52314","Mount Vernon","IA","Gary's Grocery Store","715 1st Ave SW","52314",41.9169859790535,-91.4228299227005
+"52333","Solon","IA","Sam's Main Street Market","123 E Main St","52333",41.807031708431275,-91.49462276047866
+"52339","Tama","IA","Fareway","1005 S County Line Rd","52342",41.98414579735436,-92.58046746253966
+"52339","Tama","IA","Dollar Fresh","1006 S County Rd","52342",41.985233306884766,-92.58341217041016
+"52342","Toledo","IA","Villa Market","J Avenue","52342",42.100969,-92.5813526
+"52346","Van Horne","IA","DJ's C-Store","101 1st St","52346",42.00739412848979,-92.08605400676454
+"52349","Vinton","IA","Fareway","501 A Ave","52349",42.166201380781494,-92.02615997776574
+"52349","Vinton","IA","Hy-Vee Dollar Fresh","911 S K Ave","52349",42.162162,-92.038662
+"52353","Washington","IA","Walmart Supercenter","2485 Highway 92","52353",41.2958001093413,-91.66230350225862
+"52353","Washington","IA","Hy-Vee","528 Highway 1 S","52353",41.29471,-91.706432
+"52353","Washington","IA","Fareway","301 N Marion Ave","52353",41.30190254664324,-91.69369592083855
+"52358","West Branch","IA","Jack & Jills","115 E Main St","52358",41.671828999999995,-91.345815
+"52361","Williamsburg","IA","Williamsburg Foods","103 W Walnut St","52361",41.66305202996162,-92.00794492494491
+"52362","Wyoming","IA","Holley's Town Supermarket","160 W Main St","52362",42.059165954589844,-91.00786590576172
+"52403","Cedar Rapids","IA","Hy-Vee","20 Wilson Ave SW","52404",41.95737730450655,-91.65846347808838
+"52403","Cedar Rapids","IA","Hy-Vee","4035 Mount Vernon Rd SE","52403",41.975081,-91.609814
+"52404","Cedar Rapids","IA","Hy-Vee","1843 Johnson Ave NW, Stop 1, Stop 1","52405",41.9738442,-91.69840096
+"52404","Cedar Rapids","IA","Fareway","4220 16th Ave SW","52404",41.964448780877014,-91.72689556302952
+"52404","Cedar Rapids","IA","Save-A-Lot","1625 J St SW","52404",41.960855865616935,-91.66669005725184
+"52404","Cedar Rapids","IA","El Mercadito","708 1st Avenue NW","52405",41.97403257313099,-91.68082541516341
+"52404","Cedar Rapids","IA","African Family Market","4346 16th Ave SW","52404",41.9644921,-91.7279834
+"52501","Ottumwa","IA","Walmart Supercenter","1940 Venture Dr","52501",41.01274212667179,-92.45550034393332
+"52501","Ottumwa","IA","Hy-Vee","1140 North Jefferson Street","52501",41.02653845,-92.40077361
+"52501","Ottumwa","IA","Hy-Vee","1025 North Quincy Avenue","52501",41.01525368,-92.44004749
+"52501","Ottumwa","IA","Fareway","1322-1398 Asbury Ave","52501",41.01011364043515,-92.44003286420248
+"52501","Ottumwa","IA","La Guadalupana Grocery","301 Church St","52501",41.009215,-92.416973
+"52501","Ottumwa","IA","ALDI","940 N Quincy Ave","52501",41.01405965777126,-92.43769994596988
+"52501","Ottumwa","IA","Deive Threw","not_available","52501",40.998096876843185,-92.40967145903144
+"52531","Albia","IA","Jim & Charlie's Affiliated Foods","121 N Clinton St","52531",41.0287928234439,-92.80867260998377
+"52531","Albia","IA","Hy-Vee","301 US-34","52531",41.01679446,-92.81300774
+"52542","Cantril","IA","Dutchman's Store","103 Division St","52542",40.644647517866,-92.06960881609305
+"52544","Centerville","IA","Walmart Supercenter","23148 Hwy 5","52544",40.70919222,-92.86648042
+"52544","Centerville","IA","Hy-Vee","609 N 18th St","52544",40.737573,-92.866358
+"52544","Centerville","IA","Fareway","305 S 18th St","52544",40.73119192391431,-92.86695729686429
+"52544","Centerville","IA","ALDI","215 S Main St","52544",40.73130578552119,-92.87359256041725
+"52544","Centerville","IA","Old Square Country Store","not_available","52549",40.631088,-92.924937
+"52551","Douds","IA","Moore's Grocery","County Highway V64","52551",40.843142066666665,-92.0847889
+"52556","Fairfield","IA","Everybody's Whole Foods","501 N 2nd St","52556",41.01252099418504,-91.96475418138353
+"52556","Fairfield","IA","Hy-Vee","1300 W Burlington Ave","52556",41.004598,-91.978483
+"52556","Fairfield","IA","Walmart Supercenter","2701 W Burlington Ave","52556",41.00726472397494,-91.99320196656991
+"52556","Fairfield","IA","SBS Premium Meats","405 N D St","68938",41.0109093,-91.95849529999998
+"52565","Keosauqua","IA","Boyd Grocer","not_available","52565",40.74592208862305,-91.95870208740234
+"52565","Keosauqua","IA","E & T Variety Store","21286 Route W40","52620",40.737422943115234,-91.7815933227539
+"52571","Moravia","IA","Spencer's","Chariton","not_available",40.889339311978105,-92.815481184673
+"52577","Oskaloosa","IA","Hy-Vee","110 S D St","52577",41.294853,-92.648456
+"52577","Oskaloosa","IA","Walmart Supercenter","2203 Avenue A West","52577",41.29840641419551,-92.6698283995955
+"52577","Oskaloosa","IA","Fareway","311 3rd Ave W","52577",41.305688718557064,-92.64961293802517
+"52591","Sigourney","IA","K&L Foods","not_available","52591",41.33310317993164,-92.20572662353516
+"52601","Burlington","IA","Hy-Vee","3140 East Agency Street","52601",40.81630609,-91.13668714
+"52601","Burlington","IA","fareway","920 Lawrence St","52601",40.79934378175322,-91.1393822398407
+"52601","Burlington","IA","ALDI","3135 Agency St","52601",40.81415432907627,-91.13650426268578
+"52601","Burlington","IA","Walmart Supercenter","324 W Agency Rd","52655",40.81422707238786,-91.1607592644375
+"52601","Burlington","IA","Fareway (Stool)","not_available","52601",40.81302261352539,-91.10574340820312
+"52601","Burlington","IA","Hy-Vee","939 Angular Street","52601",40.801368,-91.110673
+"52623","Danville","IA","Walgren's Affiliated Foods","not_available","52645",40.92609755,-91.40674338
+"52623","Danville","IA","Main Street Market","412 W Main St","52645",40.926128174222306,-91.40634088301343
+"52625","Donnellson","IA","Sonny's Super Market","327 5th St.","52656",40.717664,-91.452389
+"52627","Fort Madison","IA","Hy-Vee","2606 Avenue L","52627",40.62569296895884,-91.3433246142813
+"52627","Fort Madison","IA","ALDI","927 Avenue G","52627",40.63121836717361,-91.31475448608398
+"52627","Fort Madison","IA","Fareway","not_available","52627",40.629847,-91.330594
+"52627","Fort Madison","IA","County Market","1802 Avenue H","52627",40.62999422043508,-91.33135833709194
+"52632","Keokuk","IA","Walmart Supercenter","300 No. Park Drive","52632",40.41814197630815,-91.40984451119546
+"52632","Keokuk","IA","Hy-Vee","3111 Main St","52632",40.41626364903745,-91.40247753002532
+"52632","Keokuk","IA","ALDI","3371 Main St","52632",40.419055093140884,-91.40635702150988
+"52632","Keokuk","IA","ALDI","3379 Main St","52632",40.41926924,-91.40615186
+"52637","Mediapolis","IA","Mepo Foods","111 Wapello St N","52637",41.008397814808944,-91.17047094434515
+"52637","Mediapolis","IA","E Cig Impressions","101 middle st","52637",41.008927,-91.169892
+"52639","Montrose","IA","Nauvoo Market","1385 Mulholland St","62354",40.550087,-91.380821
+"52641","Mount Pleasant","IA","Walmart Supercenter","1045 N Grand Ave","52641",40.97892610753445,-91.54117584228516
+"52641","Mount Pleasant","IA","Hy-Vee","1700 E Washington St","52641",40.960866,-91.529661
+"52641","Mount Pleasant","IA","ALDI","1309 E Washington St","52641",40.963925638562245,-91.53356002410874
+"52641","Mount Pleasant","IA","hyvee","not_available","52641",40.96267624304495,-91.54799316953428
+"52653","Wapello","IA","Jack & Jills","530 Highway 61 S","52652",41.173007,-91.18928861
+"52722","Bettendorf","IA","Hy-Vee","2900 Devils Glen Rd","52722",41.5535415,-90.4846134
+"52722","Bettendorf","IA","Hy-Vee","4064 E 53rd St","52807",41.577285,-90.513949
+"52722","Bettendorf","IA","Walmart Supercenter","5811 Elmore Ave","52807",41.58047910691644,-90.5245347891212
+"52722","Bettendorf","IA","Aldi","5262 Elmore Ave","52807",41.5735147,-90.531039
+"52722","Bettendorf","IA","Natural Grocers","3805 E 53rd St","52807",41.574479,-90.518953
+"52722","Bettendorf","IA","Meatheads Meat Market","2501","52722",41.574256,-90.497454
+"52722","Bettendorf","IA","Fareway","3800 Belmont Rd","52722",41.55709841611749,-90.4805201160866
+"52722","Bettendorf","IA","Schnucks Bettendorf","858 Middle Rd","52722",41.538841247558594,-90.52098846435547
+"52722","Bettendorf","IA","Save-a-Lot Food Stores","not_available","61244",41.52376018091083,-90.42077748053187
+"52722","Bettendorf","IA","ALDI","not_available","52722",41.559003992764445,-90.52678698513948
+"52722","Bettendorf","IA","Heritage Natural Foods","3875 Elmore Ave","52807",41.55781936645508,-90.52532958984375
+"52730","Camanche","IA","ALDI","2575 Lincoln Way","52732",41.815159541072845,-90.24626509895165
+"52730","Camanche","IA","FoodPride","not_available","52730",41.788877,-90.257176
+"52732","Clinton","IA","Hy-Vee","901 S 4th St","52732",41.836588055528985,-90.19143462181091
+"52732","Clinton","IA","Walmart Supercenter","2715 S 25th St","52732",41.81854367299112,-90.24261645737643
+"52732","Clinton","IA","Fareway","1350 11th St NW","52732",41.86081010625983,-90.21237486867349
+"52732","Clinton","IA","ALDI","1941 Lincoln Way","52732",41.81535720825195,-90.23271942138672
+"52742","De Witt","IA","Barnes Foodland","622 10th St","52742",41.825351726247234,-90.53992595282556
+"52742","De Witt","IA","Schwan's","318 Industrial St","52742",41.81070864200592,-90.53497195243835
+"52748","Eldridge","IA","North Scott Foods","425 E Le Claire Rd","52748",41.65428102691881,-90.5774655464988
+"52753","Le Claire","IA","Slagle's Food Pride","1301 Eagle Ridge Rd","52753",41.587842885785356,-90.35994810707835
+"52755","Lone Tree","IA","L T's Fine Grocery","203 S Devoe St","52755",41.488681,-91.426215
+"52761","Muscatine","IA","Hy-Vee","2400 2nd Ave","52761",41.45041304092346,-91.0364499131174
+"52761","Muscatine","IA","Hy-Vee Mainstreet","510 E 6th St","52761",41.42658503260674,-91.04457959532738
+"52761","Muscatine","IA","ALDI","3200 Northport Dr","52761",41.4593903609524,-91.0196471214295
+"52761","Muscatine","IA","Walmart Supercenter","3003 N Highway 61","52761",41.45759923325014,-91.02496275228451
+"52761","Muscatine","IA","WFO","807 Grandview Ave","52761",41.40830993652344,-91.06459045410156
+"52761","Muscatine","IA","Fareway","2100 Cedar Plaza Dr","52761",41.43546251314695,-91.08258682838915
+"52772","Tipton","IA","Walmart","1126 Highway 38 North","52772",41.78352181459623,-91.12641199187664
+"52772","Tipton","IA","Family Foods","610 Cedar St","52772",41.7716529,-91.127472
+"52776","West Liberty","IA","West Linerty Foods Market","3rd St.","52776",41.57002935,-91.26368533
+"52776","West Liberty","IA","Jeffs Market","200 East 3rd Street","52776",41.5697593421459,-91.26151984290757
+"52777","Wheatland","IA","Wheatland Grocery & Meats","Main St","52777",41.83262002777527,-90.83871820439629
+"52778","Wilton","IA","Garrison's Garden Market","not_available","52778",41.62753608561812,-91.03585283659166
+"52778","Wilton","IA","Jeff's Market","121-199 E 5th St","52778",41.58893180752026,-91.01668536959352
+"52801","Davenport","IA","Stop'n'shop","not_available","52801",41.52260208129883,-90.57679748535156
+"52802","Davenport","IA","Hy-Vee","3019 Rockingham Rd","52802",41.510047,-90.619964
+"52802","Davenport","IA","Tienda Mexicana ""Abarrotes Carrillo""","903 W 3rd St","52802",41.522202,-90.586157
+"52802","Davenport","IA","Oriental Foods","808 W River Dr","52802",41.520486,-90.58514
+"52803","Davenport","IA","Hy-Vee","1823 E Kimberly Rd","52807",41.554886,-90.548766
+"52803","Davenport","IA","Aldi","1702 Brady St","52803",41.53679183181773,-90.57499721646315
+"52804","Davenport","IA","Walmart Supercenter","3101 W Kimberly Rd","52806",41.557633015650495,-90.6226308818584
+"52804","Davenport","IA","Hy-Vee","2200 W Kimberly Rd","52806",41.56143653650537,-90.60904613776984
+"52804","Davenport","IA","Fareway","1635 W 53rd St","52806",41.57397330966448,-90.59820302328718
+"52804","Davenport","IA","Hy-Vee","2351 Locust Street","52804",41.53654442,-90.61230032
+"52804","Davenport","IA","Slagle Foods Inc","6723 Northwest Blvd","52806",41.58943406419612,-90.60914334593704
+"52807","Davenport","IA","Fresh Thyme Farmers Market","2130 E Kimberly Rd","52807",41.5581691,-90.546485
+"52807","Davenport","IA","TPC Cash & Carry","Belle Avenue","52806",41.57514560071042,-90.54573486215152

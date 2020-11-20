@@ -1,0 +1,256 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"83201","Pocatello","ID","The Dog Pound","8401 W Buckskin Rd","83201",42.878692626953125,-112.38563537597656
+"83201","Pocatello","ID","Gold's Gym","1800 Flandro Dr","83202",42.90802456078948,-112.45046957588498
+"83201","Pocatello","ID","Fitness Inc.","1800 Garrett Way","83201",42.87930245345811,-112.45769945086694
+"83201","Pocatello","ID","Planet Fitness","4235 Yellowstone Ave","83202",42.9104118347168,-112.46978759765625
+"83201","Pocatello","ID","Roller Hockey And Indoor Soccer","not_available","83202",42.901648010371304,-112.46541703823603
+"83201","Pocatello","ID","The Gate CrossFit","450 E Day St","83201",42.882748442212105,-112.45201962908816
+"83201","Pocatello","ID","Sandlot","609 W Maple St","83201",42.8799934387207,-112.4591064453125
+"83201","Pocatello","ID","Pocatello Fit Body Bootcamp","750 W Quinn Rd Ste A","83202",42.906766,-112.462623
+"83201","Pocatello","ID","Pocatello Athletic Club","1435 N Main St","83204",42.87202734702129,-112.4628797801631
+"83201","Pocatello","ID","Red Lion Fitness Center","not_available","not_available",42.897147,-112.432106
+"83201","Pocatello","ID","Inches A Weigh","1875 Hurley Dr","83202",42.908938,-112.46106100000002
+"83201","Pocatello","ID","Pocatello Athletics Center","621 S 1st Ave","83201",42.859458923339844,-112.44286346435547
+"83221","Blackfoot","ID","Gold's Gym","not_available","83221",43.193025066666664,-112.36285324
+"83221","Blackfoot","ID","Blackfoot Therapy","201-299 W Francis St","83221",43.19333628333333,-112.3441414
+"83221","Blackfoot","ID","Anytime Fitness","301 Anderson Rd","83274",43.39074,-112.11839
+"83221","Blackfoot","ID","Anytime Fitness","1265 Pkwy Dr","83221",43.19724711,-112.3624708
+"83221","Blackfoot","ID","KiNewl's Fittness","Steven Thoman street","83221",43.195136,-112.41399
+"83251","Mackay","ID","Wood River YMCA","101 Saddle Road","83340",43.68682200536442,-114.37117696795087
+"83251","Mackay","ID","High Altitude Fitness","240 Northwood Way","83340",43.690254542536955,-114.36971532094267
+"83251","Mackay","ID","Ritz Gym","1 Sun Valley Road","83353",43.69772391753232,-114.35159480169693
+"83251","Mackay","ID","toughLOVE","220 East Ave","83340",43.681667,-114.361944
+"83251","Mackay","ID","Wood Lot Of Doom","not_available","83340",43.680475,-114.37237
+"83263","Preston","ID","CrossFit BTH","125 S State St","83263",42.09358215332031,-111.87604522705078
+"83276","Soda Springs","ID","Bowman Gym","not_available","83276",42.7301,-111.533
+"83301","Twin Falls","ID","XrossWay Fitness and Life Center","1385 Parkview Dr, Ste. 103","83301",42.5865042,-114.4883976
+"83301","Twin Falls","ID","Gold's Gym","1487 Fillmore St","83301",42.58828977543898,-114.4650964950299
+"83301","Twin Falls","ID","Classics Guided Fitness","not_available","83301",42.578997,-114.457786
+"83301","Twin Falls","ID","YMCA","1901-1931 Pole Line Rd E","83301",42.592458327883115,-114.45046257470771
+"83301","Twin Falls","ID","Anytime Fitness","562 Blue Lks Blvd N","83301",42.5715825,-114.4595837
+"83301","Twin Falls","ID","Curves","690 Blue Lakes Blvd N","83301",42.573869752269474,-114.45906864097559
+"83313","Bellevue","ID","BCRD Fitworks","Fox Acres Rd.","83333",43.51570046694028,-114.29347714817955
+"83313","Bellevue","ID","High Altitude Fitness","1-7 Broadford Rd","83313",43.511162283333334,-114.30803963333334
+"83313","Bellevue","ID","gym America Inn","51 Cobblestone Ln","83333",43.52782440185547,-114.3204345703125
+"83313","Bellevue","ID","Boulder Mountain CrossFit","810 S Main St","83333",43.511059883669674,-114.3080071777165
+"83313","Bellevue","ID","Spirit N' Motion Athletic School","not_available","83333",43.48753356933594,-114.27449798583984
+"83318","Burley","ID","Impact Athletics","not_available","83318",42.53369618810744,-113.7803102523562
+"83318","Burley","ID","Platinum Fitness","2273 Overland Ave","83318",42.52423095703125,-113.79283905029297
+"83318","Burley","ID","Koko Fit Club","388 Overland Ste. C","83318",42.54889678955078,-113.79328155517578
+"83318","Burley","ID","Elite Physical Therapy And Fitness","1200 Oakley Ave, Burley, ID 83318","83318",42.537901989192704,-113.794750678997
+"83333","Hailey","ID","Body Works by Deb","PO Box 3047","83333",43.57955146804073,-114.33321475982666
+"83336","Heyburn","ID","Anytime Fitness","749 N Overland Ave","83318",42.56483,-113.78925
+"83338","Jerome","ID","Flex Fitness","not_available","83338",42.65887,-114.443811
+"83350","Rupert","ID","The Gym","not_available","83350",42.60568618774414,-113.68248748779297
+"83350","Rupert","ID","Rupert Civic Gym","652-698 F St","83350",42.61838212828915,-113.67448057472551
+"83401","Idaho Falls","ID","Anytime Fitness","1615 S Midway Ave","83406",43.48276,-111.9692
+"83401","Idaho Falls","ID","Eagle Rock Gymnastics","not_available","83401",43.508367,-111.976949
+"83401","Idaho Falls","ID","The Workout Place","3266 Londonderry Ave","83404",43.46847152709961,-112.00892639160156
+"83401","Idaho Falls","ID","Epic Performance And Fitness Solutions","Racquet Zone","83406",43.493739,-111.969641
+"83401","Idaho Falls","ID","Orangetheory Fitness","2674 E Sunnyside Rd","83406",43.46741485595703,-111.98082733154297
+"83401","Idaho Falls","ID","Hilton Garden Inn Fitness Center","700 Lindsay Blvd","83402",43.499591,-112.045455
+"83401","Idaho Falls","ID","Curves","2395 E 17th St","83404",43.48345947265625,-111.98664093017578
+"83401","Idaho Falls","ID","Maltese CrossFit","2420 S Yellowstone Hwy","83402",43.47663497924805,-112.05084228515625
+"83401","Idaho Falls","ID","Gym@Best Western","1010-1080 Landbank St","83402",43.502967953681946,-112.05073535442352
+"83401","Idaho Falls","ID","Snap Fitness","681 S Woodruff Ave #600, Idaho Falls, ID 83401","83401",43.49154281616211,-111.9982681274414
+"83401","Idaho Falls","ID","YMCA","100-198 N Placer Ave","83402",43.4885489154182,-112.03436868133532
+"83401","Idaho Falls","ID","IF Rec. Center","520 Memorial Dr","83402",43.49452590942383,-112.04193115234375
+"83401","Idaho Falls","ID","Planet Fitness","200 S Woodruff Ave, Ste A","83401",43.496081,-112.000459
+"83402","Idaho Falls","ID","Anytime Fitness","2141 W Broadway St","83402",43.49637,-112.07393
+"83402","Idaho Falls","ID","Koko Fit Club","W Broadway","not_available",43.49592720094209,-112.06728458404541
+"83422","Driggs","ID","Anytime Fitness","1251 Arrowhead Plz.","83422",43.7464,-111.11135
+"83434","Menan","ID","Anytime Fitness","205 Stockham Blvd","83442",43.68227,-111.91064
+"83440","Rexburg","ID","Cougar Court Clubhouse","697 Trejo St","83440",43.815988589477655,-111.80394530296326
+"83440","Rexburg","ID","Smith Park Tennis Courts","not_available","83440",43.82514967626535,-111.77549589568778
+"83440","Rexburg","ID","World Gym Fitness Center","730 W 7th S","83440",43.81191320928424,-111.80504002391469
+"83440","Rexburg","ID","Anytime Fitness","859 S Yellowstone Hwy Ste 700","83440",43.80621,-111.80522
+"83445","Saint Anthony","ID","Anytime Fitness","104 N Bridge St","83445",43.9675,-111.68232
+"83501","Lewiston","ID","Golds Gym","621 Bryden Ave","83501",46.381305395781425,-116.99911461384504
+"83501","Lewiston","ID","World Class Fitness","1110 Main St","83501",46.41883173425242,-117.01889295640612
+"83501","Lewiston","ID","Travelland RV","355 Thain Rd","83501",46.3810969,-116.9759367
+"83501","Lewiston","ID","Adcope Athletic Club","621 21st St","83501",46.41361331763369,-116.99897791912134
+"83501","Lewiston","ID","Anytime Fitness","102 Thain Rd","83501",46.39073,-116.99071
+"83501","Lewiston","ID","ACFAC","not_available","99403",46.4182761433768,-117.0447542152566
+"83605","Caldwell","ID","Idaho Athletic Club","4623 Enterprise Way","83605",43.66185278466629,-116.64060998309844
+"83605","Caldwell","ID","YMCA","3720 S Indiana Ave","83605",43.636473411942845,-116.67427530325914
+"83605","Caldwell","ID","Anytime Fitness","2621 S 10th  Ave Ste 102","83605",43.64625549,-116.6925201
+"83605","Caldwell","ID","Anytime Fitness","355 Caldwell Blvd","83686",43.59095,-116.58332
+"83605","Caldwell","ID","Idaho Kettlebells","6121 Cleveland Blvd","83607",43.626312255859375,-116.63282012939453
+"83605","Caldwell","ID","Orchard Place","444 W Orchard Ave","83651",43.59089279174805,-116.58519744873047
+"83605","Caldwell","ID","Nampa Fitness Studios","359 Nampa Blvrd","83651",43.591230307351,-116.58590041133871
+"83605","Caldwell","ID","Crossfit208","2354 W Hemingway Blvd","83651",43.613871,-116.61061000000001
+"83607","Caldwell","ID","Militia Box","not_available","83686",43.51167658206758,-116.61087592968829
+"83611","Cascade","ID","The Club","Suitor Ln E, McCall, ID 83638","83638",44.917811862923855,-116.086445586523
+"83612","Council","ID","The Body Shop Gym","not_available","83612",44.72958505153656,-116.43737554550171
+"83616","Eagle","ID","Crunch Fitness - Eagle","875 E Plaza Drive","83616",43.691147361781795,-116.34301371406764
+"83616","Eagle","ID","Anytime Fitness","350 S Eagle Rd","83616",43.69169,-116.35228
+"83616","Eagle","ID","Evolution Fitness","515 Fitness pl","not_available",43.69008646675024,-116.3421267853339
+"83616","Eagle","ID","fit club","Riverchase way","83616",43.679534885826456,-116.34410977363586
+"83616","Eagle","ID","Johnny's Fitclub Fitness","6843 N Strawberry Glen Rd Ste 150","83714",43.667354583740234,-116.28130340576172
+"83616","Eagle","ID","Orangetheory Fitness","1240 W Chinden Blvd","83646",43.665218353271484,-116.40988159179688
+"83616","Eagle","ID","Bella Terra Workout","not_available","83616",43.711917877197266,-116.41134643554688
+"83616","Eagle","ID","F45 Training South Eagle","2794 S Eagle Rd","83616",43.66906785,-116.3542591
+"83616","Eagle","ID","Fitness Together - Eagle","1580 E State St","83616",43.689788818359375,-116.33304595947266
+"83616","Eagle","ID","Workout Anytime","7048 W State St","83714",43.66886497805366,-116.27763390541077
+"83616","Eagle","ID","Body Renew Fitness","N Seneca Springs Way","83669",43.69521911668147,-116.47843249044607
+"83616","Eagle","ID","MD Fitness","3151 E Lakeland Ln","83616",43.68059789270959,-116.31428360939026
+"83616","Eagle","ID","Anytime Fitness","11221 W Hercules Dr #105","83669",43.68487,-116.49346
+"83616","Eagle","ID","Crossfit E3","324 W State St","83616",43.696083,-116.357398
+"83616","Eagle","ID","CrossFit Station","1762 State St.","83616",43.689713810655604,-116.33712827833106
+"83616","Eagle","ID","Body Shop Fitness Center","102 W Highway 16","83617",43.86156230006441,-116.49857634728797
+"83616","Eagle","ID","The Forge","not_available","83669",43.703175083333335,-116.49428851666667
+"83616","Eagle","ID","Idaho Athletic Club","875 E Plaza Dr","83616",43.69111817823233,-116.34263754898019
+"83616","Eagle","ID","Fitness 19","3210 E Chinden Blvd #120","83616",43.664216683678035,-116.35216971680761
+"83616","Eagle","ID","Pure Barre","6700 N Linder Rd Ste 174","83646",43.66597078926503,-116.4126213571472
+"83616","Eagle","ID","Eagle Fitness","3210 West Chinden Boulevard Suite 121","83616",43.663975,-116.352609
+"83616","Eagle","ID","Burke's Gym","E Shadowband St","83616",43.701225387409046,-116.31691145885101
+"83617","Emmett","ID","Delta Fitness","121 S Commercial Ave","83617",43.875187041485404,-116.50182869803423
+"83619","Fruitland","ID","The Treadmill","The Obuch's","83672",43.980812,-116.960543
+"83619","Fruitland","ID","Fit For Life Health Club","not_available","97914",44.027635874781005,-116.9623680166418
+"83619","Fruitland","ID","Ontario Cross Training Academy","432 N Oregon St","97914",44.030357360839844,-116.96142578125
+"83619","Fruitland","ID","bodyshop fitness center","not_available","83619",44.0234149517418,-116.9232051184557
+"83622","Garden Valley","ID","Garden Valley Fitness","not_available","83622",44.116843,-115.974823
+"83634","Kuna","ID","Freedom Fitness","not_available","83634",43.48736119541838,-116.40505213892938
+"83634","Kuna","ID","Micron Fitness Center","not_available","83716",43.52806511361036,-116.14375799646345
+"83642","Meridian","ID","Axiom Fitness","3505 E Monarch Sky Ln #220","83646",43.621226,-116.3511
+"83642","Meridian","ID","Scentsy","3540 E Lanark St","83642",43.60920105344903,-116.35454773601947
+"83642","Meridian","ID","Axiom","1455 S Country Terrace Way","83642",43.59182421642845,-116.39186470712025
+"83642","Meridian","ID","Jump Time Idaho","1375 E Fairview Ave","83642",43.619140606880336,-116.37699271688214
+"83642","Meridian","ID","HomeCourt YMCA","936 Taylor Ave","83642",43.60748739877737,-116.4053905032248
+"83642","Meridian","ID","Powerhouse Fitness Inc Meridian","not_available","83642",43.61482311730082,-116.39197692043844
+"83642","Meridian","ID","Body Renew","Progress","not_available",43.597286,-116.390102
+"83642","Meridian","ID","Idaho Athletic Club","2340 S Eagle Rd","83642",43.58281546365574,-116.35345381092786
+"83642","Meridian","ID","ISP Gym","700 S Stratford Dr","83642",43.598976135253906,-116.3829345703125
+"83642","Meridian","ID","Scentsy Gym","3670 E Lanark St","83642",43.607345,-116.34821799999999
+"83642","Meridian","ID","The Fitness Life","4585 S Cloverdale Rd","83709",43.561538,-116.33475
+"83642","Meridian","ID","Muscle Pharm","12400 W Overland Rd","83709",43.59087,-116.33684
+"83642","Meridian","ID","Meridian Academy Of Gymanstics","1530 E Commercial Dr Ste 105","83642",43.610092,-116.37521
+"83642","Meridian","ID","Curves","Fairview Ave # 105","83642",43.618790999999995,-116.36911599999999
+"83642","Meridian","ID","Competitive Edge Athletic Performance Center","280 E Corporate Dr","83642",43.599445,-116.390407
+"83642","Meridian","ID","T-Mobile Call Center","3265 E Goldstone Way","83642",43.58497517983108,-116.35263641515574
+"83642","Meridian","ID","YogaSix","3055 E Fairview Ave Ste 210","83642",43.6187713,-116.3578696
+"83642","Meridian","ID","Idaho Athletic Club","1450 E Fairview Ave","83642",43.619562232245066,-116.37733469182706
+"83642","Meridian","ID","Crossfit Clarity","743 N Ralstin St","83642",43.611393,-116.376665
+"83646","Meridian","ID","Shapes Fitness For Women","4736 North Park Crossing Avenue","83646",43.647214,-116.375922
+"83646","Meridian","ID","YogaSix","6360 N Saguaro Hills Ave","83646",43.6624093,-116.3816365
+"83646","Meridian","ID","Orangetheory Fitness","2970 N Eagle Rd","83646",43.631834,-116.353833
+"83646","Meridian","ID","YMCA","5959 N Discovery Way","83713",43.65896918781496,-116.34205748060116
+"83646","Meridian","ID","F45 Training Meridian West","1750 W McMillan Rd","83646",43.6487884,-116.415489
+"83646","Meridian","ID","Gold's Gym","2932 N Eagle Rd #101","83646",43.6312642,-116.3519008
+"83646","Meridian","ID","Body Renew Fitness","2280 W Everest Ln","83646",43.66239493453689,-116.42270290047577
+"83646","Meridian","ID","Anytime Fitness","80 E Ustick Rd","83646",43.63414,-116.39312
+"83646","Meridian","ID","CYCLEBAR","3690 E Monarch Sky Ln Ste 120","83646",43.62112526849228,-116.34829255671127
+"83647","Mountain Home","ID","MHAFB Gym","not_available","83648",43.05453372262957,-115.8665351006882
+"83647","Mountain Home","ID","Peak Fitness","not_available","83647",43.126312,-115.705246
+"83647","Mountain Home","ID","The Gym","My Home","83647",43.287753,-115.709343
+"83647","Mountain Home","ID","Anytime Fitness","2600 American Legion Blvd Ste 110","83647",43.13385,-115.66895
+"83651","Nampa","ID","Torcher Basement","1719 5th St S","83651",43.571539,-116.557952
+"83651","Nampa","ID","Stamina Personal Training","116 14th Ave S","83651",43.576651,-116.558077
+"83651","Nampa","ID","Just Results Personal Training","3rd St So","not_available",43.578213,-116.56086
+"83651","Nampa","ID","Genesis Fitness","16436 N Franklin Blvd","83687",43.611616999999995,-116.552438
+"83651","Nampa","ID","Snake River Crossfit","116 14th","83651",43.576807585199894,-116.55776150229269
+"83686","Nampa","ID","Nampa Recreation Center","131 Constitution Way","83686",43.55232135938141,-116.56970570232866
+"83686","Nampa","ID","208 Jiu Jitsu Academy","1127 12th Ave Rd","83686",43.5571238,-116.5740422
+"83686","Nampa","ID","Anytime Fitness","2926 E Greenhurst Rd","83686",43.547368,-116.53414
+"83686","Nampa","ID","Curves","1312 S Edgewater Cir","83686",43.55464,-116.581616
+"83687","Nampa","ID","Western Elite Academy","2804 Brandt Ave","83687",43.592616,-116.536846
+"83687","Nampa","ID","St Al's Rehab","2707 Garrity Blvd","83687",43.58628463745117,-116.53758239746094
+"83687","Nampa","ID","Crunch Fitness - Nampa","5251 E Exchange Way","83687",43.59808521924502,-116.50631099939346
+"83687","Nampa","ID","Idaho Athletic Club","4217 Garrity Blvd","83687",43.59854413984399,-116.50599251497655
+"83687","Nampa","ID","YogaSix","1214 N Galleria Dr","83687",43.595859000000004,-116.50963600000001
+"83702","Boise","ID","Anytime Fitness","1746 W. State St.","83702",43.62566,-116.21067
+"83702","Boise","ID","YMCA TRI Cave","1050 W State St","83702",43.620330810546875,-116.20297241210938
+"83702","Boise","ID","Royal Plaza Gym","1112 W Main St","83702",43.61782455444336,-116.20714569091797
+"83702","Boise","ID","UpCycle","not_available","83702",43.613458,-116.205943
+"83702","Boise","ID","A2O Fitness","511 S Americana Blvd","83702",43.61855362240491,-116.21558763851088
+"83702","Boise","ID","Fitness center","Capitol Blvd","83702",43.61280914727748,-116.20502632109381
+"83702","Boise","ID","Beyond Fit","1187 W River St","83702",43.61368942260742,-116.21476745605469
+"83702","Boise","ID","D Fine Atheltic Club","245 S Capitol Blvd","83702",43.614192962646484,-116.20401000976562
+"83702","Boise","ID","Pure Barre","550 S Broadway Ave Ste 110","83702",43.605242,-116.192868
+"83702","Boise","ID","Grove Fitness and Spa","245 S Capitol Blvd Fl 5","83702",43.61420766023445,-116.20442292002393
+"83702","Boise","ID","Verdant CrossFit","528 S Americana Blvd","83702",43.617812,-116.21605
+"83702","Boise","ID","The Fitness Company","2537 W State St","83702",43.630652000000005,-116.222066
+"83703","Boise","ID","208 Fit Clubs - Boise's Free Fit Clubs - Hosted @ Body & Soul Fitness","6419 W Ustick Rd","83704",43.633127,-116.262127
+"83703","Boise","ID","Goss's Athletic Club","not_available","83703",43.666825,-116.263783
+"83703","Boise","ID","Fitness 19","3361 N Cole Rd","83704",43.63540112454766,-116.27591785078818
+"83703","Boise","ID","Idaho Athletic Club","2999 N Lakeharbor Ln","83703",43.65379535466191,-116.25658692772492
+"83703","Boise","ID","Crunch Fitness - Boise State Street","2999 N Lakeharbor Lane","83703",43.6537746,-116.2571025
+"83704","Boise","ID","Fit Llc","6143 W Corporal Ln","83704",43.608351,-116.257962
+"83704","Boise","ID","Performance Inc","274 N Maple Grove Rd Ste 105","83704",43.607015000000004,-116.29281599999999
+"83704","Boise","ID","St. Alphonsus Rehabilitation","902 Curtis Road","83706",43.60892654157434,-116.25362938364104
+"83704","Boise","ID","Als Gym","not_available","83706",43.61456298082417,-116.25619579702062
+"83704","Boise","ID","Fitness Holding, Llc","7316 W Fairview Ave","83704",43.62033350000001,-116.2735405
+"83704","Boise","ID","iLoveKickboxing - Boise, ID","7940 W Rifleman Street, Suite 100","83704",43.6126199,-116.2802663
+"83704","Boise","ID","B-Hoopin","8455 W Westpark St","83704",43.606406,-116.28666899999999
+"83704","Boise","ID","Sharkey's Gym","not_available","83704",43.651464,-116.313161
+"83704","Boise","ID","PowerSeeker CrossFit","222 N Maple Grove Rd","83704",43.60717010498047,-116.29337310791016
+"83704","Boise","ID","Hardcore Fitness Training Center","5880 W Franklin Rd","83709",43.603757,-116.254665
+"83704","Boise","ID","YogaSix","5655 N Glenwood St Ste 100","83714",43.6559946,-116.2809125
+"83704","Boise","ID","Jack City Fitness","21 N Allumbaugh St","83704",43.605101,-116.267797
+"83704","Boise","ID","The Athletic Training Center","10259 W Emerald St Ste 160","83704",43.60942459106445,-116.31049346923828
+"83704","Boise","ID","Volition Fitness","5669 N Glenwood St","83714",43.656253,-116.2803
+"83704","Boise","ID","iLoveKickboxing - Boise","7940 W Rifleman St Ste 100","83704",43.6127111467358,-116.2805209209015
+"83704","Boise","ID","Fitclub Fitness","6149 W Corporal Ln","83704",43.60834884643555,-116.2580795288086
+"83705","Boise","ID","Axiom Fitness Center","801 E Parkcenter Blvd","83706",43.58381,-116.17398
+"83705","Boise","ID","Orangetheory Fitness","979 E Parkcenter Blvd","83706",43.5822947,-116.1714096
+"83705","Boise","ID","Johnny's Fitclub Fitness","3658 S Findley Ave","83705",43.58186938677377,-116.17425624351272
+"83705","Boise","ID","R Studio","not_available","83705",43.581872,-116.214074
+"83705","Boise","ID","YogaSix","2122 S Broadway Ave","83706",43.5857977,-116.1929323
+"83705","Boise","ID","Curves","2193 broadway","not_available",43.58505161,-116.19400721
+"83705","Boise","ID","SV Gym","250 E Parkcenter Blvd","83706",43.59973907470703,-116.18098449707031
+"83705","Boise","ID","Ascent Life Fitness","2404 S Orchard St Ste 300","83705",43.5809203,-116.2435965
+"83705","Boise","ID","CrossFit Composure","3243 S Federal Way","83705",43.572098,-116.19086
+"83705","Boise","ID","Fitness Together","1175 E. Parkcenter, Suite 105","83706",43.58166416757397,-116.16854993298318
+"83705","Boise","ID","Courtyard Warrior Fitness Center","not_available","83712",43.572202,-116.218321
+"83705","Boise","ID","Anytime Fitness","6573 Overland Rd","83709",43.58977,-116.26329
+"83706","Boise","ID","Boise CrossFit","3235 W Chinden Blvd","83714",43.6215426,-116.2383682
+"83706","Boise","ID","Fitness Together - Southeast Boise","1175 E Parkcenter Blvd","83706",43.573833,-116.15503
+"83709","Boise","ID","Crunch Fitness - Boise Black Eagle","1435 S Maple Grove Road","83709",43.59145142943782,-116.29525113328872
+"83709","Boise","ID","The REG","not_available","83709",43.602398,-116.269417
+"83709","Boise","ID","Traditional ATA Martial Arts","8505 W Overland Rd","83709",43.5900263,-116.2879391
+"83709","Boise","ID","Crossfit South Boise","7646 W Lemhi St","83709",43.583945,-116.27751699999999
+"83709","Boise","ID","Wings Center","1875 S Century Way","83709",43.58654005849287,-116.27140331769473
+"83709","Boise","ID","Charter Pointe Clubhouse Gym","9301 W Mossywood Dr","83709",43.53821563720703,-116.29938507080078
+"83709","Boise","ID","Treasure Valley Fitness","7211 W Colonial St","83709",43.601723889928635,-116.27192068628463
+"83709","Boise","ID","curves","3979 Overland Road","83642",43.589988708496094,-116.34471130371094
+"83709","Boise","ID","Idaho Athletic Club","1435 S Maple Grove Rd","83709",43.59155505691193,-116.2950566983334
+"83713","Boise","ID","Warrior Fit","2840 Wildwood St","83713",43.630983,-116.321483
+"83713","Boise","ID","Welcyon, Fitness After 50, Boise","12505 W Chinden Blvd","83713",43.66232,-116.33811
+"83713","Boise","ID","ClarityFit","11483 W Fairview Ave","83713",43.618408203125,-116.32563018798828
+"83713","Boise","ID","HPs Gym","HP Campus","83713",43.65922635331746,-116.32355593975456
+"83713","Boise","ID","Fit Physique","6213 N Cloverdale Rd Ste 155","83713",43.660998,-116.33523400000001
+"83713","Boise","ID","Body Renew Fitness","3387 N Five Mile Rd","83713",43.63516874407869,-116.31533273955458
+"83716","Boise","ID","Anytime Fitness","6582 S. Federal Way","83716",43.54206,-116.15323
+"83814","Coeur D Alene","ID","The Kroc Center","1765 W Golf Course Rd","83815",47.70587156183393,-116.81018263173426
+"83814","Coeur D Alene","ID","Northland Strength","7680 N Government Way #3","83815",47.741524,-116.78617
+"83814","Coeur D Alene","ID","Peak Fitness","901 mulling ave","83854",47.715462226401215,-116.9348624927845
+"83814","Coeur D Alene","ID","Funtastics","6360 N Sunshine St","83815",47.72880035856758,-116.790891323808
+"83814","Coeur D Alene","ID","CDA Athletic Basketball Court","not_available","83814",47.674903391880825,-116.78340499135227
+"83814","Coeur D Alene","ID","PEAK Fitness","190 W Centa Ave","83835",47.74681816727223,-116.78894532041207
+"83814","Coeur D Alene","ID","Fuel Fitness & Nutrition","2641 N Government Way","83815",47.702152252197266,-116.78715515136719
+"83814","Coeur D Alene","ID","Cda cycling & fitness","2402 N Government Way","83814",47.69923400878906,-116.78601837158203
+"83814","Coeur D Alene","ID","Anytime Fitness","900 N. Hwy 41 Suite 6","83854",47.7164,-116.89235
+"83814","Coeur D Alene","ID","CYCLEBAR","1430 West Appleway","83814",47.7012252,-116.804376
+"83814","Coeur D Alene","ID","farmgirlfit","2930 N Government Way","83815",47.70431137084961,-116.78594207763672
+"83814","Coeur D Alene","ID","Peak Fitness","1132-1182 N Syringa St","83854",47.71608742300128,-116.92441625943086
+"83814","Coeur D Alene","ID","Ultimate Fitness","201 Sunset Avenue","83815",47.71302032470703,-116.79039001464844
+"83814","Coeur D Alene","ID","Snap Fitness","not_available","83815",47.744443925685076,-116.8297254477089
+"83814","Coeur D Alene","ID","Curves","6190 N Sunshine St","83815",47.72774887084961,-116.79048156738281
+"83814","Coeur D Alene","ID","Edge Fitness","Seltice Way","83854",47.710566537907496,-116.92116699286981
+"83814","Coeur D Alene","ID","Parkside Gym","601 E Front Ave, Coeur d'Alene, ID 83814","83814",47.67280578613281,-116.7775650024414
+"83814","Coeur D Alene","ID","One On One Fitness","7680 N Government Way","83815",47.74153137207031,-116.78611755371094
+"83814","Coeur D Alene","ID","Idaho Iron","Septice Way","83854",47.71283294503575,-116.98112104248212
+"83814","Coeur D Alene","ID","Fitness on 4th","1104 N 4th St","83814",47.68445901522662,-116.780526638031
+"83814","Coeur D Alene","ID","Crossfit CDA","301 N 4th St","83814",47.675349,-116.78171999999999
+"83815","Coeur D Alene","ID","Anytime Fitness","370 E Kathleen Ave","83815",47.71492,-116.78094
+"83815","Coeur D Alene","ID","Exercise Institute","8214 N Government Way","83835",47.7460823059082,-116.78575134277344
+"83835","Hayden","ID","Snap Fitness","231 W Hayden Ave","83835",47.75948715209961,-116.78935241699219
+"83837","Kellogg","ID","Silver Valley Fitness","Main Street","83837",47.53474700359264,-116.12255226650795
+"83843","Moscow","ID","Anytime Fitness","436 N. Main St.","83843",46.73828,-117.00094
+"83843","Moscow","ID","The Body Shop","not_available","83843",46.674407221012665,-117.00723913350589
+"83852","Ponderay","ID","cor24fitness","400 Schweitzer Plaza Dr Ste 6","83852",48.305208567579,-116.54399299903889
+"83856","Priest River","ID","Swac","not_available","83864",48.163201188816956,-116.9089991787642
+"83860","Sagle","ID","Sandpoint West Athletic Club","1905 Pine St","83864",48.27255739954422,-116.5758312884169
+"83860","Sagle","ID","Blue Earth Yoga","301 Cedar St Ste 106","83864",48.2758086,-116.5508302
+"83860","Sagle","ID","Natural Fitness","not_available","83860",48.26964272656758,-116.56407822682318
+"83860","Sagle","ID","TRX","1st street","83864",48.273020457198385,-116.5482956669084

@@ -1,0 +1,680 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"40004","Bardstown","KY","Scott Bicentennial Park","Scott Bicentennial Park, Dayton, WY 82836","82836",37.807911036265324,-85.45400390011648
+"40004","Bardstown","KY","Jc Community Park","not_available","not_available",37.820289731025696,-85.45709592494387
+"40004","Bardstown","KY","Bardstown Recreational Center","not_available","40004",37.81167497098469,-85.47250683446752
+"40004","Bardstown","KY","Bardstown Community Park","499 E Forrest Ave","40004",37.82098855,-85.45659438
+"40006","Bedford","KY","Morgan Conservation Park","1200 E Hwy 524","40031",38.50034760234231,-85.3810029212942
+"40014","Crestwood","KY","Peggy Baker Park","6887 Abbott Ln","40014",38.32410430908203,-85.43351745605469
+"40014","Crestwood","KY","Briar Hill Park","7400 E Orchard Grass Blvd","40014",38.32570691475615,-85.51482508676196
+"40014","Crestwood","KY","Maples Park","not_available","40014",38.323857,-85.477386
+"40014","Crestwood","KY","Oldham County Parks & Recreation Department","100 W Jefferson St Ste 4","40031",38.3937521,-85.4378967
+"40014","Crestwood","KY","Jenn's Adventureland","not_available","40241",38.291181,-85.534651
+"40019","Eminence","KY","Coach ""D"" Park","not_available","40019",38.36434319169529,-85.17684131174308
+"40023","Fisherville","KY","Beckley Creek Park","not_available","40245",38.2178052273046,-85.47733417645563
+"40023","Fisherville","KY","William F. Miles Park","15712 Shelbyville Rd","40245",38.23476576538199,-85.46455764266675
+"40023","Fisherville","KY","Creekside Park","Louisville and Nashville Railroad","40245",38.21768764916662,-85.4774952482024
+"40026","Goshen","KY","Wendell Moore Park","1551 N Highway 393","40031",38.40116882324219,-85.44522857666016
+"40031","La Grange","KY","Eddie Mundo Jr Memorial Park","Washington Ct","40031",38.40767998,-85.37227839
+"40031","La Grange","KY","Westport Park","6617 Main St","40077",38.478092193603516,-85.48030853271484
+"40033","Lebanon","KY","Graham Memorial Park","not_available","40033",37.56189810574126,-85.24361980847382
+"40045","Milton","KY","Kiwanis Park","not_available","47250",38.734291076660156,-85.38424682617188
+"40045","Milton","KY","Bicentennial Park","100 West Street","not_available",38.733428955078125,-85.38036346435547
+"40045","Milton","KY","Fireman's Park","Vaughn Drive","47250",38.733106424346005,-85.37784625065943
+"40059","Prospect","KY","Garvin Brown Preserve","6453-6517 Bass Rd","40059",38.35315382754902,-85.63017531788533
+"40059","Prospect","KY","Richard H. Colston Park","301 Mulberry St","47130",38.33566665649414,-85.65216064453125
+"40059","Prospect","KY","Hayes Kenndey Park","not_available","40059",38.351842932098464,-85.63031585468688
+"40059","Prospect","KY","Hays Kennedy Park","7303 Beachland Beach Rd","40059",38.3512755847902,-85.63032087385153
+"40065","Shelbyville","KY","Red Orchard Park","786 kentucky st","40065",38.21171366380696,-85.23019676037019
+"40065","Shelbyville","KY","Clear Creek Park","not_available","40065",38.224338853731545,-85.21891482308656
+"40065","Shelbyville","KY","Shelby County Parks and Recreation","717 Burks Branch Rd","40065",38.225868225097656,-85.21943664550781
+"40067","Simpsonville","KY","Long Run Park","1605 Flat Rock Rd","40245",38.26402927270754,-85.42213439941406
+"40071","Taylorsville","KY","Turkey Run Park","Seatonville Rd","not_available",38.131024418674684,-85.5188635866529
+"40071","Taylorsville","KY","Waterford Community Park","Taylorsville,KY,40071","40071",38.0317304,-85.3424533
+"40104","Battletown","KY","Lock and Dam Historical Park","Wyandotte Ave","not_available",38.18793487548828,-86.33061981201172
+"40108","Brandenburg","KY","Otter Creek Recreational Area","850 Otter Creek Park Rd","40108",37.94031314550215,-86.04855139851531
+"40108","Brandenburg","KY","Meade-Olin Park","Park Rd","40108",37.99496322154042,-86.16119923734703
+"40109","Brooks","KY","Paul Yost Recreation Area","not_available","40118",38.084717,-85.752856
+"40111","Cloverport","KY","Cloverport Riverfront","not_available","40111",37.83702,-86.63423
+"40118","Fairdale","KY","Woodland Estates Trailer Park","8201 Minor Ln","40219",38.127022,-85.708696
+"40118","Fairdale","KY","Fairdale Mini Park","10714 W Manslick Rd","40118",38.105171999999996,-85.759274
+"40118","Fairdale","KY","Nelson Hornbeck Park","4300 Coram Way","40118",38.108040114932905,-85.75674867692473
+"40121","Fort Knox","KY","Keyes Park","Ballard Ave","40121",37.89620248056253,-85.96932979560052
+"40121","Fort Knox","KY","Thorne Park","not_available","40121",37.88009899805732,-85.96184886363844
+"40121","Fort Knox","KY","Dietz Park","7837 Estrada Ave","40121",37.87656784057617,-85.95818328857422
+"40121","Fort Knox","KY","Heard Park","Spearhead Division Ave","40121",37.90183019362931,-85.9195339679718
+"40121","Fort Knox","KY","The Park On Gilkey St.","Gilkey street","40121",37.90316287343646,-85.98315172170109
+"40150","Lebanon Junction","KY","Pines Picnic Area","not_available","40013",37.918856,-85.656942
+"40160","Radcliff","KY","Dawley Park","930 Shelton Rd","40160",37.81552132654497,-85.93907526688731
+"40160","Radcliff","KY","Radcliff City Park","City Park Dr","40160",37.85635511310732,-85.95634460449219
+"40160","Radcliff","KY","Saunders Springs Nature Preserve","N Wilson Rd","40160",37.8549981420496,-85.93741362632265
+"40162","Rineyville","KY","Rineyville Community Park","not_available","40162",37.72917237823509,-85.97465556237013
+"40165","Shepherdsville","KY","Zerzy Lil Pavillion","not_available","40165",37.947175,-85.690617
+"40165","Shepherdsville","KY","Medora Park","6211 Pendleton Rd","40272",38.06061553955078,-85.8792953491211
+"40170","Stephensport","KY","Mulzer Park","not_available","47574",38.028487016264364,-86.52602434158325
+"40175","Vine Grove","KY","Optimist Park","1 Volunteer Way","not_available",37.8139623759714,-85.9860183629047
+"40177","West Point","KY","Thomas R Duke Park","2-98 State Highway 835","40177",37.998977418344666,-85.94251314754894
+"40177","West Point","KY","Kulmer Beach Reserve","17200 Kulmer Beach Rd","40177",38.009492207032984,-85.93245832918106
+"40177","West Point","KY","Noe's Rest Park","12825 Hwy 111 SE","47117",38.01539501067457,-85.9526002407074
+"40202","Louisville","KY","Waterfront Park","E Witherspoon St.","40202",38.258979,-85.746332
+"40202","Louisville","KY","Big Four Station","223 Pearl St","47130",38.270829001158866,-85.74199034250519
+"40202","Louisville","KY","Van Dyke Park","West Riverside Dr.","47130",38.26891168312291,-85.74111382717076
+"40202","Louisville","KY","Belvedere/Riverfront Plaza","500 W Main St","40202",38.258202350365956,-85.75807557312145
+"40202","Louisville","KY","Ashland Park","421-423 E Riverside Dr","47129",38.27035087269137,-85.75510382607446
+"40202","Louisville","KY","The Great Lawn","Waterfront Park","40202",38.2598761663781,-85.74771165847778
+"40202","Louisville","KY","Jefferson Square Park","Sixth","40203",38.25393672757613,-85.76002299785614
+"40202","Louisville","KY","Sculpture Park in NuLu","634 E Market St","40202",38.2531852722168,-85.74052429199219
+"40202","Louisville","KY","Bill Howard Memorial Park","12th and Main Streets","40203",38.25791734334078,-85.76926291041289
+"40202","Louisville","KY","Founder's Square","Muhammad Ali Blvd","not_available",38.25184000816303,-85.75957767950842
+"40202","Louisville","KY","Humana Smoke Park","not_available","40202",38.25672585875349,-85.75096001517646
+"40202","Louisville","KY","Preservation Station Park","120 W. Market St","not_available",38.27070836412923,-85.7407331645558
+"40202","Louisville","KY","Old Walnut Street Park","904 W Muhammad Ali Blvd","40203",38.25202,-85.76708599999999
+"40202","Louisville","KY","Ballard Park","525 Caldwell St","40203",38.2512599768558,-85.73996682229306
+"40202","Louisville","KY","Baxter Square","301 S 12th St","not_available",38.25479507446289,-85.76949310302734
+"40202","Louisville","KY","Martin Luther King, Jr. Park","Chestnut St","not_available",38.24910057062364,-85.7620882987976
+"40202","Louisville","KY","Fort Nelson Park","Seventh St","40202",38.257259130477905,-85.76173424720764
+"40202","Louisville","KY","Louisville Riverwalk","Louisville Riverwalk","40202",38.26048272003858,-85.74718594551086
+"40203","Louisville","KY","The Falls of the Ohio Interpretive Center","201 W Riverside Dr","47129",38.276429312860316,-85.76343473462116
+"40203","Louisville","KY","Shelby Park","600 E Oak St","40203",38.233579,-85.745551
+"40203","Louisville","KY","Luther F. Warder Park","109 E Court Ave","47130",38.274791719501046,-85.74188015280478
+"40203","Louisville","KY","Sheppard Square Park","not_available","40203",38.242866,-85.742953
+"40203","Louisville","KY","California Leisure Open Space","963 Dixie Highway","40210",38.242183685302734,-85.78450012207031
+"40203","Louisville","KY","Toonerville Trolley Park","218 E Oak St","40203",38.233664000000005,-85.752782
+"40203","Louisville","KY","California Park","1104 S. 16th St.","40210",38.23944091796875,-85.78111267089844
+"40203","Louisville","KY","Magnolia Park","1407 S. Second St","40208",38.228372406818856,-85.76042885415309
+"40203","Louisville","KY","Memorial Park","971 S 4th St","40203",38.23905944824219,-85.7591552734375
+"40203","Louisville","KY","Colin's Yard","N Magnolia","not_available",38.228614,-85.764872
+"40203","Louisville","KY","Sheppard Park","1601 Magazine St","40203",38.250457,-85.779016
+"40203","Louisville","KY","LaPorte Park","2529 Bank St","40212",38.269012451171875,-85.78888702392578
+"40203","Louisville","KY","Shakespeare In The Park","1340 S 4th St","40208",38.230533496081584,-85.76267836306883
+"40204","Louisville","KY","Cherokee Park","745 Cochran Hill Rd","40206",38.23880447294724,-85.7012195177155
+"40204","Louisville","KY","Willow Park","1402 Willow Ave","40204",38.23633460381598,-85.70957064628601
+"40204","Louisville","KY","Breslin Park","1388 Lexington Rd","40206",38.24973678588867,-85.72081756591797
+"40204","Louisville","KY","Irish Hill Park","1131 Lexington Rd","40206",38.24992,-85.729679
+"40204","Louisville","KY","Lucille Grant park","E. Chestnut St.","not_available",38.24939125465248,-85.73365151882172
+"40204","Louisville","KY","Castlewood Open Space","Rosewood Ave & Castlewood Ave","40204",38.23082617737082,-85.7216464341198
+"40204","Louisville","KY","Tyler Park","1501 Castlewood Ave","40204",38.23105708461902,-85.71723196066495
+"40204","Louisville","KY","Gnadinger Park","103 Ellison Ave","40204",38.23009635912946,-85.73301413791988
+"40204","Louisville","KY","German-Paristown Park","1134 E Kentucky St","40204",38.235084533691406,-85.73072052001953
+"40204","Louisville","KY","Emerson Park","Hickory St","40217",38.224566042972036,-85.7382888445595
+"40204","Louisville","KY","skate park","not_available","40204",38.24860763549805,-85.72538757324219
+"40204","Louisville","KY","Michaels Park","Eastern Parkway","40206",38.225167811791685,-85.72907030582428
+"40204","Louisville","KY","Cherokee Park Frisbee/Rugby Field","Cherokee Park Rd.","not_available",38.24154701786695,-85.69848956427367
+"40204","Louisville","KY","Bellarmine University Park And Playground","Newburg","not_available",38.22536544596511,-85.7081864020548
+"40204","Louisville","KY","Splashground","not_available","40205",38.23873,-85.69731
+"40205","Louisville","KY","Seneca Park","3151 Pee Wee Reese Rd.","40207",38.24235204855053,-85.67063459981492
+"40205","Louisville","KY","Joe Creason Park","1297 Trevilian Way","40213",38.21063638841193,-85.70316933516625
+"40205","Louisville","KY","Big Rock","Beargrass Rd. & Park Boundary Rd.","40205",38.2327914003192,-85.68260492756498
+"40205","Louisville","KY","PeeWee Park","2913 Klondike Ln","40218",38.205296999999995,-85.637699
+"40205","Louisville","KY","Farnsley Park","3100 Wedgewood Ave","40220",38.22034572767958,-85.64746692715342
+"40205","Louisville","KY","Cyril Allgeier Park","4101 Cadillac Ct","40213",38.200958251953125,-85.70187377929688
+"40205","Louisville","KY","Snack Machine Park","not_available","40217",38.21537169582396,-85.72226272746693
+"40205","Louisville","KY","Hal Warheim Park","1832 Overlook Terrace","not_available",38.219871520996094,-85.69471740722656
+"40205","Louisville","KY","Douglass Park","2305 Douglass Blvd","40205",38.230152000000004,-85.685941
+"40206","Louisville","KY","Thurman Hutchins Park","3734 River Rd","40207",38.28386742005203,-85.69079254202911
+"40206","Louisville","KY","Crescent Hill Park","3110 Brownsboro Rd","40206",38.260875,-85.683222
+"40206","Louisville","KY","Yellow Lot","1401-1455 River Rd","40206",38.26392288803771,-85.73027889772902
+"40206","Louisville","KY","Port Fulton Park","201 W. High St","47130",38.278913,-85.724963
+"40206","Louisville","KY","Kennedy Court Park","225 Kennedy Ave","40206",38.252498626708984,-85.68775939941406
+"40206","Louisville","KY","Ginny Reichard Park","1001 Franklin St","not_available",38.256332,-85.733243
+"40206","Louisville","KY","S. Harlan Vogt Park","133 E. Park Pl","not_available",38.281060421631025,-85.72372198104858
+"40206","Louisville","KY","Story Avenue Park","1519 Story Ave","40206",38.25824737548828,-85.72439575195312
+"40206","Louisville","KY","Spring River Business Park","River Road","not_available",38.27291992131457,-85.70828313537659
+"40206","Louisville","KY","Thruston Park","Thruston Park, Louisville, KY 40206","40206",38.268203,-85.720915
+"40206","Louisville","KY","Division Street Park","320 Division St","not_available",38.278626441728534,-85.72671532630919
+"40206","Louisville","KY","Clifton Park","133 N Charlton St","40206",38.255165100097656,-85.71926879882812
+"40207","Louisville","KY","Brown Park","Kresge Way","40207",38.24177814364227,-85.63541508232345
+"40207","Louisville","KY","Community Park","Ten Pin Lane","40207",38.253062280268985,-85.62388591687231
+"40207","Louisville","KY","Carrie Gaulbert Cox Park","3730 River Rd","40207",38.28666415886725,-85.68934363180908
+"40207","Louisville","KY","Park Parking Lot","not_available","47130",38.29620957496677,-85.70472312292387
+"40207","Louisville","KY","Eastover Park","118 Sacred Heart Ln","40206",38.25288391113281,-85.67859649658203
+"40208","Louisville","KY","South Central Park","2400 Colorado Ave","40208",38.212346999999994,-85.776822
+"40208","Louisville","KY","G.G. Moore Park","626 M St","40208",38.20927429199219,-85.76973724365234
+"40208","Louisville","KY","Churchill Park","2649 Helm St","40209",38.207091999999996,-85.753248
+"40208","Louisville","KY","Parkhill Park","1703 S 13th St","40210",38.224645,-85.776668
+"40208","Louisville","KY","Homeview And Colorado","not_available","40215",38.21019425078861,-85.7818438934018
+"40208","Louisville","KY","Wayside Park","3190 S 3rd St","40214",38.20153045654297,-85.76490020751953
+"40208","Louisville","KY","Wheelmen's Bench","3186 S 3rd St","40214",38.201941999999995,-85.764898
+"40208","Louisville","KY","Tree Fell On A Trailer","not_available","40208",38.228298,-85.764622
+"40208","Louisville","KY","William B. Stansbury Park","2302 S 3rd St","40208",38.215975,-85.762478
+"40208","Louisville","KY","Fountain Ct","406 Fountain Ct","40208",38.227726000000004,-85.762124
+"40208","Louisville","KY","Bradley Park","2516 Bradley Ave","40217",38.207681,-85.745737
+"40209","Louisville","KY","Huston Quinn Park","4105 S 1st St","40214",38.1960334777832,-85.76104736328125
+"40209","Louisville","KY","Naval Ordnance Station Louisville","Rochester Dr.","40214",38.17018736069492,-85.75990634660965
+"40210","Louisville","KY","Algonquin Park","1614 Cypress St","40210",38.228919299801994,-85.80608299264696
+"40210","Louisville","KY","Victory Park","1051 S 23rd St","40210",38.241899,-85.791589
+"40210","Louisville","KY","35th Street Park","814 S 35th St","40217",38.247230529785156,-85.8102798461914
+"40210","Louisville","KY","St. Louis Park","2023 St. Louis Ave","40210",38.23387805667881,-85.79042851924895
+"40211","Louisville","KY","Shawnee Park","4501 W Broadway","40211",38.25577337185174,-85.82974433898926
+"40211","Louisville","KY","Chickasaw Park","1200 Southwestern Pkwy","40211",38.24135145715147,-85.83369442142586
+"40211","Louisville","KY","E. Leland Taylor Park","317 N 38th St","40212",38.268066,-85.81009399999999
+"40211","Louisville","KY","Russell Lee Park","3701 Southern Ave","40211",38.233333587646484,-85.81623077392578
+"40211","Louisville","KY","Westonia Park","2900 Rowan St","40212",38.262461,-85.79933199999999
+"40211","Louisville","KY","William Britt Park","2801 Magazine St","40211",38.252288818359375,-85.79798889160156
+"40211","Louisville","KY","Elliott Square","630 S 28th St","40211",38.251528,-85.798354
+"40211","Louisville","KY","Lake Dreamland Park","4400 Lake Dreamland Rd","40216",38.208017,-85.859987
+"40211","Louisville","KY","Ivy Court Park","413 Louis Coleman Jr Dr","40212",38.258297,-85.807152
+"40211","Louisville","KY","Flaget Field Park","4425 Greenwood Ave","40211",38.245338439941406,-85.82642364501953
+"40211","Louisville","KY","Pool Bus White Horse Deluxe Coach","Jl. Jend. Sudirman No. 681-687","40212",38.267365064462744,-85.7986307144165
+"40211","Louisville","KY","Slevin Park","341 N 25th St","40212",38.26461410522461,-85.7901611328125
+"40212","Louisville","KY","Bicentennial Park","E. Spring St.","not_available",38.285685181280265,-85.82322756927748
+"40212","Louisville","KY","New Albany Riverfront Amphitheatre","E. Main St.","47150",38.28224916958155,-85.82117183734685
+"40212","Louisville","KY","Portland Wharf Park","719 N 32nd St","not_available",38.276126861572266,-85.7990951538086
+"40212","Louisville","KY","Lewis and Clark Bicentennial Park","Harrison Ave","47129",38.288032492290995,-85.77805509599831
+"40212","Louisville","KY","Charles Young Park","2721 Lytle St","40212",38.27157211303711,-85.79352569580078
+"40212","Louisville","KY","Joe Kraft Park","500 W. 7th St.","47150",38.283469,-85.832579
+"40212","Louisville","KY","Portland Park","640 N 27th St","40212",38.273628,-85.791306
+"40212","Louisville","KY","Boone Square","1935 Rowan St","40203",38.261275,-85.781812
+"40212","Louisville","KY","Lannan Park","901 N 26th St","not_available",38.273615,-85.785174
+"40213","Louisville","KY","Bellevue Park","4711 Bellevue Ave","40215",38.18153381347656,-85.77386474609375
+"40213","Louisville","KY","Camp Taylor Memorial Park","4201 Lee Ave","40213",38.19752340474713,-85.70845703951555
+"40213","Louisville","KY","McNeely Lake Park","10500 Cedar Creek Rd","40229",38.13567533461746,-85.70113931803314
+"40213","Louisville","KY","Okolona Park","1114 Clay Ave.","40219",38.14188003540039,-85.69322204589844
+"40213","Louisville","KY","George Rogers Clark Park","1024 Thruston Ave","40217",38.215625506247214,-85.72851544445855
+"40213","Louisville","KY","Black Mudd Park","1708 Rangeland Rd","40219",38.163092,-85.66995
+"40213","Louisville","KY","Taman Tegallega","Otista","40233",38.19785462334198,-85.69747924804688
+"40213","Louisville","KY","Cliff Park","4666 Cliff Ave","40215",38.183093,-85.776701
+"40213","Louisville","KY","Lone Oak Park","not_available","40219",38.13804041927331,-85.6873632234111
+"40213","Louisville","KY","Auburndale Park","7260 Southside Dr.","40214",38.14958953857422,-85.77168273925781
+"40214","Louisville","KY","Iroquois Park","5216 New Cut Rd","40214",38.160018121114675,-85.77968175969322
+"40214","Louisville","KY","Shivley Park","not_available","40216",38.196151802618324,-85.8087430219954
+"40214","Louisville","KY","Wyandotte Park","1104 Beecher St","40215",38.191151,-85.779501
+"40214","Louisville","KY","Notre Dame Cross Country Practice","Shively Park","not_available",38.195873,-85.808029
+"40214","Louisville","KY","Watterson Lake Park","1714 S Wheatmore Dr","40215",38.187436,-85.798351
+"40214","Louisville","KY","Waverly Park","4800 Waverly Park Rd","40214",38.13215543030674,-85.82122222751566
+"40214","Louisville","KY","Leeds Park","Savage Drive","40216",38.18393452748916,-85.82719319155876
+"40214","Louisville","KY","William Harrison Park","3232 Oleanda Ave","not_available",38.20454406738281,-85.7866439819336
+"40216","Louisville","KY","Cane Run Park","4816 Cane Run Rd","40216",38.183323,-85.857
+"40216","Louisville","KY","Sylvania Park","6650 Sylvania Rd","40258",38.158735,-85.874229
+"40216","Louisville","KY","Riverside Gardens Park","3899 Lees Ln","not_available",38.190625,-85.866505
+"40218","Louisville","KY","Klondike Park","3809 Klondike Ln","40220",38.21124677740863,-85.63331112080263
+"40218","Louisville","KY","Buechel Park","247 Alpha Ave","40218",38.193403,-85.634623
+"40218","Louisville","KY","Petersburg Park","5008 E Indian Trail","40218",38.18284225463867,-85.66688537597656
+"40218","Louisville","KY","Norfolk Acres Park","4300 Coram Way","not_available",38.181119,-85.642076
+"40219","Louisville","KY","Farman Park","100 Farman Ct","40219",38.117716453207144,-85.67754532338924
+"40220","Louisville","KY","Des Pres Park","4709 Lowe Rd","40220",38.22269229361053,-85.60505845898652
+"40220","Louisville","KY","Stanley B Welch Park","not_available","40220",38.21959315782296,-85.58809300254937
+"40220","Louisville","KY","Duck Pond","10000 Linn Station Rd","40223",38.22435760498047,-85.57276153564453
+"40222","Louisville","KY","Robison Park","Robsion Park Dr","40222",38.26562698697261,-85.60501828664644
+"40222","Louisville","KY","Warwick Park","Kentucky Ave","40241",38.25834497354593,-85.61776646630418
+"40222","Louisville","KY","Robinson Park","Lake Ave","40222",38.26701969919333,-85.60781836509705
+"40223","Louisville","KY","Crosby Park","11500 Cedardale Rd","40223",38.25101852416992,-85.5399169921875
+"40223","Louisville","KY","E.P. ""Tom"" Sawyer Park","3000 Freys Hill Rd","40241",38.285090263625506,-85.5567495175532
+"40223","Louisville","KY","Hounz Lane Park","2300 Hounz Ln","40223",38.28197173888688,-85.57324632540436
+"40223","Louisville","KY","Berrytown Park","1300 Heafer Rd","40223",38.263215,-85.524012
+"40223","Louisville","KY","Old Central State Hospital","not_available","40223",38.27762826276255,-85.55432186855974
+"40228","Louisville","KY","Highview Park","7201 Outer Loop","40228",38.139052865372506,-85.6298892239662
+"40228","Louisville","KY","Fern Creek Park","8703 Ferndale Rd","40291",38.15799342439673,-85.60139260857981
+"40228","Louisville","KY","The park at hurstbourne","5315 Hames Trce","40291",38.164103970231565,-85.60537988581446
+"40229","Louisville","KY","Blue Lick  Park","4114 Mudd Ln","40229",38.08808161038593,-85.68583901068209
+"40229","Louisville","KY","Fairmount Falls Park","9800 Thixton Ln","40291",38.09189390263745,-85.57879686355591
+"40245","Louisville","KY","Papa John's Park","2002 Papa Johns Blvd","40299",38.21363830566406,-85.53176879882812
+"40258","Louisville","KY","Rose Farm Park","not_available","40258",38.145956,-85.838528
+"40258","Louisville","KY","Louisville Loop Access Point:  Riverview Park","8202 Greenwood Rd.","40258",38.147300720214844,-85.90261840820312
+"40258","Louisville","KY","Riverview Park","8202 Greenwood Rd","40258",38.14835358715558,-85.90160312525546
+"40272","Louisville","KY","Riverside, The Farnsley-Moorman Landing","7410 Moorman Rd","40272",38.09659735291698,-85.89774806225164
+"40291","Louisville","KY","Broad Run Park","not_available","40291",38.09791869854775,-85.55604161517677
+"40291","Louisville","KY","Charlie Vettiner Park","5550 Charlie Vettiner Park Dr","40299",38.16898774997918,-85.55997616039592
+"40291","Louisville","KY","Woodland Pavilion","11551 Bardstown Road","40291",38.098450343068365,-85.55432640507206
+"40299","Louisville","KY","Jeffersontown Veterans Memorial Park","10617 Taylorsville Rd","40299",38.190171124198955,-85.55630722116099
+"40299","Louisville","KY","Pope Lick Park","Taylorsville Rd","not_available",38.18449062687209,-85.48755121315477
+"40299","Louisville","KY","Fisherman's Park","5607 Old Heady Rd","40299",38.16796875,-85.5118637084961
+"40299","Louisville","KY","Floyds Fork Park","4002 South Pope Lick Rd.","40299",38.183902688996504,-85.48782800249322
+"40311","Carlisle","KY","Blue Licks Battlefield State Resort Park","10299 Maysville Rd","40311",38.432063266037765,-83.99576303812994
+"40311","Carlisle","KY","The Land","The Land","not_available",38.411507,-84.05433
+"40311","Carlisle","KY","Millersburg Square","not_available","40348",38.300366122681076,-84.14841127194211
+"40312","Clay City","KY","Stanton City Park","1 Pirate Ln","40380",37.84993672902905,-83.87231761853978
+"40312","Clay City","KY","The Sheltered Stage","1 Pirate Drv.","40380",37.84630118574781,-83.87329770713079
+"40312","Clay City","KY","Clay City Park","Clay City,KY,40312","40312",37.86288466975561,-83.92001306407607
+"40312","Clay City","KY","Lions Club Building","N Bend Rd","40380",37.8630729,-83.8454404
+"40313","Clearfield","KY","Zilpo Campground","not_available","40371",38.07290107890303,-83.48318350983484
+"40322","Frenchburg","KY","Red River Gorge - Tarr Ridge Picnic Area","Tarr Ridge Road","40322",37.853542696865304,-83.6418879032135
+"40324","Georgetown","KY","Interstate 75 Rest Area - Northbound","I-75","40324",38.24806420940759,-84.54592108726501
+"40324","Georgetown","KY","Kentucky Horse Park","4089 Iron Works Pkwy","40511",38.15298692211547,-84.51923981308937
+"40324","Georgetown","KY","Scott County Park","not_available","40324",38.23561755668466,-84.5719821447463
+"40324","Georgetown","KY","Veterans Memorial Wildlife Management Area","173 Rogers Gap Rd","40324",38.30167007446289,-84.5567626953125
+"40324","Georgetown","KY","Charles Brooking Park","Cardinal Dr","40324",38.23641044786148,-84.57067251205444
+"40324","Georgetown","KY","Buffalo Spring Park","not_available","40379",38.271045,-84.688601
+"40324","Georgetown","KY","Walter Bradley Park","not_available","40347",38.149702,-84.678969
+"40324","Georgetown","KY","Scott County Community Park","Georgetown,KY,40324","40324",38.2097967,-84.5588311
+"40330","Harrodsburg","KY","Anderson Dean Park","1501 Louisville Rd","40330",37.805563731802174,-84.84238323463742
+"40330","Harrodsburg","KY","Young Park","546 Linden Ave","40330",37.75546734796566,-84.8474135026753
+"40330","Harrodsburg","KY","High Bridge Park","Old Park Rd","40390",37.818092340624915,-84.71701258712113
+"40330","Harrodsburg","KY","Lions Club Pavilon","not_available","40330",37.76470868044885,-84.83669055152308
+"40336","Irvine","KY","Wine Cellar Cabin","Bootleg Ridge","40380",37.807234,-83.74909836666667
+"40342","Lawrenceburg","KY","American Legion Auxiliary Dept of Kentucky Healing Field","753 W Broadway St","40342",38.02172088623047,-84.90750122070312
+"40342","Lawrenceburg","KY","American Legion Park","not_available","40342",38.020737975706666,-84.90459376076232
+"40353","Mount Sterling","KY","Easy Walker Park","1395 Osborne Rd","40353",38.07220458984375,-83.90953063964844
+"40353","Mount Sterling","KY","Herb Botts Park","Indian Mound Dr","40353",38.05854064583181,-83.91339778092953
+"40356","Nicholasville","KY","Camp Nelson Heritage Park","6614 Danville Rd","40356",37.795529441110155,-84.60117487575751
+"40356","Nicholasville","KY","Shillito Park","3317 Brunswick Rd","40503",37.98362579045632,-84.53562924691933
+"40356","Nicholasville","KY","Hartland Swim and Racquet Club","4910 Hartland Pkwy","40515",37.952379,-84.478623
+"40356","Nicholasville","KY","Mount Tabor Park","Mount Tabor Park","not_available",37.999340751709546,-84.45356764123805
+"40356","Nicholasville","KY","Veterans Park MTB Trail","not_available","40515",37.95471658304081,-84.50306429317375
+"40356","Nicholasville","KY","willow oak park","not_available","40514",37.97455102960075,-84.55341962766322
+"40356","Nicholasville","KY","Riney B Water Park","not_available","40356",37.899913,-84.573481
+"40356","Nicholasville","KY","South Lexington Ballpark","367 Retrac Rd","40503",37.982226000000004,-84.539507
+"40356","Nicholasville","KY","Dogwood Park","Dogwood Trace Blvd.","40514",37.991124454598584,-84.58626502231813
+"40356","Nicholasville","KY","Lake Mingo Park","Lakeview Dr","40356",37.88828691,-84.56737240000001
+"40356","Nicholasville","KY","Wildwood Park","not_available","40517",37.98821284260767,-84.51182687473673
+"40356","Nicholasville","KY","Wellington Elementary","not_available","40503",37.9925027284524,-84.54409519908039
+"40356","Nicholasville","KY","Wilmore Pavillion","not_available","40390",37.857912759642396,-84.65969493710931
+"40356","Nicholasville","KY","Hartland Park","Kenesaw Drive","40515",37.96350146534443,-84.4664217778884
+"40361","Paris","KY","Hisle Farm Park","3655 Briar Hill Rd","40516",38.06919335486399,-84.39323348924518
+"40361","Paris","KY","American Legion Park","Legion Rd","40361",38.22077298937549,-84.24203123302036
+"40370","Sadieville","KY","Warring Park Pavilion","121-199 Main St","40370",38.390570282936096,-84.53673720359802
+"40376","Slade","KY","Natural Bridge State Resort Park","2135 Natural Bridge Rd","40376",37.777225316130526,-83.68084813838233
+"40380","Stanton","KY","Koomer Ridge Campground","7568 Old Kentucky 15","41360-8870",37.78119659423828,-83.63774108886719
+"40380","Stanton","KY","Hollerwood Park","KY 1036","40380",37.717255,-83.709656
+"40380","Stanton","KY","Red River Gorge - Trailhead Parking","Nada Tunnel Road","not_available",37.82019214099071,-83.66691827774048
+"40383","Versailles","KY","Woodford County Soccer Complex","not_available","40383",38.066437649941925,-84.71872709978236
+"40383","Versailles","KY","Big Spring Park","Park St","40383",38.056067428743845,-84.73515014397732
+"40383","Versailles","KY","Two Feathers Equestrian Establishment","Highway 1267","40356",37.92936989382232,-84.67436802034739
+"40383","Versailles","KY","Downtown Green","300-398 State Highway 1268","40390",37.857867,-84.659722
+"40385","Waco","KY","Union City Park","not_available","40475",37.798042,-84.199671
+"40391","Winchester","KY","Legacy Grove","1107 W Lexington Ave","40391",38.001129150390625,-84.19579315185547
+"40391","Winchester","KY","Daniel Boone National Forest","1700 Bypass Rd","40391",37.993776000000004,-84.21372099999999
+"40391","Winchester","KY","Winchester Lions Club Community Park","1 Forest Ave","not_available",38.000158,-84.189352
+"40391","Winchester","KY","Howard E. Long Memorial Park","Winchester Rd","not_available",38.041442155018686,-84.30874265568859
+"40391","Winchester","KY","Bowling Community Park","Edmonton, KY, 42129","42129",37.8393332,-84.2700179
+"40391","Winchester","KY","Lykins Park","Mount Sterling Rd","40391",38.01286762084205,-84.15707588195801
+"40391","Winchester","KY","College Park","15 Wheeler St","40391",37.99149031242559,-84.18859949893817
+"40391","Winchester","KY","Community Park","not_available","40391",37.999974967743086,-84.18943171168877
+"40403","Berea","KY","T BAll Field","not_available","40403",37.576681,-84.294063
+"40409","Brodhead","KY","Quail Community Park","not_available","40409",37.31768667349323,-84.45763245446562
+"40419","Crab Orchard","KY","William Whitley House State Historic Site","625 William Whitley Rd","40484",37.4666748046875,-84.54756927490234
+"40422","Danville","KY","Constitution Square State Historic Site","134 S 2nd St","40422",37.64507231345652,-84.7706025387619
+"40422","Danville","KY","Boyle County Fair Grounds","not_available","40422",37.65476842056084,-84.796713691904
+"40422","Danville","KY","Junction City Park","not_available","40440",37.58812591111908,-84.78619523544414
+"40437","Hustonville","KY","Greer Park","Highway 501","not_available",37.37401069148516,-84.70314151972089
+"40456","Mount Vernon","KY","Mount Vernon City Park","not_available","40456",37.352808,-84.345773
+"40468","Perryville","KY","Perryville Battlefield State Historic Site","1825 Battlefield Rd","40468",37.674452165426324,-84.97042868609203
+"40475","Richmond","KY","E.C. Million Memorial Park","Tates Creek Ave","40475",37.749088287353516,-84.30422973632812
+"40475","Richmond","KY","Irvine McDowell Park","345 Lancaster Ave","40475",37.746412462164244,-84.29917844107011
+"40475","Richmond","KY","Lake Reba Recreational Complex","Gibson Bay Dr","40475",37.73826536847627,-84.25936728715897
+"40475","Richmond","KY","Judy Rains Memorial Dog Park","Lake Reba Dr","40475",37.73779375629814,-84.25601746146317
+"40489","Waynesburg","KY","Eubank Park","not_available","42567",37.27744900117708,-84.65098022647935
+"40502","Lexington","KY","University of Kentucky Arboretum","500 Alumni Dr","40503",38.015297724077136,-84.50338183811621
+"40502","Lexington","KY","Woodland Park","601 E. High St.","40502",38.03501550486579,-84.49069918345319
+"40502","Lexington","KY","Ecton Park","Turkey Foot Road","40502",38.016252078473094,-84.49185692293511
+"40502","Lexington","KY","Johnson Heights Park Pavillion","874 Johnsdale Dr","40505",38.036116,-84.45655699999999
+"40502","Lexington","KY","Lou Johnson Park","not_available","40508",38.037916,-84.510961
+"40502","Lexington","KY","Lansdowne-Merrick Park","3190 Montavesta Rd","40502",38.002621924020836,-84.48657989501953
+"40502","Lexington","KY","Clay's Spring Park","200 Clinton Rd","40502",38.022926330566406,-84.4747543334961
+"40502","Lexington","KY","Carolines","not_available","40502",38.016917,-84.486397
+"40503","Lexington","KY","Cardinal Run Park","2000 Parkers Mill Road","40504",38.0253926323039,-84.56881888657635
+"40503","Lexington","KY","Gardenside Park","Holly Springs Dr.","40504",38.034785636992275,-84.5435117328545
+"40503","Lexington","KY","Garden Springs Park","Garden Springs Drive","40504",38.02633539453383,-84.54892648386044
+"40503","Lexington","KY","Harrods Hill Park","3308 Ridgecane Rd","40513",38.018611907958984,-84.56562805175781
+"40503","Lexington","KY","Little Slice Of Heaven","not_available","40513",38.017914,-84.564807
+"40503","Lexington","KY","Southland Park","Hill N Dale","not_available",38.01642285493582,-84.54021043208333
+"40504","Lexington","KY","McConnell Springs Park","416 Rebmann Ln","40504",38.05535469872615,-84.52789927875234
+"40504","Lexington","KY","Addison Park","1399 Pine Meadow Rd","40504",38.044252,-84.529546
+"40504","Lexington","KY","Wolf Run Park","1624 Maywick View Ln","40504",38.042527,-84.55041
+"40504","Lexington","KY","thompson park","not_available","40504",38.05671310424805,-84.5263900756836
+"40504","Lexington","KY","Cross Keys Park","1240 Cross Keys Rd","40504",38.040428161621094,-84.55523681640625
+"40505","Lexington","KY","Castlewood Park","Highland Park","40505",38.05471458616658,-84.47335595872252
+"40505","Lexington","KY","Green Acres Park","not_available","40511",38.07878663704027,-84.47899755473196
+"40505","Lexington","KY","Kenawood Park","Beresford Circle","usa",38.05555950614237,-84.45070266723633
+"40505","Lexington","KY","Lexington Legends Kentucky Ale Taproom","not_available","40505",38.064985475379395,-84.47869524868013
+"40505","Lexington","KY","Mary Todd Park","525 Rogers Rd","40505",38.08515,-84.449627
+"40505","Lexington","KY","Macy & Zeke's park","Aristocracy cir","40509",38.028888412211735,-84.4254188912634
+"40507","Lexington","KY","Thoroughbred Park","100 Midland Ave","40508",38.04169220951306,-84.491098759851
+"40507","Lexington","KY","Court Square Fountain","136-158 N Limestone St","40507",38.04672491726897,-84.49566808009457
+"40507","Lexington","KY","Triangle Park","400 W Main St","40507",38.04897295555167,-84.50058021260135
+"40507","Lexington","KY","The Bourbon Chase","not_available","40507",38.04999078502568,-84.50115386534301
+"40507","Lexington","KY","Phoenix Park","1 E Main St","40507",38.0461773686243,-84.49703514575958
+"40507","Lexington","KY","Gratz Park","212 W 3rd St","40507",38.05098725673106,-84.49459429071058
+"40508","Lexington","KY","Coolavin Park","550 W 6th St","40508",38.05974960859982,-84.49454069137573
+"40508","Lexington","KY","Douglas Park","726 Georgetown St","40511",38.06856918334961,-84.50228881835938
+"40508","Lexington","KY","Northside Founder's Park","498 N Broadway","40508",38.054873682742816,-84.4913209938779
+"40509","Lexington","KY","Jacobson Park","4001 Athens Boonesboro Rd","40509",37.984451413676716,-84.4244239523972
+"40509","Lexington","KY","Mapleleaf Park","Man-O-War","40509",37.99694629684258,-84.41929030668236
+"40509","Lexington","KY","Gazebo @ Homewood Suites","not_available","40509",38.01836238788042,-84.40999031437143
+"40509","Lexington","KY","Friday Night Flicks","Jacobson Park","not_available",37.98992964471977,-84.42124926667775
+"40510","Lexington","KY","Masterson Station","Leestown Rd.","40511",38.086292086376204,-84.5445001593035
+"40511","Lexington","KY","Meadowthorpe Louie Mac Park","333 Larch Lane","40511",38.073150634765625,-84.52047729492188
+"40515","Lexington","KY","Southpoint Park","4496 Graves Drive","not_available",37.96233795928953,-84.52613935693282
+"40601","Frankfort","KY","Josephine Sculpture Park","3355 Lawrenceburg Rd","40601",38.13815689086914,-84.90240478515625
+"40601","Frankfort","KY","River View Park","404 Wilkinson Blvd","40601",38.20262976674463,-84.87851691717384
+"40601","Frankfort","KY","Kentucky's Floral Clock","state st.","not_available",38.18576733052298,-84.87335970655298
+"40601","Frankfort","KY","East Frankfort Park","East Frankfort Park","40601",38.19311246813226,-84.84283129279429
+"40601","Frankfort","KY","Juniper Hill Park","800 Louisville Rd","40601",38.18713729887738,-84.88718390464781
+"40601","Frankfort","KY","Lakeview Park","2456 Georgetown Rd","40601",38.21608342665309,-84.82376023644062
+"40601","Frankfort","KY","capital view park","not_available","40601",38.176344930034894,-84.82452931345102
+"40601","Frankfort","KY","Old Lawrenceburg Road Boat Ramp","Old Lawrenceburg Rd.","40601",38.17339894140624,-84.87613320350647
+"40601","Frankfort","KY","Cove Spring Park","100 Cove Spring Rd","40601",38.217853000000005,-84.849194
+"40601","Frankfort","KY","Dolly Graham Park","225 River Street","not_available",38.195220947265625,-84.87158966064453
+"40601","Frankfort","KY","Leslie Morris Park At Fort Hill","400 Clifton Ave","not_available",38.20728,-84.862686
+"40701","Corbin","KY","Cumberland Falls","7351 Highway 90","40701",36.83854364089132,-84.34375742877575
+"40701","Corbin","KY","Engineer St Bridge","Laurel Ave","40701",36.95361833343227,-84.09467250048539
+"40701","Corbin","KY","John Henry","490 Skinner Hollow Road","97420",36.897657788538936,-84.08160924911499
+"40701","Corbin","KY","Moonbow","not_available","40744",37.03287818497315,-84.09915900983941
+"40734","Gray","KY","The Duck Pond","not_available","40906",36.876303,-83.888533
+"40741","London","KY","Pittsburgh Memorial Park","not_available","40741",37.16910785057452,-84.1107244126199
+"40769","Williamsburg","KY","park","222 N 11th St.","40769",36.73582325865897,-84.17012214660645
+"40823","Cumberland","KY","Little Shepard Trail","not_available","41858",37.067616,-82.829182
+"40906","Barbourville","KY","Pine Mountain State Resort Park","1050 State Park Rd","40977",36.73583142224424,-83.73801850512514
+"40906","Barbourville","KY","Barbourville City Park","700-798 N Allison Ave","40906",36.87580520018421,-83.88263948625361
+"40906","Barbourville","KY","Dr Thomas Walker State Historic Site","4929 KY 459","40906",36.83957290649414,-83.91905975341797
+"40962","Manchester","KY","o2","not_available","40962",37.188891,-83.78728
+"40965","Middlesboro","KY","Tri-State Peak (Cumberland Gap NHP)","Tri-State Trail","24248",36.60081120641426,-83.67532359304818
+"40965","Middlesboro","KY","Saddle of the Cumberland Gap","Wilderness Road","not_available",36.60082198522264,-83.67536723613739
+"40977","Pineville","KY","Field 3","not_available","40977",36.739919,-83.644646
+"41001","Alexandria","KY","AJ Jolly Park","not_available","41001",38.88043588979993,-84.37694476959875
+"41001","Alexandria","KY","Parkside Community Park","Parkside Dr","41001",38.895762,-84.378405
+"41001","Alexandria","KY","Alexandria Community Park","Alexandria Dr","41001",38.96049260782629,-84.36909116023426
+"41005","Burlington","KY","Fernbank Park","50 Thornton Ave.","45233",39.12252069496464,-84.70361619223125
+"41005","Burlington","KY","Oakbrook Park","9905 Oakbrook Drive","41042",39.00530264216261,-84.69025004966032
+"41005","Burlington","KY","Central Park","9190 Camp Ernst Rd","41091",38.96364519300588,-84.721013036898
+"41005","Burlington","KY","Lawrenceburg Newtown Park","not_available","47025",39.095263691544865,-84.85806316507106
+"41005","Burlington","KY","Riverfront Park","110 Front St","47040",38.94767094000377,-84.85114009383271
+"41005","Burlington","KY","England-Idlewild Park","5550 Idlewild Road","41005",39.037966694839405,-84.73280865570553
+"41005","Burlington","KY","Giles Conrad Park","7500 River Road","41048",39.1272408208089,-84.71733406215085
+"41005","Burlington","KY","Sayler Park","Gracely","not_available",39.11334963375699,-84.69208002858554
+"41005","Burlington","KY","Shawnee Lookout","2030 Lawrenceburg Rd","45052",39.11871050842641,-84.8159975787616
+"41005","Burlington","KY","Southfork Park","South Fork Park Dr.","41042",38.97573245778682,-84.67856547841392
+"41005","Burlington","KY","Greendale Park","853-885 Nowlin Ave","47025",39.11635379106766,-84.86729600452004
+"41005","Burlington","KY","Rollin on the river car show","not_available","45233",39.12464828828989,-84.70368254398986
+"41005","Burlington","KY","Petersburg Community Center and Park","6517 Market St","41080",39.06804275512695,-84.8669662475586
+"41005","Burlington","KY","Boonewoods Park","not_available","41005",39.00294542312622,-84.7021222114563
+"41005","Burlington","KY","Pete's Park","Nicholson Ave","41005",39.02841567993164,-84.72503662109375
+"41005","Burlington","KY","Middle Creek Park","5501 Middle Creek Rd","41005",38.990878716590544,-84.80618068044193
+"41005","Burlington","KY","YMCA Camp Ernst","7615 Camp Ernst Rd","41005",38.998224819682456,-84.71313433362288
+"41005","Burlington","KY","Homestead Park","Dorman Avenue","47025",39.12115490661609,-84.8576133183492
+"41007","California","KY","New richmond walking path","not_available","45157",38.95746877940091,-84.28027276608167
+"41007","California","KY","Moscow Park","not_available","45153",38.856310239136604,-84.23199292859715
+"41007","California","KY","Haussermann Park","Front Street","45157",38.9510055865039,-84.2837069416568
+"41008","Carrollton","KY","General Butler State Resort Park","1608 US Highway 227","41008",38.67063455851881,-85.15365600585938
+"41008","Carrollton","KY","County Park","not_available","41008",38.67011305877046,-85.13051633563558
+"41008","Carrollton","KY","Lions Park","not_available","60070",38.6707817,-85.1557141
+"41008","Carrollton","KY","Point Park","Main St","41008",38.68278795750663,-85.18676051696032
+"41011","Covington","KY","John G & Phyllis W Smale Riverfront Park","W Mehring Way","45202",39.09519688941397,-84.51043009757996
+"41011","Covington","KY","George Rogers Clark Park","301 Riverside Drive","41011",39.091067,-84.506602
+"41011","Covington","KY","Devou Park","Devou Park","not_available",39.082206173064215,-84.52723885638642
+"41011","Covington","KY","ludlow lowfield park","not_available","41011",39.09164810180664,-84.53718566894531
+"41011","Covington","KY","General James Taylor Park","Riverboat Row","41071",39.09264714052551,-84.49985532094036
+"41011","Covington","KY","Devou Park","1344 Audubon Rd","41011",39.07394027709961,-84.53630065917969
+"41011","Covington","KY","Steinford Park","W 6th St.","not_available",39.08015971946933,-84.52009148089601
+"41011","Covington","KY","austinburg park","Eastern Avenue","41014",39.07436442970362,-84.50436007054067
+"41011","Covington","KY","Meinken Field","2722 Eastern Ave","not_available",39.0577638521149,-84.49971972291281
+"41011","Covington","KY","Bernadette Watkins Park","6th and Patterson St.","41071",39.0866116,-84.5016407
+"41015","Latonia","KY","Bogyville Park","789 Stevies Trl","41051",38.958346999999996,-84.509614
+"41015","Latonia","KY","Covington Firehouse Park","not_available","41017",38.974848389776824,-84.53199475401564
+"41015","Latonia","KY","Mills Road Park","3415 Mills Rd","41015",38.94997303394649,-84.49307098790786
+"41015","Latonia","KY","Intramural Fields","not_available","41076",39.03652433857527,-84.46611485667742
+"41015","Latonia","KY","Taylor Mill Park","Taylor Mill Road","41015",38.98209949676365,-84.49692816602757
+"41016","Covington","KY","Mt. Echo Park","381 Elberon Ave","45205",39.093186604712244,-84.56472771101689
+"41017","Ft Mitchell","KY","Railroad depot park","not_available","41018",39.018558,-84.598343
+"41017","Ft Mitchell","KY","Doe Run Lake Park","1501 Bullock Pen Rd.","41017",38.98685836791992,-84.55170440673828
+"41017","Ft Mitchell","KY","Kentaboo Park","418 Kentaboo Ave","41042",39.012726,-84.618324
+"41017","Ft Mitchell","KY","President's Park","281 Dudley Pike","not_available",39.01047172968909,-84.57339916024212
+"41017","Ft Mitchell","KY","Erlanger Train Park","Locust","not_available",39.018496529596455,-84.59838655192894
+"41017","Ft Mitchell","KY","heritage park","4032 applewood courr","not_available",38.97318250308831,-84.59040575927817
+"41017","Ft Mitchell","KY","Covered Bridge Park","not_available","41042",38.994631,-84.612605
+"41017","Ft Mitchell","KY","Banklick Woods Park","Independence Station Rd","41051",38.965390533333334,-84.5615251
+"41017","Ft Mitchell","KY","General Hormsby Mitchel Park","Grandview rd","41017",39.03874579815876,-84.57700548753895
+"41017","Ft Mitchell","KY","Pioneer Park","Madison Pike","41017",39.007674648677735,-84.53443654399331
+"41017","Ft Mitchell","KY","The Patio","4600 Houston Rd","41042",39.024845123291016,-84.62089538574219
+"41017","Ft Mitchell","KY","Freedom Park","550 Freedom Park Drive","not_available",39.008943283820884,-84.55649503031871
+"41018","Erlanger","KY","Stringtown Park","7276-7378 Burlington Pike","41042",39.0019517868181,-84.63457928944317
+"41018","Erlanger","KY","The Playground","Christ Chapel/Cornerstone","41018",39.02995038713514,-84.6383195833382
+"41018","Erlanger","KY","Florence War Memorial","8020 Veterans Memorial Dr","41042",38.997962951660156,-84.64364624023438
+"41018","Erlanger","KY","Florence Nature Center","7200 Nature Park Dr","41042",38.99894007703788,-84.61972721286108
+"41030","Crittenden","KY","Grant county Park","not_available","41035",38.77387036952996,-84.6064359804082
+"41030","Crittenden","KY","Grant County Park","US 25","not_available",38.762458994247226,-84.60802597716655
+"41030","Crittenden","KY","Waller-Stephenson Mill Park","2744 Verona Mudlick Road","41092",38.834346771240234,-84.67924499511719
+"41031","Cynthiana","KY","Flat Run Veterans Park","364 Oddville Ave","41031",38.396906,-84.28303199999999
+"41034","Dover","KY","John P. Parker Memorial Park","Front Street","not_available",38.749536,-83.849449
+"41035","Dry Ridge","KY","Webb Park","not_available","41097",38.642135462327424,-84.57557321418388
+"41041","Flemingsburg","KY","Foxspring Park","Foxspring","not_available",38.424098550606196,-83.72711774367436
+"41042","Florence","KY","Hempstead Park and Pool","Cedarwood Dr.","41091",38.940890874666145,-84.65820283162273
+"41042","Florence","KY","Lincoln Woods Park","1 City Park Drive","41042",38.985740661621094,-84.65782165527344
+"41042","Florence","KY","Hempsteade","not_available","41091",38.94941520203763,-84.65459193413709
+"41042","Florence","KY","Harmony Park","3655 Evensong Dr","41091",38.95104700018076,-84.66993533556868
+"41042","Florence","KY","Glenhurst Playground","Glenhurst Drive","41051",38.937280623019014,-84.60326671600342
+"41042","Florence","KY","Neighborhood Park on Glenhurst","Glenhurst","41094",38.93560171666667,-84.60615086666667
+"41042","Florence","KY","Playland","Tanglewood Ct","41005",39.024608,-84.692702
+"41043","Foster","KY","Chilo Park","521 County Park Rd","not_available",38.78958,-84.131958
+"41045","Ghent","KY","Paul W Ogle Park","Lafayette St","47043",38.74505650095692,-85.0640018554799
+"41048","Hebron","KY","Story Woods Park","694 Pontius Rd","45233",39.109055,-84.660981
+"41051","Independence","KY","Sterling Staggs Park","Madison Pike","41051",38.95411804805776,-84.54280030558647
+"41051","Independence","KY","Shor Lake Park","505 Shorland Dr","41094",38.92254136665461,-84.6103584766388
+"41051","Independence","KY","Lincoln Ridge Park","not_available","41051",38.9653224542549,-84.56142761562337
+"41056","Maysville","KY","Ripley High-school Soccer Field","not_available","45167",38.72426,-83.83390388333333
+"41056","Maysville","KY","Rotary Park","212-250 Bridge Street","41056",38.644645795042905,-83.75974416732788
+"41056","Maysville","KY","Limestone Landing","not_available","41056",38.64778359021683,-83.76218496212924
+"41059","Melbourne","KY","Woodland Mound Park","8250 Old Kellogg Rd","45255",39.037906231240896,-84.32582111050628
+"41059","Melbourne","KY","Kellogg Dog Park","6701 Kellogg Rd","45230",39.04949188232422,-84.39759063720703
+"41059","Melbourne","KY","Kellogg Park","6701 Kellogg Rd","not_available",39.04891804351049,-84.39709757586441
+"41071","Newport","KY","Lytle Park","E 4th St.","45202",39.10093708286082,-84.50466480442718
+"41071","Newport","KY","Yeatman's Cove Park","705 E Pete Rose Way","45202",39.098781414355074,-84.50202055615028
+"41071","Newport","KY","Newport Vets Memorial Park","26 Caroline Dr","41071",39.073863591602766,-84.48411690313525
+"41071","Newport","KY","Highland Park","Mayfield Ave","41075",39.0806065615195,-84.45527458960872
+"41071","Newport","KY","Newport Riverwalk","not_available","41071",39.096428024994744,-84.49578589415994
+"41071","Newport","KY","Riddleview Park","2307 MacArthur Ln","41071",39.07495248321466,-84.46889465485509
+"41071","Newport","KY","Sargeant Park","not_available","41073",39.10239,-84.461499
+"41071","Newport","KY","Pikes on Park","1148 Park Ave","41071",39.08756637573242,-84.47987365722656
+"41071","Newport","KY","Mansion Hill Park","301 Park Ave","41071",39.097251892089844,-84.49111938476562
+"41071","Newport","KY","Tower Park","not_available","41075",39.08006162593782,-84.45600246236995
+"41071","Newport","KY","Bicentennial Commons","not_available","45202",39.10166,-84.498764
+"41071","Newport","KY","Swope Park","Covert Run Pike","41073",39.099766,-84.47784
+"41073","Bellevue","KY","Theodore M Berry International Friendship Park","1135 Riverside Dr","45202",39.10591879218307,-84.49289509529862
+"41073","Bellevue","KY","Bellevue Beach Park","Frank Benke Way","41073",39.10984204419297,-84.48344998306699
+"41074","Dayton","KY","Gil Lynn Park","Green Devil Lane","not_available",39.116462426361096,-84.47139843852453
+"41075","Fort Thomas","KY","Tower Park","Douglas St","41075",39.067059944565344,-84.44552432319757
+"41075","Fort Thomas","KY","Rossford Park, Fort Thomas, KY","Rossford Avenue","41075",39.09768480012343,-84.45470561234688
+"41075","Fort Thomas","KY","The Point","End of Riverside Parkway","41075",39.09091897873123,-84.44257636802065
+"41075","Fort Thomas","KY","Fort Thomas Amphitheatre","Cochran Avenue","41075",39.06836475619807,-84.44414008445007
+"41076","Newport","KY","Coney Island Amusement Park","6201 Kellogg Ave","45230",39.054984404056164,-84.41896677017212
+"41076","Newport","KY","Laverty Park","not_available","45230",39.06615949471922,-84.39645106888099
+"41076","Newport","KY","Kellogg Recreation Area","4606 Kellogg Avenue","45230",39.072396,-84.406705
+"41080","Petersburg","KY","Lesko Park","252-262 Indiana 56 Scenic","47001",39.05171773497434,-84.8970965014164
+"41080","Petersburg","KY","Veraestau","not_available","47001",39.04254418170459,-84.89524492191532
+"41080","Petersburg","KY","Conservancy Park","5820 Burlington Pike","41005",38.99360541271778,-84.82395887374878
+"41091","Union","KY","Central Park Field 3","9598 Camp Ernst","41091",38.9631999634758,-84.72359991379665
+"41094","Walton","KY","Walton Community Park","35 Old Stephenson Mill Rd","41094",38.86489764741451,-84.62108683586303
+"41094","Walton","KY","Walton Park","not_available","41094",38.8542542577759,-84.61091444465073
+"41095","Warsaw","KY","Markland Dam Park","532 Highway 156","47020",38.780617749251284,-84.96655583381653
+"41101","Ashland","KY","Central Park","1901 Chatlin Drive","41101",38.47344802380899,-82.638258934021
+"41101","Ashland","KY","Armco Park","Armco Park","41102",38.438332450836505,-82.69023820286495
+"41101","Ashland","KY","paul porter park","not_available","41101",38.50207996195733,-82.64152069771238
+"41101","Ashland","KY","Ashland Riverfront Park","Cs-2550","41101",38.481357564342524,-82.63826564440815
+"41101","Ashland","KY","Edna Kopacz Park","S 8th St","45638",38.515785217285156,-82.66211700439453
+"41102","Ashland","KY","Elks Mountain Bike Trail","Bramble Drive","41129",38.348566,-82.687109
+"41121","Argillite","KY","Greenbo Lake State Resort Park","965 Lodge Rd","41144",38.4807342538631,-82.8734500462872
+"41129","Catlettsburg","KY","Virginia Point Park","VA Point Park","25530",38.4126895496558,-82.59400366946097
+"41139","Flatwoods","KY","Flatwoods Park","not_available","41139",38.515165325972944,-82.72427961943421
+"41143","Grayson","KY","Carter Caves State Resort Park","344 Caveland Dr","41164",38.371933615946425,-83.1231989440828
+"41143","Grayson","KY","Park 1","not_available","41143",38.212773,-82.949073
+"41143","Grayson","KY","Veteran's Park","Main Street","41143",38.33244954725216,-82.94919738216254
+"41168","Rush","KY","The Blackhorse Farm","18517 State Route 854","41168",38.29864501953125,-82.76758575439453
+"41169","Russell","KY","Beechwood Park","not_available","45638",38.526936,-82.669226
+"41169","Russell","KY","Ironton National Little League Field","4th Street","45638",38.54277115426517,-82.69022238773732
+"41169","Russell","KY","Ironton Spray Park - Friends Park","South Second Street","not_available",38.533030559770964,-82.68504009910875
+"41169","Russell","KY","Ryan Berberich Memorial Park","Ironton","not_available",38.536746978759766,-82.68293762207031
+"41174","South Portsmouth","KY","Shawnee State Forest","13291 US Highway 52","45663",38.703433990478516,-83.09077453613281
+"41175","South Shore","KY","Tracy Park","not_available","45662",38.73770041116738,-82.99538312103168
+"41175","South Shore","KY","Alexandria Point Park","110 Scioto St","45662",38.731206,-83.010847
+"41179","Vanceburg","KY","Tollesboro Lions Club Community Park","not_available","41189",38.5395962,-83.570964
+"41224","Inez","KY","Cardinal Park","not_available","41224",37.862357,-82.528913
+"41230","Louisa","KY","Lawrence Co. Campground & Cabins","77 Wilderness Rd","41230",38.09626770019531,-82.6817626953125
+"41240","Paintsville","KY","Kiwanis Trail Paintsville Lake","not_available","41256",37.840622192909066,-82.87003266159789
+"41265","Van Lear","KY","Jenny Wiley State Resort Park","75 Theatre Ct","41653",37.69787210669847,-82.72473400987252
+"41311","Beattyville","KY","Lee County Veterans Park","not_available","41311",37.572699,-83.706641
+"41339","Jackson","KY","Douthitt park","100 N Point Ave.","41339",37.55965042114258,-83.39891815185547
+"41339","Jackson","KY","Sutton Memorial Park","not_available","41772",37.419316,-83.001756
+"41465","Salyersville","KY","Ramey Memorial Park","Dixie Ave","41465",37.749653045022136,-83.06964931228379
+"41472","West Liberty","KY","Treadway Park","not_available","41472",37.91985183337426,-83.25256878284952
+"41501","Pikeville","KY","Bob Amos Park","not_available","41501",37.468871249445435,-82.54411856980487
+"41501","Pikeville","KY","Bent Branch Community Park","Bent Branch Road","41501",37.58401233058211,-82.40366220474243
+"41501","Pikeville","KY","Long Fork Community Center","not_available","41572",37.323896,-82.61445
+"41503","South Williamson","KY","South Williamson Mini Park","not_available","41503",37.674757208037946,-82.28311181221231
+"41512","Ashcamp","KY","Elkhorn Creek Community Park","12428 Elkhorn Crk","41563",37.239341735839844,-82.51705932617188
+"41514","Belfry","KY","Hardy Community Park","not_available","41514",37.615212,-82.23885
+"41537","Jenkins","KY","Fish Pond Lake","not_available","41537",37.1692,-82.6437725
+"41554","Phyllis","KY","Grapevine recreation Area","not_available","41554",37.432125091552734,-82.3597183227539
+"41619","Drift","KY","Minnie Park","37.47218	-82.75350","41651",37.4719119673134,-82.75279998779297
+"41653","Prestonsburg","KY","The Run","60 Bingham Street","41653",37.66723739903032,-82.7346508204937
+"41653","Prestonsburg","KY","The Bridge","not_available","41653",37.6593852432448,-82.73565456441536
+"41701","Hazard","KY","Bobby Davis Park","not_available","41701",37.247004,-83.193932
+"41721","Buckhorn","KY","Buckhorn Lake State Resort Park","4441 KY Highway 1833","41721",37.30649185180664,-83.44441986083984
+"41721","Buckhorn","KY","Bill McAlister Park","not_available","79424",37.3090104,-83.4363406
+"41749","Hyden","KY","Hyden City Park","2-54 Locust Street","41749",37.16113737391723,-83.3731198310852
+"41834","Littcarr","KY","Dogwood Shelter At Carr Fork","not_available","41834",37.235156,-82.949774
+"41848","Roxana","KY","Kingscreek","Lynn Branch","41858",37.096784201355334,-82.93405586314572
+"42001","Paducah","KY","Schultz Park & Riverfront","180 foot of Broadway","42001",37.0878776893905,-88.59398603439331
+"42001","Paducah","KY","Stuart Nelson Park","175 Stuart Nelson Park","not_available",37.091741539703605,-88.65659494259815
+"42001","Paducah","KY","Noble Park","2801 Park Ave","42001",37.085994792422646,-88.63838195800781
+"42001","Paducah","KY","Lang Park","400 Fountain Ave","42001",37.08198920146983,-88.61945629119873
+"42001","Paducah","KY","Kolb Park","1650 S6th St","42001",37.0681220599566,-88.58898639678955
+"42001","Paducah","KY","Carson Park","Joe Clifton Dr","42001",37.07589481953549,-88.63409042358398
+"42001","Paducah","KY","Langstaff Park","1400 Langstaff","42001",37.089353,-88.630081
+"42001","Paducah","KY","Soccer Practice","not_available","42001",37.051964,-88.680269
+"42001","Paducah","KY","Sheppards Field","2200 S 25th St","42001",37.066349029541016,-88.61784362792969
+"42001","Paducah","KY","Dolly McNutt Plaza","301 S5th St","42001",37.08343345633557,-88.59837316607465
+"42001","Paducah","KY","Henry Clay Park","2000 B St","42001",37.070770263671875,-88.614990234375
+"42001","Paducah","KY","Festivus Park","347 Less Lee dr","42001",37.00894990630277,-88.71669155933239
+"42001","Paducah","KY","Robert Coleman Park","1100 Walter Jetton Blvd","42001",37.07254056893135,-88.59817568293941
+"42001","Paducah","KY","Mouth Of Massac Creek Park","6735-6965 Noble Rd","42086",37.132382175456485,-88.71957314673222
+"42001","Paducah","KY","Brookport City Park","not_available","62910",37.123122,-88.620218
+"42001","Paducah","KY","Keiler Park","2900 Broadway","42001",37.07103932093356,-88.63532209693653
+"42003","Paducah","KY","Paducah Sports Park","1105 Sheehan Bridge Rd","42003",36.99565887451172,-88.55005645751953
+"42025","Benton","KY","Mike Miller Park","596 U.S. 68","42025",36.93677776584128,-88.34962013001987
+"42025","Benton","KY","Benton City Park","not_available","42025",36.8514369130428,-88.3485625976955
+"42025","Benton","KY","Kentucky Dam Village Convention Center","Hwy 641","42044",36.99465243501692,-88.2891583442688
+"42025","Benton","KY","HH Lovett Park","641","42082",36.85158001142042,-88.34800773856004
+"42025","Benton","KY","Cherokee Park","Cherokee Ln","not_available",36.787653763225265,-88.14332321034094
+"42038","Eddyville","KY","Vista Ridge Park","not_available","42055",37.057182,-88.112546
+"42041","Fulton","KY","South Fulton Walking Trail","not_available","38257",36.502194,-88.876542
+"42064","Marion","KY","Cave-in-Rock","1 New State Park Rd","62919",37.46767671845151,-88.16063005401372
+"42064","Marion","KY","Rosiclare Park","1st St","62982",37.41975223124867,-88.34363975284577
+"42066","Mayfield","KY","Mayfield Ballpark","not_available","42066",36.7500274504805,-88.64232631558875
+"42066","Mayfield","KY","Kess Creek Park","Mayfield, KY","42066",36.71612008624409,-88.6394437512685
+"42066","Mayfield","KY","Kiwanis Park","Central Avenue","42066",36.724533,-88.63285
+"42071","Murray","KY","Murray City Park","Gil Hopson Dr","42071",36.623028301374525,-88.30999007877675
+"42071","Murray","KY","Chesnut Park","Chesnut","42071",36.61597666644557,-88.309458458743
+"42071","Murray","KY","Chestnut Street","not_available","42071",36.61723201737914,-88.30828602368797
+"42081","Smithland","KY","Smithland Fair Grounds","not_available","42081",37.153829,-88.395665
+"42086","West Paducah","KY","Washington Park","not_available","62960",37.14880219635356,-88.73259883371465
+"42086","West Paducah","KY","Dorthy Miller Park","100-614 E Front St","62960",37.14430332183838,-88.72797846794128
+"42086","West Paducah","KY","Lincoln Park Tennis Courts","1000-1046 E 5th St","62960",37.14509189128876,-88.71935973
+"42086","West Paducah","KY","Franklin Park","west 4th","not_available",37.151868349124534,-88.73974800109863
+"42087","Wickliffe","KY","Wicklffe City Park","not_available","42087",36.963934736201736,-89.08200110313555
+"42087","Wickliffe","KY","Wickliffe Mounds State Historic Site","94 Green St","42087",36.97102737426758,-89.09168243408203
+"42101","Bowling Green","KY","Kereiakes Park","1220 Fairview Ave","42101",36.99209882059468,-86.41807079315186
+"42101","Bowling Green","KY","Preston Miller Park","2303 Tomblinson Way","42101",36.97916616287561,-86.48947473375638
+"42101","Bowling Green","KY","Resevoir Hill Park","900 High St","42101",36.98695676396556,-86.44056731409118
+"42101","Bowling Green","KY","Fountain Square Park","State st and Main st","not_available",36.993243987825174,-86.44120985145784
+"42101","Bowling Green","KY","Circus Square Park","601 State St","42101",36.99446937987797,-86.43896659672305
+"42101","Bowling Green","KY","Hobson Grove Park","1200 W Main Ave","42101",37.00978088378906,-86.45774841308594
+"42101","Bowling Green","KY","Lampkin Park","Morgantown Rd","42101",36.9922217442859,-86.4758639305628
+"42101","Bowling Green","KY","Basil Griffin Park","not_available","42104",36.91642840771967,-86.43755435943604
+"42101","Bowling Green","KY","Phil Moore Park","7101 Scottsville Rd","42122",36.898216247558594,-86.38843536376953
+"42101","Bowling Green","KY","Warren Co Inline Hockey Rink","Three Springs Rd","not_available",36.918704432826125,-86.4362538041947
+"42101","Bowling Green","KY","Spero Keriakas","1220 Fairview Ave","42103",36.991050720214844,-86.41767883300781
+"42101","Bowling Green","KY","Ephram White Park","885 Mount Olivet Rd","42101",37.041489853968585,-86.3515498349352
+"42101","Bowling Green","KY","Ogden Park","not_available","42101",36.98395927461188,-86.45055731070744
+"42101","Bowling Green","KY","Weldon Peete Park","1400 Old Louisville Road","not_available",37.00277016741529,-86.41878761133155
+"42103","Bowling Green","KY","Covington Park","Covington","42101",36.97939535754696,-86.43528032550589
+"42127","Cave City","KY","Kentucky Down Under","3700 L and N Turnpike Rd","42749",37.20301973130328,-85.93511318952565
+"42127","Cave City","KY","Bell's Tavern","155 West Dixie Street","42160",37.09192148044672,-86.05001270771027
+"42129","Edmonton","KY","Bowling Park","not_available","42129",36.989341,-85.647999
+"42134","Franklin","KY","Jim Roberts Park","North Street","42134",36.73119157590146,-86.54760906251619
+"42134","Franklin","KY","Lincoln Park","701-799 John J Johnson Ave","42134",36.729246415998446,-86.58319410240944
+"42134","Franklin","KY","Community Park","North St","42134",36.729930098813604,-86.54874305175598
+"42140","Gamaliel","KY","Gamaliel City Park","not_available","42140",36.678675,-85.80295
+"42141","Glasgow","KY","Quarry Road Recreation Area","36.89758	-86.12149","not_available",36.89777790772943,-86.12101078033447
+"42141","Glasgow","KY","Port Oliver Recreation Area","Barren River Dam","42164",36.88900870998539,-86.12446546554564
+"42141","Glasgow","KY","Gorin Park","not_available","42141",36.994850769067206,-85.90063439267935
+"42159","Oakland","KY","Ed Spear Park","not_available","42171",37.04724,-86.212909
+"42164","Scottsville","KY","Dumont hill","not_available","42164",36.754042188789036,-86.19558388119225
+"42164","Scottsville","KY","Durmont Hill Park","402-498 N Bedelia St","42164",36.75685135198587,-86.19967460632324
+"42167","Tompkinsville","KY","Old Mulkey Meeting House State Historic Site","38 Old Mulkey Park Rd","42167",36.67765861921349,-85.70756493302534
+"42167","Tompkinsville","KY","City of Thompkinsville Park","not_available","42167",36.68164232890793,-85.69603135090998
+"42211","Cadiz","KY","Lake Barkley State Resort Park","3500 State Park Rd","42211",36.850207981798775,-87.93205121122784
+"42211","Cadiz","KY","confused","not_available","42211",36.72489547729492,-87.7099838256836
+"42215","Cerulean","KY","Pennyrile Forest State Resort Park","20781 Pennyrile Lodge Rd","42408",37.073341369628906,-87.66246032714844
+"42217","Crofton","KY","Gordon Park","13601-13801 N Old Madisonville Rd","42217",37.05844294530061,-87.48734083365719
+"42220","Elkton","KY","Elkton-Todd County Park","421 South Main Street","42220",36.803550720214844,-87.15470886230469
+"42220","Elkton","KY","Clifty Park","not_available","42220",36.996205,-87.147624
+"42223","Fort Campbell","KY","Joe Swing Park","not_available","37042",36.61128198,-87.42322603
+"42223","Fort Campbell","KY","Eggstravaganza","not_available","42223",36.65736770629883,-87.44976806640625
+"42223","Fort Campbell","KY","Splash Park At Woodlands","101st Airborne Division Rd","37042",36.60022689850695,-87.4491219549753
+"42240","Hopkinsville","KY","Round Table Literary Park","not_available","42240",36.882471,-87.4854
+"42256","Lewisburg","KY","Russellville City Park","not_available","42275",36.85895627557334,-86.91573499462906
+"42256","Lewisburg","KY","Carrico Park Square","not_available","42276",36.845339,-86.887694
+"42261","Morgantown","KY","Charles T Black City Park","Ballpark Ln","42261",37.22410615703087,-86.69213582573532
+"42261","Morgantown","KY","Oldham Park","not_available","42320",37.390217,-86.870263
+"42301","Owensboro","KY","Jack C. Fisher Park","5th Street Rd","not_available",37.765461459524474,-87.17310657339478
+"42301","Owensboro","KY","Smothers Park","not_available","42303",37.775705510887065,-87.11319711143062
+"42301","Owensboro","KY","English Park","not_available","42301",37.777795870337314,-87.12834119796753
+"42301","Owensboro","KY","Rivermont Park","1 Executive Blvd","42301",37.77609447194498,-87.11801175426564
+"42301","Owensboro","KY","Waymond Morris Park","5200 Todd Bridge Rd","42301",37.718336,-87.151254
+"42301","Owensboro","KY","Ben Hawes Park","Medley Rd.","not_available",37.796045633955885,-87.18193487720663
+"42301","Owensboro","KY","Panther Creek Park","Wayne Bridge Rd","not_available",37.76363157961559,-87.11628672575999
+"42301","Owensboro","KY","7th Street Park","7th St.","not_available",37.769093191238504,-87.12602376937866
+"42301","Owensboro","KY","Ben Hawes Park - Rudy Mine","101-137 Overstreet Rd","42301",37.78557941500861,-87.20271430321887
+"42303","Owensboro","KY","Yellow Creek Park","Highway 144","not_available",37.79442983721322,-87.03033144276438
+"42303","Owensboro","KY","Legion Park","JR Miller Blvd","42301",37.740596057601856,-87.10633491532575
+"42303","Owensboro","KY","Daviess Co Fair Grounds","not_available","42366",37.73492983388438,-86.98663366132372
+"42320","Beaver Dam","KY","Ohio County Park","not_available","42347",37.463585233634305,-86.86685846567771
+"42327","Calhoun","KY","boat","not_available","42352",37.48495557652467,-87.1360379647034
+"42330","Central City","KY","Paradise Park","not_available","42330",37.236198,-87.149894
+"42345","Greenville","KY","Beechmont Walking Trail and Park","not_available","42337",37.19724580783316,-87.1773505943365
+"42345","Greenville","KY","Greenville Park","not_available","42345",37.20070196853428,-87.17193356009066
+"42348","Hawesville","KY","Eagle's Bluff Park and Overlook","Indiana 66","47520",37.899497985839844,-86.70972442626953
+"42348","Hawesville","KY","Sunset Park/Tell City Riverfront","Blum St","47586",37.9456448242563,-86.77181886328529
+"42348","Hawesville","KY","Sunset Park","not_available","47520",37.944283355876046,-86.77122498743078
+"42351","Lewisport","KY","Lincoln Ferry Park","Indiana 66","not_available",37.999272,-86.814147
+"42351","Lewisport","KY","Grandview Park","Main Ave","not_available",37.93244781642222,-86.98113626216399
+"42409","Dixon","KY","Baker Park","not_available","42409",37.5227,-87.698557
+"42420","Henderson","KY","Sunset Park East","not_available","47713",37.962218765633196,-87.57203786201218
+"42420","Henderson","KY","Burdette Park","5301 Nurrenbern Rd","47712",37.944605733135084,-87.64351380842382
+"42420","Henderson","KY","Angel Mounds State Historic Site","8215 Pollack Ave","47715",37.9454193631355,-87.45186052485042
+"42420","Henderson","KY","Old Dam park and building","not_available","47630",37.94266552037921,-87.40038127531346
+"42420","Henderson","KY","Caldwell Park","S. Governor St.","not_available",37.95204340134495,-87.55966786117953
+"42420","Henderson","KY","Haynie's Corner","200","47713",37.96259829232844,-87.56613348461258
+"42420","Henderson","KY","Community Park","1776 Madison St","42420",37.81198450752394,-87.58109485502163
+"42420","Henderson","KY","Newburgh Lock & Dam","6877 State Road 66","47630",37.93121021025795,-87.37207817343199
+"42420","Henderson","KY","Atkinson Park Playground (Old City Landfill)","not_available","42420",37.85893810809502,-87.58186198752534
+"42420","Henderson","KY","Atkinson Park","1805 N. Elm St.","not_available",37.860471546994575,-87.57855212913563
+"42420","Henderson","KY","Sunset Park","Waterworks Road","47713",37.96041537779641,-87.57167593116856
+"42420","Henderson","KY","Vann Park","Vann Ave","47714",37.966884188875184,-87.51248362726474
+"42420","Henderson","KY","Anthony Oakes Park","Sunburst","47714",37.943893687228254,-87.5380087219581
+"42420","Henderson","KY","Audubon Mills Park","123 N Water St","not_available",37.84080768759562,-87.59401377716965
+"42420","Henderson","KY","Newburgh Tennis Courts","908 Woodridge Ct","47630",37.952545166015625,-87.40834045410156
+"42431","Madisonville","KY","Madisonville City Park","Park Avenue","42431",37.31512793005476,-87.48449316057838
+"42431","Madisonville","KY","Frank Stafford City Park","not_available","42440",37.23803636,-87.47373795
+"42431","Madisonville","KY","Muhr Park Wellcome Center","not_available","42431",37.350563,-87.51001
+"42437","Morganfield","KY","park","main st","42437",37.67944653652621,-87.91108660418543
+"42445","Princeton","KY","5 Point Park","not_available","42445",37.10900020163205,-87.88390131189617
+"42459","Sturgis","KY","Union County Fair","Union Co. Fair & Expo Center","not_available",37.542960074904805,-87.96581905461257
+"42501","Somerset","KY","Shopville Park Shelter #2","not_available","42501",37.157579,-84.485722
+"42501","Somerset","KY","Somersport Park","Pumphouse Rd","not_available",37.105300487602754,-84.58637066000689
+"42501","Somerset","KY","Somerset City Park","Somerset","42501",37.09243392944336,-84.59844970703125
+"42503","Somerset","KY","Pulaski County Park","not_available","42544",37.067253988078235,-84.69950733774672
+"42519","Burnside","KY","Alpine Park","not_available","42519",36.9137778001829,-84.51509906158716
+"42544","Nancy","KY","Fall Creek Recreational Area","Recreational Road","42633",36.92564044949085,-84.84676837921143
+"42544","Nancy","KY","Tamanend Park","Tamanend Park, Southampton, PA 18966, USA","18966",37.062083,-84.7123139
+"42629","Jamestown","KY","Lake Cumberland Riding Stables","5624 State Park Rd","42629",36.92985153198242,-85.03402709960938
+"42629","Jamestown","KY","Lake Cumberland Overlook","not_available","42629",36.931484,-85.04256
+"42629","Jamestown","KY","Lake Cumberland State Resort","5465 State Park Rd","42629",36.89233779030342,-85.09446859880136
+"42629","Jamestown","KY","big hill","Lake Cumberland State Park","42629",36.933067321777344,-85.0442123413086
+"42633","Monticello","KY","Monticello-Wayne County Memorial Park","Michigan Ave","42633",36.82470248039242,-84.84186389007519
+"42642","Russell Springs","KY","Leroy Rowe Memorial Park","not_available","42642",37.06529,-85.0827379653728
+"42647","Stearns","KY","McCreary County Park","not_available","42631",36.753470436889586,-84.4777473297351
+"42647","Stearns","KY","Nopark","not_available","42649",36.63069229755047,-84.46759594764353
+"42701","Elizabethtown","KY","Freeman Lake","Freeman Lake Rd","42701",37.72365856866709,-85.87473660808729
+"42701","Elizabethtown","KY","Putt Putt 16 Holes","not_available","42701",37.710259,-85.837359
+"42701","Elizabethtown","KY","Greenbelt Park","Ring Road","42701",37.732042,-85.870892
+"42701","Elizabethtown","KY","CreekFront Park","Tonnieville Rd","42748",37.57702847938005,-85.74141434835141
+"42701","Elizabethtown","KY","American Legion Park","North Miles Street","42701",37.70631675,-85.85369758
+"42701","Elizabethtown","KY","Elizabethtown Sports Park","West Park Road","42701",37.689838330670014,-85.90288641856228
+"42718","Campbellsville","KY","Miller Park","Miller Park Ave.","42718",37.35711462058794,-85.34633506543258
+"42718","Campbellsville","KY","Gracer Habitat","not_available","42718",37.358421,-85.326978
+"42718","Campbellsville","KY","Camp Kentahten","49 Kentahten Trl","42718",37.27803039550781,-85.32803344726562
+"42728","Columbia","KY","Adair County Fairgrounds","413 Fairgrounds St","42728",37.10541915893555,-85.29579162597656
+"42728","Columbia","KY","Columbia-Adair County Chamber of Commerce Roadside Park","201 Burkesville St","42728",37.101810455322266,-85.30694580078125
+"42743","Greensburg","KY","Macedonia Park","not_available","42743",37.234694,-85.624053
+"42749","Horse Cave","KY","Thelma Stoval Park","103-111 River Rd","42765",37.26836316398385,-85.88821404834117
+"42754","Leitchfield","KY","James D. Beville Park","800 Nature trail","not_available",37.47136700796784,-86.28230810165404

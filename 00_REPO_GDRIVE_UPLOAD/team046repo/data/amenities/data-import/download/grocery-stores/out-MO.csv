@@ -1,0 +1,1122 @@
+"zip","city","state","name","address","postalCode","lat","lon"
+"63005","Chesterfield","MO","Walmart Supercenter","100 Thf Blvd","63005",38.666105751048214,-90.5918853399245
+"63005","Chesterfield","MO","Dierbergs Markets","1322 Clarkson Clayton Ctr","63011",38.60322545912662,-90.5876198751935
+"63005","Chesterfield","MO","Schnucks","2511 Kehrs Mill Rd","63017",38.6205793299346,-90.58172970906858
+"63005","Chesterfield","MO","ALDI","300 Thf Blvd","63005",38.6659204,-90.603778
+"63005","Chesterfield","MO","ALDI","15907 Manchester Rd","63011",38.5939401,-90.5873203
+"63005","Chesterfield","MO","shopnsave","not_available","63021",38.593810576788194,-90.57685363890234
+"63005","Chesterfield","MO","Andrea's Gluten Free","759 Spirit of Saint Louis Blvd","63005",38.668060302734375,-90.64656066894531
+"63010","Arnold","MO","Walmart Supercenter","2201 Michigan Ave","63010",38.43713994719997,-90.37749071280489
+"63010","Arnold","MO","ALDI","2154 Michigan Ave","63010",38.4394216,-90.379537
+"63010","Arnold","MO","Schnucks","not_available","63010",38.439129,-90.375142
+"63010","Arnold","MO","Dierbergs Markets","860 Arnold Commons Dr","63010",38.43720998619741,-90.38329296690132
+"63010","Arnold","MO","Save-A-Lot","2 Meramec Heights Shopping Ctr","63010",38.4377851129145,-90.45706663953828
+"63010","Arnold","MO","Save-A-Lot","2 Meramec Heights Shopping Center","63010",38.43806838989258,-90.45780944824219
+"63010","Arnold","MO","Schnucks Richardson","3900 Vogel Rd","63010",38.4158932,-90.3942783
+"63010","Arnold","MO","Schnucks Water Tower","1253 Water Tower Pl","63010",38.4394954,-90.3753582
+"63010","Arnold","MO","Save-A-Lot","3610 Richardson Square Dr","63010",38.4115715,-90.384552
+"63010","Arnold","MO","Save-A-Lot","3610 Richardson Square Way","63010",38.409836,-90.383636
+"63011","Ballwin","MO","Dierbergs Markets","421 Lafayette Ctr","63011",38.59556370993667,-90.52115599562298
+"63011","Ballwin","MO","Walmart Supercenter","201 Highlands Boulevard Dr","63011",38.595884540481656,-90.5063369259909
+"63011","Ballwin","MO","Schnucks","15425 Manchester Rd","63011",38.59347041437997,-90.56299366117807
+"63011","Ballwin","MO","Schnucks Woods Mill","1060 Woods Mill Plz","63017",38.6231236,-90.5137712
+"63011","Ballwin","MO","Whole Foods Market","1160 Town And Country Crossing Drive","63017",38.62201408847433,-90.51602713762355
+"63011","Ballwin","MO","ALDI","14654 Manchester Rd","63011",38.5908892,-90.5307304
+"63011","Ballwin","MO","Seema Enterprises Grocery","14238 Manchester Rd","63011",38.591983795166016,-90.50434112548828
+"63011","Ballwin","MO","Fresh Thyme Farmers Market","13957 Manchester Road","63011",38.598144093264985,-90.4878120722921
+"63011","Ballwin","MO","Straub's in Town and Country","13414 Clayton Rd","63131",38.62703634100099,-90.48133790607942
+"63011","Ballwin","MO","Mideast Market","14345 Manchester Rd","63011",38.59392421226825,-90.51332625769086
+"63011","Ballwin","MO","Harsha  Indian Groceries","14033 Manchester Rd","63011",38.5960693359375,-90.49382019042969
+"63011","Ballwin","MO","Bakery","15446 Machester Rd","63021",38.591693021265726,-90.5689520873937
+"63011","Ballwin","MO","Frozen","15446 Manchester Rd","63011",38.591996071455775,-90.56532991113065
+"63011","Ballwin","MO","Schnucks Market","Clayton Rd","63017",38.622936,-90.51385600000003
+"63011","Ballwin","MO","Zabiha Halal","15218 Manchester Rd","63011",38.592232,-90.55509599999999
+"63011","Ballwin","MO","Aziz Market","15328 Manchester Rd","63011",38.593821999999996,-90.558901
+"63011","Ballwin","MO","Wonder Bread Hostess Store","13885 Manchester Rd.","63011",38.596435823384894,-90.48081067906286
+"63011","Ballwin","MO","Lamorena","14232 Manchester Rd","63011",38.59170913696289,-90.50432586669922
+"63012","Barnhart","MO","Save A Lot","48 Gannon Sq","63070",38.289680480957,-90.3981552124023
+"63012","Barnhart","MO","Karsch's Village Market","1730 Old State Road M","63012",38.3508520271518,-90.40467474284088
+"63012","Barnhart","MO","Save-A-Lot","5651 Hwy 21","63052",38.37367457632196,-90.50006712158043
+"63012","Barnhart","MO","Queens Market","not_available","63070",38.288681088684186,-90.39954315918597
+"63013","Beaufort","MO","Voss Market","3971 Hwy 50","63013",38.42083954059757,-91.18832569825601
+"63016","Cedar Hill","MO","Radeackers Market","not_available","not_available",38.35151807160744,-90.65163185028253
+"63016","Cedar Hill","MO","Save-A-Lot","7030 Hwy BB","63016",38.354043963870936,-90.64655138758613
+"63016","Cedar Hill","MO","San and Lou Supermarket","Homeland Gardens","63023",38.30846140000001,-90.64997009999999
+"63017","Chesterfield","MO","Dierbergs Markets","1730 Clarkson Rd","63017",38.64158931715571,-90.56589168601961
+"63017","Chesterfield","MO","Schnucks Chesterfield","141 Hilltown Village Ctr","63017",38.6588321,-90.5532331
+"63017","Chesterfield","MO","Trader Joe's","1679 Clarkson Rd","63017",38.64478340897375,-90.56634063964454
+"63017","Chesterfield","MO","Dierbergs Markets","8 Four Seasons Center","63017",38.67948661905163,-90.5003646360741
+"63017","Chesterfield","MO","East East Oriental Grocery","13365 Olive Blvd","63017",38.681587,-90.495496
+"63017","Chesterfield","MO","dierbergs in creve couer, mo","Olive","63141",38.67849023181965,-90.50011785732026
+"63017","Chesterfield","MO","Dierburgs - clarkson square","not_available","6300d",38.64143471130289,-90.56599980413107
+"63017","Chesterfield","MO","Seoul Mart","140 Four Seasons Shopping Ctr","63017",38.679074,-90.503525
+"63019","Crystal City","MO","Walmart Supercenter","650 S Truman Blvd","63028",38.21209096974015,-90.38842610133119
+"63019","Crystal City","MO","ALDI","700 S Truman Blvd","63019",38.2103313,-90.3922752
+"63019","Crystal City","MO","Shop 'n Save","1275 N Truman Blvd","63028",38.234238327360806,-90.39387702941889
+"63020","De Soto","MO","Walmart Supercenter","12862 State Route 21","63020",38.15000657,-90.57503343
+"63020","De Soto","MO","Save-A-Lot","2050 Rock Rd","63020",38.142084726680274,-90.57671555197172
+"63020","De Soto","MO","Barneys Frozen Food","512 S Main St","63020",38.134825,-90.55573000000001
+"63021","Ballwin","MO","Schnucks Twin Oaks","1393 Big Bend Rd","63021",38.5692274,-90.4985982
+"63021","Ballwin","MO","Schnucks - Eureka","245 E. 5t","63025",38.56931597,-90.60994809
+"63021","Ballwin","MO","Shop n Save","1144 Meramec Station Rd","63021",38.56881235711299,-90.49517065286636
+"63021","Ballwin","MO","Save-A-Lot","1001 Majestic Dr","63026",38.532277702659584,-90.49610774623979
+"63025","Eureka","MO","Walmart Supercenter","131 Erka Twn Cntr Dr","63025",38.50617086491559,-90.65677185020199
+"63025","Eureka","MO","Schnucks","245 E 5th St","63025",38.50720694149456,-90.62011983044073
+"63025","Eureka","MO","Dan's Liquor","98 The Legends Pkwy","63025",38.493476,-90.62904
+"63026","Fenton","MO","Walmart Supercenter","653 Gravois Bluffs Blvd","63026",38.5098926582837,-90.43893318277489
+"63026","Fenton","MO","Dierbergs Markets","450 Old Smizer Mill Rd","63026",38.51371745734648,-90.4498780363561
+"63026","Fenton","MO","Schnucks","Gravois Bluffs","63026",38.507725,-90.446841
+"63026","Fenton","MO","Shop 'n Save","45 Gravois Bluffs Plaza Dr","63026",38.5074257,-90.4475291
+"63026","Fenton","MO","Viviano's Festa Italiano - Fenton, MO","62 Fenton Plz","63026",38.51116723,-90.44310361
+"63026","Fenton","MO","ALDI","60 Fenton Plz","63026",38.5113924,-90.4427424
+"63028","Festus","MO","Schuncks","not_available","63028",38.23629137022397,-90.41289315975595
+"63028","Festus","MO","FoodRite","703 N US Highway 61","63873",38.16510009765625,-90.3808822631836
+"63031","Florissant","MO","Schnucks Charbonier","2183 Charbonier Rd","63031",38.8102398,-90.3598013
+"63031","Florissant","MO","Dierbergs Markets","222 N Highway 67 St","63031",38.79510610633383,-90.339010355368
+"63031","Florissant","MO","ALDI","2505 N Highway 67","63033",38.805725225516234,-90.30694127082825
+"63031","Florissant","MO","Schnucks Florissant","8200 N Lindbergh Blvd","63031",38.7898512,-90.3445229
+"63031","Florissant","MO","Worldwide International Food Market","7238 N Lindbergh Blvd","63042",38.78205088006876,-90.35484432628637
+"63031","Florissant","MO","Worldwide International Food Market","not_available","63042",38.77609634399414,-90.395751953125
+"63031","Florissant","MO","Eat More International Food & Fruits","1900","63106",38.799871,-90.314871
+"63031","Florissant","MO","Save-A-Lot","468 N Highway 67 St","63031",38.79708011437449,-90.3374382911306
+"63031","Florissant","MO","A&M Market","137-145 Graham Rd","63031",38.790286,-90.335359
+"63031","Florissant","MO","Pick N Save","not_available","63031",38.800384521484375,-90.33406066894531
+"63031","Florissant","MO","ALPS Foods","750 S New Florissant Rd","63031",38.780758128407626,-90.3225379485103
+"63031","Florissant","MO","Schnucks Shackelford","1160 Shackelford Rd","63031",38.812798,-90.34609
+"63031","Florissant","MO","Save-A-Lot","468 N Lindbergh","63031",38.80001831,-90.33347321
+"63031","Florissant","MO","Schnucks Grocery Warehouse","12921 Enterprise Way","63044",38.77081988846309,-90.428999472976
+"63033","Florissant","MO","Walmart Supercenter","3390 N Highway 67","63033",38.81110226782007,-90.29237013521114
+"63033","Florissant","MO","Schnucks Cross Keys","13987 New Halls Ferry Rd","63033",38.8068334,-90.3009185
+"63033","Florissant","MO","ALDI","11296 W Florissant Ave","63033",38.77446631869372,-90.27885831374078
+"63033","Florissant","MO","Shop 'N Save","196 Mayfair Plaza","63033",38.79423458312844,-90.23356139659876
+"63033","Florissant","MO","Shop 'n Save","175 Flower Valley Shopping Ctr","63033",38.812059921273416,-90.29487402769519
+"63033","Florissant","MO","Save-A-Lot","12958 New Halls Ferry Rd","63031",38.792607000000004,-90.28490500000001
+"63033","Florissant","MO","Schnuck’s Grandview Plaza","not_available","63033",38.773928,-90.304013
+"63037","Gerald","MO","J&L Market","207 S Main St","not_available",38.40244613945257,-91.33094156088379
+"63038","Wildwood","MO","Dierbergs Markets","2460 Taylor Rd","63040",38.58033971870069,-90.62601585604558
+"63038","Wildwood","MO","Schnucks Wildwood","16580 Manchester Rd","63040",38.5804072,-90.6179853
+"63042","Hazelwood","MO","Bishops Atorehouse","3753-12721 Pennridge Dr","63044",38.765353540346595,-90.43130617395185
+"63043","Maryland Heights","MO","Walmart Supercenter","11900 St Charles Rock Rd","63044",38.74493758133319,-90.41894463984043
+"63043","Maryland Heights","MO","Schnucks Dorsett Floral","2030 Dorsett Rd","63043",38.7160479,-90.4564104
+"63043","Maryland Heights","MO","ALDI","12290 Saint Charles Rock Rd","63044",38.7524235,-90.4297928
+"63043","Maryland Heights","MO","El Morelia Supermercado","12005 Saint Charles Rock Rd","63044",38.7487371912616,-90.42290717620826
+"63043","Maryland Heights","MO","Frozen Fun Express","11252 Midland Blvd Ste 111","63114",38.7056999206543,-90.40792083740234
+"63043","Maryland Heights","MO","Save-A-Lot","11977 St Charles Rock Rd Suite 110","63044",38.74861145,-90.42176819
+"63043","Maryland Heights","MO","Save-A-Lot","11977 Saint Charles Rock Rd","63044",38.74770325388092,-90.41993747598406
+"63043","Maryland Heights","MO","Asian Spices","1928 McKelvey Rd","63043",38.713559000000004,-90.453689
+"63043","Maryland Heights","MO","Akshar Foods","12419 Saint Charles Rock Rd","63044",38.755531,-90.429982
+"63043","Maryland Heights","MO","Save A Lot","11977 Saint Charles Rock Rd Ste 110","63044",38.7481734,-90.4204714
+"63044","Bridgeton","MO","Schnucks Bridgeton","11253 Saint Charles Rock Rd","63044",38.7404581,-90.4005314
+"63044","Bridgeton","MO","Bridgeton","10253 St Charles Rock Rd","63044",38.7407606,-90.4004471
+"63044","Bridgeton","MO","ALDI","10680 Saint Charles Rock Rd","63074",38.731874403397015,-90.39050281047821
+"63044","Bridgeton","MO","Ruler Foods","11050 Saint Charles Rock Rd","63074",38.734670806175444,-90.39445331340309
+"63044","Bridgeton","MO","Save A Lot","10457 Saint Charles Rock Rd","63074",38.730281,-90.384113
+"63044","Bridgeton","MO","Schnucks St. Ann","10634 Saint Charles Rock Rd","63074",38.730777,-90.390395
+"63049","High Ridge","MO","Walmart Supercenter","2700 Ridge Point Dr","63049",38.462149516725866,-90.52210712299014
+"63049","High Ridge","MO","Schnucks Dillon","20 Dillon Plaza Dr","63049",38.4778896,-90.5215845
+"63049","High Ridge","MO","ALDI","1025 Crossroads Place","63049",38.4632947,-90.52648549999999
+"63050","Hillsboro","MO","Karsch Village Market","10724 Business 21","63050",38.226398,-90.565097
+"63050","Hillsboro","MO","Queens Market","not_available","63050",38.22651243799095,-90.56519051067872
+"63051","House Springs","MO","Price Chopper","4639 House Springs Ctr","63051",38.410201758616765,-90.57560642386649
+"63051","House Springs","MO","Save A Lot","5651 MO-21","63052",38.37939072,-90.49641418
+"63055","Labadie","MO","Save-A-Lot","2700 W Osage","63069",38.48704529,-90.78091431
+"63068","New Haven","MO","Peers Store","Concord Hill Rd","not_available",38.634152,-91.12321257591248
+"63068","New Haven","MO","Save-A-Lot","515 Harold Meyer Dr","63068",38.60118988983743,-91.22353226516765
+"63069","Pacific","MO","Save A Lot","2700 W Osage St","63069",38.4859017,-90.7766888
+"63069","Pacific","MO","Pacific Foods","302 W St Louis St, Pacific, MO 63069","63069",38.48183908498747,-90.7442981235577
+"63077","Saint Clair","MO","Save-A-Lot","1100 N Commercial","63077",38.355287048651924,-90.9761095046997
+"63077","Saint Clair","MO","Country Mart","Plaza Court","63077",38.356174007484356,-90.97929194789087
+"63077","Saint Clair","MO","Shop and Save","not_available","63077",38.355859151928726,-90.97559452056885
+"63080","Sullivan","MO","Walmart Supercenter","350 Park Ridge Rd","63080",38.22107819350446,-91.15499205205015
+"63080","Sullivan","MO","ALDI","320 Park Ridge Rd","63080",38.220822,-91.156927
+"63084","Union","MO","Walmart Supercenter","1445 E Central Ct","63084",38.4339184662008,-90.97011320118746
+"63084","Union","MO","Fink's Alps Grocery Store","734-738 Koko Beach Rd","63084",38.43832947843813,-91.02146939358776
+"63084","Union","MO","Fricks Market","10 E Locust St","63084",38.444475,-91.008136
+"63090","Washington","MO","Walmart Supercenter","1701 A Roy Dr","63090",38.54053119396036,-90.99489091273097
+"63090","Washington","MO","ALDI","1505 Heritage Hills Dr","63090",38.5433739,-91.0072149
+"63090","Washington","MO","Schnucks Washington","2073 Washington Xing","63090",38.5358322,-91.0081349
+"63090","Washington","MO","Loaves & Fishes","1198 Washington Square","63090",38.53638052940369,-91.00402057170868
+"63090","Washington","MO","Walmart Grocery Pickup","5886 Hwy 100","63090",38.5404529,-90.9952489
+"63101","Saint Louis","MO","Schnucks Culinaria","315 N 9th St","63101",38.6290262,-90.1935817
+"63101","Saint Louis","MO","Greenleaf Market","not_available","63106",38.639167,-90.194098
+"63101","Saint Louis","MO","James Henry Provisions Co","434 N 4th St","63102",38.6292562,-90.1869902
+"63101","Saint Louis","MO","Schnucks Culinaria","315 St,N 9th","63101",38.6291258,-90.1935814
+"63102","Saint Louis","MO","Fields Foods","1706 Washington Ave","63103",38.633084,-90.204069
+"63102","Saint Louis","MO","Old North Grocery","2718 N 13th St","63106",38.65159225463867,-90.19609832763672
+"63102","Saint Louis","MO","Smith's Superette","1912 Carr Dr","63106",38.6382374,-90.20538071666667
+"63103","Saint Louis","MO","Planter's House","1000 Mississippi Ave","63104",38.620730890471414,-90.21213801891457
+"63103","Saint Louis","MO","Food Outreach","3117 Olive St","63103",38.635705334552135,-90.22455199765093
+"63103","Saint Louis","MO","Snappy's International Holdings LLC","2007 Locust Street, st Street","63103",38.6332531,-90.20844390000002
+"63104","Saint Louis","MO","Fields Foods","1500 Lafayette Ave","63104",38.61240505545677,-90.20915755580812
+"63104","Saint Louis","MO","Schnucks South City","3430 S Grand Blvd","63118",38.5946946,-90.2422794
+"63104","Saint Louis","MO","Supermercado El Torito","Cherokee St","63118",38.593813042306735,-90.22970843173702
+"63104","Saint Louis","MO","Jay International Food Corp.","3172 S Grand Blvd","63118",38.598982934687186,-90.2414497750438
+"63104","Saint Louis","MO","Save-A-Lot","1631 S Jefferson Ave","63104",38.61601314993311,-90.22174657557888
+"63104","Saint Louis","MO","Save-A-Lot","3427 S Jefferson","63118",38.59257455352541,-90.2259882989505
+"63104","Saint Louis","MO","Food outlet","2330 S 7th St","63104",38.60289764404297,-90.20487976074219
+"63104","Saint Louis","MO","Waberi Grocery Store","2724 Cherokee St","63118",38.593718678741794,-90.22884727202835
+"63104","Saint Louis","MO","El Torito","2753 Cherokee Street","63118",38.59388812646967,-90.22990064503152
+"63104","Saint Louis","MO","asian world market","3108 Cherokee St","63118",38.594614,-90.235581
+"63104","Saint Louis","MO","Barnett's Market","2600 Sidney","not_available",38.607321650956386,-90.23529208015204
+"63104","Saint Louis","MO","La Bodega","125 Potomac St","63118",38.590372004883285,-90.22012681494523
+"63105","Saint Louis","MO","Schnucks Richmond Ctr.","6600 Clayton Rd","63117",38.6334482,-90.3150753
+"63105","Saint Louis","MO","Straub's in Clayton","8282 Forsyth Blvd","63105",38.65221828121271,-90.34396188352574
+"63105","Saint Louis","MO","United Provisions","6241 Delmar Blvd","63130",38.65575674012994,-90.30121441938547
+"63106","Saint Louis","MO","Save-A-Lot","3645 Page Blvd","63113",38.64677584327884,-90.2284666870961
+"63107","Saint Louis","MO","ALDI","3616 Natural Bridge Ave","63107",38.66082488473186,-90.21803574403748
+"63107","Saint Louis","MO","Saveway Foods Co.","5100 N Broadway","63147",38.674756503598545,-90.20382243325761
+"63108","Saint Louis","MO","Whole Foods Market","4577 West Pine Boulevard","63108",38.64176644293935,-90.26151914167178
+"63108","Saint Louis","MO","Straub's","302 N Kingshighway Blvd","63108",38.64540916759374,-90.26432634410072
+"63108","Saint Louis","MO","ALDI","702 N Kingshighway Blvd","63108",38.651864777008,-90.26246955889341
+"63108","Saint Louis","MO","Martin's Market","4324 Dr Martin Luther King Dr","63113",38.655364990234375,-90.24351501464844
+"63108","Saint Louis","MO","Fields Foods","625 N Euclid Ave","63108",38.65107345581055,-90.26090240478516
+"63108","Saint Louis","MO","strabus","not_available","63108",38.63899612426758,-90.2623062133789
+"63109","Saint Louis","MO","Dierbergs Markets","7233 Watson Rd","63119",38.58456336324424,-90.3189653881105
+"63109","Saint Louis","MO","Schnucks Shrewsbury","7057 Chippewa St","63119",38.5866118,-90.3171193
+"63109","Saint Louis","MO","Schnucks","7450 Hampton Ave","63109",38.56559464902775,-90.29333276654768
+"63109","Saint Louis","MO","Save-A-Lot","4324 Loughborough Ave","63116",38.56615622528738,-90.27798223943292
+"63109","Saint Louis","MO","Schnucks","60 Hampton Village Plz","63109",38.591702,-90.293277
+"63109","Saint Louis","MO","ALDI","6601 Gravois Ave","63116",38.5729618,-90.2826292
+"63109","Saint Louis","MO","Saucy One","4385 Bates St","63116",38.5777587890625,-90.27153015136719
+"63109","Saint Louis","MO","Deirbergs","Telegraph","63129",38.584061443894896,-90.30540452671687
+"63109","Saint Louis","MO","Grocery","not_available","63139",38.599711,-90.271709
+"63109","Saint Louis","MO","Shop n save","Manchester","63109",38.596365974940596,-90.31257201094711
+"63110","Saint Louis","MO","Schnucks Arsenal","5055 Arsenal St","63139",38.6064746,-90.2738433
+"63110","Saint Louis","MO","Save-A-Lot","5437 Southwest Ave","63139",38.61046655950038,-90.2795184398909
+"63110","Saint Louis","MO","Restaurant Depot","6455 Manchester Ave","63139",38.62116114461,-90.2964493667344
+"63110","Saint Louis","MO","DiGregorio's Market","5200 Daggett Ave","63110",38.61658876072992,-90.27273172073886
+"63110","Saint Louis","MO","AO","1641 Tower Grove Ave","63110",38.619563,-90.256023
+"63110","Saint Louis","MO","Regal Foods III","4200 Shaw Blvd","63110",38.61624204728409,-90.25377823029577
+"63110","Saint Louis","MO","Always Low Price (a.k.a. ALPS)","Grand","63110",38.61529303612696,-90.24589995216748
+"63111","Saint Louis","MO","Food Land","not_available","63116",38.564321416666665,-90.25924917
+"63111","Saint Louis","MO","Aryana Market","5545 Grand Avenue","63111",38.568878173828125,-90.25457763671875
+"63111","Saint Louis","MO","Schnucks Loughborough","1020 Loughborough Ave","63111",38.5561536,-90.2630133
+"63111","Saint Louis","MO","Save-A-Lot","4324 Loughborough","63116",38.56152344,-90.26582336
+"63111","Saint Louis","MO","710 Glass Co.","8122 S Broadway","63111",38.54319503366669,-90.26238169080733
+"63111","Saint Louis","MO","Maude's Market","not_available","63111",38.579938632206115,-90.24125947025999
+"63111","Saint Louis","MO","Universal Food Market","4330 S Broadway","63111",38.57664108276367,-90.23182678222656
+"63112","Saint Louis","MO","Kings Market","6116 Dr Martin Luther King Dr","63133",38.67547156507578,-90.28580486640128
+"63112","Saint Louis","MO","solls","not_available","63113",38.65797424316406,-90.26227569580078
+"63112","Saint Louis","MO","Save A Lot","1331 Union Blvd","63113",38.662803649902344,-90.28247833251953
+"63113","Saint Louis","MO","Save-A-Lot","4447 Natural Bridge","63115",38.670705042974966,-90.23773004310995
+"63113","Saint Louis","MO","Phillips Grocery","Newstead","not_available",38.66470142,-90.24027652
+"63114","Saint Louis","MO","Schnucks Overland","9074 Overland Plz","63114",38.6854424,-90.359386
+"63114","Saint Louis","MO","Shop 'n Save","9070 Saint Charles Rock Rd","63114",38.711231314084195,-90.35460547373987
+"63114","Saint Louis","MO","SEEMA ENTERPRISES INC","10635 Page Ave","63132",38.692393496690336,-90.39563416865454
+"63114","Saint Louis","MO","Save-A-Lot","9430 Midland Blvd","63114",38.70566426644431,-90.36271438604034
+"63114","Saint Louis","MO","India Bazar","10755 Page Ave","63132",38.692840576171875,-90.3990707397461
+"63114","Saint Louis","MO","Schnuck Markets, Inc. - National Bake Shop","not_available","63114-6016",38.68623414576177,-90.34255181142186
+"63114","Saint Louis","MO","Akbar Grocery","10610 Page Ave","63132",38.69171142578125,-90.39495849609375
+"63114","Saint Louis","MO","Schnucks","9220 Shortline Dr","63132",38.67805862426758,-90.37206268310547
+"63114","Saint Louis","MO","Seema Indian-Pakistani Groceries","10635","not_available",38.69164422624483,-90.39626899617973
+"63114","Saint Louis","MO","Durango Mexican Grocery Store","not_available","63132",38.690579,-90.38665
+"63114","Saint Louis","MO","Oellermanns market","Lacland","not_available",38.70080988823407,-90.36755100611244
+"63114","Saint Louis","MO","ALDI","9759 Saint Charles Rock Rd","63114",38.72192955715271,-90.36858873950992
+"63114","Saint Louis","MO","Save-A-Lot","8000 St. Charles Rock Rd","63114",38.6989135742188,-90.3291778564453
+"63115","Saint Louis","MO","Schnucks City Plaza","3431 Union Blvd","63115",38.6792993,-90.2609393
+"63115","Saint Louis","MO","Yours Market","8005 N Broadway","63147",38.70930811513719,-90.23031308718986
+"63116","Saint Louis","MO","ALDI","3865 Gravois Ave","63116",38.59317763488569,-90.25099052684504
+"63116","Saint Louis","MO","Local Harvest Grocery","3108 Morganford Rd","63116",38.60418624642575,-90.26110996432888
+"63116","Saint Louis","MO","World Market","not_available","63118",38.585993,-90.244023
+"63116","Saint Louis","MO","Wonderbread Outlet","4280 Chippewa St","63116",38.59007263183594,-90.26310729980469
+"63116","Saint Louis","MO","Beirut Market","3765 Gravois Ave","63116",38.59199,-90.24886
+"63117","Saint Louis","MO","Walmart Supercenter","1900 Maplewood Commons Dr","63143",38.62162645413777,-90.331344321175
+"63117","Saint Louis","MO","Dierbergs Markets","8450 Eager Rd","63144",38.627488800094305,-90.33926263282402
+"63117","Saint Louis","MO","Trader Joe's","48 Brentwood Promenade Court","63144",38.62735675071411,-90.34159328594099
+"63117","Saint Louis","MO","Whole Foods Market","1601 S. Brentwood Blvd","63144",38.62706713435099,-90.34748773498633
+"63117","Saint Louis","MO","BFC Enterprises","8400 Hanley Industrial Ct","63144",38.62873840332031,-90.33779907226562
+"63118","Saint Louis","MO","Discount Grocery Store LLC","3404 Chippewa St","63118",38.5877643,-90.24095510000001
+"63118","Saint Louis","MO","Corner Store","Chippewa Street","63118",38.58780995496913,-90.24077694821224
+"63119","Saint Louis","MO","Walmart Supercenter","7437 Watson Road","63119",38.58027618630102,-90.32776738488965
+"63119","Saint Louis","MO","Schnucks Brentwood","8800 Manchester Rd","63144",38.6115183,-90.3502104
+"63119","Saint Louis","MO","Schnucks Maplewood","7355 Manchester Rd","63143",38.6138276,-90.3190663
+"63119","Saint Louis","MO","Dierbergs Markets","9901 Manchester Rd","63122",38.604915736809495,-90.38115960148687
+"63119","Saint Louis","MO","ALDI","7369 Watson Rd","63119",38.5810146,-90.3244202
+"63119","Saint Louis","MO","ALDI","7725 Manchester Rd","63143",38.6135607,-90.3276291
+"63119","Saint Louis","MO","Straub's","211 W Lockwood Ave","63119",38.59340260088585,-90.36189246713188
+"63119","Saint Louis","MO","Freddie's Market","1000-1016 S Rock Hill Rd","63119",38.57635141311157,-90.36771899423209
+"63119","Saint Louis","MO","Gordon Food Service Store","3200 Laclede Station Rd.","63143",38.604739477838244,-90.33095240592957
+"63119","Saint Louis","MO","Save A Lot","29 Gateway Commerce Center","63119",38.58394812600568,-90.35835832719687
+"63119","Saint Louis","MO","Schuncks Maplewood","not_available","63143",38.612705,-90.32126
+"63121","Saint Louis","MO","Schnucks Westfall Plaza","8037 West Florissant Ave","63136",38.7304374,-90.2764356
+"63121","Saint Louis","MO","Save A Lot","91 N Oaks Plaza","63121",38.70136261,-90.28936768
+"63121","Saint Louis","MO","Save-A-Lot","1501 S Florissant Rd","63121",38.725597,-90.30378
+"63121","Saint Louis","MO","ALDI","8445 Lucas and Hunt Rd","63136",38.7278611745066,-90.27233809232717
+"63121","Saint Louis","MO","Save-A-Lot","91 N Oaks Plz","63121",38.700130462646484,-90.2903823852539
+"63121","Saint Louis","MO","Save-A-Lot","10030 W Florissant","63136",38.72946548,-90.27355957
+"63121","Saint Louis","MO","Schnucks","not_available","63121",38.72103251871768,-90.30389458009765
+"63122","Saint Louis","MO","Global Foods Market","421 N Kirkwood Rd","63122",38.58523324241982,-90.40675391328112
+"63122","Saint Louis","MO","Trader Joe's","13343 Manchester Rd","63131",38.60107857843465,-90.46706164374368
+"63122","Saint Louis","MO","Walmart Supercenter","1202 S Kirkwood Rd","63122",38.56310431947258,-90.40324042668173
+"63122","Saint Louis","MO","Dierbergs Markets","1080 Lindemann Rd","63131",38.60074802939956,-90.4333397812127
+"63122","Saint Louis","MO","Fresh Thyme Farmers Market","1018 N Kirkwood Rd","63122",38.5992581,-90.4058179
+"63122","Saint Louis","MO","Schnucks Crestwood","9540 Watson Rd","63126",38.5573995,-90.3785494
+"63122","Saint Louis","MO","ALDI","1125 S Kirkwood Rd","63122",38.5652946,-90.4080485
+"63122","Saint Louis","MO","ALDI","12145 Manchester Rd","63131",38.60398069908284,-90.43864578008652
+"63122","Saint Louis","MO","Schnucks Kirkwood","10233 Manchester","63122",38.60154831248589,-90.39618220787968
+"63122","Saint Louis","MO","ALDI","9274 Watson Rd","63126",38.5583854,-90.3743652
+"63122","Saint Louis","MO","Kirkwood Deli & Grocery","500 W Essex Ave","63122",38.58877568114588,-90.41555306671437
+"63122","Saint Louis","MO","River City Natural Food Market","833 S Kirkwood Rd","63122",38.569089,-90.40751
+"63122","Saint Louis","MO","New Harvest Foods","10028 Manchester Rd","63122",38.60238265991211,-90.3867416381836
+"63122","Saint Louis","MO","Fresco in Des Peres Schnucks","Manchester","not_available",38.60181781862912,-90.44235855912427
+"63122","Saint Louis","MO","Hannake's Westwood Grocery","190 N Sappington Rd","63122",38.58529257441601,-90.38659087058339
+"63122","Saint Louis","MO","Kirkwood Commons","100 North Kirkwood Rd","63122",38.5634126,-90.4049549
+"63122","Saint Louis","MO","World Foods Market","not_available","63122",38.57965683155649,-90.40599509761114
+"63123","Saint Louis","MO","Target","4250 Rusty Rd","63128",38.50646511234327,-90.33924449162298
+"63123","Saint Louis","MO","Dierbergs Markets","2516 Lemay Ferry Rd","63125",38.518844106978236,-90.3034105799322
+"63123","Saint Louis","MO","Shop n Save","1032 Lemay Ferry Rd","63125",38.53395620067574,-90.28402984142303
+"63123","Saint Louis","MO","Fresh Thyme Farmers Market","9920 Lin Ferry Dr","63123",38.5238353,-90.3522211
+"63123","Saint Louis","MO","Shop 'n Save","5780 S Lindbergh Blvd","63123",38.523718702314376,-90.34855842590326
+"63123","Saint Louis","MO","ALDI","11185 S Towne Sq","63123",38.514255,-90.3397183
+"63123","Saint Louis","MO","ALDI","1066 Lemay Ferry Rd.","63125",38.53469308721423,-90.28671527964504
+"63123","Saint Louis","MO","Save-A-Lot","3661 Reavis Barracks","63125",38.52590516291852,-90.29933449781383
+"63123","Saint Louis","MO","Namaste Mart","4812 Forman Rd","63123",38.54579595018189,-90.30943136662245
+"63123","Saint Louis","MO","shop and save","not_available","63128",38.51333796689057,-90.3400161772381
+"63123","Saint Louis","MO","Waterloo Schnucks","not_available","63123",38.52232198485012,-90.34438498414681
+"63123","Saint Louis","MO","The Healthy Shopper","139 Concord Plaza","63128",38.52407455444336,-90.36326599121094
+"63123","Saint Louis","MO","Fine Foods International (New York), L.P","9907 Baptist Church Rd","63123",38.539399,-90.361666
+"63124","Saint Louis","MO","Schnucks","8867 Ladue Rd","63124",38.65603433250753,-90.35394713119153
+"63124","Saint Louis","MO","Schnucks Lindbergh","10275 Clayton Rd","63124",38.633997,-90.404846
+"63124","Saint Louis","MO","Ladue Market","9155 Clayton Rd","63124",38.64152664904361,-90.36642019051375
+"63124","Saint Louis","MO","Market At Busch's Grove The","9160 Clayton Rd","63124",38.64138,-90.36695
+"63125","Saint Louis","MO","Walmart Supercenter","3270 Telegraph Rd","63125",38.49461183,-90.29714584
+"63125","Saint Louis","MO","Save-A-Lot","3160 Telegraph Rd","63125",38.49792415717067,-90.29904845860256
+"63125","Saint Louis","MO","Schnucks","not_available","63129",38.489840991177225,-90.31735306026212
+"63125","Saint Louis","MO","Save A Lot","3661 Reavis Barracks Rd","63125",38.525878000000006,-90.298446
+"63125","Saint Louis","MO","La Tienda","7459 S Lindbergh Blvd","63125",38.50579071044922,-90.3235092163086
+"63125","Saint Louis","MO","sedo europa market","Green Park","63125",38.52331935732065,-90.30259579730249
+"63126","Saint Louis","MO","St. Louis Vendors Inc","11674 Gravois Rd","63126",38.533974,-90.3833
+"63128","Saint Louis","MO","Dierbergs Markets","12420 Tesson Ferry Rd","63128",38.5090058680308,-90.37434474766687
+"63128","Saint Louis","MO","Schnucks","4333 Butler Hill Rd","63128",38.48727683617944,-90.35821475565228
+"63129","Saint Louis","MO","Schnucks Telegraph","5519 Oakville Shopping Ctr","63129",38.4725384,-90.3068589
+"63129","Saint Louis","MO","Dierbergs Markets","5640 Telegraph Rd","63129",38.46719071242844,-90.30351823080491
+"63129","Saint Louis","MO","Wonder/Hostess Thriftshop","4530 Lemay Ferry Rd Ste A","63129",38.4980354309082,-90.33787536621094
+"63130","Saint Louis","MO","Seafood City","8020 Olive Blvd","63130",38.671903519133146,-90.34401435078128
+"63130","Saint Louis","MO","Schnucks University City","6920 Olive Blvd","63130",38.6635341,-90.3144139
+"63130","Saint Louis","MO","ALDI","7701 Olive Blvd","63130",38.673055494286906,-90.33684388564325
+"63130","Saint Louis","MO","Olive Supermarket","8041 Olive Blvd","63130",38.67351848972804,-90.34484681255486
+"63130","Saint Louis","MO","Pete's Grocery Store","7434 Olive Blvd","63130",38.67152022796261,-90.33107928267977
+"63130","Saint Louis","MO","Save-A-Lot","6840 Page Ave","63133",38.67471729517056,-90.31024684620985
+"63130","Saint Louis","MO","China Town Market","8150 Olive Blvd","63130",38.673193126270284,-90.34744929383777
+"63130","Saint Louis","MO","Save a Lot","not_available","63130",38.66399736554994,-90.31848246122165
+"63130","Saint Louis","MO","Norman Brokerage","7407 Melrose Ave","63130",38.67283630371094,-90.32975006103516
+"63130","Saint Louis","MO","Rizzo's European Foods","8369 Olive Blvd","63132",38.674190521240234,-90.35296630859375
+"63132","Saint Louis","MO","East East Oriental Grocery Store","8619 Olive Blvd","63132",38.67446689525654,-90.35742539069713
+"63134","Saint Louis","MO","ALDI","St Charles Rock Road","63044",38.74057824912188,-90.3681164261223
+"63135","Saint Louis","MO","Schnucks","49 N Florissant Rd","63135",38.74677003684679,-90.30668776756771
+"63135","Saint Louis","MO","Walmart Supercenter","10741 West Florissant Ave","63136",38.76601290730963,-90.2832697413471
+"63135","Saint Louis","MO","ALDI","21 Adams St","63135",38.74222441482858,-90.30301885446534
+"63135","Saint Louis","MO","Save A Lot","10000 W Florissant Ave","63136",38.7502555847168,-90.27825927734375
+"63135","Saint Louis","MO","Paul's Market","1020 N Elizabeth Ave","63135",38.758346349170104,-90.29894942404606
+"63136","Saint Louis","MO","Shop 'n Save","9521 Lewis and Clark Blvd","63136",38.73600038698709,-90.2429169416427
+"63136","Saint Louis","MO","Save-A-Lot","8960 Riverview Blvd","63147",38.72100341374361,-90.23992928899366
+"63137","Saint Louis","MO","ALDI","not_available","63137",38.76773654512525,-90.22024154663086
+"63137","Saint Louis","MO","Ruler Foods","10009 Bellefontaine Rd","63137",38.75002945860545,-90.22550940513611
+"63137","Saint Louis","MO","Schnucks","1589 Sierra Vista Plaza","63138",38.77248154508919,-90.22022298578143
+"63137","Saint Louis","MO","ALDI","Bellefontaine Recreational Center, 9669 Bellefontaine Rd, St Louis, MO 63137","63137",38.74258041381836,-90.2271499633789
+"63141","Saint Louis","MO","Dierbergs Markets","11481 Olive Blvd","63141",38.67274409444002,-90.43512540290965
+"63141","Saint Louis","MO","Dierbergs Markets","12595 Olive Blvd","63141",38.67714223765664,-90.46318145104547
+"63141","Saint Louis","MO","ALDI","11745 Olive St Rd","63141",38.6710602,-90.4427411
+"63141","Saint Louis","MO","Schnucks","10650 Olive Blvd","63141",38.67280769654657,-90.41427124740993
+"63141","Saint Louis","MO","Trader Joe's","11505 Olive Blvd","63141",38.6719096231632,-90.43646112414218
+"63141","Saint Louis","MO","Asia Market","1243 Castillons Arcade Plz","63141",38.68238411319798,-90.47543009098085
+"63141","Saint Louis","MO","Schnuck’s","12756 Olive Blvd","63141",38.677971,-90.472951
+"63141","Saint Louis","MO","The Fresh Market","11557 Olive Blvd","63141",38.67165782070783,-90.43817454972103
+"63301","Saint Charles","MO","Walmart Supercenter","2897 Veterans Memorial Pkwy","63303",38.783026443506756,-90.5270004272461
+"63301","Saint Charles","MO","Schnucks Lindenwood","1900 1st Capitol Dr","63301",38.7824039,-90.5016073
+"63301","Saint Charles","MO","Schnucks","577 Mid Rivers Mall Dr","63376",38.78718361574053,-90.62778117440043
+"63301","Saint Charles","MO","Dierbergs Markets","2021 Zumbehl Rd","63303",38.78268230516965,-90.53433174689087
+"63301","Saint Charles","MO","Walmart Neighborhood Market","45 Sutters Mill Road","63376",38.778639240022976,-90.57991986933801
+"63301","Saint Charles","MO","Walmart Neighborhood Market","3031 Mid Rivers Mall Drive","63376",38.77231345605056,-90.57022013227501
+"63301","Saint Charles","MO","Dierbergs Markets","217 Salt Lick Rd","63376",38.80045262906902,-90.65627753734589
+"63301","Saint Charles","MO","Save-A-Lot","3102 W Clay","63301",38.788670058143836,-90.53737156712639
+"63301","Saint Charles","MO","ALDI","1335 Bass Pro Dr","63301",38.7723729,-90.49562209999999
+"63301","Saint Charles","MO","ALDI","343 Mid Rivers Mall Dr","63376",38.791197,-90.625948
+"63301","Saint Charles","MO","Mid Towne Market","317 Hawthorn Ave","63301",38.79511209414343,-90.49820170408135
+"63301","Saint Charles","MO","Marsala's Market","3308 Rue Royale","63301",38.836633994562014,-90.49391183766667
+"63301","Saint Charles","MO","Schnucks","Hwy K","63366",38.79898512099788,-90.50831022409342
+"63301","Saint Charles","MO","Schnucks Harvester","48 Plaza Ninety-Four Dr","63376",38.7875055,-90.6298934
+"63301","Saint Charles","MO","Carniceria El Pueblito","not_available","63303",38.775383,-90.515538
+"63301","Saint Charles","MO","Ruler Foods","2458 W Clay St","63301",38.7850684,-90.5120032
+"63303","Saint Charles","MO","Walmart Supercenter","1661 Jungermann Rd","63304",38.744591234676825,-90.5888726739385
+"63303","Saint Charles","MO","Fresh Thyme Farmers Market","3600 S Saint Peters Pkwy","63304",38.7465704,-90.5846805
+"63303","Saint Charles","MO","Schnucks Harvester Square","60 Harvester Sq","63303",38.7465348,-90.5763423
+"63303","Saint Charles","MO","ALDI","1665 Jungermann Rd","63304",38.74370347250396,-90.5911605223082
+"63303","Saint Charles","MO","Sams Club","not_available","63304",38.744193149850474,-90.54424097099051
+"63303","Saint Charles","MO","Shop N Save","not_available","63376",38.794782716779125,-90.55600339831436
+"63303","Saint Charles","MO","Save A Lot","3102 W Clay St","63301",38.788813,-90.538041
+"63303","Saint Charles","MO","powell terrace food pantry","not_available","63301",38.78120148407877,-90.49959666599258
+"63303","Saint Charles","MO","Little India Markets","2157 Bluestone Dr","63303",38.75851823132932,-90.53581960132351
+"63304","Saint Charles","MO","Dierbergs Markets","2979 Highway K","63368",38.757896607838646,-90.70355809151964
+"63304","Saint Charles","MO","Dierbergs Markets","6211 Mid Rivers Mall Dr","63304",38.740472564890126,-90.63648062147718
+"63304","Saint Charles","MO","Schnucks Cottleville","6083 Mid Rivers Mall Dr","63304",38.7452631,-90.636756
+"63304","Saint Charles","MO","Schnucks Monticello","3740 Monticello Plaza","63368",38.7328623,-90.6891701
+"63304","Saint Charles","MO","Shop N Save","3740 Monticello Plz","63304",38.73252930412813,-90.68958789110184
+"63304","Saint Charles","MO","Schnucks Dardenne","3029 Highway K","63368",38.7558735,-90.7036063
+"63304","Saint Charles","MO","Dardenne Crossing","3023-3079 State Highway K","63368",38.755869559722036,-90.70383846759796
+"63304","Saint Charles","MO","Dieberg's","Highway K","63368",38.75685058915779,-90.63481375762234
+"63304","Saint Charles","MO","Shop n' Save","not_available","63366",38.74931627673865,-90.7003434752211
+"63304","Saint Charles","MO","Krishna Veni Foods - Indian Grocery","943 Waterbury falls drive","63368",38.725318908691406,-90.69615173339844
+"63304","Saint Charles","MO","The Dinner Bell","475 Miralago Shore Dr","63376",38.762516999999995,-90.633431
+"63304","Saint Charles","MO","Mannino's Market","5205 Highway N","63304",38.745185722526315,-90.65265699721053
+"63333","Bellflower","MO","Hicks Store","115 S Main St","63333",39.006324768066406,-91.35446166992188
+"63334","Bowling Green","MO","Walmart Supercenter","3 Town Center Dr","63334",39.33129615,-91.1820684
+"63334","Bowling Green","MO","IGA Hickmans","not_available","63334",39.33289,-91.191998
+"63334","Bowling Green","MO","Save A Lot","1106 US-61 BUS","63334",39.3326683044434,-91.1918640136719
+"63336","Clarksville","MO","Elsberry IGA","not_available","63343",39.37273105350865,-90.90720678321846
+"63348","Foristell","MO","Walmart Supercenter","1971 Wentzville Pkwy","63385",38.814526914320645,-90.8787565416758
+"63348","Foristell","MO","Schnucks","not_available","63385",38.78911590576172,-90.91480255126953
+"63357","Marthasville","MO","K&R Market","15971 State Highway 47","63357",38.63371857417284,-91.0666412555956
+"63361","Montgomery City","MO","Save-A-Lot","1325 Gerken Dr","63361",38.960899353027344,-91.49040222167969
+"63366","O Fallon","MO","Walmart Supercenter","1307 Highway K","63366",38.79353007561183,-90.70183753967285
+"63366","O Fallon","MO","Fresh Thyme Farmers Market","2235 Highway K","63368",38.77944560785412,-90.7028836131575
+"63366","O Fallon","MO","Schnucks","8660 Veterans Memorial Pkwy","63366",38.7990307,-90.6991624
+"63366","O Fallon","MO","ALDI","8615 Veterans Memorial Pkwy","63366",38.8009737,-90.697557
+"63366","O Fallon","MO","Schnucks Mexico Loop","1421 Mexico Loop Rd E","63366",38.79022695048282,-90.69672524929047
+"63366","O Fallon","MO","Orlando's Produce","7875 Mexico Rd","63376",38.786829,-90.660398
+"63367","Lake Saint Louis","MO","Walmart Supercenter","6100 Ronald Reagan Dr","63367",38.77264118673469,-90.78634069934034
+"63367","Lake Saint Louis","MO","Schnucks Town Square","7909 Highway N","63368",38.7687043,-90.7662206
+"63367","Lake Saint Louis","MO","ALDI","464 Hawk Ridge Trail","63367",38.76640228747136,-90.78106999397272
+"63376","Saint Peters","MO","Schnucks Markets","Mid Rivers Mall Dr.","63376",38.78960851503558,-90.6144004387093
+"63376","Saint Peters","MO","Schnucks","100 Jungermann Rd","63376",38.795093780200105,-90.57736158370972
+"63379","Troy","MO","Kroger","1 Troy Square Shop","63379",38.988359,-90.9761849
+"63379","Troy","MO","Walmart Supercenter","101 Highway 47 E","63379",38.988415909325546,-90.98188042959515
+"63379","Troy","MO","ALDI","Hwy. 47","63379",38.98573543268107,-90.98079446861894
+"63379","Troy","MO","ALDI","6 The Plaza","63379",38.98532691,-90.98080472
+"63382","Vandalia","MO","Hickman's IGA","1555 W US Highway 54","63382",39.303672790527344,-91.50393676757812
+"63383","Warrenton","MO","Walmart Supercenter","500 Warren County Ctr","63383",38.82355474712929,-91.1418639317762
+"63383","Warrenton","MO","Schnucks Warrenton","499 E Veterans Memorial Pkwy","63383",38.8200629,-91.1445908
+"63383","Warrenton","MO","Mosers","1035 Armory Rd","63383",38.822391510009766,-91.1336898803711
+"63383","Warrenton","MO","ALDI","531 Anwijo Way","63383",38.82476205995043,-91.13844917854294
+"63385","Wentzville","MO","ALDI","150 Crossroads South Dr","63385",38.81098789961174,-90.87723700347851
+"63385","Wentzville","MO","Dierbergs Markets","1820 Wentzville Pkwy","63385",38.81928397390002,-90.8754511302146
+"63385","Wentzville","MO","Save-A-Lot","715 W Pearce Blvd","63385",38.810666,-90.863925
+"63386","West Alton","MO","ALDI","2822 Homer M Adams Pkwy","62002",38.91609302240687,-90.14452815055847
+"63386","West Alton","MO","Schnucks Alton","2811 Homer M Adams Pkwy","62002",38.9140753,-90.1434767
+"63386","West Alton","MO","Farm Fresh","3201 Fosterburg Rd","62002",38.91994857788086,-90.10912322998047
+"63386","West Alton","MO","Shop 'n Save","1721 Homer M Adams Pkwy","62002",38.9167677,-90.1646339
+"63386","West Alton","MO","Save A Lot","2980 Homer M Adams Pkwy","62002",38.9155405,-90.1431917
+"63386","West Alton","MO","Save-A-Lot","2980 Homer Adams Pkwy","62002",38.91576549372728,-90.14159566720227
+"63401","Hannibal","MO","Walmart Supercenter","3650 Stardust Dr","63401",39.72465486073323,-91.39928263361598
+"63401","Hannibal","MO","ALDI","4419 McMasters Ave","63401",39.7223640652701,-91.39481709168649
+"63401","Hannibal","MO","County Market","202 Steamboat Bend","63401",39.71227061228327,-91.39293587525212
+"63401","Hannibal","MO","Save-A-Lot","1222 Broadway","63401",39.70496559427689,-91.36799435965295
+"63401","Hannibal","MO","KROGER","200 Huck Finnn S/C","not_available",39.7099189,-91.4537734
+"63435","Canton","MO","County Market","1805 Elm St","63435",40.120689392089844,-91.53955841064453
+"63437","Clarence","MO","A&R","not_available","63437",39.74189089,-92.25850848
+"63445","Kahoka","MO","Mac's Super Saver","436 E Main St","63445",40.42005157470703,-91.71510314941406
+"63456","Monroe City","MO","C & R Market","not_available","63456",39.65911985545542,-91.7130796725411
+"63461","Palmyra","MO","County Market","1208 S Main St","63461",39.78971367767817,-91.52378424227628
+"63501","Kirksville","MO","Walmart Supercenter","2206 N Baltimore St","63501",40.21684398401617,-92.5800591798725
+"63501","Kirksville","MO","Hy-Vee","500 N Baltimore St","63501",40.197599,-92.569501
+"63501","Kirksville","MO","ALDI","2115 N Baltimore St","63501",40.214054683351684,-92.58377628168091
+"63501","Kirksville","MO","Back to Nature Natural Foods and Vitamins","508 S Baltimore St","63501",40.1912727355957,-92.57259368896484
+"63501","Kirksville","MO","ALDI","not_available","63501",40.20427322387695,-92.57471466064453
+"63532","Bevier","MO","Matt's Market","not_available","63532",39.74648,-92.564562
+"63537","Edina","MO","C&R Market","not_available","63537",40.172146,-92.168055
+"63548","Lancaster","MO","M&M Market","not_available","63548",40.521709,-92.525257
+"63552","Macon","MO","Walmart","705 E Briggs Dr","63552",39.75343281,-92.4640969
+"63552","Macon","MO","Prenger Foods","not_available","63552",39.7447802,-92.4686243
+"63555","Memphis","MO","J's Food Inc","Po Box 156","63555",40.46169,-92.16918
+"63555","Memphis","MO","J's Food Inc","467 E. Grand","63555",40.451351,-92.1624033
+"63556","Milan","MO","Richardson's Supermarket","500 N Pearl St","63556",40.205318450927734,-93.11729431152344
+"63565","Unionville","MO","Hy-Vee Mainstreet","2525 Main St","63565",40.47662902,-93.01372363
+"63601","Park Hills","MO","Walmart Supercenter","407 No. State St","63601",37.88361836703581,-90.51348021051642
+"63601","Park Hills","MO","Mikes  Market","not_available","63624",37.77399759680398,-90.61956877284806
+"63601","Park Hills","MO","Country Mart","301 T J Stewart Dr","63601",37.849628045884344,-90.52102931889002
+"63601","Park Hills","MO","Save-A-Lot","110 Strauss St","63601",37.84322475542702,-90.49518396630917
+"63601","Park Hills","MO","Save A Lot","110 Strauss Dr","63601",37.8434344,-90.4957756
+"63628","Bonne Terre","MO","Save A Lot","3 Northwood St","63628",37.9227233,-90.5373672
+"63628","Bonne Terre","MO","Country Mart","50 Berry Rd","63628",37.924331851404325,-90.54023321094664
+"63628","Bonne Terre","MO","Save-A-Lot","3 N Wood","63628",37.922796,-90.53703
+"63630","Cadet","MO","alps Grocery","E Jefferson St","63664",37.933528900146484,-90.78543090820312
+"63640","Farmington","MO","Walmart Supercenter","707 Walton Dr","63640",37.789948892016646,-90.43492035695743
+"63640","Farmington","MO","Schnucks","942 Valley Creek Dr","63640",37.793698650956784,-90.44159106356585
+"63640","Farmington","MO","Earth Mother Health Foods","not_available","63640",37.77936003899142,-90.41835632460014
+"63640","Farmington","MO","Bailey's Grocery","Hwy DD","not_available",37.675434,-90.372858
+"63640","Farmington","MO","ALDI","787 Maple Valley Dr","63640",37.79233990092517,-90.43856934474206
+"63640","Farmington","MO","Save-A-Lot","140 Vierse Dr","63640",37.77965068853689,-90.40599509761114
+"63645","Fredericktown","MO","Walmart Supercenter","1025 Walton Dr","63645",37.55922536994927,-90.32072377250563
+"63645","Fredericktown","MO","Casey's General Store","507 Lincoln Dr","63645",37.567063225882656,-90.28508760620528
+"63650","Ironton","MO","Save-A-Lot","1370 N Highway 21","63650",37.61350994718379,-90.63752582892221
+"63650","Ironton","MO","Save-A-Lot","1370 N Hwy 21","63650",37.61666489,-90.64115143
+"63654","Lesterville","MO","Dohicky's","33035 Hwy. 21","63654",37.454036999786375,-90.84256507609206
+"63660","Mineral Point","MO","Walmart Supercenter","#1 Memorial Drive","63664",37.92399423811422,-90.77189729367987
+"63664","Potosi","MO","Save A Lot","840 E High St","63664",37.92816925048828,-90.77468872070312
+"63670","Sainte Genevieve","MO","Country Mart","180 Plaza Dr","63670",37.96720886230469,-90.05400085449219
+"63670","Sainte Genevieve","MO","Save A Lot","11306 Sav a Lot Dr","63670",37.9785361,-90.0478379
+"63670","Sainte Genevieve","MO","Save-A-Lot","11306 Save-A-Lot Dr","63670",37.97866058,-90.04756165
+"63670","Sainte Genevieve","MO","Save-A-Lot","30 Triangle Dr","63670",37.96807098388672,-90.05773162841797
+"63673","Saint Mary","MO","Walmart Supercenter","1750 S Perryville Blvd","63775",37.705683417269206,-89.89538398594148
+"63673","Saint Mary","MO","Rozier's Food Center","217 N Main St","63775",37.727183562718125,-89.8619846296616
+"63673","Saint Mary","MO","ALPS","not_available","63775",37.736971591204025,-89.8697891545614
+"63701","Cape Girardeau","MO","Walmart Neighborhood Market","2021 Independence Street","63703",37.30554017616433,-89.54933789355715
+"63701","Cape Girardeau","MO","Schnucks","19 S Kingshighway St","63703",37.304781348266765,-89.55368041992188
+"63701","Cape Girardeau","MO","Walmart Supercenter","3439 William St","63701",37.30121731404261,-89.58532735585653
+"63701","Cape Girardeau","MO","Country Mart Supermarket","309 E Jackson Blvd","63755",37.3758552612604,-89.66628580708137
+"63701","Cape Girardeau","MO","Aldi","2145 Independence St","63703",37.30602509626804,-89.55040978034958
+"63701","Cape Girardeau","MO","Walmart Supercenter","3051 E Jackson Blvd","63755",37.362577461707325,-89.6344242394632
+"63701","Cape Girardeau","MO","Natural Health Organic Foods","135 S Broadview St","63703",37.30428861320793,-89.55723198941764
+"63701","Cape Girardeau","MO","Ruler Foods","2103 William St","63703",37.30254612819428,-89.54772546898312
+"63701","Cape Girardeau","MO","Save-A-Lot","1905 E Jackson Blvd","63755",37.369979539571816,-89.64725017878372
+"63701","Cape Girardeau","MO","Shop n Save","S Kingshighway, Cape Girardeau, MO 63703","63703",37.288822174072266,-89.55550384521484
+"63701","Cape Girardeau","MO","Schnucks Cape Girardeau","19 S Kingshighway","63703",37.3052595,-89.5540264
+"63701","Cape Girardeau","MO","Food Giant","1120 N Kingshighway St","63701",37.32269687050372,-89.55878578453029
+"63701","Cape Girardeau","MO","Walmart Grocery Pickup","2021 Independence Street","63701",37.306472244898,-89.5479965306123
+"63701","Cape Girardeau","MO","The corner Store","not_available","63701",37.306639842817184,-89.5232459984849
+"63701","Cape Girardeau","MO","Save-A-Lot","121 S Sprigg","63703",37.30192213,-89.527773
+"63701","Cape Girardeau","MO","Dents Make Cents","not_available","63755",37.37445831298828,-89.65424346923828
+"63701","Cape Girardeau","MO","Save A Lot","121 S Sprigg St","63703",37.3023655,-89.5275719
+"63730","Advance","MO","Town & Country","33330 State Highway 25","63730",37.10222,-89.904392
+"63732","Altenburg","MO","Cardinal Corner","409 grand tower rd","not_available",37.626277923583984,-89.498046875
+"63740","Chaffee","MO","Food Giant","not_available","63740",37.178257198566975,-89.66708496590181
+"63764","Marble Hill","MO","Country Mart","not_available","63764",37.306094,-89.975395
+"63771","Oran","MO","David's grocery Store","not_available","63771",37.08708287251743,-89.656239817236
+"63780","Scott City","MO","Bobs Food Liner Grocery","201-399 Western Ave","63780",37.21537767524937,-89.53368785061649
+"63801","Sikeston","MO","Walmart Supercenter","1303 S Main St","63801",36.85754052144233,-89.5854316115575
+"63801","Sikeston","MO","Food Giant","945 E Malone Ave","63801",36.879783630371094,-89.57461547851562
+"63801","Sikeston","MO","ALDI","1045 S Main St","63801",36.86697975019434,-89.58176699140165
+"63801","Sikeston","MO","Ruler Foods","1102 S Main St","63801",36.865107104249915,-89.57985877990723
+"63801","Sikeston","MO","Food Giant","2415 E Malone Ave","63801",36.88869857788086,-89.54463195800781
+"63801","Sikeston","MO","Food Giant","700 N Main St","63801",36.88611095020798,-89.58099321024217
+"63801","Sikeston","MO","Anything and Everything","451-499 Davis Blvd","63801",36.88038579,-89.59604102
+"63801","Sikeston","MO","Save-A-Lot","601 S Main St","63801",36.87448737691565,-89.57843538161922
+"63801","Sikeston","MO","Johnson's Food Mart","117 W Main St","63867",36.759331521229335,-89.58632906435253
+"63822","Bernie","MO","Town And Country","not_available","63822",36.663216,-89.968878
+"63827","Bragg City","MO","Wardell Food Center","not_available","63879",36.35130635785191,-89.81614921961818
+"63834","Charleston","MO","McClains","not_available","63834",36.9179829061635,-89.3499064631785
+"63834","Charleston","MO","McDonald's Food Mart","not_available","63845",36.78266281421703,-89.40239618665862
+"63834","Charleston","MO","Town And Country","523 E Washington St","not_available",36.776241302490234,-89.3793716430664
+"63834","Charleston","MO","Country Mart","1 Charleston Plz","not_available",36.912322998046875,-89.34928131103516
+"63837","Clarkton","MO","Town and Country","Clarkton, MO 63837","63837",36.4553502183608,-89.96939989187304
+"63841","Dexter","MO","Walmart Supercenter","2025 W Business Us Highway 60","63841",36.80139880709972,-89.9923840311443
+"63841","Dexter","MO","Harps Food Store","4 S Catalpa St","63841",36.79335640845483,-89.9626619743419
+"63841","Dexter","MO","Save-A-Lot","912 W Business US Highway 60","63841",36.804036,-89.97164
+"63841","Dexter","MO","Save-A-Lot","912 W Business US Hwy 60","63841",36.79588699,-89.95787048
+"63845","East Prairie","MO","E. W. James & Sons","1212 S 7th St","42050",36.56764221191406,-89.1783676147461
+"63857","Kennett","MO","Walmart Supercenter","1500 1st St","63857",36.23000946005062,-90.04469056914822
+"63857","Kennett","MO","Country Mart","not_available","63857",36.23684871869504,-90.07386232265962
+"63857","Kennett","MO","Harps Food Store","1780 1st St","63857",36.23848342895508,-90.03390502929688
+"63862","Lilbourn","MO","Dave's Bestway","not_available","63862",36.585452,-89.610072
+"63863","Malden","MO","Walmart","1007 N Douglass St","63863",36.570363256411575,-89.97205593769283
+"63863","Malden","MO","Vancil's","104 E Allen Rd","63933",36.50022506713867,-90.06769561767578
+"63863","Malden","MO","Discount Grocery","1100-1222 N Douglass St","63863",36.57267265540224,-89.970306744929
+"63863","Malden","MO","Harps Food Store","1003 N Douglass St","63863",36.5699667539167,-89.97111788172334
+"63873","Portageville","MO","Baker's Big Star Grocery","100 King Ave","63873",36.424546,-89.699313
+"63877","Steele","MO","Piggly Wiggly","117 Main St","63877",36.08367995082928,-89.82744850411272
+"63877","Steele","MO","Piggly Wiggly","not_available","63877",36.08529210090637,-89.8015433549881
+"63901","Poplar Bluff","MO","Walmart Supercenter","333 S Westwood Blvd","63901",36.75549390217186,-90.41145421179284
+"63901","Poplar Bluff","MO","Walmart Grocery Pickup","3001 Oak Grove Road","63901",36.790241,-90.440032
+"63901","Poplar Bluff","MO","County Mart","616 S State Route 53","63901",36.737449645996094,-90.39988708496094
+"63901","Poplar Bluff","MO","Kroger Grocery Pickup and Delivery","2770 N Westwood Blvd","63901",36.786415100097656,-90.42900848388672
+"63901","Poplar Bluff","MO","A-1 Discount Grocery","1800 S Broadway St","63901",36.742042541503906,-90.39533996582031
+"63901","Poplar Bluff","MO","Save-A-Lot","451 S State Route 53","63901",36.736270904541016,-90.3968276977539
+"63901","Poplar Bluff","MO","Harps Food Store","1301 Shelby Rd","63901",36.769086352376505,-90.43710805382639
+"63901","Poplar Bluff","MO","10Box","not_available","63901",36.766904,-90.422398
+"63901","Poplar Bluff","MO","Save-A-Lot","451 Hwy 53 S","63901",36.73658873532049,-90.39658181350879
+"63901","Poplar Bluff","MO","ALDI","601 N Westwood Blvd","63901",36.76256333465981,-90.41159010913361
+"63901","Poplar Bluff","MO","CountyMart","Missouri 53, Poplar Bluff, MO 63901","63901",36.73751877670124,-90.39995855881283
+"63901","Poplar Bluff","MO","B&C Discount Grocery","1611-1663 Missouri 53","63901",36.73011236666667,-90.38921605
+"63901","Poplar Bluff","MO","Country Mart","2126 N Westwood Blvd","63901",36.77845001220703,-90.4234619140625
+"63933","Campbell","MO","Medi CBD Store","400 N Oak St","63933",36.4966089,-90.07411100000002
+"63935","Doniphan","MO","Harps Food Store","1401 Hillcrest Plz","63935",36.6277123,-90.82590330000001
+"63937","Ellsinore","MO","The Store","2 north ave","not_available",36.934389,-90.746462
+"63957","Piedmont","MO","Piedmont Processing","not_available","63957",37.131975,-90.711018
+"63961","Qulin","MO","Dollar Store","13255 HWY 53","63961",36.595823088018605,-90.25523594424158
+"63965","Van Buren","MO","Main Street Market","not_available","63937",36.997621,-91.00977
+"64012","Belton","MO","Hy-Vee","1307 East North Avenue","64012",38.811923,-94.513537
+"64012","Belton","MO","Walmart Supercenter","2015 W Foxwood Dr","64083",38.81026219254033,-94.49518488551206
+"64012","Belton","MO","Cosentino's Price Chopper #359","109 N Cedar Dr","64012",38.81581411051,-94.52405283156547
+"64012","Belton","MO","Richards-Gebaur Commissary","15615 Kensington Ave","64147",38.841727747197226,-94.54414991904542
+"64012","Belton","MO","ALDI","1011 E North Ave","64012",38.81300697294512,-94.51780454954132
+"64012","Belton","MO","Price Chopper","1833 E North Ave","64012",38.81221650990586,-94.50629880686994
+"64014","Blue Springs","MO","Hy-Vee","625 SW US Highway 40","64014",39.010731,-94.271146
+"64014","Blue Springs","MO","Walmart Supercenter","600 Ne Coronado Dr","64014",39.024528584209285,-94.25516483930649
+"64014","Blue Springs","MO","Price Chopper","1100 SW State Route 7","64014",39.006009610511455,-94.27082184360165
+"64014","Blue Springs","MO","Walmart Neighborhood Market","1700 N 7 Hwy","64014",39.0376331731167,-94.27001903222477
+"64014","Blue Springs","MO","Price Chopper","1305 NW State Route 7","64014",39.03408317783718,-94.27282704538958
+"64014","Blue Springs","MO","Aldi","530 SW State Route 7","64014",39.01328745613499,-94.27146774966809
+"64014","Blue Springs","MO","Price Chopper","not_available","64014",39.030957626313786,-94.26182636183569
+"64014","Blue Springs","MO","Pricechopper","1305 Missouri 7","64015",39.03421539469104,-94.2725875029049
+"64015","Blue Springs","MO","Price Chopper","937 NE Woods Chapel Rd","64064",38.98106064202186,-94.35776827647402
+"64015","Blue Springs","MO","Natural Grocers","19019 E 48th St S","64055",39.03063429899689,-94.35772663021531
+"64016","Buckner","MO","Thriftway","24 Highway","64016",39.13828913459743,-94.19798047126464
+"64020","Concordia","MO","Bratchers Market","not_available","64020",38.995862,-93.570311
+"64024","Excelsior Springs","MO","Walmart Supercenter","2203 Patsy Ln","64024",39.330007180667636,-94.26507227996085
+"64024","Excelsior Springs","MO","ALDI","2351 Vintage Ct","64024",39.3331185,-94.2665248
+"64024","Excelsior Springs","MO","Price Chopper","Crown Hill Rd.","not_available",39.33715116095492,-94.24831124281565
+"64024","Excelsior Springs","MO","John's Super","not_available","64024",39.34058840017908,-94.21255098795196
+"64029","Grain Valley","MO","Consentino’s Price Chopper","1191 NE McQuerry Rd","64029",39.024814227893806,-94.1964667376152
+"64029","Grain Valley","MO","Patricia's Foods","201 Eagle Parkway","64029",39.00778076615213,-94.21243088479385
+"64029","Grain Valley","MO","T-Bones Deli & Meat Market","27900 E Colbern Rd, Lees Summit, MO 64086","64086",38.94376506499594,-94.25809569393901
+"64030","Grandview","MO","Price Chopper","12220 S US 71","64030-1130",38.90376123012728,-94.52725320297425
+"64030","Grandview","MO","Discount Groceries & More Retail Store","13800 W Frontage Rd","64030",38.8743855,-94.52865229999999
+"64034","Greenwood","MO","Cosentino's Price Chopper","not_available","64082",38.852524,-94.371704
+"64037","Higginsville","MO","Walmart","1180 W 19th St","64037",39.077645967075775,-93.73682659720642
+"64037","Higginsville","MO","Piggly Wiggly","509 Fairground Ave","64037",39.06948,-93.723659
+"64037","Higginsville","MO","Buck's Country Mart","1601 Main St","64037",39.07846273518981,-93.71680869772342
+"64040","Holden","MO","Lloyds Foods","not_available","64040",38.71071155700388,-93.97809972454567
+"64050","Independence","MO","Cash Saver Cost Plus Food Outlet","405 E US Highway 24","64050",39.10029983520508,-94.40863800048828
+"64050","Independence","MO","Thriftway","not_available","64050",39.10230527616367,-94.42782705014349
+"64050","Independence","MO","Apple Market","201 E US Highway 24","64050",39.10050497131982,-94.40967241033971
+"64052","Independence","MO","McKeever's Price Chopper","2301 S Sterling Ave","64052",39.07967698238593,-94.44489116994858
+"64052","Independence","MO","Save A Lot","3500 Blue Ridge Cutoff","64133",39.05933898708418,-94.47285512348375
+"64052","Independence","MO","Save A Lot","11200 E Truman Rd","64050",39.095401332516474,-94.4451805298365
+"64052","Independence","MO","Save-A-Lot","3500 Blue Ridge Cut Off","64133",39.05924606323242,-94.47344970703125
+"64052","Independence","MO","Curt's Market","10101 E Truman Rd","64052",39.095208048820496,-94.458284
+"64052","Independence","MO","ALDI","11004 E US Highway 40","64055",39.05064167,-94.44875
+"64052","Independence","MO","Aldis","11004 E US 40 Hwy","64055",39.050793,-94.44886
+"64054","Independence","MO","Sterling Apple Market","11215 E US Highway 24","64054",39.10208891665057,-94.44383715430916
+"64055","Independence","MO","Hy-Vee","1525 E 23rd St S","64055",39.076853,-94.393794
+"64055","Independence","MO","Walmart Supercenter","4000 S Bolger Rd","64055",39.04638589,-94.36667919
+"64055","Independence","MO","Target","17810 E 39th St S","64055",39.051136,-94.369528
+"64055","Independence","MO","Walmart Supercenter","11601 E Us Highway 40","64133",39.04512316024834,-94.44307959618128
+"64055","Independence","MO","Hy-Vee","4545 South Noland Road","64055",39.03744645,-94.41408607
+"64055","Independence","MO","Walmart Neighborhood Market","3411 S. Noland Road","64055",39.058274018955146,-94.41407746496621
+"64055","Independence","MO","Price Chopper","4201 S Noland Rd","64055",39.04382144154314,-94.41183367800642
+"64055","Independence","MO","Aldi","16007 E 23rd St S","64055",39.07727984382224,-94.38811272382736
+"64055","Independence","MO","Cosentino's Apple Market","4301-4347 Westridge Rd","64133",39.04290955338713,-94.43824424324994
+"64055","Independence","MO","Morefields Supersaver","3507 S Noland Rd","64055",39.05717849731445,-94.41443634033203
+"64055","Independence","MO","kc discount frozen food","3601 S Noland Rd","64055",39.05546188354492,-94.41437530517578
+"64055","Independence","MO","Mckeever's HQ","not_available","64055",39.042961,-94.409906
+"64055","Independence","MO","Walmart Grocery Pickup","3411 S Noland Rd","64055",39.05874,-94.4149
+"64056","Independence","MO","Cosentino's Sunfresh","18001 Independence Ave","64056",39.1219684815117,-94.36474898776542
+"64056","Independence","MO","Save A Lot","17403 E US Hwy 24","64056",39.11959076,-94.37153625
+"64058","Independence","MO","Price Chopper","not_available","64068",39.221500606580804,-94.40718545949655
+"64060","Kearney","MO","Big V","not_available","64060",39.37773513793945,-94.38262939453125
+"64060","Kearney","MO","Cosentino's Price Chopper","701 Watson Dr","64060",39.364874,-94.369084
+"64060","Kearney","MO","Big V Country Mart","150 W State Route 92","64060",39.368483082639294,-94.36360628312694
+"64060","Kearney","MO","Price Chopper","150 W 6th St","64060",39.36875534057617,-94.36373138427734
+"64063","Lees Summit","MO","Hy-Vee","310 SW Ward Rd","64081",38.909656,-94.397838
+"64063","Lees Summit","MO","Hy-Vee","301 NE Rice Rd","64086",38.919067,-94.359432
+"64063","Lees Summit","MO","Aldi","600 SE Oldham Pkwy","64081",38.9013055291035,-94.36258345842361
+"64063","Lees Summit","MO","Price chopper Lees Summit","1600 SE BLUE PARKWAY,  LEE'S SUMMIT,  MO 64063","not_available",38.90353486714646,-94.344627975289
+"64063","Lees Summit","MO","Grab-It","13 SW 3rd St","64063",38.91140365600586,-94.3784408569336
+"64064","Lees Summit","MO","The Grocery Shuttle Network","not_available","64086",38.9442736040658,-94.28962469100951
+"64067","Lexington","MO","Save-A-Lot","809 S Hwy 13","64067",39.17529297,-93.87437439
+"64067","Lexington","MO","Save-A-Lot","not_available","64067",39.16900200747437,-93.87806117828904
+"64067","Lexington","MO","Save-A-Lot","809 S Business Highway 13","64067",39.16923904418945,-93.87873077392578
+"64068","Liberty","MO","Walmart Supercenter","8301 N Church Rd","64158",39.24296459286176,-94.45986423111921
+"64068","Liberty","MO","Hy-Vee","109 Blue Jay Drive","64068",39.24569643,-94.44707734
+"64068","Liberty","MO","Target","9220 NE Barry Rd","64157",39.247434617453216,-94.46353704112678
+"64068","Liberty","MO","Cosentino's Price Chopper","9717 N Ash Ave","64157",39.26884392943803,-94.44819941033519
+"64068","Liberty","MO","ALDI","8251 N Oxford St","64158",39.24252854766757,-94.46595288298795
+"64068","Liberty","MO","Sprouts Farmers Market","8383 North Booth Avenue","64158",39.2436773,-94.4746275
+"64068","Liberty","MO","Price Chopper","896 Rte 291","64068",39.23631409334733,-94.4353762162348
+"64068","Liberty","MO","Natural Grocers","114 S Stewart Rd","64068",39.24415267391341,-94.45181250572205
+"64068","Liberty","MO","Price Chopper","5000 n.e. Barry rd","64155",39.23596220089011,-94.43528474588202
+"64075","Oak Grove","MO","Walmart Supercenter","201 Se Salem St","64075",39.014261373317474,-94.12279043601315
+"64075","Oak Grove","MO","Patricia's Foods","not_available","64075",39.01139667482892,-94.12808470289548
+"64076","Odessa","MO","Patricia's Foods","1212 W. U.S. 40","64076-9612",39.00720071548304,-93.97114446853949
+"64078","Peculiar","MO","Walmart Supercenter","1700 N State Route 291","64701",38.666053736439004,-94.36822860736861
+"64078","Peculiar","MO","Apple Market","501 Schug Ave","64078",38.723941802978516,-94.45942687988281
+"64079","Platte City","MO","Price Chopper","2600 Ensign Hill Dr","64079",39.35138975127398,-94.76774177763548
+"64079","Platte City","MO","ALDI","1217 N Main St","66043",39.26817217996306,-94.90085977805853
+"64079","Platte City","MO","Price Chopper","2107 S 4th St","66048",39.2956331095129,-94.90773297649669
+"64079","Platte City","MO","Sharps","not_available","64098",39.423298915410875,-94.90111633644989
+"64080","Pleasant Hill","MO","Price Chopper","2101 N State Route 7","64080",38.814263672707135,-94.2645165738515
+"64080","Pleasant Hill","MO","Meat And Vedge Corner","East Lynne","64743",38.66684084303942,-94.22617947016002
+"64080","Pleasant Hill","MO","Save-A-Lot","309 N State Route 7","64080",38.7894469499588,-94.262302
+"64081","Lees Summit","MO","Target","1850 NW Chipman Rd","64081",38.931248817349704,-94.40970955591061
+"64081","Lees Summit","MO","Walmart Supercenter","1000 Ne Sam Walton Ln","64086",38.93067971410274,-94.36310944477154
+"64081","Lees Summit","MO","ALDI","560 NW Chipman Rd.","64086",38.9272906,-94.3924126
+"64081","Lees Summit","MO","Sprouts Farmers Market","800 NE Hwy 291","64086",38.926293240311054,-94.3609768152237
+"64081","Lees Summit","MO","Teddie’s Medicinals","1511 Northeast Florence Ave","64086",38.94028,-94.36747
+"64082","Lees Summit","MO","Walmart Supercenter","3410 Sw Market St","64082",38.856884656678695,-94.37811027774518
+"64082","Lees Summit","MO","Price Chopper","900 W Foxwood Dr","64083",38.81262414975119,-94.46816194176475
+"64082","Lees Summit","MO","Price Chopper","251 SW GREENWICH,  LEE'S SUMMIT,  MO 64082","64082",38.85066607923384,-94.38177876101808
+"64085","Richmond","MO","Walmart Supercenter","908 Walton Way","64085",39.26347908537727,-93.96321320878253
+"64085","Richmond","MO","Harps","508 Johnny Walker Lane","64085",39.273449,-93.97094
+"64089","Smithville","MO","Price Chopper","not_available","64089",39.390681865975026,-94.58469221341545
+"64089","Smithville","MO","Big V Break Room!","122 N 169 Hwy","not_available",39.39044704907647,-94.5844246237741
+"64093","Warrensburg","MO","Walmart Supercenter","301 E Cooper St","64093",38.78059103390444,-93.73538075119485
+"64093","Warrensburg","MO","Bi-Lo","Young Street","not_available",38.77107902,-93.73534838333333
+"64093","Warrensburg","MO","Woods Supermarket","1047 S Maguire St","64093",38.7476728,-93.7346663
+"64093","Warrensburg","MO","ALDI","423 E Young Ave","64093",38.77116008680434,-93.73035325965651
+"64093","Warrensburg","MO","ALDI","1115 N Simpson Dr","64093",38.7824268,-93.7367444
+"64105","Kansas City","MO","Cosentino's Market Downtown","10 E 13th St","64106",39.098676396126095,-94.58296441230951
+"64105","Kansas City","MO","Chinatown Food Market","202 Grand Blvd","64106",39.11083527182657,-94.58138092196288
+"64105","Kansas City","MO","Carollo's Italian Deli","9 E 3rd St","64106",39.10973786982193,-94.58285450935364
+"64105","Kansas City","MO","Al Habashi Middle Eastern Grocery","310 Main St","64105",39.109402838488464,-94.58291089596752
+"64105","Kansas City","MO","Tehran Market","not_available","64106",39.099847,-94.582022
+"64105","Kansas City","MO","grocery","not_available","64108",39.100041432698916,-94.5821189723717
+"64106","Kansas City","MO","The Pairing","1615 Oak St","64108",39.09378,-94.57852
+"64106","Kansas City","MO","ALDI","721 Paseo Blvd","64106",39.10418492640982,-94.56309735774994
+"64106","Kansas City","MO","Huong Que Market","424 Locust Ln","64106",39.109351,-94.578462
+"64106","Kansas City","MO","Baraka Market","1447 Independence Ave","64106",39.106353999999996,-94.56262
+"64106","Kansas City","MO","Vocci Italian Foods","559 Campbell St","64106",39.107955,-94.572433
+"64109","Kansas City","MO","ALDI","3830 Prospect Ave","64128",39.05629658551841,-94.55421388149267
+"64109","Kansas City","MO","Sun Fresh Market","3110 Wabash Ave","64128",39.069045,-94.554327
+"64109","Kansas City","MO","Save A Lot","3410 Troost Ave","64109",39.064085,-94.57205
+"64109","Kansas City","MO","PHARMNUTRI","640 E ARMOUR BLVD #502","64109",39.0637985,-94.57664869999999
+"64110","Kansas City","MO","Whole Foods Market","301 E. 51st Street","64112",39.034529779538005,-94.58355187694694
+"64110","Kansas City","MO","Metro Thriftway","1616 E 63rd St","64110",39.01375217862499,-94.56718413972669
+"64110","Kansas City","MO","Apple Market","not_available","64110",39.04114998189288,-94.57119529726494
+"64111","Kansas City","MO","Marsh's Sun Fresh Market","4001 Mill St","64111",39.054341678107654,-94.59502801894077
+"64111","Kansas City","MO","Nature’s Own Health Market","1020 Westport Rd","64111",39.049991607666016,-94.59877014160156
+"64111","Kansas City","MO","Holy Smokes","not_available","64111",39.0510041,-94.5877954
+"64111","Kansas City","MO","Valu Merchandisers Company","624 Westport Rd","64111",39.051865,-94.594613
+"64113","Kansas City","MO","Cosentino's Brookside Market","14 W 62nd Ter","64113",39.01470995148921,-94.58913193996031
+"64113","Kansas City","MO","Price Chopper","6327 Brookside Plz","64113",39.01284182578506,-94.59061534136978
+"64114","Kansas City","MO","Target","8509 State Line Rd","64114",38.97220452690012,-94.6071014411027
+"64114","Kansas City","MO","Trader Joe's","8600 Ward Pkwy","64114",38.97144099666384,-94.60626171055407
+"64114","Kansas City","MO","Price Chopper","1030 W 103rd St","64114",38.94327067117921,-94.60571931405556
+"64114","Kansas City","MO","ALDI","7511 Wornall Rd","64114",38.99139162708281,-94.5926376305033
+"64114","Kansas City","MO","Sun Fresh Market","11212 Holmes Rd","64131",38.923712532129606,-94.58511545480015
+"64114","Kansas City","MO","Price Chopper","8430 Wornall Rd","64114",38.97515341764218,-94.59555087845364
+"64114","Kansas City","MO","Smokers Heaven Smoke Shop and Vape Shop","10145 Wornall Road","64114",38.94406,-94.59589
+"64114","Kansas City","MO","McMonigle's Meat and Grocery","Ward Parkway","not_available",38.985375428215804,-94.60603950482965
+"64114","Kansas City","MO","Fareway Meat Market","1307 W 79th St","64114",38.985058,-94.60586
+"64116","Kansas City","MO","Price Chopper","4820 N Oak Trfy","64118",39.18245668249432,-94.57885157879937
+"64116","Kansas City","MO","Green Acres Market","4175 N Mulberry Dr","64116",39.1699102,-94.5967417
+"64116","Kansas City","MO","Half Moon Family Restaurant & Market","1602 NE Parvin Rd","64116",39.167522,-94.560016
+"64116","Kansas City","MO","Snowbunny's Lounge","not_available","64116",39.17585351050326,-94.55967472040072
+"64116","Kansas City","MO","Guitar Super Market","4033 N Cherry St","64116",39.16786575317383,-94.57582092285156
+"64116","Kansas City","MO","C & C Produce, Inc.","1100 Atlantic Ave","64116",39.129547119140625,-94.58226776123047
+"64116","Kansas City","MO","Walmart Grocery Pickup and Delivery","5261 North Antioch Road","64119",39.1895611538461,-94.5487573076923
+"64116","Kansas City","MO","Save-A-Lot","2751 Burlington","64116",39.1492795635532,-94.5798777391887
+"64117","Kansas City","MO","Macaluso's Thriftway and Liquor","5004 NE Parvin Rd","64117",39.167756754791334,-94.52073028417072
+"64117","Kansas City","MO","Festival Foods","4357 N Chouteau Trfy","64117",39.17307133274879,-94.53319116433498
+"64118","Kansas City","MO","Walmart Supercenter","7207 N M1 Hwy","64119",39.22521490107925,-94.54628656556002
+"64118","Kansas City","MO","Hy-Vee","207 NE Englewood Rd","64118",39.194921,-94.580283
+"64118","Kansas City","MO","Hy-Vee","7117 N Prospect Ave","64119",39.22322831,-94.5465622
+"64118","Kansas City","MO","ALDI","7604 N Oak Trfy","64118",39.232296706554116,-94.5775775774382
+"64118","Kansas City","MO","Save A Lot","6599 N Oak Trafficway","64118",39.21277358461452,-94.57463740167981
+"64118","Kansas City","MO","Grocery Store","not_available","64118",39.2130069231436,-94.57460629184632
+"64118","Kansas City","MO","Price Chopper","6475 N Prospect Ave","64119",39.21122004493483,-94.54682475974847
+"64118","Kansas City","MO","A-One Indian, Pakistani, and Middle Eastern Grocer","7711 N Oak Trfy","64118",39.234421000000005,-94.575524
+"64118","Kansas City","MO","A-1 Foods Indian And Pakistani Grocery","7711 N Oak Trfwy, Suite H","64118",39.234176,-94.575491
+"64119","Kansas City","MO","Save-A-Lot","451 E US Highway 69","64119",39.20089340209961,-94.49544525146484
+"64119","Kansas City","MO","Macaluso's","not_available","64119",39.1981388101347,-94.50278646974849
+"64119","Kansas City","MO","Hostess","4722 NE Vivion Rd","64119",39.18809761676484,-94.52345608876742
+"64120","Kansas City","MO","Save-A-Lot","not_available","64127",39.11554455757141,-94.519162774086
+"64120","Kansas City","MO","Baradir","4020 Saint John Ave","64123",39.113116,-94.533206
+"64120","Kansas City","MO","Leon Supermarket YCARNICERIA","5908 Saint John Ave","64123",39.112474,-94.512528
+"64123","Kansas City","MO","Price Chopper","5800 Wilson Rd","64123",39.10609136632689,-94.51386477703446
+"64123","Kansas City","MO","ALDI","6300 Independence Ave","64125",39.1054214,-94.5078248
+"64123","Kansas City","MO","El Torito III","not_available","64125",39.10508355929984,-94.50958848928062
+"64124","Kansas City","MO","Snyder's Supermarket","2620 Independence Ave","64124",39.106583,-94.549686
+"64125","Kansas City","MO","Miscelanea La Marqueza","6514 Independence Ave, Kansas City, MO 64125","64125",39.104902,-94.505388
+"64127","Kansas City","MO","Save A Lot","3821 E Truman Rd","64127",39.093849,-94.536704
+"64128","Kansas City","MO","Pick 'n Save","3901 Prospect Ave, Kansas City, MO 64130","64130",39.055193828023796,-94.55331846579966
+"64128","Kansas City","MO","Family Market","3646 Indianna Ave","64128",39.05893,-94.54452
+"64128","Kansas City","MO","pleasant hill, mo, 64080","E State Rte East, Pleasant Hill, MO 64080","64080",39.06659477779475,-94.549198883483
+"64128","Kansas City","MO","A  J Goss Distributor","3805 S Emanuel Cleaver II Blvd","64128",39.0552763,-94.5187401
+"64129","Kansas City","MO","Price Chopper","8700 E 63rd St","64133",39.01087687901608,-94.48382039467687
+"64130","Kansas City","MO","Country View Market","5802 Swope Pkwy","64130",39.02085267719872,-94.54190804488469
+"64130","Kansas City","MO","Blue Parkway Sun Fresh","4209 E 50th Ter","64130",39.033696238760754,-94.5351123111601
+"64131","Kansas City","MO","ALDI","6415 Troost Ave","64131",39.01030564269838,-94.57372860750183
+"64131","Kansas City","MO","Brookside Farmers’ Market Winter Market","6601 Rockhill Rd","64131",39.00676727294922,-94.57783508300781
+"64131","Kansas City","MO","Save-A-Lot","8501 Holmes Rd","64131",38.973400879703014,-94.58041528868108
+"64133","Kansas City","MO","Walmart Supercenter","10300 E Highway 350","64138",38.98409847001102,-94.4597435681136
+"64133","Kansas City","MO","Hy-Vee","9400 Blue Pkwy","64133",38.99384083,-94.46935467
+"64133","Kansas City","MO","Apple Market","11501 E 63rd St","64133",39.00765041423434,-94.44644278184367
+"64133","Kansas City","MO","ALDI","9215 E State Route 350","64133",38.993691037530574,-94.47443560527063
+"64133","Kansas City","MO","Apple Market","7506 Raytown Rd","64138",38.986263967458875,-94.46510944902461
+"64133","Kansas City","MO","Omaha Tropical Market","6639 Raytown Rd","64133",39.00167533577665,-94.46320268178826
+"64134","Kansas City","MO","Price Chopper","9550 Blue Ridge Blvd","64134",38.95114080392612,-94.50938037230638
+"64134","Kansas City","MO","Aldi","10401-10601 Blue Ridge Blvd","64134",38.93443592997336,-94.50729122068944
+"64134","Kansas City","MO","Save-A-Lot","6859 Longview Rd","64134",38.915279388427734,-94.5124282836914
+"64134","Kansas City","MO","Shiloh Co-Op","not_available","64137",38.91619,-94.527657
+"64134","Kansas City","MO","ALDI","10475 Blue Ridge Blvd","64134",38.93423245216319,-94.50705528259277
+"64137","Kansas City","MO","Price Chopper","9512 Blue Ridge","64137",38.924298996108014,-94.55182268875234
+"64138","Kansas City","MO","Save A Lot","8744 Blueridge Blvd","64138",38.96447016897606,-94.50038362272629
+"64145","Kansas City","MO","Walmart Supercenter","1701 W 133rd St","64145",38.88517047020859,-94.60525386811378
+"64145","Kansas City","MO","Super Target","1201 W 136th St","64145",38.88002269807896,-94.60648910361927
+"64145","Kansas City","MO","California Fruit Market","700-732 Blue Ridge Blvd","64125",38.89005661010742,-94.58518981933594
+"64151","Kansas City","MO","Hy-Vee","5330 NW 64th St","64151",39.211456,-94.641473
+"64151","Kansas City","MO","Hy-Vee","8301 North Saint Clair Avenue","64151",39.24514278,-94.64579872
+"64151","Kansas City","MO","Sprouts Farmers Market","6061 NW 64th St","64151",39.2098451,-94.6502896
+"64151","Kansas City","MO","Calia's Sun Fresh","7613 NW Prairie View Rd","64151",39.23352173253342,-94.65753510069179
+"64152","Kansas City","MO","Price Chopper","9107 NW Highway 45","64152",39.20983530138502,-94.68589826572438
+"64153","Kansas City","MO","Walmart Supercenter","8551 N Boardwalk Ave","64154",39.25078654,-94.65449748
+"64154","Kansas City","MO","ALDI","8780 N Ambassador Dr","64154",39.2570502,-94.6503838
+"64154","Kansas City","MO","Pauls Parking Spot","Ambassador","64153",39.28658781708522,-94.65332183009534
+"64155","Kansas City","MO","Price Chopper","500 NE Barry Rd","64155",39.2482223881359,-94.57268138223071
+"64155","Kansas City","MO","New Mark Sun Fresh","10255 N Oak Tfwy","64155",39.278628288616716,-94.57374349376533
+"64155","Kansas City","MO","Dollar General","401 NE Cookingham Dr","64155",39.303269,-94.574735
+"64402","Albany","MO","Hy-Vee","703 U.S. 136 Business","64402",40.25604712,-94.32504405
+"64424","Bethany","MO","Walmart Supercenter","810 S 37th St","64424",40.26239324375495,-94.01719056871285
+"64424","Bethany","MO","Hy-Vee","1104 S 25th St","64424",40.258705,-94.028015
+"64429","Cameron","MO","Walmart Supercenter","2000 N Walnut St","64429",39.75829451772177,-94.23213137525856
+"64429","Cameron","MO","Cameron Country Mart","1303 N Walnut St","64429",39.75031280517578,-94.23583221435547
+"64429","Cameron","MO","Moriah Acres","not_available","64429",39.750693,-94.241086
+"64436","Cosby","MO","Avenue City Grocery","not_available","64436",39.86257620028798,-94.75757321869442
+"64463","King City","MO","McCrea's Grocery","111 E. Vermont","not_available",40.050908,-94.523299
+"64468","Maryville","MO","Walmart Supercenter","1605 S Main St","64468",40.33006222056677,-94.87049649935082
+"64468","Maryville","MO","Hy-Vee","1217 S Main St","64468",40.333613153037525,-94.87199959156442
+"64477","Plattsburg","MO","Dollar General Store","Independence Dr, Plattsburg, MO 64477","64477",39.5534553527832,-94.47370147705078
+"64477","Plattsburg","MO","Hy-Klas Foods","101-199 N East St","64477",39.56519544124603,-94.44613716666667
+"64485","Savannah","MO","Brothers Market","not_available","64485",39.938731,-94.82028
+"64485","Savannah","MO","Country Mart","372-398 E Price St","64485",39.938689,-94.820217
+"64485","Savannah","MO","Rays Green Hills","205 W Main St","64485",39.941925,-94.82663000000001
+"64485","Savannah","MO","Carrefour, Golf City Mall","not_available","64505",39.861717224121094,-94.80990600585938
+"64491","Tarkio","MO","Hy-Vee","110 Chestnut St","64491",40.438951,-95.375674
+"64501","Saint Joseph","MO","Cash Saver","2202 Frederick Ave","64506",39.77486801147461,-94.83370971679688
+"64501","Saint Joseph","MO","KOVACS","not_available","64501",39.75702817651572,-94.83544882589679
+"64501","Saint Joseph","MO","Friedrich’s Market","1139 Frederick Ave","64501",39.77001190185547,-94.84564208984375
+"64501","Saint Joseph","MO","Kovac's Groceries","2202 Frederick Avenue","64506",39.77486991126361,-94.83371194433026
+"64503","Saint Joseph","MO","Hy-Vee","201 N Belt Hwy","64506",39.768337,-94.800812
+"64503","Saint Joseph","MO","Walmart Supercenter","3022 S Belt Hwy","64503",39.73709538338063,-94.80381788813636
+"64503","Saint Joseph","MO","ALDI","3201 S Belt Hwy.","64503",39.7360954284668,-94.80024719238281
+"64503","Saint Joseph","MO","Roger's Greenhills","1004 5th Ave","64505",39.786705017089844,-94.84793853759766
+"64503","Saint Joseph","MO","Tienda la Estrella","3830 King Hill Ave","64504",39.73255920410156,-94.8549575805664
+"64503","Saint Joseph","MO","Price Chopper","2219 N Belt Hwy","64506",39.78628,-94.802399
+"64503","Saint Joseph","MO","Apple Market","not_available","64506",39.7720923156061,-94.79665409989614
+"64503","Saint Joseph","MO","Natural Grocers","2414 N Belt Hwy Suite 100","64506",39.78896,-94.808334
+"64503","Saint Joseph","MO","Blue Sky Asia Market","6409 King Hill Ave","64504",39.709503173828125,-94.86187744140625
+"64503","Saint Joseph","MO","sack n' save","not_available","64504",39.719884938949484,-94.86160229108597
+"64505","Saint Joseph","MO","Walmart Supercenter","4201 N Belt Hwy","64506",39.80851310807653,-94.81237451060878
+"64505","Saint Joseph","MO","ALDI","4204 N Belt Hwy","64506",39.80705874032063,-94.81651869665762
+"64505","Saint Joseph","MO","ALDI","4132 Belt Hwy","64506",39.80735555,-94.81671474
+"64601","Chillicothe","MO","Walmart Supercenter","1000 Graves St","64601",39.7763214727102,-93.55550944599892
+"64601","Chillicothe","MO","Hy-Vee","1210 Washington St","64601",39.798829,-93.554967
+"64601","Chillicothe","MO","Piggly Wiggly","not_available","64601",39.78126907348633,-93.55352783203125
+"64601","Chillicothe","MO","Graves Foods","725 Industrial Rd","64601",39.779703,-93.543112
+"64601","Chillicothe","MO","Sliced Bread Market","506 S Washington St","64601",39.78126907348633,-93.55352783203125
+"64628","Brookfield","MO","Save-A-Lot","542 S Main St","64628",39.77789853824199,-93.07128429457545
+"64628","Brookfield","MO","Prenger Foods","not_available","64628",39.77817,-93.071453
+"64628","Brookfield","MO","Walmart Supercenter","937 Park Circle Dr","64628",39.76827814506312,-93.07246980916663
+"64633","Carrollton","MO","Mulch's Country Mart","402 N Mason St","64633",39.36311742932105,-93.48680749415263
+"64644","Hamilton","MO","Hy Klas Foods","Davis","not_available",39.74406098568534,-93.99799616442044
+"64648","Jamesport","MO","H&M Country Store","21910 State Highway 190","64648",39.96124289736519,-93.79193053619481
+"64648","Jamesport","MO","Jamesport Grocery","not_available","64648",39.97454425590202,-93.8012584421358
+"64648","Jamesport","MO","Jamesport Grocery","302 South Broadway Street","64648",39.974018833581596,-93.80127466137697
+"64671","Polo","MO","Hy-Klas Foods","106 W Elm St","64671",39.5539665222168,-94.04031372070312
+"64673","Princeton","MO","big g foodland","not_available","64673",40.397617289081204,-93.58627447161575
+"64683","Trenton","MO","Hy-Vee","1617 E 9th St","64683",40.075134,-93.601622
+"64701","Harrisonville","MO","Price Chopper","520 S Commercial St","64701",38.65265553036662,-94.35954562439791
+"64730","Butler","MO","Walmart Supercenter","400 S Fran","64730",38.25469167531197,-94.3564264014388
+"64730","Butler","MO","Country Mart","1013 W Fort Scott St","64730",38.256919860839844,-94.35205078125
+"64735","Clinton","MO","Walmart Supercenter","1712 E Ohio St","64735",38.36345248,-93.75066798
+"64735","Clinton","MO","Price Cutter","not_available","64735",38.367071,-93.752667
+"64735","Clinton","MO","ALDI","611 Pawnee St","64735",38.3636916,-93.7563031
+"64735","Clinton","MO","Country Mart","1405 E Ohio St","64735",38.36777877807617,-93.7531967163086
+"64742","Drexel","MO","Food Fair Supermarket","not_available","64742",38.479277,-94.608466
+"64744","El Dorado Springs","MO","Woods Supermarket","312 West 54 Highway","64744",37.8623002,-94.0301736
+"64744","El Dorado Springs","MO","Summerfresh","not_available","64744",37.86281903381427,-94.03022636963424
+"64759","Lamar","MO","Walmart Supercenter","29 Sw 1st Ln","64759",37.49719873,-94.30156248
+"64759","Lamar","MO","Summer Fresh Market","1252-1268 Hagny St","64759",37.492143788533504,-94.26137555563312
+"64772","Nevada","MO","Walmart Supercenter","2250 Lincoln Ave","64772",37.83246101082285,-94.32644621293235
+"64772","Nevada","MO","Woods Supermarket","1407 W Austin Blvd","64772",37.836427,-94.374749
+"64772","Nevada","MO","Bent & Dent","not_available","64751",37.924573065510174,-94.41100284089838
+"64801","Joplin","MO","Walmart Supercenter","1501 S Range Line Rd","64804",37.07300589528727,-94.47300412197559
+"64801","Joplin","MO","Walmart Supercenter","2623 W 7th St","64801",37.08649444,-94.54586517
+"64801","Joplin","MO","Walmart Neighborhood Market","1600 East 7th St","64801",37.083208429972466,-94.49643224366693
+"64801","Joplin","MO","Walmart Neighborhood Market","25145 Demott Dr","64801",37.14367000540653,-94.51301893551378
+"64801","Joplin","MO","Harps Food Store","25685 Fir Rd","64801",37.1451302561813,-94.52311585545358
+"64801","Joplin","MO","ALDI","3205 E 20th St","64801",37.07005,-94.47575
+"64801","Joplin","MO","Walmart Neighborhood Market","2426 S Maiden Ln","64804",37.06388965827038,-94.5329075048175
+"64801","Joplin","MO","Walmart Supercenter","1212 S Madison St","64870",37.133331654138395,-94.47818373173472
+"64801","Joplin","MO","Natural Grocers","510 S Range Line Rd","64801",37.08549880981445,-94.47765350341797
+"64801","Joplin","MO","Dillons","1402 E 20Th St","648010000",37.06876355919664,-94.49924500251493
+"64801","Joplin","MO","Price Cutter","1850 S Maiden Ln","64801",37.071564636151,-94.53255563593102
+"64801","Joplin","MO","Lety's Little Tiendita","116 N Range Line Rd #103","64801",37.09148025512695,-94.47817993164062
+"64801","Joplin","MO","Price cutter","not_available","64870",37.14233266595312,-94.48301722218336
+"64801","Joplin","MO","Save-A-Lot","811 W 7th St","64801",37.08457946777344,-94.52212524414062
+"64804","Joplin","MO","Food4Less","2800 E 32nd St","64804",37.0539897262194,-94.48147859252981
+"64836","Carthage","MO","Walmart Supercenter","2705 Grand Ave","64836",37.14212239824483,-94.31285117852617
+"64836","Carthage","MO","Enrique Tomás JAMON-TAPAS-VINO","Carrer del pi, 3, Galeries Malda","08002",37.1483755260789,-94.31087195336907
+"64836","Carthage","MO","Price Cutter","1223 W Central Ave","64836",37.17922750950913,-94.32685375213623
+"64836","Carthage","MO","ALDI","Garrison St","64836",37.14622172286925,-94.30942303726333
+"64840","Diamond","MO","Almond Tree Natural Grocery","705 Washington Street","64840",37.002504,-94.315418
+"64850","Neosho","MO","Walmart Supercenter","3200 Lusk Dr","64850",36.83901947683382,-94.39680849300639
+"64850","Neosho","MO","Save-A-Lot","1160 S Neosho Blvd","64850",36.85322358,-94.38600779
+"64850","Neosho","MO","Price Cutter","1198 S Neosho Blvd","64850",36.85590886511861,-94.38509046587211
+"64850","Neosho","MO","ALDI","2551 Lusk Dr","64850",36.842651,-94.393787
+"64854","Noel","MO","Dollar General","N Highway 59","64854",36.55235576600477,-94.48656255466062
+"64854","Noel","MO","Harps Food Store","210 Main St","64854",36.5450553894043,-94.48741912841797
+"64856","Pineville","MO","Walmart Supercenter","100 Commercial Ln","64856",36.50785569631917,-94.27865419938479
+"64865","Seneca","MO","G & W Foods","not_available","64865",36.837847,-94.610327
+"65010","Ashland","MO","Mosers","109 Eastside Dr","65010",38.776721062208985,-92.25109072715422
+"65011","Barnett","MO","Weaver's Country Market","13920 Market Rd","65084",38.47779846191406,-92.72212982177734
+"65011","Barnett","MO","Save-A-Lot","14795 Hwy 52","65084",38.44712751981958,-92.7949266348653
+"65011","Barnett","MO","Save A Lot","14795 Highway 52","65084",38.4470535,-92.7939537
+"65013","Belle","MO","Mace Supermarket","not_available","65013",38.27967071533203,-91.72576141357422
+"65020","Camdenton","MO","Woods Supermarket","13655 MO-5","65079",38.1488257,-92.77681259
+"65020","Camdenton","MO","Walmart Supercenter","94 Cecil St","65020",38.02522410116825,-92.72327232314845
+"65020","Camdenton","MO","Gerbes","1159 E US Highway 54","65020",38.021034833105425,-92.72975116968155
+"65020","Camdenton","MO","Save-A-Lot","709 N Business Rt 5","65020",38.014132327363534,-92.75529259071169
+"65020","Camdenton","MO","Wood's Supermarket","not_available","65020",38.09793640868721,-92.8228022228452
+"65020","Camdenton","MO","Dillons","555 E Us Highway 54","650209800",38.01375,-92.738967
+"65020","Camdenton","MO","Woods Supermarket","5816 Old U.S. 54","65065",38.11801706,-92.67978239
+"65023","Centertown","MO","Shirks Country Market","not_available","65023",38.60889950916456,-92.41395083763305
+"65026","Eldon","MO","Pauls","not_available","65026",38.341591,-92.581172
+"65026","Eldon","MO","Gerbes","410 E North St","65026",38.34989012553156,-92.57700660826004
+"65026","Eldon","MO","Walmart","1802 S Business 54","65026",38.33534741616671,-92.58420692194161
+"65037","Gravois Mills","MO","Save-A-Lot","185 S Main St","65037",38.196179709080255,-92.8294731207608
+"65041","Hermann","MO","Save-A-Lot","225 E First St","65041",38.70673904036806,-91.43379763402008
+"65041","Hermann","MO","Loutre Market","not_available","65041",38.73161654970987,-91.44670654262863
+"65041","Hermann","MO","Save A Lot","225 E 1st St","65041",38.7069829,-91.4345219
+"65043","Holts Summit","MO","Schmuck's","not_available","65109",38.58295231351163,-92.18811817590137
+"65043","Holts Summit","MO","Walmart Grocery Pickup","724 Stadium West Blv","65109",38.5643102985075,-92.1847320895522
+"65043","Holts Summit","MO","Mosers Grocery Store","Simon boulevard","not_available",38.655384796883745,-92.12024123690716
+"65043","Holts Summit","MO","Save A Lot","1228 E McCarty St","65101",38.5637409,-92.1581476
+"65043","Holts Summit","MO","Rb International Food Store","711 Madison St","65101",38.57136917114258,-92.17636108398438
+"65043","Holts Summit","MO","Save-A-Lot","1228 East McCarty","65101",38.56403289882074,-92.15792933196715
+"65047","Kaiser","MO","Hy-Vee","929 Highway D","65065",38.16192434,-92.60391945
+"65047","Kaiser","MO","Dierbergs Markets","4655 Osage Beach Pkwy","not_available",38.14374412037038,-92.63248865241427
+"65047","Kaiser","MO","Walmart Supercenter","4252 Highway 54","65065",38.14963159091001,-92.61642848238849
+"65049","Lake Ozark","MO","J. LaFata's Grocery Mart","Horseshoe Bend","not_available",38.1909333325517,-92.71511395415125
+"65051","Linn","MO","Deutsches Heim Bulk Food","not_available","65051",38.46301,-91.814577
+"65051","Linn","MO","Thriftway","318 W Main St","65051",38.4928071469788,-91.85745806308482
+"65066","Owensville","MO","Walmart Supercenter","1888 Highway 28","65066",38.35332594603951,-91.4819439059479
+"65066","Owensville","MO","Save-A-Lot","502 Hwy 19","65066",38.34290108245091,-91.4938811749603
+"65066","Owensville","MO","Save-A-Lot","502 Highway 19","65066",38.20328140258789,-91.44325256347656
+"65084","Versailles","MO","Walmart Supercenter","1003 W Newton St","65084",38.43371566,-92.85896463
+"65084","Versailles","MO","Charlies Foods","not_available","65084",38.43225310228267,-92.85333465161146
+"65101","Jefferson City","MO","Hy-Vee","3721 W Truman Blvd","65109",38.587896,-92.253737
+"65101","Jefferson City","MO","Gerbes","2805 W Truman Blvd","65109",38.593985869941015,-92.22506403923035
+"65101","Jefferson City","MO","Schnucks Jefferson City","1801 Missouri Blvd","65109",38.5797278,-92.1992666
+"65101","Jefferson City","MO","Walmart Supercenter","401 Supercenter Dr","65101",38.540902100428994,-92.11896758193183
+"65101","Jefferson City","MO","Gerbes Super Store","2101 Schotthill Woods Dr","65101",38.548652400952285,-92.1473148617406
+"65101","Jefferson City","MO","Schulte's","Southwest Blvd.","not_available",38.55410299445704,-92.20014567407388
+"65101","Jefferson City","MO","La placita","1418 Missouri Blvd, Jefferson City, MO 65109","65109",38.57967758178711,-92.19496154785156
+"65101","Jefferson City","MO","Graves Foods","13 Big Horn Dr","65109",38.5801004,-92.2874641
+"65101","Jefferson City","MO","Schultes","Route C","65109",38.53931403638419,-92.27201004871513
+"65101","Jefferson City","MO","Mosers","Missouri Blvd","65109",38.58094059821277,-92.21490789088497
+"65101","Jefferson City","MO","ALDI","2413 Missouri Blvd","65109",38.5810011,-92.2152646
+"65201","Columbia","MO","Walmart Supercenter","1201 Grindstone Pkwy","65201",38.91289159,-92.32378006
+"65201","Columbia","MO","Walmart Grocery Pickup and Delivery","415 Conley Rd","65201",38.954961,-92.295974
+"65201","Columbia","MO","ALDI","1000 E Green Meadows Rd","65201",38.9124375,-92.3267651
+"65201","Columbia","MO","Hy-Vee","405 E Nifong Blvd","65201",38.912092,-92.333609
+"65201","Columbia","MO","EatWell","111 S Providence Rd","65203",38.950462341308594,-92.33562469482422
+"65201","Columbia","MO","Hy-Vee","25 Conley Road","65201",38.94987546787724,-92.2958027153542
+"65201","Columbia","MO","Clover's Natural Market East","2012 E Broadway","65201",38.948421509895155,-92.30836667268437
+"65201","Columbia","MO","Aldis","not_available","65201",38.912076,-92.319827
+"65201","Columbia","MO","Save-A-Lot","2006 E Broadway","65201",38.948274,-92.30871
+"65201","Columbia","MO","Mosers","705 W Bus Loop","65203",38.966863582893936,-92.34767983358546
+"65201","Columbia","MO","Gerbes","205 E Nifong Blvd","65203",38.91106780696707,-92.33676464888049
+"65201","Columbia","MO","Chong's Oriental Market","701 Locust St","65201",38.949873639037826,-92.32973066681102
+"65201","Columbia","MO","Root Cellar","1023 E Walnut St","65201",38.95265915904632,-92.32559353025626
+"65201","Columbia","MO","World Harvest Foods","3700 Monterey Dr #K","65203",38.91080707625755,-92.33791100916353
+"65201","Columbia","MO","Hong Kong Market","not_available","65202",38.960698,-92.284452
+"65202","Columbia","MO","Hy-Vee","3100 W Broadway","65203",38.9532993,-92.38365879999999
+"65202","Columbia","MO","Aldi","807 W Business Loop 70","65203",38.9668931,-92.3488817
+"65202","Columbia","MO","Target","2400 Bernadette Dr","65203",38.96429718978078,-92.37708894706157
+"65202","Columbia","MO","Walmart Supercenter","3001 W Broadway","65203",38.956858501979355,-92.38249939032495
+"65202","Columbia","MO","Gerbes Supermarket","1729 W Broadway","65203",38.955996873471705,-92.36436457948002
+"65202","Columbia","MO","Gerbes","2900 Paris Rd","65202",38.97982449326236,-92.29331284761423
+"65202","Columbia","MO","Natural Grocers","400 N Stadium Blvd","65203",38.96046773103103,-92.37084066745892
+"65202","Columbia","MO","mosers","Rangeline","not_available",39.00653839111328,-92.31632232666016
+"65202","Columbia","MO","Moser's Discount Foods","4840 Rangeline St","65202",39.0027630308617,-92.32260155403658
+"65202","Columbia","MO","Hallsville Market And Deli","not_available","65255",39.114317,-92.226926
+"65202","Columbia","MO","Meechu's Filipino Market","1301 Vandiver Dr","65202",38.971881,-92.320809
+"65202","Columbia","MO","KEA International Market","2006 Corporate Pl","65202",38.971917,-92.328045
+"65202","Columbia","MO","Natasha's Euro Market","705 Vandiver Dr #H","65202",38.971917,-92.328045
+"65202","Columbia","MO","DEAL$","2101 W Broadway","65203",38.9544792175293,-92.37213134765625
+"65203","Columbia","MO","Schnucks Columbia","not_available","65203",38.937123,-92.358405
+"65203","Columbia","MO","Clovers Natural Market","2100 Chapel Plaza Ct","65203",38.929021907712496,-92.36415800654669
+"65233","Boonville","MO","Dave's Country Market","not_available","65233",38.95514360476143,-92.74273561513579
+"65233","Boonville","MO","Walmart Supercenter","2150 Main St","65233",38.9508654,-92.74074554
+"65240","Centralia","MO","Prengers","275 E Singleton St","65240",39.21126223014242,-92.13543963726924
+"65240","Centralia","MO","C&R","not_available","65240",39.217172,-92.127173
+"65243","Clark","MO","Lakeview Salvage Grocery Store","not_available","65243",39.312799,-92.28532
+"65251","Fulton","MO","Walmart Supercenter","1701 N Bluff St","65251",38.86433175064161,-91.94512097002209
+"65251","Fulton","MO","Mosers","not_available","65251",38.86865747984243,-91.9430572719693
+"65251","Fulton","MO","Moser's","Bluff Street","not_available",38.84828863841368,-91.94933852608536
+"65265","Mexico","MO","Walmart Supercenter","4820 S Clark St","65265",39.12062994651855,-91.89096679587088
+"65265","Mexico","MO","ALDI","2875 S Clark St","65265",39.1466451,-91.8914616
+"65270","Moberly","MO","Bratchers","301 S Morley St","65270",39.41600268750467,-92.43446345403933
+"65270","Moberly","MO","Walmart Supercenter","1301 E Highway 24","65270",39.447347251083336,-92.4202691165072
+"65270","Moberly","MO","Casey's General Store","326 S Morley St","65270",39.41577701959001,-92.43315614905643
+"65270","Moberly","MO","ALDI","400 E Highway 24","65270",39.4411197,-92.4311242
+"65270","Moberly","MO","Leroy's Discount Grocery Store","1500 N Morley St","65270",39.43583679199219,-92.43270111083984
+"65274","New Franklin","MO","Wawa","Rt 40","65274",39.00024264703902,-92.73516654968262
+"65275","Paris","MO","Prenger Foods","620 S Main St","65275",39.47458267211914,-91.99993896484375
+"65281","Salisbury","MO","R & R Apple Market","not_available","65281",39.42829397691912,-92.79824881161625
+"65301","Sedalia","MO","Walmart Supercenter","3201 W Broadway Blvd","65301",38.70748776,-93.27029059
+"65301","Sedalia","MO","Woods Supermarket","1400 S Limit Ave","65301",38.69987474,-93.25256721
+"65301","Sedalia","MO","Woods Supermarket","701 E Broadway Blvd","65301",38.705285,-93.218851
+"65301","Sedalia","MO","Aldi's","Leroy Vandyke Ave","65301",38.711249780821625,-93.27511958533213
+"65301","Sedalia","MO","Blue Moon Smoke Shop","1401 South Limit Ave","65301",38.7005751,-93.2502895
+"65301","Sedalia","MO","Save A Lot","3040-200 W Broadway Blvd A","65301",38.7091554,-93.265305
+"65301","Sedalia","MO","Save-A-Lot","3040-200A W Broadway","65301",38.70911532,-93.26489210128513
+"65305","Whiteman Air Force Base","MO","Whiteman AFB Commissary","700 Arnold Ave","65305",38.73039688906146,-93.56378572756616
+"65322","Blackwater","MO","Blackwater Country Store","not_available","65322",38.980465,-92.99098
+"65323","Calhoun","MO","Dave's Country Mart","not_available","65360",38.52921160805995,-93.52680259973707
+"65326","Edwards","MO","Kay Food Pantry","30477 Skyview Dr","65326",38.241458892822266,-93.2208480834961
+"65333","Houstonia","MO","The Market","not_available","65351",38.963879,-93.414823
+"65338","Lincoln","MO","Walmart Supercenter","103 W Polk St","65355",38.2621651,-93.3713859
+"65338","Lincoln","MO","Newman's Country Mart","1000 E Main St","65355",38.24155932881384,-93.3647854308009
+"65340","Marshall","MO","Walmart Supercenter","855 Cherokee Dr","65340",39.1112,-93.216698
+"65340","Marshall","MO","ALDI","975 W College St","65340",39.10995878740053,-93.21241177100092
+"65401","Rolla","MO","Walmart Supercenter","500 S Bishop Ave","65401",37.93754695809156,-91.77929162979126
+"65401","Rolla","MO","Kroger","605 W 4th St","65401",37.9468828,-91.776139
+"65401","Rolla","MO","Country Mart","not_available","65559",37.999797335066006,-91.61727633222509
+"65401","Rolla","MO","Casey's General Store","1401 E 10Th St","65401",37.952089347966826,-91.74757320385183
+"65401","Rolla","MO","The Blue Hill Company","19410 State Route O","65401",37.815452575683594,-91.74201202392578
+"65401","Rolla","MO","Casey's General Store","127 E James Blvd","65559",38.000068022217604,-91.61499010800388
+"65401","Rolla","MO","Casey's General Store","1401 E 10th St","65401",37.95195007324219,-91.74754333496094
+"65401","Rolla","MO","Country Mart","1040 Forum Dr","65401",37.95210137084552,-91.7512930120441
+"65401","Rolla","MO","Aldi","700 Aldi Dr","65401",37.931037558653344,-91.78026795387262
+"65401","Rolla","MO","Foods For Health","707 Highway 68","65401",37.934101,-91.777577
+"65401","Rolla","MO","I-44 Discount Grocery","not_available","65401",37.97858,-91.72375
+"65438","Birch Tree","MO","Town & Country Supermarket","US 60 and Hwy 19","65588",37.00096,-91.32644
+"65444","Bucyrus","MO","Walmart Supercenter","1433 S Sam Houston Blvd","65483",37.31385017,-91.9621176
+"65444","Bucyrus","MO","town & country store","not_available","65483",37.310315505546555,-91.96022629028322
+"65444","Bucyrus","MO","Town & Country Supermarket","South Sam Houston","65483",37.321223733099984,-91.95833506544402
+"65452","Crocker","MO","H & L Super Market","Hwy 17","65452",37.93708590086149,-92.2644168639139
+"65452","Crocker","MO","Hyvee","not_available","65049",37.95086855700493,-92.2641427828593
+"65453","Cuba","MO","Walmart","100 Ozark Dr","65453",38.07326346522235,-91.4024071905733
+"65453","Cuba","MO","Mace Supermarket","not_available","65453",38.064187358386114,-91.40448758039065
+"65453","Cuba","MO","Save-A-Lot","511 W Washington","65453",38.062304,-91.406819
+"65459","Dixon","MO","Casey's General Store","100 E 4Th St","65459",37.995021046933346,-92.09363019995017
+"65466","Eminence","MO","Tim's Bestway","300 S Main St","65466",37.14675450776679,-91.35803461074829
+"65473","Fort Leonard Wood","MO","Commissary","Illinois","65473",37.76136695686175,-92.1124005674643
+"65473","Fort Leonard Wood","MO","Fort Leonard Wood Commissary","689 Nebraska Ave","65473",37.779800012409005,-92.11765153631231
+"65486","Iberia","MO","H & L Supermarket (Iberia)","not_available","65486",38.091051200566284,-92.29512923687544
+"65536","Lebanon","MO","Walmart Supercenter","1800 S Jefferson Ave","65536",37.66351733,-92.647082
+"65536","Lebanon","MO","ALDI","668 S Jefferson Ave","65536",37.67594276263132,-92.65645701183075
+"65536","Lebanon","MO","Dolly Madison Bakery Thrift Store","208 W Bland Rd, Lebanon, MO 65536","65536",37.66150665283203,-92.65217590332031
+"65536","Lebanon","MO","Smitty's","not_available","65536",37.67556396522928,-92.65832344120486
+"65536","Lebanon","MO","Fort Bennett Trading Post","11525 Missouri 64","65536",37.713978,-92.8354
+"65536","Lebanon","MO","East 32 Meat Processing","26415 Highway 32","65536",37.666058,-92.553635
+"65548","Mountain View","MO","Walmart","101 W Us Highway 60","65548",37.00204523,-91.70635547
+"65560","Salem","MO","Country Mart","1204 E Scenic Rivers Blvd","65560",37.63607406616211,-91.5206069946289
+"65560","Salem","MO","Casey's General Store","600 S McArthur St","65560",37.639097674499006,-91.54026816167071
+"65560","Salem","MO","Walmart Supercenter","1101 W Highway 32","65560",37.63453262332473,-91.54620105774312
+"65583","Waynesville","MO","Price Cutter","300 Ichord Ave","65583",37.80982487750811,-92.22472654245081
+"65584","Saint Robert","MO","Walmart Supercenter","185 Saint Robert Blvd","65584",37.825134434037494,-92.1524321210378
+"65584","Saint Robert","MO","oriental market","not_available","65584",37.80740843728628,-92.14274899174235
+"65584","Saint Robert","MO","Seoul Grocery Market","784 Missouri Ave","65584",37.805015563964844,-92.1427001953125
+"65604","Ash Grove","MO","Pennington's Supermarket","112 East Boone Street","65604",37.31860441700224,-93.58176366055174
+"65604","Ash Grove","MO","Price Cutter","not_available","65605",37.19402480355998,-93.68106508206229
+"65605","Aurora","MO","Walmart Supercenter","3020 S Elliott Ave","65605",36.94644235619866,-93.71525627952562
+"65605","Aurora","MO","Murfin's Market","646 S Highway 60","65705",36.99448776245117,-93.63117980957031
+"65605","Aurora","MO","Price Cutter","708 S Elliott Ave","65605",36.968257904052734,-93.71773529052734
+"65606","Alton","MO","Harps Food Store","605 West Hwy 160","65606",36.69954840891558,-91.3995843650955
+"65608","Ava","MO","Walmart Supercenter","1309 Nw 12th Ave","65608",36.960214975195996,-92.67660006861516
+"65608","Ava","MO","MFA","not_available","65608",36.960825062808816,-92.66319191809028
+"65610","Billings","MO","ALDI","1434 US Highway 60 E","65738",37.13211712014386,-93.45647116962266
+"65610","Billings","MO","Walmart Supercenter","1150 Us Highway 60 E","65738",37.1278712764118,-93.45888231570831
+"65610","Billings","MO","Murfins Market","6805 Hwy 14","65631",37.037909353705864,-93.4654079206376
+"65613","Bolivar","MO","Walmart Supercenter","2451 S Springfield Ave","65613",37.592185,-93.40377
+"65613","Bolivar","MO","Woods Supermarket","703 E College St","65613",37.60662,-93.40578
+"65613","Bolivar","MO","ALDI","700 E San Martin St","65613",37.59313460211468,-93.40568661689758
+"65616","Branson","MO","Walmart Supercenter","1101 Branson Hills Pkwy","65616",36.67009042306609,-93.22964941985643
+"65616","Branson","MO","Rhodes Family Price Chopper","2210 W 76 Country Blvd","65616",36.639599,-93.26143
+"65616","Branson","MO","Walmart","2050 W 76 Country Blvd","65616",36.63962190421615,-93.25990361936503
+"65616","Branson","MO","Country Mart","1447 State Highway 248 Ste J","65616",36.66288402845345,-93.24093866167003
+"65616","Branson","MO","Harter House","Gage Dr","65672",36.60962891132035,-93.23486985629695
+"65616","Branson","MO","Country Mart","200 S Town Blvd","65672",36.61226476955416,-93.22952792936988
+"65616","Branson","MO","Nature's Sunshine Health Foods","1129 W 76 Country Blvd","65616",36.6414909362793,-93.23748779296875
+"65616","Branson","MO","Taney County Discount Grocery & Freight Outlet","Old Mill Rd","65672",36.61430809837184,-93.22916275359727
+"65616","Branson","MO","Taney County Discount Grocery Outlet","184 Industrial Park Dr","65672",36.60822467997179,-93.22414398193358
+"65616","Branson","MO","countrymart","not_available","65616",36.644072285796646,-93.23209790585913
+"65616","Branson","MO","Whiskers Country Corner","5054 Fall Creek Rd, Branson, MO 65616","65616",36.617759704589844,-93.28092193603516
+"65616","Branson","MO","ALDI","1231 Branson Hills Pkwy","65616",36.6745363,-93.2294861
+"65622","Buffalo","MO","Woods Supermarket","509 S Ash St","65622",37.6389221,-93.1043117
+"65622","Buffalo","MO","Save-a-lot","1220 S Ash St, Buffalo, MO 65622","65622",37.62890993054052,-93.10581100176286
+"65622","Buffalo","MO","Walmart","1250 W Dallas St","65622",37.639484315173334,-93.10606410939118
+"65622","Buffalo","MO","Save-A-Lot","South Highway 65","65622",37.495121,-93.144041
+"65625","Cassville","MO","Walmart Supercenter","1401 Old Exeter Road","65625",36.67694720750977,-93.88952651775472
+"65625","Cassville","MO","Price Cutter","Highway 37","65734",36.81575260398074,-93.9262068271637
+"65625","Cassville","MO","rameys Purdy mo","not_available","65734",36.81572836218205,-93.92325851901155
+"65625","Cassville","MO","Price Cutter","91 Main St","65625",36.67435836791992,-93.87103271484375
+"65648","Fair Grove","MO","Price Cutter","163 W Old Mill Rd","65648",37.3847501010512,-93.15517399179579
+"65652","Fordland","MO","Memory Lane","not_available","65652",37.15830934599726,-92.91892922287647
+"65653","Forsyth","MO","Save-A-Lot","142 Main St","65653",36.68629568335268,-93.11912909648579
+"65653","Forsyth","MO","Country Mart","15720 U.S. 160","65653-8103",36.69388275855583,-93.12242012817386
+"65655","Gainesville","MO","Town and Country Grocery","not_available","65655",36.602559401315446,-92.42772085234428
+"65656","Galena","MO","Walmart Supercenter","18401 State Hwy 13","65737",36.699771002529374,-93.37188765293739
+"65656","Galena","MO","Country Mart","17946-17986 Missouri 13","65737",36.696380319543884,-93.36913342913367
+"65656","Galena","MO","King Food Savers","not_available","65737",36.696168,-93.369234
+"65661","Greenfield","MO","Summer Fresh","Missouri 39, Greenfield, MO 65661","65661",37.41727721906405,-93.84571723889233
+"65682","Lockwood","MO","Muncy's Supermarket","not_available","65682",37.390635908612055,-93.9550836202237
+"65686","Kimberling City","MO","Harter House Supermarket","11798 State Highway 13","65686",36.630556793689806,-93.42138237346181
+"65689","Cabool","MO","G&W Foods","not_available","65793",36.99298095703125,-91.9703598022461
+"65689","Cabool","MO","Town&country","not_available","65689",37.1231726721581,-92.10332328226418
+"65692","Koshkonong","MO","Walmart","333 E Walnut St","65791",36.524372045357886,-91.5329228887287
+"65692","Koshkonong","MO","Harps Food Store","129 E Walnut St","65791",36.524925231933594,-91.53445434570312
+"65706","Marshfield","MO","Walmart Supercenter","14740 State Hwy #38","65706",37.338480360695435,-92.93969855528304
+"65706","Marshfield","MO","Price Cutter","900 W Washington St","65706",37.33552551269531,-92.9200210571289
+"65706","Marshfield","MO","Summer Fresh","not_available","65706",37.30078467110716,-93.00969686973541
+"65706","Marshfield","MO","Price Cutter","759 W Washington St","65706",37.33871573483573,-92.91739604728348
+"65708","Monett","MO","Walmart Supercenter","885 E Us Highway 60","65708",36.912291534806826,-93.9031222394202
+"65708","Monett","MO","Save-A-Lot","817 Hwy 60","65708",36.913182735443115,-93.915675
+"65708","Monett","MO","Super Mercado Plaza Mexico","1200 E Broadway St","65708",36.92353057861328,-93.91295623779297
+"65708","Monett","MO","Pierce City Dollar General","not_available","65723",36.944706,-94.00317
+"65708","Monett","MO","Save-A-Lot","817 E US Highway 60","65708",36.913021087646484,-93.9156265258789
+"65711","Mountain Grove","MO","Walmart Supercenter","2100 N Main Ave","65711",37.14962039,-92.26030101
+"65711","Mountain Grove","MO","Casey's","806 N Main St","65711",37.136065983938174,-92.26274185626599
+"65712","Mount Vernon","MO","Walmart Supercenter","500 West Mount Vernon Blvd","65712",37.09335,-93.826254
+"65712","Mount Vernon","MO","Price Cutter","615 E Mount Vernon Blvd","65712",37.093387445398164,-93.81259918405041
+"65714","Nixa","MO","Walmart Supercenter","1102 N Massey Blvd","65714",37.060771,-93.298962
+"65714","Nixa","MO","Price Cutter Plus","400 N Massey Blvd","65714",37.04653895795327,-93.3018048553168
+"65714","Nixa","MO","ALDI","310 N Old Wilderness Rd","65714",37.046130595295416,-93.30440640449518
+"65714","Nixa","MO","Harter House","Gerald Dr","65714",37.05603,-93.304931
+"65714","Nixa","MO","Price Cutter Plus","not_available","65721",37.04849693122308,-93.23605916875398
+"65714","Nixa","MO","Price Cutter","400 Massey Boulevard","65714",37.046501931347215,-93.27717315789798
+"65721","Ozark","MO","Walmart Supercenter","2004 W Marler Ln","65721",37.00183107992062,-93.2277737715063
+"65721","Ozark","MO","Price Cutter Plus","5505 N 17th St","65721",37.07165919340414,-93.22275491604017
+"65721","Ozark","MO","Murfin's Market","604 E South St","65721",37.00344090917954,-93.20178787995408
+"65721","Ozark","MO","Cash Saver","1140 W Jackson St","65721",37.02448469195668,-93.21570786089191
+"65742","Rogersville","MO","Price Cutter Plus","3260 E Battlefield St","65804",37.157274145796194,-93.22892754133767
+"65742","Rogersville","MO","Walmart Neighborhood Market","3720 East Sunshine Street","65809",37.17927946734711,-93.21777528423277
+"65742","Rogersville","MO","Harter House","1625 S Eastgate Ave","65809",37.182669421425466,-93.22346976217364
+"65742","Rogersville","MO","Associated Wholesale Grocers","3201 E Division St","65802",37.225327464491556,-93.22796518365055
+"65742","Rogersville","MO","Apple Market","319 S Main St","65742",37.11101262214153,-93.05863126044524
+"65745","Seligman","MO","Seligman Super Store","not_available","65745",36.527729944621484,-93.93607993576155
+"65746","Seymour","MO","Casey's General Store","151 Loveland St","65746",37.149858563897745,-92.75476794156066
+"65746","Seymour","MO","Shetler's","not_available","65746",37.149931830814964,-92.75364999513721
+"65746","Seymour","MO","Casey's General Store #2838","151 Loveland Ct","65746",37.149688720703125,-92.75435638427734
+"65746","Seymour","MO","Pricecutter","S. Water St.","65746",37.14678809340139,-92.76723958116877
+"65761","Theodosia","MO","Cash Saver Pantry","Hwy 160","not_available",36.58264872761065,-92.66695105136246
+"65775","West Plains","MO","Walmart Supercenter","1310 Preacher Roe Blvd","65775",36.71490730677914,-91.87113058222972
+"65775","West Plains","MO","ALDI","1210 Missouri Ave","65775",36.7430332,-91.870083
+"65775","West Plains","MO","Get & Go Safe LLC","130 N Howell Ave","65775",36.727863750636416,-91.84555732397821
+"65775","West Plains","MO","Meadowbrook","not_available","65775",36.728083,-91.8549433938259
+"65781","Willard","MO","Murfin's Market","500 S Miller Rd","65781",37.297927055900914,-93.42292017608783
+"65785","Stockton","MO","Woods Supermarket","1109 South St","65785",37.68963,-93.798664
+"65802","Springfield","MO","Walmart Supercenter","1923 E Kearney St","65803",37.24150786677525,-93.25858955799023
+"65802","Springfield","MO","Walmart Neighborhood Market","444 W Grand Street","65807",37.19652678782439,-93.29598840909885
+"65802","Springfield","MO","Walmart Neighborhood Market","1320 S Glenstone Ave","65804",37.189800907182516,-93.26131492120795
+"65802","Springfield","MO","Walmart Supercenter","2825 N Kansas Expy","65803",37.248958942143375,-93.31348053805262
+"65802","Springfield","MO","Walmart Neighborhood Market","3536 W Mount Vernon St","65802",37.20340726954038,-93.35086506421052
+"65802","Springfield","MO","Walmart Supercenter","3520 W Sunshine St","65807",37.18056687288703,-93.35240518448683
+"65802","Springfield","MO","Mama Jean's Natural Market","1727 S Campbell Ave","65807",37.1840699412353,-93.29522851692317
+"65802","Springfield","MO","ALDI","2847 E Sunshine St","65804",37.181676107711965,-93.2380626969416
+"65802","Springfield","MO","Price Cutter","712 W Commercial St","65803",37.228614807128906,-93.29872131347656
+"65802","Springfield","MO","Aldi","1645 E Kearney St","65803",37.24100343463262,-93.26396571239457
+"65802","Springfield","MO","Spring Valley Herbs & Foods","1738 W Glenstone","65804",37.18301773071289,-93.26200866699219
+"65802","Springfield","MO","Price Cutter","335 N Nolting Ave","65802",37.21062633262024,-93.34662039574965
+"65802","Springfield","MO","Bakery Outlet","2811 W Chestnut Expy","65802",37.212440490722656,-93.3332290649414
+"65802","Springfield","MO","Nadia's European Market","3023 E State Hwy D","65804",37.18082058642767,-93.23415948955879
+"65802","Springfield","MO","Well Fed Neighbor Market","1925B E Bennett St","65804",37.18937301635742,-93.25909423828125
+"65802","Springfield","MO","Wommacks Solo Market","not_available","65802",37.220564948404665,-93.29813631131326
+"65802","Springfield","MO","Bistro Market","401 South Ave","65806",37.20677376139794,-93.29240570959065
+"65802","Springfield","MO","Crosslines","1600-1778 Interstate 44 Business","65802",37.21495166609926,-93.27565507801292
+"65802","Springfield","MO","Price Cutter","1901 E Division St","65803",37.22604608878881,-93.25948486875016
+"65802","Springfield","MO","Latino Market","1661 E Saint Louis St","65802",37.209674,-93.264111
+"65802","Springfield","MO","Pricecutter Plus","712 W Commercial St, Springfield, MO 65803","65803",37.228614807128906,-93.29872131347656
+"65802","Springfield","MO","Save A Lot","1117 E Commercial St","65803",37.2311676,-93.275914
+"65802","Springfield","MO","Vapor World","2725 N Kansas Expy Ste 132","65803",37.24695288693128,-93.31225438695328
+"65803","Springfield","MO","Greene County Damaged Freight","2743 W Kearney St","65803",37.241735145315026,-93.3377086336435
+"65803","Springfield","MO","ALDI","not_available","65803",37.24081153641593,-93.29162429241549
+"65803","Springfield","MO","Dillions","1831 W Kearney St","65803",37.24180603027344,-93.3141860961914
+"65804","Springfield","MO","Walmart Supercenter","2021 E Independence St","65804",37.143736126701505,-93.25840653014616
+"65804","Springfield","MO","Aldi","421 E Battlefield St","65807",37.160932101158814,-93.29033182701096
+"65804","Springfield","MO","Mama Jean's Natural Market","1110 E Republic Rd","65807",37.137733715787434,-93.28019794223661
+"65804","Springfield","MO","Price Cutter Plus","4228 S National Ave","65810",37.136315258434905,-93.27732864840782
+"65804","Springfield","MO","Harter House","1500 E Republic Rd","65804",37.13716605279253,-93.2700144736363
+"65804","Springfield","MO","Seoul Food","3195 S Campbell Ave","65807",37.15653610229492,-93.29602813720703
+"65804","Springfield","MO","Price Cutters","372 S Barnes Ave","65802",37.202556753948706,-93.23358518249356
+"65804","Springfield","MO","Akin's Natural Foods","1344 E. Battlefield","65804",37.158857318109035,-93.27270974168881
+"65804","Springfield","MO","Food 4 Less","313 E Battlefield St","65807",37.16194539939347,-93.29252382959257
+"65804","Springfield","MO","Lucky's Market","3333-140 S Glenstone Ave","65804",37.15290467868235,-93.26408471921972
+"65804","Springfield","MO","Aldi","not_available","65807",37.16923022290383,-93.29350163104681
+"65804","Springfield","MO","Bear Necessities","1110 E Madison St","65807",37.199660465826504,-93.27848952031064
+"65806","Springfield","MO","Price Cutter","2525 W College Rd","65802",37.209686279296875,-93.32697296142578
+"65807","Springfield","MO","Hy-Vee","1720 West Battlefield Road","65807",37.15864899,-93.31526502
+"65807","Springfield","MO","Walmart Supercenter","3315 S Campbell Ave","65807",37.1537704705031,-93.29919002579499
+"65807","Springfield","MO","Walmart Neighborhood Market","3150 W Republic Rd","65807",37.137375355733674,-93.34344368093619
+"65807","Springfield","MO","Price Cutter Plus","2021 W Republic Rd","65807",37.13939526188489,-93.32140365507145
+"65807","Springfield","MO","LuPitas Mexican Store","1036 W Sunshine St","65807",37.182132720947266,-93.30547332763672
+"65807","Springfield","MO","Price Cutter","2851 W Republic Rd","65807",37.1390716103443,-93.3360901630688
+"65807","Springfield","MO","Quikdine.com","4140 S Fairview Ave","65807",37.1390259,-93.29791820000001
+"65807","Springfield","MO","Dillions Grocery Store","1707 W Battlefield St","65807",37.16079964265785,-93.31404432910564
+"65807","Springfield","MO","Binh Tay Market","1412 W Sunshine Street","65807",37.182061134535765,-93.31098103737456
+"65807","Springfield","MO","Price Cutter Plus","1720 W Grand St","65802",37.19588038573033,-93.31542609082352
+"65810","Springfield","MO","Walmart Neighborhood Market","545 El Camino Alto Dr","65810",37.133806664630136,-93.2995704636262
+"65810","Springfield","MO","Walmart Grocery Pickup","545 W El Camino Alto St","65810",37.1338351,-93.2990983
